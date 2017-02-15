@@ -171,6 +171,7 @@ but it is usually good enough.
 Version History
 ---------------
 
+0.5 - Added evaluator
 0.4 - Added annotated logical forms of the first 300 examples
       Renamed CoreNLP tagged data as `tagged` to avoid confusion
 0.3 - Repaired table headers
