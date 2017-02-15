@@ -173,11 +173,11 @@ Version History
 
 0.5 - Added evaluator
 
-0.4 - Added annotated logical forms of the first 300 examples
+0.4 - Added annotated logical forms of the first 300 examples /
       Renamed CoreNLP tagged data as `tagged` to avoid confusion
 
-0.3 - Repaired table headers
-      Added raw HTML tables
+0.3 - Repaired table headers /
+      Added raw HTML tables /
       Added CoreNLP tagged data
 
 0.2 - Initial release
