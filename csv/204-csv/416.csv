@@ -1,4 +1,5 @@
-"Chip","Flash size","EEPROM","SRAM","Frequency\\n[MHz]","Package"
+"Chip","Flash size","EEPROM","SRAM","Frequency
+[MHz]","Package"
 "AT90S1200","1k","64","0","12","PDIP-20"
 "AT90S2313","2k","128","128","10","PDIP-20"
 "AT90S/LS2323","2k","128","128","10","PDIP-8"

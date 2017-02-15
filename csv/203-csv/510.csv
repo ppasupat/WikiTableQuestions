@@ -1,4 +1,13 @@
-"Township","FIPS","Population\\ncenter","Population","Population\\ndensity\\n(/mi²)","Population\\ndensity\\n(/km²)","Land area\\n(mi²)","Land area\\n(km²)","Water area\\n(mi²)","Water area\\n(km²)","Geographic coordinates"
+"Township","FIPS","Population
+center","Population","Population
+density
+(/mi²)","Population
+density
+(/km²)","Land area
+(mi²)","Land area
+(km²)","Water area
+(mi²)","Water area
+(km²)","Geographic coordinates"
 "Bayliss","90159","","708","24.6","9.5","28.81","74.62","0.0979","0.2536","35°24′10″N 93°14′06″W﻿ / ﻿35.40278°N 93.23500°W"
 "Burnett","90558","","452","20.9","8.1","21.65","56.07","0.1051","0.2722","35°19′10″N 92°52′33″W﻿ / ﻿35.31944°N 92.87583°W"
 "Center","90735","","515","36.8","14.2","13.99","36.23","0.0339","0.0878","35°24′20″N 92°57′16″W﻿ / ﻿35.40556°N 92.95444°W"

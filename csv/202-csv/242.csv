@@ -1,5 +1,13 @@
-"Team","Year","Regular Season","Regular Season","Regular Season","Regular Season","Regular Season","Post Season","Post Season","Post Season","Post Season"
-"Team","Year","Won","Lost","Ties","Win %","Finish","Won","Lost","Win %","Result"
+"Team","Year","Regular Season
+Won","Regular Season
+Lost","Regular Season
+Ties","Regular Season
+Win %","Regular Season
+Finish","Post Season
+Won","Post Season
+Lost","Post Season
+Win %","Post Season
+Result"
 "DEN","1981","10","6","0",".625","2nd in AFC West","-","-","-","-"
 "DEN","1982","2","7","0",".222","5th in AFC West","-","-","-","-"
 "DEN","1983","9","7","0",".563","2nd in AFC West","0","1",".000","Lost to Seattle Seahawks in AFC Wild Card Game."

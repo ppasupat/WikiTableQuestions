@@ -1,4 +1,6 @@
-"Type","Power\\n[W]","Relative cost","Input range\\n[V]","Energy storage","Features"
+"Type","Power
+[W]","Relative cost","Input range
+[V]","Energy storage","Features"
 "Flyback","0–250","1.0","5–600","Mutual Inductors","Isolated form of the buck-boost converter."
 "Ringing choke converter (RCC)","0–150","1.0","5–600","Transformer","Low-cost self-oscillating flyback variant."
 "Half-forward","0–250","1.2","5–500","Inductor",""

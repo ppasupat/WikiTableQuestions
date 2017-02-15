@@ -1,4 +1,8 @@
-"Terminal","Operator","Depth\\n(m)","Berths","Quay length\\n(m)","Quay cranes","Area\\n(m²)","Capacity\\n(kTEUs)"
+"Terminal","Operator","Depth
+(m)","Berths","Quay length
+(m)","Quay cranes","Area
+(m²)","Capacity
+(kTEUs)"
 "Terminal 1 (CT1)","MTL","14","1","","4","",""
 "Terminal 2 (CT2)","MTL","14","1","","5","",""
 "Terminal 3 (CT3)","DPI","14","1","305","6","167,000",">1,200"

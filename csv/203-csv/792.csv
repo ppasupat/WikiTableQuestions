@@ -1,35 +1,189 @@
 "Event","Class","Gold","Silver","Bronze"
-"Downhill","B1-3\\ndetails","Bart Bunting\\nGuide: Nathan Chivers\\nAustralia (AUS)","Eric Villalon\\nGuide: Pere Comet\\nSpain (ESP)","Yon Santacana\\nGuide: Raul Capdevila\\nSpain (ESP)"
-"Downhill","LW2\\ndetails","Michael Milton\\nAustralia (AUS)","Christian Lanthaler\\nItaly (ITA)","Jason Lalla\\nUnited States (USA)"
-"Downhill","LW3,5/7,9\\ndetails","Gerd Schoenfelder\\nGermany (GER)","Arno Hirschbuehl\\nAustria (AUT)","Jacob Rife\\nUnited States (USA)"
-"Downhill","LW4\\ndetails","Hans Burn\\nSwitzerland (SUI)","James Lagerstrom\\nUnited States (USA)","Steven Bayley\\nNew Zealand (NZL)"
-"Downhill","LW6/8\\ndetails","Rolf Heinzmann\\nSwitzerland (SUI)","Lionel Brun\\nFrance (FRA)","Markus Pfefferle\\nGermany (GER)"
-"Downhill","LW10\\ndetails","Martin Braxenthaler\\nGermany (GER)","Chris Waddell\\nUnited States (USA)","Ronny Persson\\nSweden (SWE)"
-"Downhill","LW11\\ndetails","Harald Eder\\nAustria (AUT)","Andreas Schiestl\\nAustria (AUT)","Fabrizio Zardini\\nItaly (ITA)"
-"Downhill","LW12\\ndetails","Kevin Bramble\\nUnited States (USA)","Christopher Devlin-Young\\nUnited States (USA)","Daniel Wesley\\nCanada (CAN)"
-"Super-G","B1-3\\ndetails","Bart Bunting\\nGuide: Nathan Chivers\\nAustralia (AUS)","Eric Villalon\\nGuide: Pere Comet\\nSpain (ESP)","Yon Santacana\\nGuide: Raul Capdevila\\nSpain (ESP)"
-"Super-G","LW2\\ndetails","Michael Milton\\nAustralia (AUS)","Christian Lanthaler\\nItaly (ITA)","Florian Planker\\nItaly (ITA)"
-"Super-G","LW3,5/7,9\\ndetails","Gerd Schoenfelder\\nGermany (GER)","Romain Riboud\\nFrance (FRA)","Arno Hirschbuehl\\nAustria (AUT)"
-"Super-G","LW4\\ndetails","Hubert Mandl\\nAustria (AUT)","Josef Schoesswendter\\nAustria (AUT)","Steven Bayley\\nNew Zealand (NZL)"
-"Super-G","LW6/8\\ndetails","Rolf Heinzmann\\nSwitzerland (SUI)","Lionel Brun\\nFrance (FRA)","Wolfgang Moosbrugger\\nAustria (AUT)"
-"Super-G","LW10\\ndetails","Martin Braxenthaler\\nGermany (GER)","Ronny Persson\\nSweden (SWE)","Michael Kroener\\nGermany (GER)"
-"Super-G","LW11\\ndetails","Fabrizio Zardini\\nItaly (ITA)","Andreas Schiestl\\nAustria (AUT)","Denis Barbet\\nFrance (FRA)"
-"Super-G","LW12\\ndetails","Christopher Devlin-Young\\nUnited States (USA)","Daniel Wesley\\nCanada (CAN)","Ludwig Wolf\\nGermany (GER)"
-"Giant slalom","B1-2\\ndetails","Eric Villalon\\nGuide: Pere Comet\\nSpain (ESP)","Bart Bunting\\nGuide: Nathan Chivers\\nAustralia (AUS)","Radomir Dudas\\nGuide: Juraj Mikulas\\nSlovakia (SVK)"
-"Giant slalom","B3\\ndetails","Yon Santacana\\nGuide: Raul Capdevila\\nSpain (ESP)","Gianmaria Dal Maistro\\nGuide: Guido Lanaro\\nItaly (ITA)","Andrew Parr\\nGuide: David Marchi\\nUnited States (USA)"
-"Giant slalom","LW2\\ndetails","Michael Milton\\nAustralia (AUS)","Jason Lalla\\nUnited States (USA)","Asle Tangvik\\nNorway (NOR)"
-"Giant slalom","LW3,5/7,9\\ndetails","Gerd Schoenfelder\\nGermany (GER)","Romain Riboud\\nFrance (FRA)","Arno Hirschbuehl\\nAustria (AUT)"
-"Giant slalom","LW4\\ndetails","Steven Bayley\\nNew Zealand (NZL)","Hans Burn\\nSwitzerland (SUI)","Robert Meusburger\\nAustria (AUT)"
-"Giant slalom","LW6/8\\ndetails","Rolf Heinzmann\\nSwitzerland (SUI)","Lionel Brun\\nFrance (FRA)","Frank Pfortmueller\\nGermany (GER)"
-"Giant slalom","LW10\\ndetails","Martin Braxenthaler\\nGermany (GER)","Ronny Persson\\nSweden (SWE)","Chris Waddell\\nUnited States (USA)"
-"Giant slalom","LW11\\ndetails","Harald Eder\\nAustria (AUT)","Juergen Egle\\nAustria (AUT)","Andreas Schiestl\\nAustria (AUT)"
-"Giant slalom","LW12\\ndetails","Hans Joerg Arnold\\nSwitzerland (SUI)","Sang Min Han\\nSouth Korea (KOR)","Scott Patterson\\nCanada (CAN)"
-"Slalom","B1-2\\ndetails","Eric Villalon\\nGuide: Pere Comet\\nSpain (ESP)","Radomir Dudas\\nGuide: Juraj Mikulas\\nSlovakia (SVK)","Stefan Kopcik\\nGuide: Branislav Mazgut\\nSlovakia (SVK)"
-"Slalom","B3\\ndetails","Chris Williamson\\nGuide: Bill Harriott\\nCanada (CAN)","Andrew Parr\\nGuide: David Marchi\\nUnited States (USA)","Norbert Holik\\nGuide: Radoslav Grus\\nSlovakia (SVK)"
-"Slalom","LW2\\ndetails","Michael Milton\\nAustralia (AUS)","Monte Meier\\nUnited States (USA)","Michael Hipp\\nGermany (GER)"
-"Slalom","LW3,5/7,9\\ndetails","Gerd Schoenfelder\\nGermany (GER)","Arno Hirschbuehl\\nAustria (AUT)","Alexei Moshkine\\nRussia (RUS)"
-"Slalom","LW4\\ndetails","Hubert Mandl\\nAustria (AUT)","Hans Burn\\nSwitzerland (SUI)","Martin Falch\\nAustria (AUT)"
-"Slalom","LW6/8\\ndetails","Wolfgang Moosbrugger\\nAustria (AUT)","Rolf Heinzmann\\nSwitzerland (SUI)","Lionel Brun\\nFrance (FRA)"
-"Slalom","LW10\\ndetails","Martin Braxenthaler\\nGermany (GER)","Ronny Persson\\nSweden (SWE)","Chris Waddell\\nUnited States (USA)"
-"Slalom","LW11\\ndetails","Denis Barbet\\nFrance (FRA)","Juergen Egle\\nAustria (AUT)","Harald Eder\\nAustria (AUT)"
-"Slalom","LW12\\ndetails","Daniel Wesley\\nCanada (CAN)","Hans Joerg Arnold\\nSwitzerland (SUI)","Ludwig Wolf\\nGermany (GER)"
+"Downhill","B1-3
+details","Bart Bunting
+Guide: Nathan Chivers
+Australia (AUS)","Eric Villalon
+Guide: Pere Comet
+Spain (ESP)","Yon Santacana
+Guide: Raul Capdevila
+Spain (ESP)"
+"Downhill","LW2
+details","Michael Milton
+Australia (AUS)","Christian Lanthaler
+Italy (ITA)","Jason Lalla
+United States (USA)"
+"Downhill","LW3,5/7,9
+details","Gerd Schoenfelder
+Germany (GER)","Arno Hirschbuehl
+Austria (AUT)","Jacob Rife
+United States (USA)"
+"Downhill","LW4
+details","Hans Burn
+Switzerland (SUI)","James Lagerstrom
+United States (USA)","Steven Bayley
+New Zealand (NZL)"
+"Downhill","LW6/8
+details","Rolf Heinzmann
+Switzerland (SUI)","Lionel Brun
+France (FRA)","Markus Pfefferle
+Germany (GER)"
+"Downhill","LW10
+details","Martin Braxenthaler
+Germany (GER)","Chris Waddell
+United States (USA)","Ronny Persson
+Sweden (SWE)"
+"Downhill","LW11
+details","Harald Eder
+Austria (AUT)","Andreas Schiestl
+Austria (AUT)","Fabrizio Zardini
+Italy (ITA)"
+"Downhill","LW12
+details","Kevin Bramble
+United States (USA)","Christopher Devlin-Young
+United States (USA)","Daniel Wesley
+Canada (CAN)"
+"Super-G","B1-3
+details","Bart Bunting
+Guide: Nathan Chivers
+Australia (AUS)","Eric Villalon
+Guide: Pere Comet
+Spain (ESP)","Yon Santacana
+Guide: Raul Capdevila
+Spain (ESP)"
+"Super-G","LW2
+details","Michael Milton
+Australia (AUS)","Christian Lanthaler
+Italy (ITA)","Florian Planker
+Italy (ITA)"
+"Super-G","LW3,5/7,9
+details","Gerd Schoenfelder
+Germany (GER)","Romain Riboud
+France (FRA)","Arno Hirschbuehl
+Austria (AUT)"
+"Super-G","LW4
+details","Hubert Mandl
+Austria (AUT)","Josef Schoesswendter
+Austria (AUT)","Steven Bayley
+New Zealand (NZL)"
+"Super-G","LW6/8
+details","Rolf Heinzmann
+Switzerland (SUI)","Lionel Brun
+France (FRA)","Wolfgang Moosbrugger
+Austria (AUT)"
+"Super-G","LW10
+details","Martin Braxenthaler
+Germany (GER)","Ronny Persson
+Sweden (SWE)","Michael Kroener
+Germany (GER)"
+"Super-G","LW11
+details","Fabrizio Zardini
+Italy (ITA)","Andreas Schiestl
+Austria (AUT)","Denis Barbet
+France (FRA)"
+"Super-G","LW12
+details","Christopher Devlin-Young
+United States (USA)","Daniel Wesley
+Canada (CAN)","Ludwig Wolf
+Germany (GER)"
+"Giant slalom","B1-2
+details","Eric Villalon
+Guide: Pere Comet
+Spain (ESP)","Bart Bunting
+Guide: Nathan Chivers
+Australia (AUS)","Radomir Dudas
+Guide: Juraj Mikulas
+Slovakia (SVK)"
+"Giant slalom","B3
+details","Yon Santacana
+Guide: Raul Capdevila
+Spain (ESP)","Gianmaria Dal Maistro
+Guide: Guido Lanaro
+Italy (ITA)","Andrew Parr
+Guide: David Marchi
+United States (USA)"
+"Giant slalom","LW2
+details","Michael Milton
+Australia (AUS)","Jason Lalla
+United States (USA)","Asle Tangvik
+Norway (NOR)"
+"Giant slalom","LW3,5/7,9
+details","Gerd Schoenfelder
+Germany (GER)","Romain Riboud
+France (FRA)","Arno Hirschbuehl
+Austria (AUT)"
+"Giant slalom","LW4
+details","Steven Bayley
+New Zealand (NZL)","Hans Burn
+Switzerland (SUI)","Robert Meusburger
+Austria (AUT)"
+"Giant slalom","LW6/8
+details","Rolf Heinzmann
+Switzerland (SUI)","Lionel Brun
+France (FRA)","Frank Pfortmueller
+Germany (GER)"
+"Giant slalom","LW10
+details","Martin Braxenthaler
+Germany (GER)","Ronny Persson
+Sweden (SWE)","Chris Waddell
+United States (USA)"
+"Giant slalom","LW11
+details","Harald Eder
+Austria (AUT)","Juergen Egle
+Austria (AUT)","Andreas Schiestl
+Austria (AUT)"
+"Giant slalom","LW12
+details","Hans Joerg Arnold
+Switzerland (SUI)","Sang Min Han
+South Korea (KOR)","Scott Patterson
+Canada (CAN)"
+"Slalom","B1-2
+details","Eric Villalon
+Guide: Pere Comet
+Spain (ESP)","Radomir Dudas
+Guide: Juraj Mikulas
+Slovakia (SVK)","Stefan Kopcik
+Guide: Branislav Mazgut
+Slovakia (SVK)"
+"Slalom","B3
+details","Chris Williamson
+Guide: Bill Harriott
+Canada (CAN)","Andrew Parr
+Guide: David Marchi
+United States (USA)","Norbert Holik
+Guide: Radoslav Grus
+Slovakia (SVK)"
+"Slalom","LW2
+details","Michael Milton
+Australia (AUS)","Monte Meier
+United States (USA)","Michael Hipp
+Germany (GER)"
+"Slalom","LW3,5/7,9
+details","Gerd Schoenfelder
+Germany (GER)","Arno Hirschbuehl
+Austria (AUT)","Alexei Moshkine
+Russia (RUS)"
+"Slalom","LW4
+details","Hubert Mandl
+Austria (AUT)","Hans Burn
+Switzerland (SUI)","Martin Falch
+Austria (AUT)"
+"Slalom","LW6/8
+details","Wolfgang Moosbrugger
+Austria (AUT)","Rolf Heinzmann
+Switzerland (SUI)","Lionel Brun
+France (FRA)"
+"Slalom","LW10
+details","Martin Braxenthaler
+Germany (GER)","Ronny Persson
+Sweden (SWE)","Chris Waddell
+United States (USA)"
+"Slalom","LW11
+details","Denis Barbet
+France (FRA)","Juergen Egle
+Austria (AUT)","Harald Eder
+Austria (AUT)"
+"Slalom","LW12
+details","Daniel Wesley
+Canada (CAN)","Hans Joerg Arnold
+Switzerland (SUI)","Ludwig Wolf
+Germany (GER)"

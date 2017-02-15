@@ -1,4 +1,6 @@
-"Name","","Local names","Sort","Canton(s), neighboring countries","Area in km²","Elevation\\nm","max. depth\\nin meter"
+"Name","","Local names","Sort","Canton(s), neighboring countries","Area in km²","Elevation
+m","max. depth
+in meter"
 "Lake Geneva","","Lac Léman, Lac de Genève","Geneva","Geneva, Vaud, Valais, France","580.03","372.0","310"
 "Lake Constance","","Bodensee","Constance","St. Gallen, Thurgau, Austria, Germany","536.00","395.6","252"
 "Lake Neuchâtel","","Lac de Neuchâtel, Neuenburgersee","Neuchâtel","Berne, Fribourg, Neuchâtel, Vaud","215.20","429.4","153"
@@ -16,7 +18,9 @@
 "Sihlsee","","Sihlsee","Sihl","Schwyz","10.72","889","23"
 "Lake Hallwil","","Hallwilersee","Hallwil","Aargau, Lucerne","10.21","448.7","47"
 "Lac de la Gruyère","↑","Lac de la Gruyère","Gruyère","Fribourg","9.60","677","75"
-"Lac de Joux and\\nLac Brenet","*","Lac de Joux and\\nLac Brenet","Joux","Vaud","9.56","1004","34"
+"Lac de Joux and
+Lac Brenet","*","Lac de Joux and
+Lac Brenet","Joux","Vaud","9.56","1004","34"
 "Greifensee","","Greifensee","Greifensee","Zurich","8.17","435.1","34"
 "Lake Sarnen","","Sarnersee","Sarnen","Obwalden","7.38","468.4","52"
 "Ägerisee","","Ägerisee","Aegeri","Zug","7.25","723.9","82"
@@ -52,6 +56,7 @@
 "Göscheneralpsee","↑","Göscheneralpsee","Göscheneralp","Uri","1.32","1792","106"
 "Lago di Luzzone","↑","Lago di Luzzone","Luzzone","Ticino","1.27","1606","181"
 "Klingnauer Stausee","↑","Klingnauer Stausee","Klingnau","Aargau","1.16","318","8.5"
-"Albigna lake","↑","Lago da l'Albigna\\nLägh da l'Albigna","Albigna","Grisons","1.13","2163","108"
+"Albigna lake","↑","Lago da l'Albigna
+Lägh da l'Albigna","Albigna","Grisons","1.13","2163","108"
 "Oeschinen Lake","↑","Oeschinensee","Oeschinen","Berne","1.11","1578","56"
 "Lago del Sambuco","↑","Lago del Sambuco","Sambuco","Ticino","1.11","1461","124"

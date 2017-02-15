@@ -1,4 +1,9 @@
-"Saros","Member","Date","Time\\n(Greatest)\\nUTC","Type","Location\\nLat,Long","Gamma","Mag.","Width\\n(km)","Duration\\n(min:sec)","Ref"
+"Saros","Member","Date","Time
+(Greatest)
+UTC","Type","Location
+Lat,Long","Gamma","Mag.","Width
+(km)","Duration
+(min:sec)","Ref"
 "160","1","May 13, 2181","14:55:43","Partial","69.4S 16.9W","-1.5323","0.051","","","[1]"
 "160","2","May 24, 2199","21:42:07","Partial","68.5S 130.1W","-1.4596","0.1742","","","[2]"
 "160","3","June 5, 2217","4:22:21","Partial","67.5S 118.9E","-1.3807","0.3094","","","[3]"

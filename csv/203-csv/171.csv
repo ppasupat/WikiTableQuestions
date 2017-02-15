@@ -1,4 +1,14 @@
-"Place\\n(Posición)","Team\\n(Equipo)","Played\\n(PJ)","Won\\n(PG)","Draw\\n(PE)","Lost\\n(PP)","Goals Scored\\n(GF)","Goals Conceded\\n(GC)","+/-\\n(Dif.)","Points\\n(Pts.)"
+"Place
+(Posición)","Team
+(Equipo)","Played
+(PJ)","Won
+(PG)","Draw
+(PE)","Lost
+(PP)","Goals Scored
+(GF)","Goals Conceded
+(GC)","+/-
+(Dif.)","Points
+(Pts.)"
 "1.","Tauro F.C.","13","7","2","4","21","18","+3","23"
 "2.","San Francisco F.C.","13","5","6","2","19","15","+4","21"
 "3.","Chepo F.C.","13","5","5","3","19","12","+7","20"

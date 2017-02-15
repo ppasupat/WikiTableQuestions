@@ -1,4 +1,5 @@
-"Rank","Census subdivision","Province","Type","Land area\\n(km2, 2011)","Population 2011","Population 2006","Population 2001","Population 1996","Change in % 2006–2011","Change in % 1996–2011"
+"Rank","Census subdivision","Province","Type","Land area
+(km2, 2011)","Population 2011","Population 2006","Population 2001","Population 1996","Change in % 2006–2011","Change in % 1996–2011"
 "1","Toronto","Ontario","city","630.21","2,615,060","2,503,281","2,481,494","2,385,421","4.5","9.6"
 "2","Montreal","Quebec","ville","365.13","1,649,519","1,620,693","1,583,590","1,547,030","1.8","6.6"
 "3","Calgary","Alberta","city","825.29","1,096,833","988,193","879,003","768,082","10.9","42.7"

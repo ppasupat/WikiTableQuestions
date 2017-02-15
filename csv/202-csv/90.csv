@@ -1,11 +1,14 @@
-"Name","County","Population\\n(2012 est.)","Population\\n(2010)","Land area"
+"Name","County","Population
+(2012 est.)","Population
+(2010)","Land area"
 "Aberdeen","Grays Harbor","16,529","16,896","10.65 sq mi (27.6 km2)"
 "Airway Heights","Spokane","6,363","6,114","5.63 sq mi (14.6 km2)"
 "Algona","King","3,074","3,015","1.29 sq mi (3.3 km2)"
 "Anacortes","Skagit","15,928","15,778","11.75 sq mi (30.4 km2)"
 "Arlington","Snohomish","18,317","17,926","9.25 sq mi (24.0 km2)"
 "Asotin","Asotin","1,270","1,251","1.05 sq mi (2.7 km2)"
-"Auburn","King\\nPierce","73,505","70,180","29.62 sq mi (76.7 km2)"
+"Auburn","King
+Pierce","73,505","70,180","29.62 sq mi (76.7 km2)"
 "Bainbridge Island","Kitsap","23,263","23,025","27.61 sq mi (71.5 km2)"
 "Battle Ground","Clark","18,044","17,571","7.16 sq mi (18.5 km2)"
 "Bellevue","King","126,439","122,363","31.97 sq mi (82.8 km2)"
@@ -15,7 +18,8 @@
 "Black Diamond","King","4,237","4,151","6.01 sq mi (15.6 km2)"
 "Blaine","Whatcom","4,744","4,684","5.63 sq mi (14.6 km2)"
 "Bonney Lake","Pierce","17,964","17,374","7.94 sq mi (20.6 km2)"
-"Bothell","King\\nSnohomish","34,651","33,505","12.11 sq mi (31.4 km2)"
+"Bothell","King
+Snohomish","34,651","33,505","12.11 sq mi (31.4 km2)"
 "Bremerton","Kitsap","39,251","37,729","28.41 sq mi (73.6 km2)"
 "Brewster","Okanogan","2,386","2,370","1.19 sq mi (3.1 km2)"
 "Bridgeport","Douglas","2,444","2,409","1.05 sq mi (2.7 km2)"
@@ -54,7 +58,8 @@
 "Ellensburg","Kittitas","18,348","18,174","6.92 sq mi (17.9 km2)"
 "Elma","Grays Harbor","3,095","3,107","1.89 sq mi (4.9 km2)"
 "Entiat","Chelan","1,129","1,112","2.11 sq mi (5.5 km2)"
-"Enumclaw","King\\nPierce","11,327","10,669","4.26 sq mi (11.0 km2)"
+"Enumclaw","King
+Pierce","11,327","10,669","4.26 sq mi (11.0 km2)"
 "Ephrata","Grant","7,916","7,664","10.09 sq mi (26.1 km2)"
 "Everett","Snohomish","104,655","103,019","33.45 sq mi (86.6 km2)"
 "Everson","Whatcom","2,513","2,481","1.24 sq mi (3.2 km2)"
@@ -107,7 +112,8 @@
 "Mesa","Franklin","518","489","1.64 sq mi (4.2 km2)"
 "Mill Creek","Snohomish","18,671","18,244","4.67 sq mi (12.1 km2)"
 "Millwood","Spokane","1,797","1,786","0.70 sq mi (1.8 km2)"
-"Milton","Pierce\\nKing","7,048","6,968","2.51 sq mi (6.5 km2)"
+"Milton","Pierce
+King","7,048","6,968","2.51 sq mi (6.5 km2)"
 "Monroe","Snohomish","17,503","17,304","6.05 sq mi (15.7 km2)"
 "Montesano","Grays Harbor","3,962","3,976","10.41 sq mi (27.0 km2)"
 "Morton","Lewis","1,132","1,126","0.82 sq mi (2.1 km2)"
@@ -133,7 +139,8 @@
 "Oroville","Okanogan","1,698","1,686","1.64 sq mi (4.2 km2)"
 "Orting","Pierce","6,872","6,746","2.73 sq mi (7.1 km2)"
 "Othello","Adams","7,532","7,364","3.81 sq mi (9.9 km2)"
-"Pacific","King\\nPierce","6,838","6,606","2.42 sq mi (6.3 km2)"
+"Pacific","King
+Pierce","6,838","6,606","2.42 sq mi (6.3 km2)"
 "Palouse","Whitman","1,011","998","1.08 sq mi (2.8 km2)"
 "Pasco","Franklin","65,398","59,781","30.50 sq mi (79.0 km2)"
 "Pateros","Okanogan","673","667","0.49 sq mi (1.3 km2)"
@@ -206,7 +213,8 @@
 "White Salmon","Klickitat","2,266","2,224","1.22 sq mi (3.2 km2)"
 "Winlock","Lewis","1,346","1,339","1.29 sq mi (3.3 km2)"
 "Woodinville","King","11,234","10,938","5.60 sq mi (14.5 km2)"
-"Woodland","Cowlitz\\nClark","5,540","5,509","3.37 sq mi (8.7 km2)"
+"Woodland","Cowlitz
+Clark","5,540","5,509","3.37 sq mi (8.7 km2)"
 "Woodway","Snohomish","1,324","1,307","1.11 sq mi (2.9 km2)"
 "Yakima","Yakima","93,101","91,067","27.18 sq mi (70.4 km2)"
 "Yelm","Thurston","7,121","6,848","5.68 sq mi (14.7 km2)"

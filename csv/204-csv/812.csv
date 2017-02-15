@@ -1,4 +1,8 @@
-"#","Prime Minister","Date of birth","Start date\\nof (first) term","Age at beginning\\nof (first) term","End date\\nof (final) term","Total time in\\noffice","Date of death","Lifespan"
+"#","Prime Minister","Date of birth","Start date
+of (first) term","Age at beginning
+of (first) term","End date
+of (final) term","Total time in
+office","Date of death","Lifespan"
 "1","Edmund Barton","18 January 1849","1 January 1901","51 years, 348 days","24 September 1903","996 days","7 January 1920","25,920 days (70 years, 354 days)"
 "2","Alfred Deakin","3 August 1856","24 September 1903","47 years, 52 days","29 April 1910","1,774 days","7 October 1919","23,074 days (63 years, 65 days)"
 "3","Chris Watson","9 April 1867","27 April 1904","37 years, 18 days","18 August 1904","113 days","18 November 1941","27,251 days (74 years, 223 days)"
@@ -27,4 +31,8 @@
 "26","Kevin Rudd","21 September 1957","3 December 2007","50 years, 73 days","18 September 2013","1,017 days","","20,724 days (56 years, 270 days)"
 "27","Julia Gillard","29 September 1961","24 June 2010","48 years, 268 days","27 June 2013","1,099 days","","19,255 days (52 years, 262 days)"
 "28","Tony Abbott","4 November 1957","18 September 2013","55 years, 318 days","Incumbent","273 days","","20,680 days (56 years, 226 days)"
-"#","Prime Minister","Date of birth","Start date\\nof (first) term","Age at beginning\\nof (first) term","End date\\nof (final) term","Total time\\nin office","Date of death","Lifespan"
+"#","Prime Minister","Date of birth","Start date
+of (first) term","Age at beginning
+of (first) term","End date
+of (final) term","Total time
+in office","Date of death","Lifespan"

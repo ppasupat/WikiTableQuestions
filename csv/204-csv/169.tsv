@@ -1,5 +1,4 @@
-Athlete	Event	Race 1	Race 2	Total	Total
-Athlete	Event	Time	Time	Time	Rank
+Athlete	Event	Race 1\nTime	Race 2\nTime	Total\nTime	Total\nRank
 Stefan Shalamanov	Giant Slalom	DNF	–	DNF	–
 Borislav Dimitrachkov	Giant Slalom	DNF	–	DNF	–
 Lyubomir Popov	Giant Slalom	1:10.73	DNF	DNF	–

@@ -1,5 +1,4 @@
-Year	Date	Driver	Team	Manufacturer	Race Distance	Race Distance	Race Time	Average Speed\n(mph)	Report
-Year	Date	Driver	Team	Manufacturer	Laps	Miles (km)	Race Time	Average Speed\n(mph)	Report
+Year	Date	Driver	Team	Manufacturer	Race Distance\nLaps	Race Distance\nMiles (km)	Race Time	Average Speed\n(mph)	Report
 1997	June 22	Jeff Gordon	Hendrick Motorsports	Chevrolet	250	500 (804.672)	3:13:32	155.012	Report
 1998	May 3	Mark Martin	Roush Racing	Ford	250	500 (804.672)	3:33:57	140.22	Report
 1999	May 2	Jeff Gordon	Hendrick Motorsports	Chevrolet	250	500 (804.672)	3:19:38	150.276	Report

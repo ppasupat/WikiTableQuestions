@@ -1,5 +1,6 @@
-"Game","Day","Date","Kickoff","Opponent","Results","Results","Location","Attendance"
-"Game","Day","Date","Kickoff","Opponent","Score","Record","Location","Attendance"
+"Game","Day","Date","Kickoff","Opponent","Results
+Score","Results
+Record","Location","Attendance"
 "1","Saturday","November 9","7:05pm","at Detroit Waza","W 8–7 (OT)","1–0","Melvindale Civic Center","545"
 "2","Sunday","November 10","3:05pm","at Cleveland Freeze","L 3–11","1–1","Soccer Sportsplex","703"
 "3","Saturday","November 16","7:35pm","Detroit Waza","L 5–8","1–2","Farm Show Arena","1,605"

@@ -1,4 +1,6 @@
-"Place","Team","Played","Won","Draw","Lost","Goals\\nScored","Goals\\nConceded","+/-","Points"
+"Place","Team","Played","Won","Draw","Lost","Goals
+Scored","Goals
+Conceded","+/-","Points"
 "1.","C.D. FAS","18","10","6","2","27","13","+14","36"
 "2.","C.D. Águila","18","9","4","5","38","26","+12","31"
 "3.","C.D. Luis Ángel Firpo","18","7","7","4","25","18","+7","28"

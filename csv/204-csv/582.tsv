@@ -1,5 +1,4 @@
-Model	Launch	Code name	Fab (nm)	Bus interface	Memory (MiB)	Core clock (MHz)	Memory clock (MHz)	Config core1	Fillrate	Fillrate	Fillrate	Fillrate	Memory	Memory	Memory	DirectX support
-Model	Launch	Code name	Fab (nm)	Bus interface	Memory (MiB)	Core clock (MHz)	Memory clock (MHz)	Config core1	MOperations/s	MPixels/s	MTextels/s	MVertices/s	Bandwidth (GB/s)	Bus type	Bus width (bit)	DirectX support
+Model	Launch	Code name	Fab (nm)	Bus interface	Memory (MiB)	Core clock (MHz)	Memory clock (MHz)	Config core1	Fillrate\nMOperations/s	Fillrate\nMPixels/s	Fillrate\nMTextels/s	Fillrate\nMVertices/s	Memory\nBandwidth (GB/s)	Memory\nBus type	Memory\nBus width (bit)	DirectX support
 Voodoo Graphics	October 1, 1996	SST1	500	PCI	2, 4	50	50	1:0:1:1	50	50	50	0	0.8	EDO	128	3.0
 Voodoo Rush	April 1997	SST96	500	AGP 2x, PCI	2, 4	50	50	1:0:1:1	50	50	50	0	0.4	EDO	64	3.0
 Voodoo2	March 1, 1998	SST96	350	PCI	8, 12	90	90	1:0:2:1	90	90	180	0	0.72	EDO	64	3.0

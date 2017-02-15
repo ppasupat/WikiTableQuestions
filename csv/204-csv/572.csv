@@ -1,4 +1,10 @@
-"Rank","County","Per capita\\nincome","Median\\nhousehold\\nincome","Median\\nfamily\\nincome","Population","Number of\\nhouseholds"
+"Rank","County","Per capita
+income","Median
+household
+income","Median
+family
+income","Population","Number of
+households"
 "1","McCone","$32,205","$42,998","$52,636","1,734","774"
 "2","Gallatin","$27,423","$50,136","$65,029","89,513","36,550"
 "","United States","$27,334","$51,914","$62,982","308,745,538","116,716,292"

@@ -1,4 +1,5 @@
-"Rnd","Date","Location","Laps","Distance","Time","Speed\\n(km/h)","Winner","Pole Position","Most Leading Laps","Fastest Race Lap"
+"Rnd","Date","Location","Laps","Distance","Time","Speed
+(km/h)","Winner","Pole Position","Most Leading Laps","Fastest Race Lap"
 "1","January 24","Walt Disney World Speedway, Florida","200","200 mi (320 km)","2'06:04.000","153.186","Tony Stewart","Tony Stewart","Tony Stewart","Kenny Bräck"
 "2","March 22","Phoenix International Raceway, Arizona","200","200 mi (320 km)","2'02:18.735","157.888","Scott Sharp","Jeff Ward","Tony Stewart","Tony Stewart"
 "3","May 24","Indianapolis Motor Speedway, Indiana","200","500 mi (800 km)","3'26:40.524","233.598","Eddie Cheever","Billy Boat","Eddie Cheever","Tony Stewart"

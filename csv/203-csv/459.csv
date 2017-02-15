@@ -1,4 +1,9 @@
-"Township","FIPS","Population\\ncenter","Population","Population\\ndensity\\n/km² (/sq mi)","Land area\\nkm² (sq mi)","Water area\\nkm² (sq mi)","Water %","Geographic coordinates"
+"Township","FIPS","Population
+center","Population","Population
+density
+/km² (/sq mi)","Land area
+km² (sq mi)","Water area
+km² (sq mi)","Water %","Geographic coordinates"
 "Belleville","05575","","675","4 (11)","155 (60)","0 (0)","0.14%","37°3′50″N 96°7′48″W﻿ / ﻿37.06389°N 96.13000°W"
 "Caneyville","10425","","88","1 (2)","144 (55)","1 (0)","0.38%","37°15′23″N 96°27′27″W﻿ / ﻿37.25639°N 96.45750°W"
 "Center","11575","","75","1 (1)","144 (56)","1 (0)","0.80%","37°15′28″N 96°18′31″W﻿ / ﻿37.25778°N 96.30861°W"

@@ -1,4 +1,7 @@
-"Name","type","elevation\\n(ground station)","elevation\\n(mountain station)","slope length","capacity\\n(persons/hour)","construction year"
+"Name","type","elevation
+(ground station)","elevation
+(mountain station)","slope length","capacity
+(persons/hour)","construction year"
 "Fiesch- -alp 1+2","cable car","1074","2227","2940","800","1973"
 "Fiesch- -alp 3+4","cable car","1071","2221","2937","270","1966"
 "Fiescheralp-Eggishorn","cable car","2225","2879","1836","495","1968"

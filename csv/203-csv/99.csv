@@ -1,5 +1,7 @@
-"Season","Date","Driver","Team","Chassis","Engine","Race Distance","Race Distance","Race Time","Average Speed\\n(mph)","Report"
-"Season","Date","Driver","Team","Chassis","Engine","Laps","Miles (km)","Race Time","Average Speed\\n(mph)","Report"
+"Season","Date","Driver","Team","Chassis","Engine","Race Distance
+Laps","Race Distance
+Miles (km)","Race Time","Average Speed
+(mph)","Report"
 "2005","July 17","Sébastien Bourdais","Newman/Haas Racing","Lola","Ford-Cosworth","88","173.624 (279.42)","1:38:55","105.302","Report"
 "2006","July 23","Justin Wilson","RuSPORT","Lola","Ford-Cosworth","85","167.705 (269.895)","1:40:30","100.112","Report"
 "2007","July 22","Sébastien Bourdais","Newman/Haas/Lanigan Racing","Panoz","Cosworth","96","189.408 (304.822)","1:45:41","107.517","Report"

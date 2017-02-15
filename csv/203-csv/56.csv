@@ -1,4 +1,11 @@
-"Star","Start\\nyear","End\\nyear","Maximum\\nyear","Maximum\\nmagnitude","Distance at\\nmaximum (LY)","Current\\ndistance","Current\\nmagnitude"
+"Star","Start
+year","End
+year","Maximum
+year","Maximum
+magnitude","Distance at
+maximum (LY)","Current
+distance","Current
+magnitude"
 "Epsilon Canis Majoris","...","-4,460,000","-4,700,000","-3.99","34","430","1.50"
 "Beta Canis Majoris","-4,460,000","-3,700,000","-4,420,000","-3.65","37","500","1.99"
 "Canopus (first time)","-3,700,000","-1,370,000","-3,110,000","-1.86","177","310","-0.72"

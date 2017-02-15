@@ -1,5 +1,8 @@
-"Rank","Diver","Nationality","Preliminary","Preliminary","Final","Final"
-"Rank","Diver","Nationality","Points","Rank","Points","Rank"
+"Rank","Diver","Nationality","Preliminary
+Points","Preliminary
+Rank","Final
+Points","Final
+Rank"
 "","Shi Tingmao","China","294.65","2","318.65","1"
 "","Wang Han","China","306.60","1","310.20","2"
 "","Tania Cagnotto","Italy","253.15","12","295.45","3"

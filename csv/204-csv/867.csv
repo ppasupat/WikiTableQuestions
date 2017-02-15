@@ -1,4 +1,6 @@
-"Number","Date","Name","Age\\n(at Execution)","Age\\n(at Offense)","Race","State","Method"
+"Number","Date","Name","Age
+(at Execution)","Age
+(at Offense)","Race","State","Method"
 "1","November 2, 1984","Velma Margie Barfield","52","45","White","North Carolina","Lethal injection"
 "2","February 3, 1998","Karla Faye Tucker","38","23","White","Texas","Lethal injection"
 "3","March 30, 1998","Judias V. Buenoano","54","28","White","Florida","Electrocution"

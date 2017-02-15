@@ -1,5 +1,14 @@
-"Club","Season","League","League","FA Cup","FA Cup","League Cup","League Cup","Other","Other","Total","Total"
-"Club","Season","Apps","Goals","Apps","Goals","Apps","Goals","Apps","Goals","Apps","Goals"
+"Club","Season","League
+Apps","League
+Goals","FA Cup
+Apps","FA Cup
+Goals","League Cup
+Apps","League Cup
+Goals","Other
+Apps","Other
+Goals","Total
+Apps","Total
+Goals"
 "Bristol Rovers","2000–01","10","2","0","0","0","0","0","0","10","2"
 "Bristol Rovers","2001–02","31","3","3","0","2","0","3","0","39","3"
 "Bristol Rovers","2002–03","9","0","1","0","0","0","1","0","11","0"

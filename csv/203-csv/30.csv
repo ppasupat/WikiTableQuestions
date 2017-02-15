@@ -1,4 +1,6 @@
-"Place","Team","Played","Won","Draw","Lost","Goals\\nScored","Goals\\nConceded","+/-","Points"
+"Place","Team","Played","Won","Draw","Lost","Goals
+Scored","Goals
+Conceded","+/-","Points"
 "1.","C.D. Águila","18","9","5","4","24","19","+5","32"
 "2.","C.D. FAS","18","6","8","4","26","17","+9","26"
 "3.","C.D. Vista Hermosa","18","8","2","8","27","22","+5","26"

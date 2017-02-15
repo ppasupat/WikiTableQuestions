@@ -1,4 +1,10 @@
-"Year","Total\\npassengers","Passenger\\nChange","Domestic","International\\n(total)","International\\n(non-CIS)","CIS","Aircraft\\nLandings","Cargo\\n(tonnes)"
+"Year","Total
+passengers","Passenger
+Change","Domestic","International
+(total)","International
+(non-CIS)","CIS","Aircraft
+Landings","Cargo
+(tonnes)"
 "2000","930 251","+2%","698 957","231 294","155 898","75 396","8 619","18 344"
 "2001","1 028 295","+10,5%","733 022","295 273","186 861","108 412","9 062","22 178"
 "2002","1 182 815","+15,0%","793 295","389 520","239 461","150 059","10 162","20 153"

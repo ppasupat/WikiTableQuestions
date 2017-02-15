@@ -1,4 +1,8 @@
-"Location","Reactor type","Status","Net\\nCapacity\\n(MWe)","Gross\\nCapacity\\n(MWe)"
+"Location","Reactor type","Status","Net
+Capacity
+(MWe)","Gross
+Capacity
+(MWe)"
 "Chernobyl-1","RBMK-1000","shut down in 1996","740","800"
 "Chernobyl-2","RBMK-1000","shut down in 1991","925","1,000"
 "Chernobyl-3","RBMK-1000","shut down in 2000","925","1,000"

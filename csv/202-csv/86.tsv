@@ -1,5 +1,4 @@
-Rank	Date	Level at Trent Bridge	Level at Trent Bridge	Peak Flow	Peak Flow
-		m	ft	m3/s	cfs
+Rank\n	Date\n	Level at Trent Bridge\nm	Level at Trent Bridge\nft	Peak Flow\nm3/s	Peak Flow\ncfs
 1	February 1795	24.55	80.5	1,416	50,000
 2	October 1875	24.38	80.0	1,274	45,000
 3	March 1947	24.30	79.7	1,107	39,100

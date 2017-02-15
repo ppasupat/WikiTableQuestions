@@ -5,7 +5,8 @@
 "28","Nickel","1751","1751","F. Cronstedt","F. Cronstedt","Found by attempting to extract copper from the mineral known as fake copper (now known as niccolite)."
 "83","Bismuth","1753","","C.F. Geoffroy","","Definitively identified by Claude François Geoffroy in 1753."
 "12","Magnesium","1755","1808","J. Black","H. Davy","Black observed that magnesia alba (MgO) was not quicklime (CaO). Davy isolated the metal electrochemically from magnesia."
-"1","Hydrogen","1766","1500","H. Cavendish","Paracelsus","Cavendish was the first to distinguish H\\n2 from other gases, although Paracelsus around 1500, Robert Boyle, and Joseph Priestley had observed its production by reacting strong acids with metals. Lavoisier named it in 1793."
+"1","Hydrogen","1766","1500","H. Cavendish","Paracelsus","Cavendish was the first to distinguish H
+2 from other gases, although Paracelsus around 1500, Robert Boyle, and Joseph Priestley had observed its production by reacting strong acids with metals. Lavoisier named it in 1793."
 "8","Oxygen","1771","1771","W. Scheele","W. Scheele","Obtained it by heating mercuric oxide and nitrates in 1771, but did not publish his findings until 1777. Joseph Priestley also prepared this new air by 1774, but only Lavoisier recognized it as a true element; he named it in 1777."
 "7","Nitrogen","1772","1772","D. Rutherford","D. Rutherford","He discovered Nitrogen while he was studying at the University of Edinburgh. He showed that the air in which animals had breathed, even after removal of the exhaled carbon dioxide, was no longer able to burn a candle. Carl Wilhelm Scheele, Henry Cavendish, and Joseph Priestley also studied the element at about the same time, and Lavoisier named it in 1775-6."
 "17","Chlorine","1774","1774","W. Scheele","W. Scheele","Obtained it from hydrochloric acid, but thought it was an oxide. Only in 1808 did Humphry Davy recognize it as an element."
@@ -50,7 +51,8 @@
 "37","Rubidium","1861","","R. Bunsen and G. R. Kirchhoff","R. Bunsen","Bunsen and Kirchhoff discovered it just a few months after caesium, by observing new spectral lines in the mineral lepidolite. Bunsen never obtained a pure sample of the metal, which was later obtained by Hervesy."
 "81","Thallium","1861","1862","W. Crookes","C.-A. Lamy","Shortly after the discovery of rubidium, Crookes found a new green line in a selenium sample; later that year, Lamy found the element to be metallic."
 "49","Indium","1863","1867","F. Reich and T. Richter","T. Richter","Reich and Richter First identified it in sphalerite by its bright indigo-blue spectroscopic emission line. Richter isolated the metal several years later."
-"2","Helium","1868","1895","P. Janssen and N. Lockyer","W. Ramsay, T. Cleve, and N. Langlet","Janssen and Lockyer observed independently a yellow line in the solar spectrum that did not match any other element.\\nYears later, Ramsay, Cleve, and Langlet observed independently the element trapped in cleveite about the same time."
+"2","Helium","1868","1895","P. Janssen and N. Lockyer","W. Ramsay, T. Cleve, and N. Langlet","Janssen and Lockyer observed independently a yellow line in the solar spectrum that did not match any other element.
+Years later, Ramsay, Cleve, and Langlet observed independently the element trapped in cleveite about the same time."
 "","","1869","","D. I. Mendeleev","","Mendeleev arranges the 63 elements known at that time into the first modern periodic table and correctly predicts several others."
 "31","Gallium","1875","","P. E. L. de Boisbaudran","P. E. L. de Boisbaudran","Boisbaudran observed on a pyrenea blende sample some emission lines corresponding to the eka-aluminium that was predicted by Mendeleev in 1871 and subsequently isolated the element by electrolysis."
 "70","Ytterbium","1878","1907","J.C.G. de Marignac","G. Urbain","On October 22, 1878, Marignac reported splitting terbia into two new earths, terbia proper and ytterbia."
