@@ -1,0 +1,334 @@
+<!-- http%3A//en.wikipedia.org/wiki%3Faction%3Drender%26curid%3D11589424%26oldid%3D597627892 2014-06-17-03-47-44 -->
+<table class="vertical-navbox nowraplinks plainlist" cellspacing="5" cellpadding="0" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;"><a href="//en.wikipedia.org/wiki/Floating-point" title="Floating-point" class="mw-redirect">Floating-point</a> <a href="//en.wikipedia.org/wiki/Precision_(computer_science)" title="Precision (computer science)">precisions</a></th>
+</tr>
+<tr>
+<th style="padding:0.1em;"><a href="//en.wikipedia.org/wiki/IEEE_floating_point" title="IEEE floating point">IEEE 754</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/16-bit" title="16-bit">16-bit</a>: <a href="//en.wikipedia.org/wiki/Half-precision_floating-point_format" title="Half-precision floating-point format">Half</a> (binary16)</li>
+<li><a href="//en.wikipedia.org/wiki/32-bit" title="32-bit">32-bit</a>: <a href="//en.wikipedia.org/wiki/Single-precision_floating-point_format" title="Single-precision floating-point format">Single</a> (binary32), <a href="//en.wikipedia.org/wiki/Decimal32_floating-point_format" title="Decimal32 floating-point format">decimal32</a></li>
+<li><a href="//en.wikipedia.org/wiki/64-bit" title="64-bit" class="mw-redirect">64-bit</a>: <a href="//en.wikipedia.org/wiki/Double-precision_floating-point_format" title="Double-precision floating-point format">Double</a> (binary64), <a href="//en.wikipedia.org/wiki/Decimal64_floating-point_format" title="Decimal64 floating-point format">decimal64</a></li>
+<li><a href="//en.wikipedia.org/wiki/128-bit" title="128-bit">128-bit</a>: <a href="//en.wikipedia.org/wiki/Quadruple-precision_floating-point_format" title="Quadruple-precision floating-point format">Quadruple</a> (binary128), <a href="//en.wikipedia.org/wiki/Decimal128_floating-point_format" title="Decimal128 floating-point format">decimal128</a></li>
+<li><a href="//en.wikipedia.org/wiki/Extended_precision" title="Extended precision">Extended precision formats</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;">Other</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Minifloat" title="Minifloat">Minifloat</a></li>
+<li><a href="//en.wikipedia.org/wiki/Arbitrary-precision_arithmetic" title="Arbitrary-precision arithmetic">Arbitrary precision</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="//en.wikipedia.org/wiki/Template:Floating-point" title="Template:Floating-point"><span title="View this template" style=";">v</span></a></li>
+<li class="nv-talk"><a href="//en.wikipedia.org/wiki/Template_talk:Floating-point" title="Template talk:Floating-point"><span title="Discuss this template" style=";">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Floating-point&amp;action=edit"><span title="Edit this template" style=";">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Decimal floating point</b> arithmetic refers to both a representation and operations on <a href="//en.wikipedia.org/wiki/Decimal" title="Decimal">decimal</a> <a href="//en.wikipedia.org/wiki/Floating_point" title="Floating point">floating point</a> numbers. Working directly with decimal (base 10) fractions can avoid the rounding errors that otherwise typically occur when converting between decimal fractions (common in human-entered data, such as measurements or financial information) and binary (base 2) fractions.</p>
+<p>The advantage of decimal floating-point representation over decimal <a href="//en.wikipedia.org/wiki/Fixed-point_arithmetic" title="Fixed-point arithmetic">fixed-point</a> and <a href="//en.wikipedia.org/wiki/Integer_(computer_science)" title="Integer (computer science)">integer</a> representation is that it supports a much wider range of values. For example, while a fixed-point representation that allocates eight decimal digits and two decimal places can represent the numbers 123456.78, 8765.43, 123.00, and so on, a floating-point representation with eight decimal digits could also represent 1.2345678, 1234567.8, 0.000012345678, 12345678000000000, and so on. This wider range can dramatically slow the accumulation of rounding errors during successive calculations; for example, the <a href="//en.wikipedia.org/wiki/Kahan_summation_algorithm" title="Kahan summation algorithm">Kahan summation algorithm</a> can be used in floating point to add many numbers with no asymptotic accumulation of rounding error.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Implementations"><span class="tocnumber">1</span> <span class="toctext">Implementations</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#IEEE_754-2008_encoding"><span class="tocnumber">2</span> <span class="toctext">IEEE 754-2008 encoding</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Binary_integer_significand_field"><span class="tocnumber">2.1</span> <span class="toctext">Binary integer significand field</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Densely_packed_decimal_significand_field"><span class="tocnumber">2.2</span> <span class="toctext">Densely packed decimal significand field</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Floating_point_arithmetic_operations"><span class="tocnumber">3</span> <span class="toctext">Floating point arithmetic operations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Addition"><span class="tocnumber">3.1</span> <span class="toctext">Addition</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Multiplication"><span class="tocnumber">3.2</span> <span class="toctext">Multiplication</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Implementations">Implementations</span></h2>
+<p>Early mechanical uses of decimal floating point are evident in the <a href="//en.wikipedia.org/wiki/Abacus" title="Abacus">abacus</a>, <a href="//en.wikipedia.org/wiki/Slide_rule" title="Slide rule">slide rule</a>, the <a href="//en.wikipedia.org/w/index.php?title=Smallwood_calculator&amp;action=edit&amp;redlink=1" class="new" title="Smallwood calculator (page does not exist)">Smallwood calculator</a>, and some other <a href="//en.wikipedia.org/wiki/Calculator" title="Calculator">calculators</a> that support entries in <a href="//en.wikipedia.org/wiki/Scientific_notation" title="Scientific notation">scientific notation</a>. In the case of the mechanical calculators, the exponent is often treated as side information that is accounted for separately.</p>
+<p>Some <a href="//en.wikipedia.org/wiki/Computer_language" title="Computer language" class="mw-redirect">computer languages</a> have implementations of decimal floating point arithmetic, including <a href="//en.wikipedia.org/wiki/Java_(programming_language)" title="Java (programming language)">Java</a> with big decimal, <a href="//en.wikipedia.org/wiki/Emacs" title="Emacs">emacs</a> with calc, <a href="//en.wikipedia.org/wiki/Python_(programming_language)" title="Python (programming language)">python</a>, and in <a href="//en.wikipedia.org/wiki/Unix" title="Unix">Unix</a> the <a href="//en.wikipedia.org/wiki/Bc_programming_language" title="Bc programming language" class="mw-redirect">bc</a> and <a href="//en.wikipedia.org/wiki/Dc_(Unix)" title="Dc (Unix)" class="mw-redirect">dc</a> calculators.</p>
+<p>In 1987, the <a href="//en.wikipedia.org/wiki/IEEE" title="IEEE" class="mw-redirect">IEEE</a> released <a href="//en.wikipedia.org/wiki/IEEE_854" title="IEEE 854" class="mw-redirect">IEEE 854</a>, a standard for computing with decimal floating point, which lacked a specification for how floating point data should be encoded for interchange with other systems. This is being addressed in <a href="//en.wikipedia.org/wiki/IEEE_754-2008" title="IEEE 754-2008" class="mw-redirect">IEEE 754-2008</a> which standardizes the encodings of decimal floating point data, albeit with two different alternative encodings.</p>
+<p>IBM <a href="//en.wikipedia.org/wiki/POWER6" title="POWER6">POWER6</a> includes DFP in hardware, as does the IBM System z9.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> SilMinds offers SilAx; a configurable vector DFP <a href="//en.wikipedia.org/wiki/Coprocessor" title="Coprocessor">coprocessor</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> <a href="//en.wikipedia.org/wiki/IEEE_754-2008" title="IEEE 754-2008" class="mw-redirect">IEEE 754-2008</a> defines this in more detail.</p>
+<p>Microsoft C#, or .NET, uses System.Decimal.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="IEEE_754-2008_encoding">IEEE 754-2008 encoding</span></h2>
+<p>The <a href="//en.wikipedia.org/wiki/IEEE_754-2008" title="IEEE 754-2008" class="mw-redirect">IEEE 754-2008</a> standard defines 32-, 64- and 128-bit decimal floating-point representations. Like the binary floating-point formats, the number is divided into a sign, an exponent, and a <a href="//en.wikipedia.org/wiki/Significand" title="Significand">significand</a>. Unlike binary floating-point, numbers are not necessarily normalized; values with few <a href="//en.wikipedia.org/wiki/Significant_digits" title="Significant digits" class="mw-redirect">significant digits</a> have multiple possible representations: 1×10<sup>2</sup>=0.1×10<sup>3</sup>=0.01×10<sup>4</sup>, etc. When the significand is zero, the exponent can be any value at all.</p>
+<table class="wikitable" style="text-align:center">
+<caption>IEEE 754-2008 decimal floating-point formats</caption>
+<tr>
+<th>decimal32</th>
+<th>decimal64</th>
+<th>decimal128</th>
+<th>decimal(32<i>k</i>)</th>
+<th align="left">Format</th>
+</tr>
+<tr>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<th>Sign field (bits)</th>
+</tr>
+<tr>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<th>Combination field (bits)</th>
+</tr>
+<tr>
+<td>6</td>
+<td>8</td>
+<td>12</td>
+<td><i>w</i> = 2×<i>k</i> + 4</td>
+<th>Exponent continuation field (bits)</th>
+</tr>
+<tr>
+<td>20</td>
+<td>50</td>
+<td>110</td>
+<td><i>t</i> = 30×<i>k</i>−10</td>
+<th>Coefficient continuation field (bits)</th>
+</tr>
+<tr>
+<td>32</td>
+<td>64</td>
+<td>128</td>
+<td>32×<i>k</i></td>
+<th>Total size (bits)</th>
+</tr>
+<tr>
+<td>7</td>
+<td>16</td>
+<td>34</td>
+<td><i>p</i> = 3×<i>t</i>/10+1 = 9×<i>k</i>−2</td>
+<th>Coefficient size (decimal digits)</th>
+</tr>
+<tr>
+<td>192</td>
+<td>768</td>
+<td>12288</td>
+<td>3×2<sup><i>w</i></sup> = 48×4<sup><i>k</i></sup></td>
+<th>Exponent range</th>
+</tr>
+<tr>
+<td>96</td>
+<td>384</td>
+<td>6144</td>
+<td>Emax = 3×2<sup><i>w</i>−1</sup></td>
+<th>Largest value is 9.99...×10<sup>Emax</sup></th>
+</tr>
+<tr>
+<td>−95</td>
+<td>−383</td>
+<td>−6143</td>
+<td>Emin = 1−Emax</td>
+<th>Smallest normalized value is 1.00...×10<sup>Emin</sup></th>
+</tr>
+<tr>
+<td>−101</td>
+<td>−398</td>
+<td>−6176</td>
+<td>Etiny = 2−p−Emax</td>
+<th>Smallest non-zero value is 1×10<sup>Etiny</sup></th>
+</tr>
+</table>
+<p>The exponent ranges were chosen so that the range available to normalized values is approximately symmetrical. Since this cannot be done exactly with an even number of possible exponent values, the extra value was given to Emax.</p>
+<p>Two different representations are defined:</p>
+<ul>
+<li>One with a <b>binary integer significand field</b> encodes the significand as a large binary integer between 0 and 10<sup><i>p</i></sup>−1. This is expected to be more convenient for software implementations using a binary <a href="//en.wikipedia.org/wiki/Arithmetic_logic_unit" title="Arithmetic logic unit">ALU</a>.</li>
+<li>Another with a <b>densely packed decimal significand field</b> encodes decimal digits more directly. This makes conversion to and from binary floating-point form faster, but requires specialized hardware to manipulate efficiently. This is expected to be more convenient for hardware implementations.</li>
+</ul>
+<p>Both alternatives provide exactly the same range of representable values.</p>
+<p>The most significant two bits of the exponent are limited to the range of 0−2, and the most significant 4 bits of the significand are limited to the range of 0−9. The 30 possible combinations are encoded in a 5-bit field, along with special forms for infinity and <a href="//en.wikipedia.org/wiki/NaN" title="NaN">NaN</a>.</p>
+<p>If the most significant 4 bits of the significand are between 0 and 7, the encoded value begins as follows:</p>
+<pre>
+s 00mmm xxx   Exponent begins with 00, significand with 0mmm
+s 01mmm xxx   Exponent begins with 01, significand with 0mmm
+s 10mmm xxx   Exponent begins with 10, significand with 0mmm
+</pre>
+<p>If the leading 4 bits of the significand are binary 1000 or 1001 (decimal 8 or 9), the number begins as follows:</p>
+<pre>
+s 1100m xxx   Exponent begins with 00, significand with 100m
+s 1101m xxx   Exponent begins with 01, significand with 100m
+s 1110m xxx   Exponent begins with 10, significand with 100m
+</pre>
+<p>The leading bit (s in the above) is a sign bit, and the following bits (xxx in the above) encode the additional exponent bits and the remainder of the most significant digit, but the details vary depending on the encoding alternative used.</p>
+<p>The final combinations are used for infinities and NaNs, and are the same for both alternative encodings:</p>
+<pre>
+s 11110 x   ±Infinity (see <a href="//en.wikipedia.org/wiki/Extended_real_number_line" title="Extended real number line">Extended real number line</a>)
+s 11111 0   quiet NaN (sign bit ignored)
+s 11111 1   signaling NaN (sign bit ignored)
+</pre>
+<p>In the latter cases, all other bits of the encoding are ignored. Thus, it is possible to initialize an array to NaNs by filling it with a single byte value.</p>
+<h3><span class="mw-headline" id="Binary_integer_significand_field">Binary integer significand field</span></h3>
+<p>This format uses a binary significand from 0 to 10<sup>p</sup>−1. For example, the Decimal32 significand can be up to 10<sup>7</sup>−1 = <span style="white-space: nowrap;">9<span style="margin-left: 0.2em">999</span><span style="margin-left: 0.2em">999</span></span> = 98967F<sub>16</sub> = <span style="white-space: nowrap;">1001<span style="margin-left: 0.2em">1000100101</span><span style="margin-left: 0.2em">1001111111<sub>2</sub></span></span>. While the encoding can represent larger significands, they are illegal and the standard requires implementations to treat them as 0, if encountered on input.</p>
+<p>As described above, the encoding varies depending on whether the most significant 4 bits of the significand are in the range 0 to 7 (0000<sub>2</sub> to 0111<sub>2</sub>), or higher (1000<sub>2</sub> or 1001<sub>2</sub>).</p>
+<p>If the 2 bits after the sign bit are "00", "01", or "10", then the exponent field consists of the 8 bits following the sign bit (the 2 bits mentioned plus 6 bits of "exponent continuation field"), and the significand is the remaining 23 bits, with an implicit leading 0 bit, shown here in parentheses:</p>
+<pre>
+s 00eeeeee (0)TTTtttttttttttttttttttt
+s 01eeeeee (0)TTTtttttttttttttttttttt
+s 10eeeeee (0)TTTtttttttttttttttttttt
+</pre>
+<p>This includes <a href="//en.wikipedia.org/wiki/Subnormal_numbers" title="Subnormal numbers" class="mw-redirect">subnormal numbers</a> where the leading significand digit is 0.</p>
+<p>If the 4 bits after the sign bit are "1100", "1101", or "1110", then the 8-bit exponent field is shifted 2 bits to the right (after both the sign bit and the "11" bits thereafter), and the represented significand is in the remaining 21 bits. In this case there is an implicit (that is, not stored) leading 3-bit sequence "100" in the true significand:</p>
+<pre>
+s 11 00eeeeee (100)Ttttttttttttttttttttt
+s 11 01eeeeee (100)Ttttttttttttttttttttt
+s 11 10eeeeee (100)Ttttttttttttttttttttt
+</pre>
+<p>The "11" 2-bit sequence after the sign bit indicates that there is an <i>implicit</i> "100" 3-bit prefix to the significand.</p>
+<p>Note that the leading bits of the significand field do <i>not</i> encode the most significant decimal digit; they are simply part of a larger pure-binary number. For example, a significand of <span style="white-space: nowrap;">8<span style="margin-left: 0.2em">000</span><span style="margin-left: 0.2em">000</span></span> is encoded as binary <span style="white-space: nowrap;">0111<span style="margin-left: 0.2em">1010000100</span><span style="margin-left: 0.2em">1000000000</span></span>, with the leading 4 bits encoding 7; the first significand which requires a 24th bit (and thus the second emcoding form) is 2<sup>23</sup> = <span style="white-space: nowrap;">8<span style="margin-left: 0.2em">388</span><span style="margin-left: 0.2em">608</span></span>.</p>
+<p>In the above cases, the value represented is:</p>
+<dl>
+<dd>(−1)<sup>sign</sup> × 10<sup>exponent−101</sup> × significand</dd>
+</dl>
+<p>Decimal64 and Decimal128 operate analogously, but with larger exponent continuation and significand fields. For Decimal128, the second encoding form is actually never used; the largest valid significand of 10<sup>34</sup>−1 = 1ED09BEAD87C0378D8E63FFFFFFFF<sub>16</sub> can be represented in 113 bits.</p>
+<h3><span class="mw-headline" id="Densely_packed_decimal_significand_field">Densely packed decimal significand field</span></h3>
+<p>In this version, the significand is stored as a series of decimal digits. The leading digit is between 0 and 9 (3 or 4 binary bits), and the rest of the significand uses the <a href="//en.wikipedia.org/wiki/Densely_packed_decimal" title="Densely packed decimal">densely packed decimal</a> encoding.</p>
+<p>Unlike the binary integer significand version, where the exponent changed position and came before the significand, this encoding combines the leading 2 bits of the exponent and the leading digit (3 or 4 bits) of the significand into the five bits that follow the sign bit. This is followed by a fixed-offset exponent continuation field.</p>
+<p>Finally, the significand continuation field made of 2, 5, or 11 10-bit "declets", each encoding 3 decimal digits.</p>
+<p>If the first two bits after the sign bit are "00", "01", or "10", then those are the leading bits of the exponent, and the three bits after that are interpreted as the leading decimal digit (0 to 7):<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<pre>
+  Comb.   Exponent    Significand
+s 00 TTT (00)eeeeee (0TTT)[tttttttttt][tttttttttt]
+s 01 TTT (01)eeeeee (0TTT)[tttttttttt][tttttttttt]
+s 10 TTT (10)eeeeee (0TTT)[tttttttttt][tttttttttt]
+</pre>
+<p>If the 4 bits after the sign bit are "1100", "1101", or "1110", then the second two bits are the leading bits of the exponent, and the last bit is prefixed with "100" to form the leading decimal digit (8 or 9):</p>
+<pre>
+  Comb.   Exponent    Significand
+s 1100 T (00)eeeeee (100T)[tttttttttt][tttttttttt]
+s 1101 T (01)eeeeee (100T)[tttttttttt][tttttttttt]
+s 1110 T (10)eeeeee (100T)[tttttttttt][tttttttttt]
+</pre>
+<p>The remaining two combinations (11110 and 11111) of the 5-bit field are used to represent ±infinity and NaNs, respectively.</p>
+<h2><span class="mw-headline" id="Floating_point_arithmetic_operations">Floating point arithmetic operations</span></h2>
+<p>The usual rule for performing floating point arithmetic is that the exact mathematical value is calculated,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> and the result is then rounded to the nearest representable value in the specified precision. This is in fact the behavior mandated for IEEE-compliant computer hardware, under normal rounding behavior and in the absence of exceptional conditions.</p>
+<p>For ease of presentation and understanding, 7 digit precision will be used in the examples. The fundamental principles are the same in any precision.</p>
+<h3><span class="mw-headline" id="Addition">Addition</span></h3>
+<p>A simple method to add floating point numbers is to first represent them with the same exponent. In the example below, the second number is shifted right by three digits. We proceed with the usual addition method:</p>
+<p>The following example is decimal, which simply means the base is 10.</p>
+<pre>
+  123456.7 = 1.234567 * 10^5
+  101.7654 = 1.017654 * 10^2 = 0.001017654 * 10^5 simply
+</pre>
+<pre>
+  Hence:
+  123456.7 + 101.7654 = (1.234567 * 10^5) + (1.017654 * 10^2) =
+  = (1.234567 * 10^5) + (0.001017654 * 10^5) =
+                      = 10^5 * ( 1.234567 + 0.001017654 ) = 10^5 * 1.235584654. simply
+</pre>
+<p>This is nothing else as converting to engineering notation. In detail:</p>
+<pre>
+  e=5;  s=1.234567     (123456.7)
++ e=2;  s=1.017654     (101.7654)
+</pre>
+<pre>
+  e=5;  s=1.234567
++ e=5;  s=0.001017654  (after shifting)
+--------------------
+  e=5;  s=1.235584654  (true sum: 123558.4654)
+</pre>
+<p>This is the true result, the exact sum of the operands. It will be rounded to seven digits and then normalized if necessary. The final result is</p>
+<pre>
+  e=5;  s=1.235585    (final sum: 123558.5)
+</pre>
+<p>Note that the low 3 digits of the second operand (654) are essentially lost. This is <a href="//en.wikipedia.org/wiki/Round-off_error" title="Round-off error">round-off error</a>. In extreme cases, the sum of two non-zero numbers may be equal to one of them:</p>
+<pre>
+  e=5;  s=1.234567
++ e=-3; s=9.876543
+</pre>
+<pre>
+  e=5;  s=1.234567
++ e=5;  s=0.00000009876543 (after shifting)
+----------------------
+  e=5;  s=1.23456709876543 (true sum)
+  e=5;  s=1.234567         (after rounding/normalization)
+</pre>
+<p>Another problem of loss of significance occurs when two close numbers are subtracted. e=5; s=1.234571 and e=5; s=1.234567 are representations of the rationals 123457.1467 and 123456.659.</p>
+<pre>
+  e=5;  s=1.234571
+- e=5;  s=1.234567
+----------------
+  e=5;  s=0.000004
+  e=-1; s=4.000000 (after rounding/normalization)
+</pre>
+<p>The best representation of this difference is e=-1; s=4.877000, which differs more than 20% from e=-1; s=4.000000. In extreme cases, the final result may be zero even though an exact calculation may be several million. This <i><a href="//en.wikipedia.org/wiki/Loss_of_significance" title="Loss of significance">cancellation</a></i> illustrates the danger in assuming that all of the digits of a computed result are meaningful.</p>
+<p>Dealing with the consequences of these errors are topics in <a href="//en.wikipedia.org/wiki/Numerical_analysis" title="Numerical analysis">numerical analysis</a>.</p>
+<h3><span class="mw-headline" id="Multiplication">Multiplication</span></h3>
+<p>To multiply, the significands are multiplied while the exponents are added, and the result is rounded and normalized.</p>
+<pre>
+  e=3;  s=4.734612
+× e=5;  s=5.417242
+-----------------------
+  e=8;  s=25.648538980104 (true product)
+  e=8;  s=25.64854        (after rounding)
+  e=9;  s=2.564854        (after normalization)
+</pre>
+<p>Division is done similarly, but that is more complicated.</p>
+<p>There are no cancellation or absorption problems with multiplication or division, though small errors may accumulate as operations are performed repeatedly. In practice, the way these operations are carried out in digital logic can be quite complex.</p>
+<div class="hatnote">Further information: <a href="//en.wikipedia.org/wiki/Booth%27s_multiplication_algorithm" title="Booth's multiplication algorithm">Booth's multiplication algorithm</a> and <a href="//en.wikipedia.org/wiki/Division_algorithm" title="Division algorithm">Division algorithm</a></div>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Binary-coded_decimal" title="Binary-coded decimal">Binary-coded decimal</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www-306.ibm.com/common/ssi/rep_ca/0/897/ENUS107-190/ENUS107190.PDF">http://www-306.ibm.com/common/ssi/rep_ca/0/897/ENUS107-190/ENUS107190.PDF</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.silminds.com/decimal-products/accelerator-cards/76">http://www.silminds.com/decimal-products/accelerator-cards/76</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.yoda.arachsys.com/csharp/decimal.html">http://www.yoda.arachsys.com/csharp/decimal.html</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://speleotrove.com/decimal/dbspec.html">Decimal Encoding Specification, version 1.00</a>, from IBM</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Computer hardware doesn't necessarily compute the exact value; it simply has to produce the equivalent rounded result as though it had computed the infinitely precise result.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://speleotrove.com/decimal/IEEE-cowlishaw-arith16.pdf">Decimal Floating-Point: Algorism for Computers</a>, Proceedings of the 16th IEEE Symposium on Computer Arithmetic (<a href="//en.wikipedia.org/wiki/Mike_Cowlishaw" title="Mike Cowlishaw">Cowlishaw, M. F.</a>, 2003)</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://speleotrove.com/decimal/">General Decimal Arithmetic</a> (includes decNumber library)</li>
+<li><a rel="nofollow" class="external text" href="http://software.intel.com/en-us/blogs/2008/03/06/intel-decimal-floating-point-math-library/">Intel Decimal Floating-Point Math Library</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.bytereef.org/mpdecimal/index.html">libmpdec - arbitrary precision decimal floating point C/C++ library</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1057
+CPU time usage: 0.256 seconds
+Real time usage: 0.287 seconds
+Preprocessor visited node count: 528/1000000
+Preprocessor generated node count: 1741/1500000
+Post‐expand include size: 6690/2048000 bytes
+Template argument size: 151/2048000 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 2/500
+Lua time usage: 0.016/10.000 seconds
+Lua memory usage: 613 KB/50 MB
+-->

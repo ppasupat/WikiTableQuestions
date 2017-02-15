@@ -1,0 +1,510 @@
+<!-- http%3A//en.wikipedia.org/wiki%3Faction%3Drender%26curid%3D237720%26oldid%3D600245928 2014-06-09-18-32-09 -->
+<div class="hatnote">This article is about the programming language.  For the eighth circle of hell in Dante's Inferno, see <a href="//en.wikipedia.org/wiki/Malebolge" title="Malebolge">Malebolge</a>.</div>
+<table class="metadata plainlinks ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/f/f4/Ambox_content.png" width="40" height="40" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text">
+<table class="collapsible" style="width:95%; background:transparent;">
+<tr>
+<th style="text-align:left; padding:0.2em 2px 0.2em 0;">This article has multiple issues. <span style="font-weight: normal;">Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Malbolge&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="//en.wikipedia.org/wiki/Talk:Malbolge" title="Talk:Malbolge">talk page</a></b>.</span></th>
+</tr>
+<tr>
+<td>
+<table class="metadata plainlinks ambox ambox-style ambox-lead_too_short" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article's <b><a href="//en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Lead_section" title="Wikipedia:Manual of Style/Lead section">lead section</a> may not adequately <a href="//en.wikipedia.org/wiki/Wikipedia:Summary_style" title="Wikipedia:Summary style">summarize</a> key points of its contents</b>. <span class="hide-when-compact">Please consider expanding the lead to <a href="//en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Lead_section#Provide_an_accessible_overview" title="Wikipedia:Manual of Style/Lead section">provide an accessible overview</a> of all important aspects of the article.</span> <small><i>(May 2012)</i></small></span></td>
+</tr>
+</table>
+<table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px;"><a href="//en.wikipedia.org/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="//en.wikipedia.org/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Malbolge&amp;action=edit">improve this article</a> by <a href="//en.wikipedia.org/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(November 2011)</i></small></span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><b>Malbolge</b> is a <a href="//en.wikipedia.org/wiki/Public_domain" title="Public domain">public domain</a> <a href="//en.wikipedia.org/wiki/Esoteric_programming_language" title="Esoteric programming language">esoteric programming language</a> invented by <a href="//en.wikipedia.org/w/index.php?title=Ben_Olmstead&amp;action=edit&amp;redlink=1" class="new" title="Ben Olmstead (page does not exist)">Ben Olmstead</a> in 1998, named after the eighth circle of hell in <a href="//en.wikipedia.org/wiki/Dante_Alighieri" title="Dante Alighieri">Dante</a>'s <i><a href="//en.wikipedia.org/wiki/Inferno_(Dante)" title="Inferno (Dante)">Inferno</a></i>, the <a href="//en.wikipedia.org/wiki/Malebolge" title="Malebolge">Malebolge</a>.</p>
+<p>Malbolge was specifically designed to be impossible to write useful programs in. Weaknesses in the design have been found that make it possible (though still very difficult) to write Malbolge programs in an organized fashion.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Programming_in_Malbolge"><span class="tocnumber">1</span> <span class="toctext">Programming in Malbolge</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.22Hello_World.21.22_in_Malbolge"><span class="tocnumber">2</span> <span class="toctext">"Hello World!" in Malbolge</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Workings"><span class="tocnumber">3</span> <span class="toctext">Workings</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Notes"><span class="tocnumber">3.1</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Registers"><span class="tocnumber">3.2</span> <span class="toctext">Registers</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Pointer_notation"><span class="tocnumber">3.3</span> <span class="toctext">Pointer notation</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Memory"><span class="tocnumber">3.4</span> <span class="toctext">Memory</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Instructions"><span class="tocnumber">3.5</span> <span class="toctext">Instructions</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Crazy.5Bcitation_needed.5D_operation"><span class="tocnumber">3.6</span> <span class="toctext"><span><i>Crazy</i></span><sup>[<i><span>citation needed</span></i>]</sup> operation</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Encryption"><span class="tocnumber">3.7</span> <span class="toctext">Encryption</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#Method_1"><span class="tocnumber">3.7.1</span> <span class="toctext">Method 1</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Method_2"><span class="tocnumber">3.7.2</span> <span class="toctext">Method 2</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Cycles_in_the_encryption"><span class="tocnumber">3.7.3</span> <span class="toctext">Cycles in the encryption</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Variants"><span class="tocnumber">4</span> <span class="toctext">Variants</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Popular_culture"><span class="tocnumber">5</span> <span class="toctext">Popular culture</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Programming_in_Malbolge">Programming in Malbolge</span></h2>
+<p>Malbolge was so difficult to understand when it arrived that it took two years for the first Malbolge program to appear. That program was not written by a human being: it was generated by a <a href="//en.wikipedia.org/wiki/Beam_search" title="Beam search">beam search</a> algorithm designed by Andrew Cooke and implemented in <a href="//en.wikipedia.org/wiki/Lisp_programming_language" title="Lisp programming language" class="mw-redirect">Lisp</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>Later, Lou Scheffer posted a <a href="//en.wikipedia.org/wiki/Cryptanalysis" title="Cryptanalysis">cryptanalysis</a> of Malbolge and provided a program to copy its input to its output.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>Olmstead believed Malbolge to be a <a href="//en.wikipedia.org/wiki/Linear_bounded_automaton" title="Linear bounded automaton">linear bounded automaton</a>. There is a discussion about whether one can implement sensible loops in Malbolge — it took many years before the first non-terminating one was introduced. A correct <a href="//en.wikipedia.org/wiki/99_Bottles_of_Beer" title="99 Bottles of Beer">99 Bottles of Beer</a> program, which deals with non-trivial loops and conditions, was not announced for seven years; the first correct one was by Hisashi Iizawa in 2005.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id=".22Hello_World.21.22_in_Malbolge">"Hello World!" in Malbolge</span></h2>
+<p>This Malbolge program displays "<a href="//en.wikipedia.org/wiki/Hello_world_program" title="Hello world program">Hello World!</a>", with both words capitalized and exclamation mark at the end.</p>
+<pre>
+<code>('&amp;%:9]!~}|z2Vxwv-,POqponl$Hjig%eB@@&gt;}=&lt;M:9wv6WsU2T|nm-,jcL(I&amp;%$#"
+`CB]V?Tx&lt;uVtT`Rpo3NlF.Jh++FdbCBA@?]!~|4XzyTT43Qsqq(Lnmkj"Fhg${z@&gt;</code>
+</pre>
+<p>A significantly shorter version:</p>
+<pre>
+<code>(=&lt;`#9]~6ZY32Vx/4Rs+0No-&amp;Jk)"Fh}|Bcy?`=*z]Kw%oG4UUS0/@-ejc(:'8dc</code>
+</pre>
+<h2><span class="mw-headline" id="Workings">Workings</span></h2>
+<p>Malbolge is <a href="//en.wikipedia.org/wiki/Machine_language" title="Machine language" class="mw-redirect">machine language</a> for a <a href="//en.wikipedia.org/wiki/Ternary_numeral_system" title="Ternary numeral system">ternary</a> <a href="//en.wikipedia.org/wiki/Virtual_machine" title="Virtual machine">virtual machine</a>, the Malbolge <a href="//en.wikipedia.org/wiki/Interpreter_(computing)" title="Interpreter (computing)">interpreter</a>.</p>
+<h3><span class="mw-headline" id="Notes">Notes</span></h3>
+<ul>
+<li>The standard interpreter and the official specification do not match perfectly.</li>
+<li>This is a simplified explanation of the interpreter <a href="//en.wikipedia.org/wiki/Source_code" title="Source code">source code</a>: it omits useless encryption and subtraction steps and introduces an <a href="//en.wikipedia.org/wiki/Assembly_language" title="Assembly language">assembly language</a>.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="//en.wikipedia.org/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research"><span title="The material near this tag possibly contains original research. (January 2014)">original research?</span></a></i>]</sup></li>
+</ul>
+<h3><span class="mw-headline" id="Registers">Registers</span></h3>
+<p>Malbolge has three <a href="//en.wikipedia.org/wiki/Processor_register" title="Processor register">registers</a>, <i><b>a</b></i>, <i><b>c</b></i>, and <i><b>d</b></i>. When a program starts, the value of all three registers is zero. <i><b>c</b></i> is special: it <a href="//en.wikipedia.org/wiki/Program_counter" title="Program counter">points to the current instruction</a>.</p>
+<h3><span class="mw-headline" id="Pointer_notation">Pointer notation</span></h3>
+<p><i><b>d</b></i> can hold a memory address; <i><b>[d]</b></i> is the value stored at that address. <i><b>[c]</b></i> is similar.</p>
+<h3><span class="mw-headline" id="Memory">Memory</span></h3>
+<p>The virtual machine has 59049 (3<sup>10</sup>) <a href="//en.wikipedia.org/wiki/Random_access_memory" title="Random access memory" class="mw-redirect">memory</a> locations that can each hold a ten-digit <a href="//en.wikipedia.org/wiki/Ternary_numeral_system" title="Ternary numeral system">ternary number</a>. Each memory location has an address from 0 to 59048 and can hold a value from 0 to 59048. Incrementing past this limit wraps back to zero.</p>
+<p>Before a Malbolge program starts, the first part of memory is filled with the program. All whitespace in the program is ignored and, to make programming more difficult, everything else in the program must start out as one of the instructions below.</p>
+<p>The rest of memory is filled by using the <i>crazy</i> operation (see below) on the previous two addresses (<b>[m]&#160;=&#160;crz&#160;[m&#160;-&#160;2],&#160;[m&#160;-&#160;1]</b>). Memory filled this way will repeat every twelve addresses (the individual ternary digits will repeat every three or four addresses, so a group of ternary digits is guaranteed to repeat every twelve).</p>
+<h3><span class="mw-headline" id="Instructions">Instructions</span></h3>
+<p>Malbolge has eight <a href="//en.wikipedia.org/wiki/Opcode" title="Opcode">instructions</a>. Malbolge figures out which instruction to execute by taking the value at <i><b>[c]</b></i>, adding the value of <i><b>c</b></i> to it, and taking the remainder when this is divided by 94. The final result tells the interpreter what to do:</p>
+<table style="margin:auto;" class="wikitable">
+<caption>Instructions</caption>
+<tr style="text-align:center;">
+<th>Value of<br />
+([c]&#160;+&#160;c)&#160;%&#160;94</th>
+<th>Instruction represented</th>
+<th>Explanation</th>
+</tr>
+<tr style="text-align:center;">
+<th>4</th>
+<td><i>jmp&#160;[d]&#160;+&#160;1</i></td>
+<td style="text-align:left;">The value at <i><b>[d]</b></i>, plus one, is where Malbolge will jump to and start executing instructions.</td>
+</tr>
+<tr style="text-align:center;">
+<th>5</th>
+<td><i>out&#160;a</i></td>
+<td style="text-align:left;">Prints the value of <i><b>a</b></i>, as an <a href="//en.wikipedia.org/wiki/ASCII" title="ASCII">ASCII</a> character, to the screen.</td>
+</tr>
+<tr style="text-align:center;">
+<th>23</th>
+<td><i>in&#160;a</i></td>
+<td style="text-align:left;">Inputs a character, as an ASCII code, into <i><b>a</b></i>. Newlines or line feeds are both code <i>10</i>. An end-of-file condition is code <i>59048</i>.</td>
+</tr>
+<tr style="text-align:center;">
+<th>39</th>
+<td><i>rotr&#160;[d]</i><br />
+<i>mov&#160;a,&#160;[d]</i></td>
+<td style="text-align:left;">Rotates the value at <i><b>[d]</b></i> by one ternary digit (000211111<i><b>2</b></i> becomes <i><b>2</b></i>000211111). Stores the result both at <i><b>[d]</b></i> and in <i><b>a</b></i>.</td>
+</tr>
+<tr style="text-align:center;">
+<th>40</th>
+<td><i>mov&#160;d,&#160;[d]</i></td>
+<td style="text-align:left;">Copies the value at <i><b>[d]</b></i> to <i><b>d</b></i>.</td>
+</tr>
+<tr style="text-align:center;">
+<th>62</th>
+<td><i>crz&#160;[d],&#160;a</i><br />
+<i>mov&#160;a,&#160;[d]</i></td>
+<td style="text-align:left;">Does the <i>crazy</i> operation (see below) with the value at <i><b>[d]</b></i> and the value of <i><b>a</b></i>. Stores the result both at <i><b>[d]</b></i> and in <i><b>a</b></i>.</td>
+</tr>
+<tr style="text-align:center;">
+<th>68</th>
+<td><i>nop</i></td>
+<td style="text-align:left;">Does nothing.</td>
+</tr>
+<tr style="text-align:center;">
+<th>81</th>
+<td><i>end</i></td>
+<td style="text-align:left;">Ends the Malbolge program.</td>
+</tr>
+<tr style="text-align:center;">
+<td colspan="3"><i>Any other value does the same as <b>68</b>: nothing. These other values are not allowed in a program while it is being loaded, but are allowed afterwards.</i></td>
+</tr>
+</table>
+<p>After each instruction is executed, the guilty instruction gets encrypted (see below) so that it won't do the same thing next time, unless a jump just happened. Right after a jump, Malbolge will encrypt the innocent instruction just prior to the one it jumped to instead. Then, the values of both <i><b>c</b></i> and <i><b>d</b></i> are increased by one and the next instruction is executed.</p>
+<h3><span class="mw-headline" id="Crazy.5Bcitation_needed.5D_operation"><span class="citation-needed-content" style="background-color: #fff9f9; color: DarkSlateGray; border: 1px solid #ffdcdc;"><i>Crazy</i></span><sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="//en.wikipedia.org/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="Name Crazy isn't found in source material, see talk page (December 2010)">citation needed</span></a></i>]</sup> operation</span></h3>
+<p>For each ternary digit of both inputs, use the following table to get a ternary digit of the result. For example, <b>crz&#160;0001112220,&#160;0120120120</b> gives 1001022211.</p>
+<table style="margin:auto;" class="wikitable">
+<caption><i>Crazy</i> operation</caption>
+<tr style="text-align:center;">
+<th colspan="2" rowspan="2">crz</th>
+<th colspan="3">Input 2</th>
+</tr>
+<tr style="text-align:center;">
+<th>0</th>
+<th>1</th>
+<th>2</th>
+</tr>
+<tr style="text-align:center;">
+<th rowspan="3">Input 1</th>
+<th>0</th>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr style="text-align:center;">
+<th>1</th>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr style="text-align:center;">
+<th>2</th>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Encryption">Encryption</span></h3>
+<p>After an instruction is executed, the value at <i><b>[c]</b></i> (without anything added to it) will be replaced with itself <a href="//en.wikipedia.org/wiki/Modulo_operation" title="Modulo operation">mod</a> 94. Then, the result is <a href="//en.wikipedia.org/wiki/Encryption" title="Encryption">encrypted</a> with one of the following two equivalent <a href="//en.wikipedia.org/wiki/Substitution_cipher" title="Substitution cipher">methods</a>.</p>
+<h4><span class="mw-headline" id="Method_1">Method 1</span></h4>
+<p>Find the result below. Store the ASCII code of the character below it at <i><b>[c]</b></i>.</p>
+<pre>
+0000000000111111111122222222223333333333444444444455555555556666666666777777777788888888889999
+0123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123
+----------------------------------------------------------------------------------------------
+9m&lt;.TVac`uY*MK'X~xDl}REokN:#?G"i@5z]&amp;gqtyfr$(we4{WP)H-Zn,[%\3dL+Q;&gt;U!pJS72FhOA1CB6v^=I_0/8|jsb
+</pre>
+<h4><span class="mw-headline" id="Method_2">Method 2</span></h4>
+<p>Find the result below. Store the encrypted version at <i><b>[c]</b></i>.</p>
+<table style="margin:auto;" class="wikitable">
+<caption>Encryption table</caption>
+<tr style="text-align:center;">
+<th>Result</th>
+<th>Encrypted</th>
+<th>Result</th>
+<th>Encrypted</th>
+<th>Result</th>
+<th>Encrypted</th>
+<th>Result</th>
+<th>Encrypted</th>
+<th>Result</th>
+<th>Encrypted</th>
+</tr>
+<tr style="text-align:center;">
+<td><b>0</b></td>
+<td>57</td>
+<td><b>19</b></td>
+<td>108</td>
+<td><b>38</b></td>
+<td>113</td>
+<td><b>57</b></td>
+<td>91</td>
+<td><b>76</b></td>
+<td>79</td>
+</tr>
+<tr style="text-align:center;">
+<td><b>1</b></td>
+<td>109</td>
+<td><b>20</b></td>
+<td>125</td>
+<td><b>39</b></td>
+<td>116</td>
+<td><b>58</b></td>
+<td>37</td>
+<td><b>77</b></td>
+<td>65</td>
+</tr>
+<tr style="text-align:center;">
+<td><b>2</b></td>
+<td>60</td>
+<td><b>21</b></td>
+<td>82</td>
+<td><b>40</b></td>
+<td>121</td>
+<td><b>59</b></td>
+<td>92</td>
+<td><b>78</b></td>
+<td>49</td>
+</tr>
+<tr style="text-align:center;">
+<td><b>3</b></td>
+<td>46</td>
+<td><b>22</b></td>
+<td>69</td>
+<td><b>41</b></td>
+<td>102</td>
+<td><b>60</b></td>
+<td>51</td>
+<td><b>79</b></td>
+<td>67</td>
+</tr>
+<tr style="text-align:center;">
+<td><b>4</b></td>
+<td>84</td>
+<td><b>23</b></td>
+<td>111</td>
+<td><b>42</b></td>
+<td>114</td>
+<td><b>61</b></td>
+<td>100</td>
+<td><b>80</b></td>
+<td>66</td>
+</tr>
+<tr style="text-align:center;">
+<td><b>5</b></td>
+<td>86</td>
+<td><b>24</b></td>
+<td>107</td>
+<td><b>43</b></td>
+<td>36</td>
+<td><b>62</b></td>
+<td>76</td>
+<td><b>81</b></td>
+<td>54</td>
+</tr>
+<tr style="text-align:center;">
+<td><b>6</b></td>
+<td>97</td>
+<td><b>25</b></td>
+<td>78</td>
+<td><b>44</b></td>
+<td>40</td>
+<td><b>63</b></td>
+<td>43</td>
+<td><b>82</b></td>
+<td>118</td>
+</tr>
+<tr style="text-align:center;">
+<td><b>7</b></td>
+<td>99</td>
+<td><b>26</b></td>
+<td>58</td>
+<td><b>45</b></td>
+<td>119</td>
+<td><b>64</b></td>
+<td>81</td>
+<td><b>83</b></td>
+<td>94</td>
+</tr>
+<tr style="text-align:center;">
+<td><b>8</b></td>
+<td>96</td>
+<td><b>27</b></td>
+<td>35</td>
+<td><b>46</b></td>
+<td>101</td>
+<td><b>65</b></td>
+<td>59</td>
+<td><b>84</b></td>
+<td>61</td>
+</tr>
+<tr style="text-align:center;">
+<td><b>9</b></td>
+<td>117</td>
+<td><b>28</b></td>
+<td>63</td>
+<td><b>47</b></td>
+<td>52</td>
+<td><b>66</b></td>
+<td>62</td>
+<td><b>85</b></td>
+<td>73</td>
+</tr>
+<tr style="text-align:center;">
+<td><b>10</b></td>
+<td>89</td>
+<td><b>29</b></td>
+<td>71</td>
+<td><b>48</b></td>
+<td>123</td>
+<td><b>67</b></td>
+<td>85</td>
+<td><b>86</b></td>
+<td>95</td>
+</tr>
+<tr style="text-align:center;">
+<td><b>11</b></td>
+<td>42</td>
+<td><b>30</b></td>
+<td>34</td>
+<td><b>49</b></td>
+<td>87</td>
+<td><b>68</b></td>
+<td>33</td>
+<td><b>87</b></td>
+<td>48</td>
+</tr>
+<tr style="text-align:center;">
+<td><b>12</b></td>
+<td>77</td>
+<td><b>31</b></td>
+<td>105</td>
+<td><b>50</b></td>
+<td>80</td>
+<td><b>69</b></td>
+<td>112</td>
+<td><b>88</b></td>
+<td>47</td>
+</tr>
+<tr style="text-align:center;">
+<td><b>13</b></td>
+<td>75</td>
+<td><b>32</b></td>
+<td>64</td>
+<td><b>51</b></td>
+<td>41</td>
+<td><b>70</b></td>
+<td>74</td>
+<td><b>89</b></td>
+<td>56</td>
+</tr>
+<tr style="text-align:center;">
+<td><b>14</b></td>
+<td>39</td>
+<td><b>33</b></td>
+<td>53</td>
+<td><b>52</b></td>
+<td>72</td>
+<td><b>71</b></td>
+<td>83</td>
+<td><b>90</b></td>
+<td>124</td>
+</tr>
+<tr style="text-align:center;">
+<td><b>15</b></td>
+<td>88</td>
+<td><b>34</b></td>
+<td>122</td>
+<td><b>53</b></td>
+<td>45</td>
+<td><b>72</b></td>
+<td>55</td>
+<td><b>91</b></td>
+<td>106</td>
+</tr>
+<tr style="text-align:center;">
+<td><b>16</b></td>
+<td>126</td>
+<td><b>35</b></td>
+<td>93</td>
+<td><b>54</b></td>
+<td>90</td>
+<td><b>73</b></td>
+<td>50</td>
+<td><b>92</b></td>
+<td>115</td>
+</tr>
+<tr style="text-align:center;">
+<td><b>17</b></td>
+<td>120</td>
+<td><b>36</b></td>
+<td>38</td>
+<td><b>55</b></td>
+<td>110</td>
+<td><b>74</b></td>
+<td>70</td>
+<td><b>93</b></td>
+<td>98</td>
+</tr>
+<tr style="text-align:center;">
+<td><b>18</b></td>
+<td>68</td>
+<td><b>37</b></td>
+<td>103</td>
+<td><b>56</b></td>
+<td>44</td>
+<td><b>75</b></td>
+<td>104</td>
+</tr>
+</table>
+<h4><span class="mw-headline" id="Cycles_in_the_encryption">Cycles in the encryption</span></h4>
+<p>Lou Scheffer's cryptanalysis of Malbolge mentions six different cycles in the encryption. They are listed here:</p>
+<ul>
+<li>33 ⇒ 53 ⇒ 45 ⇒ 119 ⇒ 78 ⇒ 49 ⇒ 87 ⇒ 48 ⇒ 123 ⇒ 71 ⇒ 83 ⇒ 94 ⇒ 57 ⇒ 91 ⇒ 106 ⇒ 77 ⇒ 65 ⇒ 59 ⇒ 92 ⇒ 115 ⇒ 82 ⇒ 118 ⇒ 107 ⇒ 75 ⇒ 104 ⇒ 89 ⇒ 56 ⇒ 44 ⇒ 40 ⇒ 121 ⇒ 35 ⇒ 93 ⇒ 98 ⇒ 84 ⇒ 61 ⇒ 100 ⇒ 97 ⇒ 46 ⇒ 101 ⇒ 99 ⇒ 86 ⇒ 95 ⇒ 109 ⇒ 88 ⇒ 47 ⇒ 52 ⇒ 72 ⇒ 55 ⇒ 110 ⇒ 126 ⇒ 64 ⇒ 81 ⇒ 54 ⇒ 90 ⇒ 124 ⇒ 34 ⇒ 122 ⇒ 63 ⇒ 43 ⇒ 36 ⇒ 38 ⇒ 113 ⇒ 108 ⇒ 39 ⇒ 116 ⇒ 69 ⇒ 112 ⇒ 68 ⇒ 33 ...</li>
+<li>37 ⇒ 103 ⇒ 117 ⇒ 111 ⇒ 120 ⇒ 58 ⇒ 37 ...</li>
+<li>41 ⇒ 102 ⇒ 96 ⇒ 60 ⇒ 51 ⇒ 41 ...</li>
+<li>42 ⇒ 114 ⇒ 125 ⇒ 105 ⇒ 42 ...</li>
+<li>50 ⇒ 80 ⇒ 66 ⇒ 62 ⇒ 76 ⇒ 79 ⇒ 67 ⇒ 85 ⇒ 73 ⇒ 50 ...</li>
+<li>70 ⇒ 74 ⇒ 70 ...</li>
+</ul>
+<p>These cycles can be used to create loops that do different things each time and that eventually become repetitive. Lou Scheffer used this idea to create a Malbolge program (included in his cryptanalysis linked below) that repeats anything the user inputs.</p>
+<h2><span class="mw-headline" id="Variants">Variants</span></h2>
+<p>Malbolge is not <a href="//en.wikipedia.org/wiki/Turing-complete_language" title="Turing-complete language" class="mw-redirect">Turing-complete</a>, due to its memory limits. Several attempts have been made to create Turing-complete versions of Malbolge.</p>
+<ul>
+<li>Malbolge-T is a theoretical version of Malbolge that resets the input/output stream upon reaching the end, allowing for unbounded programs. Malbolge-T would be <a href="//en.wikipedia.org/wiki/Backward_compatibility" title="Backward compatibility">backward compatible</a> with Malbolge.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></li>
+<li>Malbolge Unshackled is a hopefully Turing-complete variation, allowing for programs of any length. However, due to command variations to allow for values above 257, valid Malbolge programs will not necessarily run correctly in Malbolge Unshackled.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Popular_culture">Popular culture</span></h2>
+<p>In an episode of the television series <a href="//en.wikipedia.org/wiki/Elementary_(TV_series)" title="Elementary (TV series)"><i>Elementary</i></a>, a clue written on a coffee order is described as having been written in Malbolge.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> (The actual code seems to be the <a href="#.22Hello_World.21.22_in_Malbolge">above Hello World! program</a> (first version) with a few variations; i.e. the first Y in the first line, replaced by z, the 6 in the first line replaced by a <a href="//en.wikipedia.org/wiki/Caret" title="Caret">caret</a>, the single left quotes in the second line replaced with carets, extra characters between the fdb and CBA, a ~ (tilde) replaced by a dash, etc.)</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div class="noprint tright portal" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em;">
+<table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px;">
+<tr valign="middle">
+<td style="text-align:center;"><a href="//en.wikipedia.org/wiki/File:Free_and_open-source_software_logo_(2009).svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/28px-Free_and_open-source_software_logo_%282009%29.svg.png" width="28" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/42px-Free_and_open-source_software_logo_%282009%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/56px-Free_and_open-source_software_logo_%282009%29.svg.png 2x" data-file-width="512" data-file-height="512" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold;"><a href="//en.wikipedia.org/wiki/Portal:Free_software" title="Portal:Free software">Free software portal</a></td>
+</tr>
+</table>
+</div>
+<ul>
+<li><a href="//en.wikipedia.org/wiki/INTERCAL" title="INTERCAL">INTERCAL</a></li>
+<li><a href="//en.wikipedia.org/wiki/Obfuscated_code" title="Obfuscated code" class="mw-redirect">Obfuscated code</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://acooke.org/malbolge.html">"andrew cooke: malbolge "hello world<span style="padding-right:0.2em;">"</span>"</a>. Acooke.org<span class="reference-accessdate">. Retrieved 2012-11-06</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMalbolge&amp;rft.btitle=andrew+cooke%3A+malbolge+%22hello+world%22&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Facooke.org%2Fmalbolge.html&amp;rft.pub=Acooke.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.lscheffer.com/malbolge.shtml">Programming in Malbolge</a>. Lscheffer.com (2007-12-11). Retrieved on 2011-11-21.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.99-bottles-of-beer.net/language-malbolge-995.html">"Language Malbolge"</a>. 99 Bottles of Beer<span class="reference-accessdate">. Retrieved 2012-11-06</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMalbolge&amp;rft.btitle=Language+Malbolge&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.99-bottles-of-beer.net%2Flanguage-malbolge-995.html&amp;rft.pub=99+Bottles+of+Beer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.lscheffer.com/malbolge.shtml#Turing">"Introduction to Malbolge, Proving formal Turing completeness"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMalbolge&amp;rft.btitle=Introduction+to+Malbolge%2C+Proving+formal+Turing+completeness&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.lscheffer.com%2Fmalbolge.shtml%23Turing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://esolangs.org/wiki/Malbolge_Unshackled">Malbolge Unshackled – Esolang</a>. Esolangs.org (2010-11-24). Retrieved on 2011-11-21.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation episode">"Leviathan". <i><a href="//en.wikipedia.org/wiki/Elementary_(TV_series)" title="Elementary (TV series)">Elementary</a></i>. Season 1. Episode 10. 2012-12-14. <a href="//en.wikipedia.org/wiki/CBS" title="CBS">CBS</a>.</span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.lscheffer.com/malbolge_interp.html">Malbolge interpreter (C source code)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.acooke.org/malbolge.html">Description of Andrew Cooke's algorithm for creating the first Malbolge program</a></li>
+<li><a rel="nofollow" class="external text" href="http://esoteric.voxelperfect.net/wiki/Malbolge_programming">Treatise on writing Malbolge programs; takes Scheffer's analysis a bit further</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.99-bottles-of-beer.net/language-malbolge-995.html">"99 bottles" in Malbolge (real loop version)</a></li>
+<li><a rel="nofollow" class="external text" href="http://blol.org/735-malbolge-desmistificado">Malbolge SDK – A collection of programs to make your life easier when coding in Malbolge (In Portuguese)</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1171
+CPU time usage: 0.644 seconds
+Real time usage: 0.714 seconds
+Preprocessor visited node count: 1950/1000000
+Preprocessor generated node count: 19570/1500000
+Post‐expand include size: 27302/2048000 bytes
+Template argument size: 3721/2048000 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 8/500
+Lua time usage: 0.073/10.000 seconds
+Lua memory usage: 2.04 MB/50 MB
+-->

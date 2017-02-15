@@ -1,0 +1,467 @@
+<!-- http%3A//en.wikipedia.org/wiki%3Faction%3Drender%26curid%3D51761%26oldid%3D591181650 2014-06-07-16-12-49 -->
+<div class="hatnote">"Gamma encoding" redirects here. For the signal processing operation, see <a href="//en.wikipedia.org/wiki/Gamma_correction" title="Gamma correction">gamma correction</a>.</div>
+<p><b>Elias gamma code</b> is a <a href="//en.wikipedia.org/wiki/Universal_code_(data_compression)" title="Universal code (data compression)">universal code</a> encoding positive integers developed by <a href="//en.wikipedia.org/wiki/Peter_Elias" title="Peter Elias">Peter Elias</a><sup id="cite_ref-Elias_1-0" class="reference"><a href="#cite_note-Elias-1"><span>[</span>1<span>]</span></a></sup><sup class="reference" style="white-space:nowrap;">:197, 199</sup>. It is used most commonly when coding integers whose upper-bound cannot be determined beforehand.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Encoding"><span class="tocnumber">1</span> <span class="toctext">Encoding</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Decoding"><span class="tocnumber">2</span> <span class="toctext">Decoding</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Uses"><span class="tocnumber">3</span> <span class="toctext">Uses</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Generalizations"><span class="tocnumber">4</span> <span class="toctext">Generalizations</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Encoding">Encoding</span></h2>
+<p>To code a <a href="//en.wikipedia.org/wiki/Number" title="Number">number</a>:</p>
+<ol>
+<li>Write it in <a href="//en.wikipedia.org/wiki/Binary_numeral_system" title="Binary numeral system" class="mw-redirect">binary</a>.</li>
+<li>Subtract 1 from the number of bits written in step 1 and prepend that many zeros.</li>
+</ol>
+<p>An equivalent way to express the same process:</p>
+<ol>
+<li>Separate the integer into the highest power of 2 it contains (2<sup><i>N</i></sup>) and the remaining <i>N</i> binary digits of the integer.</li>
+<li>Encode <i>N</i> in <a href="//en.wikipedia.org/wiki/Unary_numeral_system" title="Unary numeral system">unary</a>; that is, as <i>N</i> zeroes followed by a one.</li>
+<li>Append the remaining <i>N</i> binary digits to this representation of <i>N</i>.</li>
+</ol>
+<p>To represent a number <img class="mwe-math-fallback-png-inline tex" alt="x" src="//upload.wikimedia.org/math/9/d/d/9dd4e461268c8034f5c8564e155c67a6.png" />, Elias gamma uses <img class="mwe-math-fallback-png-inline tex" alt="2 \lfloor \log_2(x) \rfloor  + 1" src="//upload.wikimedia.org/math/4/2/8/428e6128a2c11a94310662d825e4dd2c.png" /> bits<sup id="cite_ref-Elias_1-1" class="reference"><a href="#cite_note-Elias-1"><span>[</span>1<span>]</span></a></sup><sup class="reference" style="white-space:nowrap;">:199</sup>.</p>
+<p>The code begins (the <a href="//en.wikipedia.org/w/index.php?title=Implied_probability&amp;action=edit&amp;redlink=1" class="new" title="Implied probability (page does not exist)">implied probability</a> distribution for the code is added for clarity):</p>
+<table class="wikitable">
+<tr>
+<th>Number</th>
+<th>Encoding</th>
+<th>Implied probability</th>
+</tr>
+<tr>
+<td>1 = 2<sup>0</sup> + <i>0</i></td>
+<td><code>1</code></td>
+<td>1/2</td>
+</tr>
+<tr>
+<td>2 = 2<sup>1</sup> + <i>0</i></td>
+<td><code>01<i>0</i></code></td>
+<td>1/8</td>
+</tr>
+<tr>
+<td>3 = 2<sup>1</sup> + <i>1</i></td>
+<td><code>01<i>1</i></code></td>
+<td>1/8</td>
+</tr>
+<tr>
+<td>4 = 2<sup>2</sup> + <i>0</i></td>
+<td><code>001<i>00</i></code></td>
+<td>1/32</td>
+</tr>
+<tr>
+<td>5 = 2<sup>2</sup> + <i>1</i></td>
+<td><code>001<i>01</i></code></td>
+<td>1/32</td>
+</tr>
+<tr>
+<td>6 = 2<sup>2</sup> + <i>2</i></td>
+<td><code>001<i>10</i></code></td>
+<td>1/32</td>
+</tr>
+<tr>
+<td>7 = 2<sup>2</sup> + <i>3</i></td>
+<td><code>001<i>11</i></code></td>
+<td>1/32</td>
+</tr>
+<tr>
+<td>8 = 2<sup>3</sup> + <i>0</i></td>
+<td><code>0001<i>000</i></code></td>
+<td>1/128</td>
+</tr>
+<tr>
+<td>9 = 2<sup>3</sup> + <i>1</i></td>
+<td><code>0001<i>001</i></code></td>
+<td>1/128</td>
+</tr>
+<tr>
+<td>10 = 2<sup>3</sup> + <i>2</i></td>
+<td><code>0001<i>010</i></code></td>
+<td>1/128</td>
+</tr>
+<tr>
+<td>11 = 2<sup>3</sup> + <i>3</i></td>
+<td><code>0001<i>011</i></code></td>
+<td>1/128</td>
+</tr>
+<tr>
+<td>12 = 2<sup>3</sup> + <i>4</i></td>
+<td><code>0001<i>100</i></code></td>
+<td>1/128</td>
+</tr>
+<tr>
+<td>13 = 2<sup>3</sup> + <i>5</i></td>
+<td><code>0001<i>101</i></code></td>
+<td>1/128</td>
+</tr>
+<tr>
+<td>14 = 2<sup>3</sup> + <i>6</i></td>
+<td><code>0001<i>110</i></code></td>
+<td>1/128</td>
+</tr>
+<tr>
+<td>15 = 2<sup>3</sup> + <i>7</i></td>
+<td><code>0001<i>111</i></code></td>
+<td>1/128</td>
+</tr>
+<tr>
+<td>16 = 2<sup>4</sup> + <i>0</i></td>
+<td><code>00001<i>0000</i></code></td>
+<td>1/512</td>
+</tr>
+<tr>
+<td>17 = 2<sup>4</sup> + <i>1</i></td>
+<td><code>00001<i>0001</i></code></td>
+<td>1/512</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Decoding">Decoding</span></h2>
+<p>To decode an Elias gamma-coded integer:</p>
+<ol>
+<li>Read and count 0s from the stream until you reach the first 1. Call this count of zeroes <i>N</i>.</li>
+<li>Considering the one that was reached to be the first digit of the integer, with a value of 2<sup><i>N</i></sup>, read the remaining <i>N</i> digits of the integer.</li>
+</ol>
+<h2><span class="mw-headline" id="Uses">Uses</span></h2>
+<p>Gamma coding is used in applications where the largest encoded value is not known ahead of time, or to <a href="//en.wikipedia.org/wiki/Data_compression" title="Data compression">compress</a> data in which small values are much more frequent than large values.</p>
+<h2><span class="mw-headline" id="Generalizations">Generalizations</span></h2>
+<p>Gamma coding does not code zero or negative integers. One way of handling zero is to add 1 before coding and then subtract 1 after decoding. Another way is to prefix each nonzero code with a 1 and then code zero as a single 0. One way to code all integers is to set up a <a href="//en.wikipedia.org/wiki/Bijection" title="Bijection">bijection</a>, mapping integers (0, 1, -1, 2, -2, 3, -3, ...) to (1, 2, 3, 4, 5, 6, 7, ...) before coding.</p>
+<p><a href="//en.wikipedia.org/wiki/Exponential-Golomb_coding" title="Exponential-Golomb coding">Exponential-Golomb coding</a> generalizes the gamma code to integers with a "flatter" power-law distribution, just as <a href="//en.wikipedia.org/wiki/Golomb_coding" title="Golomb coding">Golomb coding</a> generalizes the unary code. It involves dividing the number by a positive divisor, commonly a power of 2, writing the gamma code for one more than the quotient, and writing out the remainder in an ordinary binary code.</p>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Elias-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Elias_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Elias_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Elias, Peter (March 1975). <a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=1055349">"Universal codeword sets and representations of the integers"</a>. <i><a href="//en.wikipedia.org/wiki/IEEE_Transactions_on_Information_Theory" title="IEEE Transactions on Information Theory">IEEE Transactions on Information Theory</a></i> <b>21</b> (2): 194–203.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElias+gamma+coding&amp;rft.atitle=Universal+codeword+sets+and+representations+of+the+integers&amp;rft.au=Elias%2C+Peter&amp;rft.aufirst=Peter&amp;rft.aulast=Elias&amp;rft.date=March+1975&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fieeexplore.ieee.org%2Fxpl%2Ffreeabs_all.jsp%3Farnumber%3D1055349&amp;rft.issue=2&amp;rft.jtitle=IEEE+Transactions+on+Information+Theory&amp;rft.pages=194-203&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=21" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<ul>
+<li><span class="citation book">Sayood, Khalid (2003). "Levenstein and Elias Gamma Codes". <i>Lossless Compression Handbook</i>. Elsevier. <a href="//en.wikipedia.org/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="//en.wikipedia.org/wiki/Special:BookSources/978-0-12-620861-0" title="Special:BookSources/978-0-12-620861-0">978-0-12-620861-0</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElias+gamma+coding&amp;rft.atitle=Lossless+Compression+Handbook&amp;rft.aufirst=Khalid&amp;rft.aulast=Sayood&amp;rft.au=Sayood%2C+Khalid&amp;rft.btitle=Levenstein+and+Elias+Gamma+Codes&amp;rft.date=2003&amp;rft.genre=bookitem&amp;rft.isbn=978-0-12-620861-0&amp;rft.pub=Elsevier&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Elias_delta_coding" title="Elias delta coding">Elias delta coding</a></li>
+<li><a href="//en.wikipedia.org/wiki/Elias_omega_coding" title="Elias omega coding">Elias omega coding</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="//en.wikipedia.org/wiki/Template:Compression_methods" title="Template:Compression methods"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="//en.wikipedia.org/wiki/Template_talk:Compression_methods" title="Template talk:Compression methods"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Compression_methods&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;"><a href="//en.wikipedia.org/wiki/Data_compression" title="Data compression">Data compression</a> methods</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="//en.wikipedia.org/wiki/Information_theory" title="Information theory">Information theory</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Entropy_(information_theory)" title="Entropy (information theory)">Entropy</a></li>
+<li><a href="//en.wikipedia.org/wiki/Kolmogorov_complexity" title="Kolmogorov complexity">Kolmogorov complexity</a></li>
+<li><a href="//en.wikipedia.org/wiki/Lossy_compression" title="Lossy compression">Lossy</a></li>
+<li><a href="//en.wikipedia.org/wiki/Quantization_(signal_processing)" title="Quantization (signal processing)">Quantization</a></li>
+<li><a href="//en.wikipedia.org/wiki/Rate%E2%80%93distortion_theory" title="Rate–distortion theory">Rate–distortion theory</a></li>
+<li><a href="//en.wikipedia.org/wiki/Redundancy_(information_theory)" title="Redundancy (information theory)">Redundancy</a></li>
+<li><a href="//en.wikipedia.org/wiki/Timeline_of_information_theory" title="Timeline of information theory">Timeline of information theory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="//en.wikipedia.org/wiki/Lossless_compression" title="Lossless compression">Lossless</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;"><a href="//en.wikipedia.org/wiki/Entropy_encoding" title="Entropy encoding">Entropy encoding</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Unary_coding" title="Unary coding">Unary</a></li>
+<li><a href="//en.wikipedia.org/wiki/Arithmetic_coding" title="Arithmetic coding">Arithmetic</a></li>
+<li><a href="//en.wikipedia.org/wiki/Golomb_coding" title="Golomb coding">Golomb</a></li>
+<li><a href="//en.wikipedia.org/wiki/Huffman_coding" title="Huffman coding">Huffman</a>
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Adaptive_Huffman_coding" title="Adaptive Huffman coding">Adaptive</a></li>
+<li><a href="//en.wikipedia.org/wiki/Canonical_Huffman_code" title="Canonical Huffman code">Canonical</a></li>
+<li><a href="//en.wikipedia.org/wiki/Modified_Huffman_coding" title="Modified Huffman coding">Modified</a></li>
+</ul>
+</li>
+<li><a href="//en.wikipedia.org/wiki/Range_encoding" title="Range encoding">Range</a></li>
+<li><a href="//en.wikipedia.org/wiki/Shannon%E2%80%93Fano_coding" title="Shannon–Fano coding">Shannon–Fano</a></li>
+<li><a href="//en.wikipedia.org/wiki/Shannon%E2%80%93Fano%E2%80%93Elias_coding" title="Shannon–Fano–Elias coding">Shannon–Fano–Elias</a></li>
+<li><a href="//en.wikipedia.org/wiki/Tunstall_coding" title="Tunstall coding">Tunstall</a></li>
+<li><a href="//en.wikipedia.org/wiki/Universal_code_(data_compression)" title="Universal code (data compression)">Universal</a>
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Exponential-Golomb_coding" title="Exponential-Golomb coding">Exp-Golomb</a></li>
+<li><a href="//en.wikipedia.org/wiki/Fibonacci_coding" title="Fibonacci coding">Fibonacci</a></li>
+<li><strong class="selflink">Gamma</strong></li>
+<li><a href="//en.wikipedia.org/wiki/Levenshtein_coding" title="Levenshtein coding">Levenshtein</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;"><a href="//en.wikipedia.org/wiki/Dictionary_coder" title="Dictionary coder">Dictionary</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Byte_pair_encoding" title="Byte pair encoding">Byte pair encoding</a></li>
+<li><a href="//en.wikipedia.org/wiki/DEFLATE" title="DEFLATE">DEFLATE</a></li>
+<li>Lempel–Ziv
+<ul>
+<li><a href="//en.wikipedia.org/wiki/LZ77_and_LZ78" title="LZ77 and LZ78">LZ77 and LZ78</a></li>
+<li><a href="//en.wikipedia.org/wiki/LZJB" title="LZJB">LZJB</a></li>
+<li><a href="//en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm" title="Lempel–Ziv–Markov chain algorithm">LZMA</a></li>
+<li><a href="//en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Oberhumer" title="Lempel–Ziv–Oberhumer">LZO</a></li>
+<li><a href="//en.wikipedia.org/wiki/LZRW" title="LZRW">LZRW</a></li>
+<li><a href="//en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Stac" title="Lempel–Ziv–Stac">LZS</a></li>
+<li><a href="//en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Storer%E2%80%93Szymanski" title="Lempel–Ziv–Storer–Szymanski">LZSS</a></li>
+<li><a href="//en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch" title="Lempel–Ziv–Welch">LZW</a></li>
+<li><a href="//en.wikipedia.org/wiki/LZWL" title="LZWL">LZWL</a></li>
+<li><a href="//en.wikipedia.org/wiki/LZX_(algorithm)" title="LZX (algorithm)">LZX</a></li>
+<li><a href="//en.wikipedia.org/wiki/LZ4_(compression_algorithm)" title="LZ4 (compression algorithm)">LZ4</a></li>
+<li><a href="//en.wikipedia.org/wiki/Statistical_Lempel_Ziv" title="Statistical Lempel Ziv">Statistical Lempel Ziv</a></li>
+</ul>
+</li>
+<li><a href="//en.wikipedia.org/wiki/Run-length_encoding" title="Run-length encoding">RLE</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;">Other methods</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform" title="Burrows–Wheeler transform">BWT</a></li>
+<li><a href="//en.wikipedia.org/wiki/Context_tree_weighting" title="Context tree weighting">CTW</a></li>
+<li><a href="//en.wikipedia.org/wiki/Delta_encoding" title="Delta encoding">Delta</a></li>
+<li><a href="//en.wikipedia.org/wiki/Dynamic_Markov_compression" title="Dynamic Markov compression">DMC</a></li>
+<li><a href="//en.wikipedia.org/wiki/Move-to-front_transform" title="Move-to-front transform">MTF</a></li>
+<li><a href="//en.wikipedia.org/wiki/Prediction_by_partial_matching" title="Prediction by partial matching">PPM</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="//en.wikipedia.org/wiki/Audio_compression_(data)" title="Audio compression (data)" class="mw-redirect">Audio</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Bit_rate" title="Bit rate">Bit rate</a>
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Average_bitrate" title="Average bitrate">ABR</a></li>
+<li><a href="//en.wikipedia.org/wiki/Constant_bitrate" title="Constant bitrate">CBR</a></li>
+<li><a href="//en.wikipedia.org/wiki/Variable_bitrate" title="Variable bitrate">VBR</a></li>
+</ul>
+</li>
+<li><a href="//en.wikipedia.org/wiki/Companding" title="Companding">Companding</a></li>
+<li><a href="//en.wikipedia.org/wiki/Convolution" title="Convolution">Convolution</a></li>
+<li><a href="//en.wikipedia.org/wiki/Dynamic_range" title="Dynamic range">Dynamic range</a></li>
+<li><a href="//en.wikipedia.org/wiki/Latency_(audio)" title="Latency (audio)">Latency</a></li>
+<li><a href="//en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem" title="Nyquist–Shannon sampling theorem">Nyquist–Shannon theorem</a></li>
+<li><a href="//en.wikipedia.org/wiki/Sampling_(signal_processing)" title="Sampling (signal processing)">Sampling</a></li>
+<li><a href="//en.wikipedia.org/wiki/Sound_quality" title="Sound quality">Sound quality</a></li>
+<li><a href="//en.wikipedia.org/wiki/Speech_coding" title="Speech coding">Speech coding</a></li>
+<li><a href="//en.wikipedia.org/wiki/Sub-band_coding" title="Sub-band coding">Sub-band coding</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;"><a href="//en.wikipedia.org/wiki/Audio_codec" title="Audio codec">Audio codec</a> parts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/A-law_algorithm" title="A-law algorithm">A-law</a></li>
+<li><a href="//en.wikipedia.org/wiki/%CE%9C-law_algorithm" title="Μ-law algorithm">μ-law</a></li>
+<li><a href="//en.wikipedia.org/wiki/Algebraic_code-excited_linear_prediction" title="Algebraic code-excited linear prediction">ACELP</a></li>
+<li><a href="//en.wikipedia.org/wiki/Adaptive_differential_pulse-code_modulation" title="Adaptive differential pulse-code modulation">ADPCM</a></li>
+<li><a href="//en.wikipedia.org/wiki/Code-excited_linear_prediction" title="Code-excited linear prediction">CELP</a></li>
+<li><a href="//en.wikipedia.org/wiki/Differential_pulse-code_modulation" title="Differential pulse-code modulation">DPCM</a></li>
+<li><a href="//en.wikipedia.org/wiki/Fourier_transform" title="Fourier transform">Fourier transform</a></li>
+<li><a href="//en.wikipedia.org/wiki/Linear_predictive_coding" title="Linear predictive coding">LPC</a>
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Log_area_ratio" title="Log area ratio">LAR</a></li>
+<li><a href="//en.wikipedia.org/wiki/Line_spectral_pairs" title="Line spectral pairs">LSP</a></li>
+</ul>
+</li>
+<li><a href="//en.wikipedia.org/wiki/Modified_discrete_cosine_transform" title="Modified discrete cosine transform">MDCT</a></li>
+<li><a href="//en.wikipedia.org/wiki/Psychoacoustics" title="Psychoacoustics">Psychoacoustic model</a></li>
+<li><a href="//en.wikipedia.org/wiki/Warped_linear_predictive_coding" title="Warped linear predictive coding">WLPC</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="//en.wikipedia.org/wiki/Image_compression" title="Image compression">Image</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;">Concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Chroma_subsampling" title="Chroma subsampling">Chroma subsampling</a></li>
+<li><a href="//en.wikipedia.org/wiki/Coding_tree_unit" title="Coding tree unit">Coding tree unit</a></li>
+<li><a href="//en.wikipedia.org/wiki/Color_space" title="Color space">Color space</a></li>
+<li><a href="//en.wikipedia.org/wiki/Compression_artifact" title="Compression artifact">Compression artifact</a></li>
+<li><a href="//en.wikipedia.org/wiki/Image_resolution" title="Image resolution">Image resolution</a></li>
+<li><a href="//en.wikipedia.org/wiki/Macroblock" title="Macroblock">Macroblock</a></li>
+<li><a href="//en.wikipedia.org/wiki/Pixel" title="Pixel">Pixel</a></li>
+<li><a href="//en.wikipedia.org/wiki/Peak_signal-to-noise_ratio" title="Peak signal-to-noise ratio">PSNR</a></li>
+<li><a href="//en.wikipedia.org/wiki/Quantization_(image_processing)" title="Quantization (image processing)">Quantization</a></li>
+<li><a href="//en.wikipedia.org/wiki/Standard_test_image" title="Standard test image">Standard test image</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;">Methods</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Chain_code" title="Chain code">Chain code</a></li>
+<li><a href="//en.wikipedia.org/wiki/Discrete_cosine_transform" title="Discrete cosine transform">DCT</a></li>
+<li><a href="//en.wikipedia.org/wiki/Embedded_Zerotrees_of_Wavelet_transforms" title="Embedded Zerotrees of Wavelet transforms">EZW</a></li>
+<li><a href="//en.wikipedia.org/wiki/Fractal_compression" title="Fractal compression">Fractal</a></li>
+<li><a href="//en.wikipedia.org/wiki/Karhunen%E2%80%93Lo%C3%A8ve_theorem" title="Karhunen–Loève theorem">KLT</a></li>
+<li><a href="//en.wikipedia.org/wiki/Pyramid_(image_processing)" title="Pyramid (image processing)">LP</a></li>
+<li><a href="//en.wikipedia.org/wiki/Run-length_encoding" title="Run-length encoding">RLE</a></li>
+<li><a href="//en.wikipedia.org/wiki/Set_partitioning_in_hierarchical_trees" title="Set partitioning in hierarchical trees">SPIHT</a></li>
+<li><a href="//en.wikipedia.org/wiki/Wavelet_compression" title="Wavelet compression" class="mw-redirect">Wavelet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="//en.wikipedia.org/wiki/Video_compression" title="Video compression" class="mw-redirect">Video</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Bit_rate" title="Bit rate">Bit rate</a>
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Average_bitrate" title="Average bitrate">ABR</a></li>
+<li><a href="//en.wikipedia.org/wiki/Constant_bitrate" title="Constant bitrate">CBR</a></li>
+<li><a href="//en.wikipedia.org/wiki/Variable_bitrate" title="Variable bitrate">VBR</a></li>
+</ul>
+</li>
+<li><a href="//en.wikipedia.org/wiki/Display_resolution" title="Display resolution">Display resolution</a></li>
+<li><a href="//en.wikipedia.org/wiki/Film_frame" title="Film frame">Frame</a></li>
+<li><a href="//en.wikipedia.org/wiki/Frame_rate" title="Frame rate">Frame rate</a></li>
+<li><a href="//en.wikipedia.org/wiki/Video_compression_picture_types" title="Video compression picture types">Frame types</a></li>
+<li><a href="//en.wikipedia.org/wiki/Interlaced_video" title="Interlaced video">Interlace</a></li>
+<li><a href="//en.wikipedia.org/wiki/Video#Characteristics_of_video_streams" title="Video">Video characteristics</a></li>
+<li><a href="//en.wikipedia.org/wiki/Video_quality" title="Video quality">Video quality</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;"><a href="//en.wikipedia.org/wiki/Video_codec" title="Video codec">Video codec</a> parts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Discrete_cosine_transform" title="Discrete cosine transform">DCT</a></li>
+<li><a href="//en.wikipedia.org/wiki/Deblocking_filter" title="Deblocking filter">Deblocking filter</a></li>
+<li><a href="//en.wikipedia.org/wiki/Motion_compensation" title="Motion compensation">Motion compensation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>See <a href="//en.wikipedia.org/wiki/Template:Compression_formats" title="Template:Compression formats">Compression formats</a> for formats and <a href="//en.wikipedia.org/wiki/Template:Compression_software" title="Template:Compression software">Compression software</a> for codecs</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1022
+CPU time usage: 0.456 seconds
+Real time usage: 0.503 seconds
+Preprocessor visited node count: 437/1000000
+Preprocessor generated node count: 2249/1500000
+Post‐expand include size: 42870/2048000 bytes
+Template argument size: 178/2048000 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 3/500
+Lua time usage: 0.057/10.000 seconds
+Lua memory usage: 1.65 MB/50 MB
+-->

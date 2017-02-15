@@ -1,0 +1,552 @@
+<!-- http%3A//en.wikipedia.org/wiki%3Faction%3Drender%26curid%3D2390873%26oldid%3D594236908 2014-06-12-19-34-37 -->
+<div class="hatnote">Not to be confused with <a href="//en.wikipedia.org/w/index.php?title=International_Organization_for_a_Participatory_Society&amp;action=edit&amp;redlink=1" class="new" title="International Organization for a Participatory Society (page does not exist)">International Organization for a Participatory Society</a>.</div>
+<p><b>IOPS</b> (<a href="//en.wikipedia.org/wiki/Input/Output" title="Input/Output" class="mw-redirect">Input/Output</a> Operations Per Second, pronounced <i>eye-ops</i>) is a common performance measurement used to <a href="//en.wikipedia.org/wiki/Benchmark_(computing)" title="Benchmark (computing)">benchmark</a> <a href="//en.wikipedia.org/wiki/Data_storage_device" title="Data storage device">computer storage</a> devices like <a href="//en.wikipedia.org/wiki/Hard_disk_drive" title="Hard disk drive">hard disk drives</a> (HDD), <a href="//en.wikipedia.org/wiki/Solid_state_drives" title="Solid state drives" class="mw-redirect">solid state drives</a> (SSD), and <a href="//en.wikipedia.org/wiki/Storage_area_network" title="Storage area network">storage area networks</a> (SAN). As with any benchmark, IOPS numbers published by storage device manufacturers do not guarantee real-world application performance.<sup id="cite_ref-Scott_Lowe_1-0" class="reference"><a href="#cite_note-Scott_Lowe-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-Symantec_2-0" class="reference"><a href="#cite_note-Symantec-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>IOPS can be measured with applications, such as <a href="//en.wikipedia.org/wiki/Iometer" title="Iometer">Iometer</a> (originally developed by <a href="//en.wikipedia.org/wiki/Intel" title="Intel">Intel</a>), as well as <a href="//en.wikipedia.org/wiki/IOzone" title="IOzone">IOzone</a> and <a href="//en.wikipedia.org/wiki/FIO_(software)" title="FIO (software)" class="mw-redirect">FIO</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> and is primarily used with <a href="//en.wikipedia.org/wiki/Server_(computing)" title="Server (computing)">servers</a> to find the best storage configuration.</p>
+<p>The specific number of IOPS possible in any system configuration will vary greatly, depending upon the variables the tester enters into the program, including the balance of read and write operations, the mix of <a href="//en.wikipedia.org/wiki/Sequential_access" title="Sequential access">sequential</a> and <a href="//en.wikipedia.org/wiki/Random_access" title="Random access">random</a> access patterns, the number of worker <a href="//en.wikipedia.org/wiki/Thread_(computer_science)" title="Thread (computer science)" class="mw-redirect">threads</a> and queue depth, as well as the data block sizes.<sup id="cite_ref-Scott_Lowe_1-1" class="reference"><a href="#cite_note-Scott_Lowe-1"><span>[</span>1<span>]</span></a></sup> There are other factors which can also affect the IOPS results including the system setup, storage drivers, OS background operations, etc. Also, when testing SSDs in particular, there are preconditioning considerations that must be taken into account.<sup id="cite_ref-Kent_Smith_4-0" class="reference"><a href="#cite_note-Kent_Smith-4"><span>[</span>4<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Performance_characteristics"><span class="tocnumber">1</span> <span class="toctext">Performance characteristics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Examples"><span class="tocnumber">2</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Performance_characteristics">Performance characteristics</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="//en.wikipedia.org/wiki/File:Random_vs_sequential_access.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Random_vs_sequential_access.svg/220px-Random_vs_sequential_access.svg.png" width="220" height="132" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Random_vs_sequential_access.svg/330px-Random_vs_sequential_access.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Random_vs_sequential_access.svg/440px-Random_vs_sequential_access.svg.png 2x" data-file-width="600" data-file-height="360" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="//en.wikipedia.org/wiki/File:Random_vs_sequential_access.svg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.24wmf8/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Random access compared to sequential access.</div>
+</div>
+</div>
+<p>The most common performance characteristics measured are sequential and random operations. Sequential operations access locations on the storage device in a <a href="//en.wikipedia.org/wiki/Contiguity#Computer_science" title="Contiguity">contiguous manner</a> and are generally associated with large data transfer sizes, e.g., 128&#160;<a href="//en.wikipedia.org/wiki/Kilobyte" title="Kilobyte">KB</a>. Random operations access locations on the storage device in a non-contiguous manner and are generally associated with small data transfer sizes, e.g., 4&#160;KB.</p>
+<p>The most common performance characteristics are as follows:</p>
+<table class="wikitable">
+<tr>
+<th>Measurement</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>Total IOPS</td>
+<td>Total number of I/O operations per second (when performing a mix of read and write tests)</td>
+</tr>
+<tr>
+<td>Random Read IOPS</td>
+<td>Average number of random read I/O operations per second</td>
+</tr>
+<tr>
+<td>Random Write IOPS</td>
+<td>Average number of random write I/O operations per second</td>
+</tr>
+<tr>
+<td>Sequential Read IOPS</td>
+<td>Average number of sequential read I/O operations per second</td>
+</tr>
+<tr>
+<td>Sequential Write IOPS</td>
+<td>Average number of sequential write I/O operations per second</td>
+</tr>
+</table>
+<p>For HDDs and similar electromechanical storage devices, the random IOPS numbers are primarily dependent upon the storage device's random <a href="//en.wikipedia.org/wiki/Seek_time" title="Seek time" class="mw-redirect">seek time</a>, whereas for SSDs and similar solid state storage devices, the random IOPS numbers are primarily dependent upon the storage device's internal controller and memory interface speeds. On both types of storage devices the sequential IOPS numbers (especially when using a large block size) typically indicate the maximum sustained bandwidth that the storage device can handle.<sup id="cite_ref-Scott_Lowe_1-2" class="reference"><a href="#cite_note-Scott_Lowe-1"><span>[</span>1<span>]</span></a></sup> Often sequential IOPS are reported as a simple <a href="//en.wikipedia.org/wiki/MB/s#Megabyte_per_second" title="MB/s" class="mw-redirect">MB/s</a> number as follows:</p>
+<blockquote>
+<p><img class="mwe-math-fallback-png-inline tex" alt="\text{IOPS} * \text{TransferSizeInBytes} = \text{BytesPerSec}" src="//upload.wikimedia.org/math/7/a/2/7a20fc52933fa34366b1bd2c2db16fc8.png" /> (with the answer typically converted to <a href="//en.wikipedia.org/wiki/Megabytes_per_second" title="Megabytes per second" class="mw-redirect">MegabytesPerSec</a>)</p>
+</blockquote>
+<p>Some HDDs will improve in performance as the number of outstanding IO's (i.e. queue depth) increases. This is usually the result of more advanced controller logic on the drive performing command queuing and reordering commonly called either <a href="//en.wikipedia.org/wiki/Tagged_Command_Queuing" title="Tagged Command Queuing">Tagged Command Queuing</a> (TCQ) or <a href="//en.wikipedia.org/wiki/Native_Command_Queuing" title="Native Command Queuing">Native Command Queuing</a> (NCQ). Most commodity <a href="//en.wikipedia.org/wiki/SATA" title="SATA" class="mw-redirect">SATA</a> drives either cannot do this, or their implementation is so poor that no performance benefit can be seen.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="//en.wikipedia.org/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2008)">citation needed</span></a></i>]</sup> Enterprise class SATA drives, such as the <a href="//en.wikipedia.org/wiki/Western_Digital_Raptor" title="Western Digital Raptor">Western Digital Raptor</a> and Seagate Barracuda NL will improve by nearly 100% with deep queues.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> High-end <a href="//en.wikipedia.org/wiki/SCSI" title="SCSI">SCSI</a> drives more commonly found in servers, generally show much greater improvement, with the <a href="//en.wikipedia.org/wiki/Seagate_Technology" title="Seagate Technology">Seagate</a> Savvio exceeding 400 IOPS—more than doubling its performance.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="//en.wikipedia.org/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2008)">citation needed</span></a></i>]</sup></p>
+<p>While traditional HDDs have about the same IOPS for read and write operations, most <a href="//en.wikipedia.org/wiki/Flash_memory" title="Flash memory">NAND flash-based</a> SSDs are much slower writing than reading due to the inability to rewrite directly into a previously written location forcing a procedure called <a href="//en.wikipedia.org/wiki/Garbage_collection_(SSD)" title="Garbage collection (SSD)" class="mw-redirect">garbage collection</a>.<sup id="cite_ref-IBM_WA_6-0" class="reference"><a href="#cite_note-IBM_WA-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-OCZ_WA_7-0" class="reference"><a href="#cite_note-OCZ_WA-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> This has caused hardware test sites to start to provide independently measured results when testing IOPS performance.</p>
+<p>Newer flash SSD drives such as the Intel X25-E have much higher IOPS than traditional hard disk drives. In a test done by Xssist, using IOmeter, 4&#160;KB random transfers, 70/30 read/write ratio, queue depth 4, the IOPS delivered by the Intel X25-E 64&#160;GB G1 started around 10000 IOPs, and dropped sharply after 8 minutes to 4000 IOPS, and continued to decrease gradually for the next 42 minutes. IOPS vary between 3000 to 4000 from around the 50th minutes onwards for the rest of the 8+ hours test run.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> Even with the drop in random IOPS after the 50th minute, the X25-E still has much higher IOPS compared to traditional hard disk drives. Some SSDs, including the <a href="//en.wikipedia.org/wiki/OCZ" title="OCZ" class="mw-redirect">OCZ</a> RevoDrive 3 x2 PCIe using the <a href="//en.wikipedia.org/wiki/SandForce" title="SandForce">SandForce</a> controller, have shown much higher sustained write performance that more closely matches the read speed.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Examples">Examples</span></h2>
+<p>Some com­monly accepted aver­ages for random IO operations, calculated as 1/(seek + latency)&#160;=&#160;IOPS:</p>
+<table class="wikitable">
+<tr>
+<th>Device</th>
+<th>Type</th>
+<th>IOPS</th>
+<th>Interface</th>
+<th>Notes</th>
+</tr>
+<tr>
+<td>7,200 <a href="//en.wikipedia.org/wiki/Revolutions_per_minute" title="Revolutions per minute">rpm</a> <a href="//en.wikipedia.org/wiki/SATA" title="SATA" class="mw-redirect">SATA</a> drives</td>
+<td><a href="//en.wikipedia.org/wiki/Hard_disk_drive" title="Hard disk drive">HDD</a></td>
+<td>~75-100 IOPS<sup id="cite_ref-Symantec_2-1" class="reference"><a href="#cite_note-Symantec-2"><span>[</span>2<span>]</span></a></sup></td>
+<td>SATA 3 <a href="//en.wikipedia.org/wiki/Gbit/s" title="Gbit/s" class="mw-redirect">Gbit/s</a></td>
+<td></td>
+</tr>
+<tr>
+<td>10,000 rpm SATA drives</td>
+<td>HDD</td>
+<td>~125-150 IOPS<sup id="cite_ref-Symantec_2-2" class="reference"><a href="#cite_note-Symantec-2"><span>[</span>2<span>]</span></a></sup></td>
+<td>SATA 3 Gbit/s</td>
+<td></td>
+</tr>
+<tr>
+<td>10,000 rpm <a href="//en.wikipedia.org/wiki/Serial_Attached_SCSI" title="Serial Attached SCSI" class="mw-redirect">SAS</a> drives</td>
+<td>HDD</td>
+<td>~140 IOPS<sup id="cite_ref-Symantec_2-3" class="reference"><a href="#cite_note-Symantec-2"><span>[</span>2<span>]</span></a></sup></td>
+<td>SAS</td>
+<td></td>
+</tr>
+<tr>
+<td>15,000 rpm <a href="//en.wikipedia.org/wiki/Serial_Attached_SCSI" title="Serial Attached SCSI" class="mw-redirect">SAS</a> drives</td>
+<td>HDD</td>
+<td>~175-210 IOPS<sup id="cite_ref-Symantec_2-4" class="reference"><a href="#cite_note-Symantec-2"><span>[</span>2<span>]</span></a></sup></td>
+<td>SAS</td>
+<td></td>
+</tr>
+</table>
+<p>Solid State Devices</p>
+<table class="wikitable">
+<tr>
+<th>Device</th>
+<th>Type</th>
+<th>IOPS</th>
+<th>Interface</th>
+<th>Notes</th>
+</tr>
+<tr>
+<td>Simple <a href="//en.wikipedia.org/wiki/Single-level_cell" title="Single-level cell" class="mw-redirect">SLC</a> <a href="//en.wikipedia.org/wiki/Solid-state_drive" title="Solid-state drive">SSD</a></td>
+<td><a href="//en.wikipedia.org/wiki/Solid-state_drive" title="Solid-state drive">SSD</a></td>
+<td>~400 IOPS<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="//en.wikipedia.org/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2010)">citation needed</span></a></i>]</sup></td>
+<td>SATA 3 Gbit/s</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="//en.wikipedia.org/wiki/Intel#Solid-state_drives_.28SSD.29" title="Intel">Intel X25-M G2</a> (<a href="//en.wikipedia.org/wiki/Multi-level_cell" title="Multi-level cell">MLC</a>)</td>
+<td>SSD</td>
+<td>~8,600 IOPS<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></td>
+<td>SATA 3 Gbit/s</td>
+<td>Intel's data sheet<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> claims 6,600/8,600 IOPS (80&#160;GB/160&#160;GB version) and 35,000 IOPS for random 4&#160;KB writes and reads, respectively.</td>
+</tr>
+<tr>
+<td><a href="//en.wikipedia.org/wiki/Intel#Solid-state_drives_.28SSD.29" title="Intel">Intel X25-E</a> (SLC)</td>
+<td>SSD</td>
+<td>~5,000 IOPS<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></td>
+<td>SATA 3 Gbit/s</td>
+<td>Intel's data sheet<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup> claims 3,300 IOPS and 35,000 IOPS for writes and reads, respectively. 5,000 IOPS are measured for a mix. Intel X25-E G1 has around 3 times higher IOPS compared to the Intel X25-M G2.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td><a href="//en.wikipedia.org/wiki/G.Skill" title="G.Skill">G.Skill</a> Phoenix Pro</td>
+<td>SSD</td>
+<td>~20,000 IOPS<sup id="cite_ref-tweakpc_16-0" class="reference"><a href="#cite_note-tweakpc-16"><span>[</span>16<span>]</span></a></sup></td>
+<td>SATA 3 Gbit/s</td>
+<td><a href="//en.wikipedia.org/wiki/SandForce" title="SandForce">SandForce</a>-1200 based SSD drives with enhanced firmware, states up to 50,000 IOPS, but benchmarking shows for this particular drive ~25,000 IOPS for random read and ~15,000 IOPS for random write.<sup id="cite_ref-tweakpc_16-1" class="reference"><a href="#cite_note-tweakpc-16"><span>[</span>16<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td><a href="//en.wikipedia.org/wiki/OCZ_Technology" title="OCZ Technology" class="mw-redirect">OCZ</a> Vertex 3</td>
+<td>SSD</td>
+<td>Up to 60,000 IOPS<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></td>
+<td>SATA 6 Gbit/s</td>
+<td>Random Write 4&#160;KB (Aligned)</td>
+</tr>
+<tr>
+<td><a href="//en.wikipedia.org/wiki/Corsair_Memory" title="Corsair Memory">Corsair</a> Force Series GT</td>
+<td>SSD</td>
+<td>Up to 85,000 IOPS<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup></td>
+<td>SATA 6 Gbit/s</td>
+<td>240&#160;GB Drive, 555 MB/s sequential read &amp; 525 MB/s sequential write, Random Write 4&#160;KB Test (Aligned)</td>
+</tr>
+<tr>
+<td><a href="//en.wikipedia.org/wiki/OCZ_Technology" title="OCZ Technology" class="mw-redirect">OCZ</a> Vertex 4</td>
+<td>SSD</td>
+<td>Up to 120,000 IOPS<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></td>
+<td>SATA 6 Gbit/s</td>
+<td>256&#160;GB Drive, 560 MB/s sequential read &amp; 510 MB/s sequential write, Random Read 4&#160;KB Test 90K IOPS, Random Write 4&#160;KB Test 85K IOPS</td>
+</tr>
+<tr>
+<td><a href="//en.wikipedia.org/wiki/Texas_Memory_Systems" title="Texas Memory Systems">Texas Memory Systems</a> RamSan-20</td>
+<td>SSD</td>
+<td>120,000+ Random Read/Write IOPS<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></td>
+<td><a href="//en.wikipedia.org/wiki/PCIe" title="PCIe" class="mw-redirect">PCIe</a></td>
+<td>Includes RAM cache</td>
+</tr>
+<tr>
+<td><a href="//en.wikipedia.org/wiki/Fusion-io" title="Fusion-io">Fusion-io</a> ioDrive</td>
+<td>SSD</td>
+<td>140,000 Read IOPS, 135,000 Write IOPS<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></td>
+<td>PCIe</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="//en.wikipedia.org/wiki/Virident_Systems" title="Virident Systems">Virident Systems</a> tachIOn</td>
+<td>SSD</td>
+<td>320,000 sustained READ IOPS using 4KB blocks and 200,000 sustained WRITE IOPS using 4KB blocks<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></td>
+<td>PCIe</td>
+<td></td>
+</tr>
+<tr>
+<td>OCZ RevoDrive 3 X2</td>
+<td>SSD</td>
+<td>200,000 Random Write 4K IOPS<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></td>
+<td>PCIe</td>
+<td></td>
+</tr>
+<tr>
+<td>Fusion-io ioDrive Duo</td>
+<td>SSD</td>
+<td>250,000+ IOPS<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></td>
+<td>PCIe</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="//en.wikipedia.org/wiki/Violin_Memory" title="Violin Memory">Violin Memory</a> Violin 3200</td>
+<td>SSD</td>
+<td>250,000+ Random Read/Write IOPS<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup></td>
+<td>PCIe /FC/Infiniband/iSCSI</td>
+<td>Flash Memory Array</td>
+</tr>
+<tr>
+<td>WHIPTAIL, <i>ACCELA</i></td>
+<td>SSD</td>
+<td>250,000/200,000+ Write/Read IOPS<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup></td>
+<td>Fibre Channel, iSCSI, Infiniband/SRP, NFS, CIFS</td>
+<td>Flash Based Storage Array</td>
+</tr>
+<tr>
+<td><a href="//en.wikipedia.org/w/index.php?title=DDRdrive&amp;action=edit&amp;redlink=1" class="new" title="DDRdrive (page does not exist)">DDRdrive</a> X1,</td>
+<td>SSD</td>
+<td>300,000+ (512B Random Read IOPS) and 200,000+ (512B Random Write IOPS)<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup></td>
+<td>PCIe</td>
+<td></td>
+</tr>
+<tr>
+<td>SolidFire <i>SF3010/SF6010</i></td>
+<td>SSD</td>
+<td>250,000 4KB Read/Write IOPS<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup></td>
+<td>iSCSI</td>
+<td>Flash Based Storage Array (5RU)</td>
+</tr>
+<tr>
+<td><a href="//en.wikipedia.org/wiki/Texas_Memory_Systems" title="Texas Memory Systems">Texas Memory Systems</a> RamSan-720 Appliance</td>
+<td>SSD</td>
+<td>500,000 Optimal Read, 250,000 Optimal Write 4KB IOPS<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup></td>
+<td>FC / InfiniBand</td>
+<td></td>
+</tr>
+<tr>
+<td>OCZ Single SuperScale Z-Drive R4 PCI-Express SSD</td>
+<td>SSD</td>
+<td>Up to 500,000 IOPS<sup id="cite_ref-OCZ_Z-Drive_33-0" class="reference"><a href="#cite_note-OCZ_Z-Drive-33"><span>[</span>33<span>]</span></a></sup></td>
+<td>PCIe</td>
+<td></td>
+</tr>
+<tr>
+<td>WHIPTAIL, <i>INVICTA</i></td>
+<td>SSD</td>
+<td>650,000/550,000+ Read/Write IOPS<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup></td>
+<td>Fibre Channel, iSCSI, Infiniband/SRP, NFS</td>
+<td>Flash Based Storage Array</td>
+</tr>
+<tr>
+<td><a href="//en.wikipedia.org/wiki/Violin_Memory" title="Violin Memory">Violin Memory</a> Violin 6000</td>
+<td>3RU Flash Memory Array</td>
+<td>1,000,000+ Random Read/Write IOPS<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup></td>
+<td>/FC/Infiniband/10Gb(iSCSI)/ PCIe</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="//en.wikipedia.org/wiki/Texas_Memory_Systems" title="Texas Memory Systems">Texas Memory Systems</a> RamSan-630 Appliance</td>
+<td>SSD</td>
+<td>1,000,000+ 4KB Random Read/Write IOPS<sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup></td>
+<td>FC / InfiniBand</td>
+<td></td>
+</tr>
+<tr>
+<td>Fusion-io ioDrive Octal (single PCI Express card)</td>
+<td>SSD</td>
+<td>1,180,000+ Random Read/Write IOPS<sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>37<span>]</span></a></sup></td>
+<td>PCIe</td>
+<td></td>
+</tr>
+<tr>
+<td>OCZ 2x SuperScale Z-Drive R4 PCI-Express SSD</td>
+<td>SSD</td>
+<td>Up to 1,200,000 IOPS<sup id="cite_ref-OCZ_Z-Drive_33-1" class="reference"><a href="#cite_note-OCZ_Z-Drive-33"><span>[</span>33<span>]</span></a></sup></td>
+<td>PCIe</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="//en.wikipedia.org/wiki/Texas_Memory_Systems" title="Texas Memory Systems">Texas Memory Systems</a> RamSan-70</td>
+<td>SSD</td>
+<td>1,200,000 Random Read/Write IOPS<sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>38<span>]</span></a></sup></td>
+<td>PCIe</td>
+<td>Includes RAM cache</td>
+</tr>
+<tr>
+<td><a href="//en.wikipedia.org/wiki/Kaminario" title="Kaminario">Kaminario</a> K2</td>
+<td>Flash/DRAM/Hybrid SSD</td>
+<td>Up to 1,200,000 IOPS SPC-1 IOPS with the K2-D (<a href="//en.wikipedia.org/wiki/DRAM" title="DRAM" class="mw-redirect">DRAM</a>)<sup id="cite_ref-The_Register_39-0" class="reference"><a href="#cite_note-The_Register-39"><span>[</span>39<span>]</span></a></sup><sup id="cite_ref-Storage_Performance_Council_40-0" class="reference"><a href="#cite_note-Storage_Performance_Council-40"><span>[</span>40<span>]</span></a></sup></td>
+<td><a href="//en.wikipedia.org/wiki/Fibre_Channel" title="Fibre Channel">FC</a></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="//en.wikipedia.org/wiki/NetApp" title="NetApp">NetApp</a> FAS6240 cluster</td>
+<td>Flash/Disk</td>
+<td>1,261,145 SPECsfs2008 nfsv3 IOPs using disks with virtual storage tiering.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41"><span>[</span>41<span>]</span></a></sup></td>
+<td>NFS, CIFS, FC, FCoE, iSCSI</td>
+<td>SPECsfs2008 is the latest version of the Standard Performance Evaluation Corporation benchmark suite measuring file server throughput and response time, providing a standardized method for comparing performance across different vendor platforms. <a rel="nofollow" class="external free" href="http://www.spec.org/sfs2008/">http://www.spec.org/sfs2008/</a></td>
+</tr>
+<tr>
+<td>Fusion-io ioDrive2</td>
+<td>SSD</td>
+<td>Up to 9,608,000 IOPS<sup id="cite_ref-42" class="reference"><a href="#cite_note-42"><span>[</span>42<span>]</span></a></sup></td>
+<td>PCIe</td>
+<td></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Instructions_per_second" title="Instructions per second">Instructions per second</a></li>
+<li><a href="//en.wikipedia.org/wiki/Performance_per_watt" title="Performance per watt">Performance per watt</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Scott_Lowe-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Scott_Lowe_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Scott_Lowe_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Scott_Lowe_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Lowe, Scott (2010-02-12). <a rel="nofollow" class="external text" href="http://www.techrepublic.com/blog/datacenter/calculate-iops-in-a-storage-array/2182">"Calculate IOPS in a storage array"</a>. techrepublic.com<span class="reference-accessdate">. Retrieved 2011-07-03</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.aufirst=Scott&amp;rft.aulast=Lowe&amp;rft.au=Lowe%2C+Scott&amp;rft.btitle=Calculate+IOPS+in+a+storage+array&amp;rft.date=2010-02-12&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.techrepublic.com%2Fblog%2Fdatacenter%2Fcalculate-iops-in-a-storage-array%2F2182&amp;rft.pub=techrepublic.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Symantec-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Symantec_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Symantec_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Symantec_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Symantec_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Symantec_2-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.symantec.com/connect/articles/getting-hang-iops-v13">"Getting The Hang Of IOPS v1.3"</a>. 2012-08-03<span class="reference-accessdate">. Retrieved 2013-08-15</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.btitle=Getting+The+Hang+Of+IOPS+v1.3&amp;rft.date=2012-08-03&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.symantec.com%2Fconnect%2Farticles%2Fgetting-hang-iops-v13&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web">Axboe, Jens. <a rel="nofollow" class="external text" href="http://freshmeat.net/projects/fio/">"Flexible IO Tester"</a><span class="reference-accessdate">. Retrieved 2010-06-04</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.au=Axboe%2C+Jens&amp;rft.aufirst=Jens&amp;rft.aulast=Axboe&amp;rft.btitle=Flexible+IO+Tester&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Ffreshmeat.net%2Fprojects%2Ffio%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>(source available at <a rel="nofollow" class="external free" href="http://git.kernel.dk/">http://git.kernel.dk/</a>)</span></li>
+<li id="cite_note-Kent_Smith-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kent_Smith_4-0">^</a></b></span> <span class="reference-text"><span class="citation web">Smith, Kent (2009-08-11). <a rel="nofollow" class="external text" href="http://www.lsi.com/downloads/Public/Flash%20Storage%20Processors/LSI_PRS_FMS2009_F2A_Smith.pdf">"Benchmarking SSDs: The Devil is in the Preconditioning Details"</a>. SandForce.com<span class="reference-accessdate">. Retrieved 2012-08-28</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.aufirst=Kent&amp;rft.aulast=Smith&amp;rft.au=Smith%2C+Kent&amp;rft.btitle=Benchmarking+SSDs%3A+The+Devil+is+in+the+Preconditioning+Details&amp;rft.date=2009-08-11&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.lsi.com%2Fdownloads%2FPublic%2FFlash%2520Storage%2520Processors%2FLSI_PRS_FMS2009_F2A_Smith.pdf&amp;rft.pub=SandForce.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.storagereview.com/articles/200607/500_6.html">"SATA in the Enterprise - A 500 GB Drive Roundup | StorageReview.com - Storage Reviews"</a>. StorageReview.com. 2006-07-13<span class="reference-accessdate">. Retrieved 2013-05-13</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.btitle=SATA+in+the+Enterprise+-+A+500+GB+Drive+Roundup+%26%23124%3B+StorageReview.com+-+Storage+Reviews&amp;rft.date=2006-07-13&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.storagereview.com%2Farticles%2F200607%2F500_6.html&amp;rft.pub=StorageReview.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-IBM_WA-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-IBM_WA_6-0">^</a></b></span> <span class="reference-text"><span class="citation web">Hu, X.-Y. and E. Eleftheriou, R. Haas, I. Iliadis, R. Pletka (2009). "Write Amplification Analysis in Flash-Based Solid State Drives". <a href="//en.wikipedia.org/wiki/IBM" title="IBM">IBM</a>. <a href="//en.wikipedia.org/wiki/CiteSeer#CiteSeerX" title="CiteSeer">CiteSeerX</a>: <span class="url"><a rel="nofollow" class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.154.8668">10.1.1.154.8668</a></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.au=Hu%2C+X.-Y.+and+E.+Eleftheriou%2C+R.+Haas%2C+I.+Iliadis%2C+R.+Pletka&amp;rft.aulast=Hu%2C+X.-Y.+and+E.+Eleftheriou%2C+R.+Haas%2C+I.+Iliadis%2C+R.+Pletka&amp;rft.btitle=Write+Amplification+Analysis+in+Flash-Based+Solid+State+Drives&amp;rft.date=2009&amp;rft.genre=book&amp;rft.pub=IBM&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment">Missing or empty <code>|url=</code> (<a href="//en.wikipedia.org/wiki/Help:CS1_errors#cite_web_url" title="Help:CS1 errors">help</a>);</span> <span style="display:none;font-size:100%" class="error citation-comment"><code>|accessdate=</code> requires <code>|url=</code> (<a href="//en.wikipedia.org/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-OCZ_WA-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-OCZ_WA_7-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.oczenterprise.com/whitepapers/ssds-write-amplification-trim-and-gc.pdf">"SSDs - Write Amplification, TRIM and GC"</a>. OCZ Technology<span class="reference-accessdate">. Retrieved 2010-05-31</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.btitle=SSDs+-+Write+Amplification%2C+TRIM+and+GC&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.oczenterprise.com%2Fwhitepapers%2Fssds-write-amplification-trim-and-gc.pdf&amp;rft.pub=OCZ+Technology&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.intel.com/cd/channel/reseller/asmo-na/eng/products/nand/feature/index.htm">"Intel Solid State Drives"</a>. Intel<span class="reference-accessdate">. Retrieved 2010-05-31</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.btitle=Intel+Solid+State+Drives&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.intel.com%2Fcd%2Fchannel%2Freseller%2Fasmo-na%2Feng%2Fproducts%2Fnand%2Ffeature%2Findex.htm&amp;rft.pub=Intel&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.xssist.com/blog/Intel%20X25-E%2064GB%20G1,%204KB%2070%2030%20RW%20Random%20IOPS,%20iometer%20benchmark.htm">"Intel X25-E 64GB G1, 4KB Random IOPS, iometer benchmark"</a>. 2010-03-27<span class="reference-accessdate">. Retrieved 2010-04-01</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.btitle=Intel+X25-E+64GB+G1%2C+4KB+Random+IOPS%2C+iometer+benchmark&amp;rft.date=2010-03-27&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.xssist.com%2Fblog%2FIntel%2520X25-E%252064GB%2520G1%2C%25204KB%252070%252030%2520RW%2520Random%2520IOPS%2C%2520iometer%2520benchmark.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://thessdreview.com/our-reviews/ocz-revodrive-3-x2-480-gb-pcie-ssd-review-1-5gb-read1-25gb-write200000-iops-for-699/">"OCZ RevoDrive 3 x2 PCIe SSD Review – 1.5GB Read/1.25GB Write/200,000 IOPS As Little As $699"</a>. 2011-06-28<span class="reference-accessdate">. Retrieved 2011-06-30</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.btitle=OCZ+RevoDrive+3+x2+PCIe+SSD+Review+%E2%80%93+1.5GB+Read%2F1.25GB+Write%2F200%2C000+IOPS+As+Little+As+%24699&amp;rft.date=2011-06-28&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fthessdreview.com%2Four-reviews%2Focz-revodrive-3-x2-480-gb-pcie-ssd-review-1-5gb-read1-25gb-write200000-iops-for-699%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation web">Schmid, Patrick; Roos, Achim (2008-09-08). <a rel="nofollow" class="external text" href="http://www.tomshardware.com/reviews/Intel-x25-m-SSD,2012.html">"Intel's X25-M Solid State Drive Reviewed"</a><span class="reference-accessdate">. Retrieved 2011-08-02</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.aufirst=Patrick&amp;rft.aulast=Schmid&amp;rft.au=Roos%2C+Achim&amp;rft.au=Schmid%2C+Patrick&amp;rft.btitle=Intel%27s+X25-M+Solid+State+Drive+Reviewed&amp;rft.date=2008-09-08&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.tomshardware.com%2Freviews%2FIntel-x25-m-SSD%2C2012.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://download.intel.com/design/flash/nand/mainstream/322296.pdf">http://download.intel.com/design/flash/nand/mainstream/322296.pdf</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation web">1. <a rel="nofollow" class="external text" href="http://www.tomshardware.com/reviews/intel-x25-e-ssd,2158.html">"Intel’s X25-E SSD Walks All Over The Competition&#160;: They Did It Again: X25-E For Servers Takes Off"</a>. Tomshardware.com<span class="reference-accessdate">. Retrieved 2013-05-13</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.au=1.&amp;rft.aulast=1.&amp;rft.btitle=Intel%E2%80%99s+X25-E+SSD+Walks+All+Over+The+Competition+%3A+They+Did+It+Again%3A+X25-E+For+Servers+Takes+Off&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.tomshardware.com%2Freviews%2Fintel-x25-e-ssd%2C2158.html&amp;rft.pub=Tomshardware.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://download.intel.com/design/flash/nand/extreme/extreme-sata-ssd-datasheet.pdf">http://download.intel.com/design/flash/nand/extreme/extreme-sata-ssd-datasheet.pdf</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.xssist.com/blog/%5BSSD%5D_Comparison_of_Intel_X25-E_G1_vs_Intel_X25-M_G2.htm">"Intel X25-E G1 vs Intel X25-M G2 Random 4&#160;KB IOPS, iometer"</a>. May 2010<span class="reference-accessdate">. Retrieved 2010-05-19</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.btitle=Intel+X25-E+G1+vs+Intel+X25-M+G2+Random+4%26nbsp%3BKB+IOPS%2C+iometer&amp;rft.date=May+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.xssist.com%2Fblog%2F%255BSSD%255D_Comparison_of_Intel_X25-E_G1_vs_Intel_X25-M_G2.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-tweakpc-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-tweakpc_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-tweakpc_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.tweakpc.de/hardware/tests/ssd/gskill_phoenix_pro/s05.php">"G.Skill Phoenix Pro 120 GB Test - SandForce SF-1200 SSD mit 50K IOPS - HD Tune Access Time IOPS (Diagramme) (5/12)"</a>. Tweakpc.de<span class="reference-accessdate">. Retrieved 2013-05-13</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.btitle=G.Skill+Phoenix+Pro+120+GB+Test+-+SandForce+SF-1200+SSD+mit+50K+IOPS+-+HD+Tune+Access+Time+IOPS+%28Diagramme%29+%285%2F12%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.tweakpc.de%2Fhardware%2Ftests%2Fssd%2Fgskill_phoenix_pro%2Fs05.php&amp;rft.pub=Tweakpc.de&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ocztechnology.com/res/manuals/OCZ_Vertex3_Product_Sheet.pdf">http://www.ocztechnology.com/res/manuals/OCZ_Vertex3_Product_Sheet.pdf</a></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation web">Force Series™ GT 240GB SATA 3 6Gb/s Solid-State Hard Drive. <a rel="nofollow" class="external text" href="http://www.corsair.com/us/ssd/force-series-gt-ssd/force-series-gt-240gb-sata-3-6gbps-solid-state-hard-drive.html">"Force Series™ GT 240GB SATA 3 6Gb/s Solid-State Hard Drive - Force Series GT - SSD"</a>. Corsair.com<span class="reference-accessdate">. Retrieved 2013-05-13</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.au=Force+Series%E2%84%A2+GT+240GB+SATA+3+6Gb%2Fs+Solid-State+Hard+Drive&amp;rft.aulast=Force+Series%E2%84%A2+GT+240GB+SATA+3+6Gb%2Fs+Solid-State+Hard+Drive&amp;rft.btitle=Force+Series%E2%84%A2+GT+240GB+SATA+3+6Gb%2Fs+Solid-State+Hard+Drive+-+Force+Series+GT+-+SSD&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.corsair.com%2Fus%2Fssd%2Fforce-series-gt-ssd%2Fforce-series-gt-240gb-sata-3-6gbps-solid-state-hard-drive.html&amp;rft.pub=Corsair.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ocztechnology.com/ocz-vertex-4-sata-iii-2-5-ssd.html#overview">"OCZ Vertex 4 SSD 2.5" SATA 3 6Gb/s"</a>. Ocztechnology.com<span class="reference-accessdate">. Retrieved 2013-05-13</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.btitle=OCZ+Vertex+4+SSD+2.5%22+SATA+3+6Gb%2Fs&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ocztechnology.com%2Focz-vertex-4-sata-iii-2-5-ssd.html%23overview&amp;rft.pub=Ocztechnology.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ramsan.com/products/pcie-storage/ramsan-10-20">"IBM System Storage - Flash： Overview"</a>. Ramsan.com<span class="reference-accessdate">. Retrieved 2013-05-13</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.btitle=IBM+System+Storage+-+Flash%EF%BC%9A+Overview&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ramsan.com%2Fproducts%2Fpcie-storage%2Framsan-10-20&amp;rft.pub=Ramsan.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://community.fusionio.com/media/p/459.aspx">"Home - Fusion-io Community Forum"</a>. Community.fusionio.com<span class="reference-accessdate">. Retrieved 2013-05-13</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.btitle=Home+-+Fusion-io+Community+Forum&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fcommunity.fusionio.com%2Fmedia%2Fp%2F459.aspx&amp;rft.pub=Community.fusionio.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.theregister.co.uk/2010/06/16/virident_tachion/">http://www.theregister.co.uk/2010/06/16/virident_tachion/</a></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.storagereview.com/ocz_revodrive_3_x2_480gb_review">"OCZ RevoDrive 3 X2 480GB Review | StorageReview.com - Storage Reviews"</a>. StorageReview.com. 2011-06-28<span class="reference-accessdate">. Retrieved 2013-05-13</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.btitle=OCZ+RevoDrive+3+X2+480GB+Review+%26%23124%3B+StorageReview.com+-+Storage+Reviews&amp;rft.date=2011-06-28&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.storagereview.com%2Focz_revodrive_3_x2_480gb_review&amp;rft.pub=StorageReview.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://community.fusionio.com/media/p/461.aspx">"Home - Fusion-io Community Forum"</a>. Community.fusionio.com<span class="reference-accessdate">. Retrieved 2013-05-13</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.btitle=Home+-+Fusion-io+Community+Forum&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fcommunity.fusionio.com%2Fmedia%2Fp%2F461.aspx&amp;rft.pub=Community.fusionio.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.violin-memory.com/products/3200-memory-array/">[1]</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="//en.wikipedia.org/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since May 2013">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.whiptail.com/products/accela">"Products"</a>. Whiptail<span class="reference-accessdate">. Retrieved 2013-05-13</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.btitle=Products&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.whiptail.com%2Fproducts%2Faccela&amp;rft.pub=Whiptail&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ddrdrive.com/ddrdrive_press.pdf">http://www.ddrdrive.com/ddrdrive_press.pdf</a></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ddrdrive.com/ddrdrive_brief.pdf">http://www.ddrdrive.com/ddrdrive_brief.pdf</a></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ddrdrive.com/ddrdrive_bench.pdf">http://www.ddrdrive.com/ddrdrive_bench.pdf</a></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation web">Author: Allyn Malventano (2009-05-04). <a rel="nofollow" class="external text" href="http://www.pcper.com/article.php?aid=704">"DDRdrive hits the ground running - PCI-E RAM-based SSD | PC Perspective"</a>. Pcper.com<span class="reference-accessdate">. Retrieved 2013-05-13</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.au=Author%3A+Allyn+Malventano&amp;rft.aulast=Author%3A+Allyn+Malventano&amp;rft.btitle=DDRdrive+hits+the+ground+running+-+PCI-E+RAM-based+SSD+%26%23124%3B+PC+Perspective&amp;rft.date=2009-05-04&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.pcper.com%2Farticle.php%3Faid%3D704&amp;rft.pub=Pcper.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.solidfire.com/solution/solidfire-storage-system/">"SSD Cloud Storage System - Examples &amp; Specifications"</a>. SolidFire<span class="reference-accessdate">. Retrieved 2013-05-13</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.btitle=SSD+Cloud+Storage+System+-+Examples+%26+Specifications&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.solidfire.com%2Fsolution%2Fsolidfire-storage-system%2F&amp;rft.pub=SolidFire&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">8. <a rel="nofollow" class="external free" href="https://www.ramsan.com/files/download/798">https://www.ramsan.com/files/download/798</a></span></li>
+<li id="cite_note-OCZ_Z-Drive-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-OCZ_Z-Drive_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-OCZ_Z-Drive_33-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ocztechnology.com/aboutocz/press/2011/445">"OCZ Technology Launches Next Generation Z-Drive R4 PCI Express Solid State Storage Systems"</a>. OCZ. 2011-08-02<span class="reference-accessdate">. Retrieved 2011-08-02</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.btitle=OCZ+Technology+Launches+Next+Generation+Z-Drive+R4+PCI+Express+Solid+State+Storage+Systems&amp;rft.date=2011-08-02&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ocztechnology.com%2Faboutocz%2Fpress%2F2011%2F445&amp;rft.pub=OCZ&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.whiptail.com/products/invicta">"Products"</a>. Whiptail<span class="reference-accessdate">. Retrieved 2013-05-13</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.btitle=Products&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.whiptail.com%2Fproducts%2Finvicta&amp;rft.pub=Whiptail&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><span class="citation web">6000 Series Flash Memory Arrays. <a rel="nofollow" class="external text" href="http://www.violin-memory.com/products/6000-flash-memory-array/">"Flash Memory Arrays, Enterprise Flash Storage Violin Memory"</a>. Violin-memory.com<span class="reference-accessdate">. Retrieved 2013-11-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.au=6000+Series+Flash+Memory+Arrays&amp;rft.aulast=6000+Series+Flash+Memory+Arrays&amp;rft.btitle=Flash+Memory+Arrays%2C+Enterprise+Flash+Storage+Violin+Memory&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.violin-memory.com%2Fproducts%2F6000-flash-memory-array%2F&amp;rft.pub=Violin-memory.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ramsan.com/products/rackmount-flash-storage/ramsan-630">"IBM flash storage and solutions: Overview"</a>. Ramsan.com<span class="reference-accessdate">. Retrieved 2013-11-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.btitle=IBM+flash+storage+and+solutions%3A+Overview&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ramsan.com%2Fproducts%2Frackmount-flash-storage%2Framsan-630&amp;rft.pub=Ramsan.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.fusionio.com/products/iodriveoctal/">"ioDrive Octal"</a>. Fusion-io<span class="reference-accessdate">. Retrieved 2013-11-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.btitle=ioDrive+Octal&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fusionio.com%2Fproducts%2Fiodriveoctal%2F&amp;rft.pub=Fusion-io&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ramsan.com/products/pcie-storage/ramsan-70">"IBM flash storage and solutions: Overview"</a>. Ramsan.com<span class="reference-accessdate">. Retrieved 2013-11-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.btitle=IBM+flash+storage+and+solutions%3A+Overview&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ramsan.com%2Fproducts%2Fpcie-storage%2Framsan-70&amp;rft.pub=Ramsan.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-The_Register-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-The_Register_39-0">^</a></b></span> <span class="reference-text"><span class="citation web">Mellor, Chris (2012-07-30). <a rel="nofollow" class="external text" href="http://www.theregister.co.uk/2012/07/30/kaminario_spc_1/">"Chris Mellor, The Register, July 30, 2012: "Million-plus IOPS: Kaminario smashes IBM in DRAM decimation<span style="padding-right:0.2em;">"</span>"</a>. Theregister.co.uk<span class="reference-accessdate">. Retrieved 2013-11-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.aufirst=Chris&amp;rft.aulast=Mellor&amp;rft.au=Mellor%2C+Chris&amp;rft.btitle=Chris+Mellor%2C+The+Register%2C+July+30%2C+2012%3A+%22Million-plus+IOPS%3A+Kaminario+smashes+IBM+in+DRAM+decimation%22&amp;rft.date=2012-07-30&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.theregister.co.uk%2F2012%2F07%2F30%2Fkaminario_spc_1%2F&amp;rft.pub=Theregister.co.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Storage_Performance_Council-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-Storage_Performance_Council_40-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.storageperformance.org/results/benchmark_results_spc1/#kaminario_spc1">http://www.storageperformance.org/results/benchmark_results_spc1/#kaminario_spc1</a></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.spec.org/sfs2008/results/res2011q4/sfs2008-20111017-00199.html">"SpecSFS2008"</a><span class="reference-accessdate">. Retrieved 2014-02-07</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.btitle=SpecSFS2008&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.spec.org%2Fsfs2008%2Fresults%2Fres2011q4%2Fsfs2008-20111017-00199.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.fusionio.com./press-releases/fusion-io-achieves-more-than-nine-million-iops-from-a-single-iodrive2/">"Achieves More Than Nine Million IOPS From a Single ioDrive2"</a>. Fusion-io<span class="reference-accessdate">. Retrieved 2013-11-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIOPS&amp;rft.btitle=Achieves+More+Than+Nine+Million+IOPS+From+a+Single+ioDrive2&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fusionio.com.%2Fpress-releases%2Ffusion-io-achieves-more-than-nine-million-iops-from-a-single-iodrive2%2F&amp;rft.pub=Fusion-io&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="//en.wikipedia.org/wiki/Template:Solid-state_Drive" title="Template:Solid-state Drive"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="//en.wikipedia.org/wiki/Template_talk:Solid-state_Drive" title="Template talk:Solid-state Drive"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Solid-state_Drive&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;"><a href="//en.wikipedia.org/wiki/Solid-state_drive" title="Solid-state drive">Solid-state drives</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Key terminology</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Encryption" title="Encryption">Encryption</a></li>
+<li><a href="//en.wikipedia.org/wiki/Error_detection_and_correction" title="Error detection and correction">ECC</a></li>
+<li><a href="//en.wikipedia.org/wiki/Flash_file_system" title="Flash file system">Flash file system</a></li>
+<li><a href="//en.wikipedia.org/wiki/Flash_memory" title="Flash memory">Flash memory</a></li>
+<li><a href="//en.wikipedia.org/wiki/Multi-level_cell" title="Multi-level cell">SLC/MLC</a></li>
+<li><a href="//en.wikipedia.org/wiki/Flash_memory_controller" title="Flash memory controller">Flash memory controller</a></li>
+<li><a href="//en.wikipedia.org/wiki/Garbage_collection_(SSD)" title="Garbage collection (SSD)" class="mw-redirect">Garbage collection</a></li>
+<li><strong class="selflink">IOPS</strong></li>
+<li><a href="//en.wikipedia.org/wiki/Bit_rate" title="Bit rate">MB/s</a></li>
+<li><a href="//en.wikipedia.org/wiki/Write_amplification#Over-provisioning" title="Write amplification">Over-provisioning</a></li>
+<li><a href="//en.wikipedia.org/wiki/Write_amplification#Secure_erase" title="Write amplification">Secure erase</a></li>
+<li><a href="//en.wikipedia.org/wiki/Trim_(computing)" title="Trim (computing)">Trim command</a></li>
+<li><a href="//en.wikipedia.org/wiki/Wear_leveling" title="Wear leveling">Wear leveling</a></li>
+<li><a href="//en.wikipedia.org/wiki/Write_amplification" title="Write amplification">Write amplification</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Flash manufacturers</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Intel_Corporation" title="Intel Corporation" class="mw-redirect">Intel</a></li>
+<li><a href="//en.wikipedia.org/wiki/Micron_Technology" title="Micron Technology">Micron</a></li>
+<li><a href="//en.wikipedia.org/wiki/Samsung_Electronics" title="Samsung Electronics">Samsung</a></li>
+<li><a href="//en.wikipedia.org/wiki/SK_Hynix" title="SK Hynix">SK hynix</a></li>
+<li><a href="//en.wikipedia.org/wiki/Toshiba" title="Toshiba">Toshiba</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="//en.wikipedia.org/wiki/List_of_flash_memory_controller_manufacturers" title="List of flash memory controller manufacturers">Controllers</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="background-color: #eee;;">Independent</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/JMicron" title="JMicron">JMicron</a></li>
+<li><a href="//en.wikipedia.org/wiki/Marvell_Technology_Group" title="Marvell Technology Group">Marvell</a></li>
+<li><a href="//en.wikipedia.org/wiki/Phison" title="Phison">Phison</a></li>
+<li><a href="//en.wikipedia.org/wiki/SandForce" title="SandForce">SandForce</a></li>
+<li><a href="//en.wikipedia.org/w/index.php?title=Silicon_Motion&amp;action=edit&amp;redlink=1" class="new" title="Silicon Motion (page does not exist)">Silicon Motion</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: #eee;;">Captive</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Fusion-io" title="Fusion-io">Fusion-io</a></li>
+<li><a href="//en.wikipedia.org/wiki/Indilinx" title="Indilinx">Indilinx</a></li>
+<li><a href="//en.wikipedia.org/wiki/Intel_Corporation" title="Intel Corporation" class="mw-redirect">Intel</a></li>
+<li><a href="//en.wikipedia.org/wiki/Samsung_Electronics" title="Samsung Electronics">Samsung</a></li>
+<li><a href="//en.wikipedia.org/wiki/STec,_Inc." title="STec, Inc.">sTec</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">SSD manufacturers</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/List_of_solid-state_drive_manufacturers" title="List of solid-state drive manufacturers">List of solid-state drive manufacturers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Interfaces</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Serial_ATA" title="Serial ATA">Serial ATA (SATA)</a></li>
+<li><a href="//en.wikipedia.org/wiki/SATA_Express" title="SATA Express">SATA Express</a></li>
+<li><a href="//en.wikipedia.org/wiki/Serial_attached_SCSI" title="Serial attached SCSI">Serial attached SCSI (SAS)</a></li>
+<li><a href="//en.wikipedia.org/wiki/Fibre_Channel" title="Fibre Channel">Fibre Channel (FC)</a></li>
+<li><a href="//en.wikipedia.org/wiki/Universal_Serial_Bus" title="Universal Serial Bus" class="mw-redirect">Universal Serial Bus (USB)</a></li>
+<li><a href="//en.wikipedia.org/wiki/PCI_Express" title="PCI Express">PCI Express (PCIe)</a></li>
+<li><a href="//en.wikipedia.org/wiki/NVM_Express" title="NVM Express">NVM Express (NVMe)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Configurations</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/HDD_form_factor" title="HDD form factor" class="mw-redirect">HDD form factors</a></li>
+<li><a href="//en.wikipedia.org/wiki/MSATA" title="MSATA" class="mw-redirect">mSATA</a></li>
+<li><a href="//en.wikipedia.org/wiki/M.2" title="M.2">M.2</a></li>
+<li><a href="//en.wikipedia.org/wiki/PCI_Express" title="PCI Express">PCI Express</a> <a href="//en.wikipedia.org/wiki/Expansion_card" title="Expansion card">expansion card</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related organizations</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/International_Committee_for_Information_Technology_Standards" title="International Committee for Information Technology Standards">INCITS</a></li>
+<li><a href="//en.wikipedia.org/wiki/JEDEC" title="JEDEC">JEDEC/JC-64.8</a></li>
+<li><a href="//en.wikipedia.org/wiki/ONFI" title="ONFI" class="mw-redirect">ONFI</a></li>
+<li><a href="//en.wikipedia.org/wiki/Nvmhci#Standardization" title="Nvmhci" class="mw-redirect">NVMHCI</a></li>
+<li><a href="//en.wikipedia.org/wiki/USB-IF" title="USB-IF" class="mw-redirect">USB-IF</a></li>
+<li><a href="//en.wikipedia.org/wiki/Serial_ATA_International_Organization" title="Serial ATA International Organization">SATA-IO</a></li>
+<li><a href="//en.wikipedia.org/wiki/Small_Form_Factor_committee" title="Small Form Factor committee">SFF Committee</a></li>
+<li><a href="//en.wikipedia.org/wiki/Storage_Networking_Industry_Association" title="Storage Networking Industry Association">SNIA</a></li>
+<li><a href="//en.wikipedia.org/wiki/Solid_state_storage_initiative" title="Solid state storage initiative" class="mw-redirect">SSSI</a></li>
+<li><a href="//en.wikipedia.org/wiki/SCSI" title="SCSI">T10/SCSI</a></li>
+<li><a href="//en.wikipedia.org/wiki/Fibre_Channel" title="Fibre Channel">T11/FC</a></li>
+<li><a href="//en.wikipedia.org/wiki/AT_attachment" title="AT attachment" class="mw-redirect">T13/ATA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="//en.wikipedia.org/wiki/Category:Solid-state_computer_storage" title="Category:Solid-state computer storage">Category</a></b></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1182
+CPU time usage: 1.004 seconds
+Real time usage: 1.098 seconds
+Preprocessor visited node count: 2442/1000000
+Preprocessor generated node count: 9348/1500000
+Post‐expand include size: 70507/2048000 bytes
+Template argument size: 2299/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 5/500
+Lua time usage: 0.144/10.000 seconds
+Lua memory usage: 3.06 MB/50 MB
+-->

@@ -1,0 +1,868 @@
+<!-- http%3A//en.wikipedia.org/wiki%3Faction%3Drender%26curid%3D185224%26oldid%3D594047108 2014-06-07-05-58-28 -->
+<p><b>MPEG-7</b> is a <a href="//en.wikipedia.org/wiki/Multimedia" title="Multimedia">multimedia</a> <a href="//en.wikipedia.org/wiki/Content_(media_and_publishing)" title="Content (media and publishing)" class="mw-redirect">content</a> description <a href="//en.wikipedia.org/wiki/Standardization" title="Standardization">standard</a>. It was standardized in <a href="//en.wikipedia.org/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">ISO</a>/<a href="//en.wikipedia.org/wiki/International_Electrotechnical_Commission" title="International Electrotechnical Commission">IEC</a> 15938 (Multimedia content description interface).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-mpeg-standards_4-0" class="reference"><a href="#cite_note-mpeg-standards-4"><span>[</span>4<span>]</span></a></sup> This description will be associated with the content itself, to allow fast and efficient searching for material that is of interest to the user. MPEG-7 is formally called <i>Multimedia Content Description Interface</i>. Thus, it is <i>not</i> a standard which deals with the actual encoding of moving pictures and audio, like <a href="//en.wikipedia.org/wiki/MPEG-1" title="MPEG-1">MPEG-1</a>, <a href="//en.wikipedia.org/wiki/MPEG-2" title="MPEG-2">MPEG-2</a> and <a href="//en.wikipedia.org/wiki/MPEG-4" title="MPEG-4">MPEG-4</a>. It uses <a href="//en.wikipedia.org/wiki/XML" title="XML">XML</a> to store <a href="//en.wikipedia.org/wiki/Metadata_(computing)" title="Metadata (computing)" class="mw-redirect">metadata</a>, and can be attached to <a href="//en.wikipedia.org/wiki/Timecode" title="Timecode">timecode</a> in order to tag particular events, or <a href="//en.wikipedia.org/wiki/Synchronise" title="Synchronise" class="mw-redirect">synchronise</a> <a href="//en.wikipedia.org/wiki/Lyrics" title="Lyrics">lyrics</a> to a <a href="//en.wikipedia.org/wiki/Song" title="Song">song</a>, for example.</p>
+<p>It was designed to standardize:</p>
+<ul>
+<li>a set of Description Schemes ("DS") and Descriptors ("D")</li>
+<li>a language to specify these schemes, called the <a href="//en.wikipedia.org/wiki/Description_Definition_Language" title="Description Definition Language">Description Definition Language</a> ("DDL")</li>
+<li>a scheme for coding the description</li>
+</ul>
+<p>The combination of <a href="//en.wikipedia.org/wiki/MPEG-4" title="MPEG-4">MPEG-4</a> and MPEG-7 has been sometimes referred to as MPEG-47.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Introduction"><span class="tocnumber">1</span> <span class="toctext">Introduction</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Parts"><span class="tocnumber">2</span> <span class="toctext">Parts</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Relation_between_description_and_content"><span class="tocnumber">3</span> <span class="toctext">Relation between description and content</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#MPEG-7_tools"><span class="tocnumber">4</span> <span class="toctext">MPEG-7 tools</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#MPEG-7_applications"><span class="tocnumber">5</span> <span class="toctext">MPEG-7 applications</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Software_and_demonstrators_for_MPEG-7"><span class="tocnumber">6</span> <span class="toctext">Software and demonstrators for MPEG-7</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Compare"><span class="tocnumber">8</span> <span class="toctext">Compare</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Introduction">Introduction</span></h2>
+<p>MPEG-7 is intended to provide complementary functionality to the previous <a href="//en.wikipedia.org/wiki/MPEG" title="MPEG" class="mw-redirect">MPEG</a> standards, representing information about the content, not the content itself ("the bits about the bits"). This functionality is the standardization of multimedia content descriptions. MPEG-7 can be used independently of the other MPEG standards - the description might even be attached to an analog movie. The representation that is defined within MPEG-4, i.e. the representation of audio-visual data in terms of objects, is however very well suited to what will be built on the MPEG-7 standard. This representation is basic to the process of categorization. In addition, MPEG-7 descriptions could be used to improve the functionality of previous MPEG standards.With these tools, we can build an MPEG-7 Description and deploy it. According to the requirements document,1 “a Description consists of a Description Scheme (structure) and the set of Descriptor Values (instantiations) that describe the Data.” A Descriptor Value is “an instantiation of a Descriptor for a given data set (or subset thereof).” The Descriptor is the syntatic and semantic definition of the content. extraction algorithms are inside the scope of the standard because their standardization isn’t required to allow interoperability.</p>
+<h2><span class="mw-headline" id="Parts">Parts</span></h2>
+<p>The MPEG-7 (ISO/IEC 15938) consists of different Parts. Each part covers a certain aspect of the whole specification.</p>
+<table class="wikitable sortable" width="100%">
+<caption>MPEG-7 Parts<sup id="cite_ref-mpeg-standards_4-1" class="reference"><a href="#cite_note-mpeg-standards-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-jtc1-sc29_6-0" class="reference"><a href="#cite_note-jtc1-sc29-6"><span>[</span>6<span>]</span></a></sup></caption>
+<tr>
+<th width="8%">Part</th>
+<th width="15%">Number</th>
+<th width="8%">First public release date (First edition)</th>
+<th width="8%">Latest public release date (edition)</th>
+<th width="8%">Latest amendment</th>
+<th width="30%">Title</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>Part 1</td>
+<td><a rel="nofollow" class="external text" href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=34228">ISO/IEC 15938-1</a></td>
+<td>2002</td>
+<td>2002</td>
+<td>2006</td>
+<td>Systems</td>
+<td>the architectural framework of MPEG-7, the carriage of MPEG-7 content - TeM (Textual format for MPEG-7) and the binary format for MPEG-7 descriptions (<a href="//en.wikipedia.org/wiki/BiM" title="BiM">BiM</a>)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>Part 2</td>
+<td><a rel="nofollow" class="external text" href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=34229">ISO/IEC 15938-2</a></td>
+<td>2002</td>
+<td>2002</td>
+<td></td>
+<td>Description definition language</td>
+<td></td>
+</tr>
+<tr>
+<td>Part 3</td>
+<td><a rel="nofollow" class="external text" href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=34230">ISO/IEC 15938-3</a></td>
+<td>2002</td>
+<td>2002</td>
+<td>2010</td>
+<td>Visual</td>
+<td></td>
+</tr>
+<tr>
+<td>Part 4</td>
+<td><a rel="nofollow" class="external text" href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=34231">ISO/IEC 15938-4</a></td>
+<td>2002</td>
+<td>2002</td>
+<td>2006</td>
+<td>Audio</td>
+<td></td>
+</tr>
+<tr>
+<td>Part 5</td>
+<td><a rel="nofollow" class="external text" href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=34232">ISO/IEC 15938-5</a></td>
+<td>2003</td>
+<td>2003</td>
+<td>2008</td>
+<td>Multimedia description schemes</td>
+<td></td>
+</tr>
+<tr>
+<td>Part 6</td>
+<td><a rel="nofollow" class="external text" href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=35364">ISO/IEC 15938-6</a></td>
+<td>2003</td>
+<td>2003</td>
+<td>2010 (2011)</td>
+<td>Reference software</td>
+<td></td>
+</tr>
+<tr>
+<td>Part 7</td>
+<td><a rel="nofollow" class="external text" href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=35365">ISO/IEC 15938-7</a></td>
+<td>2003</td>
+<td>2003</td>
+<td>2010 (2011)</td>
+<td>Conformance testing</td>
+<td></td>
+</tr>
+<tr>
+<td>Part 8</td>
+<td><a rel="nofollow" class="external text" href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=37778">ISO/IEC TR 15938-8</a></td>
+<td>2002</td>
+<td>2002</td>
+<td>2010</td>
+<td>Extraction and use of MPEG-7 descriptions</td>
+<td></td>
+</tr>
+<tr>
+<td>Part 9</td>
+<td><a rel="nofollow" class="external text" href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=40392">ISO/IEC 15938-9</a></td>
+<td>2005</td>
+<td>2005</td>
+<td>(2011)</td>
+<td>Profiles and levels</td>
+<td></td>
+</tr>
+<tr>
+<td>Part 10</td>
+<td><a rel="nofollow" class="external text" href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=40527">ISO/IEC 15938-10</a></td>
+<td>2005</td>
+<td>2005</td>
+<td></td>
+<td>Schema definition</td>
+<td></td>
+</tr>
+<tr>
+<td>Part 11</td>
+<td><a rel="nofollow" class="external text" href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=42114">ISO/IEC TR 15938-11</a></td>
+<td>2005</td>
+<td>2005</td>
+<td></td>
+<td>MPEG-7 profile schemas</td>
+<td></td>
+</tr>
+<tr>
+<td>Part 12</td>
+<td><a rel="nofollow" class="external text" href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=46427">ISO/IEC 15938-12</a></td>
+<td>2008</td>
+<td>2008</td>
+<td>(2011)</td>
+<td>Query format</td>
+<td></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Relation_between_description_and_content">Relation between description and content</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:352px;"><a href="//en.wikipedia.org/wiki/File:Mpeg7image1.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Mpeg7image1.svg/350px-Mpeg7image1.svg.png" width="350" height="241" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Mpeg7image1.svg/525px-Mpeg7image1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Mpeg7image1.svg/700px-Mpeg7image1.svg.png 2x" data-file-width="535" data-file-height="369" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="//en.wikipedia.org/wiki/File:Mpeg7image1.svg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Independence between description and content</div>
+</div>
+</div>
+<p>An MPEG-7 architecture requirement is that <b>description must be separate from the audiovisual content</b>.</p>
+<p>On the other hand there must be a <b>relation between the content and description</b>. Thus the description is multiplexed with the content itself.</p>
+<p>On the right side you can see this relation between description and content.</p>
+<h2><span class="mw-headline" id="MPEG-7_tools">MPEG-7 tools</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:352px;"><a href="//en.wikipedia.org/wiki/File:Mpeg7image2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Mpeg7image2.svg/350px-Mpeg7image2.svg.png" width="350" height="288" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Mpeg7image2.svg/525px-Mpeg7image2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Mpeg7image2.svg/700px-Mpeg7image2.svg.png 2x" data-file-width="533" data-file-height="438" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="//en.wikipedia.org/wiki/File:Mpeg7image2.svg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Relation between different tools and elaboration process of MPEG-7</div>
+</div>
+</div>
+<p>MPEG-7 uses the following tools:</p>
+<ul>
+<li><b>Descriptor (D):</b> It is a representation of a feature defined syntactically and semantically. It could be that a unique object was described by several descriptors.</li>
+</ul>
+<ul>
+<li><b>Description Schemes (DS):</b> Specify the structure and semantics of the relations between its components, these components can be descriptors (D) or description schemes (DS).</li>
+</ul>
+<ul>
+<li><b><a href="//en.wikipedia.org/wiki/Description_Definition_Language" title="Description Definition Language">Description Definition Language</a> (DDL):</b> It is based on XML language used to define the structural relations between descriptors. It allows the creation and modification of description schemes and also the creation of new descriptors (D).</li>
+</ul>
+<ul>
+<li><b>System tools:</b> These tools deal with binarization, synchronization, transport and storage of descriptors. It also deals with <a href="//en.wikipedia.org/wiki/Intellectual_Property" title="Intellectual Property" class="mw-redirect">Intellectual Property</a> protection.</li>
+</ul>
+<p>On the right side you can see the relation between MPEG-7 tools.</p>
+<h2><span class="mw-headline" id="MPEG-7_applications">MPEG-7 applications</span></h2>
+<p>There are many applications and application domains which will benefit from the MPEG-7 standard. A few application examples are:</p>
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Digital_library" title="Digital library">Digital library</a>: Image/video catalogue, musical dictionary.</li>
+<li>Multimedia directory services: e.g. yellow pages.</li>
+<li>Broadcast media selection: Radio channel, TV channel.</li>
+<li>Multimedia editing: Personalized electronic news service, media authoring.</li>
+<li>Security services: Traffic control, production chains...</li>
+<li>E-business: Searching process of products.</li>
+<li>Cultural services: Art-galleries, museums...</li>
+<li>Educational applications.</li>
+<li>Biomedical applications.</li>
+</ul>
+<h2><span class="mw-headline" id="Software_and_demonstrators_for_MPEG-7">Software and demonstrators for MPEG-7</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.semanticmetadata.net/features">Caliph &amp; Emir</a>: Creation and Retrieval of images based on MPEG-7 (GPL).</li>
+<li><a rel="nofollow" class="external text" href="http://www.img-rummager.com">img(Rummager)</a>: Open Source implementation of the MPEG-7 descriptors in C#.</li>
+<li><a rel="nofollow" class="external text" href="http://frameline.tv/">Frameline 47 Video Notation</a>: Frameline 47 from Versatile Delivery Systems. The first commercial MPEG-7 application, Frameline 47 uses an advanced content schema based on MPEG-7 so as to be able to notate entire video files, or segments and groups of segments from within that video file according to the MPEG-7 convention (commercial tool)</li>
+<li><a rel="nofollow" class="external text" href="http://www.eptascape.com/">Eptascape ADS200</a> uses a real-time MPEG 7 encoder on an analog camera video signal to identify interesting events, especially in surveillance applications, check the <a rel="nofollow" class="external text" href="http://www.eptascape.com/products/demo.html">demos</a> to see MPEG-7 in action (commercial tool)</li>
+<li><a rel="nofollow" class="external text" href="http://www.research.ibm.com/VideoAnnEx/">IBM VideoAnnEx Annotation Tool</a>: Creating MPEG-7 documents for video streams describing structure and giving keywords from a controlled vocabulary (binary release, restrictive license)</li>
+<li><a rel="nofollow" class="external text" href="http://www.imk.fraunhofer.de/de/iFinder">iFinder Medienanalyse- und Retrievalsystem</a>: Metadata extraction and search engine based on MPEG-7 (commercial tool)</li>
+<li><a rel="nofollow" class="external text" href="http://sourceforge.net/projects/mpeg7audioenc/">MPEG-7 Audio Encoder</a>: Creating MPEG-7 documents for audio documents describing low level audio characteristics (binary &amp; source release, Java, GPL)</li>
+<li><a rel="nofollow" class="external text" href="http://andrewlindley.gmxhome.de/Master_Thesis_Andrew_Lindley_29_05_2006.pdf">XM Feature Extraction Web Service</a>: The functionalities of the eXperimentation Model(XM) are made available via web service interface to enable automatic MPEG-7 low-level visual description characterization of images.</li>
+<li><a rel="nofollow" class="external text" href="http://mpeg7lld.nue.tu-berlin.de/">TU Berlin MPEG-7 Audio Analyzer</a> (Web-Demo): Creating MPEG-7 documents (XML) for audio documents (WAV, MP3). All 17 MPEG-7 low level audio descriptors are implemented (commercial)</li>
+<li><a rel="nofollow" class="external text" href="http://mpeg7spkc.nue.tu-berlin.de/">TU Berlin MPEG-7 Spoken Content Demonstrator</a> (Web-Demo): Creating MPEG-7 documents (XML) with SpokenContent description from an input speech signal (WAV, MP3) (commercial)</li>
+<li><a rel="nofollow" class="external text" href="http://mpeg-7.joanneum.at/">MP7JRS C++ Library</a> Complete MPEG-7 implementation of part 3, 4 and 5 (visual, audio and MDS) by <a href="//en.wikipedia.org/wiki/Joanneum_Research" title="Joanneum Research">Joanneum Research</a> Institute for Information and Communication Technologies - Audiovisual Media Group.</li>
+<li><a rel="nofollow" class="external text" href="http://www.cs.bilkent.edu.tr/~bilmdg/bilvideo-7">BilVideo-7</a>: MPEG-7 compatible, distributed video indexing and retrieval system, supporting complex, multimodal, composite queries; developed by Bilkent University Multimedia Database Group (<a rel="nofollow" class="external text" href="http://www.cs.bilkent.edu.tr/~bilmdg/">BILMDG</a>).</li>
+<li><a rel="nofollow" class="external text" href="http://www.unisay.com/">UniSay</a>: Sophisticated Post-production file analysis and audio processing based on MPEG-7.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="//en.wikipedia.org/wiki/ID3" title="ID3">ID3</a></li>
+<li><a href="//en.wikipedia.org/wiki/Exif" title="Exif" class="mw-redirect">Exif</a></li>
+<li><a href="//en.wikipedia.org/wiki/Metadata_standards" title="Metadata standards">Metadata standards</a></li>
+<li><a href="//en.wikipedia.org/wiki/Query_by_humming" title="Query by humming">Query by humming</a></li>
+<li><a href="//en.wikipedia.org/wiki/MPEG-4_Part_11" title="MPEG-4 Part 11">MPEG-4 Part 11</a> - Scene description and application engine</li>
+<li><a href="//en.wikipedia.org/wiki/Multimedia_Information_Retrieval" title="Multimedia Information Retrieval">Multimedia Information Retrieval</a></li>
+</ul>
+<h2><span class="mw-headline" id="Compare">Compare</span></h2>
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Material_Exchange_Format" title="Material Exchange Format">Material Exchange Format</a> (MXF), a container format for professional digital video and audio media defined by <a href="//en.wikipedia.org/wiki/SMPTE" title="SMPTE" class="mw-redirect">SMPTE</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<ul>
+<li>B.S. Manjunath (Editor), Philippe Salembier (Editor), and Thomas Sikora (Editor): Introduction to MPEG-7: Multimedia Content Description Interface. Wiley &amp; Sons, April 2002 - <a href="//en.wikipedia.org/wiki/Special:BookSources/0471486787" class="internal mw-magiclink-isbn">ISBN 0-471-48678-7</a></li>
+<li>Harald Kosch: Distributed Multimedia Database Technologies Supported by MPEG-7 and MPEG-21. CRC Press, January 2004 - <a href="//en.wikipedia.org/wiki/Special:BookSources/0849318548" class="internal mw-magiclink-isbn">ISBN 0-8493-1854-8</a></li>
+<li>Giorgos Stamou (Editor) and Stefanos Kollias (Editor): Multimedia Content and the Semantic Web: Standards, Methods and Tools. Wiley &amp; Sons, May 2005 - <a href="//en.wikipedia.org/wiki/Special:BookSources/0470857536" class="internal mw-magiclink-isbn">ISBN 0-470-85753-6</a></li>
+<li>Hyoung-Gook Kim, Nicolas Moreau, and Thomas Sikora: MPEG-7 Audio and Beyond: Audio Content Indexing and Retrieval. Wiley &amp; Sons, October 2005 - <a href="//en.wikipedia.org/wiki/Special:BookSources/047009334X" class="internal mw-magiclink-isbn">ISBN 0-470-09334-X</a></li>
+</ul>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation web">ISO. <a rel="nofollow" class="external text" href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=34228">"ISO/IEC 15938-1:2002 - Information technology -- Multimedia content description interface -- Part 1: Systems"</a><span class="reference-accessdate">. Retrieved 2009-10-31</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMPEG-7&amp;rft.au=ISO&amp;rft.aulast=ISO&amp;rft.btitle=ISO%2FIEC+15938-1%3A2002+-+Information+technology+--+Multimedia+content+description+interface+--+Part+1%3A+Systems&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.iso.org%2Fiso%2Fiso_catalogue%2Fcatalogue_tc%2Fcatalogue_detail.htm%3Fcsnumber%3D34228&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web">MPEG. <a rel="nofollow" class="external text" href="http://mpeg.chiariglione.org/achievements.htm">"About MPEG - Achievements"</a>. chiariglione.org<span class="reference-accessdate">. Retrieved 2009-10-31</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMPEG-7&amp;rft.aulast=MPEG&amp;rft.au=MPEG&amp;rft.btitle=About+MPEG+-+Achievements&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmpeg.chiariglione.org%2Fachievements.htm&amp;rft.pub=chiariglione.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="//en.wikipedia.org/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since April 2012">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web">MPEG. <a rel="nofollow" class="external text" href="http://mpeg.chiariglione.org/terms_of_reference.htm">"Terms of Reference"</a>. chiariglione.org<span class="reference-accessdate">. Retrieved 2009-10-31</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMPEG-7&amp;rft.aulast=MPEG&amp;rft.au=MPEG&amp;rft.btitle=Terms+of+Reference&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmpeg.chiariglione.org%2Fterms_of_reference.htm&amp;rft.pub=chiariglione.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="//en.wikipedia.org/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since April 2012">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-mpeg-standards-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-mpeg-standards_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mpeg-standards_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">MPEG. <a rel="nofollow" class="external text" href="http://mpeg.chiariglione.org/standards.htm">"MPEG standards - Full list of standards developed or under development"</a>. chiariglione.org<span class="reference-accessdate">. Retrieved 2009-10-31</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMPEG-7&amp;rft.aulast=MPEG&amp;rft.au=MPEG&amp;rft.btitle=MPEG+standards+-+Full+list+of+standards+developed+or+under+development&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmpeg.chiariglione.org%2Fstandards.htm&amp;rft.pub=chiariglione.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="//en.wikipedia.org/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since April 2012">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation web">NetworkDictionary. <a rel="nofollow" class="external text" href="http://www.networkdictionary.com/protocols/m.php">"Complete Protocol dictionary, glossary and reference - M"</a><span class="reference-accessdate">. Retrieved 2009-12-26</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMPEG-7&amp;rft.aulast=NetworkDictionary&amp;rft.au=NetworkDictionary&amp;rft.btitle=Complete+Protocol+dictionary%2C+glossary+and+reference+-+M&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.networkdictionary.com%2Fprotocols%2Fm.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-jtc1-sc29-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-jtc1-sc29_6-0">^</a></b></span> <span class="reference-text"><span class="citation web">ISO/IEC JTC 1/SC 29 (2009-10-30). <a rel="nofollow" class="external text" href="http://www.itscj.ipsj.or.jp/sc29/29w42911.htm#MPEG-7">"MPEG-7 (Multimedia content description interface)"</a><span class="reference-accessdate">. Retrieved 2009-11-10</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMPEG-7&amp;rft.au=ISO%2FIEC+JTC+1%2FSC+29&amp;rft.aulast=ISO%2FIEC+JTC+1%2FSC+29&amp;rft.btitle=MPEG-7+%28Multimedia+content+description+interface%29&amp;rft.date=2009-10-30&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.itscj.ipsj.or.jp%2Fsc29%2F29w42911.htm%23MPEG-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation web">ISO/IEC JTC1/SC29/WG11 (October 2004). <a rel="nofollow" class="external text" href="http://mpeg.chiariglione.org/standards/mpeg-7/mpeg-7.htm">"MPEG-7 Overview (version 10)"</a>. chiariglione.org<span class="reference-accessdate">. Retrieved 2009-11-01</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMPEG-7&amp;rft.au=ISO%2FIEC+JTC1%2FSC29%2FWG11&amp;rft.aulast=ISO%2FIEC+JTC1%2FSC29%2FWG11&amp;rft.btitle=MPEG-7+Overview+%28version+10%29&amp;rft.date=October+2004&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmpeg.chiariglione.org%2Fstandards%2Fmpeg-7%2Fmpeg-7.htm&amp;rft.pub=chiariglione.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://mpeg.chiariglione.org/standards/mpeg-7/mpeg-7.htm">MPEG-7 Overview</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.m4if.org/resources.php#Section40">MPEG-7 Resources</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.multimedia-metadata.info">MPEG-7/-21 Community Portal</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="//en.wikipedia.org/wiki/Template:MPEG" title="Template:MPEG"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="//en.wikipedia.org/wiki/Template_talk:MPEG" title="Template talk:MPEG"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:MPEG&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;"><a href="//en.wikipedia.org/wiki/Moving_Picture_Experts_Group" title="Moving Picture Experts Group">MPEG (Moving Picture Experts Group)</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-size:115%;;">
+<div>
+<ul>
+<li><a href="//en.wikipedia.org/wiki/MPEG-1" title="MPEG-1">MPEG-1</a></li>
+<li><a href="//en.wikipedia.org/wiki/MPEG-2" title="MPEG-2">2</a></li>
+<li><a href="//en.wikipedia.org/wiki/MPEG-3" title="MPEG-3">3</a></li>
+<li><a href="//en.wikipedia.org/wiki/MPEG-4" title="MPEG-4">4</a></li>
+<li><strong class="selflink">7</strong></li>
+<li><a href="//en.wikipedia.org/wiki/MPEG-21" title="MPEG-21">21</a></li>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li><a href="//en.wikipedia.org/wiki/MPEG-D" title="MPEG-D">D</a></li>
+<li>E</li>
+<li>V</li>
+<li>M</li>
+<li>U</li>
+<li><a href="//en.wikipedia.org/wiki/MPEG-H" title="MPEG-H">H</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">MPEG-1 Parts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>Part 1: Systems
+<ul>
+<li><a href="//en.wikipedia.org/wiki/MPEG_program_stream" title="MPEG program stream">Program stream</a></li>
+</ul>
+</li>
+<li>Part 2: Video
+<ul>
+<li>based on <a href="//en.wikipedia.org/wiki/H.261" title="H.261">H.261</a></li>
+</ul>
+</li>
+<li>Part 3: Audio
+<ul>
+<li><a href="//en.wikipedia.org/wiki/MPEG-1_Audio_Layer_I" title="MPEG-1 Audio Layer I">Layer I</a></li>
+<li><a href="//en.wikipedia.org/wiki/MPEG-1_Audio_Layer_II" title="MPEG-1 Audio Layer II">Layer II</a></li>
+<li><a href="//en.wikipedia.org/wiki/MP3" title="MP3">Layer III</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">MPEG-2 Parts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>Part 1: Systems (H.222.0)
+<ul>
+<li><a href="//en.wikipedia.org/wiki/MPEG_transport_stream" title="MPEG transport stream">Transport stream</a></li>
+<li><a href="//en.wikipedia.org/wiki/MPEG_program_stream" title="MPEG program stream">Program stream</a></li>
+</ul>
+</li>
+<li><a href="//en.wikipedia.org/wiki/H.262/MPEG-2_Part_2" title="H.262/MPEG-2 Part 2">Part 2: Video (H.262)</a></li>
+<li><a href="//en.wikipedia.org/wiki/MPEG-2_Part_3" title="MPEG-2 Part 3">Part 3: Audio</a>
+<ul>
+<li><a href="//en.wikipedia.org/wiki/MPEG-1_Audio_Layer_I" title="MPEG-1 Audio Layer I">Layer I</a></li>
+<li><a href="//en.wikipedia.org/wiki/MPEG-2_Audio_Layer_II" title="MPEG-2 Audio Layer II" class="mw-redirect">Layer II</a></li>
+<li><a href="//en.wikipedia.org/wiki/MP3" title="MP3">Layer III</a></li>
+<li><a href="//en.wikipedia.org/wiki/MPEG_Multichannel" title="MPEG Multichannel">MPEG Multichannel</a></li>
+</ul>
+</li>
+<li><a href="//en.wikipedia.org/wiki/DSM_CC" title="DSM CC">Part 6: DSM CC</a></li>
+<li><a href="//en.wikipedia.org/wiki/Advanced_Audio_Coding" title="Advanced Audio Coding">Part 7: Advanced Audio Coding</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">MPEG-4 Parts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/MPEG-4_Part_2" title="MPEG-4 Part 2">Part 2: Video</a>
+<ul>
+<li>based on <a href="//en.wikipedia.org/wiki/H.263" title="H.263">H.263</a></li>
+</ul>
+</li>
+<li><a href="//en.wikipedia.org/wiki/MPEG-4_Part_3" title="MPEG-4 Part 3">Part 3: Audio</a></li>
+<li><a href="//en.wikipedia.org/wiki/Delivery_Multimedia_Integration_Framework" title="Delivery Multimedia Integration Framework">Part 6: DMIF</a></li>
+<li><a href="//en.wikipedia.org/wiki/H.264/MPEG-4_AVC" title="H.264/MPEG-4 AVC">Part 10: Advanced Video Coding (H.264)</a></li>
+<li><a href="//en.wikipedia.org/wiki/MPEG-4_Part_11" title="MPEG-4 Part 11">Part 11: Scene description</a></li>
+<li><a href="//en.wikipedia.org/wiki/ISO_base_media_file_format" title="ISO base media file format">Part 12: ISO base media file format</a></li>
+<li><a href="//en.wikipedia.org/wiki/MPEG-4_Part_14" title="MPEG-4 Part 14">Part 14: MP4 file format</a></li>
+<li><a href="//en.wikipedia.org/wiki/MPEG-4_Part_17" title="MPEG-4 Part 17">Part 17: Streaming text format</a></li>
+<li><a href="//en.wikipedia.org/wiki/MPEG-4_Part_20" title="MPEG-4 Part 20">Part 20: LASeR</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">MPEG-7 Parts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Description_Definition_Language" title="Description Definition Language">Part 2: Description definition language</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">MPEG-21 Parts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Digital_Item" title="Digital Item">Parts 2, 3 and 9: Digital Item</a></li>
+<li><a href="//en.wikipedia.org/wiki/Rights_Expression_Language" title="Rights Expression Language">Part 5: Rights Expression Language</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">MPEG-D Parts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/MPEG_Surround" title="MPEG Surround">Part 1: MPEG Surround</a></li>
+<li><a href="//en.wikipedia.org/wiki/Unified_Speech_and_Audio_Coding" title="Unified Speech and Audio Coding">Part 3: Unified Speech and Audio Coding</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">MPEG-H Parts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/MPEG_media_transport" title="MPEG media transport">Part 1: MPEG media transport</a></li>
+<li><a href="//en.wikipedia.org/wiki/High_Efficiency_Video_Coding" title="High Efficiency Video Coding">Part 2: High Efficiency Video Coding</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"><a href="//en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP" title="Dynamic Adaptive Streaming over HTTP">MPEG-DASH</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="//en.wikipedia.org/wiki/Template:Compression_formats" title="Template:Compression formats"><span title="View this template" style=";;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="//en.wikipedia.org/wiki/Template_talk:Compression_formats" title="Template talk:Compression formats"><span title="Discuss this template" style=";;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Compression_formats&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%;"><a href="//en.wikipedia.org/wiki/Multimedia" title="Multimedia">Multimedia</a> <a href="//en.wikipedia.org/wiki/Data_compression" title="Data compression">compression</a> and <a href="//en.wikipedia.org/wiki/Container_format_(digital)" title="Container format (digital)" class="mw-redirect">container</a> formats</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="//en.wikipedia.org/wiki/Data_compression#Video" title="Data compression">Video<br />
+compression</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="width:5em;"><a href="//en.wikipedia.org/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">ISO</a>/<a href="//en.wikipedia.org/wiki/International_Electrotechnical_Commission" title="International Electrotechnical Commission">IEC</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Motion_JPEG" title="Motion JPEG">MJPEG</a></li>
+<li><a href="//en.wikipedia.org/wiki/JPEG_2000#Motion_JPEG_2000" title="JPEG 2000">Motion JPEG 2000</a></li>
+<li><a href="//en.wikipedia.org/wiki/MPEG-1" title="MPEG-1">MPEG-1</a></li>
+<li><a href="//en.wikipedia.org/wiki/MPEG-2" title="MPEG-2">MPEG-2</a>
+<ul>
+<li><a href="//en.wikipedia.org/wiki/H.262/MPEG-2_Part_2" title="H.262/MPEG-2 Part 2">Part 2</a></li>
+</ul>
+</li>
+<li><a href="//en.wikipedia.org/wiki/MPEG-4" title="MPEG-4">MPEG-4</a>
+<ul>
+<li><a href="//en.wikipedia.org/wiki/MPEG-4_Part_2" title="MPEG-4 Part 2">Part 2/ASP</a></li>
+<li><a href="//en.wikipedia.org/wiki/H.264/MPEG-4_AVC" title="H.264/MPEG-4 AVC">Part 10/AVC</a></li>
+</ul>
+</li>
+<li><a href="//en.wikipedia.org/wiki/MPEG-H" title="MPEG-H">MPEG-H</a>
+<ul>
+<li><a href="//en.wikipedia.org/wiki/High_Efficiency_Video_Coding" title="High Efficiency Video Coding">Part 2/HEVC</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:5em;"><a href="//en.wikipedia.org/wiki/ITU-T" title="ITU-T">ITU-T</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/H.120" title="H.120">H.120</a></li>
+<li><a href="//en.wikipedia.org/wiki/H.261" title="H.261">H.261</a></li>
+<li><a href="//en.wikipedia.org/wiki/H.262/MPEG-2_Part_2" title="H.262/MPEG-2 Part 2">H.262</a></li>
+<li><a href="//en.wikipedia.org/wiki/H.263" title="H.263">H.263</a></li>
+<li><a href="//en.wikipedia.org/wiki/H.264/MPEG-4_AVC" title="H.264/MPEG-4 AVC">H.264</a></li>
+<li><a href="//en.wikipedia.org/wiki/High_Efficiency_Video_Coding" title="High Efficiency Video Coding">H.265</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:5em;">Others</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Apple_Video" title="Apple Video">Apple Video</a></li>
+<li><a href="//en.wikipedia.org/wiki/Audio_Video_Standard" title="Audio Video Standard">AVS</a></li>
+<li><a href="//en.wikipedia.org/wiki/Bink_Video" title="Bink Video">Bink</a></li>
+<li><a href="//en.wikipedia.org/wiki/CineForm" title="CineForm">CineForm</a></li>
+<li><a href="//en.wikipedia.org/wiki/Cinepak" title="Cinepak">Cinepak</a></li>
+<li><a href="//en.wikipedia.org/wiki/Daala" title="Daala">Daala</a></li>
+<li><a href="//en.wikipedia.org/wiki/Dirac_(video_compression_format)" title="Dirac (video compression format)">Dirac</a></li>
+<li><a href="//en.wikipedia.org/wiki/DV" title="DV">DV</a></li>
+<li><a href="//en.wikipedia.org/wiki/Digital_Video_Interactive" title="Digital Video Interactive">DVI</a></li>
+<li><a href="//en.wikipedia.org/wiki/FFV1" title="FFV1">FFV1</a></li>
+<li><a href="//en.wikipedia.org/wiki/Huffyuv" title="Huffyuv">Huffyuv</a></li>
+<li><a href="//en.wikipedia.org/wiki/Indeo" title="Indeo">Indeo</a></li>
+<li><a href="//en.wikipedia.org/wiki/Microsoft_Video_1" title="Microsoft Video 1">Microsoft Video 1</a></li>
+<li><a href="//en.wikipedia.org/wiki/MSU_Lossless_Video_Codec" title="MSU Lossless Video Codec">MSU Lossless</a></li>
+<li><a href="//en.wikipedia.org/wiki/Lagarith" title="Lagarith">Lagarith</a></li>
+<li><a href="//en.wikipedia.org/wiki/OMS_Video" title="OMS Video">OMS Video</a></li>
+<li><a href="//en.wikipedia.org/wiki/Pixlet" title="Pixlet">Pixlet</a></li>
+<li><a href="//en.wikipedia.org/wiki/ProRes_422" title="ProRes 422" class="mw-redirect">ProRes 422</a></li>
+<li><a href="//en.wikipedia.org/wiki/ProRes_4444" title="ProRes 4444" class="mw-redirect">ProRes 4444</a></li>
+<li>QuickTime
+<ul>
+<li><a href="//en.wikipedia.org/wiki/QuickTime_Animation" title="QuickTime Animation">Animation</a></li>
+<li><a href="//en.wikipedia.org/wiki/QuickTime_Graphics" title="QuickTime Graphics">Graphics</a></li>
+</ul>
+</li>
+<li><a href="//en.wikipedia.org/wiki/RealVideo" title="RealVideo">RealVideo</a></li>
+<li><a href="//en.wikipedia.org/wiki/RTVideo" title="RTVideo">RTVideo</a></li>
+<li><a href="//en.wikipedia.org/wiki/SheerVideo" title="SheerVideo">SheerVideo</a></li>
+<li><a href="//en.wikipedia.org/wiki/Smacker_video" title="Smacker video">Smacker</a></li>
+<li><a href="//en.wikipedia.org/wiki/Sorenson_codec" title="Sorenson codec" class="mw-redirect">Sorenson Video, Spark</a></li>
+<li><a href="//en.wikipedia.org/wiki/Theora" title="Theora">Theora</a></li>
+<li><a href="//en.wikipedia.org/wiki/VC-1" title="VC-1">VC-1</a></li>
+<li><a href="//en.wikipedia.org/wiki/Dirac_(video_compression_format)" title="Dirac (video compression format)">VC-2</a></li>
+<li><a href="//en.wikipedia.org/wiki/DNxHD_codec" title="DNxHD codec">VC-3</a></li>
+<li><a href="//en.wikipedia.org/wiki/VP3" title="VP3">VP3</a></li>
+<li><a href="//en.wikipedia.org/wiki/VP6" title="VP6">VP6</a></li>
+<li><a href="//en.wikipedia.org/wiki/VP7" title="VP7" class="mw-redirect">VP7</a></li>
+<li><a href="//en.wikipedia.org/wiki/VP8" title="VP8">VP8</a></li>
+<li><a href="//en.wikipedia.org/wiki/VP9" title="VP9">VP9</a></li>
+<li><a href="//en.wikipedia.org/wiki/Windows_Media_Video" title="Windows Media Video">WMV</a></li>
+<li><a href="//en.wikipedia.org/wiki/RatDVD" title="RatDVD">XEB</a></li>
+<li><a href="//en.wikipedia.org/wiki/YULS" title="YULS">YULS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="//en.wikipedia.org/wiki/Data_compression#Audio" title="Data compression">Audio<br />
+compression</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="width:5em;"><a href="//en.wikipedia.org/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">ISO</a>/<a href="//en.wikipedia.org/wiki/International_Electrotechnical_Commission" title="International Electrotechnical Commission">IEC</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/MP3" title="MP3">MPEG-1 Layer III (MP3)</a></li>
+<li><a href="//en.wikipedia.org/wiki/MPEG-1_Audio_Layer_II" title="MPEG-1 Audio Layer II">MPEG-1 Layer II</a>
+<ul>
+<li><a href="//en.wikipedia.org/wiki/MPEG_Multichannel" title="MPEG Multichannel">Multichannel</a></li>
+</ul>
+</li>
+<li><a href="//en.wikipedia.org/wiki/MPEG-1_Audio_Layer_I" title="MPEG-1 Audio Layer I">MPEG-1 Layer I</a></li>
+<li><a href="//en.wikipedia.org/wiki/Advanced_Audio_Coding" title="Advanced Audio Coding">AAC</a></li>
+<li><a href="//en.wikipedia.org/wiki/High-Efficiency_Advanced_Audio_Coding" title="High-Efficiency Advanced Audio Coding">HE-AAC</a></li>
+<li><a href="//en.wikipedia.org/wiki/MPEG_Surround" title="MPEG Surround">MPEG Surround</a></li>
+<li><a href="//en.wikipedia.org/wiki/Audio_Lossless_Coding" title="Audio Lossless Coding">MPEG-4 ALS</a></li>
+<li><a href="//en.wikipedia.org/wiki/MPEG-4_SLS" title="MPEG-4 SLS">MPEG-4 SLS</a></li>
+<li><a href="//en.wikipedia.org/wiki/Super_Audio_CD#DST" title="Super Audio CD">MPEG-4 DST</a></li>
+<li><a href="//en.wikipedia.org/wiki/Harmonic_Vector_Excitation_Coding" title="Harmonic Vector Excitation Coding">MPEG-4 HVXC</a></li>
+<li><a href="//en.wikipedia.org/wiki/Code-excited_linear_prediction" title="Code-excited linear prediction">MPEG-4 CELP</a></li>
+<li><a href="//en.wikipedia.org/wiki/Unified_Speech_and_Audio_Coding" title="Unified Speech and Audio Coding">MPEG-D USAC</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:5em;"><a href="//en.wikipedia.org/wiki/ITU-T" title="ITU-T">ITU-T</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/G.711" title="G.711">G.711</a></li>
+<li><a href="//en.wikipedia.org/wiki/G.718" title="G.718">G.718</a></li>
+<li><a href="//en.wikipedia.org/wiki/G.719" title="G.719">G.719</a></li>
+<li><a href="//en.wikipedia.org/wiki/G.722" title="G.722">G.722</a></li>
+<li><a href="//en.wikipedia.org/wiki/G.722.1" title="G.722.1">G.722.1</a></li>
+<li><a href="//en.wikipedia.org/wiki/Adaptive_Multi-Rate_Wideband" title="Adaptive Multi-Rate Wideband">G.722.2</a></li>
+<li><a href="//en.wikipedia.org/wiki/G.723" title="G.723">G.723</a></li>
+<li><a href="//en.wikipedia.org/wiki/G.723.1" title="G.723.1">G.723.1</a></li>
+<li><a href="//en.wikipedia.org/wiki/G.726" title="G.726">G.726</a></li>
+<li><a href="//en.wikipedia.org/wiki/G.728" title="G.728">G.728</a></li>
+<li><a href="//en.wikipedia.org/wiki/G.729" title="G.729">G.729</a></li>
+<li><a href="//en.wikipedia.org/wiki/G.729.1" title="G.729.1">G.729.1</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:5em;">Others</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Algebraic_code-excited_linear_prediction" title="Algebraic code-excited linear prediction">ACELP</a></li>
+<li><a href="//en.wikipedia.org/wiki/Dolby_Digital" title="Dolby Digital">AC-3</a></li>
+<li><a href="//en.wikipedia.org/wiki/Adaptive_Multi-Rate_audio_codec" title="Adaptive Multi-Rate audio codec">AMR</a></li>
+<li><a href="//en.wikipedia.org/wiki/Adaptive_Multi-Rate_Wideband" title="Adaptive Multi-Rate Wideband">AMR-WB</a></li>
+<li><a href="//en.wikipedia.org/wiki/Extended_Adaptive_Multi-Rate_%E2%80%93_Wideband" title="Extended Adaptive Multi-Rate – Wideband">AMR-WB+</a></li>
+<li><a href="//en.wikipedia.org/wiki/Apple_Lossless" title="Apple Lossless">ALAC</a></li>
+<li><a href="//en.wikipedia.org/wiki/Asao_(codec)" title="Asao (codec)">Asao</a></li>
+<li><a href="//en.wikipedia.org/wiki/Adaptive_Transform_Acoustic_Coding" title="Adaptive Transform Acoustic Coding">ATRAC</a></li>
+<li><a href="//en.wikipedia.org/wiki/CELT" title="CELT">CELT</a></li>
+<li><a href="//en.wikipedia.org/wiki/Codec2" title="Codec2">Codec2</a></li>
+<li><a href="//en.wikipedia.org/wiki/Dynamic_Resolution_Adaptation" title="Dynamic Resolution Adaptation">DRA</a></li>
+<li><a href="//en.wikipedia.org/wiki/DTS_(sound_system)" title="DTS (sound system)">DTS</a></li>
+<li><a href="//en.wikipedia.org/wiki/Enhanced_Variable_Rate_Codec" title="Enhanced Variable Rate Codec">EVRC</a></li>
+<li><a href="//en.wikipedia.org/wiki/Enhanced_Variable_Rate_Codec_B" title="Enhanced Variable Rate Codec B">EVRC-B</a></li>
+<li><a href="//en.wikipedia.org/wiki/FLAC" title="FLAC">FLAC</a></li>
+<li><a href="//en.wikipedia.org/wiki/Half_Rate" title="Half Rate">GSM-HR</a></li>
+<li><a href="//en.wikipedia.org/wiki/Full_Rate" title="Full Rate">GSM-FR</a></li>
+<li><a href="//en.wikipedia.org/wiki/Enhanced_full_rate" title="Enhanced full rate">GSM-EFR</a></li>
+<li><a href="//en.wikipedia.org/wiki/Internet_Low_Bitrate_Codec" title="Internet Low Bitrate Codec">iLBC</a></li>
+<li><a href="//en.wikipedia.org/wiki/Internet_Speech_Audio_Codec" title="Internet Speech Audio Codec">iSAC</a></li>
+<li><a href="//en.wikipedia.org/wiki/Monkey%27s_Audio" title="Monkey's Audio">Monkey's Audio</a></li>
+<li><a href="//en.wikipedia.org/wiki/TTA_(codec)" title="TTA (codec)">TTA</a>
+<ul>
+<li>True Audio</li>
+</ul>
+</li>
+<li><a href="//en.wikipedia.org/wiki/MT9" title="MT9">MT9</a></li>
+<li><a href="//en.wikipedia.org/wiki/A-law_algorithm" title="A-law algorithm">A-law</a></li>
+<li><a href="//en.wikipedia.org/wiki/%CE%9C-law_algorithm" title="Μ-law algorithm">µ-law</a></li>
+<li><a href="//en.wikipedia.org/wiki/Musepack" title="Musepack">Musepack</a></li>
+<li><a href="//en.wikipedia.org/wiki/OptimFROG" title="OptimFROG">OptimFROG</a></li>
+<li><a href="//en.wikipedia.org/wiki/Opus_(audio_codec)" title="Opus (audio codec)">Opus</a></li>
+<li><a href="//en.wikipedia.org/wiki/Original_Sound_Quality" title="Original Sound Quality">OSQ</a></li>
+<li><a href="//en.wikipedia.org/wiki/Qualcomm_code-excited_linear_prediction" title="Qualcomm code-excited linear prediction">QCELP</a></li>
+<li><a href="//en.wikipedia.org/wiki/Relaxed_code-excited_linear_prediction" title="Relaxed code-excited linear prediction">RCELP</a></li>
+<li><a href="//en.wikipedia.org/wiki/RealAudio" title="RealAudio">RealAudio</a></li>
+<li><a href="//en.wikipedia.org/wiki/RTAudio" title="RTAudio">RTAudio</a></li>
+<li><a href="//en.wikipedia.org/wiki/Avid_Audio#Sound_Designer_file_formats" title="Avid Audio">SD2</a></li>
+<li><a href="//en.wikipedia.org/wiki/Shorten_(file_format)" title="Shorten (file format)">SHN</a></li>
+<li><a href="//en.wikipedia.org/wiki/SILK" title="SILK">SILK</a></li>
+<li><a href="//en.wikipedia.org/wiki/Siren_(codec)" title="Siren (codec)">Siren</a></li>
+<li><a href="//en.wikipedia.org/wiki/Selectable_Mode_Vocoder" title="Selectable Mode Vocoder">SMV</a></li>
+<li><a href="//en.wikipedia.org/wiki/Speex" title="Speex">Speex</a></li>
+<li><a href="//en.wikipedia.org/wiki/SVOPC" title="SVOPC">SVOPC</a></li>
+<li><a href="//en.wikipedia.org/wiki/TwinVQ" title="TwinVQ">TwinVQ</a></li>
+<li><a href="//en.wikipedia.org/wiki/Variable-Rate_Multimode_Wideband" title="Variable-Rate Multimode Wideband">VMR-WB</a></li>
+<li><a href="//en.wikipedia.org/wiki/Vorbis" title="Vorbis">Vorbis</a></li>
+<li><a href="//en.wikipedia.org/wiki/Vector_sum_excited_linear_prediction" title="Vector sum excited linear prediction">VSELP</a></li>
+<li><a href="//en.wikipedia.org/wiki/WavPack" title="WavPack">WavPack</a></li>
+<li><a href="//en.wikipedia.org/wiki/Windows_Media_Audio" title="Windows Media Audio">WMA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="//en.wikipedia.org/wiki/Image_compression" title="Image compression">Image<br />
+compression</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="width:5em;">IEC, ISO,<br />
+ITU-T</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Group_4_compression" title="Group 4 compression">CCITT Group 4</a></li>
+<li><a href="//en.wikipedia.org/wiki/JPEG" title="JPEG">JPEG</a></li>
+<li><a href="//en.wikipedia.org/wiki/JPEG_2000" title="JPEG 2000">JPEG 2000</a></li>
+<li><a href="//en.wikipedia.org/wiki/JPEG_XR" title="JPEG XR">JPEG XR</a></li>
+<li><a href="//en.wikipedia.org/wiki/Lossless_JPEG" title="Lossless JPEG">Lossless JPEG</a></li>
+<li><a href="//en.wikipedia.org/wiki/JBIG" title="JBIG">JBIG</a></li>
+<li><a href="//en.wikipedia.org/wiki/JBIG2" title="JBIG2">JBIG2</a></li>
+<li><a href="//en.wikipedia.org/wiki/Portable_Network_Graphics" title="Portable Network Graphics">PNG</a></li>
+<li><a href="//en.wikipedia.org/wiki/TIFF/EP" title="TIFF/EP">TIFF/EP</a></li>
+<li><a href="//en.wikipedia.org/wiki/Tagged_Image_File_Format#TIFF.2FIT" title="Tagged Image File Format">TIFF/IT</a></li>
+<li><a href="//en.wikipedia.org/wiki/High_Efficiency_Video_Coding#Main_Still_Picture" title="High Efficiency Video Coding">HEVC</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:5em;">Others</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/APNG" title="APNG">APNG</a></li>
+<li><a href="//en.wikipedia.org/wiki/DjVu" title="DjVu">DjVu</a></li>
+<li><a href="//en.wikipedia.org/wiki/OpenEXR" title="OpenEXR">EXR</a></li>
+<li><a href="//en.wikipedia.org/wiki/Graphics_Interchange_Format" title="Graphics Interchange Format">GIF</a></li>
+<li><a href="//en.wikipedia.org/wiki/ICER" title="ICER">ICER</a></li>
+<li><a href="//en.wikipedia.org/wiki/Multiple-image_Network_Graphics" title="Multiple-image Network Graphics">MNG</a></li>
+<li><a href="//en.wikipedia.org/wiki/Progressive_Graphics_File" title="Progressive Graphics File">PGF</a></li>
+<li><a href="//en.wikipedia.org/wiki/QuickTime_VR" title="QuickTime VR">QTVR</a></li>
+<li><a href="//en.wikipedia.org/wiki/Tagged_Image_File_Format" title="Tagged Image File Format">TIFF</a></li>
+<li><a href="//en.wikipedia.org/wiki/Wireless_Application_Protocol_Bitmap_Format" title="Wireless Application Protocol Bitmap Format">WBMP</a></li>
+<li><a href="//en.wikipedia.org/wiki/WebP" title="WebP">WebP</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="//en.wikipedia.org/wiki/Digital_container_format" title="Digital container format">Containers</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+<tr>
+<th scope="row" class="navbox-group" style="width:5em;">ISO/IEC</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/MPEG_program_stream" title="MPEG program stream">MPEG-PS</a></li>
+<li><a href="//en.wikipedia.org/wiki/MPEG_transport_stream" title="MPEG transport stream">MPEG-TS</a></li>
+<li><a href="//en.wikipedia.org/wiki/ISO_base_media_file_format" title="ISO base media file format">ISO base media file format</a></li>
+<li><a href="//en.wikipedia.org/wiki/MPEG-4_Part_14" title="MPEG-4 Part 14">MPEG-4 Part 14</a></li>
+<li><a href="//en.wikipedia.org/wiki/JPEG_2000#Motion_JPEG_2000" title="JPEG 2000">Motion JPEG 2000</a></li>
+<li><a href="//en.wikipedia.org/wiki/Digital_Item#File_Format" title="Digital Item">MPEG-21 Part 9</a></li>
+<li><a href="//en.wikipedia.org/wiki/MPEG_media_transport" title="MPEG media transport">MPEG media transport</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:5em;">ITU-T</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/MPEG-2#Systems" title="MPEG-2">H.222.0</a></li>
+<li><a href="//en.wikipedia.org/wiki/JPEG_2000#Motion_JPEG_2000" title="JPEG 2000">T.802</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:5em;">Others</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="//en.wikipedia.org/wiki/3GP_and_3G2" title="3GP and 3G2">3GP and 3G2</a></li>
+<li><a href="//en.wikipedia.org/wiki/AMV_video_format" title="AMV video format">AMV</a></li>
+<li><a href="//en.wikipedia.org/wiki/Advanced_Systems_Format" title="Advanced Systems Format">ASF</a></li>
+<li><a href="//en.wikipedia.org/wiki/Audio_Interchange_File_Format" title="Audio Interchange File Format">AIFF</a></li>
+<li><a href="//en.wikipedia.org/wiki/Audio_Video_Interleave" title="Audio Video Interleave">AVI</a></li>
+<li><a href="//en.wikipedia.org/wiki/Au_file_format" title="Au file format">AU</a></li>
+<li><a href="//en.wikipedia.org/wiki/Bink_Video" title="Bink Video">Bink</a>
+<ul>
+<li><a href="//en.wikipedia.org/wiki/Smacker_video" title="Smacker video">Smacker</a></li>
+</ul>
+</li>
+<li><a href="//en.wikipedia.org/wiki/BMP_file_format" title="BMP file format">BMP</a></li>
+<li><a href="//en.wikipedia.org/wiki/DivX#DivX_Media_Format_.28DMF.29" title="DivX">DivX Media Format</a></li>
+<li><a href="//en.wikipedia.org/wiki/Enhanced_VOB" title="Enhanced VOB">EVO</a></li>
+<li><a href="//en.wikipedia.org/wiki/Flash_Video" title="Flash Video">Flash Video</a></li>
+<li><a href="//en.wikipedia.org/wiki/General_Exchange_Format" title="General Exchange Format">GXF</a></li>
+<li><a href="//en.wikipedia.org/wiki/Interchange_File_Format" title="Interchange File Format">IFF</a></li>
+<li><a href="//en.wikipedia.org/wiki/.m2ts" title=".m2ts">M2TS</a></li>
+<li><a href="//en.wikipedia.org/wiki/Matroska" title="Matroska">Matroska</a>
+<ul>
+<li><a href="//en.wikipedia.org/wiki/WebM" title="WebM">WebM</a></li>
+</ul>
+</li>
+<li><a href="//en.wikipedia.org/wiki/Material_Exchange_Format" title="Material Exchange Format">MXF</a></li>
+<li><a href="//en.wikipedia.org/wiki/Ogg" title="Ogg">Ogg</a></li>
+<li><a href="//en.wikipedia.org/wiki/QuickTime_File_Format" title="QuickTime File Format">QuickTime File Format</a></li>
+<li><a href="//en.wikipedia.org/wiki/RatDVD" title="RatDVD">RatDVD</a></li>
+<li><a href="//en.wikipedia.org/wiki/RealMedia" title="RealMedia">RealMedia</a></li>
+<li><a href="//en.wikipedia.org/wiki/REDCODE" title="REDCODE">REDCODE</a></li>
+<li><a href="//en.wikipedia.org/wiki/Resource_Interchange_File_Format" title="Resource Interchange File Format">RIFF</a>
+<ul>
+<li><a href="//en.wikipedia.org/wiki/WAV" title="WAV">WAV</a></li>
+</ul>
+</li>
+<li><a href="//en.wikipedia.org/wiki/MOD_and_TOD" title="MOD and TOD">MOD and TOD</a></li>
+<li><a href="//en.wikipedia.org/wiki/VOB" title="VOB">VOB, IFO and BUP</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>See <a href="//en.wikipedia.org/wiki/Template:Compression_methods" title="Template:Compression methods">Compression methods</a> for methods and <a href="//en.wikipedia.org/wiki/Template:Compression_software" title="Template:Compression software">Compression software</a> for codecs</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1060
+CPU time usage: 0.872 seconds
+Real time usage: 0.924 seconds
+Preprocessor visited node count: 973/1000000
+Preprocessor generated node count: 3274/1500000
+Post‐expand include size: 79005/2048000 bytes
+Template argument size: 1638/2048000 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 5/500
+Lua time usage: 0.102/10.000 seconds
+Lua memory usage: 2.66 MB/50 MB
+-->
