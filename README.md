@@ -1,6 +1,6 @@
 WikiTableQuestions Dataset
 ==========================
-Version 0.5 (July 5, 2016)
+Version 1.0 (October 4, 2016)
 
 Introduction
 ------------
@@ -12,11 +12,11 @@ semi-structured HTML tables as presented in the paper:
 >   Compositional Semantic Parsing on Semi-Structured Tables  
 >   Association for Computational Linguistics (ACL), 2015.
 
-About TSV Format
-----------------
+TSV Format
+----------
 
-Many files in this dataset are stored as tab-separated values (TSV).
-They use the following special constructs:
+Many files in this dataset are stored as tab-separated values (TSV) with
+the following special constructs:
 
 - List items are separated by `|` (e.g., `when|was|taylor|swift|born|?`).
 
@@ -139,7 +139,7 @@ but it is usually good enough.
   - targetCanon: canonical form of the answers where numbers and dates
      are converted into normalized values
   - targetCanonType: type of the canonical answers; possible values include
-     "number", "date", and "string".
+     "number", "date", "string", and "mixed"
 
 - `tagged/xxx-tagged/yyy.tagged`:
   Tab-separated file containing the CoreNLP annotation of each table cell.
@@ -168,8 +168,33 @@ but it is usually good enough.
 
   Header cells do not have these optional fields.
 
+Evaluator
+---------
+
+`evaluator.py` is the official evaluator.
+
+Usage:
+    evaluator.py <tagged_dataset_path> <prediction_path>
+
+- `tagged_dataset_path` should be a dataset .tagged file containing the
+  relevant examples
+
+- `prediction_path` should contain predictions from the model.
+  Each line should contain
+    ex_id <tab> item1 <tab> item2 <tab> ...
+  If the model does not produce a prediction, just output `ex_id` without
+  the items.
+
+Note that the resulting scores will be different from what
+[SEMPRE](https://github.com/percyliang/sempre/) produces as SEMPRE also
+enforces the prediction to have the same type as the target value, while
+the official evaluator is more lenient.
+
 Version History
 ---------------
+
+1.0 - Fixed various bugs in datasets
+      (encoding issues, number normalization issues)
 
 0.5 - Added evaluator
 

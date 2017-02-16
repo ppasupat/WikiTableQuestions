@@ -206,7 +206,7 @@ nt-203	which candidate got the least votes in the entire districts?	csv/204-csv/
 nt-204	how many teams had at least 15 wins?	csv/203-csv/145.csv	8
 nt-205	what is the difference in tom power's number and jon wood's number?	csv/204-csv/89.csv	5
 nt-206	what car achieved the highest qual?	csv/203-csv/339.csv	40
-nt-207	what was the first computer to use a decimal numeral system?	csv/204-csv/577.csv	Harvard Mark I IBM ASCC
+nt-207	what was the first computer to use a decimal numeral system?	csv/204-csv/577.csv	Harvard Mark I - IBM ASCC
 nt-208	which secretary of state came after jack pkckersgill?	csv/201-csv/27.csv	Roch Pinard
 nt-209	which album did she produce before good rain?	csv/204-csv/529.csv	Pixiedust
 nt-210	how many athletes are not ranked?	csv/204-csv/713.csv	21

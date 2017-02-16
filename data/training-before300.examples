@@ -205,7 +205,7 @@
 (example (id nt-204) (utterance "how many teams had at least 15 wins?") (context (graph tables.TableKnowledgeGraph csv/203-csv/145.csv)) (targetValue (list (description "8"))))
 (example (id nt-205) (utterance "what is the difference in tom power's number and jon wood's number?") (context (graph tables.TableKnowledgeGraph csv/204-csv/89.csv)) (targetValue (list (description "5"))))
 (example (id nt-206) (utterance "what car achieved the highest qual?") (context (graph tables.TableKnowledgeGraph csv/203-csv/339.csv)) (targetValue (list (description "40"))))
-(example (id nt-207) (utterance "what was the first computer to use a decimal numeral system?") (context (graph tables.TableKnowledgeGraph csv/204-csv/577.csv)) (targetValue (list (description "Harvard Mark I  IBM ASCC"))))
+(example (id nt-207) (utterance "what was the first computer to use a decimal numeral system?") (context (graph tables.TableKnowledgeGraph csv/204-csv/577.csv)) (targetValue (list (description "Harvard Mark I - IBM ASCC"))))
 (example (id nt-208) (utterance "which secretary of state came after jack pkckersgill?") (context (graph tables.TableKnowledgeGraph csv/201-csv/27.csv)) (targetValue (list (description "Roch Pinard"))))
 (example (id nt-209) (utterance "which album did she produce before good rain?") (context (graph tables.TableKnowledgeGraph csv/204-csv/529.csv)) (targetValue (list (description "Pixiedust"))))
 (example (id nt-210) (utterance "how many athletes are not ranked?") (context (graph tables.TableKnowledgeGraph csv/204-csv/713.csv)) (targetValue (list (description "21"))))
