@@ -74,6 +74,17 @@ def group_table_ids(table_ids):
         x.sort()
     return sorted(groups.items())
 
+def get_example_to_table(grouped, table_to_examples):
+    example_to_table = {}
+    i = 1
+    for batch_id, data_ids in grouped:
+        for data_id in data_ids:
+            for data in table_to_examples[batch_id, data_id]:
+                id_ = int(data['id'].replace('nt-', ''))
+                example_to_table[id_] = i
+            i += 1
+    return [example_to_table[i] for i in xrange(len(example_to_table))]
+
 def main():
     parser = argparse.ArgumentParser()
     args = parser.parse_args()
@@ -84,8 +95,10 @@ def main():
     
     # Dump table list to JSON
     grouped = group_table_ids(table_to_examples)
+    example_to_table = get_example_to_table(grouped, table_to_examples)
     with open('viewer/csv/tables.json', 'w') as fout:
-        json.dump(grouped, fout)
+        json.dump({'tables': grouped, 'exampleToTable': example_to_table}, fout,
+                indent=0, separators=(',', ': '))
         fout.write('\n')
 
     for batch_id, data_ids in grouped:
