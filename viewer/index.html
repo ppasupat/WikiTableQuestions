@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>WikiTableQuestions Dataset Viewer</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <script type="text/javascript" src="jquery.min.js"></script>
+  <script type="text/javascript" src="main.js"></script>
+</head>
+<body>
+  <div id=header>
+    <form id=navigator>
+      <strong>Table:</strong>
+      <button type=button id=prev>&lt;</button>
+      csv/<input type=number name=batchId id=batchId min=200 max=204>-csv/<input type=number name=dataId id=dataId min=0 max=999>.csv
+      <button type=button id=next>&gt;</button>
+      <label for=cleanTable><input type=checkbox name=cleanTable id=cleanTable checked><span>cleaned</span></label>
+    </form>
+    &nbsp;<span class=sep>|||</span>&nbsp;
+    <form id=exSeeker>
+      <strong>Example:</strong>
+      nt-<input type=number name=exId id=exId min=0 max=14151>
+    </form>
+  </div>
+  <div id=wrapper>
+    <div id=table-wrap>
+      <div id=table></div>
+    </div>
+    <div id=examples-wrap>
+      <div id=examples></div>
+    </div>
+  </div>
+  <div id=footer><a href=http://nlp.stanford.edu/software/sempre/wikitable>WikiTableQuestions</a> Dataset Viewer</div>
+</body>
+</html>
+
