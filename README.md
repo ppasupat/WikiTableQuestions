@@ -1,6 +1,6 @@
 WikiTableQuestions Dataset
 ==========================
-Version 1.0 (October 4, 2016)
+Version 1.0.2 (October 4, 2016)
 
 Introduction
 ------------
@@ -9,8 +9,10 @@ The WikiTableQuestions dataset is for the task of question answering on
 semi-structured HTML tables as presented in the paper:
 
 > Panupong Pasupat, Percy Liang.  
->   Compositional Semantic Parsing on Semi-Structured Tables  
+>   [Compositional Semantic Parsing on Semi-Structured Tables](https://arxiv.org/abs/1508.00305)  
 >   Association for Computational Linguistics (ACL), 2015.
+
+More details about the project: <https://nlp.stanford.edu/software/sempre/wikitable/>
 
 TSV Format
 ----------
