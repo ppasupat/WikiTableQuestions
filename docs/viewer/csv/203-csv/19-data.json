@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "12",
+      "utterance": "in 1906, how many total rolling stock vehicles were in service?",
+      "id": "nt-4289"
+    },
+    {
+      "targetValue": "24",
+      "utterance": "how long did it take number 71 to retire?",
+      "id": "nt-4377"
+    },
+    {
+      "targetValue": "W. L. Holman Car Company",
+      "utterance": "did american car company or w.l. holman car company build cars that were 44' in length?",
+      "id": "nt-5949"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what was the total number of cars listed?",
+      "id": "nt-11678"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what was the number of cars built by american car company?",
+      "id": "nt-12495"
+    }
+  ],
+  "metadata": {
+    "title": "Petaluma and Santa Rosa Railroad",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7689472&oldid=535292785",
+    "tableIndex": 0,
+    "hashcode": "7f5e01cd1a3b345882071df58655124187fad5bf",
+    "id": 7689472,
+    "revision": 535292785
+  }
+}

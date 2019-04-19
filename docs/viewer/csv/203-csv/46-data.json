@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "1 year, 5 months",
+      "utterance": "how long did russia use the habbo service?",
+      "id": "nt-507"
+    },
+    {
+      "targetValue": "Finland",
+      "utterance": "which country had the earliest opening date?",
+      "id": "nt-7794"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "which happened first: a closing date for australia or or an opening date for russia?",
+      "id": "nt-9913"
+    },
+    {
+      "targetValue": "1 year, 1 month",
+      "utterance": "what is the total time that habbo was in operation in the people's republic of china?",
+      "id": "nt-11630"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many websites opened in 2006?",
+      "id": "nt-12549"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "was russia's url open for more years than singapore's url?",
+      "id": "nt-12695"
+    },
+    {
+      "targetValue": "5 years and 7 months",
+      "utterance": "how long from when australia's site opened until it closed?",
+      "id": "nt-13324"
+    }
+  ],
+  "metadata": {
+    "title": "Habbo",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=699466&oldid=602198102",
+    "tableIndex": 0,
+    "hashcode": "f757532585fc5059e1c90b72d5de6af62aec8f72",
+    "id": 699466,
+    "revision": 602198102
+  }
+}

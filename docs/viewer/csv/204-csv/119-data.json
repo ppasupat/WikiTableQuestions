@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "4,571",
+      "utterance": "what were the total number of people in attendance on 11/24/2012?",
+      "id": "nt-5681"
+    },
+    {
+      "targetValue": "11/21/2012*",
+      "utterance": "after the game on 11/09/2012 what was the next game to have above 5,500 in attendance?",
+      "id": "nt-8591"
+    },
+    {
+      "targetValue": "01/02/2013",
+      "utterance": "what was the first game which was won with a score over 70 points?",
+      "id": "nt-11428"
+    }
+  ],
+  "metadata": {
+    "title": "2012–13 Arkansas–Pine Bluff Golden Lions men's basketball team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=37563763&oldid=583164484",
+    "tableIndex": 0,
+    "hashcode": "df47d7125053fb72adf2cd8e2c2e7fbd2f9b0720",
+    "id": 37563763,
+    "revision": 583164484
+  }
+}

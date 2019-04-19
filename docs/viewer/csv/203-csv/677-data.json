@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "European U23 Championships",
+      "utterance": "which event did he place in first?",
+      "id": "nt-309"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many total events are listed on the chart?",
+      "id": "nt-860"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many times has anton lyuboslavskiy competed in the olympic games?",
+      "id": "nt-5274"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many competitions has anton lyuboslavskiy been in?",
+      "id": "nt-5309"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times has anton lyuboslavskiy scored above 20 m?",
+      "id": "nt-6052"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of times has anton lyuboslavskiy competed in the olympic games?",
+      "id": "nt-9020"
+    },
+    {
+      "targetValue": "20.44 m",
+      "utterance": "how long is anton lyuboslavskiy's fartherst show in a competition?",
+      "id": "nt-10015"
+    },
+    {
+      "targetValue": "Germany",
+      "utterance": "in what country did lyuboslavskiy have his best performance?",
+      "id": "nt-10243"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many 1st place finished did he have?",
+      "id": "nt-10466"
+    },
+    {
+      "targetValue": "European U23 Championships",
+      "utterance": "what tournament did anton lyuboslavskiy first place in?",
+      "id": "nt-10712"
+    },
+    {
+      "targetValue": "European U23 Championships",
+      "utterance": "what competition was his top performance?",
+      "id": "nt-11484"
+    },
+    {
+      "targetValue": "Shot put",
+      "utterance": "which event did anton lyuboslavskiy finish in first?",
+      "id": "nt-12400"
+    }
+  ],
+  "metadata": {
+    "title": "Anton Lyuboslavskiy",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8182937&oldid=553615088",
+    "tableIndex": 0,
+    "hashcode": "f5564088de66d9a3936cf434ab21f69dd0f4b7ae",
+    "id": 8182937,
+    "revision": 553615088
+  }
+}

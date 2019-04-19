@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Johnny's Entertainment, Japan",
+      "utterance": "which label was he a part of after pony canyon, japan in 2007?",
+      "id": "nt-3079"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "how many lyricist credits does he have so far?",
+      "id": "nt-5099"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many were released in 2013?",
+      "id": "nt-5622"
+    },
+    {
+      "targetValue": "NewS, KAT-TUN & Johnny's Jr",
+      "utterance": "who is the next artist after artist enomoto atsuko?",
+      "id": "nt-6653"
+    },
+    {
+      "targetValue": "April 2, 2014",
+      "utterance": "what was the last single released?",
+      "id": "nt-6870"
+    },
+    {
+      "targetValue": "Rainism",
+      "utterance": "what is the only song he was the audio production director for?",
+      "id": "nt-9437"
+    },
+    {
+      "targetValue": "Rainbow Mini Album",
+      "utterance": "what is the top album name?",
+      "id": "nt-11510"
+    },
+    {
+      "targetValue": "Rainbow Mini Album",
+      "utterance": "which song came out fist?",
+      "id": "nt-12060"
+    },
+    {
+      "targetValue": "Come On! Come On! (Digital Single)",
+      "utterance": "which song is last on the list?",
+      "id": "nt-12855"
+    }
+  ],
+  "metadata": {
+    "title": "Steven Lee (music producer)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19718458&oldid=601006346",
+    "tableIndex": 1,
+    "hashcode": "ae7b21e22ca2f8a6b0ff43a8c7b4f467d8afed11",
+    "id": 19718458,
+    "revision": 601006346
+  }
+}

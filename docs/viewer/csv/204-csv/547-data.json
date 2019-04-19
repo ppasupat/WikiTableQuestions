@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "31.44",
+      "utterance": "out of all their times, which one was fastest?",
+      "id": "nt-3231"
+    },
+    {
+      "targetValue": "Petra Chocová",
+      "utterance": "who was ranked first in the semifinal 2?",
+      "id": "nt-3528"
+    },
+    {
+      "targetValue": "Sycerika McMahon",
+      "utterance": "who came in after petra chocova?",
+      "id": "nt-4470"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many lanes were there?",
+      "id": "nt-5162"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many competitors competed in the semifinal 2?",
+      "id": "nt-7599"
+    },
+    {
+      "targetValue": "Iceland",
+      "utterance": "who was the fastest, iceland or finland?",
+      "id": "nt-8001"
+    },
+    {
+      "targetValue": "Jenna Laukkanen",
+      "utterance": "which competitor was slower, hrafnhildur luthersdottir or jenna laukkanen?",
+      "id": "nt-8180"
+    },
+    {
+      "targetValue": "Finland",
+      "utterance": "which country came in last?",
+      "id": "nt-9341"
+    },
+    {
+      "targetValue": "Katharina Stiberg",
+      "utterance": "who had a faster time, katharina stiberg or ivana ninkovic?",
+      "id": "nt-9612"
+    },
+    {
+      "targetValue": "32.26",
+      "utterance": "what was the time of the last finisher?",
+      "id": "nt-13769"
+    }
+  ],
+  "metadata": {
+    "title": "Swimming at the 2012 European Aquatics Championships – Women's 50 metre breaststroke",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=35941118&oldid=573369175",
+    "tableIndex": 3,
+    "hashcode": "e3409dce99bab4b3cecdbe4466536d9eb250f422",
+    "id": 35941118,
+    "revision": 573369175
+  }
+}

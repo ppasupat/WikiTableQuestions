@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "34",
+      "utterance": "how many total managers has there been?",
+      "id": "nt-520"
+    },
+    {
+      "targetValue": "Belgian Pro League",
+      "utterance": "peter maes and hein vanhaezebrouck are both a part of which division?",
+      "id": "nt-1704"
+    },
+    {
+      "targetValue": "25",
+      "utterance": "how many people were appointed after 2011?",
+      "id": "nt-2166"
+    },
+    {
+      "targetValue": "Francis Bosschaerts",
+      "utterance": "which person has been a manager the longest?",
+      "id": "nt-2792"
+    },
+    {
+      "targetValue": "Regi Van Acker",
+      "utterance": "who has served longer, regi van acker or dante brogno?",
+      "id": "nt-3906"
+    },
+    {
+      "targetValue": "3 years, 20 days",
+      "utterance": "how long has frank defays served as manager?",
+      "id": "nt-4549"
+    },
+    {
+      "targetValue": "Francis Bosschaerts",
+      "utterance": "who served as manager longer--francis bosschaerts or peter maes?",
+      "id": "nt-5303"
+    },
+    {
+      "targetValue": "Boussu Dour",
+      "utterance": "what club is listed next to june 4, 1972?",
+      "id": "nt-9247"
+    },
+    {
+      "targetValue": "Belgium",
+      "utterance": "does belgium or france have more people appointed?",
+      "id": "nt-9389"
+    },
+    {
+      "targetValue": "Belgium",
+      "utterance": "francis bosschaerts and dante brogno are from what country?",
+      "id": "nt-9597"
+    },
+    {
+      "targetValue": "Francis Bosschaerts",
+      "utterance": "who is older--francis bosschaerts or peter maes?",
+      "id": "nt-11504"
+    }
+  ],
+  "metadata": {
+    "title": "List of Belgian Football League managers",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36791461&oldid=597105021",
+    "tableIndex": 0,
+    "hashcode": "16821750d02fc427825fd79b57411fac0d82af2c",
+    "id": 36791461,
+    "revision": 597105021
+  }
+}

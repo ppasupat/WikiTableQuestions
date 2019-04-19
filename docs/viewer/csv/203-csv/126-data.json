@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Florida State",
+      "utterance": "which opponent had the largest amount of points scored?",
+      "id": "nt-4453"
+    },
+    {
+      "targetValue": "#13",
+      "utterance": "what was ohio states rank before playing michigan state?",
+      "id": "nt-5759"
+    },
+    {
+      "targetValue": "BYU",
+      "utterance": "who was the last opponent?",
+      "id": "nt-7035"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many games did ohio state win in this 1982 season?",
+      "id": "nt-11523"
+    },
+    {
+      "targetValue": "21-14",
+      "utterance": "what was the score of the top game?",
+      "id": "nt-11827"
+    },
+    {
+      "targetValue": "at #15 Illinois",
+      "utterance": "who did ohio state play before indiana on october 23?",
+      "id": "nt-12937"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many games were won?",
+      "id": "nt-13114"
+    },
+    {
+      "targetValue": "Baylor*",
+      "utterance": "who was the opponent on the first game of the season?",
+      "id": "nt-13692"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "did ohio state win the game previous to the game against michigan state?",
+      "id": "nt-13708"
+    }
+  ],
+  "metadata": {
+    "title": "1982 Ohio State Buckeyes football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20334907&oldid=597911548",
+    "tableIndex": 0,
+    "hashcode": "0f396b667e7a7f20cb2dce267a4128177beee625",
+    "id": 20334907,
+    "revision": 597911548
+  }
+}

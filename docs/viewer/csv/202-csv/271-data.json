@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "6634",
+      "utterance": "how many votes did both the conservative party and the rainbow dream ticket party receive?",
+      "id": "nt-3587"
+    }
+  ],
+  "metadata": {
+    "title": "Holborn and St Pancras (UK Parliament constituency)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1344871&oldid=600162304",
+    "tableIndex": 2,
+    "hashcode": "3d714d2be21cee01b1bb0d661d4ea913bd0af3ba",
+    "id": 1344871,
+    "revision": 600162304
+  }
+}

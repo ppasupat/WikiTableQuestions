@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many athletes had a better result than tatyana bocharova?",
+      "id": "nt-1733"
+    },
+    {
+      "targetValue": "China",
+      "utterance": "what nationality was the woman who won first place?",
+      "id": "nt-3392"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of different nationalities represented by the top 5 athletes?",
+      "id": "nt-5594"
+    },
+    {
+      "targetValue": "1.7",
+      "utterance": "how many points apart were the 1st place competitor and the 12th place competitor?",
+      "id": "nt-5753"
+    },
+    {
+      "targetValue": "China",
+      "utterance": "which country came in first?",
+      "id": "nt-7329"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many athletes were from china?",
+      "id": "nt-7692"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many contestants were from thailand?",
+      "id": "nt-8235"
+    },
+    {
+      "targetValue": "1.3",
+      "utterance": "what is the difference between huang qiuyan's result and fumiyo yoshida's result?",
+      "id": "nt-8523"
+    },
+    {
+      "targetValue": "12.83",
+      "utterance": "how long was manisha dey's jump?",
+      "id": "nt-8902"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many competitors had less than 13.00 points?",
+      "id": "nt-10021"
+    },
+    {
+      "targetValue": "14.08",
+      "utterance": "what was the average result of the top three jumpers?",
+      "id": "nt-10936"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many people were ranked?",
+      "id": "nt-11256"
+    },
+    {
+      "targetValue": "China",
+      "utterance": "which country had the most competitors ranked in the top three in the event?",
+      "id": "nt-12438"
+    }
+  ],
+  "metadata": {
+    "title": "2003 Asian Athletics Championships – Women's triple jump",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=40740638&oldid=599116347",
+    "tableIndex": 0,
+    "hashcode": "b4725fdca9c5044d7e97b4919710399b37be90a4",
+    "id": 40740638,
+    "revision": 599116347
+  }
+}

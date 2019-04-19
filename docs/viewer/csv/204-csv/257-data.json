@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many ethnicities were below 1,000 people in 2007?",
+      "id": "nt-1572"
+    },
+    {
+      "targetValue": "Ossetians",
+      "utterance": "what ethnicity is at the top?",
+      "id": "nt-2290"
+    },
+    {
+      "targetValue": "Ossetians",
+      "utterance": "which population had the most people in 1926?",
+      "id": "nt-3317"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many ethnicity is there?",
+      "id": "nt-3418"
+    },
+    {
+      "targetValue": "1939 census",
+      "utterance": "what was the first census that saw a russian population of over 2,000?",
+      "id": "nt-4257"
+    },
+    {
+      "targetValue": "1,574",
+      "utterance": "how many russians lived in south ossetia in 1970?",
+      "id": "nt-6434"
+    },
+    {
+      "targetValue": "Georgians",
+      "utterance": "who is previous of the russians based on the list?",
+      "id": "nt-9197"
+    }
+  ],
+  "metadata": {
+    "title": "South Ossetia",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=318381&oldid=602310323",
+    "tableIndex": 0,
+    "hashcode": "ed506896e3250be6cd3f98b50dba8697fef3f9ca",
+    "id": 318381,
+    "revision": 602310323
+  }
+}

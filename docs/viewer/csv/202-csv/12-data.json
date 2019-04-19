@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "14",
+      "utterance": "niagara's regional police fleet consists of how many makes of vehicles?",
+      "id": "nt-10223"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many makes origin from canada",
+      "id": "nt-13458"
+    }
+  ],
+  "metadata": {
+    "title": "Niagara Regional Police Service",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3546420&oldid=596723871",
+    "tableIndex": 0,
+    "hashcode": "26b54054720b4c2ab82d1771757344d69bc6be76",
+    "id": 3546420,
+    "revision": 596723871
+  }
+}

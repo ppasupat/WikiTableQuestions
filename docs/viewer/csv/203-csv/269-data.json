@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many seasons are listed?",
+      "id": "nt-2385"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the total number of away wins?",
+      "id": "nt-5030"
+    },
+    {
+      "targetValue": "17-8",
+      "utterance": "what was the overall record of teams at home?",
+      "id": "nt-6073"
+    },
+    {
+      "targetValue": "Schalke 04",
+      "utterance": "which club is ranked in last?",
+      "id": "nt-6784"
+    },
+    {
+      "targetValue": [
+        "Season",
+        "Competition",
+        "Round",
+        "Club",
+        "Home",
+        "Away",
+        "Aggregate"
+      ],
+      "utterance": "list the contents at the top of the table.",
+      "id": "nt-9618"
+    },
+    {
+      "targetValue": "UEFA Europa League",
+      "utterance": "what is the last competition they competed in?",
+      "id": "nt-10020"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the total wins for club kotayk abovian?",
+      "id": "nt-10747"
+    },
+    {
+      "targetValue": "Barcelona",
+      "utterance": "who had the least aggregate wins?",
+      "id": "nt-10919"
+    }
+  ],
+  "metadata": {
+    "title": "AEK Larnaca F.C.",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3550878&oldid=601559324",
+    "tableIndex": 0,
+    "hashcode": "6b60b3f633f149313108f4d1a00511c4280b670d",
+    "id": 3550878,
+    "revision": 601559324
+  }
+}

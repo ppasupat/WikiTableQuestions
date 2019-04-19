@@ -1,0 +1,90 @@
+{
+  "examples": [
+    {
+      "targetValue": "17",
+      "utterance": "how many more seats were available in 1975 than 1963?",
+      "id": "nt-813"
+    },
+    {
+      "targetValue": "4 years",
+      "utterance": "how long is each term?",
+      "id": "nt-2942"
+    },
+    {
+      "targetValue": "1990",
+      "utterance": "what year had the most candidates elected?",
+      "id": "nt-3451"
+    },
+    {
+      "targetValue": "551,009",
+      "utterance": "what was the smallest number of votes before 2003?",
+      "id": "nt-3635"
+    },
+    {
+      "targetValue": "74",
+      "utterance": "how many candidates were elected in 1990?",
+      "id": "nt-3860"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "how many candidates were elected in 1971?",
+      "id": "nt-4873"
+    },
+    {
+      "targetValue": "34",
+      "utterance": "number of candidates selected after 2000",
+      "id": "nt-5568"
+    },
+    {
+      "targetValue": "28.9%",
+      "utterance": "before 1990 what was the highest percentage of popular vote?",
+      "id": "nt-9141"
+    },
+    {
+      "targetValue": "1999",
+      "utterance": "what year had the least percent of the popular vote?",
+      "id": "nt-10455"
+    },
+    {
+      "targetValue": "1990",
+      "utterance": "what year had the largest number of candidates elected?",
+      "id": "nt-10503"
+    },
+    {
+      "targetValue": "1,509,506",
+      "utterance": "what was the largest number of votes?",
+      "id": "nt-11259"
+    },
+    {
+      "targetValue": [
+        "1967",
+        "1971",
+        "1975",
+        "1977",
+        "1981",
+        "1985",
+        "1987",
+        "1990",
+        "1999",
+        "2003",
+        "2007",
+        "2011"
+      ],
+      "utterance": "which consecutive years had the same number of seats available?",
+      "id": "nt-12051"
+    },
+    {
+      "targetValue": "1990",
+      "utterance": "year with largest number of candidates selected",
+      "id": "nt-13136"
+    }
+  ],
+  "metadata": {
+    "title": "Ontario New Democratic Party",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=334292&oldid=600326974",
+    "tableIndex": 0,
+    "hashcode": "2ead9ff891ecd751527126a85b4bf20a7c621665",
+    "id": 334292,
+    "revision": 600326974
+  }
+}

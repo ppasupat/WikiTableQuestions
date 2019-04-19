@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Germany",
+      "utterance": "what country had the least number of drivers, germany or the uk?",
+      "id": "nt-412"
+    },
+    {
+      "targetValue": "Oil pressure",
+      "utterance": "what was the same problem that bernard collomb had as innes ireland?",
+      "id": "nt-1223"
+    },
+    {
+      "targetValue": "Peter Arundell",
+      "utterance": "which driver did not have his/her car ready?",
+      "id": "nt-1714"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many racers had cooper-climax as their constructor?",
+      "id": "nt-5341"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of americans in the top 5?",
+      "id": "nt-7337"
+    },
+    {
+      "targetValue": "Jim Clark",
+      "utterance": "who came in first?",
+      "id": "nt-9493"
+    },
+    {
+      "targetValue": "23",
+      "utterance": "how many different drivers are listed?",
+      "id": "nt-11025"
+    },
+    {
+      "targetValue": "Tony Maggs",
+      "utterance": "who was the top finisher that drove a cooper-climax?",
+      "id": "nt-11054"
+    },
+    {
+      "targetValue": "Tony Maggs",
+      "utterance": "who came in earlier, tony maggs or jo siffert?",
+      "id": "nt-11109"
+    }
+  ],
+  "metadata": {
+    "title": "1963 International Gold Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16598291&oldid=548205366",
+    "tableIndex": 0,
+    "hashcode": "5d29b9373394e015319972de9413840a084ecd9a",
+    "id": 16598291,
+    "revision": 548205366
+  }
+}

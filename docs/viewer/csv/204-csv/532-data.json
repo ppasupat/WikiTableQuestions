@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "10",
+      "utterance": "what is the total number of seasons?",
+      "id": "nt-274"
+    },
+    {
+      "targetValue": "3ª",
+      "utterance": "which division has this team played the most games in?",
+      "id": "nt-1393"
+    },
+    {
+      "targetValue": "2nd",
+      "utterance": "the club placed 19th before placing what place?",
+      "id": "nt-2397"
+    },
+    {
+      "targetValue": "4th",
+      "utterance": "the 2001/2002 season and the 1999/2000 season both resulted in what place for this team?",
+      "id": "nt-2876"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did the club place 4th in the tier 4?",
+      "id": "nt-3591"
+    },
+    {
+      "targetValue": "2nd",
+      "utterance": "where did they place the last season?",
+      "id": "nt-8610"
+    },
+    {
+      "targetValue": "1997/98",
+      "utterance": "what is the only season the club placed 5th?",
+      "id": "nt-9560"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "were there more tier fours than tier fives?",
+      "id": "nt-9890"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many times did they place at least 12th?",
+      "id": "nt-12070"
+    }
+  ],
+  "metadata": {
+    "title": "CF Villanovense",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5801180&oldid=595427334",
+    "tableIndex": 0,
+    "hashcode": "3881d95b138612198b3a1eb023eadd0924e9c770",
+    "id": 5801180,
+    "revision": 595427334
+  }
+}

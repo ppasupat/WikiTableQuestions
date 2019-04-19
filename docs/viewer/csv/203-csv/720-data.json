@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "September 26",
+      "utterance": "the 1987 syracuse orangemen football team scored a victory with a win of 35 points during a game held at the carrier dome in syracuse, ny on september 5th against maryland; they scored exactly the same number of winning points as on that date during a match against virginia tech just a few weeks later; when did that second match occur?",
+      "id": "nt-1956"
+    },
+    {
+      "targetValue": "Penn State",
+      "utterance": "who scored the most points in a game against them between penn state and boston college?",
+      "id": "nt-4005"
+    },
+    {
+      "targetValue": "Auburn",
+      "utterance": "which is the only opponent to play in the louisiana superdome?",
+      "id": "nt-5788"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many wins did the 1987 syracuse football team have?",
+      "id": "nt-9453"
+    },
+    {
+      "targetValue": "52",
+      "utterance": "what was the highest amount points scored by the 1987 syracuse football team?",
+      "id": "nt-9917"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many loses did syracuse have in the season?",
+      "id": "nt-12488"
+    },
+    {
+      "targetValue": "Rutgers",
+      "utterance": "which opponent scored the least amount of points against them in a game?",
+      "id": "nt-12906"
+    },
+    {
+      "targetValue": "Colgate",
+      "utterance": "the 1987 syracuse orangemen football team scored their largest number of points in a game conducted on october 24th, 1987 at the carrier dome in syracuse, ny; who was the oposing team in that match?",
+      "id": "nt-13058"
+    },
+    {
+      "targetValue": "January 1",
+      "utterance": "what date did both teams score 16 points each?",
+      "id": "nt-13974"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many matches did the 1987 syracuse orangemen football team play against rival colleges during the month of september, 1987?",
+      "id": "nt-14115"
+    }
+  ],
+  "metadata": {
+    "title": "1987 Syracuse Orangemen football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20824037&oldid=597620854",
+    "tableIndex": 0,
+    "hashcode": "0ebde16d84859544f3400e40cfe0ce8c3c90dd4a",
+    "id": 20824037,
+    "revision": 597620854
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "105",
+      "utterance": "what is the total number of points scored against the opponents for september?",
+      "id": "nt-1954"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many games were n october 1990?",
+      "id": "nt-4185"
+    },
+    {
+      "targetValue": "23",
+      "utterance": "what was the number of points scored in week 3?",
+      "id": "nt-7128"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what week was the bye after?",
+      "id": "nt-9798"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the difference in points in week ones match up?",
+      "id": "nt-14046"
+    }
+  ],
+  "metadata": {
+    "title": "1990 Miami Dolphins season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16023798&oldid=584987071",
+    "tableIndex": 1,
+    "hashcode": "c985e68ee84e7e126e5b143d83dd734bae35861a",
+    "id": 16023798,
+    "revision": 584987071
+  }
+}

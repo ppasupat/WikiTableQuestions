@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "414",
+      "utterance": "how many losses from 1984 to 1988",
+      "id": "nt-2647"
+    },
+    {
+      "targetValue": "47",
+      "utterance": "how many losses did the team have in 1981?",
+      "id": "nt-4702"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many years have the brewers competed in the nl?",
+      "id": "nt-11486"
+    }
+  ],
+  "metadata": {
+    "title": "List of Milwaukee Brewers seasons",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11073038&oldid=602482770",
+    "tableIndex": 1,
+    "hashcode": "b5d1ab80e89b539624722b02964d1c5ad5d7c11d",
+    "id": 11073038,
+    "revision": 602482770
+  }
+}

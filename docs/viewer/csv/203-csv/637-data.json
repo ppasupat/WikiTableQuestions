@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "14",
+      "utterance": "in the 1992-1993 premier league, what was the total number of hat tricks scored by all players?",
+      "id": "nt-1162"
+    },
+    {
+      "targetValue": "Eric Cantona",
+      "utterance": "name the only player from france.",
+      "id": "nt-2109"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many players were for leeds united?",
+      "id": "nt-3721"
+    },
+    {
+      "targetValue": "4-2",
+      "utterance": "what was the result of the match between queens park rangers and everton?",
+      "id": "nt-5947"
+    },
+    {
+      "targetValue": "Coventry City",
+      "utterance": "which team did liverpool play against?",
+      "id": "nt-7213"
+    },
+    {
+      "targetValue": "Oldham Athletic",
+      "utterance": "southampton played on may 8th, 1993, who was their opponent?",
+      "id": "nt-7591"
+    },
+    {
+      "targetValue": "Middlesbrough",
+      "utterance": "who does john hendrie play for?",
+      "id": "nt-7967"
+    },
+    {
+      "targetValue": "John Hendrie",
+      "utterance": "which player had the same result as mark robins?",
+      "id": "nt-8772"
+    },
+    {
+      "targetValue": "Teddy Sheringham",
+      "utterance": "name the players for tottenham hotspur.",
+      "id": "nt-12709"
+    }
+  ],
+  "metadata": {
+    "title": "1992–93 FA Premier League",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1145923&oldid=601489569",
+    "tableIndex": 4,
+    "hashcode": "5870faee71907cb330a66e63200cf82d21d16a99",
+    "id": 1145923,
+    "revision": 601489569
+  }
+}

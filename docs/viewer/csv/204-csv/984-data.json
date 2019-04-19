@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Belorussian",
+      "utterance": "which ethnicity is previous from dungan",
+      "id": "nt-83"
+    },
+    {
+      "targetValue": "Tajik",
+      "utterance": "which ethnicity has more followers of islam: tatar or tajik?",
+      "id": "nt-1833"
+    },
+    {
+      "targetValue": "Russian",
+      "utterance": "are there more christian russians or ukrainians in kazakhstan?",
+      "id": "nt-2689"
+    },
+    {
+      "targetValue": "once",
+      "utterance": "how many times is each religion listed?",
+      "id": "nt-3253"
+    },
+    {
+      "targetValue": "Tatar",
+      "utterance": "which ethnicity is above german",
+      "id": "nt-4590"
+    },
+    {
+      "targetValue": "11.36%",
+      "utterance": "what is the difference in percentage between korean buddists and german buddists?",
+      "id": "nt-5037"
+    },
+    {
+      "targetValue": "Korean",
+      "utterance": "which ethnicity has the most buddhists in kazakhstan?",
+      "id": "nt-6191"
+    },
+    {
+      "targetValue": "Kazakh",
+      "utterance": "which ethnicity is first on the chart",
+      "id": "nt-6739"
+    },
+    {
+      "targetValue": "Dungan",
+      "utterance": "what ethnicity is next under belorussian on the chart?",
+      "id": "nt-10453"
+    },
+    {
+      "targetValue": "Polish",
+      "utterance": "which ethnicity has the least percentage for islam",
+      "id": "nt-11239"
+    },
+    {
+      "targetValue": "Dungan",
+      "utterance": "which ethnicity has the fewest number of atheists after the turkish?",
+      "id": "nt-11750"
+    },
+    {
+      "targetValue": "Turkish",
+      "utterance": "which ethnicity has the most islam professions of faith?",
+      "id": "nt-11916"
+    }
+  ],
+  "metadata": {
+    "title": "Kazakhstan",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16642&oldid=602424190",
+    "tableIndex": 0,
+    "hashcode": "f19de0a32ae06df96bf75067d3bff9359e935535",
+    "id": 16642,
+    "revision": 602424190
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "20",
+      "utterance": "what was the largest gf in team history in the arab nations cup?",
+      "id": "nt-2304"
+    },
+    {
+      "targetValue": "10 years",
+      "utterance": "how many years was the team banned from the arab nations cup?",
+      "id": "nt-9598"
+    }
+  ],
+  "metadata": {
+    "title": "Iraq national football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1039652&oldid=602381656",
+    "tableIndex": 10,
+    "hashcode": "3383276a2f5fb56b83f801258d0a794e8a78dec8",
+    "id": 1039652,
+    "revision": 602381656
+  }
+}

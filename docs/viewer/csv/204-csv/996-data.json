@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "August 30, 2009",
+      "utterance": "which airing had the least number of viewers?",
+      "id": "nt-3037"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many times has nbc hosted the awards?",
+      "id": "nt-3394"
+    },
+    {
+      "targetValue": "CW",
+      "utterance": "which network hosted the awards after abc did in june 2008?",
+      "id": "nt-3653"
+    },
+    {
+      "targetValue": "18.9",
+      "utterance": "13.7 million watched the 22nd year. how many watched the previous year?",
+      "id": "nt-6389"
+    },
+    {
+      "targetValue": "CBS",
+      "utterance": "which network has the most airings?",
+      "id": "nt-6651"
+    },
+    {
+      "targetValue": "ABC",
+      "utterance": "after 18.9 what network had the next highest number of viewers over all?",
+      "id": "nt-6881"
+    },
+    {
+      "targetValue": "21st",
+      "utterance": "which awards ceremony had the same number of viewers as the 18th?",
+      "id": "nt-7208"
+    },
+    {
+      "targetValue": "ABC",
+      "utterance": "which network had the all-time top number of viewers?",
+      "id": "nt-12642"
+    }
+  ],
+  "metadata": {
+    "title": "Daytime Emmy Award",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=721437&oldid=596132855",
+    "tableIndex": 0,
+    "hashcode": "ff11509aa38c17667d27b5a4d071bcb3a2a61566",
+    "id": 721437,
+    "revision": 596132855
+  }
+}

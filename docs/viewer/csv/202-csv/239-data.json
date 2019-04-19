@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "Eskimo",
+      "utterance": "which group has the most derivation?",
+      "id": "nt-1404"
+    }
+  ],
+  "metadata": {
+    "title": "Agglutination",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=243822&oldid=599003207",
+    "tableIndex": 0,
+    "hashcode": "7d8f0ef688435ac7d77c743769a5bc519876aa75",
+    "id": 243822,
+    "revision": 599003207
+  }
+}

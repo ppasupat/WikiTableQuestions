@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "Bangkok, Thailand",
+      "utterance": "what was the first venue for the asian games?",
+      "id": "nt-11"
+    },
+    {
+      "targetValue": "11th",
+      "utterance": "what was the best position achieved at the olympic games after the 1996 atlanta games?",
+      "id": "nt-144"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many competitions were held in 2002?",
+      "id": "nt-1069"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many competitions did kazakhstan compete in?",
+      "id": "nt-2169"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what were the number of competitions held in 2003?",
+      "id": "nt-2521"
+    },
+    {
+      "targetValue": "Asian Championships",
+      "utterance": "at what competition was the only 1st place position won?",
+      "id": "nt-3190"
+    },
+    {
+      "targetValue": "Athens, Greece",
+      "utterance": "where was the last competition held according to this chart?",
+      "id": "nt-3641"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "after 2000, how many times has yelena koshcheyeva finished first?",
+      "id": "nt-4891"
+    },
+    {
+      "targetValue": "2003 World Championships",
+      "utterance": "kazakhstan had a position of 23rd in 1999 world championships and what other competition?",
+      "id": "nt-5577"
+    },
+    {
+      "targetValue": "Asian Championships",
+      "utterance": "what was the only competition kazakhstan had a position of 1st?",
+      "id": "nt-7020"
+    },
+    {
+      "targetValue": "Asian Championships",
+      "utterance": "what was the name of the competition where the top position was earned?",
+      "id": "nt-11578"
+    },
+    {
+      "targetValue": "Edmonton, Canada",
+      "utterance": "following the world championships in seville, what was the next venue for the world championships?",
+      "id": "nt-12219"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "before 2004, how many times has yelena koshcheyeva finished in the top 5?",
+      "id": "nt-12422"
+    }
+  ],
+  "metadata": {
+    "title": "Yelena Koshcheyeva",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6779017&oldid=589725007",
+    "tableIndex": 0,
+    "hashcode": "630e49f9ac4a0a2df78ce857426b07d34702520f",
+    "id": 6779017,
+    "revision": 589725007
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "2008",
+      "utterance": "which one is the least with scoring average",
+      "id": "nt-558"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many times has christel boeljon had a top-10 finish in the ladies european tour?",
+      "id": "nt-811"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "which year in this golfer's career saw her have the most 2nd place finishes?",
+      "id": "nt-3189"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many professional wins has christel boeljon had?",
+      "id": "nt-3453"
+    },
+    {
+      "targetValue": "2008",
+      "utterance": "what is the last year christel boeljon played in the ladies european tour as an amateur?",
+      "id": "nt-9439"
+    },
+    {
+      "targetValue": "2008",
+      "utterance": "what was the first year where this golfer scored in the top 10?",
+      "id": "nt-12396"
+    }
+  ],
+  "metadata": {
+    "title": "Christel Boeljon",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=31979739&oldid=602216468",
+    "tableIndex": 1,
+    "hashcode": "e863ffa485105f25e2c693b767575f7b0b66ad2e",
+    "id": 31979739,
+    "revision": 602216468
+  }
+}

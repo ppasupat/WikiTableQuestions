@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Wikimania 2012",
+      "utterance": "what was the only conference to have an attendance over 1,000?",
+      "id": "nt-4968"
+    },
+    {
+      "targetValue": "Gdańsk, Poland",
+      "utterance": "where was the conference held the year after buenos aires, argentina?",
+      "id": "nt-5586"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many wikimanias have been held in the usa?",
+      "id": "nt-5774"
+    },
+    {
+      "targetValue": "3 days",
+      "utterance": "how many days was the wikimania 2011?",
+      "id": "nt-8798"
+    },
+    {
+      "targetValue": "Wikimania 2005",
+      "utterance": "which wikimania conference has the least number of attendees?",
+      "id": "nt-9749"
+    },
+    {
+      "targetValue": "August 6-10",
+      "utterance": "when is the next wikimania 2014?",
+      "id": "nt-11369"
+    },
+    {
+      "targetValue": "2012",
+      "utterance": "which year has the most number of attendees?",
+      "id": "nt-12395"
+    },
+    {
+      "targetValue": "380",
+      "utterance": "how many people attended the first wikimania conference in 2005?",
+      "id": "nt-12769"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many consecutive years has there been a wikimania conference?",
+      "id": "nt-13985"
+    }
+  ],
+  "metadata": {
+    "title": "Wikimania",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19660380&oldid=602200605",
+    "tableIndex": 0,
+    "hashcode": "ec6e125a4631455bc17779e69bb2261c6fcb9bd4",
+    "id": 19660380,
+    "revision": 602200605
+  }
+}

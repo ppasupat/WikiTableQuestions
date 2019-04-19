@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "India",
+      "utterance": "which team had the most wins?",
+      "id": "nt-3425"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the total number of won tosses?",
+      "id": "nt-3673"
+    },
+    {
+      "targetValue": "West Indies",
+      "utterance": "what team had the most number of runs by margin?",
+      "id": "nt-6574"
+    },
+    {
+      "targetValue": "Australia",
+      "utterance": "what was the last team to play in the tournament?",
+      "id": "nt-7735"
+    },
+    {
+      "targetValue": "1974",
+      "utterance": "what year was the first game?",
+      "id": "nt-9514"
+    },
+    {
+      "targetValue": "India",
+      "utterance": "which team had the most consecutive wins?",
+      "id": "nt-9816"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "does number 2 have more or less runs than number 1?",
+      "id": "nt-10501"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "how many games are listed in the table?",
+      "id": "nt-12306"
+    }
+  ],
+  "metadata": {
+    "title": "M. Chinnaswamy Stadium",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2101648&oldid=598265006",
+    "tableIndex": 1,
+    "hashcode": "c37c7ae707f11b9cc04e421baed0f8d5a4c23197",
+    "id": 2101648,
+    "revision": 598265006
+  }
+}

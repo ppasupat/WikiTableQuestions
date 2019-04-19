@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "Portugal",
+      "utterance": "which country have they played against the most?",
+      "id": "nt-5450"
+    },
+    {
+      "targetValue": "Belgium",
+      "utterance": "name a country with which spain has played more than 10 games.",
+      "id": "nt-8280"
+    },
+    {
+      "targetValue": "24",
+      "utterance": "what is the number of losses they have against france?",
+      "id": "nt-9025"
+    },
+    {
+      "targetValue": "100%",
+      "utterance": "at most, what is spain's win percentage against another country.",
+      "id": "nt-12728"
+    },
+    {
+      "targetValue": "Australia Emerging",
+      "utterance": "hame a country against which spain has neither won nor drawn.",
+      "id": "nt-13756"
+    }
+  ],
+  "metadata": {
+    "title": "Spain national rugby union team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4522177&oldid=601176018",
+    "tableIndex": 0,
+    "hashcode": "ebec433a942e3b3ab10ae14e09d2cd4061701ab2",
+    "id": 4522177,
+    "revision": 601176018
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "what number of countries placed ahead of the united states?",
+      "id": "nt-1068"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of scandinavian skaters?",
+      "id": "nt-1602"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many ties are listed?",
+      "id": "nt-3206"
+    },
+    {
+      "targetValue": "Finland",
+      "utterance": "kaija mustonen was the number one speed skiing contender at the 1968 winter olympics, what country is she from?",
+      "id": "nt-8510"
+    },
+    {
+      "targetValue": "30",
+      "utterance": "the number of total skaters in the competition",
+      "id": "nt-9471"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "did sweden place at least in the top 10?",
+      "id": "nt-10944"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "out of 30 top competitors, what number of those are from norway?",
+      "id": "nt-13071"
+    }
+  ],
+  "metadata": {
+    "title": "Speed skating at the 1968 Winter Olympics – Women's 1500 metres",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41836127&oldid=593847965",
+    "tableIndex": 2,
+    "hashcode": "be315c2b0bc890a407e83183672fc174b374aeb7",
+    "id": 41836127,
+    "revision": 593847965
+  }
+}

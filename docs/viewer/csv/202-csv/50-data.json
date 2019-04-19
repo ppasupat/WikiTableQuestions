@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "Vasanta",
+      "utterance": "which ritu has the most seasonal festivals?",
+      "id": "nt-7928"
+    },
+    {
+      "targetValue": "May to July",
+      "utterance": "how long does grishma last?",
+      "id": "nt-12915"
+    }
+  ],
+  "metadata": {
+    "title": "Ritu (Indian season)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=292093&oldid=602392332",
+    "tableIndex": 0,
+    "hashcode": "24775cded38e61e72461e042125082fc155344ef",
+    "id": 292093,
+    "revision": 602392332
+  }
+}

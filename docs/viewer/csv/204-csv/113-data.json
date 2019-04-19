@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Buffalo",
+      "utterance": "which cities population will grow the least?",
+      "id": "nt-4938"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many cities have an increase over 1,000,000?",
+      "id": "nt-7927"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "number of great lakes population centers that are wholly or partially located in canada",
+      "id": "nt-9016"
+    },
+    {
+      "targetValue": "4,063,445",
+      "utterance": "how much larger was the 2009 population of chicago than the 2009 population of toronto?",
+      "id": "nt-10080"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "does toronto's population grow more or less than hamilton's?",
+      "id": "nt-10912"
+    },
+    {
+      "targetValue": "Grand Rapids",
+      "utterance": "largest population center in michigan after detroit",
+      "id": "nt-13274"
+    },
+    {
+      "targetValue": "Detroit",
+      "utterance": "what population center has the larger projected increase: detroit or cleveland?",
+      "id": "nt-13400"
+    }
+  ],
+  "metadata": {
+    "title": "Great Lakes region",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=432536&oldid=592573473",
+    "tableIndex": 1,
+    "hashcode": "9194e5ae501bcd9c92ec4224952d3ea7d2fa01ba",
+    "id": 432536,
+    "revision": 592573473
+  }
+}

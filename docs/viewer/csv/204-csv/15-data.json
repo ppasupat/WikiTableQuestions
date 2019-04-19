@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "20",
+      "utterance": "how many consecutive years has the acm multimedia workshops been held?",
+      "id": "nt-788"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many times was the conference not held in the us?",
+      "id": "nt-2269"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "in the chart is nara before firenze?",
+      "id": "nt-2910"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "is canada at least on the chart 3 times?",
+      "id": "nt-3338"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times was a conference held in san francisco?",
+      "id": "nt-4443"
+    },
+    {
+      "targetValue": "San Francisco, CA",
+      "utterance": "previous to 2000, what city was listed the most?",
+      "id": "nt-4687"
+    },
+    {
+      "targetValue": "Nara Prefectural New Public Hall",
+      "utterance": "where was the previous acm multimedia workshop held at in 2012?",
+      "id": "nt-7597"
+    },
+    {
+      "targetValue": "1998",
+      "utterance": "which year had a university as the venue, 2004 or 1998?",
+      "id": "nt-7763"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "is the usa on the chart more or less than 7 times?",
+      "id": "nt-8061"
+    },
+    {
+      "targetValue": "2008",
+      "utterance": "which conference ws longer, 2008 or 2010?",
+      "id": "nt-9964"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many times is usa listed as the country?",
+      "id": "nt-10914"
+    }
+  ],
+  "metadata": {
+    "title": "ACM Multimedia",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12643594&oldid=598427030",
+    "tableIndex": 0,
+    "hashcode": "bbba41a141887dd3847bccef8ca9c71b9b92fefd",
+    "id": 12643594,
+    "revision": 598427030
+  }
+}

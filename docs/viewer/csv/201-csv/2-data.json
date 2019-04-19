@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "Star of Nanchang",
+      "utterance": "which of the following roller coasters is the oldest: star of lake tai, star of nanchang, melbourne star",
+      "id": "nt-6204"
+    },
+    {
+      "targetValue": "Chicago",
+      "utterance": "where was the original tallest roller coster built?",
+      "id": "nt-7516"
+    },
+    {
+      "targetValue": "China",
+      "utterance": "which country had the most roller coasters over 80 feet in height in 2008?",
+      "id": "nt-10550"
+    },
+    {
+      "targetValue": "Singapore Flyer",
+      "utterance": "which ferris wheel was completed in 2008 and has the height of 165?",
+      "id": "nt-12190"
+    }
+  ],
+  "metadata": {
+    "title": "Ferris wheel",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=175541&oldid=602500015",
+    "tableIndex": 2,
+    "hashcode": "0420e717a8d3c07d5f0ca9c92e584ffbbe80064b",
+    "id": 175541,
+    "revision": 602500015
+  }
+}

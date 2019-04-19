@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "how many schools left in 1960?",
+      "id": "nt-599"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "what is the difference between the year clio left and atherton left?",
+      "id": "nt-1631"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many high schools had a league leave to big nine conference?",
+      "id": "nt-3064"
+    },
+    {
+      "targetValue": "Swartz Creek",
+      "utterance": "which high school left the same year as fenton high school?",
+      "id": "nt-4839"
+    },
+    {
+      "targetValue": "Beecher",
+      "utterance": "which school left before bendle?",
+      "id": "nt-7066"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many schools left the genesee county b league before ainsworth?",
+      "id": "nt-8147"
+    },
+    {
+      "targetValue": [
+        "Hartland",
+        "Lake Fenton"
+      ],
+      "utterance": "list each of the high schools which joined in the year 1976.",
+      "id": "nt-9034"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what is the total number of schools to join before 1960?",
+      "id": "nt-12942"
+    },
+    {
+      "targetValue": "Brandon",
+      "utterance": "what was the last school to join the genesee county b league?",
+      "id": "nt-13341"
+    }
+  ],
+  "metadata": {
+    "title": "Genesee County B League",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19962040&oldid=456061996",
+    "tableIndex": 0,
+    "hashcode": "50af5e95d55da0b17126c0b8d67960148140a345",
+    "id": 19962040,
+    "revision": 456061996
+  }
+}

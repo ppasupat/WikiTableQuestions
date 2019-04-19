@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Dana Mocanu",
+      "utterance": "who was eliminated immediately before daniela gheorghe?",
+      "id": "nt-2099"
+    },
+    {
+      "targetValue": "5th Voted Out Week 5",
+      "utterance": "how long was it until briscu was voted out?",
+      "id": "nt-2874"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many contestants were eliminated in week one?",
+      "id": "nt-3281"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many people were eliminated in week 1?",
+      "id": "nt-3448"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "give the number of people eliminated in week 1?",
+      "id": "nt-5198"
+    },
+    {
+      "targetValue": "8 kg",
+      "utterance": "what was the difference in weight between tatiana musat and valencia marian when they were eliminated?",
+      "id": "nt-5509"
+    },
+    {
+      "targetValue": "164 kg",
+      "utterance": "what is average weight of the fist three contestants?",
+      "id": "nt-7519"
+    },
+    {
+      "targetValue": "Dragoș Holeac 30, Bucharest",
+      "utterance": "who was the last contestant to be voted out in week 7?",
+      "id": "nt-12689"
+    }
+  ],
+  "metadata": {
+    "title": "Marele câștigător (season 1)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36424303&oldid=557175890",
+    "tableIndex": 0,
+    "hashcode": "175a76ad11c4b8ee7d119804418fcd7577827ce2",
+    "id": 36424303,
+    "revision": 557175890
+  }
+}

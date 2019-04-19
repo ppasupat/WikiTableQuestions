@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "what was the difference in medal count between slovakia and mexico?",
+      "id": "nt-1074"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many countries have at least one gold medal?",
+      "id": "nt-2341"
+    },
+    {
+      "targetValue": "Slovakia",
+      "utterance": "what country ranks first in total medals won?",
+      "id": "nt-3314"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many gold medals did russia earn?",
+      "id": "nt-6940"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many more medals has slovakia wopn in comparison to germany?",
+      "id": "nt-7810"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "what is the total number of medals won by all countries combined?",
+      "id": "nt-11087"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the difference in gold medals earned between russia and great britain?",
+      "id": "nt-12303"
+    },
+    {
+      "targetValue": "Mexico (MEX)",
+      "utterance": "what is the only nation to have one silver medal?",
+      "id": "nt-12706"
+    },
+    {
+      "targetValue": "Slovakia",
+      "utterance": "which nation heard the most total medals?",
+      "id": "nt-13100"
+    },
+    {
+      "targetValue": "Slovakia (SVK)",
+      "utterance": "which country has the most number of medals?",
+      "id": "nt-13205"
+    }
+  ],
+  "metadata": {
+    "title": "Tennis at the 2003 Summer Universiade",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19238990&oldid=493448763",
+    "tableIndex": 1,
+    "hashcode": "156bb399c83f4519be0859666a1f54d7622ed405",
+    "id": 19238990,
+    "revision": 493448763
+  }
+}

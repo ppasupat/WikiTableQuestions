@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Boston College",
+      "utterance": "who did the raiders play after unh on 10/9/2009?",
+      "id": "nt-399"
+    },
+    {
+      "targetValue": "Rensselaer",
+      "utterance": "who is the last opponent?",
+      "id": "nt-2835"
+    },
+    {
+      "targetValue": "University of New Hampshire",
+      "utterance": "what school is scheduled to play first?",
+      "id": "nt-3755"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the number of opponents that play at 4pm?",
+      "id": "nt-6324"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many games are played at 2pm?",
+      "id": "nt-7483"
+    },
+    {
+      "targetValue": [
+        "Wayne State University",
+        "Mercyhurst College",
+        "Niagara University",
+        "Cornell University"
+      ],
+      "utterance": "which schools are scheduled consecutively?",
+      "id": "nt-11336"
+    },
+    {
+      "targetValue": "UNH",
+      "utterance": "who won the game on 10/9/2009--raiders or unh?",
+      "id": "nt-11911"
+    },
+    {
+      "targetValue": "34",
+      "utterance": "how many games were scheduled from 10/9/2009 to 2/20/2010?",
+      "id": "nt-13585"
+    },
+    {
+      "targetValue": "2 p.m.",
+      "utterance": "what was the earliest time this game played during the season?",
+      "id": "nt-13825"
+    }
+  ],
+  "metadata": {
+    "title": "2009–10 Colgate Raiders women's ice hockey season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=24058293&oldid=569718251",
+    "tableIndex": 2,
+    "hashcode": "4bf156d1059c8c138c528b454e670155ea39970b",
+    "id": 24058293,
+    "revision": 569718251
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many authors have more than 500 patients?",
+      "id": "nt-6531"
+    },
+    {
+      "targetValue": "8 years",
+      "utterance": "how long was the duration of follow-up for revuelta?",
+      "id": "nt-10456"
+    },
+    {
+      "targetValue": "Pavie",
+      "utterance": "who is the only main author who found 98.2% of freedom for all patients?",
+      "id": "nt-10772"
+    },
+    {
+      "targetValue": "Bachet (D)",
+      "utterance": "what author had the least number of patients?",
+      "id": "nt-12083"
+    },
+    {
+      "targetValue": "10 years",
+      "utterance": "how long is the longest duration of follow-up?",
+      "id": "nt-12417"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the minimum of follow-up years do each author have?",
+      "id": "nt-12697"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many looked at more than 500 patients?",
+      "id": "nt-13503"
+    }
+  ],
+  "metadata": {
+    "title": "Pericardial heart valves",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=26851461&oldid=588418138",
+    "tableIndex": 1,
+    "hashcode": "0e9982ecddfd3d36dac8419d8c869c9df9e9413b",
+    "id": 26851461,
+    "revision": 588418138
+  }
+}

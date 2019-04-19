@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "10",
+      "utterance": "what is the largest penalty?",
+      "id": "nt-46"
+    },
+    {
+      "targetValue": "Erik Lesser",
+      "utterance": "between bjorn ferry, simon elder and erik lesser - who had the most penalties?",
+      "id": "nt-353"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many united states competitors did not win medals?",
+      "id": "nt-423"
+    },
+    {
+      "targetValue": "Leif Nordgren",
+      "utterance": "other than burke, name an athlete from the us.",
+      "id": "nt-3542"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the total number of participants between norway and france?",
+      "id": "nt-6034"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what were the total number of \"ties\" (people who finished with the exact same time?)",
+      "id": "nt-7132"
+    },
+    {
+      "targetValue": "Fredrik Lindström",
+      "utterance": "who is the top ranked runner of sweden?",
+      "id": "nt-9762"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many penalties did germany get all together?",
+      "id": "nt-10435"
+    },
+    {
+      "targetValue": "30",
+      "utterance": "how many took at least 35:00 to finish?",
+      "id": "nt-10551"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of russian participants?",
+      "id": "nt-11470"
+    },
+    {
+      "targetValue": "34:06.0",
+      "utterance": "how long did it take for erik lesser to finish?",
+      "id": "nt-13734"
+    }
+  ],
+  "metadata": {
+    "title": "Biathlon World Championships 2013 – Men's pursuit",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=38470531&oldid=595045556",
+    "tableIndex": 0,
+    "hashcode": "f2ba047b33b1b756ba3f9c14c76c4b85fb4a54a8",
+    "id": 38470531,
+    "revision": 595045556
+  }
+}

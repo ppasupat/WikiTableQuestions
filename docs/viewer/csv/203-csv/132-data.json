@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "5-17",
+      "utterance": "what is the score of the last game on this chart?",
+      "id": "nt-6457"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "highest number of points by a team in a game.",
+      "id": "nt-8922"
+    },
+    {
+      "targetValue": "Quebec",
+      "utterance": "the visitor with the least score",
+      "id": "nt-10181"
+    },
+    {
+      "targetValue": "Wanderers",
+      "utterance": "who was the top scorer on day 9 in january?",
+      "id": "nt-10224"
+    },
+    {
+      "targetValue": "Ottawa",
+      "utterance": "who won on february 16: victorias or ottawa?",
+      "id": "nt-10516"
+    },
+    {
+      "targetValue": "6-5",
+      "utterance": "what was the score of the first game on this chart?",
+      "id": "nt-13214"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many games went to overtime?",
+      "id": "nt-13597"
+    }
+  ],
+  "metadata": {
+    "title": "1907 ECAHA season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12111185&oldid=596922649",
+    "tableIndex": 4,
+    "hashcode": "074b3970b171d407e58e1b9e7efcaee04274aeb2",
+    "id": 12111185,
+    "revision": 596922649
+  }
+}

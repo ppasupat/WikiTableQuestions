@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "2011-12",
+      "utterance": "what year come after 2010-11",
+      "id": "nt-878"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many teams were in the 2006-2007 year?",
+      "id": "nt-4781"
+    },
+    {
+      "targetValue": "8th",
+      "utterance": "the position in the 2000-01 league year was not 6th but what position?",
+      "id": "nt-6817"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many seasons did they win at least 10 games?",
+      "id": "nt-10480"
+    },
+    {
+      "targetValue": "2011-12",
+      "utterance": "the most matches were in what year?",
+      "id": "nt-12658"
+    }
+  ],
+  "metadata": {
+    "title": "Kurobe AquaFairies",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19354290&oldid=559834812",
+    "tableIndex": 0,
+    "hashcode": "dc0581ec736fd82deec7b51ce6376c2e312add66",
+    "id": 19354290,
+    "revision": 559834812
+  }
+}

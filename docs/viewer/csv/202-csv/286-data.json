@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "Hard",
+      "utterance": "which surface has the most winners?",
+      "id": "nt-1638"
+    },
+    {
+      "targetValue": "1972",
+      "utterance": "in what year did dibley not win a double final?",
+      "id": "nt-3422"
+    }
+  ],
+  "metadata": {
+    "title": "Colin Dibley",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4024793&oldid=581498561",
+    "tableIndex": 1,
+    "hashcode": "54bbf12ebfbd78da4ac537f1bb777486566281f1",
+    "id": 4024793,
+    "revision": 581498561
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "examples": [
+    {
+      "targetValue": "1995",
+      "utterance": "notorious b.i.g. released their album \"total\" in what year?",
+      "id": "nt-2446"
+    },
+    {
+      "targetValue": [
+        "1995",
+        "1996"
+      ],
+      "utterance": "what were the only 2 years there were riaa gold certifications?",
+      "id": "nt-4235"
+    },
+    {
+      "targetValue": "Runnin' (Dying to Live)",
+      "utterance": "what single did notorious b.i.g. release after \"victory\"?",
+      "id": "nt-4681"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many songs were released featuring the notorious b.i.g in 1997?",
+      "id": "nt-5522"
+    },
+    {
+      "targetValue": "\"Angels\" (Diddy-Dirty Money featuring The Notorious B.I.G. and Rick Ross)",
+      "utterance": "what was the last released featured performance by notorious b.i.g.",
+      "id": "nt-7207"
+    },
+    {
+      "targetValue": "2009",
+      "utterance": "what year had the least us peak chart positions?",
+      "id": "nt-9295"
+    },
+    {
+      "targetValue": "\"You Can't Stop the Reign\" (Shaquille O'Neal and The Notorious B.I.G.)",
+      "utterance": "what feature had the lowest number of chart positions, while still having at least one position?",
+      "id": "nt-12531"
+    }
+  ],
+  "metadata": {
+    "title": "The Notorious B.I.G. discography",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8246717&oldid=600981126",
+    "tableIndex": 4,
+    "hashcode": "27f4adb2318428f012d1f9ea8777a2a033a6de23",
+    "id": 8246717,
+    "revision": 600981126
+  }
+}

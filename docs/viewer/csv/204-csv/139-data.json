@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Antil Plains Aerodrome",
+      "utterance": "what is the airport name at the top of the list?",
+      "id": "nt-608"
+    },
+    {
+      "targetValue": "Petrie Airfield",
+      "utterance": "is petrie airfield or breddan aerodome farther south in the hemisphere?",
+      "id": "nt-1645"
+    },
+    {
+      "targetValue": "Eagle Farm, Brisbane",
+      "utterance": "which community has the only public airport in queensland?",
+      "id": "nt-3466"
+    },
+    {
+      "targetValue": "Military",
+      "utterance": "what does each airport have in common?",
+      "id": "nt-4732"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "other than townsville, how many other communities are listed?",
+      "id": "nt-6650"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "are their any other airports that are type \"military/public\" besides eagle farm airport?",
+      "id": "nt-7778"
+    },
+    {
+      "targetValue": "Petrie Airfield",
+      "utterance": "which airport is above tarampa airfield?",
+      "id": "nt-8334"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of airports in townsville?",
+      "id": "nt-9286"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many military exclusive airports are listed?",
+      "id": "nt-10054"
+    },
+    {
+      "targetValue": "Townsville",
+      "utterance": "which community has the most airports",
+      "id": "nt-10462"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many airports are there in the townsville community?",
+      "id": "nt-11862"
+    }
+  ],
+  "metadata": {
+    "title": "List of airports in Queensland",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36701953&oldid=587593075",
+    "tableIndex": 1,
+    "hashcode": "2f62ee7e6355910f0ff89160514e8de7a233690a",
+    "id": 36701953,
+    "revision": 587593075
+  }
+}

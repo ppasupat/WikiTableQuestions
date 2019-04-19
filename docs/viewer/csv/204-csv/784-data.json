@@ -1,0 +1,85 @@
+{
+  "examples": [
+    {
+      "targetValue": "Garra Dembele",
+      "utterance": "who was the top goalscorer on this team?",
+      "id": "nt-756"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many goals did ismail isa score this season?",
+      "id": "nt-1454"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the difference between vladimir gadzhev and yordan miliev's scores?",
+      "id": "nt-1521"
+    },
+    {
+      "targetValue": "Jeanvion Yulu-Matondo",
+      "utterance": "which is the only player from germany?",
+      "id": "nt-2017"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many players did not score a goal in cup play?",
+      "id": "nt-2455"
+    },
+    {
+      "targetValue": "League",
+      "utterance": "which total is higher, the europa league total or the league total?",
+      "id": "nt-2619"
+    },
+    {
+      "targetValue": "Mariyan Ognyanov",
+      "utterance": "which player is in the same league as joazinho and vladimir gadzhev?",
+      "id": "nt-4730"
+    },
+    {
+      "targetValue": "27",
+      "utterance": "what is the sum of the cup total and the europa league total?",
+      "id": "nt-5714"
+    },
+    {
+      "targetValue": [
+        "Garra Dembele",
+        "Daniel Mladenov",
+        "Ismail Isa"
+      ],
+      "utterance": "which players have at least 4 in the europa league?",
+      "id": "nt-9768"
+    },
+    {
+      "targetValue": [
+        "Serginho Greene",
+        "Yordan Miliev",
+        "Ivo Ivanov"
+      ],
+      "utterance": "which players only scored one goal?",
+      "id": "nt-10176"
+    },
+    {
+      "targetValue": "Garra Dembele",
+      "utterance": "who had the most goal scores?",
+      "id": "nt-13488"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many of the players did not score any goals in the cup?",
+      "id": "nt-13764"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many players had a total of 4?",
+      "id": "nt-13816"
+    }
+  ],
+  "metadata": {
+    "title": "2010–11 PFC Levski Sofia season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=29770655&oldid=578583643",
+    "tableIndex": 0,
+    "hashcode": "4d704edcd71b8bf5e97d8948a67254a1d89cfef6",
+    "id": 29770655,
+    "revision": 578583643
+  }
+}

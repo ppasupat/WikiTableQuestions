@@ -1,0 +1,78 @@
+{
+  "examples": [
+    {
+      "targetValue": "Katja Saarinen",
+      "utterance": "which skiier placed above anna jochemsen, bu below mariya papulova",
+      "id": "nt-329"
+    },
+    {
+      "targetValue": "Italy",
+      "utterance": "canada finished in 1:45.53. tell me the country in the previous slot.",
+      "id": "nt-1388"
+    },
+    {
+      "targetValue": "+17.32",
+      "utterance": "what was the difference in time between the 8th place finisher and the first place finisher?",
+      "id": "nt-3554"
+    },
+    {
+      "targetValue": "Slovakia",
+      "utterance": "who finished faster--canada or slovakia?",
+      "id": "nt-3766"
+    },
+    {
+      "targetValue": "Petra Smarzova",
+      "utterance": "who had the higher rank, katja saarinen or petra smarzova?",
+      "id": "nt-4986"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many people finished in less than 1:55?",
+      "id": "nt-5728"
+    },
+    {
+      "targetValue": "2:00.86",
+      "utterance": "what was the slowest time?",
+      "id": "nt-6424"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "what country finished after the netherlands?",
+      "id": "nt-7338"
+    },
+    {
+      "targetValue": [
+        "Slovakia",
+        "Italy",
+        "Finland",
+        "Netherlands",
+        "Russia"
+      ],
+      "utterance": "what countrys had first runs that were longer than their second runs?",
+      "id": "nt-8213"
+    },
+    {
+      "targetValue": "Germany",
+      "utterance": "the team from what country ranked first?",
+      "id": "nt-10641"
+    },
+    {
+      "targetValue": "Solène Jambaqué",
+      "utterance": "who finished after melania corradini?",
+      "id": "nt-11657"
+    },
+    {
+      "targetValue": "Katja Saarinen",
+      "utterance": "who finished directly after papulova?",
+      "id": "nt-11970"
+    }
+  ],
+  "metadata": {
+    "title": "2011 IPC Alpine Skiing World Championships – Slalom",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30549186&oldid=598977972",
+    "tableIndex": 1,
+    "hashcode": "72b39e25d0cb7ce41aebbe5d2df4701ccbe1559b",
+    "id": 30549186,
+    "revision": 598977972
+  }
+}

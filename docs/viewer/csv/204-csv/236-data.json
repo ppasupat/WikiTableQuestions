@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "50 Cent: Bulletproof",
+      "utterance": "name of the only gangster game from developer genuine games",
+      "id": "nt-475"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "number of gangster games released by developer rockstar north",
+      "id": "nt-3680"
+    },
+    {
+      "targetValue": "187 Ride or Die",
+      "utterance": "other than 50 cent: bulletproof, what game was released in 2005?",
+      "id": "nt-4264"
+    },
+    {
+      "targetValue": "187 Ride or Die",
+      "utterance": "which game had only the driving genre?",
+      "id": "nt-6226"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "at least how many gta games are listed?",
+      "id": "nt-8666"
+    },
+    {
+      "targetValue": "Mob Rule",
+      "utterance": "which game is older, mob rule or 25 to life?",
+      "id": "nt-9720"
+    },
+    {
+      "targetValue": "Omerta - City of Gangsters",
+      "utterance": "what was the last game released?",
+      "id": "nt-11116"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "number of gangster games released by developers ubisoft and hothouse creations combined.",
+      "id": "nt-12365"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "total number of gangster games released.",
+      "id": "nt-12874"
+    },
+    {
+      "targetValue": "Gangsters: Organized Crime",
+      "utterance": "what was the first game released?",
+      "id": "nt-13719"
+    }
+  ],
+  "metadata": {
+    "title": "List of gangster games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=24401130&oldid=594021708",
+    "tableIndex": 0,
+    "hashcode": "dc12ab8e49a7abd3538e6d20943d72335ab526e4",
+    "id": 24401130,
+    "revision": 594021708
+  }
+}

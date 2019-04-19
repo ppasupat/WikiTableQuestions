@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "Randy Denton",
+      "utterance": "who was the pick after moses malone?",
+      "id": "nt-7765"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what was the total number of centers selected in the first round?",
+      "id": "nt-8652"
+    },
+    {
+      "targetValue": "$236,250",
+      "utterance": "what was the signing price on average of all the players?",
+      "id": "nt-12459"
+    }
+  ],
+  "metadata": {
+    "title": "1976 NBA draft",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4506416&oldid=601466720",
+    "tableIndex": 4,
+    "hashcode": "c545a675154823dc5233e1b7f24766afccb9577c",
+    "id": 4506416,
+    "revision": 601466720
+  }
+}

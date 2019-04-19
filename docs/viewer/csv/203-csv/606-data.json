@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "32",
+      "utterance": "total number of venues that hosted first and second round games.",
+      "id": "nt-685"
+    }
+  ],
+  "metadata": {
+    "title": "1990 NCAA Women's Division I Basketball Tournament",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10708865&oldid=602167859",
+    "tableIndex": 3,
+    "hashcode": "3ac9662f4dfb25ad9756eda9dfb425607e211a85",
+    "id": 10708865,
+    "revision": 602167859
+  }
+}

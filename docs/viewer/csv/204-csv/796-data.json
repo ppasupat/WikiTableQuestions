@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "TV MÁS",
+      "utterance": "which is the only station with 8 affiliates?",
+      "id": "nt-2308"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "tell me the number of stations tv azteca owns.",
+      "id": "nt-3034"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many networks have more affiliates than canal de las estrellas?",
+      "id": "nt-3196"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the number of affiliates of canal de las estrellas.",
+      "id": "nt-3493"
+    },
+    {
+      "targetValue": "TV MÁS",
+      "utterance": "who has the most number of affiliates?",
+      "id": "nt-4112"
+    },
+    {
+      "targetValue": "Televisa",
+      "utterance": "which owner has the most networks?",
+      "id": "nt-4670"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many networks show soap operas?",
+      "id": "nt-11376"
+    },
+    {
+      "targetValue": [
+        "Azteca 7",
+        "Azteca 13"
+      ],
+      "utterance": "name each of tv azteca's network names.",
+      "id": "nt-12268"
+    }
+  ],
+  "metadata": {
+    "title": "Television stations in Veracruz",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=32129424&oldid=480082903",
+    "tableIndex": 0,
+    "hashcode": "0adc6ccc525c45e030b372f8edae7ff7d8bf6b67",
+    "id": 32129424,
+    "revision": 480082903
+  }
+}

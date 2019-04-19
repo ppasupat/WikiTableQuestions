@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive tour of qatar did tom boonen win a stage?",
+      "id": "nt-1568"
+    },
+    {
+      "targetValue": "Jérôme Pineau",
+      "utterance": "who won the giro d'italia race after wouter weylandt?",
+      "id": "nt-1601"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what are the total number of wins for tom boonen overall?",
+      "id": "nt-2241"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what are the total amount of times italy appears on this chart?",
+      "id": "nt-10335"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many wins did tom boonen made?",
+      "id": "nt-10493"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many uci europe tour competitions are recorded in the chart?",
+      "id": "nt-13075"
+    },
+    {
+      "targetValue": "Tour of Qatar",
+      "utterance": "what is the name of the first competition on this chart?",
+      "id": "nt-13701"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what are the number of times tour of qatar is listed as the race?",
+      "id": "nt-13722"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times was tom boonen listed as the rider?",
+      "id": "nt-13768"
+    }
+  ],
+  "metadata": {
+    "title": "2010 Quick Step season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=25619880&oldid=541226807",
+    "tableIndex": 2,
+    "hashcode": "fcc17eacbde3f408390c92c87bfa8ebb90cd0b60",
+    "id": 25619880,
+    "revision": 541226807
+  }
+}

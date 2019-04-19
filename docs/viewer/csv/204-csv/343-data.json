@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Rifle 1889",
+      "utterance": "which rifle has the longest barrel?",
+      "id": "nt-97"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "do the usa rifles on average weigh more or less than the danish rifles?",
+      "id": "nt-1170"
+    },
+    {
+      "targetValue": "760 mm / 29.9 in",
+      "utterance": "how long was the m1894 rifle's barrel?",
+      "id": "nt-5625"
+    },
+    {
+      "targetValue": "Denmark",
+      "utterance": "what country has the least number of rifles in service?",
+      "id": "nt-6157"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the number of rifles listed that have a weight higher than 9.0 lb.",
+      "id": "nt-6774"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many other models are the same length as the m1898 carbine?",
+      "id": "nt-13108"
+    },
+    {
+      "targetValue": "Denmark",
+      "utterance": "which country had the least number of models?",
+      "id": "nt-14051"
+    }
+  ],
+  "metadata": {
+    "title": "Krag-Jørgensen",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17275&oldid=601887038",
+    "tableIndex": 0,
+    "hashcode": "ac37f650703d5f04e93c3a65e526010df233c3eb",
+    "id": 17275,
+    "revision": 601887038
+  }
+}

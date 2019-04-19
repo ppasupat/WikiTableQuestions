@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "what is the most compilation albums released in one year?",
+      "id": "nt-78"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many compilation albums were released after 2000?",
+      "id": "nt-2220"
+    },
+    {
+      "targetValue": "1981",
+      "utterance": "what year was the first compilation album released?",
+      "id": "nt-5781"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many willy deville albums have reached the chart?",
+      "id": "nt-7618"
+    },
+    {
+      "targetValue": "Les inoubliables de Willy DeVille",
+      "utterance": "which willy deville album was released after savoir faire",
+      "id": "nt-8229"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what's the total number of albums released by willy deville?",
+      "id": "nt-9537"
+    },
+    {
+      "targetValue": "2009",
+      "utterance": "what year was willy deville's last album released?",
+      "id": "nt-10103"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many albums were released under the emi record label?",
+      "id": "nt-12604"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many compilation albums did they release in 1997?",
+      "id": "nt-12754"
+    },
+    {
+      "targetValue": "Mink",
+      "utterance": "who has more artist credits, mink or willy?",
+      "id": "nt-12864"
+    }
+  ],
+  "metadata": {
+    "title": "Willy DeVille discography",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=22539794&oldid=584258826",
+    "tableIndex": 2,
+    "hashcode": "ae0e615811fab60a5d1b1c35afb149fe7e217968",
+    "id": 22539794,
+    "revision": 584258826
+  }
+}

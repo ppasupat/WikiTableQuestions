@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "East Germany",
+      "utterance": "according to the list, who has the most runners-up?",
+      "id": "nt-831"
+    },
+    {
+      "targetValue": "Germany",
+      "utterance": "which country had the highest number of runners-up?",
+      "id": "nt-1598"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "what was the number of winners from spain?",
+      "id": "nt-2731"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "what is the number of countries ranked in the top 8?",
+      "id": "nt-4982"
+    },
+    {
+      "targetValue": "Spain",
+      "utterance": "which country came in first place?",
+      "id": "nt-7044"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the total runners-up from sweden?",
+      "id": "nt-8562"
+    },
+    {
+      "targetValue": "France",
+      "utterance": "did france or croatia have a larger finals total?",
+      "id": "nt-9808"
+    },
+    {
+      "targetValue": [
+        "Bosnia & Herzegovina",
+        "Croatia",
+        "Czech Republic",
+        "Denmark",
+        "Romania",
+        "Serbia",
+        "Switzerland"
+      ],
+      "utterance": "what country has the least finals totals?",
+      "id": "nt-10843"
+    },
+    {
+      "targetValue": "37",
+      "utterance": "what was the total number of winners?",
+      "id": "nt-13507"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what was the difference between spain's winners and germany's winners?",
+      "id": "nt-13986"
+    }
+  ],
+  "metadata": {
+    "title": "EHF Cup Winners' Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6935857&oldid=598386594",
+    "tableIndex": 1,
+    "hashcode": "693743d34bc9862c648764c1afef9efc1ef6ee5b",
+    "id": 6935857,
+    "revision": 598386594
+  }
+}

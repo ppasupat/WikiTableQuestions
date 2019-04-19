@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "9",
+      "utterance": "how many ships were launched in the year 1944?",
+      "id": "nt-281"
+    },
+    {
+      "targetValue": "Wave Ruler",
+      "utterance": "what is the name of the last ship that was scrapped?",
+      "id": "nt-532"
+    },
+    {
+      "targetValue": "Wave Conqueror",
+      "utterance": "which other ship was launched in the same year as the wave victor?",
+      "id": "nt-601"
+    },
+    {
+      "targetValue": "Wave Duke",
+      "utterance": "what was the next wave class oiler after wave emperor?",
+      "id": "nt-4537"
+    },
+    {
+      "targetValue": "30 September 1943",
+      "utterance": "what date was the first ship launched?",
+      "id": "nt-5547"
+    },
+    {
+      "targetValue": "Harland and Wolff",
+      "utterance": "name a builder with \"and\" in the name.",
+      "id": "nt-12983"
+    }
+  ],
+  "metadata": {
+    "title": "Wave-class oiler",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21613793&oldid=549267819",
+    "tableIndex": 0,
+    "hashcode": "5ba55e37091e93ad2e2e1a766123c442cad6ec26",
+    "id": 21613793,
+    "revision": 549267819
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "21",
+      "utterance": "how many athletes are not ranked?",
+      "id": "nt-210"
+    },
+    {
+      "targetValue": "Dario Cologna",
+      "utterance": "which competitor came in first for this race?",
+      "id": "nt-650"
+    },
+    {
+      "targetValue": "94",
+      "utterance": "what is the total number of athletes that competed?",
+      "id": "nt-1122"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many competitors did not start the race at all?",
+      "id": "nt-6022"
+    },
+    {
+      "targetValue": "Sweden",
+      "utterance": "marcus hellner and calle halfvarsson both came from which country?",
+      "id": "nt-9722"
+    },
+    {
+      "targetValue": "Maxim Vylegzhanin",
+      "utterance": "which athlete came in after petter northug?",
+      "id": "nt-10971"
+    },
+    {
+      "targetValue": "Jean-Marc Gaillard",
+      "utterance": "did marcus hellner or jean-marc gaillard rank tenth?",
+      "id": "nt-11890"
+    },
+    {
+      "targetValue": "73",
+      "utterance": "how many rankings are there?",
+      "id": "nt-11966"
+    },
+    {
+      "targetValue": "1:13:09.3",
+      "utterance": "the first time on the list is?",
+      "id": "nt-12186"
+    }
+  ],
+  "metadata": {
+    "title": "FIS Nordic World Ski Championships 2013 – Men's 30 kilometre pursuit",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=38606492&oldid=600954735",
+    "tableIndex": 0,
+    "hashcode": "c7b8f6ca0d0231ac075532105ed99cefd6278a19",
+    "id": 38606492,
+    "revision": 600954735
+  }
+}

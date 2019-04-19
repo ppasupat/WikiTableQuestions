@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "19",
+      "utterance": "what was the highest ranking in the singles chart \"holding out for a hero\" achieved outside of europe.",
+      "id": "nt-3616"
+    }
+  ],
+  "metadata": {
+    "title": "Secret Dreams and Forbidden Fire",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2530197&oldid=597756393",
+    "tableIndex": 2,
+    "hashcode": "44667e57b3d988d78b9c33a8c05aa7f86bac9bfa",
+    "id": 2530197,
+    "revision": 597756393
+  }
+}

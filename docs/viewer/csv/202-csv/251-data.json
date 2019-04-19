@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "15 weeks",
+      "utterance": "how long did michael jackson hold the top spot?",
+      "id": "nt-8686"
+    }
+  ],
+  "metadata": {
+    "title": "List of Billboard 200 number-one albums of 1984",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3301471&oldid=575854993",
+    "tableIndex": 0,
+    "hashcode": "f156c831e8dfb8344ee407d9f7a951fefc218518",
+    "id": 3301471,
+    "revision": 575854993
+  }
+}

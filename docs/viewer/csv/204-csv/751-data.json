@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Transrapid SMT",
+      "utterance": "what is the only train to reach a top speed of 500 or more?",
+      "id": "nt-535"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many trains other than the transrapid 07 can go faster than 450km/h?",
+      "id": "nt-4447"
+    },
+    {
+      "targetValue": "HMB2",
+      "utterance": "which train has the least top speed?",
+      "id": "nt-7249"
+    },
+    {
+      "targetValue": "Transrapid 03",
+      "utterance": "high noise generation and too large consumption led to what train being scrapped?",
+      "id": "nt-10290"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many trains listed have the same speed as the hmb2?",
+      "id": "nt-11729"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of trains that were either scrapped or destroyed?",
+      "id": "nt-12183"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "tell me the number of versions that are scrapped.",
+      "id": "nt-12596"
+    },
+    {
+      "targetValue": "Transrapid 04",
+      "utterance": "what train was developed after the erlangener erprobungstrager?",
+      "id": "nt-14129"
+    }
+  ],
+  "metadata": {
+    "title": "Transrapid",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=172228&oldid=592294099",
+    "tableIndex": 0,
+    "hashcode": "221ae140252d01fbf93eff820e99feb4ec6cf0d3",
+    "id": 172228,
+    "revision": 592294099
+  }
+}

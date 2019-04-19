@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "196.680",
+      "utterance": "what is the number of miles that number sr-3 has?",
+      "id": "nt-9980"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many highways are near littlefield, arizona?",
+      "id": "nt-12465"
+    }
+  ],
+  "metadata": {
+    "title": "List of state highways in Utah",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4761659&oldid=601415237",
+    "tableIndex": 0,
+    "hashcode": "f96b307452b4654a05d98b7dae11f629ff6719f4",
+    "id": 4761659,
+    "revision": 601415237
+  }
+}

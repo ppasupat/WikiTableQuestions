@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "January",
+      "utterance": "does december or january have more snow days?",
+      "id": "nt-262"
+    },
+    {
+      "targetValue": "January",
+      "utterance": "which month had a record high temperature of 100 degrees fahrenheit and also a record low temperature of 19 degrees fahrenheit?",
+      "id": "nt-7232"
+    },
+    {
+      "targetValue": "August",
+      "utterance": "which month had the most sunny days?",
+      "id": "nt-12152"
+    },
+    {
+      "targetValue": "April",
+      "utterance": "did march or april have more precipitation?",
+      "id": "nt-14117"
+    }
+  ],
+  "metadata": {
+    "title": "Monterrey",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=40455&oldid=602035763",
+    "tableIndex": 0,
+    "hashcode": "66ed86a51c304a47c1e2d2c69321195926ff3994",
+    "id": 40455,
+    "revision": 602035763
+  }
+}

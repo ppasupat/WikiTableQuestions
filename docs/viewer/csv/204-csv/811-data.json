@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Lance Russell",
+      "utterance": "bob caudle was an announcer, who was the other one?",
+      "id": "nt-823"
+    },
+    {
+      "targetValue": "Gene Anderson",
+      "utterance": "tell me an inductee that was not living at the time.",
+      "id": "nt-1066"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many members were inducted for announcing?",
+      "id": "nt-1260"
+    },
+    {
+      "targetValue": "Lance Russell",
+      "utterance": "who was inducted after royal?",
+      "id": "nt-4820"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "what number of members were inducted before 2009?",
+      "id": "nt-5696"
+    },
+    {
+      "targetValue": "Buddy Roberts",
+      "utterance": "who's real name is dale hey, grizzly smith or buddy roberts?",
+      "id": "nt-9604"
+    },
+    {
+      "targetValue": "Jackie Fargo",
+      "utterance": "who won the most nwa southern tag team championships (mid-america version)?",
+      "id": "nt-12755"
+    },
+    {
+      "targetValue": "Paul Jones",
+      "utterance": "who was the only person to be inducted for wrestling and managing?",
+      "id": "nt-13343"
+    }
+  ],
+  "metadata": {
+    "title": "NWA Wrestling Legends Hall of Heroes",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=23484093&oldid=597285723",
+    "tableIndex": 0,
+    "hashcode": "d6c077904480e5c4e3f0aa2ffe9b8b20de251bd0",
+    "id": 23484093,
+    "revision": 597285723
+  }
+}

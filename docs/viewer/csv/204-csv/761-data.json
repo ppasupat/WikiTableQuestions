@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "12",
+      "utterance": "what number countries received gold medals?",
+      "id": "nt-298"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many nations did not receive any gold medals?",
+      "id": "nt-1134"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of gold medals won by japan?",
+      "id": "nt-1940"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many countries did not win any gold medals?",
+      "id": "nt-2262"
+    },
+    {
+      "targetValue": "France",
+      "utterance": "other than switzerland, which other nation won a total of three bronze awards?",
+      "id": "nt-2383"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "which nation has won the most silver medals in the biathlon at the winter paralympics?",
+      "id": "nt-2547"
+    },
+    {
+      "targetValue": "Germany",
+      "utterance": "which nation is the top nation in number of gold awards won?",
+      "id": "nt-3324"
+    },
+    {
+      "targetValue": "Germany",
+      "utterance": "only one team has won more than 10 bronze medals in the biathlon at the winter paralympics. which team is it?",
+      "id": "nt-5722"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "what is the total number of silver medals won by russia, norway, and sweden combined?",
+      "id": "nt-6677"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the total amount of gold awards that france won?",
+      "id": "nt-7804"
+    },
+    {
+      "targetValue": "44",
+      "utterance": "in the biathlon at the winter paralympics, how many total medals have non-european teams won?",
+      "id": "nt-9154"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many countries received more bronze medals than sweden?",
+      "id": "nt-10965"
+    }
+  ],
+  "metadata": {
+    "title": "Biathlon at the Winter Paralympics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=29964282&oldid=594207470",
+    "tableIndex": 1,
+    "hashcode": "162286be50d5bb46d8935bc549e02c1a7b475cee",
+    "id": 29964282,
+    "revision": 594207470
+  }
+}

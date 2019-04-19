@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Galaxy",
+      "utterance": "who one the first match up in 2005?",
+      "id": "nt-3646"
+    },
+    {
+      "targetValue": "2006",
+      "utterance": "in what year did chivas have the same number of wins as in 2012?",
+      "id": "nt-3697"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "are the years in consecutive order/",
+      "id": "nt-5117"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the different in the number of total wins the galaxy has compared to the number chivas has in the derby?",
+      "id": "nt-6641"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many times has galaxy won the derby?",
+      "id": "nt-8135"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many matches has chivas won in the derby?",
+      "id": "nt-10271"
+    },
+    {
+      "targetValue": "below",
+      "utterance": "is the number of draws in the history of the derby above or below 10?",
+      "id": "nt-13183"
+    }
+  ],
+  "metadata": {
+    "title": "SuperClasico",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5137201&oldid=596305665",
+    "tableIndex": 0,
+    "hashcode": "7e4d2b6e5cec975ef8defb5fc582912160423c6c",
+    "id": 5137201,
+    "revision": 596305665
+  }
+}

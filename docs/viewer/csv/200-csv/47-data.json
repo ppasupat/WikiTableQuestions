@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "April 1954",
+      "utterance": "when did the third drop in the experiment fall?",
+      "id": "nt-6638"
+    },
+    {
+      "targetValue": "February 1947",
+      "utterance": "when did the second drop in the experiment fall?",
+      "id": "nt-9840"
+    },
+    {
+      "targetValue": "December 1938",
+      "utterance": "when did the first drop in the experiment fall?",
+      "id": "nt-10866"
+    }
+  ],
+  "metadata": {
+    "title": "Pitch drop experiment",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=250107&oldid=602407535",
+    "tableIndex": 0,
+    "hashcode": "f52e01639408261fe1e35659cfe1215a0f639bb9",
+    "id": 250107,
+    "revision": 602407535
+  }
+}

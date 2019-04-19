@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "800-829",
+      "utterance": "which buses are the newest in the current fleet?",
+      "id": "nt-2842"
+    }
+  ],
+  "metadata": {
+    "title": "Winnipeg Transit",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3730964&oldid=600445651",
+    "tableIndex": 0,
+    "hashcode": "b38d76908331ab21b4f24f187d21c5f6c9fc9d25",
+    "id": 3730964,
+    "revision": 600445651
+  }
+}

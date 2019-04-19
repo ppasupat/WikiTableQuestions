@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "1911",
+      "utterance": "in what year was the lake compounce carousel moved to its present home?",
+      "id": "nt-271"
+    },
+    {
+      "targetValue": "California",
+      "utterance": "which state is/was home to the most looff carousels?",
+      "id": "nt-2828"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many sides were there to the original building that housed sherman's carousel?",
+      "id": "nt-9474"
+    }
+  ],
+  "metadata": {
+    "title": "Charles I. D. Looff",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8214124&oldid=595683391",
+    "tableIndex": 0,
+    "hashcode": "00c407f8d656c7395c0ce0c52fbd53563409d621",
+    "id": 8214124,
+    "revision": 595683391
+  }
+}

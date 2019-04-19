@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "10",
+      "utterance": "in how many films is the role listed as \"herself\"?",
+      "id": "nt-7777"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many movies was she in after the film \"rent-a-cop\"?",
+      "id": "nt-9292"
+    },
+    {
+      "targetValue": "1949",
+      "utterance": "when was minelli's first film?",
+      "id": "nt-12008"
+    },
+    {
+      "targetValue": "Cabaret",
+      "utterance": "which film did she receive the academy award for best actress and golden globe award for best actress-motion picture drama?",
+      "id": "nt-13532"
+    }
+  ],
+  "metadata": {
+    "title": "Liza Minnelli",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=59216&oldid=598852656",
+    "tableIndex": 0,
+    "hashcode": "65844cbed7e48302e357d1bbead568acbaa2a18d",
+    "id": 59216,
+    "revision": 598852656
+  }
+}

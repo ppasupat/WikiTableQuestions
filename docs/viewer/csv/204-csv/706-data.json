@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "New Delhi, India",
+      "utterance": "what was the venue when he placed first?",
+      "id": "nt-15"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many times did his jump surpass 7.70 m?",
+      "id": "nt-1919"
+    },
+    {
+      "targetValue": "7.91 m (w)",
+      "utterance": "how long was huang le's longest jump in 2002?",
+      "id": "nt-2661"
+    },
+    {
+      "targetValue": "2001",
+      "utterance": "in what year was the position of 3rd first achieved?",
+      "id": "nt-3115"
+    },
+    {
+      "targetValue": "1999",
+      "utterance": "which year was his best jump?",
+      "id": "nt-3415"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the difference between the number of times the position of third was achieved and the number of times the position of first was achieved?",
+      "id": "nt-3439"
+    },
+    {
+      "targetValue": "World Championships",
+      "utterance": "which competition did this person compete in immediately before the east asian games in 2001?",
+      "id": "nt-5095"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many total competitions were in south korea?",
+      "id": "nt-5764"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the number of competitions that have been competed in?",
+      "id": "nt-8350"
+    },
+    {
+      "targetValue": "Asian Junior Championships",
+      "utterance": "what was the only competition where this competitor achieved 1st place?",
+      "id": "nt-8649"
+    },
+    {
+      "targetValue": "Seville, Spain",
+      "utterance": "tell me the only venue in spain.",
+      "id": "nt-9219"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many competitions did he place in the top three?",
+      "id": "nt-10723"
+    }
+  ],
+  "metadata": {
+    "title": "Huang Le",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17919901&oldid=579913983",
+    "tableIndex": 0,
+    "hashcode": "029e8d98ffe095d9354ea76e99c299a2d2ae19ba",
+    "id": 17919901,
+    "revision": 579913983
+  }
+}

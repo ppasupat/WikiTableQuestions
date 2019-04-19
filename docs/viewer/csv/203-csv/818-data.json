@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of awards that arisan won in 2004?",
+      "id": "nt-314"
+    },
+    {
+      "targetValue": "Nirina Zubir",
+      "utterance": "what is the name of the person who won most favorite actress the year before dian sastrowardoyo won?",
+      "id": "nt-4442"
+    },
+    {
+      "targetValue": "Best Movie",
+      "utterance": "what is the first category listed on this chart?",
+      "id": "nt-5872"
+    },
+    {
+      "targetValue": "Samuel Rizal",
+      "utterance": "who was the most favorite actor the year before nicholas saputra?",
+      "id": "nt-6513"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many categories are listed on this chart?",
+      "id": "nt-7634"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what number of years has the most favourite movie award been given?",
+      "id": "nt-7990"
+    },
+    {
+      "targetValue": "Hantu Tinta",
+      "utterance": "what is the only movie to win best scary scene before kuntilanak did?",
+      "id": "nt-8398"
+    },
+    {
+      "targetValue": "Best Scary Scene",
+      "utterance": "which award did hantu tinta and kuntilanak both receive?",
+      "id": "nt-9699"
+    },
+    {
+      "targetValue": "Arisan",
+      "utterance": "what won best film previous to janji joni?",
+      "id": "nt-10361"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many years has the best crying scene award been given?",
+      "id": "nt-11185"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many awards were handed out in 2004?",
+      "id": "nt-12752"
+    }
+  ],
+  "metadata": {
+    "title": "MTV Indonesia Movie Awards",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13673985&oldid=571899678",
+    "tableIndex": 0,
+    "hashcode": "cf958b1e71c76ed2f4932de663079f35d9461c18",
+    "id": 13673985,
+    "revision": 571899678
+  }
+}

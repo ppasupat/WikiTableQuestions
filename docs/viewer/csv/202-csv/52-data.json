@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "11",
+      "utterance": "how many seasons has ott been the skip?",
+      "id": "nt-7782"
+    }
+  ],
+  "metadata": {
+    "title": "Mirjam Ott",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3953535&oldid=596332581",
+    "tableIndex": 0,
+    "hashcode": "781a9d7b58639ce2a6370a348b81d0282d0154a4",
+    "id": 3953535,
+    "revision": 596332581
+  }
+}

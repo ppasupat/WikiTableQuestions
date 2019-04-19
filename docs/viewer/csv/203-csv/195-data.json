@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Low output temperature",
+      "utterance": "gshp, ground at 10degrees is next to low output temp or high output temp?",
+      "id": "nt-6172"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many pumps temperature was 75 degrees celsuis?",
+      "id": "nt-7169"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many pump types have no typical use listed?",
+      "id": "nt-8351"
+    },
+    {
+      "targetValue": "3.5",
+      "utterance": "what is the average variation when using ground source heat pump water at 0degrees.",
+      "id": "nt-8668"
+    },
+    {
+      "targetValue": "Theoretical Carnot cycle limit, source 10 °C",
+      "utterance": "which pump had the top cop variation at 35 degrees celsius?",
+      "id": "nt-9929"
+    },
+    {
+      "targetValue": "Theoretical Carnot cycle limit, source 0 °C",
+      "utterance": "the theoretical lorentzen cycle has the same cop variation at 45 degrees celsius as what other pump at 35 degrees celsius?",
+      "id": "nt-11769"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many pump types have an entry listed for 85 °c (e.g. radiator and dhw)?",
+      "id": "nt-11909"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what number of pump types have a 35 °c (e.g. heated screed floor) greater than 5.0?",
+      "id": "nt-12633"
+    }
+  ],
+  "metadata": {
+    "title": "Heat pump",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=68316&oldid=601271712",
+    "tableIndex": 0,
+    "hashcode": "73ea4b7c91958661f04712f2e203c796f7016a98",
+    "id": 68316,
+    "revision": 601271712
+  }
+}

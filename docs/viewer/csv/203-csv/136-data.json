@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "what is the total amount of processors that have both an integrated color display and an enhanced keyboard?",
+      "id": "nt-37"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what are the number of times model 25 is listed on this chart?",
+      "id": "nt-108"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the number of desktop processors released in the year 1990?",
+      "id": "nt-2480"
+    },
+    {
+      "targetValue": "Below",
+      "utterance": "is the ibm 8525-001 processor speed above or below 10 mhz?",
+      "id": "nt-2703"
+    },
+    {
+      "targetValue": "70",
+      "utterance": "what is the name of the last model listed on this chart?",
+      "id": "nt-2909"
+    },
+    {
+      "targetValue": "8525-L04",
+      "utterance": "what is the next model number listed after 8525-l01?",
+      "id": "nt-6925"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many models had the 8 mhz intel 8086 processor?",
+      "id": "nt-8108"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many processors have an integrated monochrome display?",
+      "id": "nt-8301"
+    },
+    {
+      "targetValue": "8573-031",
+      "utterance": "which model was the first portable device?",
+      "id": "nt-10538"
+    }
+  ],
+  "metadata": {
+    "title": "IBM Personal System/2",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=218204&oldid=601574823",
+    "tableIndex": 0,
+    "hashcode": "7b60d118ce39ad8c67d9beb7527d5ab29841c6df",
+    "id": 218204,
+    "revision": 601574823
+  }
+}

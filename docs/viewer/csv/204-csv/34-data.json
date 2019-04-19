@@ -1,0 +1,56 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "what is the difference in gold between algeria and cameroon?",
+      "id": "nt-946"
+    },
+    {
+      "targetValue": "Algeria",
+      "utterance": "which country won the most gold events?",
+      "id": "nt-2667"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many silver medals were earned by egypt?",
+      "id": "nt-3041"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many countries earned the same amount of total medals as angola?",
+      "id": "nt-9413"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what rank did the nation with the most total medals receive?",
+      "id": "nt-9703"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many countries scored at least 3 gold medals?",
+      "id": "nt-10960"
+    },
+    {
+      "targetValue": "Tunisia",
+      "utterance": "which nation had more bronze medals: algeria, tunisia or egypt?",
+      "id": "nt-11137"
+    },
+    {
+      "targetValue": [
+        "Algeria",
+        "Tunisia",
+        "Egypt"
+      ],
+      "utterance": "which three countries have at least nine metals?",
+      "id": "nt-14016"
+    }
+  ],
+  "metadata": {
+    "title": "2004 African Judo Championships",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10642547&oldid=576018847",
+    "tableIndex": 2,
+    "hashcode": "3e90694c6df7db9fff745245b53ee1a1803d9a88",
+    "id": 10642547,
+    "revision": 576018847
+  }
+}

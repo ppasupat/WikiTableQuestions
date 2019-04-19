@@ -1,0 +1,80 @@
+{
+  "examples": [
+    {
+      "targetValue": "Edward C. Eicher",
+      "utterance": "who was the first democrat to win an election?",
+      "id": "nt-868"
+    },
+    {
+      "targetValue": "William F. Kopp",
+      "utterance": "what winner received the least number of votes?",
+      "id": "nt-1409"
+    },
+    {
+      "targetValue": "13 years",
+      "utterance": "how long did james leach hold his seat?",
+      "id": "nt-3610"
+    },
+    {
+      "targetValue": "E.W. McManus",
+      "utterance": "who ran in the year 1920, but did not win?",
+      "id": "nt-5126"
+    },
+    {
+      "targetValue": "William F. Kopp",
+      "utterance": "which is the only winner who had 100% of votes?",
+      "id": "nt-6422"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many consecutive elections did william f. kopp win?",
+      "id": "nt-6538"
+    },
+    {
+      "targetValue": "151",
+      "utterance": "what is the least number of votes ever had by a loser of an election?",
+      "id": "nt-6725"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many losing candidates get at least 98,000 votes?",
+      "id": "nt-6953"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many consecutive terms did thomas martin hold his seat?",
+      "id": "nt-8975"
+    },
+    {
+      "targetValue": [
+        "William F. Kopp",
+        "Thomas E. Martin"
+      ],
+      "utterance": "what two people are above and below edward c. eicher",
+      "id": "nt-10293"
+    },
+    {
+      "targetValue": "Jim Nussle",
+      "utterance": "who was the last republican to win?",
+      "id": "nt-10340"
+    },
+    {
+      "targetValue": "Ronald O. Bramhall",
+      "utterance": "who was the next loser after john o'connor",
+      "id": "nt-11571"
+    },
+    {
+      "targetValue": "38",
+      "utterance": "how many winners had at least 50,000 votes?",
+      "id": "nt-13121"
+    }
+  ],
+  "metadata": {
+    "title": "Iowa's 1st congressional district",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3305367&oldid=601355140",
+    "tableIndex": 1,
+    "hashcode": "d7dc036986af8a1db066020a1684f5d8a6648fa7",
+    "id": 3305367,
+    "revision": 601355140
+  }
+}

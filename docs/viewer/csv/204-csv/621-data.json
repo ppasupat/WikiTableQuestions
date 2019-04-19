@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Greater Jacksonville Open",
+      "utterance": "in which other tournament was his winnings score also -9?",
+      "id": "nt-2082"
+    },
+    {
+      "targetValue": "1963",
+      "utterance": "don january won the tucson open invitational twice, in 1960 and which year?",
+      "id": "nt-2224"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the difference of winning score between the san antonio texas open and the dallas centennial open?",
+      "id": "nt-8452"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many tournaments were in 1967?",
+      "id": "nt-8907"
+    },
+    {
+      "targetValue": "Tucson Open Invitational",
+      "utterance": "in which tournament did he have the biggest margin of victory?",
+      "id": "nt-9188"
+    },
+    {
+      "targetValue": "60's",
+      "utterance": "did don january win more times in the 60's or the 70's?",
+      "id": "nt-10317"
+    },
+    {
+      "targetValue": "11 strokes",
+      "utterance": "what is the total margin of victory in 1963 tucson open invitational?",
+      "id": "nt-11357"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many times did don january win by at leas 10 strokes?",
+      "id": "nt-11490"
+    },
+    {
+      "targetValue": "11 strokes",
+      "utterance": "which margin of victory was the largest?",
+      "id": "nt-12364"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many runners up were there on july 24, 1967?",
+      "id": "nt-12541"
+    }
+  ],
+  "metadata": {
+    "title": "Don January",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=610287&oldid=585522222",
+    "tableIndex": 0,
+    "hashcode": "7c1d82bc98037f2e913f7582c7aef07923a81029",
+    "id": 610287,
+    "revision": 585522222
+  }
+}

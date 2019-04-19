@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Mystique",
+      "utterance": "which artist earned the least number of points?",
+      "id": "nt-848"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "tell me the number of artists who ended up in 6th place.",
+      "id": "nt-1286"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many artists scored more than 30 points?",
+      "id": "nt-2588"
+    },
+    {
+      "targetValue": "360",
+      "utterance": "what is the total of points on the chart",
+      "id": "nt-3737"
+    },
+    {
+      "targetValue": "Deuce",
+      "utterance": "what artist is previous to music hall on the 10th draw",
+      "id": "nt-4647"
+    },
+    {
+      "targetValue": "\"Computer Games\"",
+      "utterance": "bernadette's \"soms\" and which other song earned the same number of points?",
+      "id": "nt-5487"
+    },
+    {
+      "targetValue": "Deuce \"Stopwatch\"",
+      "utterance": "next to mystique's \"op zo'n dag\", who had the least amount of points?",
+      "id": "nt-9641"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many artists had, at most, 40 points?",
+      "id": "nt-13166"
+    }
+  ],
+  "metadata": {
+    "title": "Netherlands in the Eurovision Song Contest 1983",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=26607437&oldid=545877243",
+    "tableIndex": 0,
+    "hashcode": "6a053c2b0211dbc402d4d8e4df24381c9fb6af9c",
+    "id": 26607437,
+    "revision": 545877243
+  }
+}

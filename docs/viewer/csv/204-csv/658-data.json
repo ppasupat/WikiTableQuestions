@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many games were played in olympic stadium and had attendance over 12,000?",
+      "id": "nt-792"
+    },
+    {
+      "targetValue": "Friday, June 15",
+      "utterance": "what is the last date listed?",
+      "id": "nt-1130"
+    },
+    {
+      "targetValue": "LTU arena",
+      "utterance": "where did this team play their first game of the season?",
+      "id": "nt-4060"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many consecutive games were there no wins?",
+      "id": "nt-6138"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many games had more than 18,000 people?",
+      "id": "nt-6747"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many kick off times are past 6:00 p.m.?",
+      "id": "nt-9748"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the total wins for this team?",
+      "id": "nt-10826"
+    },
+    {
+      "targetValue": "Saturday, April 14",
+      "utterance": "what was the date of the first game?",
+      "id": "nt-11582"
+    },
+    {
+      "targetValue": "Hamburg Sea Devils",
+      "utterance": "who did this team play after the frankfurt galaxy on may 20 of this season?",
+      "id": "nt-11817"
+    },
+    {
+      "targetValue": "Saturday, May 5",
+      "utterance": "after saturday, april 14, when was the other win?",
+      "id": "nt-12955"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the number of games played at olympic stadium this season?",
+      "id": "nt-14067"
+    }
+  ],
+  "metadata": {
+    "title": "2007 Berlin Thunder season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=24314780&oldid=581922336",
+    "tableIndex": 1,
+    "hashcode": "dfdad66b8af53f2560a1384d47af6c4588669d3f",
+    "id": 24314780,
+    "revision": 581922336
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Latrobe Cenotaphs",
+      "utterance": "what was the first work completed?",
+      "id": "nt-5585"
+    },
+    {
+      "targetValue": "Thomas Marsh",
+      "utterance": "which artist is listed first in the table?",
+      "id": "nt-6050"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many are owned by the national park service?",
+      "id": "nt-6262"
+    },
+    {
+      "targetValue": "196",
+      "utterance": "how many listed works of public art are in ward 6?",
+      "id": "nt-8298"
+    },
+    {
+      "targetValue": "Adolfo Nesti",
+      "utterance": "which artist is listed next after charles grafly?",
+      "id": "nt-8639"
+    },
+    {
+      "targetValue": "80",
+      "utterance": "how many years after the george gordon meade memorial was built was the victims of communism memorial built?",
+      "id": "nt-8645"
+    },
+    {
+      "targetValue": "Vaquero",
+      "utterance": "only one work of public art in ward 6 contains acrylic urethane. which is it?",
+      "id": "nt-11333"
+    },
+    {
+      "targetValue": "George Gordon Meade Memorial",
+      "utterance": "what title was released first, george gordon meade memorial or american legion freedom bell.",
+      "id": "nt-11881"
+    }
+  ],
+  "metadata": {
+    "title": "List of public art in Washington, D.C., Ward 6",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=27560366&oldid=590214278",
+    "tableIndex": 0,
+    "hashcode": "7e637bc0adda9002e7f556f5871b821c393d544b",
+    "id": 27560366,
+    "revision": 590214278
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "1997",
+      "utterance": "in what year did miss pokhara last win the miss nepal award?",
+      "id": "nt-41"
+    },
+    {
+      "targetValue": "Dilasha GC",
+      "utterance": "who is the next representative after madina begum?",
+      "id": "nt-1059"
+    },
+    {
+      "targetValue": "Neelima Gurung",
+      "utterance": "who was the first winner of miss nepal?",
+      "id": "nt-2324"
+    },
+    {
+      "targetValue": "Madina Begum",
+      "utterance": "who was the only representative who won a special award at miss nepal but did not place at miss nepal?",
+      "id": "nt-5171"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many representatives have the last name gurung?",
+      "id": "nt-7386"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "has anyone won miss pokhara consecutively?",
+      "id": "nt-9104"
+    },
+    {
+      "targetValue": "1998",
+      "utterance": "what year is after 1997?",
+      "id": "nt-11826"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many miss pokhara selections finished below 2nd runner up since 1995?",
+      "id": "nt-12361"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many representatives placed at both miss nepal and miss pokhara.",
+      "id": "nt-13492"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what is the total number of years?",
+      "id": "nt-13878"
+    }
+  ],
+  "metadata": {
+    "title": "Miss Pokhara",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=39971119&oldid=600810311",
+    "tableIndex": 1,
+    "hashcode": "249aaafce7fbb2b3cdd147e8c894cb070da85eef",
+    "id": 39971119,
+    "revision": 600810311
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Citizens' Committee",
+      "utterance": "which party received the most votes, after labour?",
+      "id": "nt-3825"
+    },
+    {
+      "targetValue": "Charles G. Davidson",
+      "utterance": "what candidates, other than george h. scott, used his middle initial on the 1919 alderman ballot?",
+      "id": "nt-4499"
+    },
+    {
+      "targetValue": "Percy Abbott",
+      "utterance": "which candidate of the citizens committee has the most votes?",
+      "id": "nt-7668"
+    },
+    {
+      "targetValue": "5338",
+      "utterance": "how many total votes did the independent party have?",
+      "id": "nt-7954"
+    },
+    {
+      "targetValue": "Charles G. Davidson",
+      "utterance": "which candidate for alderman in 1919 had the longest last name?",
+      "id": "nt-8488"
+    },
+    {
+      "targetValue": "Joseph Adair",
+      "utterance": "which candidate had the least amount of votes?",
+      "id": "nt-9622"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many independent candidates were on the ballot for alderman in 1919?",
+      "id": "nt-10205"
+    },
+    {
+      "targetValue": "True",
+      "utterance": "true or false. percy abbot has more votes than james findlay.",
+      "id": "nt-11145"
+    },
+    {
+      "targetValue": "James Kinney",
+      "utterance": "which candidate had the most votes?",
+      "id": "nt-13036"
+    },
+    {
+      "targetValue": "J. J. Murray",
+      "utterance": "which of the labour party candidates had the least number of votes?",
+      "id": "nt-13314"
+    }
+  ],
+  "metadata": {
+    "title": "Edmonton municipal election, 1919",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11806666&oldid=547129752",
+    "tableIndex": 1,
+    "hashcode": "a8a27150c56b4648cc2c2498c785452c17bca369",
+    "id": 11806666,
+    "revision": 547129752
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "France",
+      "utterance": "which country has the most teams on the list?",
+      "id": "nt-369"
+    },
+    {
+      "targetValue": "Porsche 911 Carrera RSR",
+      "utterance": "the gelo racing team and the ecurie du nord team both used what kind of chassis?",
+      "id": "nt-409"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many teams had only two drivers?",
+      "id": "nt-4380"
+    },
+    {
+      "targetValue": "Porsche 3.0L Flat-6",
+      "utterance": "what type of engine did drivers use the most in this race?",
+      "id": "nt-6974"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what was the number of drivers on the societe roc team in this race?",
+      "id": "nt-8329"
+    },
+    {
+      "targetValue": "Ganto Racing",
+      "utterance": "which team was american but had a french driver?",
+      "id": "nt-8495"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many consecutive times did france place?",
+      "id": "nt-10842"
+    },
+    {
+      "targetValue": "Porsche 3.0L Flat-6",
+      "utterance": "tell me an engine that was used by at least 3 different teams.",
+      "id": "nt-12873"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many times did franz race with his simca 2.0l engine?",
+      "id": "nt-13315"
+    },
+    {
+      "targetValue": "Chevrolet Corvette",
+      "utterance": "what chassis was on the last team on the chart's car?",
+      "id": "nt-13398"
+    }
+  ],
+  "metadata": {
+    "title": "1975 24 Hours of Le Mans",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4690663&oldid=573006759",
+    "tableIndex": 2,
+    "hashcode": "9c95a74c67a43d2a2c1a6c5bfdf18394433543d7",
+    "id": 4690663,
+    "revision": 573006759
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Benjamin J. Spang",
+      "utterance": "which candidate had the least votes by percentage?",
+      "id": "nt-489"
+    },
+    {
+      "targetValue": "Patrick J. Boland",
+      "utterance": "which democrat had the top percentage?",
+      "id": "nt-1479"
+    },
+    {
+      "targetValue": "William H. Wilson",
+      "utterance": "who had a higher percentage of the votes, clare g. fenerty or william h. wilson?",
+      "id": "nt-2140"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "how many candidates were part of the republican party?",
+      "id": "nt-3157"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "how many of these congressmen were re-elected?",
+      "id": "nt-3362"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many democrats were re-elected?",
+      "id": "nt-6142"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what number of elections were a democratic gain?",
+      "id": "nt-7150"
+    },
+    {
+      "targetValue": "57.6%",
+      "utterance": "what was the most percentage a republican achieved?",
+      "id": "nt-8261"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what is the number of democratic gains listed?",
+      "id": "nt-10305"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many republicans were re-elected after 1920?",
+      "id": "nt-10657"
+    },
+    {
+      "targetValue": "Republican",
+      "utterance": "which party had the most candidates, republican or democratic?",
+      "id": "nt-13882"
+    }
+  ],
+  "metadata": {
+    "title": "United States House of Representatives elections, 1934",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1342331&oldid=599404174",
+    "tableIndex": 37,
+    "hashcode": "667d64637693bbb8495597b8f83ca827c9451c02",
+    "id": 1342331,
+    "revision": 599404174
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many songs are listed from 1998?",
+      "id": "nt-1734"
+    },
+    {
+      "targetValue": "1998",
+      "utterance": "what year comes after 1995?",
+      "id": "nt-2617"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of michael w smith albums that made it to the top 25 of the charts?",
+      "id": "nt-3098"
+    },
+    {
+      "targetValue": "Live the Life",
+      "utterance": "what michael w smith album was released before his christmastime album?",
+      "id": "nt-3201"
+    },
+    {
+      "targetValue": "Platinum",
+      "utterance": "riaa: gold is only one of the certifications, but what is the other?",
+      "id": "nt-4487"
+    },
+    {
+      "targetValue": "I'll Lead You Home",
+      "utterance": "which album has the least peak in the us?",
+      "id": "nt-6117"
+    },
+    {
+      "targetValue": "Go West Young Man",
+      "utterance": "what was the first michael w smith album?",
+      "id": "nt-7090"
+    },
+    {
+      "targetValue": "1990",
+      "utterance": "the oldest year listed is what?",
+      "id": "nt-9421"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many album entries are there?",
+      "id": "nt-10248"
+    },
+    {
+      "targetValue": "I'll Lead You Home",
+      "utterance": "which michael w smith album had the highest ranking on the us chart?",
+      "id": "nt-10894"
+    }
+  ],
+  "metadata": {
+    "title": "Michael W. Smith discography",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12469191&oldid=600562386",
+    "tableIndex": 1,
+    "hashcode": "0429d263e96787acd0949708e065654a4dc8974f",
+    "id": 12469191,
+    "revision": 600562386
+  }
+}

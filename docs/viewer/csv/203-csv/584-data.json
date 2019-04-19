@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "after 1879 how many races are there?",
+      "id": "nt-2378"
+    },
+    {
+      "targetValue": "Chesterfield Stakes",
+      "utterance": "what was the only race won by the jockey charles wood?",
+      "id": "nt-2522"
+    },
+    {
+      "targetValue": "1879",
+      "utterance": "in what year did bend or win his first race?",
+      "id": "nt-5426"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many times was first place won?",
+      "id": "nt-5857"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what are the number of times a race took place at the epsom downs racecourse?",
+      "id": "nt-7546"
+    },
+    {
+      "targetValue": "Champion Stakes",
+      "utterance": "which race in 1880 took the least amount of time to finish?",
+      "id": "nt-11158"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many races did bend or complete in 1881?",
+      "id": "nt-11546"
+    }
+  ],
+  "metadata": {
+    "title": "Bend Or",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9020068&oldid=599209253",
+    "tableIndex": 0,
+    "hashcode": "c2fbade92ef79f4657482c273d04de487f56a502",
+    "id": 9020068,
+    "revision": 599209253
+  }
+}

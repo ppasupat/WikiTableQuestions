@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "what is the number of channels she has appeared on?",
+      "id": "nt-1894"
+    },
+    {
+      "targetValue": "2004",
+      "utterance": "when was her debut?",
+      "id": "nt-2091"
+    },
+    {
+      "targetValue": "Kahani Comedy Circus ki",
+      "utterance": "list at least one show that she was on in 2012.",
+      "id": "nt-3263"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the number of shows on the list?",
+      "id": "nt-4137"
+    },
+    {
+      "targetValue": [
+        "Saregamapa Challenge",
+        "Rock n Roll Family"
+      ],
+      "utterance": "which two shows appeared on the zee network?",
+      "id": "nt-4997"
+    },
+    {
+      "targetValue": "Khatron Ke Khiladi season 4",
+      "utterance": "indian american entertainer mauli dave has appeared on television as a contestant in a number of programs; however, she only appeared in the slightly different capacity of a celebrity contestant one time between 2004 and 2012, during the 4th season of a popular show-- what was the name of that television show?",
+      "id": "nt-7165"
+    },
+    {
+      "targetValue": "Welcome - Baazi Mehmaan-Nawaazi ki",
+      "utterance": "what was the name of the last television show between 2004 and february, 2013 in which mauli dave played herself?",
+      "id": "nt-7741"
+    },
+    {
+      "targetValue": "Rock n Roll Family",
+      "utterance": "what was the only show she hosted?",
+      "id": "nt-8671"
+    },
+    {
+      "targetValue": "Saregamapa Challenge",
+      "utterance": "indian american entertainer mauli dave appeared on television as the host of rock n roll family during the spring of 2008; what was the name of the television show in which she appeared the previous year as a singing contestant?",
+      "id": "nt-9053"
+    },
+    {
+      "targetValue": "Khatron Ke Khiladi season 4",
+      "utterance": "what is the next show listed after ek anhonee?",
+      "id": "nt-9080"
+    },
+    {
+      "targetValue": "Welcome - Baazi Mehmaan-Nawaazi ki",
+      "utterance": "which show was the last to air?",
+      "id": "nt-11345"
+    }
+  ],
+  "metadata": {
+    "title": "Mauli Dave",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12272321&oldid=602049897",
+    "tableIndex": 1,
+    "hashcode": "aafb07575f4d888e7c7184e7941e644ea16bfd30",
+    "id": 12272321,
+    "revision": 602049897
+  }
+}

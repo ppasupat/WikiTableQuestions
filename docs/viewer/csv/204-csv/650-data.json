@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "George Burley",
+      "utterance": "name someone else from scotland inducted before alan brazil.",
+      "id": "nt-85"
+    },
+    {
+      "targetValue": "1987",
+      "utterance": "what season comes after 1986",
+      "id": "nt-3805"
+    },
+    {
+      "targetValue": "England",
+      "utterance": "which country had the most people named player of the year?",
+      "id": "nt-3879"
+    },
+    {
+      "targetValue": "Tommy Smith",
+      "utterance": "tell me the only player from new zealand on the list.",
+      "id": "nt-7423"
+    },
+    {
+      "targetValue": "Aaron Cresswell",
+      "utterance": "who was the last player from england inducted?",
+      "id": "nt-10242"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the total number of times that terry butcher was the player of the year?",
+      "id": "nt-10728"
+    },
+    {
+      "targetValue": "Tommy Smith",
+      "utterance": "who was the only player from new zealand to be player of the year?",
+      "id": "nt-11912"
+    }
+  ],
+  "metadata": {
+    "title": "Ipswich Town F.C. Player of the Year",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13926824&oldid=561647290",
+    "tableIndex": 1,
+    "hashcode": "7779f84f268aadde4180d3a91c050e27a1994700",
+    "id": 13926824,
+    "revision": 561647290
+  }
+}

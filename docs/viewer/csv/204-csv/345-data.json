@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Bernie",
+      "utterance": "which of the girls had the least amount in archery?",
+      "id": "nt-939"
+    },
+    {
+      "targetValue": "Whitewater kayak",
+      "utterance": "what is the first discipline listed on this chart?",
+      "id": "nt-2191"
+    },
+    {
+      "targetValue": "100m sprint",
+      "utterance": "what is the last discipline listed on this chart?",
+      "id": "nt-2643"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what are the number of points bernie scored in hurdles?",
+      "id": "nt-4285"
+    },
+    {
+      "targetValue": "Javine H",
+      "utterance": "who earned the most total points?",
+      "id": "nt-5931"
+    },
+    {
+      "targetValue": "Amanda",
+      "utterance": "who scored the least on whitewater kayak?",
+      "id": "nt-6055"
+    },
+    {
+      "targetValue": "Javine H",
+      "utterance": "who is the faster runner?",
+      "id": "nt-7992"
+    },
+    {
+      "targetValue": "Amanda",
+      "utterance": "name a girl that had the same score in cycling and archery.",
+      "id": "nt-8878"
+    },
+    {
+      "targetValue": "2.8",
+      "utterance": "what is the average score on 100m sprint?",
+      "id": "nt-9088"
+    },
+    {
+      "targetValue": "Javine H",
+      "utterance": "what other girl besides amanda also had a 4 in cycling?",
+      "id": "nt-14033"
+    },
+    {
+      "targetValue": "Julia",
+      "utterance": "who had her best score in cycling?",
+      "id": "nt-14038"
+    }
+  ],
+  "metadata": {
+    "title": "The Games (UK TV series)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1402013&oldid=593528847",
+    "tableIndex": 0,
+    "hashcode": "b419a323aa5f4d3379b1d2a029ac898233d589ef",
+    "id": 1402013,
+    "revision": 593528847
+  }
+}

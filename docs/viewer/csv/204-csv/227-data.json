@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "58",
+      "utterance": "how many total points did the bombers score against the bc lions?",
+      "id": "nt-16"
+    },
+    {
+      "targetValue": "29.2",
+      "utterance": "what is the average number of points scored by opponents in the five games lost this season?",
+      "id": "nt-263"
+    },
+    {
+      "targetValue": "Sept 11",
+      "utterance": "on which date did the bombers score the least points?",
+      "id": "nt-2255"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many games did the bombers win?",
+      "id": "nt-6663"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many wins are there?",
+      "id": "nt-6823"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "which games did they not score under 30 points?",
+      "id": "nt-10833"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many teams played them in october?",
+      "id": "nt-12605"
+    },
+    {
+      "targetValue": "Edmonton Eskimos",
+      "utterance": "which team is the next opponent following the first loss of the season?",
+      "id": "nt-13604"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "number of games played against teams with animal mascots",
+      "id": "nt-14081"
+    }
+  ],
+  "metadata": {
+    "title": "1982 Winnipeg Blue Bombers season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30250835&oldid=567485196",
+    "tableIndex": 2,
+    "hashcode": "0c25aa14ffb14256a3c0ceabb11151157436340b",
+    "id": 30250835,
+    "revision": 567485196
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "examples": [
+    {
+      "targetValue": "Otsuka Pharmaceuticals",
+      "utterance": "name the only team whose percentage change was positive.",
+      "id": "nt-1090"
+    },
+    {
+      "targetValue": [
+        "Honda Motor",
+        "SC Tottori",
+        "NTT West Kumamoto",
+        "Ehime FC",
+        "Tochigi SC"
+      ],
+      "utterance": "list the top 5 teams within highest total.",
+      "id": "nt-1226"
+    },
+    {
+      "targetValue": "ALO's Hokuriku",
+      "utterance": "who had the highest single game attendance of the team's averaging less than 500?",
+      "id": "nt-1432"
+    },
+    {
+      "targetValue": "Kokushikan University",
+      "utterance": "the team that is last in terms of total",
+      "id": "nt-2101"
+    },
+    {
+      "targetValue": "Kokushikan University",
+      "utterance": "who had the the lowest single game attendance?",
+      "id": "nt-3259"
+    },
+    {
+      "targetValue": "13,178",
+      "utterance": "what number represents the most fans to attend a japanese football league game in 2001?",
+      "id": "nt-5950"
+    },
+    {
+      "targetValue": "YKK FC",
+      "utterance": "which team recorded a higher average attendance in the japanese football league in 2001, jatco fc or ykk fc?",
+      "id": "nt-10672"
+    },
+    {
+      "targetValue": "Kyoken Kyoto",
+      "utterance": "the team to finish first after denso sc",
+      "id": "nt-11636"
+    },
+    {
+      "targetValue": "Yokogawa FC",
+      "utterance": "which team has their high as 1,198?",
+      "id": "nt-13351"
+    },
+    {
+      "targetValue": "Kokushikan University",
+      "utterance": "which team comes last in attendance?",
+      "id": "nt-13630"
+    }
+  ],
+  "metadata": {
+    "title": "2001 Japan Football League",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21632679&oldid=574091514",
+    "tableIndex": 3,
+    "hashcode": "421b214e3a53f266171fc2f40bd7b582fab2f239",
+    "id": 21632679,
+    "revision": 574091514
+  }
+}

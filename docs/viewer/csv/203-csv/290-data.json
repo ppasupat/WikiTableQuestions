@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "how many games did they win in 2009?",
+      "id": "nt-1257"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "in how many games did the mammoths lose by less than 2 runs?",
+      "id": "nt-3094"
+    },
+    {
+      "targetValue": "6,859",
+      "utterance": "what was the average number in attendance against portland lumberjax on january 9, 2009?",
+      "id": "nt-4772"
+    },
+    {
+      "targetValue": "17,712",
+      "utterance": "what was the top attendance for this season?",
+      "id": "nt-5666"
+    },
+    {
+      "targetValue": "April 17, 2009",
+      "utterance": "what date was the last game played on?",
+      "id": "nt-6216"
+    },
+    {
+      "targetValue": "HP Pavilion at San Jose",
+      "utterance": "which location has the least number of attendees for the month of march?",
+      "id": "nt-7492"
+    },
+    {
+      "targetValue": "Minnesota Swarm",
+      "utterance": "against what other opponent besides new york titans in 2009 did the colorado mammoth's score 13?",
+      "id": "nt-9245"
+    },
+    {
+      "targetValue": "January 10, 2009",
+      "utterance": "when was the score difference the greatest?",
+      "id": "nt-9613"
+    },
+    {
+      "targetValue": "55,603",
+      "utterance": "what was the total attendance in january 2009?",
+      "id": "nt-13032"
+    }
+  ],
+  "metadata": {
+    "title": "2009 Colorado Mammoth season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19268793&oldid=575777459",
+    "tableIndex": 2,
+    "hashcode": "51864c55781739c6bc1b5bc6d4485af8a07b4963",
+    "id": 19268793,
+    "revision": 575777459
+  }
+}

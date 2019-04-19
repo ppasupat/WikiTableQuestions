@@ -1,0 +1,61 @@
+{
+  "examples": [
+    {
+      "targetValue": "Belarus",
+      "utterance": "which country won the same amount of silver medals as the french and the russians?",
+      "id": "nt-2725"
+    },
+    {
+      "targetValue": [
+        "Russia (RUS)",
+        "Canada (CAN)",
+        "Germany (GER)"
+      ],
+      "utterance": "what were the only 3 countries to win gold medals at the the 1994 winter olympics biathlon?",
+      "id": "nt-4911"
+    },
+    {
+      "targetValue": "Canada (CAN)",
+      "utterance": "what country only received gold medals in the 1994 winter olympics biathlon?",
+      "id": "nt-5431"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many silver medals did belarus win?",
+      "id": "nt-7645"
+    },
+    {
+      "targetValue": "France",
+      "utterance": "who had a larger total medal count, france or canada?",
+      "id": "nt-7677"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "which country won more total medals than tue french, but less than the germans in the 1994 winter olympic biathlon?",
+      "id": "nt-10718"
+    },
+    {
+      "targetValue": "Ukraine",
+      "utterance": "name the country that had the same number of bronze medals as russia.",
+      "id": "nt-11275"
+    },
+    {
+      "targetValue": "Germany (GER)",
+      "utterance": "what country had the most medals total at the the 1994 winter olympics biathlon?",
+      "id": "nt-12045"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what was the total number of silver medals awarded to the french and the germans in the 1994 winter olympic biathlon?",
+      "id": "nt-12510"
+    }
+  ],
+  "metadata": {
+    "title": "Biathlon at the 1994 Winter Olympics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3022418&oldid=594384430",
+    "tableIndex": 0,
+    "hashcode": "f217f0197730c3c39046bb441be7d92ea230cced",
+    "id": 3022418,
+    "revision": 594384430
+  }
+}

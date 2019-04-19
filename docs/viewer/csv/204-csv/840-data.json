@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Mark Blutman & Howard Busgang",
+      "utterance": "who wrote the first episode of the season?",
+      "id": "nt-707"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "how many episodes are listed?",
+      "id": "nt-900"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many episodes aired in may 1997?",
+      "id": "nt-4049"
+    },
+    {
+      "targetValue": "\"Security Guy\"",
+      "utterance": "\"quiz show\" aired on march 21, 1997. what was the name of the next episode?",
+      "id": "nt-5155"
+    },
+    {
+      "targetValue": "Uncle Daddy",
+      "utterance": "which episode was written by steve young and directed by jeff mccracken?",
+      "id": "nt-5740"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "what is the number of episodes directed by jeff mccracken?",
+      "id": "nt-12050"
+    }
+  ],
+  "metadata": {
+    "title": "List of Boy Meets World episodes",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4110303&oldid=592863002",
+    "tableIndex": 4,
+    "hashcode": "f0bb90d9731829fc1a40edeed0cedaf50aaa98dc",
+    "id": 4110303,
+    "revision": 592863002
+  }
+}

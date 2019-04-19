@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many times did scribe win?",
+      "id": "nt-661"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times has scribe won the award?",
+      "id": "nt-1501"
+    },
+    {
+      "targetValue": "Che Fu",
+      "utterance": "what was the earliest winner?",
+      "id": "nt-2462"
+    },
+    {
+      "targetValue": "Frontline",
+      "utterance": "who won the award after p-money won it in 2005?",
+      "id": "nt-2968"
+    },
+    {
+      "targetValue": [
+        "Scribe",
+        "Ladi6"
+      ],
+      "utterance": "which artists won in 2008 and 2009 respectively?",
+      "id": "nt-3373"
+    },
+    {
+      "targetValue": "2002",
+      "utterance": "what year only had one other finalist?",
+      "id": "nt-4121"
+    },
+    {
+      "targetValue": "Treble & Reverb",
+      "utterance": "what is the last album to win?",
+      "id": "nt-5741"
+    },
+    {
+      "targetValue": "Aaradhna",
+      "utterance": "who was the most recent winner?",
+      "id": "nt-8209"
+    },
+    {
+      "targetValue": "2009",
+      "utterance": "tell me a year the winner was the same as in 2011.",
+      "id": "nt-11695"
+    },
+    {
+      "targetValue": "The Liberation Of...",
+      "utterance": "david dallas won in 2010. what was the name of the album that won the next year?",
+      "id": "nt-12103"
+    },
+    {
+      "targetValue": "Treble & Reverb",
+      "utterance": "what was the last winner's album name?",
+      "id": "nt-12436"
+    },
+    {
+      "targetValue": "Magic City",
+      "utterance": "what album won before borrowed time did in 2006?",
+      "id": "nt-13164"
+    }
+  ],
+  "metadata": {
+    "title": "New Zealand Music Award for Best Urban/Hip Hop Album",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41038690&oldid=583295053",
+    "tableIndex": 0,
+    "hashcode": "1b4d90d55b762dc5074ff0a085b819d1d9db600d",
+    "id": 41038690,
+    "revision": 583295053
+  }
+}

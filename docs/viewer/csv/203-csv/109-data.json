@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "1993",
+      "utterance": "what year did monaco ratify more international human rights treaties than they did in 1979?",
+      "id": "nt-231"
+    },
+    {
+      "targetValue": "Convention on the Prevention and Punishment of the Crime of Genocide",
+      "utterance": "which was the first treaty in morocco to be ratified?",
+      "id": "nt-1113"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "at most, how many international human rights treaties has monaco ratified in one year?",
+      "id": "nt-1818"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many total international human rights treaties from the united nations has monaco ratified?",
+      "id": "nt-3204"
+    },
+    {
+      "targetValue": "United Nations",
+      "utterance": "what is the only organization whose treaties morocco has signed?",
+      "id": "nt-6509"
+    },
+    {
+      "targetValue": "11 years",
+      "utterance": "how long did it take for the international covenant on civil and political rights to be signed before it was ratified?",
+      "id": "nt-7339"
+    },
+    {
+      "targetValue": "International Convention on the Elimination of All Forms of Racial Discrimination",
+      "utterance": "which was the first human rights treaty to be signed?",
+      "id": "nt-7410"
+    },
+    {
+      "targetValue": "International Convention for the Protection of All Persons from Enforced Disappearance",
+      "utterance": "what is the last treaty morocco ratified?",
+      "id": "nt-10901"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many treaties had been introduced by 1986?",
+      "id": "nt-11047"
+    },
+    {
+      "targetValue": "International Convention on the Elimination of All Forms of Racial Discrimination",
+      "utterance": "what is the earliest treaty signed by morocco?",
+      "id": "nt-12140"
+    }
+  ],
+  "metadata": {
+    "title": "Human rights in Morocco",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5175640&oldid=598694585",
+    "tableIndex": 2,
+    "hashcode": "97dc2b405403afd619746683a511c09cb782df05",
+    "id": 5175640,
+    "revision": 598694585
+  }
+}

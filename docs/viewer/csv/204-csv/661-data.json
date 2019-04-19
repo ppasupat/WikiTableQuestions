@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "2003",
+      "utterance": "what is the last year the west panthers had in qld cup?",
+      "id": "nt-2536"
+    },
+    {
+      "targetValue": "Toowoomba Clydesdales",
+      "utterance": "which team has had the most queensland cup premierships?",
+      "id": "nt-2954"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many teams have had no queensland cup premierships?",
+      "id": "nt-3710"
+    },
+    {
+      "targetValue": "Brisbane",
+      "utterance": "are more teams from brisbane or townsville?",
+      "id": "nt-4217"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many teams are from brisbane?",
+      "id": "nt-6726"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many teams were listed before the mackay sea eagles?",
+      "id": "nt-8729"
+    },
+    {
+      "targetValue": "North Queensland Young Guns",
+      "utterance": "what is the only team to have 2005 in qld cup premierships?",
+      "id": "nt-10792"
+    },
+    {
+      "targetValue": "Toowoomba Clydesdales",
+      "utterance": "which team had more qld cup, north queensland young guns or toowoomba clydesdales?",
+      "id": "nt-11407"
+    }
+  ],
+  "metadata": {
+    "title": "Queensland Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2383498&oldid=597611243",
+    "tableIndex": 3,
+    "hashcode": "a0763ea668c3edd7e9926dffe5d5d6f05c230b76",
+    "id": 2383498,
+    "revision": 597611243
+  }
+}

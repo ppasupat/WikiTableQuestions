@@ -1,0 +1,40 @@
+{
+  "examples": [
+    {
+      "targetValue": "Orange, Alexandria and Manassas Railroad",
+      "utterance": "what now defunct railroad existed for the shortest time?",
+      "id": "nt-1557"
+    },
+    {
+      "targetValue": [
+        "3",
+        "3"
+      ],
+      "utterance": "how many railroads became defunct in the 1880's, and how many became defunct in the 1980's?",
+      "id": "nt-3405"
+    },
+    {
+      "targetValue": "Alexandria and Fredericksburg Railway",
+      "utterance": "name one other railroad that was under the rf&p system other than alexandria and washington railroad.",
+      "id": "nt-3846"
+    },
+    {
+      "targetValue": "PRR",
+      "utterance": "was the pennsylvania railroad under the prr or the rf&p?",
+      "id": "nt-11346"
+    },
+    {
+      "targetValue": "Baltimore and Ohio Railroad",
+      "utterance": "what is the only now defunct railroad that existed for 156 years?",
+      "id": "nt-14075"
+    }
+  ],
+  "metadata": {
+    "title": "List of Washington, D.C., railroads",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1285697&oldid=592387520",
+    "tableIndex": 0,
+    "hashcode": "d4789aec80531a3b324edb77ac888ac09cdbf552",
+    "id": 1285697,
+    "revision": 592387520
+  }
+}

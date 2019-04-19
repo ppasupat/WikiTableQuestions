@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "5 years",
+      "utterance": "how long was her was her champoinship and olympice career?",
+      "id": "nt-1761"
+    },
+    {
+      "targetValue": "Barcelona, Spain",
+      "utterance": "where was this competitor's first competition?",
+      "id": "nt-3292"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "in how many olympic games did imma clopes compete?",
+      "id": "nt-7024"
+    },
+    {
+      "targetValue": "Heptathlon",
+      "utterance": "the european championships and the 2000 olympic games both involved this competitor in what type of competition?",
+      "id": "nt-7805"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many times did imma clopes compete?",
+      "id": "nt-7969"
+    },
+    {
+      "targetValue": "European Indoor Championships",
+      "utterance": "which was held in spain, the european championships or european indoor championships?",
+      "id": "nt-8287"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times did she participate in the heptathalon?",
+      "id": "nt-8491"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times did imma clopes compete before she came in 7th place?",
+      "id": "nt-9581"
+    },
+    {
+      "targetValue": "1996",
+      "utterance": "what year did imma clopes only place 24th?",
+      "id": "nt-11437"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many times did she finish above her result from the 1995 world indoor championships?",
+      "id": "nt-13146"
+    }
+  ],
+  "metadata": {
+    "title": "Imma Clopés",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9574174&oldid=552160354",
+    "tableIndex": 0,
+    "hashcode": "175516760169a71a4ed6fca92662e7e41b7c128a",
+    "id": 9574174,
+    "revision": 552160354
+  }
+}

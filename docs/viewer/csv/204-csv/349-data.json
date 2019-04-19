@@ -1,0 +1,76 @@
+{
+  "examples": [
+    {
+      "targetValue": "1972",
+      "utterance": "the only year with 10 conservative councillors was when?",
+      "id": "nt-1061"
+    },
+    {
+      "targetValue": "1972",
+      "utterance": "what is the last year listed on this chart?",
+      "id": "nt-1118"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "in how many years was the number of liberal councillors above three?",
+      "id": "nt-2006"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "in how many years were there no liberal councillors?",
+      "id": "nt-4223"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many years had at least 15 or more independent councillors?",
+      "id": "nt-4840"
+    },
+    {
+      "targetValue": [
+        "1951",
+        "1952",
+        "1953",
+        "1954",
+        "1955",
+        "1956",
+        "1957",
+        "1958"
+      ],
+      "utterance": "why years have no liberal councillors serving?",
+      "id": "nt-6381"
+    },
+    {
+      "targetValue": "1972",
+      "utterance": "what is the next year after 1967?",
+      "id": "nt-7120"
+    },
+    {
+      "targetValue": "1966",
+      "utterance": "were there more conservative councillors in 1965 or 1966?",
+      "id": "nt-9665"
+    },
+    {
+      "targetValue": "Conservative councillors",
+      "utterance": "what party has the least councillors served in 1961?",
+      "id": "nt-12822"
+    },
+    {
+      "targetValue": "Less",
+      "utterance": "did the year 1957 have more or less than 4 liberal councillors?",
+      "id": "nt-13945"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what was the number of labour councillors in 1964?",
+      "id": "nt-13957"
+    }
+  ],
+  "metadata": {
+    "title": "Municipal Borough of East Retford",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33053241&oldid=454624064",
+    "tableIndex": 0,
+    "hashcode": "801e220374faa481b0056c968b439054b7b3a0c5",
+    "id": 33053241,
+    "revision": 454624064
+  }
+}

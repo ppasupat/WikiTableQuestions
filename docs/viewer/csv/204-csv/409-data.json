@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "South Africa",
+      "utterance": "what team has the most winners?",
+      "id": "nt-2209"
+    },
+    {
+      "targetValue": "1.2",
+      "utterance": "what was the uci rating of the last race of the tour?",
+      "id": "nt-2453"
+    },
+    {
+      "targetValue": "GP of Sharm el-Sheikh",
+      "utterance": "what race had the same location as tour d'egypte?",
+      "id": "nt-5518"
+    },
+    {
+      "targetValue": "Dome 2 Dome Cycling Spectacular",
+      "utterance": "what is the name of the last race?",
+      "id": "nt-8448"
+    },
+    {
+      "targetValue": "Frédéric Guesdon (FRA)",
+      "utterance": "who was the winner of the first race on the tour?",
+      "id": "nt-8528"
+    },
+    {
+      "targetValue": "Tour du Cameroun",
+      "utterance": "which was the only race held in cameroon?",
+      "id": "nt-8917"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what were the number of races held in march?",
+      "id": "nt-10887"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many races are there total on the chart?",
+      "id": "nt-10984"
+    },
+    {
+      "targetValue": "La Tropicale Amissa Bongo",
+      "utterance": "which race was held in january, la tropicale amissa bongo or boucle du coton?",
+      "id": "nt-12105"
+    },
+    {
+      "targetValue": "17-23 March",
+      "utterance": "how long did the tour of libya last?",
+      "id": "nt-13095"
+    }
+  ],
+  "metadata": {
+    "title": "2006–07 UCI Africa Tour",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7608449&oldid=571894181",
+    "tableIndex": 1,
+    "hashcode": "f8c4eb888023ab404135d33fb60217fa8ed60e02",
+    "id": 7608449,
+    "revision": 571894181
+  }
+}

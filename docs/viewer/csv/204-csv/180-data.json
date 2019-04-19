@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "12",
+      "utterance": "how many games did they play total?",
+      "id": "nt-591"
+    },
+    {
+      "targetValue": "71,496",
+      "utterance": "what was the number of attendees for the september 19 game?",
+      "id": "nt-611"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many of the 1981 games were played at home?",
+      "id": "nt-922"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the point difference of the october 10th game?",
+      "id": "nt-2535"
+    },
+    {
+      "targetValue": "Michigan State",
+      "utterance": "what team did the badgers play after ohio state?",
+      "id": "nt-3713"
+    },
+    {
+      "targetValue": "78,973",
+      "utterance": "what was the top attendance of the 1981's games?",
+      "id": "nt-5485"
+    },
+    {
+      "targetValue": "Tennessee",
+      "utterance": "who was their only opponent in december?",
+      "id": "nt-6895"
+    },
+    {
+      "targetValue": "lose",
+      "utterance": "did they win or lose to iowa?",
+      "id": "nt-8333"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the largest number of consecutive wins?",
+      "id": "nt-10439"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many consecutive games were played at camp randall stadium?",
+      "id": "nt-13490"
+    }
+  ],
+  "metadata": {
+    "title": "1981 Wisconsin Badgers football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33633630&oldid=561598980",
+    "tableIndex": 0,
+    "hashcode": "cef7fe0936b24ace9eca32a9156816250fcf3da7",
+    "id": 33633630,
+    "revision": 561598980
+  }
+}

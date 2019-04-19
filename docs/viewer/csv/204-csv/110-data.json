@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "1990",
+      "utterance": "there was a fifth place tie in 1967, what was the next year to have a fifth place tie?",
+      "id": "nt-1270"
+    },
+    {
+      "targetValue": "Lexington, Kentucky",
+      "utterance": "where is gardenside ll from?",
+      "id": "nt-1657"
+    },
+    {
+      "targetValue": "Monterrey, Nuevo León",
+      "utterance": "which city was champion in 1957, monterrey or el campo?",
+      "id": "nt-1770"
+    },
+    {
+      "targetValue": "El Campo LL",
+      "utterance": "who were the champions in 1961?",
+      "id": "nt-3010"
+    },
+    {
+      "targetValue": "National LL",
+      "utterance": "which was the only champion to obtain sixth place in the llws?",
+      "id": "nt-5107"
+    },
+    {
+      "targetValue": "Del Rio, Texas",
+      "utterance": "where were the 1962 winners from?",
+      "id": "nt-6904"
+    },
+    {
+      "targetValue": "1971",
+      "utterance": "in what year did the eighth place team have no wins?",
+      "id": "nt-7092"
+    },
+    {
+      "targetValue": "Westbury American LL",
+      "utterance": "who came in first place in 1966?",
+      "id": "nt-8059"
+    },
+    {
+      "targetValue": "Industrial LL",
+      "utterance": "which 1'st place champion had a record of 2-0?",
+      "id": "nt-11298"
+    },
+    {
+      "targetValue": "1966",
+      "utterance": "what year did the champions have a 3-0 record before 1983?",
+      "id": "nt-12840"
+    }
+  ],
+  "metadata": {
+    "title": "Little League World Series (South Region)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=28634571&oldid=551572026",
+    "tableIndex": 0,
+    "hashcode": "b1ead87819649fc20a45066f41daf7010bfcf85c",
+    "id": 28634571,
+    "revision": 551572026
+  }
+}

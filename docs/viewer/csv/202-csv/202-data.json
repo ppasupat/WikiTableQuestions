@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "Gustavus Fox",
+      "utterance": "who was the first assistant secretary of the navy?",
+      "id": "nt-7231"
+    },
+    {
+      "targetValue": "October 4, 1954",
+      "utterance": "when did raymond h. fogler leave the office of assistant secretary of the navy?",
+      "id": "nt-8800"
+    }
+  ],
+  "metadata": {
+    "title": "Assistant Secretary of the Navy",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=982370&oldid=560282130",
+    "tableIndex": 0,
+    "hashcode": "18046c8fa193d7f3e79425da52e6a389224ebc31",
+    "id": 982370,
+    "revision": 560282130
+  }
+}

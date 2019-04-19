@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "33 years",
+      "utterance": "how long after fairfield was no. 1 built?",
+      "id": "nt-111"
+    },
+    {
+      "targetValue": "Waverley",
+      "utterance": "what name comes next fairfield?",
+      "id": "nt-170"
+    },
+    {
+      "targetValue": "Veteran",
+      "utterance": "was no.1 or veteran built in 1847?",
+      "id": "nt-473"
+    },
+    {
+      "targetValue": "Inside",
+      "utterance": "were there more with inside or outside cylinders?",
+      "id": "nt-542"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the total number of names on the chart?",
+      "id": "nt-2822"
+    },
+    {
+      "targetValue": "Veteran",
+      "utterance": "other than fairfield, what else was built in 1847?",
+      "id": "nt-2882"
+    },
+    {
+      "targetValue": "Fairfield",
+      "utterance": "did fairfield or waverley have inside cylinders?",
+      "id": "nt-7422"
+    },
+    {
+      "targetValue": "Gillingham",
+      "utterance": "what name is listed after spider?",
+      "id": "nt-11042"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many were built in 1847?",
+      "id": "nt-11677"
+    }
+  ],
+  "metadata": {
+    "title": "Alderney Railway",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1180129&oldid=591865553",
+    "tableIndex": 0,
+    "hashcode": "1a58a9cd1ee7cee8ed96b226fed77f740faff12a",
+    "id": 1180129,
+    "revision": 591865553
+  }
+}

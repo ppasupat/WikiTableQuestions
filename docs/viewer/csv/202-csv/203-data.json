@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "40",
+      "utterance": "how many epiodes are in series 1-3 combined?",
+      "id": "nt-8654"
+    }
+  ],
+  "metadata": {
+    "title": "Strike It Lucky",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1579181&oldid=601441960",
+    "tableIndex": 0,
+    "hashcode": "44907aba2aa3d4519ff4de3c58c53deb71738fb7",
+    "id": 1579181,
+    "revision": 601441960
+  }
+}

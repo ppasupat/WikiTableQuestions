@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "26",
+      "utterance": "give the total number of riders listed.",
+      "id": "nt-174"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many times does m appear under the tyres column?",
+      "id": "nt-405"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what are the total number of teams on the chart?",
+      "id": "nt-1846"
+    },
+    {
+      "targetValue": "Camel Yamaha Team",
+      "utterance": "what is the name of the first team on this chart?",
+      "id": "nt-3009"
+    },
+    {
+      "targetValue": "below",
+      "utterance": "is the ducati marlboro team above or below the team roberts in the team column?",
+      "id": "nt-6056"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many times were michelin tyres used?",
+      "id": "nt-6631"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "are the riders of the camel yamaha team the same as tech 3 yamaha?",
+      "id": "nt-7461"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what are the number of times yamaha is the constructor?",
+      "id": "nt-8268"
+    },
+    {
+      "targetValue": "Ilmor X3",
+      "utterance": "which motorcycle did garry mccoy use on his team?",
+      "id": "nt-9973"
+    },
+    {
+      "targetValue": "Ducati Marlboro Team",
+      "utterance": "which team was larger than the rest?",
+      "id": "nt-13005"
+    },
+    {
+      "targetValue": "Garry McCoy",
+      "utterance": "what is the name of the last rider on this chart?",
+      "id": "nt-13814"
+    }
+  ],
+  "metadata": {
+    "title": "2006 Grand Prix motorcycle racing season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5597041&oldid=602469894",
+    "tableIndex": 12,
+    "hashcode": "b36c87d086d7e004ba411b2da66a12467065aff2",
+    "id": 5597041,
+    "revision": 602469894
+  }
+}

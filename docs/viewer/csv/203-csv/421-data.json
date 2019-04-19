@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Cosimo de' Medici",
+      "utterance": "who was the first head of medici?",
+      "id": "nt-1998"
+    },
+    {
+      "targetValue": "Cardinal Ippolito de' Medici",
+      "utterance": "who was the last head of the medici?",
+      "id": "nt-3526"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many medici served after lorenzo the magnificent?",
+      "id": "nt-4351"
+    },
+    {
+      "targetValue": "Cosimo de' Medici",
+      "utterance": "who was the head of the medici for the most years?",
+      "id": "nt-6578"
+    },
+    {
+      "targetValue": "Giuliano de' Medici, Duke of Nemours",
+      "utterance": "who served as head next after cardinal giulio de' medici?",
+      "id": "nt-8474"
+    },
+    {
+      "targetValue": "Piero I de' Medici (Piero the Gouty)",
+      "utterance": "who was the head after cosimo de' medici",
+      "id": "nt-9972"
+    },
+    {
+      "targetValue": "Cardinal Ippolito de' Medici",
+      "utterance": "who was the last head of medici?",
+      "id": "nt-10980"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many people were head of the medici longer than piero i de'medici?",
+      "id": "nt-13335"
+    }
+  ],
+  "metadata": {
+    "title": "House of Medici",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=44175&oldid=602040539",
+    "tableIndex": 0,
+    "hashcode": "b7e92f4cf0139bc155713247ce277e6cfc9114b3",
+    "id": 44175,
+    "revision": 602040539
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Precious Blood",
+      "utterance": "what is the only church with the word \"blood\" in the name?",
+      "id": "nt-3197"
+    },
+    {
+      "targetValue": "St. Teresa of Avila",
+      "utterance": "what is the last church in the silverlake neighborhood listed?",
+      "id": "nt-3322"
+    },
+    {
+      "targetValue": "below",
+      "utterance": "is our lady of loretto listed above or below the holy spirit?",
+      "id": "nt-4256"
+    },
+    {
+      "targetValue": "Holy Spirit",
+      "utterance": "which church is listed below christ the king?",
+      "id": "nt-8983"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the number of churches with k-8 schools?",
+      "id": "nt-9381"
+    },
+    {
+      "targetValue": "St. Gregory Nazianzen",
+      "utterance": "what is the last church located in koreatown?",
+      "id": "nt-10038"
+    },
+    {
+      "targetValue": "Immaculate Heart of Mary",
+      "utterance": "which school offers the most grades?",
+      "id": "nt-10172"
+    },
+    {
+      "targetValue": "Blessed Sacrament",
+      "utterance": "which is the first church located in los angeles?",
+      "id": "nt-11424"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many churches have schools?",
+      "id": "nt-14064"
+    }
+  ],
+  "metadata": {
+    "title": "Our Lady of the Angels Pastoral Region",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3095288&oldid=601629576",
+    "tableIndex": 1,
+    "hashcode": "bc6af8afca8711fd90b05aed9ba8bb45a2f38d22",
+    "id": 3095288,
+    "revision": 601629576
+  }
+}

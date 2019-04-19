@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "April",
+      "utterance": "which month were the least amount of games held in?",
+      "id": "nt-71"
+    },
+    {
+      "targetValue": "Montreal Canadiens",
+      "utterance": "in the 1975 stanley cup playoffs, which team scored the most in a single series against the buffalo sabres?",
+      "id": "nt-776"
+    },
+    {
+      "targetValue": "27-May-75",
+      "utterance": "what was the date of the last playoff game?",
+      "id": "nt-1526"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "what was the total number of matches?",
+      "id": "nt-2280"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "what was the score of the buffalo sabres in the last game?",
+      "id": "nt-5088"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many games went into ot or overtime?",
+      "id": "nt-5789"
+    },
+    {
+      "targetValue": "53",
+      "utterance": "how many total points did the sabres score in this run of games?",
+      "id": "nt-5831"
+    },
+    {
+      "targetValue": "13-Apr-75",
+      "utterance": "what was the date of the first game that the black hawks lost in the playoffs?",
+      "id": "nt-6469"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "in the 1975 stanley cup playoffs, in how many games did opponents of the buffalo sabres score at most 2 goals?",
+      "id": "nt-7550"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "what were the number of games that a team had a score of at least three or more?",
+      "id": "nt-8097"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the number of home games the buffalo sabres played in the 1975 stanley cup playoffs?",
+      "id": "nt-12009"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "in the 1975 stanley cup playoffs, in how many games did the buffalo sabres score at least 4 goals?",
+      "id": "nt-13246"
+    }
+  ],
+  "metadata": {
+    "title": "1974–75 Buffalo Sabres season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14147185&oldid=551349355",
+    "tableIndex": 8,
+    "hashcode": "77da091361614ec632096c65f1fb00859673d096",
+    "id": 14147185,
+    "revision": 551349355
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Greg Crick",
+      "utterance": "who was the first place driver?",
+      "id": "nt-2112"
+    },
+    {
+      "targetValue": "D'Arcy Russell",
+      "utterance": "who was the next highest scorer after max twigg?",
+      "id": "nt-2510"
+    },
+    {
+      "targetValue": "Porsche 996 GT3",
+      "utterance": "which car was driven by the most members?",
+      "id": "nt-4870"
+    },
+    {
+      "targetValue": "Dodge Viper GTS ACR",
+      "utterance": "what type of car was driven by the person in first?",
+      "id": "nt-5742"
+    },
+    {
+      "targetValue": "Geoff Munday",
+      "utterance": "what driver came in last place?",
+      "id": "nt-10765"
+    },
+    {
+      "targetValue": "Dodge Viper GTS ACR",
+      "utterance": "what car was driven by the top ranked driver?",
+      "id": "nt-12763"
+    }
+  ],
+  "metadata": {
+    "title": "2006 Australian GT Championship season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20174865&oldid=550822074",
+    "tableIndex": 0,
+    "hashcode": "f3aa5d5c8fd8e1daac8ec0e8ace82c4bfbb3c01c",
+    "id": 20174865,
+    "revision": 550822074
+  }
+}

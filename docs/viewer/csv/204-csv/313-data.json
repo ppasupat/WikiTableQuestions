@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "what are the total number of nato naval blockades?",
+      "id": "nt-1199"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many operations occurred in bosnia?",
+      "id": "nt-3962"
+    },
+    {
+      "targetValue": "Operation Joint Forge",
+      "utterance": "which was the longest nato operation in terms of time?",
+      "id": "nt-4117"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the total number of operation?",
+      "id": "nt-10775"
+    },
+    {
+      "targetValue": "6 months",
+      "utterance": "how long did operation sky monitor last?",
+      "id": "nt-11102"
+    },
+    {
+      "targetValue": "22 November 1992",
+      "utterance": "when is the next date after the first one on the top?",
+      "id": "nt-12034"
+    },
+    {
+      "targetValue": "Operation Deny Flight",
+      "utterance": "which operation occurred right after operation maritime guard?",
+      "id": "nt-13357"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many months did operation maritime monitor last?",
+      "id": "nt-13920"
+    }
+  ],
+  "metadata": {
+    "title": "NATO Operations",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=31917517&oldid=601324215",
+    "tableIndex": 0,
+    "hashcode": "747882644a23e29d4db8fc4430bd08522e6eae0d",
+    "id": 31917517,
+    "revision": 601324215
+  }
+}

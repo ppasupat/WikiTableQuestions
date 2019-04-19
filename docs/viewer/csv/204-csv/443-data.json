@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "how many games were attended by at least 60,000 people?",
+      "id": "nt-249"
+    },
+    {
+      "targetValue": [
+        "The Meadowlands",
+        "Georgia Dome",
+        "RCA Dome",
+        "Kingdome",
+        "Foxboro Stadium",
+        "Astrodome",
+        "The Meadowlands"
+      ],
+      "utterance": "which game sites had an attendance lower than 50,000",
+      "id": "nt-1410"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many games were played at the meadowlands?",
+      "id": "nt-3138"
+    },
+    {
+      "targetValue": "108079",
+      "utterance": "total number of attendees at the two games against the new england patriots during the season",
+      "id": "nt-3176"
+    },
+    {
+      "targetValue": "42432",
+      "utterance": "what is the difference in attendance between the first and last game of the season?",
+      "id": "nt-3917"
+    },
+    {
+      "targetValue": "Rich Stadium",
+      "utterance": "name the game site with the highest number of attendance.",
+      "id": "nt-4743"
+    },
+    {
+      "targetValue": "The Meadowlands",
+      "utterance": "which game site had the lowest number of attendance?",
+      "id": "nt-6158"
+    },
+    {
+      "targetValue": "39",
+      "utterance": "number of points the jets scored against atlanta and buffalo in the season",
+      "id": "nt-6912"
+    },
+    {
+      "targetValue": "September 10, 1995",
+      "utterance": "what is the date for the first game played in the meadowlands?",
+      "id": "nt-8015"
+    },
+    {
+      "targetValue": "Oakland Raiders",
+      "utterance": "team that scored more than 40 points against the jets that is not the miami dolphins",
+      "id": "nt-11812"
+    }
+  ],
+  "metadata": {
+    "title": "1995 New York Jets season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10790091&oldid=583808664",
+    "tableIndex": 0,
+    "hashcode": "684c4a39a458e130d5abe4683e5a09713b7e7fbd",
+    "id": 10790091,
+    "revision": 583808664
+  }
+}

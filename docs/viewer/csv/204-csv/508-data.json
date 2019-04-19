@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "FS1",
+      "utterance": "which sports network has aired the most races in this season?",
+      "id": "nt-791"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what are the number of times a race was held in august?",
+      "id": "nt-1147"
+    },
+    {
+      "targetValue": "Kroger 250",
+      "utterance": "which race occurred before the sfp 250?",
+      "id": "nt-2257"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what are the total number of races that took place in fort worth?",
+      "id": "nt-5596"
+    },
+    {
+      "targetValue": "Homestead-Miami Speedway, Homestead",
+      "utterance": "what will be the last track used during this season?",
+      "id": "nt-6643"
+    },
+    {
+      "targetValue": "NextEra Energy Resources 250",
+      "utterance": "what was the name of the first race title?",
+      "id": "nt-9402"
+    },
+    {
+      "targetValue": "Kroger 250",
+      "utterance": "which race is the only one to be postponed a day because of rain?",
+      "id": "nt-9559"
+    },
+    {
+      "targetValue": "NextEra Energy Resources 250",
+      "utterance": "what was the name of the first race?",
+      "id": "nt-9614"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what was the number of races aired only by fox?",
+      "id": "nt-11871"
+    },
+    {
+      "targetValue": "Kroger 250",
+      "utterance": "which race was not run on it's scheduled day?",
+      "id": "nt-12410"
+    },
+    {
+      "targetValue": "Fred's 250",
+      "utterance": "which race was shown on a top tv network?",
+      "id": "nt-12606"
+    },
+    {
+      "targetValue": "North Carolina Education Lottery 200",
+      "utterance": "what is the next race listed after the sfp 250?",
+      "id": "nt-12861"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "how many races were there on the chart?",
+      "id": "nt-14146"
+    }
+  ],
+  "metadata": {
+    "title": "2014 NASCAR Camping World Truck Series",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=40905781&oldid=602400781",
+    "tableIndex": 2,
+    "hashcode": "66a8afc2c3ed4782985ea2f82acb4238033f9df8",
+    "id": 40905781,
+    "revision": 602400781
+  }
+}

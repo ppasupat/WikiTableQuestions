@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Masten Gregory",
+      "utterance": "name the only american who did not finish the race.",
+      "id": "nt-1642"
+    },
+    {
+      "targetValue": "GT 1.6",
+      "utterance": "what class is below s 1.6?",
+      "id": "nt-3110"
+    },
+    {
+      "targetValue": "Porsche 911S",
+      "utterance": "which chassis is in the middle of simca 1300 and alfa romeo gta?",
+      "id": "nt-6093"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many teams failed to finish the race after 2 laps?",
+      "id": "nt-7287"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many laps does v10 kleber have?",
+      "id": "nt-8801"
+    },
+    {
+      "targetValue": "48",
+      "utterance": "how many drivers are from italy?",
+      "id": "nt-12563"
+    },
+    {
+      "targetValue": "Checco D'Angelo",
+      "utterance": "his nickname is \"jimmy,\" but what is his full name?",
+      "id": "nt-13688"
+    }
+  ],
+  "metadata": {
+    "title": "1970 Targa Florio",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36740106&oldid=595359109",
+    "tableIndex": 1,
+    "hashcode": "115c8f9fd18fc45d61df7512041f557c225a4d98",
+    "id": 36740106,
+    "revision": 595359109
+  }
+}

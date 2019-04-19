@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Biu Chun Rangers",
+      "utterance": "which team did lau nim yat play for after he was transferred?",
+      "id": "nt-348"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what is the total number of players listed?",
+      "id": "nt-5549"
+    },
+    {
+      "targetValue": "Lau Nim Yat",
+      "utterance": "who is the first player listed?",
+      "id": "nt-5592"
+    },
+    {
+      "targetValue": "MF",
+      "utterance": "li haiqiang and xu deshuai both played which position?",
+      "id": "nt-8127"
+    },
+    {
+      "targetValue": "26",
+      "utterance": "what squad # is listed previous to squad # 7?",
+      "id": "nt-9310"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many total players were transferred to sun pegasus?",
+      "id": "nt-9712"
+    },
+    {
+      "targetValue": "Biu Chun Rangers",
+      "utterance": "lau nim yat and giovane alves de silva where both transferred to which team?",
+      "id": "nt-10827"
+    },
+    {
+      "targetValue": "DF",
+      "utterance": "what position is next to squad # 3?",
+      "id": "nt-12765"
+    },
+    {
+      "targetValue": "9 January 2013",
+      "utterance": "wong chin hung was transferred to his new team on what date?",
+      "id": "nt-12856"
+    },
+    {
+      "targetValue": "Wong Chin Hung",
+      "utterance": "player transferred immediately before mauro rafael da silva",
+      "id": "nt-13609"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many consecutive players were released on july 9?",
+      "id": "nt-13973"
+    }
+  ],
+  "metadata": {
+    "title": "2012–13 South China AA season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36195486&oldid=592148253",
+    "tableIndex": 1,
+    "hashcode": "e29645e7e4088673d8f387683909e38f28cedb3b",
+    "id": 36195486,
+    "revision": 592148253
+  }
+}

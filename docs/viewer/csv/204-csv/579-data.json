@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "UT",
+      "utterance": "what is the last code listed?",
+      "id": "nt-1338"
+    },
+    {
+      "targetValue": "Almora",
+      "utterance": "which headquarter has the same district name but has a density of 202?",
+      "id": "nt-2141"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many total districts are there in this area?",
+      "id": "nt-2863"
+    },
+    {
+      "targetValue": "Chamoli",
+      "utterance": "tell me a district that only has a density of 51.",
+      "id": "nt-7351"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what is the total amount of districts listed?",
+      "id": "nt-8440"
+    },
+    {
+      "targetValue": "Almora",
+      "utterance": "if a person was headquartered in almora what would be his/her district?",
+      "id": "nt-10060"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "tell me the number of districts with an area over 5000.",
+      "id": "nt-10198"
+    },
+    {
+      "targetValue": "BA",
+      "utterance": "which code is above cl",
+      "id": "nt-11725"
+    },
+    {
+      "targetValue": "Dehradun",
+      "utterance": "which has a larger population, dehradun or nainital?",
+      "id": "nt-12026"
+    },
+    {
+      "targetValue": "Dehradun",
+      "utterance": "what is the next most populous district after haridwar?",
+      "id": "nt-12817"
+    }
+  ],
+  "metadata": {
+    "title": "List of districts of Uttarakhand",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3448801&oldid=576814954",
+    "tableIndex": 0,
+    "hashcode": "0ad9c5dc2576907c8eb536556272ef4f179685ec",
+    "id": 3448801,
+    "revision": 576814954
+  }
+}

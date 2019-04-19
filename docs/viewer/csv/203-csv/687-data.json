@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "\"Hot Thing\"",
+      "utterance": "which track has the same producer as the track \"say something\"?",
+      "id": "nt-316"
+    },
+    {
+      "targetValue": "\"Stay Around\"",
+      "utterance": "what song was previous to hot thing?",
+      "id": "nt-420"
+    },
+    {
+      "targetValue": "\"Hostile Gospel (Part 1) (Deliver Us)\"",
+      "utterance": "what is the first track performed solo by the artist?",
+      "id": "nt-1604"
+    },
+    {
+      "targetValue": "\"Country Cousins\"",
+      "utterance": "what track comes after \"say something\"?",
+      "id": "nt-5952"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many songs were produced by will.i.am?",
+      "id": "nt-7432"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what number of titles have talib kweli greene as a sole songwriter?",
+      "id": "nt-8273"
+    },
+    {
+      "targetValue": "\"NY Weather Report\"",
+      "utterance": "which track is longer? \"ny weather report\" or \"country cousins\"?",
+      "id": "nt-11482"
+    },
+    {
+      "targetValue": "Hostile Gospel (Part 1) (Deliver Us)",
+      "utterance": "what title had the longest run time?",
+      "id": "nt-13598"
+    }
+  ],
+  "metadata": {
+    "title": "Eardrum (album)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5236449&oldid=593650678",
+    "tableIndex": 1,
+    "hashcode": "60d42c7208c788228acf6bc7ad72c95dd14075a7",
+    "id": 5236449,
+    "revision": 593650678
+  }
+}

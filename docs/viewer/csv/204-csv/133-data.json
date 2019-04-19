@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "1999-2000",
+      "utterance": "what was the only year keene won class aa?",
+      "id": "nt-13"
+    },
+    {
+      "targetValue": "Graford",
+      "utterance": "which school won class a in the season previous to 1999-2000?",
+      "id": "nt-1855"
+    },
+    {
+      "targetValue": "Friendswood",
+      "utterance": "who is the top (most wins overall) winning school in class aaaa?",
+      "id": "nt-3300"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many times did friendswood win the class aaaa category?",
+      "id": "nt-9083"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times has garden city won in class a?",
+      "id": "nt-10281"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "are there more or less than 8 columns in the table?",
+      "id": "nt-12859"
+    }
+  ],
+  "metadata": {
+    "title": "Computer Applications (UIL)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14747043&oldid=537460900",
+    "tableIndex": 0,
+    "hashcode": "94a3b401c2558a66a1eb902fe1bbbc8a1094ebd1",
+    "id": 14747043,
+    "revision": 537460900
+  }
+}

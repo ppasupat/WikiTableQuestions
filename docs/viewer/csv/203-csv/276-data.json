@@ -1,0 +1,58 @@
+{
+  "examples": [
+    {
+      "targetValue": "Kissing The Future of Love",
+      "utterance": "which was the only album to be released by b'in music in an even-numbered year?",
+      "id": "nt-919"
+    },
+    {
+      "targetValue": "j'Adore",
+      "utterance": "which album was released later, beautiful, or j'adore?",
+      "id": "nt-4220"
+    },
+    {
+      "targetValue": "Grown Up Overnight",
+      "utterance": "which song is listed first in the table?",
+      "id": "nt-7701"
+    },
+    {
+      "targetValue": "B'in Music",
+      "utterance": "what label was she working with before universal music?",
+      "id": "nt-9566"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "was the album beautiful released before the album love in heart?",
+      "id": "nt-10535"
+    },
+    {
+      "targetValue": "Silk Road of Love",
+      "utterance": "what is the name of her last album produced with rock records?",
+      "id": "nt-10891"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the number of songs on rock records?",
+      "id": "nt-12132"
+    },
+    {
+      "targetValue": [
+        "Kissing The Future of Love",
+        "j'Adore",
+        "Fall in Love & Songs",
+        "What Love Songs Didn't Tell You",
+        "Love in Heart"
+      ],
+      "utterance": "what songs were on b'in music or universal music?",
+      "id": "nt-14097"
+    }
+  ],
+  "metadata": {
+    "title": "Fish Leong",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1893815&oldid=593700266",
+    "tableIndex": 0,
+    "hashcode": "4e57724cf23c50fc8e38f2c83641e1f81d764468",
+    "id": 1893815,
+    "revision": 593700266
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "Sachsenhausen",
+      "utterance": "which location has the most km?",
+      "id": "nt-1153"
+    },
+    {
+      "targetValue": "Bischofsheim",
+      "utterance": "which location has the least km?",
+      "id": "nt-2988"
+    },
+    {
+      "targetValue": "Kelsterbach",
+      "utterance": "which location has more total km, kelsterbach or stadion?",
+      "id": "nt-7078"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many buildings are from the year 1863?",
+      "id": "nt-8695"
+    },
+    {
+      "targetValue": "12.80",
+      "utterance": "what km comes after 8.25, but before",
+      "id": "nt-9122"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the total number of buildings that are monuments?",
+      "id": "nt-11197"
+    },
+    {
+      "targetValue": "1876",
+      "utterance": "what is the average of years",
+      "id": "nt-11613"
+    },
+    {
+      "targetValue": [
+        "Kelsterbach",
+        "Sachsenhausen"
+      ],
+      "utterance": "what other two locations have a rail bridge?",
+      "id": "nt-13926"
+    }
+  ],
+  "metadata": {
+    "title": "Main Railway",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11924490&oldid=568035475",
+    "tableIndex": 0,
+    "hashcode": "bcec79794258512c46afb575aa71b6ae6131c64d",
+    "id": 11924490,
+    "revision": 568035475
+  }
+}

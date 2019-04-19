@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many albums are performed by martin carthy or ewan maccoll?",
+      "id": "nt-2442"
+    },
+    {
+      "targetValue": "5 years",
+      "utterance": "how long was it between the release of the furrowed field and songs?",
+      "id": "nt-3503"
+    },
+    {
+      "targetValue": "MacColl",
+      "utterance": "who appeared on more albums, maccoll or kornog?",
+      "id": "nt-7935"
+    },
+    {
+      "targetValue": "Martin Carthy",
+      "utterance": "who was the performer on the last album released?",
+      "id": "nt-8315"
+    },
+    {
+      "targetValue": "The English and Scottish Popular Ballads vol 3",
+      "utterance": "what was the album released before blood and roses vol 2?",
+      "id": "nt-9210"
+    },
+    {
+      "targetValue": "Kornog",
+      "utterance": "which album has the same name as its performer?",
+      "id": "nt-13721"
+    }
+  ],
+  "metadata": {
+    "title": "Child Maurice",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6422062&oldid=486248072",
+    "tableIndex": 0,
+    "hashcode": "f999c9ede981523766cb563a9c3c263a27f47c35",
+    "id": 6422062,
+    "revision": 486248072
+  }
+}

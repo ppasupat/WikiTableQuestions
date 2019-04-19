@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "1987",
+      "utterance": "what was whitney's best year for her album whitney in which she won the most rewards?",
+      "id": "nt-55"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the total number of multi-platinum songs?",
+      "id": "nt-1419"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the number of sons to go gold?",
+      "id": "nt-1801"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many awards did whitney win that were above gold for her album whitney?",
+      "id": "nt-2181"
+    },
+    {
+      "targetValue": "Whitney",
+      "utterance": "this title won the most awards",
+      "id": "nt-5139"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many awards did whitney houston win for singles on her album whitney?",
+      "id": "nt-6935"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of singles that went gold?",
+      "id": "nt-7499"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "prior to 1993 how many releases were in album format?",
+      "id": "nt-9561"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the number of awards she won total for the album whitney?",
+      "id": "nt-9950"
+    },
+    {
+      "targetValue": "Gold",
+      "utterance": "last award won",
+      "id": "nt-12047"
+    },
+    {
+      "targetValue": "\"So Emotional\"",
+      "utterance": "what was the last single to win an riaa award?",
+      "id": "nt-13494"
+    }
+  ],
+  "metadata": {
+    "title": "Whitney (album)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1220392&oldid=601050773",
+    "tableIndex": 17,
+    "hashcode": "a59eeb1d4df45eafc11f8cb07b6c9c75b12b0c4b",
+    "id": 1220392,
+    "revision": 601050773
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "46",
+      "utterance": "what is the number of singles released in the 1940s?",
+      "id": "nt-6920"
+    },
+    {
+      "targetValue": "The End of the Rainbow",
+      "utterance": "which single was released sooner, \"the end of the rainbow\" or \"mack the black\"?",
+      "id": "nt-10578"
+    },
+    {
+      "targetValue": "Swing Mr. Charlie / Stomping at the Savoy (w. Bob Crosby's Orchestra)",
+      "utterance": "what was the first single to be released?",
+      "id": "nt-11893"
+    },
+    {
+      "targetValue": "Decca 1332",
+      "utterance": "what is the decca catalog number of the singe \"everybody sing\"?",
+      "id": "nt-13576"
+    }
+  ],
+  "metadata": {
+    "title": "Judy Garland discography",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14796133&oldid=601608849",
+    "tableIndex": 0,
+    "hashcode": "29f702a41a5d765d360c65a61617a2d6b066ec7b",
+    "id": 14796133,
+    "revision": 601608849
+  }
+}

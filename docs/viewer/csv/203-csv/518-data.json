@@ -1,0 +1,30 @@
+{
+  "examples": [
+    {
+      "targetValue": "8,754",
+      "utterance": "how many are enrolled in private/catholic?",
+      "id": "nt-1827"
+    },
+    {
+      "targetValue": "2,830",
+      "utterance": "what is the enrollment number of misericordia university?",
+      "id": "nt-2295"
+    },
+    {
+      "targetValue": [
+        "Eastern University",
+        "Wilkes University"
+      ],
+      "utterance": "name each institution with enrollment numbers above 4,000?",
+      "id": "nt-13177"
+    }
+  ],
+  "metadata": {
+    "title": "Middle Atlantic Conferences",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=261906&oldid=598801343",
+    "tableIndex": 1,
+    "hashcode": "475a574e23fec4dd89eb696264f17a5357d7afac",
+    "id": 261906,
+    "revision": 598801343
+  }
+}

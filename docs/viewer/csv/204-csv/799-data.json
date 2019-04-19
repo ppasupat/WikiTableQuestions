@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Pearl River Bridge on Mississippi Highway 28",
+      "utterance": "what was the last bridge built?",
+      "id": "nt-819"
+    },
+    {
+      "targetValue": "Fairground Street Bridge",
+      "utterance": "which of these bridges was the first one built?",
+      "id": "nt-1071"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many total bridges are in copiah county?",
+      "id": "nt-8546"
+    },
+    {
+      "targetValue": "Bayou Pierre Bridge",
+      "utterance": "homochitto river bridge is in the same county as what other bridge built in 1920?",
+      "id": "nt-9358"
+    },
+    {
+      "targetValue": "Warren",
+      "utterance": "fairground street bridge and confederate avenue brick arch bridge were both built in which county?",
+      "id": "nt-11604"
+    },
+    {
+      "targetValue": "Big Black River Railroad Bridge",
+      "utterance": "what is the next name after bayou pierre bridge?",
+      "id": "nt-12818"
+    }
+  ],
+  "metadata": {
+    "title": "List of bridges on the National Register of Historic Places in Mississippi",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17277228&oldid=592390218",
+    "tableIndex": 0,
+    "hashcode": "6804955dd5ec131944cdcc400b742c2c02699f6d",
+    "id": 17277228,
+    "revision": 592390218
+  }
+}

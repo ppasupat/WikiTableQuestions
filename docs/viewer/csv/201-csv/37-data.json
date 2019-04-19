@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "October",
+      "utterance": "between january, october and december which month had the most rainfall?",
+      "id": "nt-4287"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many months had a record high of over 15.0 degrees?",
+      "id": "nt-4607"
+    },
+    {
+      "targetValue": "September",
+      "utterance": "which month had an average high of 21.8 degrees and a record low of -1.1?",
+      "id": "nt-13544"
+    }
+  ],
+  "metadata": {
+    "title": "Burlington, Ontario",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=178876&oldid=602141685",
+    "tableIndex": 0,
+    "hashcode": "dbb6a95196e4d499025860a2a419128b730163f1",
+    "id": 178876,
+    "revision": 602141685
+  }
+}

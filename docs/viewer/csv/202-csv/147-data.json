@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many kants have coordinates over 10.0 degrees south and over 18.0 degrees east?",
+      "id": "nt-11131"
+    }
+  ],
+  "metadata": {
+    "title": "Kant (crater)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1490282&oldid=543946757",
+    "tableIndex": 0,
+    "hashcode": "b26f65d8adaabd14e4c6ce1e7d06e24c30b2a1a2",
+    "id": 1490282,
+    "revision": 543946757
+  }
+}

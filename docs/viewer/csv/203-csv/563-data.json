@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "David Davie Shelby",
+      "utterance": "who was the only judge appointed by mckinley?",
+      "id": "nt-87"
+    },
+    {
+      "targetValue": "Nathan P. Bryan",
+      "utterance": "who was the first judge from florida to serve the position?",
+      "id": "nt-3271"
+    },
+    {
+      "targetValue": "Richard Rives",
+      "utterance": "which judge was last appointed by president truman?",
+      "id": "nt-3321"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many judges served as chief total?",
+      "id": "nt-9721"
+    },
+    {
+      "targetValue": "Alexander Campbell King",
+      "utterance": "who was the first judge appointed from georgia?",
+      "id": "nt-10632"
+    },
+    {
+      "targetValue": "TX",
+      "utterance": "name a state listed at least 4 times.",
+      "id": "nt-10814"
+    },
+    {
+      "targetValue": "Griffin Bell",
+      "utterance": "who was the next judge to resign after alexander campbell king?",
+      "id": "nt-12675"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many judges were appointed by president carter?",
+      "id": "nt-13034"
+    },
+    {
+      "targetValue": "TX",
+      "utterance": "which state has the largest amount of judges to serve?",
+      "id": "nt-13176"
+    }
+  ],
+  "metadata": {
+    "title": "United States Court of Appeals for the Fifth Circuit",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=428326&oldid=588468270",
+    "tableIndex": 3,
+    "hashcode": "255ba2eaae2e3a8102f3ed0022e2c529e9f6cf43",
+    "id": 428326,
+    "revision": 588468270
+  }
+}

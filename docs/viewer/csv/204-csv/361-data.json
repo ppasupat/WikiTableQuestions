@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Varbergs GIF",
+      "utterance": "who is the first away team on the chart",
+      "id": "nt-6"
+    },
+    {
+      "targetValue": "Gnösjö IF",
+      "utterance": "what comes after fiskeby if",
+      "id": "nt-2817"
+    },
+    {
+      "targetValue": "Tidaholms GIF",
+      "utterance": "name a team that scored more than 8 points.",
+      "id": "nt-3829"
+    },
+    {
+      "targetValue": "25",
+      "utterance": "how many teams scored no points against their opponents?",
+      "id": "nt-10553"
+    },
+    {
+      "targetValue": "Skillingaryds IS",
+      "utterance": "name a team that scored at most 3 points in a losing effort.",
+      "id": "nt-11044"
+    },
+    {
+      "targetValue": "24",
+      "utterance": "how many teams scored zero points in a game?",
+      "id": "nt-14028"
+    }
+  ],
+  "metadata": {
+    "title": "1997–98 Svenska Cupen",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33789528&oldid=596438221",
+    "tableIndex": 1,
+    "hashcode": "1f81e0416900f77c83d57ac8ba74665ef8028f3f",
+    "id": 33789528,
+    "revision": 596438221
+  }
+}

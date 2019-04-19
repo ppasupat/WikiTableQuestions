@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "how many times did the competitor finish first in the javelin throw?",
+      "id": "nt-2413"
+    },
+    {
+      "targetValue": "Jamaica",
+      "utterance": "what nation did the competitor represent?",
+      "id": "nt-2525"
+    },
+    {
+      "targetValue": "58.27 m",
+      "utterance": "how long did this person throw the javelin in the commonwealth games?",
+      "id": "nt-2597"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many years are listed in this competition record chart?",
+      "id": "nt-4744"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the total number of times mckoy placed in the top 3?",
+      "id": "nt-6785"
+    },
+    {
+      "targetValue": "Nassau, Bahamas",
+      "utterance": "where did mckoy compete before finland?",
+      "id": "nt-7566"
+    },
+    {
+      "targetValue": "1992",
+      "utterance": "what year was the first competition?",
+      "id": "nt-8899"
+    },
+    {
+      "targetValue": [
+        "Sydney, Australia",
+        "Beijing, China"
+      ],
+      "utterance": "in what cities did the competitor participate in the olympics?",
+      "id": "nt-10241"
+    },
+    {
+      "targetValue": "Central American and Caribbean Championships",
+      "utterance": "at which competition did the competitor throw the javelin the farthest?",
+      "id": "nt-10407"
+    },
+    {
+      "targetValue": "24.73",
+      "utterance": "what is the difference between mckoy's longest and shortest javelin throws?",
+      "id": "nt-12276"
+    },
+    {
+      "targetValue": "Guadalajara, Mexico",
+      "utterance": "where was the location of the last venue held?",
+      "id": "nt-12536"
+    }
+  ],
+  "metadata": {
+    "title": "Olivia McKoy",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19007526&oldid=574837116",
+    "tableIndex": 0,
+    "hashcode": "a84e72964839fde83f76e5f569dc26a2bd17c718",
+    "id": 19007526,
+    "revision": 574837116
+  }
+}

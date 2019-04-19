@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Jeff Gordon",
+      "utterance": "which driver scored the most points?",
+      "id": "nt-2037"
+    },
+    {
+      "targetValue": "Jeff Gordon",
+      "utterance": "who had the most points?",
+      "id": "nt-3208"
+    },
+    {
+      "targetValue": "33",
+      "utterance": "how many drivers did not have a top ten position?",
+      "id": "nt-4555"
+    },
+    {
+      "targetValue": "Billy Standridge",
+      "utterance": "who was in the last position?",
+      "id": "nt-6013"
+    },
+    {
+      "targetValue": "Jeff Gordon",
+      "utterance": "who is the first driver listed?",
+      "id": "nt-6668"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many drivers scored above 150 points?",
+      "id": "nt-7109"
+    },
+    {
+      "targetValue": "Ernie Irvan",
+      "utterance": "which driver did 160 laps and had 142 points?",
+      "id": "nt-7426"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many drivers got less than 80 points?",
+      "id": "nt-8553"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many drivers had no points?",
+      "id": "nt-9151"
+    },
+    {
+      "targetValue": "Jimmy Spencer",
+      "utterance": "who was the driver for the t-bird that finished first?",
+      "id": "nt-11104"
+    },
+    {
+      "targetValue": "false",
+      "utterance": "true of false. no drivers completed 160 laps?",
+      "id": "nt-11924"
+    },
+    {
+      "targetValue": "Jeff Burton",
+      "utterance": "which driver placed highest for roush racing?",
+      "id": "nt-13709"
+    }
+  ],
+  "metadata": {
+    "title": "1998 Pepsi 400",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36053275&oldid=597500934",
+    "tableIndex": 1,
+    "hashcode": "d1fb05304785f00cecd5cb3a3732590061aac37a",
+    "id": 36053275,
+    "revision": 597500934
+  }
+}

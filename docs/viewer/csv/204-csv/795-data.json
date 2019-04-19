@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Loss",
+      "utterance": "was the last game a win or a loss?",
+      "id": "nt-2095"
+    },
+    {
+      "targetValue": "first",
+      "utterance": "which game did illinois score more points, the first or last?",
+      "id": "nt-4582"
+    },
+    {
+      "targetValue": "Butler",
+      "utterance": "were more points scored against butler or purdue?",
+      "id": "nt-4689"
+    },
+    {
+      "targetValue": "December 11, 1948",
+      "utterance": "which game had a larger attendance, january 8 or december 11?",
+      "id": "nt-5056"
+    },
+    {
+      "targetValue": "Purdue",
+      "utterance": "which team did this team face against next after beating minnesota on january 29 of this season?",
+      "id": "nt-5519"
+    },
+    {
+      "targetValue": "Michigan",
+      "utterance": "what was the last team this team played against in this season?",
+      "id": "nt-5590"
+    },
+    {
+      "targetValue": "13,309",
+      "utterance": "what was the difference in attendance between the december 11 game against depaul and the december 30 game against colgate?",
+      "id": "nt-5601"
+    },
+    {
+      "targetValue": "January 15, 1949",
+      "utterance": "tell me a game the attendance was the same as january 10.",
+      "id": "nt-7733"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many consecutive wins did the team have in 1948?",
+      "id": "nt-8872"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many total wins did the team have in 1949?",
+      "id": "nt-12291"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many total wins did the team have in 1948",
+      "id": "nt-12373"
+    }
+  ],
+  "metadata": {
+    "title": "1948–49 Illinois Fighting Illini men's basketball team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=22824314&oldid=602428473",
+    "tableIndex": 1,
+    "hashcode": "be88f9531983654dc73611ce78ea15bf6d3ad0f4",
+    "id": 22824314,
+    "revision": 602428473
+  }
+}

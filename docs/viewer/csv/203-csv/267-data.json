@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "Pavithra",
+      "utterance": "who is the singer of the only song over 5 minutes in length?",
+      "id": "nt-1496"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many songs end before 2 minutes?",
+      "id": "nt-2564"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of songs sung by two singers?",
+      "id": "nt-6011"
+    },
+    {
+      "targetValue": "Salsa - Theme Music",
+      "utterance": "other than the first track, what track was less than 2 minutes in length?",
+      "id": "nt-6532"
+    },
+    {
+      "targetValue": "Vidinjakka Kannalam",
+      "utterance": "the song to run 04:20",
+      "id": "nt-12164"
+    }
+  ],
+  "metadata": {
+    "title": "Kadhal Samrajyam",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20845844&oldid=593997457",
+    "tableIndex": 0,
+    "hashcode": "ca93936c25b569e3ae25ccc3224e2bd5c3cb2c9a",
+    "id": 20845844,
+    "revision": 593997457
+  }
+}

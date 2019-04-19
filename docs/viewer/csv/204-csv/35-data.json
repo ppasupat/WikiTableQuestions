@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "18th",
+      "utterance": "the team placed 1st in 1992/93. how did they place the previous year?",
+      "id": "nt-218"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many times did sd ponferradina b compete in division 3a?",
+      "id": "nt-782"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of times that they placed 1st?",
+      "id": "nt-1712"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "in how many total years did the team finish in the preferente division?",
+      "id": "nt-3048"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times has the team been in the preferente division since 1990?",
+      "id": "nt-3082"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the longest streak of consecutive finishes below 10th place?",
+      "id": "nt-7533"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many years did they place 15th or lower?",
+      "id": "nt-7539"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many seasons did sd ponferradina b come in first place total?",
+      "id": "nt-8456"
+    },
+    {
+      "targetValue": "1993/94",
+      "utterance": "did they place better in 1987/88 or 1993/94?",
+      "id": "nt-10722"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times did sd ponferradina b come in better than 5th place?",
+      "id": "nt-11999"
+    },
+    {
+      "targetValue": "1996/97",
+      "utterance": "which season was more successful, 1995/96 or 1996/97?",
+      "id": "nt-13409"
+    }
+  ],
+  "metadata": {
+    "title": "SD Ponferradina B",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=23130752&oldid=596203281",
+    "tableIndex": 0,
+    "hashcode": "9dd0f1b62dc281a2775142e88ba937f38d8ba1e3",
+    "id": 23130752,
+    "revision": 596203281
+  }
+}

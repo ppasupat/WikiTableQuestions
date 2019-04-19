@@ -1,0 +1,53 @@
+{
+  "examples": [
+    {
+      "targetValue": "Horton Smith",
+      "utterance": "who was the last player in the top 10?",
+      "id": "nt-1413"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many players represented scotland?",
+      "id": "nt-7985"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "gene sarazen and denny shute are both from which country?",
+      "id": "nt-7995"
+    },
+    {
+      "targetValue": "below",
+      "utterance": "did tommy armour place above or below denny shute?",
+      "id": "nt-9405"
+    },
+    {
+      "targetValue": [
+        "Bobby Jones (a)",
+        "Al Espinosa"
+      ],
+      "utterance": "which two players tied for first place?",
+      "id": "nt-10701"
+    },
+    {
+      "targetValue": [
+        "Gene Sarazen",
+        "Denny Shute"
+      ],
+      "utterance": "who finished next after bobby jones and al espinosa?",
+      "id": "nt-12747"
+    },
+    {
+      "targetValue": "294",
+      "utterance": "what was al espinosa's total stroke count at the final of the 1929 us open?",
+      "id": "nt-13916"
+    }
+  ],
+  "metadata": {
+    "title": "1929 U.S. Open (golf)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18007110&oldid=585793003",
+    "tableIndex": 0,
+    "hashcode": "efc68e3155d98cc58f8dc9a0345a15bbdd873cf1",
+    "id": 18007110,
+    "revision": 585793003
+  }
+}

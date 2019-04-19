@@ -1,0 +1,61 @@
+{
+  "examples": [
+    {
+      "targetValue": "21",
+      "utterance": "how many total row entries are there?",
+      "id": "nt-367"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "jimmy johnson won how many consecutive espy awards?",
+      "id": "nt-924"
+    },
+    {
+      "targetValue": "Jimmie Johnson",
+      "utterance": "which driver had four consecutive wins?",
+      "id": "nt-1835"
+    },
+    {
+      "targetValue": "Jeff Gordon",
+      "utterance": "which driver won espy awards 11 years apart from each other?",
+      "id": "nt-5298"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "does the united states have more nation of citzenship then united kingdom?",
+      "id": "nt-6898"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times did jeff gordon win the award?",
+      "id": "nt-8146"
+    },
+    {
+      "targetValue": "NASCAR",
+      "utterance": "which racing series has the highest total of winners?",
+      "id": "nt-9852"
+    },
+    {
+      "targetValue": [
+        "Formula One",
+        "CART",
+        "IndyCar Series"
+      ],
+      "utterance": "besides nascar, what other racing series have espy-winning drivers come from?",
+      "id": "nt-12044"
+    },
+    {
+      "targetValue": "Al Unser, Jr.",
+      "utterance": "out of these drivers: nigel mansell, al unser, jr., michael schumacher, and jeff gordon, all but one has more than one espy award. who only has one espy award?",
+      "id": "nt-13528"
+    }
+  ],
+  "metadata": {
+    "title": "Best Driver ESPY Award",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10526612&oldid=564742729",
+    "tableIndex": 0,
+    "hashcode": "b7d17ffad984ed6e41f6a367ebbf740349f47a50",
+    "id": 10526612,
+    "revision": 564742729
+  }
+}

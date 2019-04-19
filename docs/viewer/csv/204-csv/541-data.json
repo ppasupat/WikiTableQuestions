@@ -1,0 +1,71 @@
+{
+  "examples": [
+    {
+      "targetValue": "Ratan Planet",
+      "utterance": "what is the tallest building in kanpur?",
+      "id": "nt-2891"
+    },
+    {
+      "targetValue": "Akashganga Heights",
+      "utterance": "which two buildings have the same number of floors as bsnl tower and som business square?",
+      "id": "nt-4405"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many of the seven tallest buildings in kanpur, india have more than 14 floors?",
+      "id": "nt-5676"
+    },
+    {
+      "targetValue": "Krishna Tower",
+      "utterance": "of the buildings, which is only 48 meters tall?",
+      "id": "nt-6449"
+    },
+    {
+      "targetValue": "Ratan Planet",
+      "utterance": "which building has more floors than the landmark hotel?",
+      "id": "nt-6554"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many floors does the bsnl tower have?",
+      "id": "nt-7887"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many buildings in kanpur, india are at least 15 stories tall?",
+      "id": "nt-8205"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many of the 7 tallest buildings in kanpur, india were built before 2010?",
+      "id": "nt-9952"
+    },
+    {
+      "targetValue": [
+        "BSNL Tower",
+        "Som Business Square (EL Mart)",
+        "Akashganga Heights"
+      ],
+      "utterance": "which buildings have the same number of floors as at least two others?",
+      "id": "nt-10703"
+    },
+    {
+      "targetValue": "Krishna Tower",
+      "utterance": "which building had the least number of floors?",
+      "id": "nt-12342"
+    },
+    {
+      "targetValue": "Krishna Tower",
+      "utterance": "what tower has at most 10 floors?",
+      "id": "nt-14101"
+    }
+  ],
+  "metadata": {
+    "title": "List of tallest buildings in Kanpur",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=38904806&oldid=588634843",
+    "tableIndex": 0,
+    "hashcode": "c9c2a98ac6fbacee7142a19e88922cb54f2cd935",
+    "id": 38904806,
+    "revision": 588634843
+  }
+}

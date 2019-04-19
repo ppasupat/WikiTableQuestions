@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "3,373",
+      "utterance": "how many total points has the lost angeles kings scored?",
+      "id": "nt-3727"
+    },
+    {
+      "targetValue": "Montreal Canadiens",
+      "utterance": "who is at the top of the list?",
+      "id": "nt-4764"
+    },
+    {
+      "targetValue": "Montreal Wanderers",
+      "utterance": "who has the least amount of losses?",
+      "id": "nt-5319"
+    },
+    {
+      "targetValue": "1,530",
+      "utterance": "how many losses do the st. louis blues have?",
+      "id": "nt-5868"
+    },
+    {
+      "targetValue": "1,353",
+      "utterance": "what is the number of games that the vancouver canucks have won up to this point?",
+      "id": "nt-7490"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many teams have won more than 1,500 games?",
+      "id": "nt-8877"
+    },
+    {
+      "targetValue": "Montreal Wanderers",
+      "utterance": "which team was last in terms of points up until this point?",
+      "id": "nt-9261"
+    },
+    {
+      "targetValue": "Toronto Maple Leafs",
+      "utterance": "which team played the same amount of seasons as the canadiens?",
+      "id": "nt-11030"
+    }
+  ],
+  "metadata": {
+    "title": "National Hockey League all-time results",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=35737571&oldid=584897347",
+    "tableIndex": 0,
+    "hashcode": "01618f80ac384096644a88184c6a18a224e9d61f",
+    "id": 35737571,
+    "revision": 584897347
+  }
+}

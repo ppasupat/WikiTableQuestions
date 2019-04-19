@@ -1,0 +1,66 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "how many peaks are below 3200 feet?",
+      "id": "nt-1997"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what are the total amount of mountains located in ruma, bandarban?",
+      "id": "nt-2347"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "how many feet separate the 7th and 8th ranked highest peaks?",
+      "id": "nt-2476"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many mountains were measured in the bd explorer in 2012?",
+      "id": "nt-3332"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many peaks h ave an elevation of at least 3,200 feet.",
+      "id": "nt-5371"
+    },
+    {
+      "targetValue": [
+        "Kapital/Capital",
+        "Kreikung Taung/Ngaramh Tlang",
+        "Taung Mey",
+        "Laisra Haphong",
+        "Nasai Hum"
+      ],
+      "utterance": "list the mountains that do not have an elevation above 3,100 ft.",
+      "id": "nt-5870"
+    },
+    {
+      "targetValue": [
+        "Saka Haphong/Mowdok Taung",
+        "Zow Tlang/Mowdok Mual"
+      ],
+      "utterance": "what two peaks are taller than dumlong?",
+      "id": "nt-10585"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many of the mountains have an elevation above 3,300 ft?",
+      "id": "nt-11060"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "which peaks were measured by bd explorer before 2012?",
+      "id": "nt-11972"
+    }
+  ],
+  "metadata": {
+    "title": "List of mountains of Bangladesh",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2187288&oldid=601446424",
+    "tableIndex": 0,
+    "hashcode": "0a26a3bfa36d3e215ee6ce22611eda316e59214c",
+    "id": 2187288,
+    "revision": 601446424
+  }
+}

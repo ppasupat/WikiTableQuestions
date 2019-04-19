@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "what's the number of parishes founded in the 1800s?",
+      "id": "nt-25"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many parishes were founded before 1900?",
+      "id": "nt-2147"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many parishes had fr frank thorpe as their parish priest?",
+      "id": "nt-2237"
+    },
+    {
+      "targetValue": "St Joseph",
+      "utterance": "name a parish that no parish priest is listed.",
+      "id": "nt-4973"
+    },
+    {
+      "targetValue": "Our Immaculate Mother & St Anselm",
+      "utterance": "other than st mary, which parish was founded by fr frank thorpe?",
+      "id": "nt-9387"
+    },
+    {
+      "targetValue": "St Veronica (Chapel of Ease)",
+      "utterance": "which parish was founded after 1950?",
+      "id": "nt-10905"
+    },
+    {
+      "targetValue": "St Joseph",
+      "utterance": "which parish is the only one to have closed?",
+      "id": "nt-11741"
+    },
+    {
+      "targetValue": "St James the Less",
+      "utterance": "which parish was founded earlier between st. joseph and st james the less?",
+      "id": "nt-13965"
+    }
+  ],
+  "metadata": {
+    "title": "List of parishes in the Diocese of Salford",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20489407&oldid=594152809",
+    "tableIndex": 11,
+    "hashcode": "d7481667c7736305487199be84951e2ef6f6f573",
+    "id": 20489407,
+    "revision": 594152809
+  }
+}

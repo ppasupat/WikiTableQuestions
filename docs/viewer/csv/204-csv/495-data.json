@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Derby County",
+      "utterance": "who was the opponent in the first game of the season?",
+      "id": "nt-4"
+    },
+    {
+      "targetValue": "Away",
+      "utterance": "was the next game after august 31 home or away?",
+      "id": "nt-299"
+    },
+    {
+      "targetValue": "7824",
+      "utterance": "what is the difference in attendance between the first two entries?",
+      "id": "nt-461"
+    },
+    {
+      "targetValue": "26 December 1987",
+      "utterance": "name one date with the only attendance over 32,000",
+      "id": "nt-5304"
+    },
+    {
+      "targetValue": "Coventry City",
+      "utterance": "was the coventry city or west ham united with the more attendance?",
+      "id": "nt-5795"
+    },
+    {
+      "targetValue": "26 December 1987",
+      "utterance": "which games has the largest amount of people attending?",
+      "id": "nt-7297"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "how many games happened in 1987?",
+      "id": "nt-9872"
+    },
+    {
+      "targetValue": "15 August 1987",
+      "utterance": "does 15 august 1987 or 18 august 1987 held the more attendance?",
+      "id": "nt-12996"
+    },
+    {
+      "targetValue": "16,075",
+      "utterance": "what's the number of people who attended the chelsea game in 29 august 1987?",
+      "id": "nt-13049"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "how many games had an attendance of more than 10,000?",
+      "id": "nt-13204"
+    }
+  ],
+  "metadata": {
+    "title": "1987–88 Luton Town F.C. season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=22715615&oldid=589843593",
+    "tableIndex": 1,
+    "hashcode": "87fbf028332c6a7b4578b5a956453eac84398e87",
+    "id": 22715615,
+    "revision": 589843593
+  }
+}

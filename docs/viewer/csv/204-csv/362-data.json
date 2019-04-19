@@ -1,0 +1,50 @@
+{
+  "examples": [
+    {
+      "targetValue": "17 April 2010",
+      "utterance": "on what date did the first episode of the whole 19 yards air?",
+      "id": "nt-1395"
+    },
+    {
+      "targetValue": "Episode 7",
+      "utterance": "which episode has the most viewers?",
+      "id": "nt-3310"
+    },
+    {
+      "targetValue": "17 April 2010",
+      "utterance": "what was the air date of the first episode?",
+      "id": "nt-3662"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "which episode of the whole 19 yards had the least amount of viewers?",
+      "id": "nt-4996"
+    },
+    {
+      "targetValue": "June",
+      "utterance": "which month has the least number of episodes?",
+      "id": "nt-5111"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what many games does each episode have?",
+      "id": "nt-5503"
+    },
+    {
+      "targetValue": [
+        "17 April 2010",
+        "24 April 2010"
+      ],
+      "utterance": "what are the airdates for episode 1 and 2?",
+      "id": "nt-13184"
+    }
+  ],
+  "metadata": {
+    "title": "The Whole 19 Yards",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=27039190&oldid=594795376",
+    "tableIndex": 2,
+    "hashcode": "2a78eda25947c51d11af98171bd9b6bf9880e051",
+    "id": 27039190,
+    "revision": 594795376
+  }
+}

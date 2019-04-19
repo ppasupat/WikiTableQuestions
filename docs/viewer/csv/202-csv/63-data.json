@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "Warren Tredrea",
+      "utterance": "who was the highest leading goalkicker from the year 1997-2014?",
+      "id": "nt-1888"
+    },
+    {
+      "targetValue": "Warren Tredrea",
+      "utterance": "which afl captain was also considered the best and fairest during the '04 premiers?",
+      "id": "nt-1975"
+    },
+    {
+      "targetValue": "Warren Tredrea",
+      "utterance": "who had the leading amount of goals kicked in 2004?",
+      "id": "nt-7059"
+    }
+  ],
+  "metadata": {
+    "title": "Port Adelaide Football Club",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=24602&oldid=602042481",
+    "tableIndex": 3,
+    "hashcode": "997c6d050df688c22263de4ccd86ae84839926bb",
+    "id": 24602,
+    "revision": 602042481
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "15",
+      "utterance": "how many defensive players were picked in the seventh round?",
+      "id": "nt-1548"
+    },
+    {
+      "targetValue": "Defensive end",
+      "utterance": "which position between the quarterback and defensive end has the larger count?",
+      "id": "nt-2409"
+    },
+    {
+      "targetValue": "Guard",
+      "utterance": "ed bauer was picked by the saints, what was his position?",
+      "id": "nt-4596"
+    },
+    {
+      "targetValue": "Wide receiver",
+      "utterance": "karl farmer played the same position as jay chesley. what position was it?",
+      "id": "nt-4941"
+    },
+    {
+      "targetValue": "Jerry Muckensturm",
+      "utterance": "who was the first linebacker selected in this round?",
+      "id": "nt-5438"
+    },
+    {
+      "targetValue": "Pittsburgh Steelers",
+      "utterance": "what nfl team had the last pick?",
+      "id": "nt-6334"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many players went to the miami dolphins?",
+      "id": "nt-6416"
+    },
+    {
+      "targetValue": "Bob Bateman",
+      "utterance": "who was the first player chosen by the cincinnati bengals, in round seven?",
+      "id": "nt-6744"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "what is the difference in pick numbers between greg schaum and ed bauer?",
+      "id": "nt-7922"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "if david williams was chosen 208th overall, and greg schaum was chosen 186th, how many picks separate the two?",
+      "id": "nt-9989"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many defensive backs are there?",
+      "id": "nt-11713"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the average number of defensive backs chosen in the seventh round?",
+      "id": "nt-14056"
+    }
+  ],
+  "metadata": {
+    "title": "1976 NFL Draft",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4667902&oldid=602297333",
+    "tableIndex": 6,
+    "hashcode": "75390430ef8adc1493483efcafa86e029ae1a0e0",
+    "id": 4667902,
+    "revision": 602297333
+  }
+}

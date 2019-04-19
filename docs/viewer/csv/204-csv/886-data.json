@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Vanessa García",
+      "utterance": "who finished after claudia poll?",
+      "id": "nt-1336"
+    },
+    {
+      "targetValue": "Dalia Tórrez",
+      "utterance": "which swimmer had the longest time?",
+      "id": "nt-2364"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many competitors from venezuela qualified for the final?",
+      "id": "nt-2965"
+    },
+    {
+      "targetValue": "57.43",
+      "utterance": "what was claudia roll's time?",
+      "id": "nt-6105"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many swimmers are from mexico?",
+      "id": "nt-6608"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many swimmers did not swim?",
+      "id": "nt-10146"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many competitors did not start the preliminaries?",
+      "id": "nt-10422"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many swimmers had a time of at least 1:00",
+      "id": "nt-10545"
+    },
+    {
+      "targetValue": "Claudia Poll",
+      "utterance": "what swimmer had the top or first rank?",
+      "id": "nt-10865"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many mexican swimmers ranked in the top 10?",
+      "id": "nt-13534"
+    },
+    {
+      "targetValue": "Heysi Villarreal",
+      "utterance": "who was the only cuban to finish in the top eight?",
+      "id": "nt-13728"
+    },
+    {
+      "targetValue": "Dalia Tórrez",
+      "utterance": "who was the last competitor to actually finish the preliminaries?",
+      "id": "nt-13810"
+    }
+  ],
+  "metadata": {
+    "title": "Swimming at the 2006 Central American and Caribbean Games – Women's 100 metre freestyle",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=23494933&oldid=573357311",
+    "tableIndex": 2,
+    "hashcode": "409c2e845ada3b748722443183715c18ea522314",
+    "id": 23494933,
+    "revision": 573357311
+  }
+}

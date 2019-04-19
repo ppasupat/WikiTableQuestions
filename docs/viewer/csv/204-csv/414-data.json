@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Kosh",
+      "utterance": "which prison is designed to hold more prisoners. kosh or erebuni?",
+      "id": "nt-4478"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many correctional facilities are listed in yerevan?",
+      "id": "nt-5745"
+    },
+    {
+      "targetValue": "373",
+      "utterance": "how many prisoners is artik designed to hold?",
+      "id": "nt-7344"
+    },
+    {
+      "targetValue": "Vardashen",
+      "utterance": "which prison is for former policemen, abovyan or vardashen?",
+      "id": "nt-7489"
+    },
+    {
+      "targetValue": "Yerevan-Center",
+      "utterance": "which is the smallest prison on the list?",
+      "id": "nt-7877"
+    },
+    {
+      "targetValue": "Kosh",
+      "utterance": "after nubarashen, which facility was designed for the biggest number of prisoners?",
+      "id": "nt-9729"
+    },
+    {
+      "targetValue": "Nubarashen, Yerevan",
+      "utterance": "name the location used the most number of times in the table.",
+      "id": "nt-10484"
+    },
+    {
+      "targetValue": "215",
+      "utterance": "what is the number of prisoners that hrazdan is designed to hold?",
+      "id": "nt-11190"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many prisons were designed for at least two hundred prisoners?",
+      "id": "nt-11987"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many prisons are in nubarashen?",
+      "id": "nt-12808"
+    },
+    {
+      "targetValue": "Yerevan-Center",
+      "utterance": "besides vardashen, what other correctional facility was designed for less than 200 prisoners?",
+      "id": "nt-13181"
+    },
+    {
+      "targetValue": "176",
+      "utterance": "how many more prisoners is erebuni designed to hold than goris?",
+      "id": "nt-13994"
+    }
+  ],
+  "metadata": {
+    "title": "List of correctional facilities in Armenia",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=37732555&oldid=554980323",
+    "tableIndex": 0,
+    "hashcode": "23c3a8d93b9f1a6fb5039a0a33b169a547c38ccd",
+    "id": 37732555,
+    "revision": 554980323
+  }
+}

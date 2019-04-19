@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "United States",
+      "utterance": "is the united stated or scotland better?",
+      "id": "nt-270"
+    },
+    {
+      "targetValue": "Zimbabwe",
+      "utterance": "which african country has the least champion golfers according to this table?",
+      "id": "nt-937"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many countries have produced the same number of championship golfers as canada?",
+      "id": "nt-3459"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "combined, how many winning golfers does england and wales have in the masters?",
+      "id": "nt-3548"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many total championships does spain have?",
+      "id": "nt-4459"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "which country has the most pga championships.",
+      "id": "nt-5179"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what are the number of pga winning golfers that zimbabwe has?",
+      "id": "nt-7429"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many u.s. open wins does fiji have?",
+      "id": "nt-8149"
+    }
+  ],
+  "metadata": {
+    "title": "List of men's major championships winning golfers",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30873530&oldid=592643111",
+    "tableIndex": 1,
+    "hashcode": "349d995e456d52a5de40c28ca84747e2f6f17594",
+    "id": 30873530,
+    "revision": 592643111
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many times has japan won gold?",
+      "id": "nt-1116"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many silver medals did contestants from japan win?",
+      "id": "nt-5775"
+    },
+    {
+      "targetValue": "Patricia Yngayo",
+      "utterance": "desideria ampon won the bronze medal the same year as who else?",
+      "id": "nt-7414"
+    },
+    {
+      "targetValue": "Yu Liqiao",
+      "utterance": "who was the only person to win a bronze medal in new delhi in 1982 in singles?",
+      "id": "nt-7430"
+    },
+    {
+      "targetValue": "Japan",
+      "utterance": "what country has the most female tennis winners at the asian games?",
+      "id": "nt-7501"
+    },
+    {
+      "targetValue": "20 years",
+      "utterance": "how long has it been since japan won gold?",
+      "id": "nt-8731"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many singles competitions have been played in bangkok?",
+      "id": "nt-10075"
+    },
+    {
+      "targetValue": "1998",
+      "utterance": "what was the first year where tamarine tanasugarn won a silver medal in singles?",
+      "id": "nt-10660"
+    },
+    {
+      "targetValue": "Japan",
+      "utterance": "what nation had the most gold medals?",
+      "id": "nt-11863"
+    },
+    {
+      "targetValue": "Etsuko Inoue",
+      "utterance": "what was the next female tennis winner after lee duk-hee.",
+      "id": "nt-12505"
+    }
+  ],
+  "metadata": {
+    "title": "Tennis at the Asian Games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8425381&oldid=595822047",
+    "tableIndex": 4,
+    "hashcode": "64a885d958ece0217d86e4e56607af0e7cd2c6af",
+    "id": 8425381,
+    "revision": 595822047
+  }
+}

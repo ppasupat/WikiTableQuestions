@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "2010",
+      "utterance": "which year had a higher round placement, 2006 or 2010?",
+      "id": "nt-847"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many times was the round result higher than 11th?",
+      "id": "nt-4065"
+    },
+    {
+      "targetValue": "1st",
+      "utterance": "what was the round result of the year after the k-mart racing team got 3rd?",
+      "id": "nt-4963"
+    },
+    {
+      "targetValue": "51",
+      "utterance": "what was the number of the car greg murphy competed with in the 2012 hamilton street circuit?",
+      "id": "nt-6260"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many 1st place round results were there?",
+      "id": "nt-7023"
+    },
+    {
+      "targetValue": "Holden VR Commodore",
+      "utterance": "the first car that murphy used in the new zealand v8 supercar",
+      "id": "nt-9206"
+    },
+    {
+      "targetValue": "K-mart Racing Team",
+      "utterance": "what team had the most consecutive years with a 1st place round result?",
+      "id": "nt-11011"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "number of rounds in which murphy placed above 4th",
+      "id": "nt-13511"
+    }
+  ],
+  "metadata": {
+    "title": "Greg Murphy",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2713431&oldid=601571348",
+    "tableIndex": 3,
+    "hashcode": "4af89d62b514491219d1671b6adc59e333d1c90c",
+    "id": 2713431,
+    "revision": 601571348
+  }
+}

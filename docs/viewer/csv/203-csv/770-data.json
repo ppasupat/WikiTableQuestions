@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "60 to 64",
+      "utterance": "at least of 50% of the population is protestant, starting at which age range?",
+      "id": "nt-326"
+    },
+    {
+      "targetValue": "30 to 34",
+      "utterance": "which age range had the largest percentage for other religion?",
+      "id": "nt-594"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "do the ages of 50 to 59 have a higher catholic percentage than the ages of 45 to 49?",
+      "id": "nt-2176"
+    },
+    {
+      "targetValue": "10 to 14",
+      "utterance": "which age range had over 45.6% catholic?",
+      "id": "nt-3647"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "how many age ranges are represented in the table?",
+      "id": "nt-6559"
+    },
+    {
+      "targetValue": "90 and over",
+      "utterance": "which age range had the top number for protestant and other christians?",
+      "id": "nt-11384"
+    }
+  ],
+  "metadata": {
+    "title": "Religion in Northern Ireland",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5123185&oldid=602477069",
+    "tableIndex": 3,
+    "hashcode": "4c83ca92e8e596e7b420a167b4793c49ff841f45",
+    "id": 5123185,
+    "revision": 602477069
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "what is the total number of drivers who did not finish the 8th glover trophy race?",
+      "id": "nt-1206"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total number of american drivers?",
+      "id": "nt-9810"
+    },
+    {
+      "targetValue": "1.00:14.8",
+      "utterance": "how long did innes ireland take to complete the 8th glover trophy race?",
+      "id": "nt-10420"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many drivers participated in the 8th glover trophy race?",
+      "id": "nt-11861"
+    },
+    {
+      "targetValue": "Innes Ireland",
+      "utterance": "who is in the first postion?",
+      "id": "nt-13272"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many uk drivers are there?",
+      "id": "nt-14121"
+    },
+    {
+      "targetValue": "Owen Racing Organisation",
+      "utterance": "what entrant has the most drivers?",
+      "id": "nt-14151"
+    }
+  ],
+  "metadata": {
+    "title": "1960 Glover Trophy",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17114575&oldid=548204532",
+    "tableIndex": 0,
+    "hashcode": "f2bc48017c44bc40d954fa597a059764d9e1d7ff",
+    "id": 17114575,
+    "revision": 548204532
+  }
+}

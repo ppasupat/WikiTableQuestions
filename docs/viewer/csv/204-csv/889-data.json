@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "\"DJ Got Us Fallin' in Love\"",
+        "\"Baby\""
+      ],
+      "utterance": "what was the song choice after week 5?",
+      "id": "nt-1032"
+    },
+    {
+      "targetValue": "\"Just the Way You Are\"",
+      "utterance": "what song was in the first week?",
+      "id": "nt-2858"
+    },
+    {
+      "targetValue": "25 March 2011",
+      "utterance": "what was the date of the last free choice performance?",
+      "id": "nt-6499"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many weeks was babou safe on the x factor",
+      "id": "nt-9262"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many songs did babou sing during his time on the x factor?",
+      "id": "nt-10352"
+    },
+    {
+      "targetValue": "\"Just the Way You Are\"",
+      "utterance": "which song did babou sing the week before he sang \"can't buy me love\"?",
+      "id": "nt-11192"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what was the number of weeks songs were performed?",
+      "id": "nt-12290"
+    },
+    {
+      "targetValue": "\"All the Right Moves\"",
+      "utterance": "what was the last \"free choice\" song babou performed on x factor?",
+      "id": "nt-13608"
+    },
+    {
+      "targetValue": "\"Can't Buy Me Love\"",
+      "utterance": "which was the first song he performed that was originally a beatles song?",
+      "id": "nt-14079"
+    }
+  ],
+  "metadata": {
+    "title": "Babou (singer)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41951429&oldid=596170213",
+    "tableIndex": 0,
+    "hashcode": "b5b7e42676c378842cdd2d7ae88ea2caebdc0695",
+    "id": 41951429,
+    "revision": 596170213
+  }
+}

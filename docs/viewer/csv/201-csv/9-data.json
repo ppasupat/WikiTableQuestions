@@ -1,0 +1,30 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Sceny Narciarskie z Franzem Klammeren (Ski Scenes with Franz Klammer)",
+        "Wdech-Wydech (Inhale-Exhale)"
+      ],
+      "utterance": "list the films that had a collaboration with b. dziworski.",
+      "id": "nt-3902"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many films were shot in smff se-ma-for &#321;ód&#378;, poland?",
+      "id": "nt-9339"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many films had a duration below 5 minutes?",
+      "id": "nt-13885"
+    }
+  ],
+  "metadata": {
+    "title": "Zbigniew Rybczyński",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=286156&oldid=597226173",
+    "tableIndex": 0,
+    "hashcode": "266ceadba500fd0d4b27c1ed4d346da887d917a7",
+    "id": 286156,
+    "revision": 597226173
+  }
+}

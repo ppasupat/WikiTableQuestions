@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many consecutive games did dejan damjanovic score a goal in during the 2013 season?",
+      "id": "nt-232"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many goals did dejan damjanovic have in the 2011 season?",
+      "id": "nt-873"
+    },
+    {
+      "targetValue": "Guangzhou Evergrande",
+      "utterance": "what was the last game of the 2013 season?",
+      "id": "nt-5221"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what was the highest number of goals fc seoul scored against an opponent in a single match during the 2013 season?",
+      "id": "nt-7270"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many results were only ties?",
+      "id": "nt-8470"
+    },
+    {
+      "targetValue": "2013",
+      "utterance": "what is the year coming after 2011?",
+      "id": "nt-10017"
+    },
+    {
+      "targetValue": "Guangzhou Evergrande",
+      "utterance": "can you find the last opponent in 2013 league?",
+      "id": "nt-11443"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many rounds were held in the 2011 season?",
+      "id": "nt-11481"
+    },
+    {
+      "targetValue": "Al-Ittihad",
+      "utterance": "which team scored the most goals in a single match against fc seoul during the 2011 season?",
+      "id": "nt-11852"
+    },
+    {
+      "targetValue": "Quarter-finals 2nd leg",
+      "utterance": "what was the last round held in the 2011 season?",
+      "id": "nt-11891"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what was the total number of points scored in the game held on 2013-05-21?",
+      "id": "nt-13771"
+    }
+  ],
+  "metadata": {
+    "title": "FC Seoul in Asian football",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33550055&oldid=595587909",
+    "tableIndex": 3,
+    "hashcode": "b06cfa48302171ba793bd146db09e7ffe65a7877",
+    "id": 33550055,
+    "revision": 595587909
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "14",
+      "utterance": "what is the most wins?",
+      "id": "nt-275"
+    },
+    {
+      "targetValue": "Breiðablik",
+      "utterance": "besides team ibv, which other team had 6 total wins?",
+      "id": "nt-6232"
+    },
+    {
+      "targetValue": "FH",
+      "utterance": "what team(s) has the highest win/lose ratio?",
+      "id": "nt-8795"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many draws did ibv have?",
+      "id": "nt-9148"
+    },
+    {
+      "targetValue": "ÍBV",
+      "utterance": "on the list, what is the previous team above team ks?",
+      "id": "nt-9297"
+    },
+    {
+      "targetValue": "KS",
+      "utterance": "who had the most goals against them self for the year?",
+      "id": "nt-9302"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "the greatest number of wins is how far above the greatest number of losses?",
+      "id": "nt-9320"
+    },
+    {
+      "targetValue": [
+        "Fylkir",
+        "Þróttur R."
+      ],
+      "utterance": "which two teams had the most draws?",
+      "id": "nt-10586"
+    },
+    {
+      "targetValue": "FH",
+      "utterance": "who finished first in the standings?",
+      "id": "nt-11755"
+    },
+    {
+      "targetValue": "38",
+      "utterance": "what was the number of goals for ks?",
+      "id": "nt-13329"
+    }
+  ],
+  "metadata": {
+    "title": "1988 1. deild karla",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=38296362&oldid=548316746",
+    "tableIndex": 0,
+    "hashcode": "387762952ef6368588e03c6a414013722e524dd6",
+    "id": 38296362,
+    "revision": 548316746
+  }
+}

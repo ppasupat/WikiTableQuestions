@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": "24 October 2007",
+      "utterance": "which date did a team score 4 points?",
+      "id": "nt-665"
+    },
+    {
+      "targetValue": "17 September 2007",
+      "utterance": "which date is listed first on the table?",
+      "id": "nt-1448"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive times was the opponent team shakhtar donetsk?",
+      "id": "nt-1882"
+    },
+    {
+      "targetValue": "Home",
+      "utterance": "was the top game home or away?",
+      "id": "nt-2995"
+    },
+    {
+      "targetValue": "2-1",
+      "utterance": "what was the average score between matches 1 and 2?",
+      "id": "nt-3070"
+    },
+    {
+      "targetValue": "4 March 2008",
+      "utterance": "what was the next date after 20 february 2008?",
+      "id": "nt-7256"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what number of games did both teams score no points?",
+      "id": "nt-11016"
+    },
+    {
+      "targetValue": "Benfica",
+      "utterance": "who was the first team a.c milan played against in the uefa championship league?",
+      "id": "nt-11536"
+    },
+    {
+      "targetValue": [
+        "2-1",
+        "4-1"
+      ],
+      "utterance": "what was the score of each match in october?",
+      "id": "nt-12799"
+    }
+  ],
+  "metadata": {
+    "title": "2007–08 A.C. Milan season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12777091&oldid=602244653",
+    "tableIndex": 9,
+    "hashcode": "78bdb0fc91c650538188da2586b16aead83e7b97",
+    "id": 12777091,
+    "revision": 602244653
+  }
+}

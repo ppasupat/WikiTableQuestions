@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many times was the margin of victory 3 strokes or more?",
+      "id": "nt-918"
+    },
+    {
+      "targetValue": "MCI Heritage Golf Classic",
+      "utterance": "when was the tournament with more strokes than the hertz bay hill classic?",
+      "id": "nt-2126"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what were the total number of times the u.s. open was the tournament?",
+      "id": "nt-4174"
+    },
+    {
+      "targetValue": "April",
+      "utterance": "what month were the most tournaments held in?",
+      "id": "nt-4649"
+    },
+    {
+      "targetValue": "Pat McGowan",
+      "utterance": "besides brad bryant, who was the other runner-up in the 1982 miller high life qco?",
+      "id": "nt-5034"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of times that scott simpson was runner-up to him?",
+      "id": "nt-5459"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many runners-up were from the u.s.?",
+      "id": "nt-7904"
+    },
+    {
+      "targetValue": "−20 (69-67-63-65=264)",
+      "utterance": "what was the best winning score?",
+      "id": "nt-7947"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many victories did he have in april?",
+      "id": "nt-13327"
+    }
+  ],
+  "metadata": {
+    "title": "Payne Stewart",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=349744&oldid=600843813",
+    "tableIndex": 1,
+    "hashcode": "8fec2a3fb78994bf3c50291fa965c8a7cc050999",
+    "id": 349744,
+    "revision": 600843813
+  }
+}

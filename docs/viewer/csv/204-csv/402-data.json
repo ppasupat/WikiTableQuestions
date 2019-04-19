@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Adam Maher",
+      "utterance": "which player had the least amount listed in transfer fees?",
+      "id": "nt-2930"
+    },
+    {
+      "targetValue": "Adam Maher",
+      "utterance": "who is the last ranking player?",
+      "id": "nt-4631"
+    },
+    {
+      "targetValue": "9.4 million",
+      "utterance": "what is the average total of the transfer fee in million?",
+      "id": "nt-5220"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the total number of players that transferred to ajax?",
+      "id": "nt-8000"
+    },
+    {
+      "targetValue": "Banfield",
+      "utterance": "where is darío cvitanich from before transferring to ajax?",
+      "id": "nt-11962"
+    },
+    {
+      "targetValue": "2.1",
+      "utterance": "what is the difference between rank 5 and rank 11 transfer fee",
+      "id": "nt-13289"
+    }
+  ],
+  "metadata": {
+    "title": "Dutch football transfer record",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12742744&oldid=570918301",
+    "tableIndex": 1,
+    "hashcode": "30c0eaa82b0a00273fc70e76d682a50def8bb796",
+    "id": 12742744,
+    "revision": 570918301
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "examples": [
+    {
+      "targetValue": "Thuppakki",
+      "utterance": "what was the last movie that kajal aggarwal won an award for?",
+      "id": "nt-1379"
+    },
+    {
+      "targetValue": "Sunnanda",
+      "utterance": "what role did kajal play before pooja?",
+      "id": "nt-5246"
+    },
+    {
+      "targetValue": [
+        "Mr. Perfect",
+        "Singham",
+        "Dhada"
+      ],
+      "utterance": "what other movies was aggarwal in the same year as her role in veera?",
+      "id": "nt-6680"
+    },
+    {
+      "targetValue": "Govindudu Andarivadele",
+      "utterance": "what role did kajal aggarwal play in which she had no name?",
+      "id": "nt-9827"
+    },
+    {
+      "targetValue": "Diya's sister",
+      "utterance": "what was the first role kajal played?",
+      "id": "nt-13175"
+    }
+  ],
+  "metadata": {
+    "title": "Kajal Aggarwal",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14850733&oldid=600624605",
+    "tableIndex": 0,
+    "hashcode": "1d42470e237601d9c6848f1e1a0d6f76161a50e1",
+    "id": 14850733,
+    "revision": 600624605
+  }
+}

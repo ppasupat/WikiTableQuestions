@@ -1,0 +1,48 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "what is the maximum consecutive eliminations for the brats?",
+      "id": "nt-6281"
+    },
+    {
+      "targetValue": "Om Blues",
+      "utterance": "which gang had at least one winner on mtv roadies season 6?",
+      "id": "nt-7894"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "how many people were eliminated?",
+      "id": "nt-8684"
+    },
+    {
+      "targetValue": [
+        "Sonia Chauhan",
+        "Bhanu Pratap Singh Rana",
+        "Neha Kapoor",
+        "Ankur Khanduja",
+        "Vicky Arora"
+      ],
+      "utterance": "who was evicted in the first episode?",
+      "id": "nt-9694"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "how many eliminations are listed in all?",
+      "id": "nt-10254"
+    },
+    {
+      "targetValue": "Gurmeet Kaur Johal (Palak)",
+      "utterance": "who was eliminated by longkiri in their semi final task?",
+      "id": "nt-13198"
+    }
+  ],
+  "metadata": {
+    "title": "MTV Roadies (season 6)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20694433&oldid=598149920",
+    "tableIndex": 2,
+    "hashcode": "bd909447c9464f79e7d4143c8ffcd8c13e0c48f9",
+    "id": 20694433,
+    "revision": 598149920
+  }
+}

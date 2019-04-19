@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Men's 25 m rapid fire pistol",
+      "utterance": "what was the last event held?",
+      "id": "nt-139"
+    },
+    {
+      "targetValue": "Ville Ritola",
+      "utterance": "name an athlete from finland who received a gold medal and a silver medal in the 1924 summer olympics",
+      "id": "nt-4546"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "number of silver and bronze medals for finland in the 1924 summer olympics",
+      "id": "nt-5421"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "are there more or less than 2 winners in the 3rd medal listed?",
+      "id": "nt-7086"
+    },
+    {
+      "targetValue": "Jonni Myyrä",
+      "utterance": "name the only medalist to receive a medal in the men's javelin throw",
+      "id": "nt-9983"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many more silver medals were handed out than gold?",
+      "id": "nt-12988"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "total number of gold medals by finland in the 1924 summer olympics",
+      "id": "nt-13415"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many silver medals were awarded?",
+      "id": "nt-14037"
+    }
+  ],
+  "metadata": {
+    "title": "Finland at the 1924 Summer Olympics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7440458&oldid=590400423",
+    "tableIndex": 0,
+    "hashcode": "e832dc5d0f3d62675bd4582c17432218732e6ea3",
+    "id": 7440458,
+    "revision": 590400423
+  }
+}

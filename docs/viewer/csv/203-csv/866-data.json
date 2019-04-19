@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "what are the total number of times swecon was held in uppsala?",
+      "id": "nt-630"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the number of times swecon has been held in stockholm?",
+      "id": "nt-2625"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "were there more guests of honor in 2003 than in 2001?",
+      "id": "nt-2758"
+    },
+    {
+      "targetValue": "2012",
+      "utterance": "which swecon has had the most guests of honor?",
+      "id": "nt-6516"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of times that swecon has taken place in gothenburg?",
+      "id": "nt-7817"
+    },
+    {
+      "targetValue": "1999",
+      "utterance": "what year was michael swanwick the only guest of honor?",
+      "id": "nt-8847"
+    },
+    {
+      "targetValue": [
+        "1998",
+        "1999"
+      ],
+      "utterance": "which swecon has had the least guests of honor?",
+      "id": "nt-9756"
+    },
+    {
+      "targetValue": "Stockholm",
+      "utterance": "which location is listed last in the table?",
+      "id": "nt-10331"
+    },
+    {
+      "targetValue": "Conviction",
+      "utterance": "which name is listed after imagicon?",
+      "id": "nt-12619"
+    }
+  ],
+  "metadata": {
+    "title": "Swecon",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10267171&oldid=544741413",
+    "tableIndex": 0,
+    "hashcode": "a9f5c2f8ef31677b198459d3f8b0af73fd74ff2c",
+    "id": 10267171,
+    "revision": 544741413
+  }
+}

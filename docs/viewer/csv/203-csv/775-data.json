@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "29",
+      "utterance": "what was the largest difference of points in a single game?",
+      "id": "nt-1671"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many games had an attendance of 10,000 at most?",
+      "id": "nt-2802"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "the total number of games played at war memorial stadium was how many?",
+      "id": "nt-4212"
+    },
+    {
+      "targetValue": "New York Titans",
+      "utterance": "who was the opponent during for first week?",
+      "id": "nt-4766"
+    },
+    {
+      "targetValue": "December 11, 1960",
+      "utterance": "which date had the highest attendance?",
+      "id": "nt-5734"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many times was war memorial stadium the game site?",
+      "id": "nt-6926"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what were the total number of games played in november?",
+      "id": "nt-8312"
+    },
+    {
+      "targetValue": "Houston Oilers",
+      "utterance": "who did the bills play after the oakland raiders?",
+      "id": "nt-8458"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many games had at least 10,000 people in attendance?",
+      "id": "nt-10931"
+    },
+    {
+      "targetValue": "Denver Broncos",
+      "utterance": "who was the only opponent they played which resulted in a tie game?",
+      "id": "nt-12721"
+    },
+    {
+      "targetValue": "September 18, 1960",
+      "utterance": "what date was the first game at war memorial stadium?",
+      "id": "nt-14008"
+    }
+  ],
+  "metadata": {
+    "title": "1960 Buffalo Bills season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16351892&oldid=587812456",
+    "tableIndex": 3,
+    "hashcode": "b88ee9a449d6bcd05849dbaf70d3efc09c2d4dff",
+    "id": 16351892,
+    "revision": 587812456
+  }
+}

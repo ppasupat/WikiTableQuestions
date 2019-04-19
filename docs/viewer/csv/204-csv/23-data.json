@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Hardcore TV #21",
+      "utterance": "what is the next event after hardcore tv #15?",
+      "id": "nt-94"
+    },
+    {
+      "targetValue": "283",
+      "utterance": "what is the total days held on # 1st?",
+      "id": "nt-826"
+    },
+    {
+      "targetValue": "Chris Benoit and Dean Malenko",
+      "utterance": "who held the title before the public enemy regained it on april 8th, 1995?",
+      "id": "nt-844"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many days did hardcore tv #6 take?",
+      "id": "nt-3337"
+    },
+    {
+      "targetValue": "The Dudley Boyz",
+      "utterance": "who held the title the most times, the super destroyers or the dudley boyz?",
+      "id": "nt-4803"
+    },
+    {
+      "targetValue": "Hardcore TV #8",
+      "utterance": "what event comes before hardcore tv #14?",
+      "id": "nt-5670"
+    },
+    {
+      "targetValue": "The Dudley Boyz",
+      "utterance": "which was the only team to win by forfeit?",
+      "id": "nt-10531"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times, from june 23, 1992 to december 3, 2000, did the suicide blondes hold the title?",
+      "id": "nt-13540"
+    }
+  ],
+  "metadata": {
+    "title": "List of ECW World Tag Team Champions",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1905337&oldid=595814129",
+    "tableIndex": 1,
+    "hashcode": "291db2980ec3e2c9cd36bb3d62313dd92d481e49",
+    "id": 1905337,
+    "revision": 595814129
+  }
+}

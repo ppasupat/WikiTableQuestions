@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "how many times has the team played in divison 1 since 2000?",
+      "id": "nt-1903"
+    },
+    {
+      "targetValue": "Division 3",
+      "utterance": "which division has the least entries?",
+      "id": "nt-7111"
+    },
+    {
+      "targetValue": "13th",
+      "utterance": "what is the lowest position earned during this team's history?",
+      "id": "nt-9074"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the difference in position from the year 2007 and 2008?",
+      "id": "nt-10332"
+    },
+    {
+      "targetValue": "2012",
+      "utterance": "when was the last season?",
+      "id": "nt-10794"
+    },
+    {
+      "targetValue": "Division 2",
+      "utterance": "which division as the most entries?",
+      "id": "nt-12910"
+    },
+    {
+      "targetValue": "1985",
+      "utterance": "when was the first season?",
+      "id": "nt-13696"
+    }
+  ],
+  "metadata": {
+    "title": "Kiruna FF",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2307383&oldid=601985695",
+    "tableIndex": 0,
+    "hashcode": "07bfd8f14c9f1529e68ea59f65934e471087c071",
+    "id": 2307383,
+    "revision": 601985695
+  }
+}

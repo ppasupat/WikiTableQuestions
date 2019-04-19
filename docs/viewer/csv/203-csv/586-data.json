@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "United States",
+      "utterance": "which nation came in last in the 2007 worlds qualification tournament?",
+      "id": "nt-2313"
+    },
+    {
+      "targetValue": "Brazil",
+      "utterance": "which nation had their sailors as robert scheidt and bruno prada?",
+      "id": "nt-3175"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "which team placed immediately above croatia in the qt?",
+      "id": "nt-5819"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many countries in the provided table came in 4th place?",
+      "id": "nt-7051"
+    },
+    {
+      "targetValue": "Brazil",
+      "utterance": "who came in first place during the 2007 worlds qualification tournament?",
+      "id": "nt-7656"
+    },
+    {
+      "targetValue": "Austria",
+      "utterance": "list the nation which participated in the 2008 worlds qualification tournament and hans spitzauer was one of the sailors.",
+      "id": "nt-8239"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the average number of sailors for each country during the worlds qualification tournament?",
+      "id": "nt-13430"
+    }
+  ],
+  "metadata": {
+    "title": "Sailing at the 2008 Summer Olympics – Qualification",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12190217&oldid=574288057",
+    "tableIndex": 5,
+    "hashcode": "4a4ba18a13a3eb0da93254095a6f30908adec393",
+    "id": 12190217,
+    "revision": 574288057
+  }
+}

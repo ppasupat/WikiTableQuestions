@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Pétur Sigurgeirsson (son of Sigurgeir Sigurðsson, 8th Bishop of Iceland)",
+      "utterance": "who was the first bishop of iceland whose father was also a bishop of iceland?",
+      "id": "nt-358"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "for how many years did hallgrimur sveinsson serve as the bishop of iceland?",
+      "id": "nt-766"
+    },
+    {
+      "targetValue": "Geir Vídalín",
+      "utterance": "who served longer, helgi thordersen or geir vidalin?",
+      "id": "nt-1935"
+    },
+    {
+      "targetValue": "Helgi Thordersen",
+      "utterance": "which bishop served between the years of 1846 and 1866?",
+      "id": "nt-2898"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many served in the 20th century?",
+      "id": "nt-6792"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many people have served as the bishop of iceland since 1801?",
+      "id": "nt-7627"
+    },
+    {
+      "targetValue": "22 years",
+      "utterance": "how long was geir vidalin in office?",
+      "id": "nt-9831"
+    },
+    {
+      "targetValue": "Ásmundur Guðmundsson",
+      "utterance": "who among iceland's lutheran bishops has held the longest tenure to date?",
+      "id": "nt-10244"
+    }
+  ],
+  "metadata": {
+    "title": "Bishop of Iceland",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3643293&oldid=585381574",
+    "tableIndex": 0,
+    "hashcode": "29787a0ee71376497f4f20e03aa83363880fc4d6",
+    "id": 3643293,
+    "revision": 585381574
+  }
+}

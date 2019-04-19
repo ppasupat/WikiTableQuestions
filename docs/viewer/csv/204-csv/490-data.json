@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "21",
+      "utterance": "how many consecutive players weigh less than 200 lbs?",
+      "id": "nt-696"
+    },
+    {
+      "targetValue": "Erika Lawler",
+      "utterance": "name a player shorter than kelli stack.",
+      "id": "nt-3140"
+    },
+    {
+      "targetValue": "Karen Thatcher",
+      "utterance": "who was the only providence friars member of the 2010 american women's hockey olympic roster?",
+      "id": "nt-4769"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "what is total number of birthday?",
+      "id": "nt-5045"
+    },
+    {
+      "targetValue": [
+        "Brianne McLaughlin",
+        "Molly Schaus"
+      ],
+      "utterance": "name two people whose height is at least 174 cm",
+      "id": "nt-6395"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "how many total of names are listed?",
+      "id": "nt-8498"
+    },
+    {
+      "targetValue": "F",
+      "utterance": "which position was represented the most on the team?",
+      "id": "nt-8577"
+    },
+    {
+      "targetValue": "Gisele Marvin",
+      "utterance": "what player is next on the list after erika lawler?",
+      "id": "nt-9456"
+    },
+    {
+      "targetValue": "Massachusetts",
+      "utterance": "which state was the birthplace for the most american 2010 olympic women's hockey roster?",
+      "id": "nt-11410"
+    },
+    {
+      "targetValue": "Jenny Potter",
+      "utterance": "who was the oldest member of the american 2010 olympic women's hockey roster?",
+      "id": "nt-12671"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the total number of wisconsin badgers on the american roster for women's ice hockey in the 2010 winter olympics?",
+      "id": "nt-13007"
+    },
+    {
+      "targetValue": "Hilary Knight",
+      "utterance": "who is the tallest player born in july?",
+      "id": "nt-13999"
+    }
+  ],
+  "metadata": {
+    "title": "List of United States women's national ice hockey team rosters",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=26202214&oldid=598002605",
+    "tableIndex": 0,
+    "hashcode": "4deda1163d6dea075d8cf525cb618b7cd5c4563f",
+    "id": 26202214,
+    "revision": 598002605
+  }
+}

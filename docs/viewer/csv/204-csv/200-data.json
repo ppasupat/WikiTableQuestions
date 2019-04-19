@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Systems and software engineering - Software life cycle processes",
+      "utterance": "which has the same wg as systems and software engineering- system life cycle processes?",
+      "id": "nt-961"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of titles published in 2011?",
+      "id": "nt-1504"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the difference in the year published between iso/iec 15288 and iso/ice 20000-1?",
+      "id": "nt-4445"
+    },
+    {
+      "targetValue": "ISO/IEC 19770-1",
+      "utterance": "what was the last standard published?",
+      "id": "nt-4847"
+    },
+    {
+      "targetValue": "ISO/IEC 10746-1",
+      "utterance": "which standard was published first?",
+      "id": "nt-5302"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "what is the total number of titles on the chart?",
+      "id": "nt-6079"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "are there more or less than 24 titles on the chart?",
+      "id": "nt-7548"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many iso/iec were published in 2011?",
+      "id": "nt-10100"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many iso/iec were published before the year 2000?",
+      "id": "nt-11162"
+    }
+  ],
+  "metadata": {
+    "title": "ISO/IEC JTC 1/SC 7",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=40400719&oldid=601578081",
+    "tableIndex": 1,
+    "hashcode": "94ed0043a7b0665fc705411b39ef4e7168268f94",
+    "id": 40400719,
+    "revision": 601578081
+  }
+}

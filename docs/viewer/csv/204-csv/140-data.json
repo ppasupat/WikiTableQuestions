@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "115",
+      "utterance": "what is the number of the player from slovakia?",
+      "id": "nt-301"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many players were drafted by the 06-07 islanders from the us?",
+      "id": "nt-1159"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many picks were between jesse joensuu and kim johansson?",
+      "id": "nt-1524"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many goalies did the islanders draft?",
+      "id": "nt-3290"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "the total number of players picked",
+      "id": "nt-4147"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many goalies were selected?",
+      "id": "nt-4562"
+    },
+    {
+      "targetValue": "Goalie",
+      "utterance": "there are the same number of centers as what other position on the team?",
+      "id": "nt-5691"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many centers were drafted by the islander's in the 2006 nhl entry draft?",
+      "id": "nt-6515"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what is the total of nhl entry draft picks did the islanders' do in 2006?",
+      "id": "nt-8622"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "from which nationality did the islanders draft the most players?",
+      "id": "nt-9193"
+    },
+    {
+      "targetValue": "Troy Mattila",
+      "utterance": "which player is from the united states and played on the springfield jr. blues?",
+      "id": "nt-10161"
+    },
+    {
+      "targetValue": "Kyle Okposo",
+      "utterance": "who was the top pick of the islanders' in the 2006 nhl entry draft?",
+      "id": "nt-11037"
+    },
+    {
+      "targetValue": "Sweden",
+      "utterance": "are there more players from sweden or canada?",
+      "id": "nt-11456"
+    }
+  ],
+  "metadata": {
+    "title": "2006–07 New York Islanders season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8505925&oldid=601475916",
+    "tableIndex": 16,
+    "hashcode": "8306c52e0b9dc57ed99e9746b60bc520236e05f5",
+    "id": 8505925,
+    "revision": 601475916
+  }
+}

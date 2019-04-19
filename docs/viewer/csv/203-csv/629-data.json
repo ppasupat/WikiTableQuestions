@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "\"Police Woman 2002\" (with Groove Quantize)",
+      "utterance": "which title was the last title?",
+      "id": "nt-1536"
+    },
+    {
+      "targetValue": "17 years",
+      "utterance": "how long did they produce singles?",
+      "id": "nt-6864"
+    },
+    {
+      "targetValue": "\"That Word (L.O.V.E.)\"",
+      "utterance": "which song came next to \"ain't no sunshine?\"",
+      "id": "nt-9586"
+    },
+    {
+      "targetValue": "\"Time Out (For Serious Fun)\"",
+      "utterance": "which title came first?",
+      "id": "nt-10138"
+    },
+    {
+      "targetValue": "Peter Blakeley",
+      "utterance": "who was the lead vocalist in \"sweat it out\"?",
+      "id": "nt-10380"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "what is the total number of singles for rockmelons?",
+      "id": "nt-11471"
+    }
+  ],
+  "metadata": {
+    "title": "Rockmelons",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12045654&oldid=593511857",
+    "tableIndex": 0,
+    "hashcode": "e8d4f7f7859d49dda89186aed82cbd9b637c8e47",
+    "id": 12045654,
+    "revision": 593511857
+  }
+}

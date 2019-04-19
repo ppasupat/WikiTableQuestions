@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "number of teams not to win a match in first leg",
+      "id": "nt-1138"
+    },
+    {
+      "targetValue": "Panathinaikos",
+      "utterance": "did the team larissa or the team panathinaikos score more total points?",
+      "id": "nt-2200"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many matches ended in an aggregate tie record?",
+      "id": "nt-3696"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times was the score 1-0 in the 1st leg?",
+      "id": "nt-5661"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many teams scored more than 5 goals in either leg of the second round?",
+      "id": "nt-6007"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many more points did kallithea score in the first leg of the second round of the 198485 greek cup than the second leg?",
+      "id": "nt-10618"
+    },
+    {
+      "targetValue": "4-2",
+      "utterance": "what was the 1st leg score in the match between lamia and kastoria?",
+      "id": "nt-11535"
+    },
+    {
+      "targetValue": "Panathinaikos",
+      "utterance": "which team won the most games in a match?",
+      "id": "nt-12280"
+    },
+    {
+      "targetValue": "Panachaiki",
+      "utterance": "which team won both the 1st and 2nd legs, panachaiki or aris?",
+      "id": "nt-12517"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what was the highest amount of points scored in a single game in the second round of the 198485 greek cup?",
+      "id": "nt-12957"
+    }
+  ],
+  "metadata": {
+    "title": "1984–85 Greek Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21210609&oldid=599152444",
+    "tableIndex": 2,
+    "hashcode": "c948b8d1655d8bcf3ff813b0fb1f54ebe958bade",
+    "id": 21210609,
+    "revision": 599152444
+  }
+}

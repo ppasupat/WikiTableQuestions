@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "1996/97",
+      "utterance": "the 1995/96 season ranked the same place as which other season?",
+      "id": "nt-902"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many seasons did they finish above 5th place?",
+      "id": "nt-3592"
+    },
+    {
+      "targetValue": "1997/98",
+      "utterance": "in what season did they finish in first place?",
+      "id": "nt-4341"
+    },
+    {
+      "targetValue": "1997/98",
+      "utterance": "which season places first in their division?",
+      "id": "nt-5015"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "between 1987 and 2000 how many times did atletico artexico place below 7th at the end of the season?",
+      "id": "nt-6295"
+    },
+    {
+      "targetValue": "1997/98",
+      "utterance": "in what year did atletico artexico finish on top of their division?",
+      "id": "nt-6315"
+    },
+    {
+      "targetValue": "1997/98",
+      "utterance": "which season ranked superior out of every other season?",
+      "id": "nt-8600"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what was the difference in placing between the 1988/89 season and the last season before it?",
+      "id": "nt-10448"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of seasons finished in 10th place or worse?",
+      "id": "nt-10756"
+    },
+    {
+      "targetValue": "7th",
+      "utterance": "after the 1990/91 season, which place was earned in the next season?",
+      "id": "nt-11038"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many seasons were finished in 3rd place?",
+      "id": "nt-11549"
+    },
+    {
+      "targetValue": "1998/99",
+      "utterance": "which season was the only season the team placed in tier 4?",
+      "id": "nt-12871"
+    }
+  ],
+  "metadata": {
+    "title": "Atlético Arteixo",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4878536&oldid=595428113",
+    "tableIndex": 0,
+    "hashcode": "f91b3517f865faf5c915160d95c7153a0193e45b",
+    "id": 4878536,
+    "revision": 595428113
+  }
+}

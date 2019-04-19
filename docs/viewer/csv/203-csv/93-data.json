@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Henry E. Prickett",
+      "utterance": "which elected successor took office the earliest?",
+      "id": "nt-365"
+    },
+    {
+      "targetValue": "Byron E. Hyatt",
+      "utterance": "who was appointed before h.w. whillock?",
+      "id": "nt-829"
+    },
+    {
+      "targetValue": "James P. Pope",
+      "utterance": "who resigned earlier, james p. pope or h. w. whillock?",
+      "id": "nt-3819"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "what number of years did john hailey serve?",
+      "id": "nt-4087"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many never took office?",
+      "id": "nt-6081"
+    },
+    {
+      "targetValue": "H. Brent Coles",
+      "utterance": "who was appointed after dirk kempthorne?",
+      "id": "nt-12206"
+    },
+    {
+      "targetValue": "James P. Pope",
+      "utterance": "which mayor(s), if any, resigned from the mayoralty in 1933?",
+      "id": "nt-12845"
+    }
+  ],
+  "metadata": {
+    "title": "List of mayors of Boise, Idaho",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1329532&oldid=587219156",
+    "tableIndex": 1,
+    "hashcode": "542fca23c099aeb4a9cdbeac1dee150b912d07b6",
+    "id": 1329532,
+    "revision": 587219156
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Distributor EP",
+      "utterance": "name one that was released in the 1980's but was not used for plumbers merchants.",
+      "id": "nt-669"
+    },
+    {
+      "targetValue": "Distributor EP",
+      "utterance": "the most recent version to be released was in 1989, what was it called?",
+      "id": "nt-889"
+    },
+    {
+      "targetValue": "Enhanced version of the Distributor",
+      "utterance": "what is. the last feature on the chart",
+      "id": "nt-4008"
+    },
+    {
+      "targetValue": "Mark 1",
+      "utterance": "what comes after susie",
+      "id": "nt-4122"
+    },
+    {
+      "targetValue": "Mark 1",
+      "utterance": "after susie, what came next?",
+      "id": "nt-10125"
+    },
+    {
+      "targetValue": "Mark 5",
+      "utterance": "before the distributor was which one?",
+      "id": "nt-10197"
+    },
+    {
+      "targetValue": "Mark 1",
+      "utterance": "which was released earlier, mark 1 or distributor?",
+      "id": "nt-13425"
+    },
+    {
+      "targetValue": "SUSIE",
+      "utterance": "other than sadie what models start with an s?",
+      "id": "nt-13981"
+    }
+  ],
+  "metadata": {
+    "title": "BCL Molecular",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20684820&oldid=532076992",
+    "tableIndex": 0,
+    "hashcode": "2a3568ae8c7ee0436ced991aaf3f585495b9afb6",
+    "id": 20684820,
+    "revision": 532076992
+  }
+}

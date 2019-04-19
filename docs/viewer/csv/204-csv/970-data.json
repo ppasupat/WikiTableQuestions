@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Marty",
+      "utterance": "for what title did mr. borgnine receive the most awards?",
+      "id": "nt-5102"
+    },
+    {
+      "targetValue": "Best Actor",
+      "utterance": "which did he win more, best foreign actor or best actor?",
+      "id": "nt-5205"
+    },
+    {
+      "targetValue": "McHale's Navy",
+      "utterance": "mr. borgnine was nominated for an emmy as a lead in only one series. what series was it?",
+      "id": "nt-9105"
+    },
+    {
+      "targetValue": "All Dogs Go to Heaven: The Series",
+      "utterance": "what was the only tv show this actor was nominated for a daytime emmy award for?",
+      "id": "nt-9332"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many total awards did he win?",
+      "id": "nt-10188"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many awards did this actor win?",
+      "id": "nt-10786"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times did marty win the award for best actor?",
+      "id": "nt-11691"
+    },
+    {
+      "targetValue": "Marty",
+      "utterance": "an nbr award and a nyfcc award were both given to this actor for his role in what film?",
+      "id": "nt-11800"
+    },
+    {
+      "targetValue": "56 years",
+      "utterance": "how long after his first best actor academy award, did mr. borgnine receive his screen actors guild life acheivement award?",
+      "id": "nt-13731"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "was he nominated more than he actually won?",
+      "id": "nt-14090"
+    }
+  ],
+  "metadata": {
+    "title": "Ernest Borgnine",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=161436&oldid=601884738",
+    "tableIndex": 0,
+    "hashcode": "2d00e60792a2f9cbd073f4fe1c632e1c89d6273b",
+    "id": 161436,
+    "revision": 601884738
+  }
+}

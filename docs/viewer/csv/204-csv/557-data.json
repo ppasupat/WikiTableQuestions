@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Toronto 228th Battalion",
+      "utterance": "what was the first team that toronto lost to?",
+      "id": "nt-142"
+    },
+    {
+      "targetValue": "January",
+      "utterance": "which month had the most games?",
+      "id": "nt-393"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "which was a higher scoring game, game #1 or #7?",
+      "id": "nt-1222"
+    },
+    {
+      "targetValue": "Ottawa Senators",
+      "utterance": "did toronto or ottawa senators win on january 6th?",
+      "id": "nt-2737"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many points did toronto have more than montreal in their first game?",
+      "id": "nt-3681"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many home games did toronto play?",
+      "id": "nt-7864"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many consecutive numbers are listed?",
+      "id": "nt-8656"
+    },
+    {
+      "targetValue": "Toronto",
+      "utterance": "what is the name of first visitor on this chart?",
+      "id": "nt-8715"
+    },
+    {
+      "targetValue": "December 27",
+      "utterance": "which date had the least amount of points listed?",
+      "id": "nt-12111"
+    },
+    {
+      "targetValue": "1 month",
+      "utterance": "how long was the first half of the season?",
+      "id": "nt-12667"
+    }
+  ],
+  "metadata": {
+    "title": "1916–17 Toronto Hockey Club season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=24026542&oldid=584803181",
+    "tableIndex": 2,
+    "hashcode": "49c3480c5f0d647113134e4d95f7a8dba9cbc642",
+    "id": 24026542,
+    "revision": 584803181
+  }
+}

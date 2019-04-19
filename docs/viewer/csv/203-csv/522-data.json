@@ -1,0 +1,56 @@
+{
+  "examples": [
+    {
+      "targetValue": "New Orleans Saints",
+      "utterance": "against which opponent was there the greatest attendance?",
+      "id": "nt-2932"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of games in which one team was left with a score of 0?",
+      "id": "nt-3144"
+    },
+    {
+      "targetValue": "87",
+      "utterance": "what was the difference in attendance from week 1 and week 12?",
+      "id": "nt-9038"
+    },
+    {
+      "targetValue": [
+        "Chicago Bears",
+        "San Francisco 49ers",
+        "San Diego Chargers"
+      ],
+      "utterance": "which teams did they lose to?",
+      "id": "nt-9186"
+    },
+    {
+      "targetValue": "November 14",
+      "utterance": "which game date shows the least in the final score for a win?",
+      "id": "nt-11638"
+    },
+    {
+      "targetValue": "Green Bay Packers",
+      "utterance": "which is the only opponent to have used the lambeau field?",
+      "id": "nt-12202"
+    },
+    {
+      "targetValue": "8-2",
+      "utterance": "what was the team record during the 10th week of the season?",
+      "id": "nt-12540"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many consecutive wins took place in october?",
+      "id": "nt-12559"
+    }
+  ],
+  "metadata": {
+    "title": "1971 Minnesota Vikings season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10361272&oldid=566216608",
+    "tableIndex": 1,
+    "hashcode": "f0744ceece354491bd4886bb94449be30f8781c2",
+    "id": 10361272,
+    "revision": 566216608
+  }
+}

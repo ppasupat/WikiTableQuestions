@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Tohru Ukawa",
+      "utterance": "who earned the most points at the 250cc valencian community motorcycle grand prix?",
+      "id": "nt-4597"
+    },
+    {
+      "targetValue": "Shinya Nakano",
+      "utterance": "which rider is listed in the position after loris capirossi?",
+      "id": "nt-6939"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many riders got more than 10 points?",
+      "id": "nt-7317"
+    },
+    {
+      "targetValue": "Aprilia",
+      "utterance": "what is the last manufacturer listed?",
+      "id": "nt-7654"
+    },
+    {
+      "targetValue": "Jarno Janssen",
+      "utterance": "who was the last person to complete the 250cc valencian community motorcycle grand prix?",
+      "id": "nt-9667"
+    },
+    {
+      "targetValue": "Tohru Ukawa",
+      "utterance": "nama player that rode a honda and also placed.",
+      "id": "nt-9745"
+    },
+    {
+      "targetValue": "Honda",
+      "utterance": "which manufacturer was used by the most riders?",
+      "id": "nt-9956"
+    },
+    {
+      "targetValue": "David Garcia",
+      "utterance": "name a player that got no points.",
+      "id": "nt-10595"
+    },
+    {
+      "targetValue": "Alex Debón",
+      "utterance": "nama player that rode a honda and did not place.",
+      "id": "nt-11904"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many riders scored no points at all?",
+      "id": "nt-12139"
+    }
+  ],
+  "metadata": {
+    "title": "1999 Valencian Community motorcycle Grand Prix",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20153019&oldid=573517648",
+    "tableIndex": 1,
+    "hashcode": "03d20b841bd80f403b2643eac3e1f0834424e462",
+    "id": 20153019,
+    "revision": 573517648
+  }
+}

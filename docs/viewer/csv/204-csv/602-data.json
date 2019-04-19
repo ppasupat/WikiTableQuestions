@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many players weighed more than 210?",
+      "id": "nt-2945"
+    },
+    {
+      "targetValue": "JD Scholten",
+      "utterance": "who is the tallest all-time player?",
+      "id": "nt-8055"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many players were taller than 6'0?",
+      "id": "nt-8994"
+    },
+    {
+      "targetValue": "24",
+      "utterance": "how many players on the saskatoon legends team made the all-time roster?",
+      "id": "nt-9138"
+    },
+    {
+      "targetValue": "Bienvenido Feliz",
+      "utterance": "which all-time player is after derek cockroft?",
+      "id": "nt-9593"
+    },
+    {
+      "targetValue": "Floyd Youmans",
+      "utterance": "who was the first player born?",
+      "id": "nt-11282"
+    },
+    {
+      "targetValue": "Jose Olmeda",
+      "utterance": "which player is taller, brown or olmeda?",
+      "id": "nt-13390"
+    }
+  ],
+  "metadata": {
+    "title": "Saskatoon Legends",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3962875&oldid=545024924",
+    "tableIndex": 0,
+    "hashcode": "f2ca09ff041bb22360a4495f3c5c97c1d571b7dc",
+    "id": 3962875,
+    "revision": 545024924
+  }
+}

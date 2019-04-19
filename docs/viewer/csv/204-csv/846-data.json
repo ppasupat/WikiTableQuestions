@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "99",
+      "utterance": "what is the difference in attendance in tie no 1 and 4?",
+      "id": "nt-561"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "which tie number has the same score as tie number 5?",
+      "id": "nt-1877"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "did tie number 4 or tie number 6 have higher attendance?",
+      "id": "nt-3703"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "what is the total number of teams listed?",
+      "id": "nt-7007"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many games had a score of 2-3 or 3-2?",
+      "id": "nt-8995"
+    },
+    {
+      "targetValue": "third",
+      "utterance": "which crowd was bigger, the first or third game?",
+      "id": "nt-9266"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "which tie number did not have any attendance?",
+      "id": "nt-9731"
+    },
+    {
+      "targetValue": "Kramfors IF (N)",
+      "utterance": "which home team brought the greatest number of attendance?",
+      "id": "nt-10130"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "which tie no had the least attendants?",
+      "id": "nt-10289"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times out of the 8 matches did the home team win?",
+      "id": "nt-12494"
+    },
+    {
+      "targetValue": "D2",
+      "utterance": "is ludvika ffl a d3 or a d2?",
+      "id": "nt-12725"
+    }
+  ],
+  "metadata": {
+    "title": "1948 Svenska Cupen",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33513051&oldid=596391808",
+    "tableIndex": 3,
+    "hashcode": "77de9e7c6ad1b29bf036387509c1da1965ec3758",
+    "id": 33513051,
+    "revision": 596391808
+  }
+}

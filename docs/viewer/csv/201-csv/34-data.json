@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "Unser stiller Mann",
+      "utterance": "which film has their role as regina?",
+      "id": "nt-5339"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times was nina hagan the evil queen?",
+      "id": "nt-8148"
+    },
+    {
+      "targetValue": "Pankow '95",
+      "utterance": "what did nina hagan perform in after cha-cha?",
+      "id": "nt-11666"
+    }
+  ],
+  "metadata": {
+    "title": "Nina Hagen",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=464271&oldid=602177218",
+    "tableIndex": 0,
+    "hashcode": "87041ae5fdf5590ff4b9a0f01ad6edf1c7e5b8f2",
+    "id": 464271,
+    "revision": 602177218
+  }
+}

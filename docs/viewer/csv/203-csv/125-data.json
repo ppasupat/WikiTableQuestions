@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many clubs were runner-ups after the year 2000?",
+      "id": "nt-2132"
+    },
+    {
+      "targetValue": "2009",
+      "utterance": "which was the last year that the supercup got canceled?",
+      "id": "nt-2163"
+    },
+    {
+      "targetValue": "FC Swarovski Tirol / FC Tirol Innsbruck",
+      "utterance": "which club has played in the most supercups without winning?",
+      "id": "nt-3054"
+    },
+    {
+      "targetValue": "2000",
+      "utterance": "what was the first year that grazer ak won a performance?",
+      "id": "nt-4593"
+    },
+    {
+      "targetValue": "2004",
+      "utterance": "what was the last year that fk austria wien won the austrian supercup?",
+      "id": "nt-10121"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times has sk sturm graz been the runner-ups?",
+      "id": "nt-12020"
+    },
+    {
+      "targetValue": "FC Kärnten",
+      "utterance": "vfb admira wacker modling has the same number of wins as what other team?",
+      "id": "nt-12429"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many years was sk sturm graz winner?",
+      "id": "nt-12785"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many teams have not ever won the supercup?",
+      "id": "nt-13367"
+    }
+  ],
+  "metadata": {
+    "title": "Austrian Supercup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4159240&oldid=582034210",
+    "tableIndex": 0,
+    "hashcode": "3a9d2ea07a2427bb028e780c8eb1fa7779368e67",
+    "id": 4159240,
+    "revision": 582034210
+  }
+}

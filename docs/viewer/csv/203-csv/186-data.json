@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Otho Venius",
+      "utterance": "which painter has a higher mark for drawing jacopo bassano or otho venius?",
+      "id": "nt-833"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total number of painters who scored 12 in composition?",
+      "id": "nt-1647"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many artist scored zero marks in color?",
+      "id": "nt-3078"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many artists scored 0 for expression?",
+      "id": "nt-4669"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many painters received a mark of 14 for color?",
+      "id": "nt-11127"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "how many painters received a color mark below 10?",
+      "id": "nt-12680"
+    },
+    {
+      "targetValue": "Pietro Testa",
+      "utterance": "name one of the painters that was last in rank for color.",
+      "id": "nt-12700"
+    },
+    {
+      "targetValue": [
+        "Charles Le Brun",
+        "Guercino",
+        "Raphael",
+        "Rubens"
+      ],
+      "utterance": "which artists scored at least 16 for composition?",
+      "id": "nt-13030"
+    }
+  ],
+  "metadata": {
+    "title": "Roger de Piles",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6735375&oldid=589876485",
+    "tableIndex": 0,
+    "hashcode": "c645b0273ef68363d26a4dd78051c48adab9c30b",
+    "id": 6735375,
+    "revision": 589876485
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "16",
+      "utterance": "the average number of points",
+      "id": "nt-497"
+    },
+    {
+      "targetValue": "Eric Chitty",
+      "utterance": "which rider who was not from the united kingdom had the least final points?",
+      "id": "nt-2433"
+    },
+    {
+      "targetValue": "Alec Statham",
+      "utterance": "the least number of points belongs to whom?",
+      "id": "nt-2531"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what is hisor her total semifinal points to qualify for the 12th position?",
+      "id": "nt-2893"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many american riders were present?",
+      "id": "nt-4204"
+    },
+    {
+      "targetValue": "UK",
+      "utterance": "which country had the most riders?",
+      "id": "nt-5214"
+    },
+    {
+      "targetValue": "Alec Statham",
+      "utterance": "which rider from the uk the least amount of total points?",
+      "id": "nt-6646"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many riders scored at least 10 final points?",
+      "id": "nt-7435"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many total points did eric langton score?",
+      "id": "nt-8241"
+    },
+    {
+      "targetValue": "Jack Milne",
+      "utterance": "their final points is equal to 15",
+      "id": "nt-8415"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many semi-finals had points more than 10?",
+      "id": "nt-8766"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many riders were not from the united states?",
+      "id": "nt-9879"
+    },
+    {
+      "targetValue": "Jack Parker",
+      "utterance": "which rider from the united kingdom had the most total points?",
+      "id": "nt-14062"
+    }
+  ],
+  "metadata": {
+    "title": "1937 Individual Speedway World Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13739146&oldid=573471106",
+    "tableIndex": 0,
+    "hashcode": "6f573263e3e539cdd14edc171ccf3d9434dd2e8c",
+    "id": 13739146,
+    "revision": 573471106
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "1985",
+      "utterance": "did 1979 or 1985 have the larger finish place?",
+      "id": "nt-979"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "in how many years was the finish 7th?",
+      "id": "nt-2665"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many engines were not cosworth's?",
+      "id": "nt-3343"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many chassis in the 80's were penske's?",
+      "id": "nt-3368"
+    },
+    {
+      "targetValue": "March",
+      "utterance": "what chassis is previous to year 1989?",
+      "id": "nt-4483"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "how many consecutive years are listed?",
+      "id": "nt-4832"
+    },
+    {
+      "targetValue": "Cosworth",
+      "utterance": "what is the average engine type listed?",
+      "id": "nt-5354"
+    },
+    {
+      "targetValue": "1985",
+      "utterance": "in what year did the buick engine start in 1st?",
+      "id": "nt-13107"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "in 1979 how many places did the cosworth engine decrease from start to finish?",
+      "id": "nt-13626"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of times pancho carter finished the indy 500 in the top 10>?",
+      "id": "nt-14140"
+    }
+  ],
+  "metadata": {
+    "title": "Pancho Carter",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5410726&oldid=588004132",
+    "tableIndex": 2,
+    "hashcode": "5e2accaee34da4773b33cedca8de6fe6db92a42c",
+    "id": 5410726,
+    "revision": 588004132
+  }
+}

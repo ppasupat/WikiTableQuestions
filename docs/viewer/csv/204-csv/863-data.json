@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "St. Louis",
+      "utterance": "does st. louis or rolla have the higher population served?",
+      "id": "nt-2763"
+    },
+    {
+      "targetValue": "19,559",
+      "utterance": "what is the number of people served by the rolla station?",
+      "id": "nt-2831"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many stations originate in columbia?",
+      "id": "nt-4192"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many are charter type \"g\"?",
+      "id": "nt-7304"
+    },
+    {
+      "targetValue": "Jefferson City Access TV 81 (JCTV)",
+      "utterance": "which station name has the same amount of population served as lincoln university?",
+      "id": "nt-7773"
+    },
+    {
+      "targetValue": "Jefferson City",
+      "utterance": "which has the least number of people served, black jack or jefferson city?",
+      "id": "nt-9747"
+    },
+    {
+      "targetValue": "319,294",
+      "utterance": "what is the top population served on the chart",
+      "id": "nt-10029"
+    },
+    {
+      "targetValue": [
+        "Warrensburg",
+        "http://www.ucmo.edu/orgrequest/orgview.cfm?caorgID=529"
+      ],
+      "utterance": "what is the last city/county and population served and web site",
+      "id": "nt-12469"
+    }
+  ],
+  "metadata": {
+    "title": "List of public-access TV stations in the United States (Louisiana–Montana)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=32223537&oldid=596308281",
+    "tableIndex": 7,
+    "hashcode": "5d0183322fe27fa25d29b92ebf8fc7474ac8574f",
+    "id": 32223537,
+    "revision": 596308281
+  }
+}

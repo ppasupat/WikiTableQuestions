@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Nieuport 27",
+      "utterance": "are there any other aircraft listed besides the nieuport 17?",
+      "id": "nt-3159"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many consecutive victories included an enemy aircraft as the foe?",
+      "id": "nt-3770"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "is the number of enemy aircraft more or less than the other foes combined?",
+      "id": "nt-4164"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what number is previous to 13 february 1918 @ 0915 hours?",
+      "id": "nt-7187"
+    },
+    {
+      "targetValue": "Val d'Assa",
+      "utterance": "in the month of december 1917, what confirmed victory location came before asiago?",
+      "id": "nt-7503"
+    },
+    {
+      "targetValue": "30 January 1918 @ 1000 hours",
+      "utterance": "what is the date after number 4?",
+      "id": "nt-8450"
+    },
+    {
+      "targetValue": "Val d'Assa",
+      "utterance": "what is the next location listed after fonsazo?",
+      "id": "nt-9015"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "at least how many aircrafts were forced to land",
+      "id": "nt-10869"
+    },
+    {
+      "targetValue": "4 May 1918 @ 1025 hours",
+      "utterance": "when was the last battle?",
+      "id": "nt-12032"
+    },
+    {
+      "targetValue": "Enemy fighter",
+      "utterance": "was the foe an enemy aircraft or enemy fighter on 4 may 1918 @ 1025 hours?",
+      "id": "nt-12878"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "is the number of \"confirmed victories\" in 1917 greater than or less than those in 1918?",
+      "id": "nt-13502"
+    }
+  ],
+  "metadata": {
+    "title": "Giovanni Nicelli",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=38936925&oldid=577968895",
+    "tableIndex": 0,
+    "hashcode": "bdd84338742ccfe803b93d649fab091898e4994c",
+    "id": 38936925,
+    "revision": 577968895
+  }
+}

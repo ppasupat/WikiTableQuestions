@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "variety show",
+      "utterance": "what type of show is running man?",
+      "id": "nt-884"
+    },
+    {
+      "targetValue": "2008",
+      "utterance": "is year 2008 or 2009 viewed on network mnet?",
+      "id": "nt-2124"
+    },
+    {
+      "targetValue": "Let's Go Dream Team! Season 2",
+      "utterance": "what was the show previous to music bank in 2009",
+      "id": "nt-7452"
+    },
+    {
+      "targetValue": "2011-12",
+      "utterance": "between what years was tears of the antarctic shown?",
+      "id": "nt-9029"
+    },
+    {
+      "targetValue": "Music Bank",
+      "utterance": "what show was he in before running man",
+      "id": "nt-10575"
+    },
+    {
+      "targetValue": "2012",
+      "utterance": "when is the last year as listed?",
+      "id": "nt-11931"
+    },
+    {
+      "targetValue": "Let's Go Dream Team! Season 2",
+      "utterance": "what is the name of the title listed before music bank?",
+      "id": "nt-12368"
+    },
+    {
+      "targetValue": "MBC",
+      "utterance": "what is the name of the last network listed on this chart?",
+      "id": "nt-14015"
+    }
+  ],
+  "metadata": {
+    "title": "Song Joong-ki",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30608805&oldid=602051507",
+    "tableIndex": 2,
+    "hashcode": "cf117191a7f3b64d625851fb774d3389675e276d",
+    "id": 30608805,
+    "revision": 602051507
+  }
+}

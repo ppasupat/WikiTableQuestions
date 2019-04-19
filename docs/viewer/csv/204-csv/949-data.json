@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Adele",
+      "utterance": "does adele or chisu have the highest number of sales?",
+      "id": "nt-3268"
+    },
+    {
+      "targetValue": "Koodi",
+      "utterance": "which was the last album to sell over 100,000 records?",
+      "id": "nt-3313"
+    },
+    {
+      "targetValue": "Chillaa",
+      "utterance": "what album is listed before 21?",
+      "id": "nt-3735"
+    },
+    {
+      "targetValue": "Vain elämää",
+      "utterance": "tell me what album had the most sold.",
+      "id": "nt-4350"
+    },
+    {
+      "targetValue": "Hunningolla",
+      "utterance": "which album had the least amount of sales?",
+      "id": "nt-5508"
+    },
+    {
+      "targetValue": "650396",
+      "utterance": "what is the total number of sales for the top 10 albums?",
+      "id": "nt-6265"
+    },
+    {
+      "targetValue": "Vain elämää",
+      "utterance": "which was better selling, hunningolla or vain elamaa?",
+      "id": "nt-8879"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many albums sold for than 50,000 copies this year?",
+      "id": "nt-11805"
+    },
+    {
+      "targetValue": "Koodi",
+      "utterance": "tell me an album that had the same artist as chillaa.",
+      "id": "nt-12039"
+    },
+    {
+      "targetValue": "Vain elämää",
+      "utterance": "what was the top selling album in this year?",
+      "id": "nt-13233"
+    },
+    {
+      "targetValue": "Vain elämää",
+      "utterance": "which album has the highest number of sales but doesn't have a designated artist?",
+      "id": "nt-14148"
+    }
+  ],
+  "metadata": {
+    "title": "List of number-one albums of 2012 (Finland)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=34290984&oldid=552471600",
+    "tableIndex": 0,
+    "hashcode": "2f831b721a918c1abe0d863607a04f41532b6bb4",
+    "id": 34290984,
+    "revision": 552471600
+  }
+}

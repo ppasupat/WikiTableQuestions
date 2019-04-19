@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "at how many competitions did irina jump above 1.9 meters?",
+      "id": "nt-1987"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of world indoor championships appearances gordeeva has made?",
+      "id": "nt-3180"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many top 3 finishes does gordeeva have?",
+      "id": "nt-4318"
+    },
+    {
+      "targetValue": "World Youth Championships",
+      "utterance": "which competition has the least notes?",
+      "id": "nt-5659"
+    },
+    {
+      "targetValue": "2003",
+      "utterance": "what year did it only take place in sherbrooke, canada?",
+      "id": "nt-10232"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "in how many competitions has irina gordeeva finished higher than 10th but lower than fourth?",
+      "id": "nt-12560"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many venues are there?",
+      "id": "nt-13195"
+    }
+  ],
+  "metadata": {
+    "title": "Irina Gordeeva",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=26325994&oldid=598619513",
+    "tableIndex": 0,
+    "hashcode": "6b48b6bc279ddeb61c5c2ff4b355d28859606d90",
+    "id": 26325994,
+    "revision": 598619513
+  }
+}

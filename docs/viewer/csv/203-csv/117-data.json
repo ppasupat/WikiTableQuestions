@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "560,195",
+      "utterance": "what is the total number of immigrants from africa?",
+      "id": "nt-1022"
+    },
+    {
+      "targetValue": "8,248",
+      "utterance": "what is the total number of immigrants from the netherlands?",
+      "id": "nt-2755"
+    },
+    {
+      "targetValue": "1,242,941",
+      "utterance": "whats the total number of immigrants from 1990-2001?",
+      "id": "nt-3808"
+    },
+    {
+      "targetValue": "521",
+      "utterance": "what is the total number of immigrants since 1882 from bolivia?",
+      "id": "nt-7578"
+    },
+    {
+      "targetValue": "Soviet Union (Europe)",
+      "utterance": "which country had the larger total of births?",
+      "id": "nt-9588"
+    },
+    {
+      "targetValue": "79",
+      "utterance": "how many immigrants came from cuba in the period 1972-1979?",
+      "id": "nt-10116"
+    },
+    {
+      "targetValue": "Jordan",
+      "utterance": "which country had the least number of recorded births?",
+      "id": "nt-10171"
+    },
+    {
+      "targetValue": "1,336,801",
+      "utterance": "what is the largest number of births recorded?",
+      "id": "nt-11401"
+    }
+  ],
+  "metadata": {
+    "title": "Aliyah",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=351513&oldid=601994656",
+    "tableIndex": 1,
+    "hashcode": "59906d2dd37eb02ba52d38966a73451b60da4129",
+    "id": 351513,
+    "revision": 601994656
+  }
+}

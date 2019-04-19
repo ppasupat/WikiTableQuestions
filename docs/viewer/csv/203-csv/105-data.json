@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Industrial Exposition Building",
+      "utterance": "which building has 8 floors and is 240 ft tall?",
+      "id": "nt-711"
+    },
+    {
+      "targetValue": "792",
+      "utterance": "how tall is it to the top of the ids tower in feet?",
+      "id": "nt-4309"
+    },
+    {
+      "targetValue": "Metropolitan Building",
+      "utterance": "which building has the same number of floors as the lumber exchange building?",
+      "id": "nt-5642"
+    },
+    {
+      "targetValue": "32",
+      "utterance": "how many floors does the foshay tower have?",
+      "id": "nt-8687"
+    },
+    {
+      "targetValue": "1 year",
+      "utterance": "how long did the lumber exchange building stand as the tallest building?",
+      "id": "nt-8887"
+    },
+    {
+      "targetValue": "IDS Tower",
+      "utterance": "name the tallest building.",
+      "id": "nt-9476"
+    },
+    {
+      "targetValue": "Metropolitan Building",
+      "utterance": "is the metropolitan building or the lumber exchange building taller?",
+      "id": "nt-9903"
+    },
+    {
+      "targetValue": "Globe Building",
+      "utterance": "what was the first building named as the tallest?",
+      "id": "nt-10812"
+    },
+    {
+      "targetValue": "Foshay Tower",
+      "utterance": "after ids tower what is the second tallest building in minneapolis?",
+      "id": "nt-11845"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many buildings on the list are taller than 200 feet?",
+      "id": "nt-13848"
+    }
+  ],
+  "metadata": {
+    "title": "List of tallest buildings in Minneapolis",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11530565&oldid=599656996",
+    "tableIndex": 3,
+    "hashcode": "57803fed1829fc951f2dbbaa99ae2538013b543a",
+    "id": 11530565,
+    "revision": 599656996
+  }
+}

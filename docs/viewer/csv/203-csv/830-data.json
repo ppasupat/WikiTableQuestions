@@ -1,0 +1,88 @@
+{
+  "examples": [
+    {
+      "targetValue": "\"You're Gettin' to Me Again\"",
+      "utterance": "which track is at the top of the us chart?",
+      "id": "nt-216"
+    },
+    {
+      "targetValue": [
+        "1969",
+        "1983",
+        "1984"
+      ],
+      "utterance": "which years saw the release of three singles?",
+      "id": "nt-1046"
+    },
+    {
+      "targetValue": "The Man in the Mirror",
+      "utterance": "which album contained the most successful song in the charts?",
+      "id": "nt-2177"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what was the biggest difference in years between album release dates?",
+      "id": "nt-3876"
+    },
+    {
+      "targetValue": "Past the Point of No Return",
+      "utterance": "what was the next album released after \"the man in the mirror\"?",
+      "id": "nt-5172"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many songs were not on albums, being only released as a single?",
+      "id": "nt-8317"
+    },
+    {
+      "targetValue": "\"You're Gettin' to Me Again\"",
+      "utterance": "which song of his reached number 1 in the us charts?",
+      "id": "nt-8520"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many songs were released after 1977?",
+      "id": "nt-9791"
+    },
+    {
+      "targetValue": [
+        "1968",
+        "1973",
+        "1976"
+      ],
+      "utterance": "which years had the least number of singles released?",
+      "id": "nt-10520"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many songs made it into the top 10 us charts?",
+      "id": "nt-11586"
+    },
+    {
+      "targetValue": "\"You're Gettin' to Me Again\"",
+      "utterance": "which song had the highest us country position?",
+      "id": "nt-12189"
+    },
+    {
+      "targetValue": "Past the Point of No Return",
+      "utterance": "\"i'll be your fool tonight\" and \"in another minute\" were on what album?",
+      "id": "nt-12738"
+    },
+    {
+      "targetValue": [
+        "Past the Point of No Return",
+        "Everybody Knows I'm Yours"
+      ],
+      "utterance": "which album did not have more than one song reach the charts?",
+      "id": "nt-13713"
+    }
+  ],
+  "metadata": {
+    "title": "Jim Glaser",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17549792&oldid=579977867",
+    "tableIndex": 1,
+    "hashcode": "4d9704ba6e5f48876eacd0b3fd63fb4e562eb386",
+    "id": 17549792,
+    "revision": 579977867
+  }
+}

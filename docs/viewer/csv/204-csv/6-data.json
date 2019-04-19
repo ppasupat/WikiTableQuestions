@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "1694",
+      "utterance": "what is the total population in dzhebariki-khaya?",
+      "id": "nt-29"
+    },
+    {
+      "targetValue": "Bayagantaysky Nasleg (Áàÿãàíòàéñêèé íàñëåã)",
+      "utterance": "which rural settlement has the most males in their population?",
+      "id": "nt-3853"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many cities are below 1000 in population?",
+      "id": "nt-5328"
+    }
+  ],
+  "metadata": {
+    "title": "Tomponsky District",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19835220&oldid=588839953",
+    "tableIndex": 0,
+    "hashcode": "1253610dc54c0fc56efb386f80227e7e925b5b5b",
+    "id": 19835220,
+    "revision": 588839953
+  }
+}

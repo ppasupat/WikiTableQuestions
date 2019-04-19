@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Yes",
+      "utterance": "in 1997/98 season was the place at least 15th?",
+      "id": "nt-2671"
+    },
+    {
+      "targetValue": "1995/96",
+      "utterance": "what is his/her best ranking season?",
+      "id": "nt-4036"
+    },
+    {
+      "targetValue": "1st",
+      "utterance": "what is the highest place that is listed in the table?",
+      "id": "nt-4078"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "what is the total number of seasons listed on the chat?",
+      "id": "nt-4898"
+    },
+    {
+      "targetValue": "Below",
+      "utterance": "in season 1996/97 was the place above or below 10th?",
+      "id": "nt-8224"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "previous to the 1995/96 season, how many 9th place finishes were there?",
+      "id": "nt-8858"
+    },
+    {
+      "targetValue": "1995/96",
+      "utterance": "what was the team's best season?",
+      "id": "nt-8924"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "after the 1994/95 season, how many first place finishes did the club have?",
+      "id": "nt-9249"
+    }
+  ],
+  "metadata": {
+    "title": "Zalla UC",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4150608&oldid=596202769",
+    "tableIndex": 0,
+    "hashcode": "2c76b88a07a0a73018c47c8709fe820f3d733bcc",
+    "id": 4150608,
+    "revision": 596202769
+  }
+}

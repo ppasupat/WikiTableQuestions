@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "9",
+      "utterance": "how many seats were in the parliament for the february 27, 1994 election?",
+      "id": "nt-1955"
+    },
+    {
+      "targetValue": "16 years",
+      "utterance": "how long from the first election date did the elections go on?",
+      "id": "nt-4205"
+    },
+    {
+      "targetValue": "Blocul electoral \"Convenţia Democrată din Moldova\" (CDM)",
+      "utterance": "which party/alliance has more than 300,000 votes?",
+      "id": "nt-8405"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "name the election that only had 9,046 votes.",
+      "id": "nt-10086"
+    },
+    {
+      "targetValue": "2001",
+      "utterance": "which election cycle yielded more parliament seats won: 1994, or 2001?",
+      "id": "nt-11212"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many total elections have there been?",
+      "id": "nt-11846"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "compared to 1998, what is the difference in seats won in the 2001 election cycle?",
+      "id": "nt-12295"
+    }
+  ],
+  "metadata": {
+    "title": "Christian-Democratic People's Party (Moldova)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=425760&oldid=594813372",
+    "tableIndex": 0,
+    "hashcode": "b0c5a73afca0323f6d712df99462630104869765",
+    "id": 425760,
+    "revision": 594813372
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "how many wins are listed for the season?",
+      "id": "nt-1538"
+    },
+    {
+      "targetValue": "win",
+      "utterance": "did the team win or lose more games?",
+      "id": "nt-1582"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many games did the team win while not at home?",
+      "id": "nt-2631"
+    },
+    {
+      "targetValue": "above",
+      "utterance": "were the results of the game of november 14 above or below the results of the october 17 game?",
+      "id": "nt-3311"
+    },
+    {
+      "targetValue": "Oregon State",
+      "utterance": "who was their last opponent of the season?",
+      "id": "nt-7204"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "between september 26 and october 24, how many games were played in eugene, or?",
+      "id": "nt-9323"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the number of away games ?",
+      "id": "nt-11291"
+    },
+    {
+      "targetValue": "Rose Bowl",
+      "utterance": "which bowl game did the university of oregon ducks football team play in during the 1987 season?",
+      "id": "nt-11853"
+    }
+  ],
+  "metadata": {
+    "title": "1987 Oregon Ducks football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41108719&oldid=582070733",
+    "tableIndex": 0,
+    "hashcode": "17d35ec48edf985a185a64001e41e5246bd849af",
+    "id": 41108719,
+    "revision": 582070733
+  }
+}

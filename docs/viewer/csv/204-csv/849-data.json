@@ -1,0 +1,51 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Morocco",
+        "France",
+        "Spain"
+      ],
+      "utterance": "what counties had the least participants for the race?",
+      "id": "nt-23"
+    },
+    {
+      "targetValue": "8:18.78",
+      "utterance": "what is the average time of the medal winners?",
+      "id": "nt-2449"
+    },
+    {
+      "targetValue": "Morocco",
+      "utterance": "what was the nationality of the first ranked competitor?",
+      "id": "nt-4602"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many racers finished the race in under 8:21:00?",
+      "id": "nt-9129"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many medals were won by kenya?",
+      "id": "nt-9875"
+    },
+    {
+      "targetValue": "Thomas Chorny",
+      "utterance": "who was the first person of the race to break the nine minute mark?",
+      "id": "nt-9968"
+    },
+    {
+      "targetValue": "Reuben Kosgei",
+      "utterance": "who was the first runner to place from kenya?",
+      "id": "nt-12081"
+    }
+  ],
+  "metadata": {
+    "title": "Athletics at the 2001 Goodwill Games – Results",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41270744&oldid=585164734",
+    "tableIndex": 9,
+    "hashcode": "e536ac698539e0aa67dc92aded6dee9fba6b12e7",
+    "id": 41270744,
+    "revision": 585164734
+  }
+}

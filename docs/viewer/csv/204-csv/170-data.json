@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Fred Rehor",
+      "utterance": "who weighed the most?",
+      "id": "nt-1913"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many players were taller and weighed more than frank millard?",
+      "id": "nt-4737"
+    },
+    {
+      "targetValue": "Cedric C. Smith",
+      "utterance": "who was the tallest fullback?",
+      "id": "nt-6066"
+    },
+    {
+      "targetValue": "Halfback",
+      "utterance": "james bland catlett and john maulbetsch played which position in common?",
+      "id": "nt-6385"
+    },
+    {
+      "targetValue": "Robert W. Watson",
+      "utterance": "which player had the same number of games started as william d. cochran?",
+      "id": "nt-6924"
+    },
+    {
+      "targetValue": "Fred Rehor",
+      "utterance": "which player weighed the most on the letter winners roster?",
+      "id": "nt-8251"
+    },
+    {
+      "targetValue": "Maurice F. Dunne",
+      "utterance": "which roster letter winner weighed the least?",
+      "id": "nt-9797"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many players weighed more than 200 pounds?",
+      "id": "nt-10122"
+    },
+    {
+      "targetValue": "Frank Millard",
+      "utterance": "who was the smallest player?",
+      "id": "nt-11680"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many players were from ann arbor?",
+      "id": "nt-11808"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the number of games that lawrence roehm started in?",
+      "id": "nt-12935"
+    }
+  ],
+  "metadata": {
+    "title": "1915 Michigan Wolverines football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=25729704&oldid=575629312",
+    "tableIndex": 1,
+    "hashcode": "bdb370fb9f6601ed9992844481178f5bf30b34af",
+    "id": 25729704,
+    "revision": 575629312
+  }
+}

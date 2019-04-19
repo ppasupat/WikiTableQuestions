@@ -1,0 +1,73 @@
+{
+  "examples": [
+    {
+      "targetValue": "20",
+      "utterance": "what is the difference in runners-up from coleraine academical institution and royal school dungannon?",
+      "id": "nt-116"
+    },
+    {
+      "targetValue": [
+        "Royal Belfast Academical Institution",
+        "Campbell College"
+      ],
+      "utterance": "which schools have the largest number of shared titles?",
+      "id": "nt-169"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "did belfast royal academy have more or less total finals than ballyclare high school?",
+      "id": "nt-1399"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many schools have at least 5 outright titles?",
+      "id": "nt-1550"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many schools have had at least 3 share titles?",
+      "id": "nt-1553"
+    },
+    {
+      "targetValue": "1996",
+      "utterance": "what was the last year that the regent house grammar school won a title?",
+      "id": "nt-4559"
+    },
+    {
+      "targetValue": [
+        "The Royal School, Armagh",
+        "Portora Royal School"
+      ],
+      "utterance": "which two schools each had twelve total finals?",
+      "id": "nt-6358"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what number of total finals does foyle college have?",
+      "id": "nt-6712"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many schools had above 5 outright titles?",
+      "id": "nt-7411"
+    },
+    {
+      "targetValue": "The Royal School, Armagh",
+      "utterance": "which school has the same number of outright titles as the coleraine academical institution?",
+      "id": "nt-8275"
+    },
+    {
+      "targetValue": "Campbell College",
+      "utterance": "who has the most recent title win, campbell college or regent house grammar school?",
+      "id": "nt-11404"
+    }
+  ],
+  "metadata": {
+    "title": "Ulster Schools' Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2445349&oldid=600372194",
+    "tableIndex": 0,
+    "hashcode": "f00e7bc2d20cdc2fdde86331444108321461255d",
+    "id": 2445349,
+    "revision": 600372194
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of russian participants in this set of semifinals?",
+      "id": "nt-830"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "which country had the most finishers in the top 8?",
+      "id": "nt-4713"
+    },
+    {
+      "targetValue": "2:02.64",
+      "utterance": "the last runner crossed the finish line in 2:03.01. what was the previous time for the 7th runner?",
+      "id": "nt-6206"
+    },
+    {
+      "targetValue": "Liliana Barbulescu",
+      "utterance": "what is the name of the top finalist of this semifinals heat?",
+      "id": "nt-7061"
+    },
+    {
+      "targetValue": "Brazil",
+      "utterance": "which south american country placed after irina vashentseva?",
+      "id": "nt-7362"
+    },
+    {
+      "targetValue": "2:00.11",
+      "utterance": "anna zagorska recieved 2nd place, what was her time?",
+      "id": "nt-11431"
+    },
+    {
+      "targetValue": "2.95",
+      "utterance": "what was the time difference between the first place finisher and the eighth place finisher?",
+      "id": "nt-11806"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many runners finished with their time below 2:01?",
+      "id": "nt-13383"
+    },
+    {
+      "targetValue": "2:00.11",
+      "utterance": "in regards to anna zagorska, what was her finishing time?",
+      "id": "nt-13929"
+    }
+  ],
+  "metadata": {
+    "title": "Athletics at the 2003 Summer Universiade – Women's 800 metres",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=40662614&oldid=575024464",
+    "tableIndex": 1,
+    "hashcode": "cd257d7b5754c2aa341e46ad8eb61a4dbd9123b2",
+    "id": 40662614,
+    "revision": 575024464
+  }
+}

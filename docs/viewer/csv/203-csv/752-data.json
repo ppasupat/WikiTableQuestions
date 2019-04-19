@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many circuits have at least 2,000 screens?",
+      "id": "nt-340"
+    },
+    {
+      "targetValue": "Georgia Theatre Company",
+      "utterance": "which circuit has the lest amount of screens?",
+      "id": "nt-2359"
+    },
+    {
+      "targetValue": "Regal Entertainment Group",
+      "utterance": "which circuit has the most sites?",
+      "id": "nt-2381"
+    },
+    {
+      "targetValue": "Regal Entertainment Group",
+      "utterance": "which circuit has the most screens?",
+      "id": "nt-3716"
+    },
+    {
+      "targetValue": "Georgia Theatre Company",
+      "utterance": "which circuit has the least amount of screens?",
+      "id": "nt-8157"
+    },
+    {
+      "targetValue": "Harkins Theatres",
+      "utterance": "what is the name of the circuit with the least amount of sites?",
+      "id": "nt-8343"
+    },
+    {
+      "targetValue": "32",
+      "utterance": "what are the number of sites national amusements have?",
+      "id": "nt-9057"
+    },
+    {
+      "targetValue": "Georgia Theatre Company",
+      "utterance": "which circuit has less screens than bow tie cinemas?",
+      "id": "nt-10645"
+    },
+    {
+      "targetValue": "Georgia Theatre Company",
+      "utterance": "which circuit is ranked last?",
+      "id": "nt-10781"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many headquarters are based outside of the us?",
+      "id": "nt-11655"
+    },
+    {
+      "targetValue": "Regal Entertainment Group",
+      "utterance": "which has the largest number of screens?",
+      "id": "nt-12771"
+    }
+  ],
+  "metadata": {
+    "title": "List of cinema and movie theater chains",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13274048&oldid=601812355",
+    "tableIndex": 0,
+    "hashcode": "840ef9799641b7d08f0286904f82ff2dab961c33",
+    "id": 13274048,
+    "revision": 601812355
+  }
+}

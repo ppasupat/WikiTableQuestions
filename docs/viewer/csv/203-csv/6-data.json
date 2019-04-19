@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "13",
+      "utterance": "what is the total number of international goals that holosko has scored?",
+      "id": "nt-816"
+    },
+    {
+      "targetValue": "Štadión Antona Malatinského, Trnava, Slovakia",
+      "utterance": "what is the name of the venue where the last competition was played?",
+      "id": "nt-2916"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what were the number of times san marino was an opponent?",
+      "id": "nt-3574"
+    },
+    {
+      "targetValue": "San Marino",
+      "utterance": "against which team did holosko score the most goals?",
+      "id": "nt-6607"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many games were in uefa or world cup qualifying matches?",
+      "id": "nt-7393"
+    },
+    {
+      "targetValue": "16 November 2005",
+      "utterance": "what was the first date of the first international competition?",
+      "id": "nt-7775"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many goals were scored against spain on november 2005?",
+      "id": "nt-10249"
+    }
+  ],
+  "metadata": {
+    "title": "Filip Hološko",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8735695&oldid=601013456",
+    "tableIndex": 0,
+    "hashcode": "32e54cb151b1e7f99334f9eb62e33390556f9f29",
+    "id": 8735695,
+    "revision": 601013456
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "The Name of the Game",
+      "utterance": "what title is at the top of the table?",
+      "id": "nt-66"
+    },
+    {
+      "targetValue": "Herogasm",
+      "utterance": "what title appears before \"the self-preservation society\"?",
+      "id": "nt-257"
+    },
+    {
+      "targetValue": "276",
+      "utterance": "how long was the big ride?",
+      "id": "nt-750"
+    },
+    {
+      "targetValue": "The Name of the Game",
+      "utterance": "which collection made the top of the list?",
+      "id": "nt-1455"
+    },
+    {
+      "targetValue": "Highland Laddie",
+      "utterance": "which collection was above the big ride?",
+      "id": "nt-2335"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many were not part of \"the boys\" collected material?",
+      "id": "nt-2377"
+    },
+    {
+      "targetValue": "The Name of the Game",
+      "utterance": "what was the name of the first title released?",
+      "id": "nt-3229"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many were released in march or april of any year?",
+      "id": "nt-5993"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how may releases were after the year 2009?",
+      "id": "nt-6043"
+    },
+    {
+      "targetValue": "152",
+      "utterance": "the name of the game and over the hill with the sword of a thousand men were on what page number?",
+      "id": "nt-11335"
+    },
+    {
+      "targetValue": "The Name of the Game",
+      "utterance": "which collection was the most collectable?",
+      "id": "nt-11373"
+    }
+  ],
+  "metadata": {
+    "title": "The Boys (comics)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5625031&oldid=600448652",
+    "tableIndex": 0,
+    "hashcode": "dcf8db154594e552f0f504926ba3df9466f13407",
+    "id": 5625031,
+    "revision": 600448652
+  }
+}

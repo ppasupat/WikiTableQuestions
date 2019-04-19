@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "what was the total number of districts within the state of godara?",
+      "id": "nt-2228"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of kingdoms that have more than 300 villages?",
+      "id": "nt-2231"
+    },
+    {
+      "targetValue": "Chokha Singh",
+      "utterance": "he was the king of the sihag kingdom.",
+      "id": "nt-5294"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "does punia have more or less villages than godara?",
+      "id": "nt-5813"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many districts does punia have?",
+      "id": "nt-6201"
+    },
+    {
+      "targetValue": "Johiya",
+      "utterance": "which kingdom contained the second most villages, next only to godara?",
+      "id": "nt-7229"
+    },
+    {
+      "targetValue": "Beniwal",
+      "utterance": "what is the next kingdom listed after sihag?",
+      "id": "nt-7636"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many kingdoms are listed?",
+      "id": "nt-8300"
+    },
+    {
+      "targetValue": "600",
+      "utterance": "what are the number of villages johiya has according to this chart?",
+      "id": "nt-10961"
+    },
+    {
+      "targetValue": "Godara",
+      "utterance": "which kingdom has the most villages?",
+      "id": "nt-12788"
+    }
+  ],
+  "metadata": {
+    "title": "Jangladesh",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13153823&oldid=590705298",
+    "tableIndex": 0,
+    "hashcode": "c5cec7b112d9ff2893126d64d3e4e38585cde597",
+    "id": 13153823,
+    "revision": 590705298
+  }
+}

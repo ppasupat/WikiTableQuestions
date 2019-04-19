@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "11",
+      "utterance": "how many times was there a winner?",
+      "id": "nt-454"
+    },
+    {
+      "targetValue": "Hard",
+      "utterance": "which surface was played on the least?",
+      "id": "nt-1197"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the number of runner ups in the chart?",
+      "id": "nt-2311"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the most consecutive tournaments won by andrea koch benvenuto?",
+      "id": "nt-6019"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "tell me the number of hard surface courts.",
+      "id": "nt-6910"
+    },
+    {
+      "targetValue": "Yerevan, Armenia",
+      "utterance": "after 15 august, 2011, where does the tournament take place next?",
+      "id": "nt-6961"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "what is the total number of tournamnets on the chart?",
+      "id": "nt-7296"
+    },
+    {
+      "targetValue": "2009",
+      "utterance": "in which year did andrea koch benvenuto win more tournaments: 2006 or 2009?",
+      "id": "nt-7585"
+    },
+    {
+      "targetValue": "Bogotá, Colombia",
+      "utterance": "what was the last tournament she won?",
+      "id": "nt-13715"
+    }
+  ],
+  "metadata": {
+    "title": "Andrea Koch Benvenuto",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33492180&oldid=602408931",
+    "tableIndex": 2,
+    "hashcode": "656706223ac7920075b1a7dc5b0f00e1fdec8fd5",
+    "id": 33492180,
+    "revision": 602408931
+  }
+}

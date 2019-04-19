@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "how many goals did hateley score?",
+      "id": "nt-562"
+    },
+    {
+      "targetValue": "5-2",
+      "utterance": "what was the result of the game before the game of march 9, 1968?",
+      "id": "nt-1265"
+    },
+    {
+      "targetValue": "54,075",
+      "utterance": "what is the number of people in attendance on january 30, 1968?",
+      "id": "nt-1983"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many players scored at least 2 goals during the fa cup?",
+      "id": "nt-3619"
+    },
+    {
+      "targetValue": "10 days",
+      "utterance": "how long of a period of time came between the last two games?",
+      "id": "nt-3838"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "were the results of the february 17, 1968 game the same as the results of the march 30, 1968 game?",
+      "id": "nt-4010"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the largest difference in goals scored in any game?",
+      "id": "nt-8037"
+    },
+    {
+      "targetValue": "56,000",
+      "utterance": "how many attended the 18-apr-68 match?",
+      "id": "nt-8516"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did they face the bournmouth?",
+      "id": "nt-10035"
+    }
+  ],
+  "metadata": {
+    "title": "1967–68 Liverpool F.C. season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30041153&oldid=575756836",
+    "tableIndex": 3,
+    "hashcode": "b850e1272888e199cf0e972f7e2c638877f9d15d",
+    "id": 30041153,
+    "revision": 575756836
+  }
+}

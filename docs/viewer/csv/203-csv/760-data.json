@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "Robert Blackwill",
+      "utterance": "who was the first ambassador extraordinary and plenipotentiary to serve in this millennium?",
+      "id": "nt-585"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many chiefs are from new york?",
+      "id": "nt-3823"
+    },
+    {
+      "targetValue": "Harry G. Barnes, Jr.",
+      "utterance": "which ambassador served after 1980, more than three years, and lived on the east coast?",
+      "id": "nt-3888"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the number of chiefs that are listed as foreign service officers?",
+      "id": "nt-12372"
+    },
+    {
+      "targetValue": "George V. Allen",
+      "utterance": "who was the only chief of mission to india from north carolina?",
+      "id": "nt-13226"
+    }
+  ],
+  "metadata": {
+    "title": "United States Ambassador to India",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14213389&oldid=602141704",
+    "tableIndex": 0,
+    "hashcode": "bd2bfb67d2b33550e474f3bb190eb4f5d7302345",
+    "id": 14213389,
+    "revision": 602141704
+  }
+}

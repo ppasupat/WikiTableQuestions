@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "European Indoor Championships",
+      "utterance": "what was galina chistyakova's last competition?",
+      "id": "nt-3450"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times after the year 1989 did she come in 1st position?",
+      "id": "nt-5943"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what are the number of times she came in 2nd position for the european championships?",
+      "id": "nt-8011"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many competitions took place outside of europe?",
+      "id": "nt-8098"
+    }
+  ],
+  "metadata": {
+    "title": "Galina Chistyakova",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3646182&oldid=577791864",
+    "tableIndex": 0,
+    "hashcode": "b405f164b21e0591ca30a83cff23fcc144680bf5",
+    "id": 3646182,
+    "revision": 577791864
+  }
+}

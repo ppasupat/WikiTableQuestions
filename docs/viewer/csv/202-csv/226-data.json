@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "CTV",
+      "utterance": "which network has the most satellite stations?",
+      "id": "nt-8444"
+    }
+  ],
+  "metadata": {
+    "title": "List of television stations in Manitoba",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=348073&oldid=572083100",
+    "tableIndex": 0,
+    "hashcode": "a1470ba09762137b65b4ef5151d85e55de681856",
+    "id": 348073,
+    "revision": 572083100
+  }
+}

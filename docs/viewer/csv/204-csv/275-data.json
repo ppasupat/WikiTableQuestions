@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of times belgrade is listed as the city?",
+      "id": "nt-1050"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "other than friendly games, how many games did serbia play in 2010?",
+      "id": "nt-2056"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many times is \"friendly\" a type of game?",
+      "id": "nt-4476"
+    },
+    {
+      "targetValue": "June 2, 2010",
+      "utterance": "what date were the results all below one?",
+      "id": "nt-6115"
+    },
+    {
+      "targetValue": "June 5, 2010",
+      "utterance": "what game had the most total goals scored?",
+      "id": "nt-6867"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the greatest difference between goals scored by serbia and its opponent?",
+      "id": "nt-7048"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many friendly games have been played?",
+      "id": "nt-8303"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what was the total number of friendly's played?",
+      "id": "nt-9530"
+    },
+    {
+      "targetValue": "Japan",
+      "utterance": "what is the first asian country that appears on this table?",
+      "id": "nt-12583"
+    }
+  ],
+  "metadata": {
+    "title": "Serbia national football team 2010–2019 results",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=27615533&oldid=589717734",
+    "tableIndex": 0,
+    "hashcode": "d9f3be5992e67e371e3ebdd59ce65ab98200988a",
+    "id": 27615533,
+    "revision": 589717734
+  }
+}

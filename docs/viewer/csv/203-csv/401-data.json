@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "9",
+      "utterance": "what number of mainlands have populations under 100,000?",
+      "id": "nt-300"
+    },
+    {
+      "targetValue": "116,000",
+      "utterance": "what is the number of people living in angus in 2011?",
+      "id": "nt-1029"
+    },
+    {
+      "targetValue": "Clackmannanshire",
+      "utterance": "which mainland has the least population?",
+      "id": "nt-3442"
+    },
+    {
+      "targetValue": "71",
+      "utterance": "what is the average population density in mainland cities?",
+      "id": "nt-3813"
+    },
+    {
+      "targetValue": "Highland",
+      "utterance": "which is the only subdivision to have a greater area than argyll and bute?",
+      "id": "nt-11105"
+    },
+    {
+      "targetValue": "Dundee City",
+      "utterance": "if you were to arrange the locations from the smallest to largest area, which one would be first on the list?",
+      "id": "nt-11944"
+    },
+    {
+      "targetValue": "326",
+      "utterance": "what is the difference in square miles from angus and fife?",
+      "id": "nt-12218"
+    },
+    {
+      "targetValue": "1121",
+      "utterance": "what is the total area of east lothian, angus, and dundee city?",
+      "id": "nt-13227"
+    }
+  ],
+  "metadata": {
+    "title": "Subdivisions of Scotland",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=357429&oldid=602245707",
+    "tableIndex": 0,
+    "hashcode": "cd1cdd8b2438e16605bd63d6a5320ab25bbf1ee6",
+    "id": 357429,
+    "revision": 602245707
+  }
+}

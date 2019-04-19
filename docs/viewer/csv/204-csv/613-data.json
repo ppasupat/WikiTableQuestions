@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "House Party",
+      "utterance": "what is the only title that ranked in two of three categories?",
+      "id": "nt-2060"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many titles do not have an album?",
+      "id": "nt-4304"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "tell me the number of non-album singles.",
+      "id": "nt-4994"
+    },
+    {
+      "targetValue": "\"Wild Boy\" (Remix)[27] (MGK featuring Steve-O, 2 Chainz, Meek Mill, Mystikal, French Montana and Yo Gotti)",
+      "utterance": "what was the next single after house party?",
+      "id": "nt-7108"
+    },
+    {
+      "targetValue": "\"My Nigga\" (Remix)[28] (YG featuring Lil Wayne, Rich Homie Quan, Meek Mill and Nicki Minaj)",
+      "utterance": "which song did he make after 2012?",
+      "id": "nt-8915"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many titles are listed?",
+      "id": "nt-10504"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many total singles has this rapper released thus far?",
+      "id": "nt-11457"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many singles were released in 2011?",
+      "id": "nt-11543"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the number of singles featured in this table?",
+      "id": "nt-11645"
+    },
+    {
+      "targetValue": "Dave Patten",
+      "utterance": "who is featured in his song \"believe me\"?",
+      "id": "nt-11915"
+    },
+    {
+      "targetValue": "\"House Party\" (featuring Young Chris)",
+      "utterance": "which song had a peak chart position of 45 and 24?",
+      "id": "nt-11965"
+    },
+    {
+      "targetValue": [
+        "\"House Party\"",
+        "(featuring Young Chris)"
+      ],
+      "utterance": "tell me the only song to get on the us rap chart.",
+      "id": "nt-13434"
+    }
+  ],
+  "metadata": {
+    "title": "Meek Mill discography",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36583092&oldid=598217211",
+    "tableIndex": 5,
+    "hashcode": "498d5881e91db8c9f4ef4e52f9db9c11112fdd7c",
+    "id": 36583092,
+    "revision": 598217211
+  }
+}

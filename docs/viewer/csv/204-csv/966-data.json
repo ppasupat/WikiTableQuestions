@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "19",
+      "utterance": "how many catalogs were released?",
+      "id": "nt-411"
+    },
+    {
+      "targetValue": "Switzerland",
+      "utterance": "what region was in the sir021-1cd catalog?",
+      "id": "nt-6625"
+    },
+    {
+      "targetValue": "Germany",
+      "utterance": "what region is above australia?",
+      "id": "nt-7746"
+    },
+    {
+      "targetValue": "Netherlands",
+      "utterance": "what region is listed at the top?",
+      "id": "nt-8122"
+    },
+    {
+      "targetValue": "Media Records",
+      "utterance": "what label was italy on?",
+      "id": "nt-9529"
+    },
+    {
+      "targetValue": "Independence Records",
+      "utterance": "what label was the only label to be used by france?",
+      "id": "nt-10081"
+    },
+    {
+      "targetValue": "vinyl, 12\"",
+      "utterance": "what format did france use?",
+      "id": "nt-10119"
+    },
+    {
+      "targetValue": "Switzerland",
+      "utterance": "what region was on the label sirup?",
+      "id": "nt-11029"
+    }
+  ],
+  "metadata": {
+    "title": "Love Comes Again",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15322968&oldid=595154755",
+    "tableIndex": 1,
+    "hashcode": "2cc09589cbb06ea65b3e280b223d66866020ba96",
+    "id": 15322968,
+    "revision": 595154755
+  }
+}

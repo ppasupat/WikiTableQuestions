@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "23",
+      "utterance": "what is the total kilometers that separates the mahanayim junction and the shipon junction?",
+      "id": "nt-1058"
+    },
+    {
+      "targetValue": "Gadot Junction",
+      "utterance": "which junction on highway 91 is closer to ein zivan, gadot junction or shipon junction?",
+      "id": "nt-4703"
+    },
+    {
+      "targetValue": "Zivan Junction",
+      "utterance": "what is the last junction on highway 91?",
+      "id": "nt-5709"
+    },
+    {
+      "targetValue": "Zivan Junction",
+      "utterance": "what junction is the furthest from mahanayim junction?",
+      "id": "nt-6458"
+    },
+    {
+      "targetValue": "Shipon Junction",
+      "utterance": "is nashot junction closer to shipon junction or avital junction?",
+      "id": "nt-8028"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the number of routes that intersect highway 91?",
+      "id": "nt-9760"
+    }
+  ],
+  "metadata": {
+    "title": "Highway 91 (Israel)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15516359&oldid=582202734",
+    "tableIndex": 0,
+    "hashcode": "d2840dc306dd6c295115c50d1195f5be73abeb28",
+    "id": 15516359,
+    "revision": 582202734
+  }
+}

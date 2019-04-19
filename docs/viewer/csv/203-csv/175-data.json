@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "what was the number of silver medals won by ukraine?",
+      "id": "nt-40"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many countries won at least 2 medals in sailing?",
+      "id": "nt-433"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the total number of medals won by united states?",
+      "id": "nt-796"
+    },
+    {
+      "targetValue": "Spain (ESP)",
+      "utterance": "which nation was the only one to receive 3 medals?",
+      "id": "nt-2087"
+    },
+    {
+      "targetValue": "Spain",
+      "utterance": "what nation was next to great britain in total medal count?",
+      "id": "nt-2490"
+    },
+    {
+      "targetValue": "Great Britain (GBR)",
+      "utterance": "which country won the most medals total?",
+      "id": "nt-7824"
+    },
+    {
+      "targetValue": [
+        "Great Britain (GBR)",
+        "Brazil (BRA)"
+      ],
+      "utterance": "who won more gold medals than spain?",
+      "id": "nt-9690"
+    },
+    {
+      "targetValue": "Great Britain",
+      "utterance": "what country had the most medals?",
+      "id": "nt-10355"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many gold medals did italy receive?",
+      "id": "nt-12710"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many countries won at least 1 gold and 1 silver medal?",
+      "id": "nt-13087"
+    }
+  ],
+  "metadata": {
+    "title": "Sailing at the 2004 Summer Olympics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=850647&oldid=600444905",
+    "tableIndex": 7,
+    "hashcode": "61f138c74fc5cd5fd840e084cb544dde38f8073e",
+    "id": 850647,
+    "revision": 600444905
+  }
+}

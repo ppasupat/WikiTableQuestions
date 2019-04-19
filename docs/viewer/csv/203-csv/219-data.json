@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "oliveira walewska has the same block as how many other players?",
+      "id": "nt-2055"
+    },
+    {
+      "targetValue": "Fabiana de Oliveira",
+      "utterance": "which player is the shortest at only 5 ft 7 in?",
+      "id": "nt-3015"
+    },
+    {
+      "targetValue": "Fabiana Claudino",
+      "utterance": "who is the next tallest player after thaisa menezes?",
+      "id": "nt-4858"
+    },
+    {
+      "targetValue": "Sheilla Castro",
+      "utterance": "whose weight is the heaviest among the following: fabiana de oliveira, helia souza, or sheilla castro?",
+      "id": "nt-11594"
+    }
+  ],
+  "metadata": {
+    "title": "Brazil at the 2008 Summer Olympics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15108864&oldid=576243242",
+    "tableIndex": 49,
+    "hashcode": "034461ffa87e7e6a2b65c64fdf59880c8e947d59",
+    "id": 15108864,
+    "revision": 576243242
+  }
+}

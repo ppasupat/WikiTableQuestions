@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Johannes Ludwig",
+      "utterance": "which is before david moller",
+      "id": "nt-1611"
+    },
+    {
+      "targetValue": "Canada",
+      "utterance": "what country was the only other one represented in the top 5?",
+      "id": "nt-2984"
+    },
+    {
+      "targetValue": "Felix Loch",
+      "utterance": "who finished at the top with a gold medal?",
+      "id": "nt-3622"
+    },
+    {
+      "targetValue": "Gregory Carigiet",
+      "utterance": "which one is previous to viktor kneyb",
+      "id": "nt-4411"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "germany had how many consecutive athletes ranked?",
+      "id": "nt-5224"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many competitors were from the same country as david moller?",
+      "id": "nt-5263"
+    },
+    {
+      "targetValue": "Andi Langenhan",
+      "utterance": "who finished after felix loch?",
+      "id": "nt-5417"
+    },
+    {
+      "targetValue": ".775",
+      "utterance": "andi langenhan and johannes ludwig came in a total of how many seconds behind first place?",
+      "id": "nt-6873"
+    },
+    {
+      "targetValue": "41",
+      "utterance": "what was the total number of competitors?",
+      "id": "nt-6950"
+    },
+    {
+      "targetValue": "David Möller",
+      "utterance": "who finished before samuel edney?",
+      "id": "nt-10875"
+    },
+    {
+      "targetValue": "+0.400",
+      "utterance": "what was the difference, in time, between the first place competitor and the third place competitor?",
+      "id": "nt-13112"
+    },
+    {
+      "targetValue": "+0.881",
+      "utterance": "how long was daniel pfister behind first place/",
+      "id": "nt-13317"
+    }
+  ],
+  "metadata": {
+    "title": "FIL World Luge Championships 2013",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=23387122&oldid=595130057",
+    "tableIndex": 2,
+    "hashcode": "56031dd6d68eb4f25146bcd730af11813e98f4c7",
+    "id": 23387122,
+    "revision": 595130057
+  }
+}

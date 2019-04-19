@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "what was his greatest number of wins in a year?",
+      "id": "nt-1643"
+    },
+    {
+      "targetValue": "$601,860",
+      "utterance": "what is the difference between his greatest amount of yearly winnings and his least?",
+      "id": "nt-1895"
+    },
+    {
+      "targetValue": "1996",
+      "utterance": "what is the last year steve grissom had at least one win?",
+      "id": "nt-1989"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "for how many year was grissom ranked a in a top 10 position in the nationwide series?",
+      "id": "nt-6799"
+    },
+    {
+      "targetValue": "1988",
+      "utterance": "what is the first year steve grissom had a top 5 finish in the nation wide series?",
+      "id": "nt-7405"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times was his average start below 20?",
+      "id": "nt-8457"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what was the greatest number of years that grissom racing enterprises had consecutive wins?",
+      "id": "nt-10055"
+    },
+    {
+      "targetValue": "601,860",
+      "utterance": "what is the difference between the greatest winnings and the least winnings?",
+      "id": "nt-10212"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many times was his average finish below 18?",
+      "id": "nt-11101"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many teams earned winnings above $100,000 between 1986-1996?",
+      "id": "nt-13753"
+    }
+  ],
+  "metadata": {
+    "title": "Steve Grissom",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2463383&oldid=602463774",
+    "tableIndex": 1,
+    "hashcode": "7d3f974818a9aedd8fd0d7de1ecab5ae9a664e95",
+    "id": 2463383,
+    "revision": 602463774
+  }
+}

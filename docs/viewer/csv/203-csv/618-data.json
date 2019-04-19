@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Austin Kearns",
+      "utterance": "picked after ryan mills?",
+      "id": "nt-2998"
+    },
+    {
+      "targetValue": "Mark Mulder",
+      "utterance": "who was the top pitcher drafted?",
+      "id": "nt-3333"
+    },
+    {
+      "targetValue": "Ryan Mills",
+      "utterance": "who is previous in the table to austin kearns?",
+      "id": "nt-4018"
+    },
+    {
+      "targetValue": "Mark Mulder",
+      "utterance": "who is listed after pat burrell?",
+      "id": "nt-5605"
+    },
+    {
+      "targetValue": "Michigan State University",
+      "utterance": "where did mark mulder go to school",
+      "id": "nt-7290"
+    },
+    {
+      "targetValue": "Cleveland Indians",
+      "utterance": "what team has cc sabathia played for?",
+      "id": "nt-8542"
+    },
+    {
+      "targetValue": "Northeastern University",
+      "utterance": "where did carlos pena go to school?",
+      "id": "nt-9244"
+    },
+    {
+      "targetValue": "Pat Burrell",
+      "utterance": "selected before mark mulder?",
+      "id": "nt-11408"
+    }
+  ],
+  "metadata": {
+    "title": "1998 Major League Baseball Draft",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18468611&oldid=599482337",
+    "tableIndex": 0,
+    "hashcode": "bdad0989641545e508366c1c9f18e95d4c2f78d1",
+    "id": 18468611,
+    "revision": 599482337
+  }
+}

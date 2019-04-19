@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "less",
+      "utterance": "did the liberal party of canada have more or less members after the dissolution of the 37th parliament of canada in the senate?",
+      "id": "nt-3584"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "after the dissolution of the 37th parliament of canada how many more house members did the new democratic party have?",
+      "id": "nt-4622"
+    },
+    {
+      "targetValue": "Liberal Party of Canada",
+      "utterance": "which party had the highest number of house members in 2000?",
+      "id": "nt-8849"
+    },
+    {
+      "targetValue": "Liberal Party of Canada",
+      "utterance": "which party has the most house members?",
+      "id": "nt-10533"
+    }
+  ],
+  "metadata": {
+    "title": "37th Canadian Parliament",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=977713&oldid=594224645",
+    "tableIndex": 1,
+    "hashcode": "9eeae469aae78c7f8590189fd3e0c28e7bf12778",
+    "id": 977713,
+    "revision": 594224645
+  }
+}

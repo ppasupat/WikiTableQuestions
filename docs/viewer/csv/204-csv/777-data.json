@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Kilkenny",
+      "utterance": "which county has the most amount of winners?",
+      "id": "nt-1117"
+    },
+    {
+      "targetValue": "Carrickshock",
+      "utterance": "who is the first winner in 2004?",
+      "id": "nt-2609"
+    },
+    {
+      "targetValue": "2012",
+      "utterance": "was clara the winner in 2012 or 2007?",
+      "id": "nt-2654"
+    },
+    {
+      "targetValue": "Kilkenny",
+      "utterance": "which county is listed before meath?",
+      "id": "nt-4085"
+    },
+    {
+      "targetValue": "Carrickshock",
+      "utterance": "who is the first winner according to this chart?",
+      "id": "nt-5265"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the total number of winners?",
+      "id": "nt-5516"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did dicksboro win the championship?",
+      "id": "nt-9171"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what are the number of times wexford is listed as the county on this chart?",
+      "id": "nt-11556"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many winners are after clonkill?",
+      "id": "nt-11910"
+    },
+    {
+      "targetValue": "Kilmessan",
+      "utterance": "which team won the championship after clonkill in 2007?",
+      "id": "nt-13220"
+    }
+  ],
+  "metadata": {
+    "title": "Leinster Intermediate Club Hurling Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7693053&oldid=584065879",
+    "tableIndex": 0,
+    "hashcode": "0901a07b9ff7b12ebbfb18681a7d88a6566bad25",
+    "id": 7693053,
+    "revision": 584065879
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "DePaul",
+      "utterance": "which team finished last in this conference this season?",
+      "id": "nt-1248"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many more schools received a single-bye than schools that received a double-bye?",
+      "id": "nt-1660"
+    },
+    {
+      "targetValue": "Louisville",
+      "utterance": "which school had the most wins overall?",
+      "id": "nt-3047"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many seeds above villanova is marquette?",
+      "id": "nt-3195"
+    },
+    {
+      "targetValue": "11-7",
+      "utterance": "syracuse and notre dame had the same final conference record of what during this season?",
+      "id": "nt-7649"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what is the number of games that depaul won during this season?",
+      "id": "nt-10616"
+    },
+    {
+      "targetValue": "DePaul",
+      "utterance": "which school had the least wins in the conference?",
+      "id": "nt-12030"
+    },
+    {
+      "targetValue": "Louisville",
+      "utterance": "what school had the most wins overall?",
+      "id": "nt-13373"
+    }
+  ],
+  "metadata": {
+    "title": "2013 Big East Men's Basketball Tournament",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=35131052&oldid=598725335",
+    "tableIndex": 0,
+    "hashcode": "d17da9f93088206b82dd1f286095e7af227b80aa",
+    "id": 35131052,
+    "revision": 598725335
+  }
+}

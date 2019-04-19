@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many times did the team come in 9th place?",
+      "id": "nt-1900"
+    },
+    {
+      "targetValue": "8 seasons",
+      "utterance": "how long did this team remain in the 3a division after the 2002/2003 season?",
+      "id": "nt-1957"
+    },
+    {
+      "targetValue": "2006/07",
+      "utterance": "which was a better season, 2006/07 or 2007/08?",
+      "id": "nt-2411"
+    },
+    {
+      "targetValue": "2013/14",
+      "utterance": "the two level 6 seasons were 2012/13 and what other season?",
+      "id": "nt-8843"
+    },
+    {
+      "targetValue": "2002/03",
+      "utterance": "which season came in last place?",
+      "id": "nt-9187"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the total number of level 4 seasons?",
+      "id": "nt-9843"
+    },
+    {
+      "targetValue": "6th",
+      "utterance": "what place did this team finish immediately after the 2008/2009 season?",
+      "id": "nt-11466"
+    },
+    {
+      "targetValue": "2011/12",
+      "utterance": "which season was the only season to come in 18th?",
+      "id": "nt-12630"
+    }
+  ],
+  "metadata": {
+    "title": "Ribadesella CF",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7999968&oldid=595307888",
+    "tableIndex": 1,
+    "hashcode": "2ca707b89b70f7c107e946008bddecf932bc95fc",
+    "id": 7999968,
+    "revision": 595307888
+  }
+}

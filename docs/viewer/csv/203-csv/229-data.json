@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "John Mack",
+      "utterance": "the green bay packers after miami dolphins chose which player?",
+      "id": "nt-293"
+    },
+    {
+      "targetValue": "John Mack",
+      "utterance": "who was picked directly before ken riley?",
+      "id": "nt-879"
+    },
+    {
+      "targetValue": "Denver Broncos",
+      "utterance": "which team picked directly after the detroit lions chose gary steele?",
+      "id": "nt-7420"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what was the total number of linebackers chosen in round 17 of the 1969 nfl draft?",
+      "id": "nt-7441"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many defensive back players were picked?",
+      "id": "nt-8125"
+    },
+    {
+      "targetValue": "Florida",
+      "utterance": "larry rentz was drafted to the san diego chargers, but what was his college?",
+      "id": "nt-8417"
+    },
+    {
+      "targetValue": "Buffalo Bills",
+      "utterance": "what team had the first pick in round 17 of the 1969 nfl draft?",
+      "id": "nt-10028"
+    },
+    {
+      "targetValue": "25",
+      "utterance": "how many different players are listed in this table?",
+      "id": "nt-11947"
+    },
+    {
+      "targetValue": "Wendell Housely",
+      "utterance": "the chicago bears drafted bob long who went to the same college as what other player that was also drafter in round 17 of the 1969 nft draft?",
+      "id": "nt-13627"
+    }
+  ],
+  "metadata": {
+    "title": "1969 NFL Draft",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5614491&oldid=597457716",
+    "tableIndex": 16,
+    "hashcode": "10f3dee9ba4832501664520134f31802478f164d",
+    "id": 5614491,
+    "revision": 597457716
+  }
+}

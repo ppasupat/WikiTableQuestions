@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "1952",
+        "1956",
+        "1960",
+        "1964"
+      ],
+      "utterance": "in which years did at least 60% of black voters vote democrat between 148 and 1964?",
+      "id": "nt-2709"
+    },
+    {
+      "targetValue": "48",
+      "utterance": "what is the average percent of vitors of farmers of all years listed?",
+      "id": "nt-5276"
+    },
+    {
+      "targetValue": "Grade School educated",
+      "utterance": "which group of voters is listed below high school educated?",
+      "id": "nt-5423"
+    },
+    {
+      "targetValue": "Grade School educated",
+      "utterance": "which group of voters had a higher percentage of voters in 1952, grade school educated or white collar?",
+      "id": "nt-7121"
+    },
+    {
+      "targetValue": "Farmer",
+      "utterance": "does the white group or the farmer group have the larger percentage in 1956?",
+      "id": "nt-7536"
+    },
+    {
+      "targetValue": "Black",
+      "utterance": "which group has the most votes in 1964?",
+      "id": "nt-7706"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "is the percentage of voting college educated in 1960 more or less than the previous year?",
+      "id": "nt-8195"
+    },
+    {
+      "targetValue": "77",
+      "utterance": "how many union member voters voted democrat in 1964?",
+      "id": "nt-8214"
+    },
+    {
+      "targetValue": "Manual worker",
+      "utterance": "what group had the next highest percentage of voters after union members in 1948?",
+      "id": "nt-10004"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many groups are listed in the year 1948?",
+      "id": "nt-11421"
+    },
+    {
+      "targetValue": "Democrat",
+      "utterance": "what group had the largest voting % in 1956?",
+      "id": "nt-12548"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "what is the difference between white voters and black voters in 1948?",
+      "id": "nt-13457"
+    }
+  ],
+  "metadata": {
+    "title": "New Deal coalition",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=86217&oldid=602333272",
+    "tableIndex": 0,
+    "hashcode": "11b879c898dbb8ea4ca591340eca5e77f594286a",
+    "id": 86217,
+    "revision": 602333272
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "Jim Rathmann",
+      "utterance": "troy ruttman was entered by the same person as which other driver?",
+      "id": "nt-1518"
+    },
+    {
+      "targetValue": "Jack Fairman",
+      "utterance": "did jimmy bryan or jack fairman have a \"d\" tyre?",
+      "id": "nt-1562"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what was the total number of us drivers?",
+      "id": "nt-3438"
+    },
+    {
+      "targetValue": "Ferrari",
+      "utterance": "what was the only engine used one time?",
+      "id": "nt-3979"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many racers had an offenhauser engine?",
+      "id": "nt-5206"
+    },
+    {
+      "targetValue": "Bob Veith",
+      "utterance": "who is listed above jeean behra?",
+      "id": "nt-5833"
+    },
+    {
+      "targetValue": "Ninian Sanderson",
+      "utterance": "who was the last driver to finish driving a jaguar?",
+      "id": "nt-5998"
+    },
+    {
+      "targetValue": [
+        "Kuzma",
+        "Offenhauser"
+      ],
+      "utterance": "what kind of chassis and engine did the fastest driver drive?",
+      "id": "nt-7425"
+    },
+    {
+      "targetValue": "Novi (s/c)",
+      "utterance": "tony bettenhausen and paul russo drove cars with what kind of engine?",
+      "id": "nt-9231"
+    },
+    {
+      "targetValue": "Johnnie Parsons",
+      "utterance": "who was the last driver on the list?",
+      "id": "nt-9484"
+    },
+    {
+      "targetValue": "Mario Bornigia",
+      "utterance": "which driver is listed after pat o'connor?",
+      "id": "nt-12053"
+    },
+    {
+      "targetValue": "Mario Bornigia",
+      "utterance": "who is the only driver to use a ferrari chassis?",
+      "id": "nt-12593"
+    }
+  ],
+  "metadata": {
+    "title": "Race of Two Worlds",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13414712&oldid=572623823",
+    "tableIndex": 0,
+    "hashcode": "233a22655fa1cf4f3f0683d9b7e896ade2f2837c",
+    "id": 13414712,
+    "revision": 572623823
+  }
+}

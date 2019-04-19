@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many provinces have the same number of districts as kabul?",
+      "id": "nt-397"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "how many provinces have pashto as one of their languages",
+      "id": "nt-1648"
+    },
+    {
+      "targetValue": "Kabul",
+      "utterance": "what province in afghanistanhas the greatest population?",
+      "id": "nt-3948"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many districts are in the province of kunduz?",
+      "id": "nt-4054"
+    },
+    {
+      "targetValue": "Farah",
+      "utterance": "does ghor or farah have more districts?",
+      "id": "nt-4513"
+    },
+    {
+      "targetValue": "Ghazni",
+      "utterance": "what province is listed previous to ghor?",
+      "id": "nt-4782"
+    },
+    {
+      "targetValue": "28",
+      "utterance": "how many provinces in afghanistan speak dari persian?",
+      "id": "nt-6713"
+    },
+    {
+      "targetValue": "Nurestan",
+      "utterance": "give the province with the least population",
+      "id": "nt-8414"
+    },
+    {
+      "targetValue": "Badakhshan",
+      "utterance": "which province has the most districts?",
+      "id": "nt-9753"
+    },
+    {
+      "targetValue": "Dari Persian, Pashto",
+      "utterance": "herat has a population of 1,182,000, can you list their languages",
+      "id": "nt-10247"
+    }
+  ],
+  "metadata": {
+    "title": "Outline of Afghanistan",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16278349&oldid=598110036",
+    "tableIndex": 0,
+    "hashcode": "e34334f7039e41e17332c67c40a9ce927afaf13f",
+    "id": 16278349,
+    "revision": 598110036
+  }
+}

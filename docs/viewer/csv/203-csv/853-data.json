@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "how many away games did the bridgeport barrage have?",
+      "id": "nt-1043"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many games did the barrage play in july and august?",
+      "id": "nt-4061"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the most consecutive wins the barrage have had this season?",
+      "id": "nt-6846"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the total amount of wins that the bridgeport barrage had in 2002?",
+      "id": "nt-7009"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "what is the most points that the barrage have scored at home?",
+      "id": "nt-11941"
+    },
+    {
+      "targetValue": "Away",
+      "utterance": "did they win more and home or away?",
+      "id": "nt-11964"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what was the difference in score between the barrage and the lizards on june 2.",
+      "id": "nt-12466"
+    }
+  ],
+  "metadata": {
+    "title": "2002 Bridgeport Barrage season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12165583&oldid=523096442",
+    "tableIndex": 0,
+    "hashcode": "ea8be3df3e5c72785f32da8005ec7a6be9bcfaf4",
+    "id": 12165583,
+    "revision": 523096442
+  }
+}

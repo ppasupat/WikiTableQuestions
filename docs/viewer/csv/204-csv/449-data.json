@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "\"Episode Ten\"",
+      "utterance": "what episode had the most viewers?",
+      "id": "nt-261"
+    },
+    {
+      "targetValue": "20 July 2011",
+      "utterance": "when did the last episode air?",
+      "id": "nt-800"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many episodes had less than .9 viewers?",
+      "id": "nt-1425"
+    },
+    {
+      "targetValue": "0.982",
+      "utterance": "how many viewers watched episode 6?",
+      "id": "nt-4388"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive ranks at number 11 did the titles get?",
+      "id": "nt-5050"
+    },
+    {
+      "targetValue": "below",
+      "utterance": "is episode 6 nightly rank above or below 11?",
+      "id": "nt-5127"
+    },
+    {
+      "targetValue": "\"Episode Ten\"",
+      "utterance": "which episode had at least 1.0 viewers?",
+      "id": "nt-5182"
+    },
+    {
+      "targetValue": "0.953",
+      "utterance": "how many viewers watched the episode together we are one?",
+      "id": "nt-5348"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many episodes had a nightly rank of 11?",
+      "id": "nt-5389"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what were the number of episodes in the second season?",
+      "id": "nt-5922"
+    },
+    {
+      "targetValue": "0.997",
+      "utterance": "how many viewers watched the season finale?",
+      "id": "nt-8330"
+    },
+    {
+      "targetValue": "\"Baby Bumps\" (Part 2)",
+      "utterance": "what is the name of the episode that comes after \"the return\"?",
+      "id": "nt-12518"
+    }
+  ],
+  "metadata": {
+    "title": "Offspring (series 2)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30596531&oldid=599984327",
+    "tableIndex": 1,
+    "hashcode": "35bbe74bf4d42ef3ebfccb15436709dc149ba776",
+    "id": 30596531,
+    "revision": 599984327
+  }
+}

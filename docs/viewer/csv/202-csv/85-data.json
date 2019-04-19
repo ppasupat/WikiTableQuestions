@@ -1,0 +1,56 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many current teams have been in existence for 25 years or greater?",
+      "id": "nt-529"
+    },
+    {
+      "targetValue": "2001",
+      "utterance": "when were the madison mallards established?",
+      "id": "nt-1500"
+    },
+    {
+      "targetValue": "Edgewood Eagles",
+      "utterance": "which team has the most championships?",
+      "id": "nt-4990"
+    },
+    {
+      "targetValue": "Wisconsin Badgers",
+      "utterance": "which of the madison sports teams was established first?",
+      "id": "nt-6021"
+    },
+    {
+      "targetValue": [
+        "Wisconsin Badgers",
+        "Edgewood Eagles",
+        "Madison College Wolfpack"
+      ],
+      "utterance": "which teams have won at least 20 championships?",
+      "id": "nt-7258"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many madison sports teams have won at least 2 championships?",
+      "id": "nt-8323"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many current ncaa teams exist?",
+      "id": "nt-9410"
+    },
+    {
+      "targetValue": "102 years",
+      "utterance": "how long has it been since the madison college wolfpack was established?",
+      "id": "nt-10498"
+    }
+  ],
+  "metadata": {
+    "title": "Madison, Wisconsin",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=57863&oldid=602213400",
+    "tableIndex": 1,
+    "hashcode": "20320d44b57c939676ad2fee448d69b518dbbba4",
+    "id": 57863,
+    "revision": 602213400
+  }
+}

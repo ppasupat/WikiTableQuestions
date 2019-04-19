@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "0",
+      "utterance": "how many populations at most have any notes?",
+      "id": "nt-76"
+    },
+    {
+      "targetValue": "Yanglin",
+      "utterance": "which division has the most people?",
+      "id": "nt-3230"
+    },
+    {
+      "targetValue": "20,600",
+      "utterance": "what is the total population for yanglin?",
+      "id": "nt-4001"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many divisions had a population of at least 15,000?",
+      "id": "nt-4846"
+    },
+    {
+      "targetValue": "400",
+      "utterance": "what is the difference in population between daping and shaoshan?",
+      "id": "nt-5156"
+    },
+    {
+      "targetValue": "Yanglin",
+      "utterance": "which division had the larger area?",
+      "id": "nt-6690"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "in 2005, how many divisions had at least a population of at least 15,000?",
+      "id": "nt-10216"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "does the ruyi have the same population as the yongyi?",
+      "id": "nt-10600"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "which divisions had a population below 15,000 in 2005?",
+      "id": "nt-13681"
+    },
+    {
+      "targetValue": "49,400",
+      "utterance": "what is the total population in 2005 of qingxi, ruyi, and daping combined?",
+      "id": "nt-13969"
+    }
+  ],
+  "metadata": {
+    "title": "Shaoshan",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=213296&oldid=587339925",
+    "tableIndex": 0,
+    "hashcode": "ddb6c8539d588d0f8de4847ae3f0714a737f6420",
+    "id": 213296,
+    "revision": 587339925
+  }
+}

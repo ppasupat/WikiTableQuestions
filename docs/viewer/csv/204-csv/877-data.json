@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Liam Dickinson",
+      "utterance": "what player has one fa cup and one fl trophy?",
+      "id": "nt-724"
+    },
+    {
+      "targetValue": "Benyon",
+      "utterance": "who scored more, grant or benyon?",
+      "id": "nt-1000"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many players play either mf or df?",
+      "id": "nt-1414"
+    },
+    {
+      "targetValue": "Kane Ferdinand",
+      "utterance": "who was the top scorer from ireland?",
+      "id": "nt-1720"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did eastwood score?",
+      "id": "nt-6096"
+    },
+    {
+      "targetValue": "Elliot Benyon",
+      "utterance": "what player is listed above freddy eastwood?",
+      "id": "nt-7434"
+    },
+    {
+      "targetValue": "Ryan Hall",
+      "utterance": "who is the only player to have 3 fl trophies?",
+      "id": "nt-9110"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many players that are represented in the top scorers chart are from england?",
+      "id": "nt-9959"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many players have values from the fa cup?",
+      "id": "nt-10815"
+    },
+    {
+      "targetValue": "4.6",
+      "utterance": "what is the average number of points a given player scored in league two?",
+      "id": "nt-10999"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what number of players scored in the league cup?",
+      "id": "nt-11103"
+    },
+    {
+      "targetValue": "Ireland",
+      "utterance": "where are kane ferdinand and michael timlin from?",
+      "id": "nt-12449"
+    }
+  ],
+  "metadata": {
+    "title": "2011–12 Southend United F.C. season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=32271796&oldid=595179965",
+    "tableIndex": 2,
+    "hashcode": "b19b3813964535afd971ff4baf605ec570db1aa8",
+    "id": 32271796,
+    "revision": 595179965
+  }
+}

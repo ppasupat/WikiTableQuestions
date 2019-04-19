@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "how many losses during stretch?",
+      "id": "nt-3277"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "games above 30,000 in attendance",
+      "id": "nt-3871"
+    },
+    {
+      "targetValue": "28",
+      "utterance": "what was the total number of games played in august 2007?",
+      "id": "nt-8876"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "largest run differential",
+      "id": "nt-13203"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "number of wins during stretch",
+      "id": "nt-13498"
+    }
+  ],
+  "metadata": {
+    "title": "2007 Seattle Mariners season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9172045&oldid=580982185",
+    "tableIndex": 5,
+    "hashcode": "e403de56da5546623a4d790554b694ea075280c8",
+    "id": 9172045,
+    "revision": 580982185
+  }
+}

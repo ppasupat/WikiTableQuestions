@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "Aprilia",
+      "utterance": "name a manufacturer other than honda?",
+      "id": "nt-773"
+    },
+    {
+      "targetValue": "Rodney Fee",
+      "utterance": "which rider names canada as his/her hometown?",
+      "id": "nt-2434"
+    },
+    {
+      "targetValue": "Ralf Waldmann",
+      "utterance": "who was the top finisher for germany?",
+      "id": "nt-3066"
+    },
+    {
+      "targetValue": "Max Biaggi",
+      "utterance": "does max biaggi or ralf waldmann have more points?",
+      "id": "nt-3686"
+    },
+    {
+      "targetValue": "Luis Maurel",
+      "utterance": "which rider scored the least amount of points?",
+      "id": "nt-3849"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "how many number of riders rode motorcycles by honda?",
+      "id": "nt-5106"
+    },
+    {
+      "targetValue": "25",
+      "utterance": "how many points did the first place finisher receive?",
+      "id": "nt-5675"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many total riders rode a yamaha bike?",
+      "id": "nt-9953"
+    },
+    {
+      "targetValue": "34",
+      "utterance": "what is the number of riders listed?",
+      "id": "nt-10195"
+    },
+    {
+      "targetValue": "Loris Capirossi",
+      "utterance": "who was the only rider with more points than doriano romboni?",
+      "id": "nt-10283"
+    },
+    {
+      "targetValue": "Loris Capirossi",
+      "utterance": "who has the most points?",
+      "id": "nt-11051"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many points did nobuatsu aoki earn?",
+      "id": "nt-12326"
+    },
+    {
+      "targetValue": "Honda",
+      "utterance": "who is the manufacturer for loris capirossi and ralf waldmann?",
+      "id": "nt-12677"
+    }
+  ],
+  "metadata": {
+    "title": "1994 French motorcycle Grand Prix",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17526605&oldid=594347425",
+    "tableIndex": 1,
+    "hashcode": "4f4b8dada0b5079fb84bc9ebb4b1b704fd94fa5b",
+    "id": 17526605,
+    "revision": 594347425
+  }
+}

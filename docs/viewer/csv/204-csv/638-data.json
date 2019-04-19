@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "no",
+      "utterance": "was each tournament on a hard surface?",
+      "id": "nt-1418"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "are all the years consecutive?",
+      "id": "nt-7074"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many were carpet courts?",
+      "id": "nt-7438"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what is the total number of carpet surfaces used?",
+      "id": "nt-8986"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "did john mcenroe score at least 7 points i'm the 1991 game",
+      "id": "nt-9659"
+    },
+    {
+      "targetValue": "Jimmy Connors",
+      "utterance": "who was the first player to win at wimbledon?",
+      "id": "nt-9677"
+    },
+    {
+      "targetValue": "New York City",
+      "utterance": "where was the tournament before the 1982 tournament in philadelphia held?",
+      "id": "nt-10333"
+    },
+    {
+      "targetValue": "John McEnroe",
+      "utterance": "who won the last tourament?",
+      "id": "nt-12167"
+    },
+    {
+      "targetValue": "John McEnroe",
+      "utterance": "who won the most?",
+      "id": "nt-12574"
+    },
+    {
+      "targetValue": "1989",
+      "utterance": "what was the last year where connors won?",
+      "id": "nt-12780"
+    }
+  ],
+  "metadata": {
+    "title": "Connors–McEnroe rivalry",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=23265332&oldid=569823917",
+    "tableIndex": 0,
+    "hashcode": "2034ca3d6d3b7031499e7facd42d72b7ee1cbe55",
+    "id": 23265332,
+    "revision": 569823917
+  }
+}

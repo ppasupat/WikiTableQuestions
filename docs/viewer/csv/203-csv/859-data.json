@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "164",
+      "utterance": "how many goals did the flyers allow in the 1973-74 season, the least in the league?",
+      "id": "nt-2958"
+    },
+    {
+      "targetValue": "Keith Allen",
+      "utterance": "was joe watson or keith allen the general manager of the team?",
+      "id": "nt-3481"
+    },
+    {
+      "targetValue": "87",
+      "utterance": "what total number of points did bobby clarke lead the team?",
+      "id": "nt-5633"
+    },
+    {
+      "targetValue": "Bobby Clarke",
+      "utterance": "who was the top goal scorer?",
+      "id": "nt-6177"
+    },
+    {
+      "targetValue": "273",
+      "utterance": "what were the total number of goals scored by the 1973-74 nhl west champion philadelphia flyers?",
+      "id": "nt-7439"
+    },
+    {
+      "targetValue": "273",
+      "utterance": "how many total goals did the flyers score in the 1973-74 season?",
+      "id": "nt-12351"
+    },
+    {
+      "targetValue": "17,007",
+      "utterance": "give the number of attendance for the philadelphia flyers in the 1973-74 year?",
+      "id": "nt-13690"
+    },
+    {
+      "targetValue": "78",
+      "utterance": "what were the total number of games played by the philadelphia flyers during the 1973-74 regular season?",
+      "id": "nt-14000"
+    }
+  ],
+  "metadata": {
+    "title": "1973–74 Philadelphia Flyers season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13908182&oldid=601102524",
+    "tableIndex": 4,
+    "hashcode": "390ef70f4936c73a5c9e712ec3e2f0754a3d2f18",
+    "id": 13908182,
+    "revision": 601102524
+  }
+}

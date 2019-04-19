@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many different types of diesel locomotives are dated after 1980?",
+      "id": "nt-795"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many total trains were build in 1949?",
+      "id": "nt-2186"
+    },
+    {
+      "targetValue": "21 years",
+      "utterance": "how long was the locomotive type ds4-4-750 in service with the railroad?",
+      "id": "nt-2339"
+    },
+    {
+      "targetValue": "Baldwin Locomotive Works",
+      "utterance": "who is at the top of the list?",
+      "id": "nt-3154"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many different types of diesel locomotives came from baldwin locomotive works?",
+      "id": "nt-6841"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many consecutive numbers did baldwin build?",
+      "id": "nt-7042"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many work orders were there in the 50's?",
+      "id": "nt-9443"
+    },
+    {
+      "targetValue": "Edwards Rail Car Company",
+      "utterance": "what builder comes before ss&iw?",
+      "id": "nt-9809"
+    },
+    {
+      "targetValue": "M-300",
+      "utterance": "name a train that was built after ss&iw 's.",
+      "id": "nt-11348"
+    },
+    {
+      "targetValue": "M-100",
+      "utterance": "what is the number of the only diesel locomotive from edwards rail car company?",
+      "id": "nt-13086"
+    }
+  ],
+  "metadata": {
+    "title": "California Western Railroad",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1675640&oldid=588625422",
+    "tableIndex": 1,
+    "hashcode": "540e855a929091906e8fe1bc230f69d0ac468fe2",
+    "id": 1675640,
+    "revision": 588625422
+  }
+}

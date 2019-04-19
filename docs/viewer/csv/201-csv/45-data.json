@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "Feb",
+      "utterance": "which month had the most snowfall?",
+      "id": "nt-3774"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many months in the year had their average high f(c) degrees in the range of 80s?",
+      "id": "nt-5727"
+    }
+  ],
+  "metadata": {
+    "title": "Laurel, Maryland",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=116541&oldid=601156623",
+    "tableIndex": 1,
+    "hashcode": "285a9f42c3dc5de525186c4fffadb4b866b1810f",
+    "id": 116541,
+    "revision": 601156623
+  }
+}

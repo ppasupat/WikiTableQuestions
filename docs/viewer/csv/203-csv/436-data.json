@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "1st",
+      "utterance": "in the 2009 asian championships, china took 3rd. what place did china take in the previous asian championships?",
+      "id": "nt-1785"
+    },
+    {
+      "targetValue": "2nd",
+      "utterance": "what was china's average position in the asian championships between 2002 and 2009?",
+      "id": "nt-1945"
+    },
+    {
+      "targetValue": "Manila, Philippines",
+      "utterance": "the 2009 asian championships were located in guangzhou, china. what city and country were the asian championships held in before guangzhou, china?",
+      "id": "nt-3227"
+    },
+    {
+      "targetValue": "Asian Games",
+      "utterance": "what competition is listed after the world junior championships 2002?",
+      "id": "nt-3923"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the number of times mr. wu has achieved 1st place?",
+      "id": "nt-5295"
+    },
+    {
+      "targetValue": "1.33",
+      "utterance": "what's the difference in meters between the 2004 and 2009 competitions?",
+      "id": "nt-6423"
+    },
+    {
+      "targetValue": "2004",
+      "utterance": "what was the only year mr. wu competed in the olympic games?",
+      "id": "nt-6710"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many times did wu tao came in first position?",
+      "id": "nt-7239"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times did wu tao come in less than 3rd position?",
+      "id": "nt-10469"
+    },
+    {
+      "targetValue": [
+        "2002",
+        "2003"
+      ],
+      "utterance": "in what two years did wu tao win consecutively in first position?",
+      "id": "nt-13716"
+    },
+    {
+      "targetValue": "World Junior Championships",
+      "utterance": "which competition has the highest meters listed?",
+      "id": "nt-14145"
+    }
+  ],
+  "metadata": {
+    "title": "Wu Tao",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9541291&oldid=576620205",
+    "tableIndex": 0,
+    "hashcode": "5e9a63007bbadd0b5a54a849c0a90fbeacb96b91",
+    "id": 9541291,
+    "revision": 576620205
+  }
+}

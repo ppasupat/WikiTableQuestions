@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "the independent conference and the colonial athletic association both received how many bids?",
+      "id": "nt-1546"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many quarterfinals were won by the atlantic coast conference?",
+      "id": "nt-1743"
+    },
+    {
+      "targetValue": [
+        "Ivy League",
+        "Independent"
+      ],
+      "utterance": "which conferences had 2 quarterfinal wins each?",
+      "id": "nt-4366"
+    },
+    {
+      "targetValue": "Independent",
+      "utterance": "which conference had the same number of bids as the colonial athletic association?",
+      "id": "nt-4640"
+    },
+    {
+      "targetValue": "More",
+      "utterance": "did atlantic coast conference have more or less bids than colonial athletic association?",
+      "id": "nt-4888"
+    },
+    {
+      "targetValue": "Atlantic Coast Conference",
+      "utterance": "which conference had the most bids?",
+      "id": "nt-5844"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many teams had no wins?",
+      "id": "nt-7471"
+    },
+    {
+      "targetValue": "Independent",
+      "utterance": "did atlantic coast conference or independent have a higher win percentage?",
+      "id": "nt-9981"
+    },
+    {
+      "targetValue": ".000",
+      "utterance": "what is the percentage of win to loss for the colonial athletic association?",
+      "id": "nt-10613"
+    },
+    {
+      "targetValue": "Independent",
+      "utterance": "which conference has a win percentage that is above the atlantic coast conference?",
+      "id": "nt-10970"
+    }
+  ],
+  "metadata": {
+    "title": "2009 NCAA Division I Men's Lacrosse Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17290288&oldid=581754427",
+    "tableIndex": 4,
+    "hashcode": "65616c06bec6fe6167087e6a18e982ee4a70a1c3",
+    "id": 17290288,
+    "revision": 581754427
+  }
+}

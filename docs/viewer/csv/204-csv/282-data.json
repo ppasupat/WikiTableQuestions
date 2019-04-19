@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many times was andorra the opponent?",
+      "id": "nt-2465"
+    },
+    {
+      "targetValue": "2007",
+      "utterance": "what year appears the most?",
+      "id": "nt-2712"
+    },
+    {
+      "targetValue": "Craven Cottage, London",
+      "utterance": "where was the last game of the season held?",
+      "id": "nt-3334"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive games were played in dublin in 2010?",
+      "id": "nt-5280"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many consecutive wins did the team have?",
+      "id": "nt-6775"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many games were played after 2009?",
+      "id": "nt-7184"
+    },
+    {
+      "targetValue": "Andorra",
+      "utterance": "which opponent has the same score as san marino?",
+      "id": "nt-7488"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many games were played before 2008?",
+      "id": "nt-8041"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many games only had one goal scored total?",
+      "id": "nt-11010"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of times \"friendly\" appears as a competition?",
+      "id": "nt-12195"
+    }
+  ],
+  "metadata": {
+    "title": "Kevin Doyle",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3663142&oldid=601643081",
+    "tableIndex": 0,
+    "hashcode": "8384c545c66f1361209b1cc07b210249df7ae6ce",
+    "id": 3663142,
+    "revision": 601643081
+  }
+}

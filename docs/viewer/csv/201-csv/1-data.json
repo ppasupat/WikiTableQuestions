@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Michel Deuzet",
+      "utterance": "which person had the position of a farmer?",
+      "id": "nt-484"
+    },
+    {
+      "targetValue": "34 years",
+      "utterance": "how long was stanislas le tourneur d'ison in office?",
+      "id": "nt-974"
+    },
+    {
+      "targetValue": "Patrice Martin",
+      "utterance": "which mayor was elected immediately after michel deuzet?",
+      "id": "nt-2268"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many mayors of airan were in office for over a decade?",
+      "id": "nt-2392"
+    },
+    {
+      "targetValue": "23 years",
+      "utterance": "how many years was maurice lecoq a market gardener?",
+      "id": "nt-8118"
+    },
+    {
+      "targetValue": "Patrice Martin",
+      "utterance": "which bank officer came after michel deuzet?",
+      "id": "nt-8308"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many different mayors served between 1970 and 2010?",
+      "id": "nt-8765"
+    },
+    {
+      "targetValue": "Jules Alfred Le Tourneur du Coudray",
+      "utterance": "which mayor of airan also held the position of first secretary for the minister of finance?",
+      "id": "nt-11489"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many mayors of airan had the surname d'ison?",
+      "id": "nt-12109"
+    }
+  ],
+  "metadata": {
+    "title": "Airan",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=484659&oldid=596752273",
+    "tableIndex": 0,
+    "hashcode": "173ec39e729db2d557742d54de83d99cb39bf2ee",
+    "id": 484659,
+    "revision": 596752273
+  }
+}

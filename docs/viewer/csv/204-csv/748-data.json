@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "67",
+      "utterance": "how od was alberto ginastera when he died?",
+      "id": "nt-810"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "tell me the number of french people on the list.",
+      "id": "nt-3235"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many pianists completed at least two notable works?",
+      "id": "nt-4684"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "were there more than 4 american composers listed?",
+      "id": "nt-7327"
+    },
+    {
+      "targetValue": "84 years",
+      "utterance": "how long was soulima stravinsky alive?",
+      "id": "nt-7982"
+    },
+    {
+      "targetValue": "46",
+      "utterance": "how many composers died before 1960?",
+      "id": "nt-11368"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many english composers are on this list?",
+      "id": "nt-12597"
+    }
+  ],
+  "metadata": {
+    "title": "List of piano composers",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11104545&oldid=602516583",
+    "tableIndex": 0,
+    "hashcode": "1eadb4324f8ab628d93cd1503a53b7228ea2bdb8",
+    "id": 11104545,
+    "revision": 602516583
+  }
+}

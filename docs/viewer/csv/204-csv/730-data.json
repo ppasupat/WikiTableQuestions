@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "Elena Fanchini",
+      "utterance": "who was the first place finisher at the december 2, 2005 games in lake louise?",
+      "id": "nt-2498"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many women had consecutive third place wins?",
+      "id": "nt-3518"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many third place finishes has kathrin zettel had?",
+      "id": "nt-4805"
+    },
+    {
+      "targetValue": "Nadia Styger",
+      "utterance": "who was the top competitor at the december 9, 2005 games in aspen?",
+      "id": "nt-5434"
+    },
+    {
+      "targetValue": [
+        "Tina Maze",
+        "Janica Kostelić"
+      ],
+      "utterance": "in the 2006 alpine skiing world cup, anja parson finished after which other two competitors on 22 october 2005?",
+      "id": "nt-6375"
+    },
+    {
+      "targetValue": "Emily Brydon",
+      "utterance": "who was the first canadian to place third?",
+      "id": "nt-8299"
+    },
+    {
+      "targetValue": "Spain",
+      "utterance": "did sweden or spain win first?",
+      "id": "nt-9499"
+    },
+    {
+      "targetValue": "Anja Pärson",
+      "utterance": "which skier earned first place on 15 march 2006 in the 2006 alpine skiing world cup?",
+      "id": "nt-13392"
+    }
+  ],
+  "metadata": {
+    "title": "2006 Alpine Skiing World Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3772242&oldid=595362691",
+    "tableIndex": 1,
+    "hashcode": "0594047460a80f878a34ed319659864d0ce7f112",
+    "id": 3772242,
+    "revision": 595362691
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Fiescheralp-Eggishorn",
+      "utterance": "which one has the most elevation (mountain station) on the chart",
+      "id": "nt-1093"
+    },
+    {
+      "targetValue": "Trainer 2",
+      "utterance": "which name was after trainer 1?",
+      "id": "nt-2088"
+    },
+    {
+      "targetValue": "Talegga",
+      "utterance": "what name was in the last construction year?",
+      "id": "nt-3919"
+    },
+    {
+      "targetValue": "1214",
+      "utterance": "what is the number of capacity for laxalp 2",
+      "id": "nt-4458"
+    },
+    {
+      "targetValue": "Fiesch- -alp 3+4",
+      "utterance": "which cable car is the oldest?",
+      "id": "nt-10011"
+    },
+    {
+      "targetValue": "surface lift",
+      "utterance": "is the trainer 1 a cable car or a surface lift?",
+      "id": "nt-10916"
+    },
+    {
+      "targetValue": "Fiesch- -alp 3+4",
+      "utterance": "what is the only cable car with a 2937 slope length?",
+      "id": "nt-13843"
+    }
+  ],
+  "metadata": {
+    "title": "Fiesch",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7081745&oldid=596957408",
+    "tableIndex": 0,
+    "hashcode": "13d148fd48325a6f69bf713846e1b81614d404be",
+    "id": 7081745,
+    "revision": 596957408
+  }
+}

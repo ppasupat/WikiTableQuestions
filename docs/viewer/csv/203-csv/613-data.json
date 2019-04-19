@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "PaCl5",
+      "utterance": "what is the pearson symbol for the formula with the lightest density?",
+      "id": "nt-676"
+    },
+    {
+      "targetValue": "PaCl5",
+      "utterance": "what is the formula for the compound that has a density of only 3.74 g/cm^3?",
+      "id": "nt-4118"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many compounds have a color of white?",
+      "id": "nt-4707"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many compounds are some shade of yellow in color?",
+      "id": "nt-5359"
+    },
+    {
+      "targetValue": "PaBr4",
+      "utterance": "what is the formula for the compound that has the same pearson symbol as pacl4?",
+      "id": "nt-8263"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the total number of compounds that are monoclinic in symmetry?",
+      "id": "nt-8272"
+    },
+    {
+      "targetValue": "Pa",
+      "utterance": "which formula has a density, g/cm3 of at least 15?",
+      "id": "nt-8550"
+    },
+    {
+      "targetValue": "Pa2O5",
+      "utterance": "which formula does not have an associated symmetry type?",
+      "id": "nt-12217"
+    },
+    {
+      "targetValue": "Pa",
+      "utterance": "of those listed, which compound has the highest density?",
+      "id": "nt-13207"
+    },
+    {
+      "targetValue": "23.91",
+      "utterance": "what is the total combined density of pao and pao2?",
+      "id": "nt-13845"
+    }
+  ],
+  "metadata": {
+    "title": "Protactinium",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=23322&oldid=602329586",
+    "tableIndex": 3,
+    "hashcode": "4c3ea6ad847af82c78e7c60a0d76be22fefb7c87",
+    "id": 23322,
+    "revision": 602329586
+  }
+}

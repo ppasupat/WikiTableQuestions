@@ -1,0 +1,73 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Siim Ennemuist",
+        "Andri Aganits"
+      ],
+      "utterance": "which players played the same position as ardo kreek?",
+      "id": "nt-9"
+    },
+    {
+      "targetValue": "Argo Meresaar",
+      "utterance": "kert toobal is the oldest who is the next oldest player listed?",
+      "id": "nt-1283"
+    },
+    {
+      "targetValue": "Oliver Venno",
+      "utterance": "which player is taller than andri agantis?",
+      "id": "nt-4750"
+    },
+    {
+      "targetValue": "36",
+      "utterance": "how much taller in oliver venno than rait rikberg?",
+      "id": "nt-7134"
+    },
+    {
+      "targetValue": [
+        "Ardo Kreek",
+        "Kert Toobal",
+        "Martti Juhkami",
+        "Argo Meresaar",
+        "Rait Rikberg",
+        "Edgar Järvekülg",
+        "Jaanus Nõmmsalu"
+      ],
+      "utterance": "who is at least 25 years or older?",
+      "id": "nt-7730"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many players are middle blockers?",
+      "id": "nt-8659"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many members of estonia's men's national volleyball team were born in 1988?",
+      "id": "nt-12017"
+    },
+    {
+      "targetValue": "Oliver Venno",
+      "utterance": "who is the tallest member of estonia's men's national volleyball team?",
+      "id": "nt-12277"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what are the total number of players from france?",
+      "id": "nt-12544"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many players were born before 1988?",
+      "id": "nt-12925"
+    }
+  ],
+  "metadata": {
+    "title": "Estonia men's national volleyball team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17938337&oldid=589489953",
+    "tableIndex": 2,
+    "hashcode": "300381bb40159bff50634396a5121a61e59d3f19",
+    "id": 17938337,
+    "revision": 589489953
+  }
+}

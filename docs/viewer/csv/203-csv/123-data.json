@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "\"Perpetual Motion Machine\"",
+      "utterance": "what was the last single released?",
+      "id": "nt-1266"
+    },
+    {
+      "targetValue": "\"Broke\"",
+      "utterance": "the single \"birds vs.worms\" or \"broke\" was released first?",
+      "id": "nt-2319"
+    },
+    {
+      "targetValue": "\"Perpetual Motion Machine\"",
+      "utterance": "what title is listed next in the table after autumn beds?",
+      "id": "nt-2921"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many modest mouse singles start with the letter \"b\"?",
+      "id": "nt-3454"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many consecutive singles were released under the epic label?",
+      "id": "nt-6599"
+    },
+    {
+      "targetValue": "\"Float On\"",
+      "utterance": "what was the first single released for the epic label?",
+      "id": "nt-7220"
+    },
+    {
+      "targetValue": "\"Birds vs. Worms\"",
+      "utterance": "what is the only modest mouse single released under the hit or miss label?",
+      "id": "nt-8752"
+    }
+  ],
+  "metadata": {
+    "title": "Modest Mouse discography",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5751266&oldid=579829172",
+    "tableIndex": 5,
+    "hashcode": "70586156391391afd6a6ea3be13bba54ffec402a",
+    "id": 5751266,
+    "revision": 579829172
+  }
+}

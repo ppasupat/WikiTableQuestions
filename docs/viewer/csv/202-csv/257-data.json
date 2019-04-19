@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many of the singles are under the chart of pop singles?",
+      "id": "nt-1878"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many singles were under position 1?",
+      "id": "nt-13463"
+    }
+  ],
+  "metadata": {
+    "title": "Gratitude (Earth, Wind &amp; Fire album)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2321167&oldid=600305972",
+    "tableIndex": 3,
+    "hashcode": "3b146318e7e8e59c25cf43bc9e536cf31117e337",
+    "id": 2321167,
+    "revision": 600305972
+  }
+}

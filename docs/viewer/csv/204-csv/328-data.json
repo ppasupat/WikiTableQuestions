@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "JoAnne Carner",
+      "utterance": "which player in the table has the most runners-up finishes?",
+      "id": "nt-2791"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "was the margin of victory in the lpga championship the same as in the sunstar classic?",
+      "id": "nt-3698"
+    },
+    {
+      "targetValue": "212",
+      "utterance": "what is the total score for first place in the greater baltimore classic?",
+      "id": "nt-6348"
+    },
+    {
+      "targetValue": "Bent Tree Classic",
+      "utterance": "what tournament was nancy lopez's first lpga tour win?",
+      "id": "nt-6536"
+    },
+    {
+      "targetValue": "48",
+      "utterance": "what is the number of tournaments listed on the chart?",
+      "id": "nt-9463"
+    },
+    {
+      "targetValue": "Colgate European Open",
+      "utterance": "what was the first tournament on the list that had a runner up who was not from the us?",
+      "id": "nt-11123"
+    },
+    {
+      "targetValue": "Bent Tree Classic",
+      "utterance": "what is the first tournament listed?",
+      "id": "nt-13318"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many tour wins did nancy lopez have before 1980?",
+      "id": "nt-13736"
+    }
+  ],
+  "metadata": {
+    "title": "Nancy Lopez",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=368383&oldid=597408991",
+    "tableIndex": 1,
+    "hashcode": "04af3c991a236e0c8a3a0b5db7fabe509a8ce1d3",
+    "id": 368383,
+    "revision": 597408991
+  }
+}

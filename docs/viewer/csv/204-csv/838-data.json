@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "how many years are listed?",
+      "id": "nt-6159"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many awards did this actor win for his work in my girlfriend is an agent?",
+      "id": "nt-7406"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "what is the total number of awards that he has won?",
+      "id": "nt-7707"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many awards did kang ji-hwan win before 2010?",
+      "id": "nt-8556"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "what are the total number of awards that this actor has won?",
+      "id": "nt-8799"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many awards did kang ji-hwan win after 2010?",
+      "id": "nt-11658"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many awards total are listed?",
+      "id": "nt-12079"
+    },
+    {
+      "targetValue": "Hong Gil-dong",
+      "utterance": "other than rough cut, name another movie that he won an award for in 2008.",
+      "id": "nt-12991"
+    }
+  ],
+  "metadata": {
+    "title": "Kang Ji-hwan",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14072226&oldid=598802048",
+    "tableIndex": 5,
+    "hashcode": "2285ea9c1964d2233d52339e15c0b969ab47ce5a",
+    "id": 14072226,
+    "revision": 598802048
+  }
+}

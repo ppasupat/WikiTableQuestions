@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of games that gillingham and peterborough united played in the first round proper?",
+      "id": "nt-1104"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "darlington and notts county both played in which tie in the first round proper?",
+      "id": "nt-1274"
+    },
+    {
+      "targetValue": "40",
+      "utterance": "how many games had less than 5 total goals scored?",
+      "id": "nt-2322"
+    },
+    {
+      "targetValue": "Bury",
+      "utterance": "what was the last team to win in the first round proper?",
+      "id": "nt-5200"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "what was the score of the first game blackpool played in?",
+      "id": "nt-5480"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many replays were there in the first round proper, november 1988?",
+      "id": "nt-6257"
+    },
+    {
+      "targetValue": "25",
+      "utterance": "what was the total number of home team wins in the first round proper, november 1988?",
+      "id": "nt-6954"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many replays were there?",
+      "id": "nt-6968"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "tell me a game that did not have any goals scored.",
+      "id": "nt-10766"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many consecutive games did enfield and leyton orient play in the first round proper?",
+      "id": "nt-12507"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of games played on 22 november 1988?",
+      "id": "nt-12789"
+    }
+  ],
+  "metadata": {
+    "title": "1988–89 FA Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17751811&oldid=594044648",
+    "tableIndex": 0,
+    "hashcode": "82680a6f8e96365b164c46a128780b8dccb20c78",
+    "id": 17751811,
+    "revision": 594044648
+  }
+}

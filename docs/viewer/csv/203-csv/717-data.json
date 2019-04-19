@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Operational",
+      "utterance": "are the most trains operational or do they have another status listed?",
+      "id": "nt-286"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what is the number of operational vehicles listed?",
+      "id": "nt-2327"
+    },
+    {
+      "targetValue": "Plymouth and Blackburn tramcars",
+      "utterance": "the #11 tram has the same design elements as...",
+      "id": "nt-2590"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "which is the only pink car?",
+      "id": "nt-6109"
+    },
+    {
+      "targetValue": "Green and cream",
+      "utterance": "what livery is listed previous to blackpool tramway green and cream?",
+      "id": "nt-6704"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many of the tramways were built before the 1970s?",
+      "id": "nt-6850"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many cars are based on the plymouth and blackburn tramcars?",
+      "id": "nt-7842"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many trams have a cream color in their livery?",
+      "id": "nt-11528"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many cars were created before 1960?",
+      "id": "nt-11633"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many of these cars are operational?",
+      "id": "nt-13103"
+    }
+  ],
+  "metadata": {
+    "title": "Seaton Tramway",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1803801&oldid=602329993",
+    "tableIndex": 0,
+    "hashcode": "522c5ad20da391be77be3ad02d51593c2ec0164c",
+    "id": 1803801,
+    "revision": 602329993
+  }
+}

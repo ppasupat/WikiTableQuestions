@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many friendly matches were in the table?",
+      "id": "nt-885"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many competitions were something other than a friendly match?",
+      "id": "nt-4430"
+    },
+    {
+      "targetValue": "Wales",
+      "utterance": "who was the next opponent after germany in 2002?",
+      "id": "nt-5375"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the number of goals that elvir balji&#263; scored against lithuania in 1998?",
+      "id": "nt-8781"
+    },
+    {
+      "targetValue": [
+        "Estonia",
+        "Liechtenstein"
+      ],
+      "utterance": "which opponent did he score the most goals against?",
+      "id": "nt-9881"
+    },
+    {
+      "targetValue": "Denmark",
+      "utterance": "who scored more points, cardiff or denmark?",
+      "id": "nt-10268"
+    },
+    {
+      "targetValue": "Malta",
+      "utterance": "before the match against germany, who was the previous friendly match against?",
+      "id": "nt-10994"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many goals did elvir baljic score altogether against estonia?",
+      "id": "nt-12797"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many different opponents did baljic play?",
+      "id": "nt-13102"
+    }
+  ],
+  "metadata": {
+    "title": "Elvir Baljić",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1311444&oldid=600114125",
+    "tableIndex": 0,
+    "hashcode": "fe56c62eccdd261effac9335bf76767df65aa880",
+    "id": 1311444,
+    "revision": 600114125
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "State arms",
+      "utterance": "what is on the obverse side of each coin?",
+      "id": "nt-4438"
+    }
+  ],
+  "metadata": {
+    "title": "Kiribati dollar",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3673212&oldid=601545981",
+    "tableIndex": 0,
+    "hashcode": "c184361521a712c791fd6ddf21b81e5ae3445a86",
+    "id": 3673212,
+    "revision": 601545981
+  }
+}

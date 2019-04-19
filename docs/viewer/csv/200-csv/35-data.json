@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "9717",
+      "utterance": "as of october 25, 2005, how many active voters are there?",
+      "id": "nt-487"
+    },
+    {
+      "targetValue": "1322",
+      "utterance": "as of october 25, 2005, how many active voters does the republican party have?",
+      "id": "nt-1252"
+    },
+    {
+      "targetValue": "49.90%",
+      "utterance": "as of october 25, 2005, what percentage of voters were unaffiliated?",
+      "id": "nt-2472"
+    },
+    {
+      "targetValue": "5334",
+      "utterance": "as of october 25, 2005, how many voters are either democratic or republican?",
+      "id": "nt-9400"
+    },
+    {
+      "targetValue": "3,683",
+      "utterance": "as of october 25, 2005, how many active voters does the democratic party have?",
+      "id": "nt-11444"
+    },
+    {
+      "targetValue": "Democratic",
+      "utterance": "which party, democratic or republican, has a better ratio of active to inactive voters?",
+      "id": "nt-13066"
+    }
+  ],
+  "metadata": {
+    "title": "Mansfield, Connecticut",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=108849&oldid=600876963",
+    "tableIndex": 0,
+    "hashcode": "73a56b3ae03a5ad15ff5d6f526a6c042d514f019",
+    "id": 108849,
+    "revision": 600876963
+  }
+}

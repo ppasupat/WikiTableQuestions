@@ -1,0 +1,56 @@
+{
+  "examples": [
+    {
+      "targetValue": "Moreau (4-4)",
+      "utterance": "who scored the least points in the june 25 game?",
+      "id": "nt-3664"
+    },
+    {
+      "targetValue": "15,125",
+      "utterance": "how many attended the june 22 game?",
+      "id": "nt-4320"
+    },
+    {
+      "targetValue": "Georgia",
+      "utterance": "which opponent had the highest attendance after north carolina on june 21?",
+      "id": "nt-4630"
+    },
+    {
+      "targetValue": "73",
+      "utterance": "which game number had the most attendance?",
+      "id": "nt-7916"
+    },
+    {
+      "targetValue": "June 23",
+      "utterance": "was rosenblatt stadium's attendance greater on june 23rd or the previous day?",
+      "id": "nt-8496"
+    },
+    {
+      "targetValue": [
+        "June 23",
+        "June 24",
+        "June 25"
+      ],
+      "utterance": "georgia played on what 3 consecutive dates?",
+      "id": "nt-8575"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "georgia was the opponent for how many consecutive days?",
+      "id": "nt-9280"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many days did rosenblatt stadium have games?",
+      "id": "nt-13276"
+    }
+  ],
+  "metadata": {
+    "title": "2008 Fresno State Bulldogs baseball team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18025024&oldid=581945281",
+    "tableIndex": 6,
+    "hashcode": "98bbf8723d94891e31e9332b668c3675f3e120d5",
+    "id": 18025024,
+    "revision": 581945281
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "24,972",
+      "utterance": "what is the number of fans who attended the december 7, 1969 game against the broncos?",
+      "id": "nt-666"
+    },
+    {
+      "targetValue": "22,408",
+      "utterance": "what is the difference in attendance for week 5 and 9",
+      "id": "nt-1701"
+    },
+    {
+      "targetValue": "same",
+      "utterance": "were there more games played at home or away during the 1969 season?",
+      "id": "nt-2925"
+    },
+    {
+      "targetValue": "October 4, 1969",
+      "utterance": "what was the date of the last tie?",
+      "id": "nt-5070"
+    },
+    {
+      "targetValue": "10,665",
+      "utterance": "which is the previous attendance for week 10",
+      "id": "nt-7308"
+    },
+    {
+      "targetValue": "week 4",
+      "utterance": "which game had a bigger crowd, week 4 or week 9?",
+      "id": "nt-11229"
+    }
+  ],
+  "metadata": {
+    "title": "1969 Miami Dolphins season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21067951&oldid=584985819",
+    "tableIndex": 1,
+    "hashcode": "70faf2a126f6064ffabec2d3b3b951a27638f83a",
+    "id": 21067951,
+    "revision": 584985819
+  }
+}

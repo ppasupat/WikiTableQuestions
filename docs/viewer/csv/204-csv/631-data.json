@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "Kita Tertawa",
+      "utterance": "what song is the shortest?",
+      "id": "nt-1580"
+    },
+    {
+      "targetValue": "Mask",
+      "utterance": "what is the title, in english, of the last song on this album?",
+      "id": "nt-1722"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many albums are there?",
+      "id": "nt-2688"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many albums did not have a time length?",
+      "id": "nt-5149"
+    },
+    {
+      "targetValue": "Membebaniku",
+      "utterance": "which other album has the same length as topeng?",
+      "id": "nt-5600"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many titles are listed?",
+      "id": "nt-6902"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of songs that were also on the bintang di surga album?",
+      "id": "nt-7124"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many songs listed were originally on ost. alexandria?",
+      "id": "nt-7223"
+    },
+    {
+      "targetValue": "Langit Tak Mendengar",
+      "utterance": "which album came after sally sendiri?",
+      "id": "nt-8167"
+    },
+    {
+      "targetValue": "Sahabat",
+      "utterance": "which album was at least 4:32 long?",
+      "id": "nt-9166"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many albums are more than 3:30 long?",
+      "id": "nt-9807"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many total songs are on this album?",
+      "id": "nt-11711"
+    },
+    {
+      "targetValue": "Kita Tertawa",
+      "utterance": "di belakangku is the eleventh track. what is the next one?",
+      "id": "nt-13997"
+    }
+  ],
+  "metadata": {
+    "title": "Sebuah Nama Sebuah Cerita",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=25653329&oldid=598964668",
+    "tableIndex": 1,
+    "hashcode": "bb223d8b5fb87b45783fcf76963ef1fe08cb6e71",
+    "id": 25653329,
+    "revision": 598964668
+  }
+}

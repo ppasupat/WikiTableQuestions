@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "December 19, 2005",
+      "utterance": "which game had the largest difference in score?",
+      "id": "nt-1838"
+    },
+    {
+      "targetValue": "Green Bay Packers",
+      "utterance": "did they have a better score against the tennessee titans or the green bay packers?",
+      "id": "nt-2065"
+    },
+    {
+      "targetValue": "September 11, 2005",
+      "utterance": "what was the first time in the season the ravens were held to under ten points?",
+      "id": "nt-2803"
+    },
+    {
+      "targetValue": "564",
+      "utterance": "what is the total number of points scored?",
+      "id": "nt-4233"
+    },
+    {
+      "targetValue": "630",
+      "utterance": "what is the difference in attendance between the first game in september and the last game in january?",
+      "id": "nt-5347"
+    },
+    {
+      "targetValue": [
+        "Indianapolis Colts",
+        "Tennessee Titans"
+      ],
+      "utterance": "which teams were played before the bye week?",
+      "id": "nt-6575"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what is the least amount of points that the ravens scored but still won by in 2005?",
+      "id": "nt-8017"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "did they only play the denver broncos once?",
+      "id": "nt-8712"
+    },
+    {
+      "targetValue": "negative",
+      "utterance": "was their total record positive or negative?",
+      "id": "nt-11609"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many points did the ravens win by in week 13?",
+      "id": "nt-11766"
+    }
+  ],
+  "metadata": {
+    "title": "2005 Baltimore Ravens season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18695137&oldid=469572831",
+    "tableIndex": 0,
+    "hashcode": "5f27797f0dfc8f11214adf6b1f61945b54dbc5b4",
+    "id": 18695137,
+    "revision": 469572831
+  }
+}

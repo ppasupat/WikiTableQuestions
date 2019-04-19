@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "1 week",
+      "utterance": "what is the first age in which t waves are measured?",
+      "id": "nt-8453"
+    }
+  ],
+  "metadata": {
+    "title": "T wave",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1447778&oldid=578708161",
+    "tableIndex": 0,
+    "hashcode": "42f22972698a969be5248b2e5ff4980ddadbc052",
+    "id": 1447778,
+    "revision": 578708161
+  }
+}

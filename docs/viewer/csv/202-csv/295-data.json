@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "3 years",
+      "utterance": "how long did gall play for carlisle united?",
+      "id": "nt-870"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many seasons did kevin gall play for yeovil town?",
+      "id": "nt-6724"
+    }
+  ],
+  "metadata": {
+    "title": "Kevin Gall",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2934136&oldid=582552113",
+    "tableIndex": 0,
+    "hashcode": "ade6a97e0e854a744e6a967dab260875d1f795f0",
+    "id": 2934136,
+    "revision": 582552113
+  }
+}

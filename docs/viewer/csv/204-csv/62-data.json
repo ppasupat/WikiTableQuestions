@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "12",
+      "utterance": "what were the number of starters in 2008?",
+      "id": "nt-1715"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what was the number of starters in 1995?",
+      "id": "nt-1973"
+    },
+    {
+      "targetValue": "Gilded Time",
+      "utterance": "who won after arazi?",
+      "id": "nt-3350"
+    },
+    {
+      "targetValue": "Street Sense",
+      "utterance": "war pass won in 2007. who won the previous year?",
+      "id": "nt-5075"
+    },
+    {
+      "targetValue": "Boston Harbor",
+      "utterance": "who was the previous winner to the 1997 winner?",
+      "id": "nt-5189"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what is the number of winners that have a one word name?",
+      "id": "nt-7462"
+    },
+    {
+      "targetValue": "Tasso",
+      "utterance": "which horse finished first in the breeders cup in 1985?",
+      "id": "nt-8480"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many horses started the breeders cup juvenile in 2013?",
+      "id": "nt-9861"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "there have been at most how many starters in a breeders cup juvenile field?",
+      "id": "nt-11231"
+    },
+    {
+      "targetValue": [
+        "2004",
+        "1997"
+      ],
+      "utterance": "what year(s) had the lowest number of breeders cup juvenile starters?",
+      "id": "nt-12272"
+    }
+  ],
+  "metadata": {
+    "title": "Breeders' Cup Juvenile top three finishers",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=23823952&oldid=601003324",
+    "tableIndex": 0,
+    "hashcode": "e83b2820e8f83f33495887dadd0c5f463c00d352",
+    "id": 23823952,
+    "revision": 601003324
+  }
+}

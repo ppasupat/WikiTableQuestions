@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Fay Crocker",
+      "utterance": "who was the only player listed from outside the u.s.?",
+      "id": "nt-662"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of players with an even number as a score ?",
+      "id": "nt-2622"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many players won at least $400?",
+      "id": "nt-3912"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what was the \"to par\" difference between betty jameson and patty berg?",
+      "id": "nt-5287"
+    },
+    {
+      "targetValue": "Uruguay",
+      "utterance": "what is the only country represented that is not the united states?",
+      "id": "nt-7573"
+    },
+    {
+      "targetValue": "Louise Suggs",
+      "utterance": "who is the player in the first position?",
+      "id": "nt-7970"
+    },
+    {
+      "targetValue": "Joyce Ziske",
+      "utterance": "which player is in the last position?",
+      "id": "nt-8382"
+    }
+  ],
+  "metadata": {
+    "title": "1956 Titleholders Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=32500383&oldid=461302656",
+    "tableIndex": 0,
+    "hashcode": "d163d3ffd8f06d4c32e86ae08854249dfceb8966",
+    "id": 32500383,
+    "revision": 461302656
+  }
+}

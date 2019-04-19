@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "2010",
+      "utterance": "in which year was the least amount of earnings won?",
+      "id": "nt-1857"
+    },
+    {
+      "targetValue": [
+        "2005",
+        "2006"
+      ],
+      "utterance": "in which two consecutive years were there atp wins recorded?",
+      "id": "nt-4639"
+    },
+    {
+      "targetValue": "1,276,265",
+      "utterance": "what is the most us$ mario an&#269;i&#263; has earned in the atp tour in one year?",
+      "id": "nt-4755"
+    },
+    {
+      "targetValue": "2006",
+      "utterance": "in which year was only top ten ranking in monetary earnings recorded?",
+      "id": "nt-7427"
+    },
+    {
+      "targetValue": "2003",
+      "utterance": "in which year was the higher listing of monetary earnings recorded, 2003, or 2007?",
+      "id": "nt-8202"
+    },
+    {
+      "targetValue": "2006",
+      "utterance": "top paid year?",
+      "id": "nt-9826"
+    },
+    {
+      "targetValue": "2006",
+      "utterance": "last year to make over 1000000",
+      "id": "nt-10376"
+    },
+    {
+      "targetValue": "2006",
+      "utterance": "what was the last year mario anèiæ had an atp win?",
+      "id": "nt-11302"
+    }
+  ],
+  "metadata": {
+    "title": "Mario Ančić",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1409621&oldid=595126655",
+    "tableIndex": 9,
+    "hashcode": "86b0982e23c41b0b39428a8ab232f4cbe2ac4cbe",
+    "id": 1409621,
+    "revision": 595126655
+  }
+}

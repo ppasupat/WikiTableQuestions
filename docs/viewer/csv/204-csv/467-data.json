@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "number of goals manchester united scored against preston north end in the season",
+      "id": "nt-146"
+    },
+    {
+      "targetValue": "27 August 1921",
+      "utterance": "name a game that was won by at least 3 goals.",
+      "id": "nt-1154"
+    },
+    {
+      "targetValue": "29 October 1921",
+      "utterance": "which game had the largest attendance?",
+      "id": "nt-1506"
+    },
+    {
+      "targetValue": "30,000",
+      "utterance": "how many attendees were present at the february 11 match against huddersfield town?",
+      "id": "nt-1853"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many games were played in september or november?",
+      "id": "nt-1982"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive away games did manchester united fc play in november of 1921?",
+      "id": "nt-2627"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many games did not have at least 15,000 in attendance?",
+      "id": "nt-4034"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the difference in score on january 2 1922?",
+      "id": "nt-4586"
+    },
+    {
+      "targetValue": "above",
+      "utterance": "is 35,000 above or below the amount of people that attended the march 11 1922 game?",
+      "id": "nt-5823"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many games did they play in october 1921?",
+      "id": "nt-7146"
+    },
+    {
+      "targetValue": "Cardiff City",
+      "utterance": "last opponent for manchester united in the season",
+      "id": "nt-9554"
+    },
+    {
+      "targetValue": "15 October 1921",
+      "utterance": "which game had a higher attendance, the october 15 1921 game or the october 22 2921 game?",
+      "id": "nt-11454"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "in how many games was sapsford a scorer?",
+      "id": "nt-12086"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "total goals scored by spence in the season",
+      "id": "nt-12857"
+    }
+  ],
+  "metadata": {
+    "title": "1921–22 Manchester United F.C. season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=34217760&oldid=578133129",
+    "tableIndex": 0,
+    "hashcode": "cbe31f373fb19e4097ec0fa7cbb6ecad9c9f7d10",
+    "id": 34217760,
+    "revision": 578133129
+  }
+}

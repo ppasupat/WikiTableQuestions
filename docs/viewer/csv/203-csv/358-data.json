@@ -1,0 +1,83 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "how many athletes represented canada?",
+      "id": "nt-1873"
+    },
+    {
+      "targetValue": "59.10",
+      "utterance": "how long did it take for jan urfer to complete run 2?",
+      "id": "nt-4274"
+    },
+    {
+      "targetValue": [
+        "1:48.64",
+        "1:49.52",
+        "1:49.91",
+        "1:50.33",
+        "1:50.64",
+        "1:50.66",
+        "1:50.94",
+        "1:51.17",
+        "1:51.37",
+        "1:51.48"
+      ],
+      "utterance": "what is the total time of each of the athletes?",
+      "id": "nt-5443"
+    },
+    {
+      "targetValue": "Cameron Barnes",
+      "utterance": "who is the slowest athlete in run 2?",
+      "id": "nt-6582"
+    },
+    {
+      "targetValue": "Aronne Pieruz",
+      "utterance": "who finished in first place?",
+      "id": "nt-6741"
+    },
+    {
+      "targetValue": "Martin Vráblík",
+      "utterance": "who finished in last place?",
+      "id": "nt-8150"
+    },
+    {
+      "targetValue": "Aronne Pieruz",
+      "utterance": "who completed run 1 in the least amount of time?",
+      "id": "nt-8347"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many athlete's first run was between 51 and 52 seconds?",
+      "id": "nt-8802"
+    },
+    {
+      "targetValue": "Aronne Pieruz",
+      "utterance": "which athlete had the fastest run?",
+      "id": "nt-8871"
+    },
+    {
+      "targetValue": "1:49.52",
+      "utterance": "what was the total time for filip trejbal?",
+      "id": "nt-9170"
+    },
+    {
+      "targetValue": "Aronne Pieruz",
+      "utterance": "which athlete took first place?",
+      "id": "nt-12451"
+    },
+    {
+      "targetValue": "7.11",
+      "utterance": "what's the difference between adam cole's first run and his second run?",
+      "id": "nt-13320"
+    }
+  ],
+  "metadata": {
+    "title": "Alpine skiing at the 2007 Winter Universiade",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8998329&oldid=544656982",
+    "tableIndex": 1,
+    "hashcode": "05964dda233913351b8596515af13bf57ad12285",
+    "id": 8998329,
+    "revision": 544656982
+  }
+}

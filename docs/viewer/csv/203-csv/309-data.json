@@ -1,0 +1,68 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Borussia Dortmund",
+        "Bayern Munich"
+      ],
+      "utterance": "which teams have more wins that werder bremen?",
+      "id": "nt-335"
+    },
+    {
+      "targetValue": [
+        "Bayern Munich",
+        "Borussia Dortmund"
+      ],
+      "utterance": "which team or teams had five winners total?",
+      "id": "nt-1240"
+    },
+    {
+      "targetValue": "Bayern Munich",
+      "utterance": "who was the top winner?",
+      "id": "nt-1576"
+    },
+    {
+      "targetValue": "Borussia Dortmund",
+      "utterance": "which team had two consecutive losses?",
+      "id": "nt-2122"
+    },
+    {
+      "targetValue": [
+        "Bayern Munich",
+        "Borussia Dortmund"
+      ],
+      "utterance": "which teams have the most number of wins?",
+      "id": "nt-5218"
+    },
+    {
+      "targetValue": [
+        "Bayern Munich",
+        "Borussia Dortmund",
+        "Werder Bremen"
+      ],
+      "utterance": "which teams won the title at least twice?",
+      "id": "nt-5841"
+    },
+    {
+      "targetValue": "Bayern Munich",
+      "utterance": "which team was the first to have five winners?",
+      "id": "nt-7476"
+    },
+    {
+      "targetValue": [
+        "Bayern Munich",
+        "Borussia Dortmund"
+      ],
+      "utterance": "which teams won a total of five dfl-supercups?",
+      "id": "nt-12288"
+    }
+  ],
+  "metadata": {
+    "title": "DFL-Supercup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5791477&oldid=589102035",
+    "tableIndex": 1,
+    "hashcode": "27b7447361e2aa6a7db191de4117ed718e339682",
+    "id": 5791477,
+    "revision": 589102035
+  }
+}

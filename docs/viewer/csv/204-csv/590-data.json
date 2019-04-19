@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "2004",
+      "utterance": "what was the last year where this team was a part of the usl a-league?",
+      "id": "nt-0"
+    },
+    {
+      "targetValue": "Quarterfinals",
+      "utterance": "what is the first result listed under playoffs?",
+      "id": "nt-3460"
+    },
+    {
+      "targetValue": "2004",
+      "utterance": "what year did usl a-league finish 1st?",
+      "id": "nt-3941"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "which year had the most attendance?",
+      "id": "nt-5408"
+    },
+    {
+      "targetValue": "3,558",
+      "utterance": "what was the difference in average attendance between 2010 and 2001?",
+      "id": "nt-5847"
+    },
+    {
+      "targetValue": "2006",
+      "utterance": "in those years in which the team finished its regular season lower than 2nd place, which year also had the least average attendance?",
+      "id": "nt-6297"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did the usl a-league reach the quarterfinals?",
+      "id": "nt-7941"
+    },
+    {
+      "targetValue": "2003",
+      "utterance": "of those years in which the team did not qualify for the quarterfinals, in which year was the team not in the usl first division?",
+      "id": "nt-8117"
+    },
+    {
+      "targetValue": "2005",
+      "utterance": "which year did this team finish the same in the open cup as they did in 2004?",
+      "id": "nt-8285"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what was the number of times usl a-league did not qualify for the playoffs?",
+      "id": "nt-8868"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many years did this team not qualify for the open cup?",
+      "id": "nt-9490"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times was the result listed as 1st under the regular season column?",
+      "id": "nt-11831"
+    },
+    {
+      "targetValue": "6,851",
+      "utterance": "what is the average number of attendance in 2007?",
+      "id": "nt-13371"
+    }
+  ],
+  "metadata": {
+    "title": "Portland Timbers (2001–10)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14240688&oldid=599565109",
+    "tableIndex": 0,
+    "hashcode": "b833553badea6667c114cf1afc918280a487cacd",
+    "id": 14240688,
+    "revision": 599565109
+  }
+}

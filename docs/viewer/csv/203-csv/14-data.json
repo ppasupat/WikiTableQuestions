@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of wins for macau?",
+      "id": "nt-256"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many consecutive events took place in bangkok, thailand starting 20 may, 2008?",
+      "id": "nt-1592"
+    },
+    {
+      "targetValue": "5 March 2014",
+      "utterance": "when was his last match?",
+      "id": "nt-3358"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many winning scores were at least 3?",
+      "id": "nt-3545"
+    },
+    {
+      "targetValue": "24 December 2005",
+      "utterance": "what was the date of the first international goal?",
+      "id": "nt-4136"
+    },
+    {
+      "targetValue": "2008 AFF Suzuki Cup",
+      "utterance": "what competition was teeratep winothai in when he made his last international goal of 2008?",
+      "id": "nt-4440"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many international goals did teeratep winothai make in 2009?",
+      "id": "nt-9626"
+    },
+    {
+      "targetValue": "North Korea",
+      "utterance": "who had more draws? south korea or north korea?",
+      "id": "nt-10473"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "number of years with no victories",
+      "id": "nt-12964"
+    }
+  ],
+  "metadata": {
+    "title": "Teeratep Winothai",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3656429&oldid=601940718",
+    "tableIndex": 1,
+    "hashcode": "7ccdb3ca2a1abe3eabd838694dea23497a469957",
+    "id": 3656429,
+    "revision": 601940718
+  }
+}

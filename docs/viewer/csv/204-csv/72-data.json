@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "1949",
+      "utterance": "which year had the least amount of overall seats won?",
+      "id": "nt-1317"
+    },
+    {
+      "targetValue": "above",
+      "utterance": "was the % of party list votes in 1976 above or below 30?",
+      "id": "nt-2096"
+    },
+    {
+      "targetValue": "2009",
+      "utterance": "which year had less votes,1994 or 2009?",
+      "id": "nt-2389"
+    },
+    {
+      "targetValue": "14,025,763",
+      "utterance": "what was the number of party votes cast in 1987?",
+      "id": "nt-5766"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "were there any constituency votes in the first election year?",
+      "id": "nt-7325"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "in what years did the social democratic party win at least 14,000 constituency votes?",
+      "id": "nt-8494"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "after 1949, how many consecutive years did the number of overall seats increase?",
+      "id": "nt-9012"
+    },
+    {
+      "targetValue": "252 / 672",
+      "utterance": "how many seats were won by the social democratic party in 1994?",
+      "id": "nt-9550"
+    },
+    {
+      "targetValue": "11,427,355",
+      "utterance": "what was the number of party list votes won in 1961?",
+      "id": "nt-10620"
+    },
+    {
+      "targetValue": "1949",
+      "utterance": "in which election year were the least amount of party list votes casted?",
+      "id": "nt-11771"
+    }
+  ],
+  "metadata": {
+    "title": "Social Democratic Party of Germany",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=60585&oldid=602164232",
+    "tableIndex": 0,
+    "hashcode": "1baf8a94c30313251b4a37030be2107c92180e66",
+    "id": 60585,
+    "revision": 602164232
+  }
+}

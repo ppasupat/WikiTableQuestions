@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "9",
+      "utterance": "how many nations earned at least ten bronze medals?",
+      "id": "nt-5818"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the difference between the total amount of medals won by qatar and indonesia?",
+      "id": "nt-6207"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many countries have at least 10 gold medals in the asian youth games?",
+      "id": "nt-6371"
+    },
+    {
+      "targetValue": [
+        "Vietnam (VIE)",
+        "Malaysia (MAS)"
+      ],
+      "utterance": "which countries have the same number of silver medals in the asian youth games as north korea?",
+      "id": "nt-7179"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "what were the number of medals iran earned?",
+      "id": "nt-9491"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many more gold medals must qatar win before they can earn 12 gold medals?",
+      "id": "nt-11675"
+    },
+    {
+      "targetValue": "India (IND)",
+      "utterance": "which nation has more gold medals, kuwait or india?",
+      "id": "nt-13387"
+    },
+    {
+      "targetValue": "25",
+      "utterance": "what is the total number of medals that india won in the asian youth games?",
+      "id": "nt-13452"
+    }
+  ],
+  "metadata": {
+    "title": "Asian Youth Games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20145439&oldid=599982343",
+    "tableIndex": 1,
+    "hashcode": "8a3e8c5b0337e480085199fa871b7a98f2e034e1",
+    "id": 20145439,
+    "revision": 599982343
+  }
+}

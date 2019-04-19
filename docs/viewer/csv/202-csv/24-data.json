@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "Come'n Get Me",
+      "utterance": "which solid base single peaked highest on the finnish singles chart?",
+      "id": "nt-1305"
+    },
+    {
+      "targetValue": "Finally",
+      "utterance": "which album achieved the highest peak chart position?",
+      "id": "nt-6254"
+    },
+    {
+      "targetValue": "Finally",
+      "utterance": "which solid base album had the most charting singles?",
+      "id": "nt-9312"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many solid base singles charted on the finnish singles chart?",
+      "id": "nt-10109"
+    }
+  ],
+  "metadata": {
+    "title": "Solid Base",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1115902&oldid=598452129",
+    "tableIndex": 0,
+    "hashcode": "03f2994ace2f7f30c27289d6ab12e57bc2ae0105",
+    "id": 1115902,
+    "revision": 598452129
+  }
+}

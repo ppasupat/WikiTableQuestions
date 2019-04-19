@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "Cleveland",
+      "utterance": "who is the most team with wins?",
+      "id": "nt-8500"
+    }
+  ],
+  "metadata": {
+    "title": "Mike Hargrove",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1087577&oldid=576169521",
+    "tableIndex": 0,
+    "hashcode": "34dcb07f1adee54da100a74574040b69d8aada33",
+    "id": 1087577,
+    "revision": 576169521
+  }
+}

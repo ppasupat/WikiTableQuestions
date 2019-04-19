@@ -1,0 +1,76 @@
+{
+  "examples": [
+    {
+      "targetValue": "Russia",
+      "utterance": "which team placed in first with the most earned medals?",
+      "id": "nt-464"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many total medals did switzerland and france win?",
+      "id": "nt-1315"
+    },
+    {
+      "targetValue": [
+        "Russia",
+        "France",
+        "Georgia"
+      ],
+      "utterance": "which team(s) have the least amount of silver medals?",
+      "id": "nt-2178"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many teams competed for medals?",
+      "id": "nt-2410"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many countries did not earn silver medals?",
+      "id": "nt-4072"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of silver medals won by italy?",
+      "id": "nt-6408"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many countries had at least 2 total medals?",
+      "id": "nt-6455"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "who had more gold medals, russia or georgia?",
+      "id": "nt-7350"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the difference between the number of medals earned by the highest-earning country and the lowest-earning country?",
+      "id": "nt-12414"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "which countries earned the same number of silver medals as germany?",
+      "id": "nt-12450"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many countries earned at lest one bronze medal?",
+      "id": "nt-12588"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many countries won no gold medals?",
+      "id": "nt-13806"
+    }
+  ],
+  "metadata": {
+    "title": "2010 European Figure Skating Championships",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21771818&oldid=578174715",
+    "tableIndex": 1,
+    "hashcode": "b2bd470aed0d4c0b99ddb7f2eaf9d2d975403385",
+    "id": 21771818,
+    "revision": 578174715
+  }
+}

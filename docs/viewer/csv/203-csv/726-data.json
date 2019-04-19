@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Stanford",
+      "utterance": "who had the greater score in 2012, stanford or usc?",
+      "id": "nt-413"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many consecutive wins did ucla have starting in 2005?",
+      "id": "nt-5473"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is he number of times that san diego state hosted the championship?",
+      "id": "nt-9523"
+    },
+    {
+      "targetValue": "UCLA",
+      "utterance": "before usc became national champion in 2010, which school was previous chamption?",
+      "id": "nt-9999"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many times was ucla national champion?",
+      "id": "nt-11939"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many years has stanford been national champion?",
+      "id": "nt-13359"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "in total, how many times has stanford won the national championship?",
+      "id": "nt-13622"
+    },
+    {
+      "targetValue": "Canham Natatorium",
+      "utterance": "the 2011 championship was hosted by university of michigan. what is its venue's name?",
+      "id": "nt-13796"
+    }
+  ],
+  "metadata": {
+    "title": "NCAA Women's Water Polo Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=547027&oldid=602204027",
+    "tableIndex": 0,
+    "hashcode": "70bf240c37bc332b445bc01c4753fb254456f5f5",
+    "id": 547027,
+    "revision": 602204027
+  }
+}

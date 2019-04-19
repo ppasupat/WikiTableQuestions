@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "GKN Aquatrack",
+      "utterance": "what is the model of the only utility vehicle used by the philippine marines that has its origin in the united kingdom?",
+      "id": "nt-505"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "which country has more vehicles listed?",
+      "id": "nt-2698"
+    },
+    {
+      "targetValue": "LARC-V",
+      "utterance": "what is the first model listed?",
+      "id": "nt-3377"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the total number of utility vehicle models used?",
+      "id": "nt-3920"
+    },
+    {
+      "targetValue": "GKN Aquatrack",
+      "utterance": "what model was in service the least?",
+      "id": "nt-4334"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what is the total number of models listed?",
+      "id": "nt-4866"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many utility vehicles used by the philippine marines have their origin in the united states?",
+      "id": "nt-5219"
+    },
+    {
+      "targetValue": "KM-45 Series",
+      "utterance": "of which utility vehicle model do they have more than 50 in service?",
+      "id": "nt-8443"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "in the chart is the am general hmmwv listed before the maxi-ambulance?",
+      "id": "nt-9229"
+    },
+    {
+      "targetValue": "KM-45 Series",
+      "utterance": "which utility vehicle has the most number in service?",
+      "id": "nt-10031"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many maxi-ambulance vehicles are in service?",
+      "id": "nt-11814"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many utility vehicle models are classified as a light utility vehicle?",
+      "id": "nt-12453"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many utility vehicle models originated in the united states?",
+      "id": "nt-12614"
+    }
+  ],
+  "metadata": {
+    "title": "Philippine Marine Corps",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6032540&oldid=602185562",
+    "tableIndex": 3,
+    "hashcode": "39e8209e28097ae8e13a9a6a78cad6c7e31952ba",
+    "id": 6032540,
+    "revision": 602185562
+  }
+}

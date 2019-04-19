@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "BBC Local Radio",
+      "utterance": "which bbc station had cost the most to run in 2012/13?",
+      "id": "nt-5695"
+    }
+  ],
+  "metadata": {
+    "title": "BBC Radio",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=167583&oldid=601634115",
+    "tableIndex": 0,
+    "hashcode": "bb44a75f773f6700769317949caea702bd564193",
+    "id": 167583,
+    "revision": 601634115
+  }
+}

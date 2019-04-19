@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "66,623",
+      "utterance": "how many people attended the game held on november 10, 1996?",
+      "id": "nt-1194"
+    },
+    {
+      "targetValue": "NBC",
+      "utterance": "which television station broadcast the most of the games?",
+      "id": "nt-5046"
+    },
+    {
+      "targetValue": "RCA Dome",
+      "utterance": "1996 indianapolis colts what is the name of there home field?",
+      "id": "nt-5984"
+    },
+    {
+      "targetValue": "October 6, 1996",
+      "utterance": "when was their first loss of the season?",
+      "id": "nt-6708"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "number of wins in october",
+      "id": "nt-7323"
+    },
+    {
+      "targetValue": "Rich Stadium",
+      "utterance": "which stadium had their highest attendance?",
+      "id": "nt-8461"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the most consecutive wins in this 1996 season?",
+      "id": "nt-10139"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many games were not scheduled for 1:00 pm?",
+      "id": "nt-10724"
+    }
+  ],
+  "metadata": {
+    "title": "1996 Indianapolis Colts season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14883111&oldid=585799273",
+    "tableIndex": 0,
+    "hashcode": "4e365e4d98333e813af47909b788a3ee75fd152d",
+    "id": 14883111,
+    "revision": 585799273
+  }
+}

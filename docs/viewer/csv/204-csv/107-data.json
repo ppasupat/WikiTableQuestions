@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "0",
+      "utterance": "how many bronze medals did russia earn?",
+      "id": "nt-787"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many european baseball championship gold medals does italy need in order to have the same total amount of any type of medal as netherlands?",
+      "id": "nt-4092"
+    },
+    {
+      "targetValue": "Sweden",
+      "utterance": "who has more medals but is lower in rank, sweden or russia in european baseball championships?",
+      "id": "nt-4556"
+    },
+    {
+      "targetValue": "Netherlands",
+      "utterance": "which is the other nation with the second highest sliver medal",
+      "id": "nt-5636"
+    },
+    {
+      "targetValue": "Bronze",
+      "utterance": "netherlands and russia both have zero of what type of european baseball medal?",
+      "id": "nt-6137"
+    },
+    {
+      "targetValue": "Belgium",
+      "utterance": "nation that earned the most total medals after spain",
+      "id": "nt-6430"
+    },
+    {
+      "targetValue": "Spain",
+      "utterance": "which country has the most bronze medals in european baseball championships?",
+      "id": "nt-7347"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "how many gold did netherlands",
+      "id": "nt-7705"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what are the total number of gold medals italy earned?",
+      "id": "nt-8998"
+    },
+    {
+      "targetValue": "Spain",
+      "utterance": "which nation is on top in bronze medal",
+      "id": "nt-11934"
+    },
+    {
+      "targetValue": "30",
+      "utterance": "number of gold medals earned by the netherlands and italy",
+      "id": "nt-12819"
+    },
+    {
+      "targetValue": "Spain",
+      "utterance": "only nation to earn more than 7 bronze medals",
+      "id": "nt-14133"
+    }
+  ],
+  "metadata": {
+    "title": "European Baseball Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4527298&oldid=595545741",
+    "tableIndex": 1,
+    "hashcode": "96c4542b0f14f2b5014c0728e05a8ae159e6083e",
+    "id": 4527298,
+    "revision": 595545741
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "Myron Greenberg",
+      "utterance": "who was the only person that scheider lost against?",
+      "id": "nt-220"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many times did scheider appear in the golden gloves event?",
+      "id": "nt-10153"
+    }
+  ],
+  "metadata": {
+    "title": "Roy Scheider",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=164370&oldid=600791013",
+    "tableIndex": 0,
+    "hashcode": "e985083e617e1c6353a8317588140c9a8c7b99d7",
+    "id": 164370,
+    "revision": 600791013
+  }
+}

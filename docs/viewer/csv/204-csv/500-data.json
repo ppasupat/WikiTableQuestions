@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "27",
+      "utterance": "what was her peak ranking in the us for the single \"it wasn't god who made honky tonk angles\"?",
+      "id": "nt-172"
+    },
+    {
+      "targetValue": "Country Hit Parade",
+      "utterance": "which album produced the most singles?",
+      "id": "nt-610"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many #1 hits did kitty well have?",
+      "id": "nt-907"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many singles did kitty wells release before 1952?",
+      "id": "nt-4062"
+    },
+    {
+      "targetValue": "\"Amigo's Guitar\"",
+      "utterance": "what was the last single kitty wells released?",
+      "id": "nt-7736"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of top ten hits kitty wells had in 1953 alone?",
+      "id": "nt-8136"
+    },
+    {
+      "targetValue": "Country Hit Parade",
+      "utterance": "what was the next album after kitty wells?",
+      "id": "nt-9415"
+    },
+    {
+      "targetValue": "\"It Wasn't God Who Made Honky Tonk Angels\"",
+      "utterance": "which single was release earlier: \"it wasn't god who made honky tong angels\" or \"hey joe\"?",
+      "id": "nt-10178"
+    },
+    {
+      "targetValue": "\"I Don't Claim to Be an Angel\"",
+      "utterance": "tell me the single released immediately before \"hey joe\".",
+      "id": "nt-10238"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many singles peaked above number ten on the charts?",
+      "id": "nt-11441"
+    },
+    {
+      "targetValue": "\"Making Believe\"",
+      "utterance": "tell me a song that was released in 1955 but was not on \"after dark\".",
+      "id": "nt-12121"
+    },
+    {
+      "targetValue": "After Dark",
+      "utterance": "\"you're not so easy to forget\" and \"the lonely side of town\" both come from which album?",
+      "id": "nt-13162"
+    },
+    {
+      "targetValue": "Kitty Wells' Golden Favorites",
+      "utterance": "which kitty wells album had the most singles released?",
+      "id": "nt-13514"
+    },
+    {
+      "targetValue": "\"It Wasn't God Who Made Honky Tonk Angels\"",
+      "utterance": "tell me a song that hit at least #5 on the us country chart.",
+      "id": "nt-13960"
+    }
+  ],
+  "metadata": {
+    "title": "Kitty Wells singles discography",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33098472&oldid=600688877",
+    "tableIndex": 1,
+    "hashcode": "cd39084f280c899996c1c3f68f24536636c7550b",
+    "id": 33098472,
+    "revision": 600688877
+  }
+}

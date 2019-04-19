@@ -1,0 +1,68 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Cincinnati Royals",
+        "Minneapolis Lakers",
+        "Syracuse Nationals",
+        "New York Knicks",
+        "Boston Celtics"
+      ],
+      "utterance": "which teams at most have 4 players?",
+      "id": "nt-2287"
+    },
+    {
+      "targetValue": "Tennessee State",
+      "utterance": "what was the name of the college that the player who was the fourth pick attended?",
+      "id": "nt-2729"
+    },
+    {
+      "targetValue": "New York Knicks",
+      "utterance": "what team comes before hank stein?",
+      "id": "nt-4747"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many f/c's (forward/center) are on the list?",
+      "id": "nt-5570"
+    },
+    {
+      "targetValue": "John Barnhill",
+      "utterance": "other draftee that attended tennessee state besides dick barnett",
+      "id": "nt-6727"
+    },
+    {
+      "targetValue": "Tom Hawkins",
+      "utterance": "which player can call notre dame his alma matter?",
+      "id": "nt-7099"
+    },
+    {
+      "targetValue": "Johnny Green",
+      "utterance": "second highest forward/center (f/c) drafted",
+      "id": "nt-10219"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "number of picks the st. louis hawks made in the draft",
+      "id": "nt-10438"
+    },
+    {
+      "targetValue": "G's",
+      "utterance": "are there more g's or c's? (guards or centers)",
+      "id": "nt-12110"
+    },
+    {
+      "targetValue": "Syracuse",
+      "utterance": "college attended of previous pick to bob anderegg",
+      "id": "nt-13433"
+    }
+  ],
+  "metadata": {
+    "title": "1959 NBA draft",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5669522&oldid=600978060",
+    "tableIndex": 2,
+    "hashcode": "b7dbd046873feef253f48f1f24e71ec1eb9d38ea",
+    "id": 5669522,
+    "revision": 600978060
+  }
+}

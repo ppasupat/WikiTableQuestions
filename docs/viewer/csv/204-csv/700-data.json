@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "28",
+      "utterance": "how many games were released before 2008?",
+      "id": "nt-1024"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many games are defined as empire building?",
+      "id": "nt-1511"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of games that jagex has released?",
+      "id": "nt-3759"
+    },
+    {
+      "targetValue": "Planetarion",
+      "utterance": "what is the only game to be released by fubra?",
+      "id": "nt-3857"
+    },
+    {
+      "targetValue": "2006",
+      "utterance": "in which year was cyber nations released?",
+      "id": "nt-4372"
+    },
+    {
+      "targetValue": "2007",
+      "utterance": "in what year was twilight heroes released?",
+      "id": "nt-4798"
+    },
+    {
+      "targetValue": "Antarctica",
+      "utterance": "what was the setting of club penguin?",
+      "id": "nt-5333"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of multiplayer browser games released in 2003?",
+      "id": "nt-9646"
+    },
+    {
+      "targetValue": "SNAIL Game",
+      "utterance": "who was the developer of castle of heroes?",
+      "id": "nt-12287"
+    }
+  ],
+  "metadata": {
+    "title": "List of multiplayer browser games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3429393&oldid=599399372",
+    "tableIndex": 0,
+    "hashcode": "e024dd7f7dfcd16a74554a17843d174cff578e37",
+    "id": 3429393,
+    "revision": 599399372
+  }
+}

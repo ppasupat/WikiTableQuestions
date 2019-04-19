@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "1999",
+      "utterance": "when was the last super chinese game released?",
+      "id": "nt-227"
+    },
+    {
+      "targetValue": "Super Chinese World",
+      "utterance": "of the titles released in north america, which had the least releases?",
+      "id": "nt-1797"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what are the total of super chinese games released?",
+      "id": "nt-3966"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "number of super chinese world games released",
+      "id": "nt-5472"
+    },
+    {
+      "targetValue": "1986",
+      "utterance": "the first year a game was released in north america",
+      "id": "nt-7262"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many action games were released in north america?",
+      "id": "nt-8739"
+    },
+    {
+      "targetValue": "GB",
+      "utterance": "which platforms had the most titles released?",
+      "id": "nt-13316"
+    }
+  ],
+  "metadata": {
+    "title": "Super Chinese",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5399968&oldid=597670523",
+    "tableIndex": 0,
+    "hashcode": "95519766edf38c93c8c5bf55ce94e259b63720bc",
+    "id": 5399968,
+    "revision": 597670523
+  }
+}

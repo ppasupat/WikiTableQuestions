@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Reading",
+      "utterance": "did we score more in the plymouth argyle game or in the reading game?",
+      "id": "nt-2415"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the most we scored in a single game?",
+      "id": "nt-4033"
+    },
+    {
+      "targetValue": "7 August 2004",
+      "utterance": "when was the first game played.",
+      "id": "nt-4872"
+    },
+    {
+      "targetValue": "7 August 2004",
+      "utterance": "what was the date of the game played before august 10 2004.",
+      "id": "nt-7394"
+    },
+    {
+      "targetValue": "23",
+      "utterance": "how many games were not played in venue h?",
+      "id": "nt-7456"
+    },
+    {
+      "targetValue": "10,513",
+      "utterance": "how many people attended the game in november against sunderland?",
+      "id": "nt-8172"
+    },
+    {
+      "targetValue": "Crewe Alexandra",
+      "utterance": "where did they play after the april 5, 2005 game in reading?",
+      "id": "nt-9248"
+    },
+    {
+      "targetValue": "Leeds United",
+      "utterance": "who was the opponent that has the most attendance.",
+      "id": "nt-11041"
+    },
+    {
+      "targetValue": "Reading",
+      "utterance": "which game had more in attendance, cardiff city or reading?",
+      "id": "nt-13491"
+    }
+  ],
+  "metadata": {
+    "title": "2004–05 Millwall F.C. season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33935155&oldid=569241691",
+    "tableIndex": 1,
+    "hashcode": "356af3643c9dff552dc06082f7d49735fd470dc7",
+    "id": 33935155,
+    "revision": 569241691
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "82.06 m",
+      "utterance": "longest throw",
+      "id": "nt-4384"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "in how many international competitions did kazlou throw a length of above 80 meters?",
+      "id": "nt-6969"
+    },
+    {
+      "targetValue": "82.06 m",
+      "utterance": "how long was uladzimir kazlou's furthest competition throw?",
+      "id": "nt-7147"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive years has uladzimir kazlou taken part in the olympic games?",
+      "id": "nt-8842"
+    },
+    {
+      "targetValue": [
+        "5th",
+        "7th"
+      ],
+      "utterance": "the two best positions in which kazlou has ranked in major world competition were ________ and ______.",
+      "id": "nt-8853"
+    },
+    {
+      "targetValue": "2013",
+      "utterance": "when was his last competition?",
+      "id": "nt-8888"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "uladzimir kazlou participated in two olympic games, but how many other competitions did he participate in between 2005 and 2013?",
+      "id": "nt-9878"
+    },
+    {
+      "targetValue": "82.06 m (=PB)",
+      "utterance": "how long was kazlou's longest throw in major international competition?",
+      "id": "nt-9995"
+    },
+    {
+      "targetValue": "72.81 m",
+      "utterance": "distance in first competition",
+      "id": "nt-11887"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "number of competitions",
+      "id": "nt-13944"
+    }
+  ],
+  "metadata": {
+    "title": "Uladzimir Kazlou",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19007072&oldid=577139509",
+    "tableIndex": 0,
+    "hashcode": "2d09f6ffc357dceea78840f93451e88c4e31523c",
+    "id": 19007072,
+    "revision": 577139509
+  }
+}

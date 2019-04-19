@@ -1,0 +1,45 @@
+{
+  "examples": [
+    {
+      "targetValue": "No",
+      "utterance": "did each player who had 6 caps score over 3 goals?",
+      "id": "nt-2276"
+    },
+    {
+      "targetValue": "Jack Rowley",
+      "utterance": "which name is listed after alan smith?",
+      "id": "nt-2644"
+    },
+    {
+      "targetValue": "No one",
+      "utterance": "after bedford jezzard, who was the next player to score 6 goals?",
+      "id": "nt-4238"
+    },
+    {
+      "targetValue": "Jack Rowley",
+      "utterance": "which name is listed previous to brian talbot?",
+      "id": "nt-8153"
+    },
+    {
+      "targetValue": [
+        "Gordon Hill",
+        "Alan Smith"
+      ],
+      "utterance": "tommy taylor had the same number of goals as which other player(s)?",
+      "id": "nt-8489"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many players were playing in 1990?",
+      "id": "nt-10588"
+    }
+  ],
+  "metadata": {
+    "title": "England national football B team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5164306&oldid=585720952",
+    "tableIndex": 1,
+    "hashcode": "f365cbe99dec06800a972144351b80323df2d947",
+    "id": 5164306,
+    "revision": 585720952
+  }
+}

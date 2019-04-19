@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "Manuela Bravo",
+      "utterance": "who scored the most points?",
+      "id": "nt-652"
+    },
+    {
+      "targetValue": "Manuela Bravo",
+      "utterance": "who was the last draw?",
+      "id": "nt-1053"
+    },
+    {
+      "targetValue": "Gabriela Schaaf",
+      "utterance": "who sang \"eu só quero\" as their song in the eurovision song contest of 1979?",
+      "id": "nt-1884"
+    },
+    {
+      "targetValue": "Teresa Silva Carvalho",
+      "utterance": "which artist came in last place?",
+      "id": "nt-5987"
+    },
+    {
+      "targetValue": "63",
+      "utterance": "what is the total amount of points for florencia?",
+      "id": "nt-13449"
+    }
+  ],
+  "metadata": {
+    "title": "Portugal in the Eurovision Song Contest 1979",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20181818&oldid=545495538",
+    "tableIndex": 0,
+    "hashcode": "0d6e9dd22e4c7091550de38c2fb6b3bd040b4b9b",
+    "id": 20181818,
+    "revision": 545495538
+  }
+}

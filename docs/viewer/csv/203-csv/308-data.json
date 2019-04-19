@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "Karine Ruby",
+      "utterance": "who has more silver medals: karine ruby or shaun white?",
+      "id": "nt-1445"
+    },
+    {
+      "targetValue": "Shaun White",
+      "utterance": "which other athlete from the us ahs the same amount of gold medals as seth wescott?",
+      "id": "nt-4948"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total number of snowboarding medals won by shaun white?",
+      "id": "nt-5222"
+    },
+    {
+      "targetValue": "1998",
+      "utterance": "in what year was karine ruby's first olympics?",
+      "id": "nt-5836"
+    },
+    {
+      "targetValue": "Danny Kass",
+      "utterance": "who had the fewest number of gold medals?",
+      "id": "nt-6187"
+    },
+    {
+      "targetValue": "Kelly Clark",
+      "utterance": "who has won more medals? shaun white or kelly clark?",
+      "id": "nt-6619"
+    },
+    {
+      "targetValue": "Danny Kass",
+      "utterance": "who had the least gold medals but the most silver medals?",
+      "id": "nt-6879"
+    },
+    {
+      "targetValue": "Kelly Clark",
+      "utterance": "who has earned the most medals?",
+      "id": "nt-7715"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "in total, how many athlete medal leaders are from the united states?",
+      "id": "nt-8823"
+    },
+    {
+      "targetValue": "Kelly Clark",
+      "utterance": "who had the most bronze medals?",
+      "id": "nt-9472"
+    },
+    {
+      "targetValue": "Danny Kass",
+      "utterance": "which athlete has only won silver medals?",
+      "id": "nt-10992"
+    },
+    {
+      "targetValue": "Kelly Clark",
+      "utterance": "who has won the most total snowboarding medals?",
+      "id": "nt-11569"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many have won at least 2 gold medals?",
+      "id": "nt-11759"
+    },
+    {
+      "targetValue": "Kelly Clark",
+      "utterance": "who has won the most bronze medals?",
+      "id": "nt-12809"
+    }
+  ],
+  "metadata": {
+    "title": "List of Olympic medalists in snowboarding",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6642016&oldid=598926290",
+    "tableIndex": 12,
+    "hashcode": "01561c2b9a101ccf752f889b80560efa5c85aab8",
+    "id": 6642016,
+    "revision": 598926290
+  }
+}

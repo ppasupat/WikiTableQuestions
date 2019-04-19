@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Natasha 'Nat' Wilson",
+      "utterance": "what role did mischa barton play in the movie \"octane\"?",
+      "id": "nt-245"
+    },
+    {
+      "targetValue": "Gutsy Frog",
+      "utterance": "what is the name of the movie where mischa barton plays the role of ms. monica?",
+      "id": "nt-969"
+    },
+    {
+      "targetValue": "A Resurrection",
+      "utterance": "in what movie was barton also the producer?",
+      "id": "nt-3074"
+    },
+    {
+      "targetValue": "2013",
+      "utterance": "in what year did barton appear in the most films?",
+      "id": "nt-3933"
+    },
+    {
+      "targetValue": "1995",
+      "utterance": "what year was the film polio water released?",
+      "id": "nt-4290"
+    },
+    {
+      "targetValue": "Kyra Collins",
+      "utterance": "what was the name of the girl on sixth sense played by mischa barton?",
+      "id": "nt-6886"
+    },
+    {
+      "targetValue": "1995",
+      "utterance": "what year was mischa barton's first film role?",
+      "id": "nt-9242"
+    }
+  ],
+  "metadata": {
+    "title": "Mischa Barton",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=291520&oldid=599434140",
+    "tableIndex": 0,
+    "hashcode": "3b93b2f2c1e47c50d3fc6a9248aa96b77ae241c1",
+    "id": 291520,
+    "revision": 599434140
+  }
+}

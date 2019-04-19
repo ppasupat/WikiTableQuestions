@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "2008",
+      "utterance": "roy oswalt opened for the astros for eight years in a row, seven of which were in minute maid park, but in what year did he start the season opener in petco park?",
+      "id": "nt-3844"
+    },
+    {
+      "targetValue": "1991",
+      "utterance": "what was the last season when mike scott was the opening day starter for the astros?",
+      "id": "nt-5237"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times was nolan ryan the opening day pitcher for the astros?",
+      "id": "nt-6957"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "the astros have lost their season opener to the giants how many times since defeating them in the 1970 season opener?",
+      "id": "nt-9208"
+    },
+    {
+      "targetValue": "1982",
+      "utterance": "which game had the greatest score difference?",
+      "id": "nt-10110"
+    },
+    {
+      "targetValue": "Bob Bruce",
+      "utterance": "who was the first astro to be the opening day pitcher in the astrodome?",
+      "id": "nt-10807"
+    },
+    {
+      "targetValue": "Larry Dierker",
+      "utterance": "this starting pitcher opened for the astros against the giants and the dodgers in the early 70s.",
+      "id": "nt-12135"
+    }
+  ],
+  "metadata": {
+    "title": "List of Houston Astros Opening Day starting pitchers",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19489294&oldid=599466307",
+    "tableIndex": 1,
+    "hashcode": "6c02d6f80f2a9ca8de3015c8608a3f7e4984aab4",
+    "id": 19489294,
+    "revision": 599466307
+  }
+}

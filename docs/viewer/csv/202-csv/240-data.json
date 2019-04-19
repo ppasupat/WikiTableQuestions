@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many singles from \"dosage\" appeared on the modern rock tracks charts?",
+      "id": "nt-2192"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many different charts did \"run\" make?",
+      "id": "nt-7219"
+    },
+    {
+      "targetValue": "\"Heavy\"",
+      "utterance": "which of the singles from \"dosage\" had the highest billboard hot 100 rating?",
+      "id": "nt-13535"
+    }
+  ],
+  "metadata": {
+    "title": "Dosage (album)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1307428&oldid=595963804",
+    "tableIndex": 2,
+    "hashcode": "ed5f4d59d4938a030e68ac8e8e3798a4bd6f5cee",
+    "id": 1307428,
+    "revision": 595963804
+  }
+}

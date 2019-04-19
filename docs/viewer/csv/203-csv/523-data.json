@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "9.341",
+      "utterance": "what was the average of miss oklahoma's scores?",
+      "id": "nt-541"
+    },
+    {
+      "targetValue": "Mississippi",
+      "utterance": "what state came in last in the evening gown competition?",
+      "id": "nt-2806"
+    },
+    {
+      "targetValue": "Kansas",
+      "utterance": "which finalist received the same score in evening gown as interview?",
+      "id": "nt-5399"
+    },
+    {
+      "targetValue": "Iowa",
+      "utterance": "who placed first?",
+      "id": "nt-8486"
+    },
+    {
+      "targetValue": ".287",
+      "utterance": "what is the difference in points between the finalists and average in iowa?",
+      "id": "nt-10409"
+    },
+    {
+      "targetValue": "28.421",
+      "utterance": "what is the total number of points scored in the three rounds in kansas?",
+      "id": "nt-10966"
+    },
+    {
+      "targetValue": "9.267",
+      "utterance": "how many points did iowa score in the swimsuit round?",
+      "id": "nt-11599"
+    },
+    {
+      "targetValue": "111.476",
+      "utterance": "how many total points were scored in the interview round between all states?",
+      "id": "nt-13521"
+    },
+    {
+      "targetValue": "California",
+      "utterance": "who scored the highest in the swimsuit round?",
+      "id": "nt-13560"
+    }
+  ],
+  "metadata": {
+    "title": "Miss Teen USA 1992",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11999947&oldid=546254343",
+    "tableIndex": 0,
+    "hashcode": "7e6ea44277e4b061878331de5e3a8db370447a0f",
+    "id": 11999947,
+    "revision": 546254343
+  }
+}

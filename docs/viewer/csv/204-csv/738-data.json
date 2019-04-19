@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "how many times did they finish ninth?",
+      "id": "nt-802"
+    },
+    {
+      "targetValue": "1971",
+      "utterance": "which is the only year with promotion playoffs and promoted",
+      "id": "nt-1364"
+    },
+    {
+      "targetValue": "1963",
+      "utterance": "what is the first year they scored 6th position in tier 3 division 3?",
+      "id": "nt-1516"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "jow many seasons with the number of division 4",
+      "id": "nt-1622"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how long in years total have they played level tier 4?",
+      "id": "nt-7135"
+    },
+    {
+      "targetValue": [
+        "1960",
+        "1961",
+        "1962",
+        "1967",
+        "1969",
+        "1970",
+        "1971",
+        "1974",
+        "1982"
+      ],
+      "utterance": "in which years did they finish at least 3rd?",
+      "id": "nt-8016"
+    },
+    {
+      "targetValue": "1982",
+      "utterance": "what is the last year they played division 4?",
+      "id": "nt-10064"
+    }
+  ],
+  "metadata": {
+    "title": "Arbrå BK",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33007739&oldid=552902598",
+    "tableIndex": 0,
+    "hashcode": "696edc90a3489ad32feab0b4ed54ce7a5998e14f",
+    "id": 33007739,
+    "revision": 552902598
+  }
+}

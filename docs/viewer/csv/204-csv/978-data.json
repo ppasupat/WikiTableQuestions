@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Omagbemi Dudu",
+      "utterance": "lorant olah scored the same number of goals in the uefa cup as what other player?",
+      "id": "nt-2778"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many goals does zoltán kiss have?",
+      "id": "nt-4617"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the total number of matches in the uefa cup?",
+      "id": "nt-5962"
+    },
+    {
+      "targetValue": "Zoltán Kiss",
+      "utterance": "tell me a player with the same number of soproni liga goals as szucs?",
+      "id": "nt-8567"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many more total goals does leandro de almeida has than zsombor kerekes?",
+      "id": "nt-8768"
+    },
+    {
+      "targetValue": "Tibor Dombi",
+      "utterance": "who is immediately before biro on the list?",
+      "id": "nt-8999"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many players scored more than 10 goals?",
+      "id": "nt-10421"
+    },
+    {
+      "targetValue": "Gergely Rudolf",
+      "utterance": "whom is listed first on the chart?",
+      "id": "nt-12645"
+    }
+  ],
+  "metadata": {
+    "title": "2008–09 Debreceni VSC season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=24018343&oldid=569268722",
+    "tableIndex": 0,
+    "hashcode": "787e1cf7fd81fc7e9d51ee1eae44c032122d54a9",
+    "id": 24018343,
+    "revision": 569268722
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "Henry Lovell",
+      "utterance": "which member was the last member to join the 10th canadian parliament?",
+      "id": "nt-5904"
+    },
+    {
+      "targetValue": "Liberal",
+      "utterance": "which party had the most members in the 10th canadian parliament?",
+      "id": "nt-8672"
+    },
+    {
+      "targetValue": "45",
+      "utterance": "how many total members of the 10th canadian parliament were there?",
+      "id": "nt-10013"
+    }
+  ],
+  "metadata": {
+    "title": "10th Canadian Parliament",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3230135&oldid=599237962",
+    "tableIndex": 12,
+    "hashcode": "ad00685122ad2a3125c8adbdfe12bac4918be2d9",
+    "id": 3230135,
+    "revision": 599237962
+  }
+}

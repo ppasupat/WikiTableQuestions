@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many times does \"friendly\" appear in the competition column?",
+      "id": "nt-147"
+    },
+    {
+      "targetValue": "Iceland",
+      "utterance": "the first time barr scored in a fifa world cup qualifier, who was the opponent?",
+      "id": "nt-424"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the number of times that barr scored in 2005?",
+      "id": "nt-705"
+    },
+    {
+      "targetValue": "Austria",
+      "utterance": "what is the last opponent listed?",
+      "id": "nt-4456"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many times were goals scored in the friendly competition?",
+      "id": "nt-4819"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many games did the home team score at least 3 goals?",
+      "id": "nt-7581"
+    },
+    {
+      "targetValue": "Scotland",
+      "utterance": "what was the opponent who barr scored against whom she had scored against before?",
+      "id": "nt-8075"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the only number in the score column?",
+      "id": "nt-8629"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of goals scored in the algarve cup on march 5, 2002?",
+      "id": "nt-11412"
+    },
+    {
+      "targetValue": "21 October 2003",
+      "utterance": "when was the first friendly competition?",
+      "id": "nt-12757"
+    }
+  ],
+  "metadata": {
+    "title": "Amanda Barr",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11274689&oldid=589360836",
+    "tableIndex": 0,
+    "hashcode": "68bba5b6e83a8468acc82ebbf02b8e3fb85d6f15",
+    "id": 11274689,
+    "revision": 589360836
+  }
+}

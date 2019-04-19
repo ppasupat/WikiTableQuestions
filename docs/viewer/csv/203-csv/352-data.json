@@ -1,0 +1,76 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "on average how many of the swara have a short name that begin with d or g?",
+      "id": "nt-1486"
+    },
+    {
+      "targetValue": "Dha",
+      "utterance": "find the 9th position swara. what is its short name?",
+      "id": "nt-2286"
+    },
+    {
+      "targetValue": [
+        "Chatushruti Rishabha",
+        "Shuddha Gandhara",
+        "Shatshruti Rishabha",
+        "Sadharana Gandhara",
+        "Chatushruti Dhaivata",
+        "Shuddha Nishada",
+        "Shatshruti Dhaivata",
+        "Kaisiki Nishada"
+      ],
+      "utterance": "list each pair of swaras that share the same position.",
+      "id": "nt-2461"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "other than m1 how many notations have \"1\" in them?",
+      "id": "nt-3019"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "what is the total number of positions listed?",
+      "id": "nt-3128"
+    },
+    {
+      "targetValue": "Kakali Nishada",
+      "utterance": "which swara holds the last position?",
+      "id": "nt-3384"
+    },
+    {
+      "targetValue": "Shuddha Nishada",
+      "utterance": "what swara is above shatshruti dhaivata?",
+      "id": "nt-5096"
+    },
+    {
+      "targetValue": "Shuddha Dhaivata",
+      "utterance": "what is the name of the swara that comes after panchama?",
+      "id": "nt-5425"
+    },
+    {
+      "targetValue": "Shuddha Madhyama",
+      "utterance": "which swara follows immediately after antara gandhara?",
+      "id": "nt-8980"
+    },
+    {
+      "targetValue": "Shadja",
+      "utterance": "what is the name of the swara that holds the first position?",
+      "id": "nt-12243"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many swaras do not have dhaivata in their name?",
+      "id": "nt-12800"
+    }
+  ],
+  "metadata": {
+    "title": "Swara",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=265941&oldid=597797035",
+    "tableIndex": 1,
+    "hashcode": "17766eba896deaf7847a8e6dcb91ee5234e1ce8b",
+    "id": 265941,
+    "revision": 597797035
+  }
+}

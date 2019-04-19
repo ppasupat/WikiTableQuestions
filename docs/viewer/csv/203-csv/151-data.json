@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Bubba Watson",
+      "utterance": "who had the top score in the pga championship?",
+      "id": "nt-1397"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many total tournaments has he won?",
+      "id": "nt-4265"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many tournaments has he won by 3 or more strokes?",
+      "id": "nt-6709"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many winning scores were less than -14?",
+      "id": "nt-7045"
+    },
+    {
+      "targetValue": "2 years",
+      "utterance": "how long separated the playoff victory at bmw international open and the 4 stroke victory at the klm open?",
+      "id": "nt-9346"
+    },
+    {
+      "targetValue": "2 strokes",
+      "utterance": "how many more strokes were in the klm open than the barclays scottish open?",
+      "id": "nt-13414"
+    }
+  ],
+  "metadata": {
+    "title": "Martin Kaymer",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12821159&oldid=598898271",
+    "tableIndex": 2,
+    "hashcode": "4cc807bb980ec6bc6c6aa95983098dbf6e2e55af",
+    "id": 12821159,
+    "revision": 598898271
+  }
+}

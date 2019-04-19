@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "26 years",
+      "utterance": "how long was james ii in power, including his second rule?",
+      "id": "nt-593"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many of these monarchs died before the age of 65?",
+      "id": "nt-1745"
+    },
+    {
+      "targetValue": "68",
+      "utterance": "james i and james ii both died at what age?",
+      "id": "nt-4129"
+    },
+    {
+      "targetValue": "James III 1291-1295",
+      "utterance": "which monarch had the most marriages?",
+      "id": "nt-4198"
+    },
+    {
+      "targetValue": "Alfonso I",
+      "utterance": "what name is above james iii and below james ii?",
+      "id": "nt-8332"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many total marriages did james i have?",
+      "id": "nt-8472"
+    },
+    {
+      "targetValue": "James I 1231-1276",
+      "utterance": "which monarch is listed first?",
+      "id": "nt-9792"
+    },
+    {
+      "targetValue": "Sancho",
+      "utterance": "was james iii or sancho born in the year 1276?",
+      "id": "nt-9880"
+    },
+    {
+      "targetValue": "James II",
+      "utterance": "who came to power after the rule of james iii?",
+      "id": "nt-10806"
+    },
+    {
+      "targetValue": [
+        "Alfonso I",
+        "Sancho"
+      ],
+      "utterance": "which two monarchs had no children?",
+      "id": "nt-11332"
+    }
+  ],
+  "metadata": {
+    "title": "List of monarchs of Majorca",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1589246&oldid=597302371",
+    "tableIndex": 0,
+    "hashcode": "9e1642ef74b2f5c15497175e1888b440be78ae1a",
+    "id": 1589246,
+    "revision": 597302371
+  }
+}

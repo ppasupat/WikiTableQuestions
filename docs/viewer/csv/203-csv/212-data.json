@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "12,599",
+      "utterance": "how many more people live in dennery than the forest reserve?",
+      "id": "nt-1396"
+    },
+    {
+      "targetValue": "Castries",
+      "utterance": "which district has the most density?",
+      "id": "nt-3126"
+    },
+    {
+      "targetValue": "Anse la Raye",
+      "utterance": "what district has the same population density as laborie despite having a smaller land area?",
+      "id": "nt-3532"
+    },
+    {
+      "targetValue": "Anse la Raye",
+      "utterance": "which district has the next highest population after choiseul?",
+      "id": "nt-5299"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many districts in saint lucia have populations greater than 10,000 people?",
+      "id": "nt-5707"
+    },
+    {
+      "targetValue": "Castries",
+      "utterance": "which of the 11 districts has the highest population density?",
+      "id": "nt-6097"
+    },
+    {
+      "targetValue": "Gros Islet",
+      "utterance": "which other districts besides castries has a population that is more than 20,000?",
+      "id": "nt-6250"
+    },
+    {
+      "targetValue": "608.7",
+      "utterance": "what is the total land area of saint lucia (in square kilometers)?",
+      "id": "nt-7717"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "saint lucia has how many districts with a population density below 200 persons per square kilometer?",
+      "id": "nt-10159"
+    },
+    {
+      "targetValue": "Castries",
+      "utterance": "what district has the most persons per square kilometer?",
+      "id": "nt-11496"
+    },
+    {
+      "targetValue": "Forest Reserve",
+      "utterance": "which district in saint lucia has a land area listed, but has no population?",
+      "id": "nt-11585"
+    },
+    {
+      "targetValue": "16,284",
+      "utterance": "how many people live in micoud?",
+      "id": "nt-12975"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many districts are large than 50 square kilometers?",
+      "id": "nt-14093"
+    }
+  ],
+  "metadata": {
+    "title": "Quarters of Saint Lucia",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2274467&oldid=585065825",
+    "tableIndex": 0,
+    "hashcode": "53b7f09549279d6cf2a3f6dcc4689f8e7e9d1dfe",
+    "id": 2274467,
+    "revision": 585065825
+  }
+}

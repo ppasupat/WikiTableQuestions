@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Your Party",
+      "utterance": "what party has the most representatives in the diet representation?",
+      "id": "nt-634"
+    },
+    {
+      "targetValue": "Japanese Communist Party (JCP) Nihon Kyōsan-tō 日本共産党",
+      "utterance": "according to this table, which party is japan's oldest political party?",
+      "id": "nt-1017"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many representatives come from the green wind party?",
+      "id": "nt-4576"
+    },
+    {
+      "targetValue": "New Party Daichi - True Democrats",
+      "utterance": "what party is listed previous to the new renaissance party?",
+      "id": "nt-5145"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "people's life party has at most, how many party leaders?",
+      "id": "nt-9002"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many of these parties currently have no councillors?",
+      "id": "nt-12200"
+    }
+  ],
+  "metadata": {
+    "title": "List of political parties in Japan",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=396374&oldid=596743439",
+    "tableIndex": 1,
+    "hashcode": "87bf89c1631b31273c5d1d8bbdc420a73e9f5668",
+    "id": 396374,
+    "revision": 596743439
+  }
+}

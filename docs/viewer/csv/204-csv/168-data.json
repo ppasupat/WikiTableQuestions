@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "4368",
+      "utterance": "how much larger was the attendance on 11/25/2013 than 12/21/2013?",
+      "id": "nt-4190"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "was the attendance of the game held on 11/19/2013 greater than 1,000?",
+      "id": "nt-5374"
+    },
+    {
+      "targetValue": "Trinity (FL)",
+      "utterance": "which game was won by a bigger margin, against trinity (fl) or against trinity baptist?",
+      "id": "nt-7648"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many games did the wildcats play in daytona beach, fl?",
+      "id": "nt-8703"
+    },
+    {
+      "targetValue": "409",
+      "utterance": "what is the total attendance on 11/09/2013?",
+      "id": "nt-12196"
+    },
+    {
+      "targetValue": "Northern Colorado",
+      "utterance": "which game was later at night, fiu or northern colorado?",
+      "id": "nt-12339"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many games had more than 1,500 in attendance?",
+      "id": "nt-12672"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many teams had at most an attendance of 1,000?",
+      "id": "nt-12903"
+    }
+  ],
+  "metadata": {
+    "title": "2013–14 Bethune-Cookman Wildcats men's basketball team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41244325&oldid=599361564",
+    "tableIndex": 1,
+    "hashcode": "8f0367754b5ee2f78710d7f37c3fb84e4fa615e3",
+    "id": 41244325,
+    "revision": 599361564
+  }
+}

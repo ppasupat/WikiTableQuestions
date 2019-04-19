@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "17",
+      "utterance": "how many performances occurred in the month of june?",
+      "id": "nt-9557"
+    },
+    {
+      "targetValue": "Move Festival",
+      "utterance": "which event is the most recurring on this list?",
+      "id": "nt-9750"
+    },
+    {
+      "targetValue": "June",
+      "utterance": "which month is the most popular month for concerts at the old trafford cricket ground?",
+      "id": "nt-13677"
+    }
+  ],
+  "metadata": {
+    "title": "Old Trafford Cricket Ground",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=660597&oldid=589950873",
+    "tableIndex": 0,
+    "hashcode": "3e50db887ae6258afcfdf76ceb5f69e35d17f09b",
+    "id": 660597,
+    "revision": 589950873
+  }
+}

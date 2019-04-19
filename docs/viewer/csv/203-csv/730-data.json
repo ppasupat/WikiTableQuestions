@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "24",
+      "utterance": "what was the difference in score for the tenth game of the season against the oakland raiders?",
+      "id": "nt-1523"
+    },
+    {
+      "targetValue": "Arizona Cardinals",
+      "utterance": "who did the broncos play against during the last game of the season?",
+      "id": "nt-2478"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many games did the broncos lose?",
+      "id": "nt-3575"
+    },
+    {
+      "targetValue": "Denver Broncos",
+      "utterance": "who won the first game of the season?",
+      "id": "nt-6240"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many consecutive wins took place before they lost their first time?",
+      "id": "nt-7384"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "which week did they not have a match?",
+      "id": "nt-10164"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "which week had the least amount of people in attendance?",
+      "id": "nt-13394"
+    }
+  ],
+  "metadata": {
+    "title": "2002 Denver Broncos season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17972790&oldid=591327011",
+    "tableIndex": 0,
+    "hashcode": "fd15c4606823ac99998553d75da6a302777a6215",
+    "id": 17972790,
+    "revision": 591327011
+  }
+}

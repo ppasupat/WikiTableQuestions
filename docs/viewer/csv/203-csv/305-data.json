@@ -1,0 +1,91 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many canadian players are listed?",
+      "id": "nt-1449"
+    },
+    {
+      "targetValue": "Jannik Hansen (RW)",
+      "utterance": "who is the only player to have denmark listed as their nationality?",
+      "id": "nt-2104"
+    },
+    {
+      "targetValue": "Cory Schneider (G)",
+      "utterance": "which player was the first player to be drafted?",
+      "id": "nt-3260"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "the first round not to have a draft pick.",
+      "id": "nt-4614"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many goalies drafted?",
+      "id": "nt-5153"
+    },
+    {
+      "targetValue": "Jannik Hansen (RW)",
+      "utterance": "what is the name of the last player on this chart?",
+      "id": "nt-6301"
+    },
+    {
+      "targetValue": [
+        "Andrew Sarauer (LW)",
+        "Julien Ellis (G)",
+        "David Schulz (D)"
+      ],
+      "utterance": "list each player drafted from canada.",
+      "id": "nt-6439"
+    },
+    {
+      "targetValue": [
+        "Cory Schneider (G)",
+        "Alexander Edler (D)",
+        "Andrew Sarauer (LW)",
+        "Mike Brown (RW)",
+        "Julien Ellis (G)",
+        "David Schulz (D)"
+      ],
+      "utterance": "which players are not from denmark?",
+      "id": "nt-7971"
+    },
+    {
+      "targetValue": "Andrew Sarauer (LW)",
+      "utterance": "which player has canadian nationality and attended langley hornets?",
+      "id": "nt-8521"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many players are from the united states?",
+      "id": "nt-9156"
+    },
+    {
+      "targetValue": [
+        "Cory Schneider (G)",
+        "Mike Brown (RW)"
+      ],
+      "utterance": "list only the american players.",
+      "id": "nt-9251"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many players were from the united states?",
+      "id": "nt-9812"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what number of players have canada listed as their nationality?",
+      "id": "nt-11021"
+    }
+  ],
+  "metadata": {
+    "title": "2004–05 Vancouver Canucks season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14108808&oldid=571311886",
+    "tableIndex": 2,
+    "hashcode": "b9db40d30b55d68f18d8c521e14c9d436d561a81",
+    "id": 14108808,
+    "revision": 571311886
+  }
+}

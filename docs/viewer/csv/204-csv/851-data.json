@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Thunakkadavu",
+      "utterance": "tell me reservoir that is from the sme river as parambikulam.",
+      "id": "nt-1026"
+    },
+    {
+      "targetValue": "Kollam",
+      "utterance": "what is the name of the district listed after thrissur?",
+      "id": "nt-1606"
+    },
+    {
+      "targetValue": "Valapattanam",
+      "utterance": "what is the name of the only reservoir in the kannur district?",
+      "id": "nt-2331"
+    },
+    {
+      "targetValue": "492",
+      "utterance": "what is the difference in altitude between thunakkadavu and peechi?",
+      "id": "nt-2931"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many have an area of at least 20 km?",
+      "id": "nt-7164"
+    },
+    {
+      "targetValue": "Bharathapuzha",
+      "utterance": "what is the name of the river listed before chalakkudy?",
+      "id": "nt-7491"
+    },
+    {
+      "targetValue": "Malampuzha",
+      "utterance": "name a reservoir that has an altitude of more than 100 but less than 500.",
+      "id": "nt-12338"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many are in the palakkad district?",
+      "id": "nt-12999"
+    }
+  ],
+  "metadata": {
+    "title": "List of reservoirs in Kerala",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3570179&oldid=600532800",
+    "tableIndex": 0,
+    "hashcode": "27627c46630b1895e7e0e4accb66c84b9e452931",
+    "id": 3570179,
+    "revision": 600532800
+  }
+}

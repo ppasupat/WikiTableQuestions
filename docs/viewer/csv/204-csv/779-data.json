@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "what is the total number of affiliates among all the networks?",
+      "id": "nt-1052"
+    },
+    {
+      "targetValue": "Once TV",
+      "utterance": "what is the only network owned by national polytechnic institute?",
+      "id": "nt-1190"
+    },
+    {
+      "targetValue": "TV Azteca",
+      "utterance": "azteca 7 and azteca 13 are both owned by whom?",
+      "id": "nt-1480"
+    },
+    {
+      "targetValue": "Azteca 7",
+      "utterance": "name a station that shows sports but is not televisa.",
+      "id": "nt-3424"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "what is the difference between the number of affiliates galavision has and the number of affiliates azteca 13 has?",
+      "id": "nt-4535"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of networks that are owned by televisa?",
+      "id": "nt-4789"
+    },
+    {
+      "targetValue": "Televisa",
+      "utterance": "who is the only network owner listed in a consecutive order in the chart?",
+      "id": "nt-5344"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many networks does tv azteca own?",
+      "id": "nt-7209"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many networks do not air sports?",
+      "id": "nt-8160"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many affiliates does galavision have?",
+      "id": "nt-9100"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the average number of affiliates that a given network will have?",
+      "id": "nt-9828"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many networks does televisa own?",
+      "id": "nt-11409"
+    }
+  ],
+  "metadata": {
+    "title": "Television stations in Morelos",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=32114162&oldid=565569015",
+    "tableIndex": 0,
+    "hashcode": "5c0fe9194f8e79b72c386bd1cf8f551796a45a9d",
+    "id": 32114162,
+    "revision": 565569015
+  }
+}

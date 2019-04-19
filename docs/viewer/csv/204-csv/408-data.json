@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "21",
+      "utterance": "what are the combined number of years argentina and brazil placed in that top 4 or above?",
+      "id": "nt-441"
+    },
+    {
+      "targetValue": "Argentina",
+      "utterance": "name a country that has finished second at least twice.",
+      "id": "nt-592"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many years did argentina take first place?",
+      "id": "nt-3412"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many times has brazil been in first place?",
+      "id": "nt-3570"
+    },
+    {
+      "targetValue": "Greenland",
+      "utterance": "which nation finished higher in 2000, greenland or mexico?",
+      "id": "nt-4258"
+    },
+    {
+      "targetValue": "Canada",
+      "utterance": "who has competed more years, cuba or canada?",
+      "id": "nt-5882"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "what is the total number of nations?",
+      "id": "nt-5959"
+    },
+    {
+      "targetValue": "3rd",
+      "utterance": "greenland came in fifth place in 1999, how did they do the year after?",
+      "id": "nt-6319"
+    },
+    {
+      "targetValue": "2011",
+      "utterance": "venezuela did not place before what year?",
+      "id": "nt-8465"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the number of nations that placed more than five different years?",
+      "id": "nt-9045"
+    },
+    {
+      "targetValue": "Brazil",
+      "utterance": "who placed first in 2007?",
+      "id": "nt-9342"
+    },
+    {
+      "targetValue": "Argentina",
+      "utterance": "who was the top competitor in 2009?",
+      "id": "nt-12525"
+    }
+  ],
+  "metadata": {
+    "title": "American Handball Women's Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30660756&oldid=582370208",
+    "tableIndex": 1,
+    "hashcode": "62b3e0ec32719ab7778d962b7350041339cf3d23",
+    "id": 30660756,
+    "revision": 582370208
+  }
+}

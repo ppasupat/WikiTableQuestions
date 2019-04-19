@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Melbourne House",
+      "utterance": "which publisher worked on a title consecutively from 1982-1989?",
+      "id": "nt-2900"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "number of official middle-earth video games before the year 2000.",
+      "id": "nt-3578"
+    },
+    {
+      "targetValue": "Guardians of Middle-earth",
+      "utterance": "what lord of the rings game was previously released before lego the lord of the rings?",
+      "id": "nt-4251"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many titles did melbourne house publish",
+      "id": "nt-6174"
+    },
+    {
+      "targetValue": "The Hobbit",
+      "utterance": "which project had greatest number of platforms?",
+      "id": "nt-6367"
+    },
+    {
+      "targetValue": "34",
+      "utterance": "what is the total number of lord of the rings games released since 1982?",
+      "id": "nt-6373"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "total number of middle-earth video games published by melbourne house",
+      "id": "nt-9754"
+    },
+    {
+      "targetValue": "Electronic Arts",
+      "utterance": "which publisher had the most projects?",
+      "id": "nt-11557"
+    },
+    {
+      "targetValue": "The Lord of the Rings Volume 1",
+      "utterance": "name one title not developed by melbourne house",
+      "id": "nt-11998"
+    },
+    {
+      "targetValue": "The Hobbit",
+      "utterance": "name a middle-earth video game released before 1990.",
+      "id": "nt-13859"
+    }
+  ],
+  "metadata": {
+    "title": "Middle-earth in video games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5357946&oldid=596023610",
+    "tableIndex": 0,
+    "hashcode": "9629243d55511060b0fcc5fdedca3d352a538924",
+    "id": 5357946,
+    "revision": 596023610
+  }
+}

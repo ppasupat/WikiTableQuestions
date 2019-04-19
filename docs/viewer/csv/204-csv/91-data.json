@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "Dorian Grays Portræt",
+      "utterance": "what was henrick malberg's first film?",
+      "id": "nt-468"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "how many years had passed from malberg's first film to the first danish film with sound?",
+      "id": "nt-2116"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times does fy & bi film appear under the notes column?",
+      "id": "nt-3258"
+    },
+    {
+      "targetValue": "Lille Klaus og store Klaus",
+      "utterance": "after 'lejila' what was malberg's next film?",
+      "id": "nt-3318"
+    },
+    {
+      "targetValue": "The Clever Man",
+      "utterance": "what is the english title listed before sun over denmark?",
+      "id": "nt-3915"
+    },
+    {
+      "targetValue": "The Vicar of Vejlby",
+      "utterance": "what film was malberg in before 'william tell and son'?",
+      "id": "nt-6415"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "the most films henrick malberg appeared in in one year.",
+      "id": "nt-6640"
+    },
+    {
+      "targetValue": "Ordet",
+      "utterance": "what is the first original title listed on this chart?",
+      "id": "nt-7933"
+    },
+    {
+      "targetValue": "The Man at Midnight",
+      "utterance": "what film did malberg star in after his role in love that lives?",
+      "id": "nt-9019"
+    },
+    {
+      "targetValue": "Ordet",
+      "utterance": "what was henrick malberg's last film?",
+      "id": "nt-9067"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "in how many films did henrik malberg appear?",
+      "id": "nt-11880"
+    },
+    {
+      "targetValue": "1955",
+      "utterance": "in what year was henrik malberg's last film released?",
+      "id": "nt-12036"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "what are the number of films starring henrik malberg that have translated english titles?",
+      "id": "nt-12212"
+    }
+  ],
+  "metadata": {
+    "title": "Henrik Malberg",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11069852&oldid=592577707",
+    "tableIndex": 0,
+    "hashcode": "6928bd55ca27965ad9bc84cd3a1ddf83258beede",
+    "id": 11069852,
+    "revision": 592577707
+  }
+}

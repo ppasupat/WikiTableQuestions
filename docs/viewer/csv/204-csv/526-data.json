@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "total number of players whose home town was in north carolina (nc)",
+      "id": "nt-267"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many players were taller than van hatchell?",
+      "id": "nt-4336"
+    },
+    {
+      "targetValue": [
+        "Van Hatchell",
+        "D.J. Johnston"
+      ],
+      "utterance": "names of players who were exactly 6 feet, 4 inches tall, but did not weight over 200 pounds",
+      "id": "nt-4364"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the number of players with a weight over 200?",
+      "id": "nt-6819"
+    },
+    {
+      "targetValue": "Tyler Zeller",
+      "utterance": "tallest player on the team",
+      "id": "nt-7381"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many players play a position other than guard?",
+      "id": "nt-8431"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the number of freshmen on the team?",
+      "id": "nt-9270"
+    },
+    {
+      "targetValue": "John Henson",
+      "utterance": "who was taller, justin knox or john henson?",
+      "id": "nt-11245"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many players are not a junior?",
+      "id": "nt-11500"
+    }
+  ],
+  "metadata": {
+    "title": "2010–11 North Carolina Tar Heels men's basketball team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=26789660&oldid=601830226",
+    "tableIndex": 1,
+    "hashcode": "6f39ec9d5d05b4002d4bd9aa86d21f0c37660ea6",
+    "id": 26789660,
+    "revision": 601830226
+  }
+}

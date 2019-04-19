@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "2121",
+      "utterance": "what is the difference in population between enping and heshan?",
+      "id": "nt-2182"
+    },
+    {
+      "targetValue": "Jianghai District",
+      "utterance": "what city proper has the smallest area in km2?",
+      "id": "nt-3395"
+    },
+    {
+      "targetValue": "Taishan",
+      "utterance": "what is the most populated district?",
+      "id": "nt-4619"
+    },
+    {
+      "targetValue": "Less",
+      "utterance": "is enping more/less dense than kaiping?",
+      "id": "nt-4779"
+    },
+    {
+      "targetValue": "Taishan",
+      "utterance": "which area is the least dense?",
+      "id": "nt-8336"
+    },
+    {
+      "targetValue": "Taishan",
+      "utterance": "which area has the largest population?",
+      "id": "nt-9600"
+    },
+    {
+      "targetValue": "Taishan",
+      "utterance": "which area under the satellite cities has the most in population?",
+      "id": "nt-10853"
+    }
+  ],
+  "metadata": {
+    "title": "Jiangmen",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=395935&oldid=599256060",
+    "tableIndex": 0,
+    "hashcode": "e1e8d4bf9c3854ffac937abeb43538d1b5087428",
+    "id": 395935,
+    "revision": 599256060
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "25",
+      "utterance": "how many seats were in 1945?",
+      "id": "nt-1736"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many consecutive years did the christian social people's party get over 30% of the votes?",
+      "id": "nt-4718"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "the total number of total vote percentage",
+      "id": "nt-5098"
+    },
+    {
+      "targetValue": "7.6",
+      "utterance": "what was the difference in vote percent between 1968 and 1974?",
+      "id": "nt-5185"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "was there a cabinet in 1974?",
+      "id": "nt-5907"
+    },
+    {
+      "targetValue": "1989",
+      "utterance": "in which year was there the same decrease in seats as the decrease in seats in the year 1948?",
+      "id": "nt-8046"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did the party place 2nd?",
+      "id": "nt-9307"
+    },
+    {
+      "targetValue": "33.6",
+      "utterance": "what was the vote % in 2013?",
+      "id": "nt-10303"
+    },
+    {
+      "targetValue": "1954",
+      "utterance": "the year with the most vote %",
+      "id": "nt-10563"
+    }
+  ],
+  "metadata": {
+    "title": "Christian Social People's Party",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=424654&oldid=598103557",
+    "tableIndex": 0,
+    "hashcode": "27e92d9ecfe08e2184da795d933002ce25b2dc58",
+    "id": 424654,
+    "revision": 598103557
+  }
+}

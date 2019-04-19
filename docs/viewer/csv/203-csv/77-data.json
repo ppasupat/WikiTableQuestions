@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": "i",
+      "utterance": "which album was the least acclaimed but did reach the billboard 200?",
+      "id": "nt-391"
+    },
+    {
+      "targetValue": [
+        "Distortion",
+        "Love at the Bottom of the Sea"
+      ],
+      "utterance": "which album by the magnetic fields reached higher than 100 on the billboard chart?",
+      "id": "nt-2502"
+    },
+    {
+      "targetValue": "Distortion",
+      "utterance": "was distortion or love at the bottom of the sea the highest rated album?",
+      "id": "nt-3722"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total number of albus from this chart that made the billboard 200?",
+      "id": "nt-4815"
+    },
+    {
+      "targetValue": "Distant Plastic Trees",
+      "utterance": "what was the earliest released album?",
+      "id": "nt-6936"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many years after 1999 did merge records release their next album?",
+      "id": "nt-7561"
+    },
+    {
+      "targetValue": "69 Love Songs",
+      "utterance": "what album title came next after get lost?",
+      "id": "nt-9072"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many albums garnered chart positions?",
+      "id": "nt-10735"
+    },
+    {
+      "targetValue": "Below",
+      "utterance": "realism and i were above or below number 100 on the billboard 200?",
+      "id": "nt-12048"
+    }
+  ],
+  "metadata": {
+    "title": "Stephin Merritt discography",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15593730&oldid=583337162",
+    "tableIndex": 0,
+    "hashcode": "93de57f01414135097945b31c0889201134a72a3",
+    "id": 15593730,
+    "revision": 583337162
+  }
+}

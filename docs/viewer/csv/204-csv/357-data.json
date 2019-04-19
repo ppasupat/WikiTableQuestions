@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Vokhid Shodiev",
+      "utterance": "who was the top scorer after sukhrob nematov?",
+      "id": "nt-163"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many top scorers do not appear twice?",
+      "id": "nt-192"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many years was shodiev the top scorer?",
+      "id": "nt-2963"
+    },
+    {
+      "targetValue": "2003",
+      "utterance": "what is the first year listed?",
+      "id": "nt-3363"
+    },
+    {
+      "targetValue": "Alisher Kholiqov - 9",
+      "utterance": "what scorer is above lochin soliev?",
+      "id": "nt-4800"
+    },
+    {
+      "targetValue": "2004",
+      "utterance": "which year had a higher position, 2008 or 2004?",
+      "id": "nt-8278"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "the number of times alisher kholigov was the top scorer in the league?",
+      "id": "nt-10041"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many 1/4 cups are there?",
+      "id": "nt-11735"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "what year did buxoro place first?",
+      "id": "nt-12091"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "total times vokhid shodiev was the league scorer?",
+      "id": "nt-13763"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what is the total number of years?",
+      "id": "nt-13815"
+    }
+  ],
+  "metadata": {
+    "title": "Buxoro FK",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6695581&oldid=592242254",
+    "tableIndex": 1,
+    "hashcode": "cddf15c36ffac1aaf5e697af9a45d1235b78fafc",
+    "id": 6695581,
+    "revision": 592242254
+  }
+}

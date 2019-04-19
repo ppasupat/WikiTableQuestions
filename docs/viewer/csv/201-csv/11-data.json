@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many many regions make up the swedish part?",
+      "id": "nt-2057"
+    },
+    {
+      "targetValue": "Danish Capital Region",
+      "utterance": "which region has the most population?",
+      "id": "nt-3922"
+    },
+    {
+      "targetValue": "Danish Capital Region",
+      "utterance": "which region in the danish part has the highest population?",
+      "id": "nt-5154"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "which regions have over one million in population?",
+      "id": "nt-6059"
+    },
+    {
+      "targetValue": "Danish",
+      "utterance": "does the swedish part or the danish part have a higher population?",
+      "id": "nt-8493"
+    }
+  ],
+  "metadata": {
+    "title": "Øresund Region",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=852483&oldid=595206817",
+    "tableIndex": 0,
+    "hashcode": "faf60b49a2cf0ddbca7dcf0225f0523be7a40404",
+    "id": 852483,
+    "revision": 595206817
+  }
+}

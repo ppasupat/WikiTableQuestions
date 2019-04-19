@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "0:19",
+      "utterance": "what was the length of the shortest track?",
+      "id": "nt-1076"
+    },
+    {
+      "targetValue": "\"I Remember\"",
+      "utterance": "how long is the longest dong on prophets vs. profits?",
+      "id": "nt-2574"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many songs from this album were produced by rick long?",
+      "id": "nt-2607"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of tracks under one minute in length?",
+      "id": "nt-3597"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many songs are on prophets vs. profits?",
+      "id": "nt-7343"
+    },
+    {
+      "targetValue": "\"I Remember\"",
+      "utterance": "which song comes directly before \"down the charts\"?",
+      "id": "nt-8582"
+    },
+    {
+      "targetValue": "\"My People\"",
+      "utterance": "what is the shortest song from the album?",
+      "id": "nt-8650"
+    },
+    {
+      "targetValue": "\"Things Is About To Change\"",
+      "utterance": "what is the song after \"ova here\"?",
+      "id": "nt-9455"
+    },
+    {
+      "targetValue": "\"2nd Kreditz\"",
+      "utterance": "what song on prophets vs. profits has no producer?",
+      "id": "nt-10615"
+    },
+    {
+      "targetValue": "\"Ova Here\"",
+      "utterance": "the first song on prophets vs. profits is called what?",
+      "id": "nt-13135"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many tracks were produced by milanna miles and rick long?",
+      "id": "nt-13417"
+    },
+    {
+      "targetValue": "\"I Remember\"",
+      "utterance": "what is the title of the next track after kreditz?",
+      "id": "nt-13678"
+    },
+    {
+      "targetValue": "\"Splash\"",
+      "utterance": "a-sharp and pleasure king produced what title track?",
+      "id": "nt-14057"
+    }
+  ],
+  "metadata": {
+    "title": "The Mix Tape (KRS-One album)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5975459&oldid=576513938",
+    "tableIndex": 2,
+    "hashcode": "6a70e6ef7d6f83120ebe124b2215f2e9c5cbc23c",
+    "id": 5975459,
+    "revision": 576513938
+  }
+}

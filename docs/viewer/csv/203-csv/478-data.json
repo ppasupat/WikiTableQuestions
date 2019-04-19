@@ -1,0 +1,40 @@
+{
+  "examples": [
+    {
+      "targetValue": "Detroit Lions",
+      "utterance": "against which opponent were there the most people in attendance?",
+      "id": "nt-2246"
+    },
+    {
+      "targetValue": "November 11, 1956",
+      "utterance": "when was their second win?",
+      "id": "nt-5909"
+    },
+    {
+      "targetValue": "December 2, 1956",
+      "utterance": "which game date only had a bit more than 20,000 in attendance?",
+      "id": "nt-9941"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "in how many games did they score at least 30 points?",
+      "id": "nt-13026"
+    },
+    {
+      "targetValue": [
+        "November 4, 1956",
+        "November 11, 1956"
+      ],
+      "utterance": "besides the game in november 18, 1956, which other game date had 69,000 people in attendance?",
+      "id": "nt-13718"
+    }
+  ],
+  "metadata": {
+    "title": "1956 Los Angeles Rams season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11172515&oldid=587811183",
+    "tableIndex": 0,
+    "hashcode": "f4371217c39deb25ff1e30efc47a6601cdeb2e2f",
+    "id": 11172515,
+    "revision": 587811183
+  }
+}

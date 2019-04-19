@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "64GB SSD",
+      "utterance": "what is the next highest hard drive available after the 30gb model?",
+      "id": "nt-152"
+    },
+    {
+      "targetValue": "model 03 (China Copy)",
+      "utterance": "which model weighs the most, according to the table?",
+      "id": "nt-2563"
+    },
+    {
+      "targetValue": "Display",
+      "utterance": "what is the component before usb?",
+      "id": "nt-2592"
+    },
+    {
+      "targetValue": "Via C7M ULV 1.6 GHz",
+      "utterance": "the model 2 and the model 2e have what type of cpu?",
+      "id": "nt-3767"
+    },
+    {
+      "targetValue": "Model 02",
+      "utterance": "which model provides a larger hard drive: model 01 or model 02?",
+      "id": "nt-4254"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "what is the total number of components on the chart?",
+      "id": "nt-4281"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "are there at least 13 different components on the chart?",
+      "id": "nt-5310"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many models use a usb docking cable?",
+      "id": "nt-6736"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the average number of models that have usb 2.0?",
+      "id": "nt-6807"
+    },
+    {
+      "targetValue": "Wacom",
+      "utterance": "what component comes after bluetooth?",
+      "id": "nt-9431"
+    },
+    {
+      "targetValue": "29g",
+      "utterance": "how much more weight does the model 3 have over model 1?",
+      "id": "nt-12332"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many models have 1.6ghz?",
+      "id": "nt-13179"
+    }
+  ],
+  "metadata": {
+    "title": "OQO",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=817538&oldid=586242249",
+    "tableIndex": 0,
+    "hashcode": "e0922715aab80dfdc75506199fae9e95f0a205ae",
+    "id": 817538,
+    "revision": 586242249
+  }
+}

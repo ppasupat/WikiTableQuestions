@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "52.17",
+      "utterance": "how long is manjeet kaur's time?",
+      "id": "nt-1081"
+    },
+    {
+      "targetValue": "53.66",
+      "utterance": "how long did it take the fifth place finisher to run the race?",
+      "id": "nt-1383"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many athletes finished before pinki pramanik?",
+      "id": "nt-2827"
+    },
+    {
+      "targetValue": "Olga Tereshkova",
+      "utterance": "who placed first in the 2006 asian games finals??",
+      "id": "nt-4042"
+    },
+    {
+      "targetValue": "0.02",
+      "utterance": "what was the difference between he bronze medalist and the fourth place finisher's time?",
+      "id": "nt-5884"
+    },
+    {
+      "targetValue": "Chandrika Subashini (SRI)",
+      "utterance": "name the only athlete from sri lanka.",
+      "id": "nt-6623"
+    },
+    {
+      "targetValue": [
+        "Mayu Kida",
+        "Chandrika Subashini"
+      ],
+      "utterance": "who were the only two runners to complete the race in over 54 seconds?",
+      "id": "nt-9372"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many athletes did not finish with the time less than 53.00?",
+      "id": "nt-10663"
+    },
+    {
+      "targetValue": "Olga Tereshkova",
+      "utterance": "who was the top finisher?",
+      "id": "nt-11730"
+    },
+    {
+      "targetValue": "Asami Tanno",
+      "utterance": "who placed after manjeet kaur?",
+      "id": "nt-12499"
+    },
+    {
+      "targetValue": ".31",
+      "utterance": "how much faster was olga tereshkova's time compared to mahjeet kaur?",
+      "id": "nt-14110"
+    }
+  ],
+  "metadata": {
+    "title": "Athletics at the 2006 Asian Games – Women's 400 metres",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=38942146&oldid=591107081",
+    "tableIndex": 4,
+    "hashcode": "7ebcba9340f9217d530c14b592d24904bdf7208f",
+    "id": 38942146,
+    "revision": 591107081
+  }
+}

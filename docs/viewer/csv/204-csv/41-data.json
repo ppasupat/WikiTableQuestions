@@ -1,0 +1,74 @@
+{
+  "examples": [
+    {
+      "targetValue": "Costa Rican",
+      "utterance": "maria paris came in sixth place. what is her nationality?",
+      "id": "nt-580"
+    },
+    {
+      "targetValue": "Jill Sterkel",
+      "utterance": "who is ranked at the top",
+      "id": "nt-1655"
+    },
+    {
+      "targetValue": "Susan Sloan",
+      "utterance": "who timed in after shelley cramer?",
+      "id": "nt-1699"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many swimmers swam faster than 1:03.59?",
+      "id": "nt-1981"
+    },
+    {
+      "targetValue": [
+        "U.S. Virgin Islands",
+        "Canada",
+        "Costa Rica"
+      ],
+      "utterance": "which three countries were consecutive in time after third place?",
+      "id": "nt-2299"
+    },
+    {
+      "targetValue": [
+        "United States",
+        "Canada"
+      ],
+      "utterance": "which two countries has the most number of participants?",
+      "id": "nt-2741"
+    },
+    {
+      "targetValue": "1:06.79",
+      "utterance": "how long was the longest time?",
+      "id": "nt-7786"
+    },
+    {
+      "targetValue": "Susan Sloan",
+      "utterance": "who was faster? maria paris or susan sloan?",
+      "id": "nt-10424"
+    },
+    {
+      "targetValue": "Rosanna Juncos",
+      "utterance": "which swimmer was previous to brazil's contestant?",
+      "id": "nt-10644"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many countries had two athletes representing their country?",
+      "id": "nt-12969"
+    },
+    {
+      "targetValue": "3:27",
+      "utterance": "how much better is susan sloan's time, than adriana pereira's?",
+      "id": "nt-13424"
+    }
+  ],
+  "metadata": {
+    "title": "Swimming at the 1979 Pan American Games – Women's 100 metre butterfly",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=40770855&oldid=581625269",
+    "tableIndex": 2,
+    "hashcode": "3acf0ac549a18953da4351197427f669036b2b2a",
+    "id": 40770855,
+    "revision": 581625269
+  }
+}

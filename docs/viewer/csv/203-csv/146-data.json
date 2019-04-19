@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Outstanding Actress in a Play",
+      "utterance": "jones won best actress in a play in 2005. which other award did she win that year?",
+      "id": "nt-297"
+    },
+    {
+      "targetValue": "Drama Desk Awards",
+      "utterance": "what award does cherry jones have the most of?",
+      "id": "nt-687"
+    },
+    {
+      "targetValue": "GLAAD Media Awards",
+      "utterance": "which association awarded jones' first award after the year 2000?",
+      "id": "nt-3328"
+    },
+    {
+      "targetValue": "Best Supporting Actress - Series, Miniseries or Television Film",
+      "utterance": "what category was the last nomination?",
+      "id": "nt-4692"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "total number of times she was nominated for 'best actress in a play' by the tony awards?",
+      "id": "nt-6391"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many total awards does cherry jones have?",
+      "id": "nt-7862"
+    },
+    {
+      "targetValue": "The Heiress",
+      "utterance": "which movie was the first win?",
+      "id": "nt-8154"
+    },
+    {
+      "targetValue": "Doubt",
+      "utterance": "when cherry jones won a primetime emmy for her work on 24, what was her previous award winning role?",
+      "id": "nt-9475"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many awards did jones win in 2009?",
+      "id": "nt-10626"
+    }
+  ],
+  "metadata": {
+    "title": "Cherry Jones",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2005574&oldid=601722356",
+    "tableIndex": 2,
+    "hashcode": "214c3dee81881c50bc9e9311a41ab0843e9f8f33",
+    "id": 2005574,
+    "revision": 601722356
+  }
+}

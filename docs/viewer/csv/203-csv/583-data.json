@@ -1,0 +1,78 @@
+{
+  "examples": [
+    {
+      "targetValue": "Gunbird Special Edition / Gunbird 1&2",
+      "utterance": "what was the first non volume game released in 2004?",
+      "id": "nt-188"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many psikyo shooting collection games were released?",
+      "id": "nt-425"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many more games were released in 2005 than 2003?",
+      "id": "nt-2271"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the number or grand prix games released by psikyo games from 2003 to 2005?",
+      "id": "nt-5275"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the number of titles released by psikyo in 2004?",
+      "id": "nt-5860"
+    },
+    {
+      "targetValue": "2004",
+      "utterance": "what year had three consecutive shooting collection games?",
+      "id": "nt-6876"
+    },
+    {
+      "targetValue": "Taisen Hot Gimmick: Axes-Jong",
+      "utterance": "after sengoku cannon, which game was released?",
+      "id": "nt-8874"
+    },
+    {
+      "targetValue": "Buggy Grand Prix: Kattobi! Dai-Sakusen",
+      "utterance": "which game was released before gunbird special edition / gunbird 1&2?",
+      "id": "nt-10604"
+    },
+    {
+      "targetValue": [
+        "Gunbird Special Edition / Gunbird 1&2",
+        "Psikyo Shooting Collection Vol. 1: Strikers 1945 I & II",
+        "Psikyo Shooting Collection Vol. 2: Sengoku Ace & Sengoku Blade",
+        "Psikyo Shooting Collection Vol. 3: Sol Divide & Dragon Blaze",
+        "Taisen Hot Gimmick: Cosplay Mahjong"
+      ],
+      "utterance": "games released by psikyo in 2004?",
+      "id": "nt-11702"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many games were released for the psp?",
+      "id": "nt-12762"
+    },
+    {
+      "targetValue": "2004",
+      "utterance": "which year had the most game releases?",
+      "id": "nt-13563"
+    },
+    {
+      "targetValue": "Psikyo Shooting Collection Vol. 1: Strikers 1945 I & II",
+      "utterance": "what game was published in europe as 1945 but had a different name elsewhere?",
+      "id": "nt-13995"
+    }
+  ],
+  "metadata": {
+    "title": "Psikyo",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3787254&oldid=583365168",
+    "tableIndex": 1,
+    "hashcode": "c8d9d005334b31735d7a02c34f106925d24aff3d",
+    "id": 3787254,
+    "revision": 583365168
+  }
+}

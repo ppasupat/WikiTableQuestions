@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "9",
+      "utterance": "how many titles have at least 2 acts or more?",
+      "id": "nt-1993"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many total operas were performed at the dresden?",
+      "id": "nt-3282"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the number of operas from the oper genre?",
+      "id": "nt-6148"
+    },
+    {
+      "targetValue": "Feuersnot",
+      "utterance": "what was the first opera composed in the 1900s?",
+      "id": "nt-6863"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many of the listed compositions included at least 2 acts?",
+      "id": "nt-10144"
+    },
+    {
+      "targetValue": "3 acts",
+      "utterance": "how many acts did guntram have?",
+      "id": "nt-11522"
+    },
+    {
+      "targetValue": "Intermezzo",
+      "utterance": "which composition spanned a longer period from beginning of composition to premiere- elektra, or intermezzo?",
+      "id": "nt-13375"
+    }
+  ],
+  "metadata": {
+    "title": "List of operas by Richard Strauss",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20092980&oldid=545491914",
+    "tableIndex": 0,
+    "hashcode": "a0a63f9789cee137ee90056f46c71e72355b5d6b",
+    "id": 20092980,
+    "revision": 545491914
+  }
+}

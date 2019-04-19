@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Louisville",
+      "utterance": "who was the only champion?",
+      "id": "nt-640"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many 1 seeds are there?",
+      "id": "nt-2475"
+    },
+    {
+      "targetValue": "West",
+      "utterance": "what region is listed before the midwest?",
+      "id": "nt-3780"
+    },
+    {
+      "targetValue": "North Carolina A&T",
+      "utterance": "which team went finished later in the tournament, st. john's or north carolina a&t?",
+      "id": "nt-6283"
+    },
+    {
+      "targetValue": "Sweet Sixteen",
+      "utterance": "north carolina and unlv each made it to which round?",
+      "id": "nt-8249"
+    },
+    {
+      "targetValue": "Duke",
+      "utterance": "who is the only team from the east region to reach the final round?",
+      "id": "nt-9568"
+    },
+    {
+      "targetValue": "Louisville",
+      "utterance": "what team finished at the top of all else and was finished as champions?",
+      "id": "nt-9732"
+    },
+    {
+      "targetValue": "64",
+      "utterance": "how many number of teams played altogether?",
+      "id": "nt-12069"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many teams are in the east region.",
+      "id": "nt-13641"
+    }
+  ],
+  "metadata": {
+    "title": "1986 NCAA Men's Division I Basketball Tournament",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4371898&oldid=602226349",
+    "tableIndex": 1,
+    "hashcode": "c091c8effcd08ee22831ad9ec429a5e28afde1d4",
+    "id": 4371898,
+    "revision": 602226349
+  }
+}

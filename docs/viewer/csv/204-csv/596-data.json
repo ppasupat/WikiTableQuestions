@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Walsall Wood",
+      "utterance": "which team came in as runners up the most often between 1950 and 1960",
+      "id": "nt-1208"
+    },
+    {
+      "targetValue": "Walsall Wood",
+      "utterance": "which team scored the most goals in 1946?",
+      "id": "nt-1230"
+    },
+    {
+      "targetValue": "2005",
+      "utterance": "what was the last year chasetown won?",
+      "id": "nt-1268"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "tell me the difference in the scores for the game in 1955.",
+      "id": "nt-2148"
+    },
+    {
+      "targetValue": "Walsall Wood",
+      "utterance": "which team was the winner of the first final?",
+      "id": "nt-2677"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many finals did shelfield athletic win?",
+      "id": "nt-7605"
+    },
+    {
+      "targetValue": "Blakenall",
+      "utterance": "which teams had at least 3 wins in the 1970's?",
+      "id": "nt-9258"
+    },
+    {
+      "targetValue": "Bloxwich Strollers",
+      "utterance": "who won before walsall wood in 1952?",
+      "id": "nt-10209"
+    },
+    {
+      "targetValue": "Shelfield Athletic",
+      "utterance": "who had the most wins: shelfield athletic or sutton coldfield town?",
+      "id": "nt-12483"
+    },
+    {
+      "targetValue": "Walsall Wood",
+      "utterance": "who were the winners in 1946--walsall wood or wellington town reserves?",
+      "id": "nt-13236"
+    }
+  ],
+  "metadata": {
+    "title": "Walsall Senior Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3925835&oldid=577147783",
+    "tableIndex": 0,
+    "hashcode": "fc9548fb531cdeb5ede3b07532d3e00b64acfc33",
+    "id": 3925835,
+    "revision": 577147783
+  }
+}

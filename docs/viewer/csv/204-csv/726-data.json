@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Sven Kramer",
+      "utterance": "who was the top ranked competitor in the race?",
+      "id": "nt-1690"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many competitors were from france?",
+      "id": "nt-2134"
+    },
+    {
+      "targetValue": "Germany",
+      "utterance": "what country did the last person on the list come from?",
+      "id": "nt-3485"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "how many runners took 2 minutes at the most to run 1500 meters?",
+      "id": "nt-3668"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of 1500 meter runners that came from italy?",
+      "id": "nt-6543"
+    },
+    {
+      "targetValue": "Netherlands",
+      "utterance": "lavia is ranked 6, but who is ranked above it?",
+      "id": "nt-8657"
+    },
+    {
+      "targetValue": "191.442",
+      "utterance": "what is the total number of points obtained by the top 5 runners on the list?",
+      "id": "nt-10904"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many athletes have their time below the 1:55 marking?",
+      "id": "nt-11908"
+    },
+    {
+      "targetValue": "Moritz Geisreiter",
+      "utterance": "who is the last athlete?",
+      "id": "nt-13090"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many athletes finished the race under 1:56?",
+      "id": "nt-13613"
+    }
+  ],
+  "metadata": {
+    "title": "2012 European Allround Speed Skating Championships",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=34284369&oldid=588221142",
+    "tableIndex": 8,
+    "hashcode": "4f7d9884421a5c1af6aeb6d88b1fab8f9574ca70",
+    "id": 34284369,
+    "revision": 588221142
+  }
+}

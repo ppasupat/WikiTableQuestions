@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Brenda Fassie",
+      "utterance": "who is the first pop musician on this list?",
+      "id": "nt-590"
+    },
+    {
+      "targetValue": "Politician",
+      "utterance": "mark ferrandino, frank ferri, joe fitzpatrick and ed flanagan were each what profession?",
+      "id": "nt-1300"
+    },
+    {
+      "targetValue": "American",
+      "utterance": "which nationality is top on the chart",
+      "id": "nt-3113"
+    },
+    {
+      "targetValue": "Lillian Faderman",
+      "utterance": "what is the name on top of the list?",
+      "id": "nt-3472"
+    },
+    {
+      "targetValue": "Peter Fallico",
+      "utterance": "which name is before sam falson",
+      "id": "nt-3779"
+    },
+    {
+      "targetValue": "Lillian Faderman",
+      "utterance": "what is the first name on the chart",
+      "id": "nt-7725"
+    },
+    {
+      "targetValue": "David Furnish",
+      "utterance": "what is the last name on the list?",
+      "id": "nt-9689"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "what is the total number of lesbians in the table?",
+      "id": "nt-10392"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many total bisexual females are in the table?",
+      "id": "nt-11296"
+    }
+  ],
+  "metadata": {
+    "title": "List of gay, lesbian or bisexual people: F",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14005297&oldid=592278079",
+    "tableIndex": 0,
+    "hashcode": "ac6b59978a5b96bcf7b3da1ab27467da5fb2b91c",
+    "id": 14005297,
+    "revision": 592278079
+  }
+}

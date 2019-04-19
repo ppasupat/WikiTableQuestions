@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Byamba Enkh-Amgalan (MGL)",
+      "utterance": "what was the highest amount of penalty points?",
+      "id": "nt-5719"
+    },
+    {
+      "targetValue": "Dmitriy Pantov (KAZ)",
+      "utterance": "who had the fastest ski time?",
+      "id": "nt-6320"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "what are the number of athletes?",
+      "id": "nt-8368"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many countries were represented?",
+      "id": "nt-9408"
+    },
+    {
+      "targetValue": "Hideki Yamamoto",
+      "utterance": "who received the top time for japan?",
+      "id": "nt-9451"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many athletes did china have in the top 10 ranks?",
+      "id": "nt-9545"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "number of japanese athletes that finished with total time less than 1:10:00",
+      "id": "nt-9998"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many from china placed in top 10?",
+      "id": "nt-10347"
+    },
+    {
+      "targetValue": "below",
+      "utterance": "was the wang xin ranked above or below qiu lianhai?",
+      "id": "nt-11967"
+    },
+    {
+      "targetValue": "1:15:20.4",
+      "utterance": "how long did byamba enkh-amgalan take to ski the race?",
+      "id": "nt-12415"
+    }
+  ],
+  "metadata": {
+    "title": "Biathlon at the 1999 Asian Winter Games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8761780&oldid=544642206",
+    "tableIndex": 4,
+    "hashcode": "7f6e64dcad511343a88adc23417ad8cebf24f5ef",
+    "id": 8761780,
+    "revision": 544642206
+  }
+}

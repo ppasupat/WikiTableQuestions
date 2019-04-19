@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many people stayed at least 3 years in office?",
+      "id": "nt-5"
+    },
+    {
+      "targetValue": "William McCreery",
+      "utterance": "which congressman preceded alexander mckim?",
+      "id": "nt-1142"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many people served in this office?",
+      "id": "nt-2150"
+    },
+    {
+      "targetValue": "William McCreery",
+      "utterance": "who was the first person to hold this office?",
+      "id": "nt-2651"
+    },
+    {
+      "targetValue": "13 years",
+      "utterance": "before peter little, how long did the democratic republican party hold the office, in years?",
+      "id": "nt-4437"
+    },
+    {
+      "targetValue": "March 3, 1829",
+      "utterance": "when was peter little's last day in office?",
+      "id": "nt-5414"
+    },
+    {
+      "targetValue": "Democratic Republican",
+      "utterance": "what was the first party to hold the office within this table?",
+      "id": "nt-8121"
+    },
+    {
+      "targetValue": "Democratic Republican",
+      "utterance": "which party had the most consecutive candidates?",
+      "id": "nt-8563"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many individuals held the office within this table?",
+      "id": "nt-9939"
+    },
+    {
+      "targetValue": "Peter Little",
+      "utterance": "which congressman took office the most times?",
+      "id": "nt-10447"
+    },
+    {
+      "targetValue": "William McCreery",
+      "utterance": "who was the first person to take office in 1803?",
+      "id": "nt-11362"
+    },
+    {
+      "targetValue": "6 years",
+      "utterance": "how long did alexander kim hold the office?",
+      "id": "nt-13397"
+    }
+  ],
+  "metadata": {
+    "title": "Maryland's 5th congressional district",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3881134&oldid=597402618",
+    "tableIndex": 9,
+    "hashcode": "ad5e05b1836c3d37aaa5399fac15b59e67f341e4",
+    "id": 3881134,
+    "revision": 597402618
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "30",
+      "utterance": "how many gold and bronze medals were achieved overall?",
+      "id": "nt-622"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many more silvers did italy win compared to the united states?",
+      "id": "nt-1407"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many more medals did italy win than the soviet union?",
+      "id": "nt-2258"
+    },
+    {
+      "targetValue": "23",
+      "utterance": "what is the total number of boxing metals earned by the top 4 countries at the 1960 olympics?",
+      "id": "nt-2494"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many countries have more than 5 medals in total?",
+      "id": "nt-2727"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many medals total did poland win?",
+      "id": "nt-6128"
+    },
+    {
+      "targetValue": "United States (USA)",
+      "utterance": "which american country placed first?",
+      "id": "nt-6918"
+    },
+    {
+      "targetValue": "Italy",
+      "utterance": "which country earned at least 2 gold medals and 2 silver medals in boxing at the 1960 olympics?",
+      "id": "nt-8259"
+    },
+    {
+      "targetValue": "Italy",
+      "utterance": "which country comes in first place?",
+      "id": "nt-11244"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "japan earned only 1 bronze metal in boxing during the 1960 olympics. how many other countries earned the exact same metal count as japan?",
+      "id": "nt-11920"
+    }
+  ],
+  "metadata": {
+    "title": "Boxing at the 1960 Summer Olympics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1530164&oldid=598405572",
+    "tableIndex": 0,
+    "hashcode": "07c9ccb8161f7e73d55c6a850ae07b469d00a398",
+    "id": 1530164,
+    "revision": 598405572
+  }
+}

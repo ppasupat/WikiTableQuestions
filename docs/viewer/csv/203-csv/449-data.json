@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "62 years",
+      "utterance": "how long did elisabeth irwin live?",
+      "id": "nt-390"
+    },
+    {
+      "targetValue": "Håkan Isacson",
+      "utterance": "which gay, lesbian, or bisexual famous person with a last name from i-j is from the same country as maja ivarsson?",
+      "id": "nt-1192"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many novelists are listed?",
+      "id": "nt-2481"
+    },
+    {
+      "targetValue": "60 years",
+      "utterance": "how long did william inge live?",
+      "id": "nt-5845"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many lesbians were born after 1950?",
+      "id": "nt-7450"
+    },
+    {
+      "targetValue": "Evelyn Irons",
+      "utterance": "who is the longest living lesbian on the list?",
+      "id": "nt-7757"
+    },
+    {
+      "targetValue": "Evelyn Irons",
+      "utterance": "who lived longer evelyn irons or arturo islas?",
+      "id": "nt-8944"
+    },
+    {
+      "targetValue": "George Cecil Ives",
+      "utterance": "who was the first person born?",
+      "id": "nt-11621"
+    },
+    {
+      "targetValue": "Per Imerslund",
+      "utterance": "who was the first to die after elisabeth irwin?",
+      "id": "nt-12506"
+    },
+    {
+      "targetValue": "Richard Isay",
+      "utterance": "who is the oldest living gay, lesbian, or bisexual famous person with a last name from i-j?",
+      "id": "nt-13151"
+    }
+  ],
+  "metadata": {
+    "title": "List of gay, lesbian or bisexual people: I–J",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20269727&oldid=597868337",
+    "tableIndex": 0,
+    "hashcode": "94afcdab920d513e49764d8ad0507325eddeab4e",
+    "id": 20269727,
+    "revision": 597868337
+  }
+}

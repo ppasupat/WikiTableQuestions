@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "3rd",
+      "utterance": "what was the finishing place of the team before the 2007-2008?",
+      "id": "nt-265"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total number of divisions on the chart?",
+      "id": "nt-677"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did they finish 1st?",
+      "id": "nt-2114"
+    },
+    {
+      "targetValue": "2005/06",
+      "utterance": "name a season they did not place higher than 18th.",
+      "id": "nt-4402"
+    },
+    {
+      "targetValue": "2nd",
+      "utterance": "in the last season 2011-2012 what was the teams finishing place?",
+      "id": "nt-5087"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many seasons are there?",
+      "id": "nt-5137"
+    },
+    {
+      "targetValue": "1st",
+      "utterance": "they finished 16th in 2008/09. how did they finish the previous year?",
+      "id": "nt-7822"
+    },
+    {
+      "targetValue": "Below",
+      "utterance": "in season 2008/09 was the place above or below 10th?",
+      "id": "nt-10231"
+    },
+    {
+      "targetValue": "11th",
+      "utterance": "what was the finishing place after the 2002-2003 season?",
+      "id": "nt-12953"
+    }
+  ],
+  "metadata": {
+    "title": "CD Santa Marta",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=22494358&oldid=555508896",
+    "tableIndex": 0,
+    "hashcode": "2785c684d0ca988fc4b9196c7586020710d0210c",
+    "id": 22494358,
+    "revision": 555508896
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "147",
+      "utterance": "how many points were scored when there were less than 15 races?",
+      "id": "nt-2153"
+    },
+    {
+      "targetValue": "2005",
+      "utterance": "what was the first season with more than 10 second place finishes?",
+      "id": "nt-4735"
+    },
+    {
+      "targetValue": "Maris Rupeiks",
+      "utterance": "between 2009 and 2010, which driver had the larger amount of points?",
+      "id": "nt-5283"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive years did modris stelle drive beginning in 2001?",
+      "id": "nt-6689"
+    },
+    {
+      "targetValue": "242",
+      "utterance": "how many points did the 2007 driver gain?",
+      "id": "nt-9030"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the number of races won in in 2012 by etienne bax?",
+      "id": "nt-9056"
+    },
+    {
+      "targetValue": "Willemsen",
+      "utterance": "did willemsen or stelle finish with the most points in the 2001-2013 driving season?",
+      "id": "nt-10296"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many points did stelle get in the 2001 season?",
+      "id": "nt-10737"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many wins were there in seasons with less than 400 points?",
+      "id": "nt-11219"
+    }
+  ],
+  "metadata": {
+    "title": "Kaspars Stupelis",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16775140&oldid=579593041",
+    "tableIndex": 0,
+    "hashcode": "97f5305858983e9a14bb0168fd6cf9ce5c4c7b88",
+    "id": 16775140,
+    "revision": 579593041
+  }
+}

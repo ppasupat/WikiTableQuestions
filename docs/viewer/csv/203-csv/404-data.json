@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Jaguar",
+      "utterance": "which ship lasted longer, jaguar or jersey?",
+      "id": "nt-3539"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "total number of j class ships completed.",
+      "id": "nt-6053"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of ships sank or otherwise destroyed between 1940 and 1945?",
+      "id": "nt-7609"
+    },
+    {
+      "targetValue": "Jackal",
+      "utterance": "what was the first destroyer to be completed?",
+      "id": "nt-8189"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many of these ships were sank?",
+      "id": "nt-9563"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of ships sold for scrap?",
+      "id": "nt-12278"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the total number of destroyers completed in august 1939?",
+      "id": "nt-13011"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many were sunk?",
+      "id": "nt-13504"
+    }
+  ],
+  "metadata": {
+    "title": "J, K and N-class destroyer",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5207286&oldid=598257470",
+    "tableIndex": 0,
+    "hashcode": "408933362f6a91056ec2a87a4e9769f342f8b70c",
+    "id": 5207286,
+    "revision": 598257470
+  }
+}

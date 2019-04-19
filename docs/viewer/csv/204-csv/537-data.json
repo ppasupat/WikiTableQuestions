@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "10-14 days",
+      "utterance": "how long does a chromic catgut maintain it's strength for",
+      "id": "nt-3284"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of suture materials that have a mono-filament structure?",
+      "id": "nt-3878"
+    },
+    {
+      "targetValue": "Chromic catgut",
+      "utterance": "what type of sutures are no longer used in the u.k. for human surgery?",
+      "id": "nt-4226"
+    },
+    {
+      "targetValue": "Polydioxanone (PDS)",
+      "utterance": "which suture can remain to at most 42 days",
+      "id": "nt-6699"
+    },
+    {
+      "targetValue": "Monofilament",
+      "utterance": "plain catgut and chromic catgut both have what type of structure?",
+      "id": "nt-6734"
+    },
+    {
+      "targetValue": "Polydioxanone (PDS)",
+      "utterance": "what type of suture is not to be used in conjunction with prosthetic devices?",
+      "id": "nt-7154"
+    },
+    {
+      "targetValue": "Braided",
+      "utterance": "what is the structure other than monofilament",
+      "id": "nt-7225"
+    },
+    {
+      "targetValue": "Strength retention for at least 7 days.",
+      "utterance": "the plain catgut maintains its strength for at least how many number of days?",
+      "id": "nt-10762"
+    }
+  ],
+  "metadata": {
+    "title": "Suture materials comparison chart",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=24809644&oldid=587086490",
+    "tableIndex": 0,
+    "hashcode": "85c14484aea5860705731b8221d9693262fd4434",
+    "id": 24809644,
+    "revision": 587086490
+  }
+}

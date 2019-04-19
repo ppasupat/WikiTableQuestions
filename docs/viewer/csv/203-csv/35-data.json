@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Jean-Philippe Ruggia",
+      "utterance": "who was the next rider after tetsuya harada?",
+      "id": "nt-285"
+    },
+    {
+      "targetValue": "Jean-Philippe Ruggia",
+      "utterance": "who was the only rider to score 9 points?",
+      "id": "nt-998"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many riders were faster than massimo ottobre?",
+      "id": "nt-1800"
+    },
+    {
+      "targetValue": "Takeshi Tsujimura",
+      "utterance": "who was the last rider in the 250cc class?",
+      "id": "nt-2752"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of japanese riders in the top 20?",
+      "id": "nt-3158"
+    },
+    {
+      "targetValue": "Max Biaggi",
+      "utterance": "what is the name of the rider that finished 6.914 seconds before marcellino lucchi?",
+      "id": "nt-3633"
+    },
+    {
+      "targetValue": "Marcellino Lucchi",
+      "utterance": "which rider scored more than 16 points but less than 25?",
+      "id": "nt-4075"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the difference between marcellino lucchi's points and max biaggi's points?",
+      "id": "nt-4179"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many riders in the top 15 were riding a honda?",
+      "id": "nt-5966"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "does olivier jacque have the same time as tetsuya harada?",
+      "id": "nt-6884"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of italian riders that placed in the top 10?",
+      "id": "nt-7769"
+    },
+    {
+      "targetValue": "Aprilia",
+      "utterance": "what manufacturer is listed for max biaggi and marcellino lucchi?",
+      "id": "nt-7867"
+    }
+  ],
+  "metadata": {
+    "title": "1996 Italian motorcycle Grand Prix",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17700256&oldid=594347694",
+    "tableIndex": 1,
+    "hashcode": "0e015977857085cb385497ba5f7b12b625fbb9d1",
+    "id": 17700256,
+    "revision": 594347694
+  }
+}

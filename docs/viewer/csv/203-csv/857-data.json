@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "how many denominations never dropped below 20%?",
+      "id": "nt-488"
+    },
+    {
+      "targetValue": "Roman Catholic",
+      "utterance": "which religious denomination had a higher percentage in 1900, jewish or roman catholic?",
+      "id": "nt-2540"
+    },
+    {
+      "targetValue": "Roman Catholic",
+      "utterance": "what is the largest religious denomination in budapest?",
+      "id": "nt-3521"
+    },
+    {
+      "targetValue": "2011",
+      "utterance": "in which year was the percentage of those without religion at least 20%?",
+      "id": "nt-4081"
+    },
+    {
+      "targetValue": "15.5%",
+      "utterance": "the percentage of people who identified as calvinist was, at most, how much?",
+      "id": "nt-5343"
+    },
+    {
+      "targetValue": "Roman Catholic",
+      "utterance": "which denomination held the largest percentage in 1880?",
+      "id": "nt-9406"
+    },
+    {
+      "targetValue": "43%",
+      "utterance": "what is the total percentage of people who identified as religious in 2011?",
+      "id": "nt-10345"
+    },
+    {
+      "targetValue": "Roman Catholic",
+      "utterance": "which denomination has the highest margin?",
+      "id": "nt-12679"
+    },
+    {
+      "targetValue": "Without religion",
+      "utterance": "which denomination percentage increased the most after 1949?",
+      "id": "nt-13253"
+    }
+  ],
+  "metadata": {
+    "title": "Demographics of Budapest",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19595832&oldid=588870565",
+    "tableIndex": 3,
+    "hashcode": "72a909cfa52d84d07e0203ae821aaf2c317a1b1b",
+    "id": 19595832,
+    "revision": 588870565
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "examples": [
+    {
+      "targetValue": "AL-31",
+      "utterance": "which model has a thrust of at least 12,000 kg?",
+      "id": "nt-273"
+    },
+    {
+      "targetValue": "4,500 kg",
+      "utterance": "what is the difference in thrust between the al-7 and al-21?",
+      "id": "nt-2045"
+    },
+    {
+      "targetValue": "RTD-1/VDR-2",
+      "utterance": "what model is listed first in the table?",
+      "id": "nt-3724"
+    },
+    {
+      "targetValue": "RTD-1/VDR-2",
+      "utterance": "what model was dated before model s-18/vdr-3?",
+      "id": "nt-3739"
+    },
+    {
+      "targetValue": "TR-3 and AL-5",
+      "utterance": "what model is listed next after tr-2?",
+      "id": "nt-5771"
+    },
+    {
+      "targetValue": [
+        "AL-21",
+        "AL-31"
+      ],
+      "utterance": "what model names were dated after 1960?",
+      "id": "nt-8352"
+    },
+    {
+      "targetValue": "13,300 kg",
+      "utterance": "what was the top thrust achieved by a lyul'ka engine before 1980?",
+      "id": "nt-11577"
+    }
+  ],
+  "metadata": {
+    "title": "Arkhip Lyulka",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9415543&oldid=602267610",
+    "tableIndex": 0,
+    "hashcode": "60dd3e5729c813c83a6ad0290a988807f2a17e68",
+    "id": 9415543,
+    "revision": 602267610
+  }
+}

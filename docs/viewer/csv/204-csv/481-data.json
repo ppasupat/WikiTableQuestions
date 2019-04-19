@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Quinnipiac",
+      "utterance": "what poll source had the largest sample size?",
+      "id": "nt-2612"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "in how many poll sources did rob astorino not receive 25% or more?",
+      "id": "nt-5393"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "in how many poll sources did andrew cuomo receive above 60%?",
+      "id": "nt-7010"
+    },
+    {
+      "targetValue": "Democrat",
+      "utterance": "which political party has the lead in this election, democrat or republican?",
+      "id": "nt-7342"
+    },
+    {
+      "targetValue": "40%",
+      "utterance": "what was the difference in percentage between cuomo and astorino from february 28-march 3, 2014?",
+      "id": "nt-7475"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "number of polls (out of seven) in which more than 12% of those polled were undecided",
+      "id": "nt-8344"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "is the sample size of siena more or less than the sample size of quinnipiac?",
+      "id": "nt-11299"
+    },
+    {
+      "targetValue": "Siena",
+      "utterance": "in which poll source did cuomo earn his top percentage rating?",
+      "id": "nt-11605"
+    },
+    {
+      "targetValue": "March 16-20, 2014",
+      "utterance": "dates of only poll in which astorino polled better than 25%",
+      "id": "nt-14068"
+    }
+  ],
+  "metadata": {
+    "title": "New York gubernatorial election, 2014",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=37784026&oldid=601375601",
+    "tableIndex": 0,
+    "hashcode": "8f0df3f26f8564481c97675daaa903fa87181962",
+    "id": 37784026,
+    "revision": 601375601
+  }
+}

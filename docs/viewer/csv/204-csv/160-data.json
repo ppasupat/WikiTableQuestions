@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "Canada",
+      "utterance": "the top 3 runners were from what country?",
+      "id": "nt-1596"
+    },
+    {
+      "targetValue": "2:28.15",
+      "utterance": "how long was the fastest time in the race?",
+      "id": "nt-3598"
+    },
+    {
+      "targetValue": "Kelley Becherer",
+      "utterance": "who is listed previous to prue watt?",
+      "id": "nt-3995"
+    },
+    {
+      "targetValue": "Japan",
+      "utterance": "from what country did the last place compete for?",
+      "id": "nt-4104"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many racers from australia competed in the race?",
+      "id": "nt-5131"
+    },
+    {
+      "targetValue": "Above",
+      "utterance": "did the spanish player place above or below the japanese player?",
+      "id": "nt-5212"
+    },
+    {
+      "targetValue": "Teigan van Roosmalen",
+      "utterance": "watt was one of two swimmers from australia. who was the other?",
+      "id": "nt-6123"
+    },
+    {
+      "targetValue": [
+        "Prue Watt",
+        "Teigan van Roosmalen"
+      ],
+      "utterance": "what are the names of each of the australian competitors?",
+      "id": "nt-7096"
+    },
+    {
+      "targetValue": "Akari Kasamoto",
+      "utterance": "who had the slowest time in the race?",
+      "id": "nt-9140"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many canadian swimmers were there?",
+      "id": "nt-10896"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what was the total number of swimmers in the race?",
+      "id": "nt-11547"
+    }
+  ],
+  "metadata": {
+    "title": "Swimming at the 2008 Summer Paralympics – Women's 200 metre individual medley SM13",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=37137976&oldid=573360578",
+    "tableIndex": 0,
+    "hashcode": "40fba29afe44c65763d1903bfa7881ff47205cf1",
+    "id": 37137976,
+    "revision": 573360578
+  }
+}

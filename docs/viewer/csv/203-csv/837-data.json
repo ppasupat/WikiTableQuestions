@@ -1,0 +1,58 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of buildings under 200 ft?",
+      "id": "nt-264"
+    },
+    {
+      "targetValue": "AEP Building",
+      "utterance": "which is taller, the aep building or the one columbus center?",
+      "id": "nt-1920"
+    },
+    {
+      "targetValue": "47",
+      "utterance": "what number of floors does the leveque tower have?",
+      "id": "nt-2595"
+    },
+    {
+      "targetValue": "Rhodes State Office Tower",
+      "utterance": "what is the tallest building in columbus?",
+      "id": "nt-2786"
+    },
+    {
+      "targetValue": [
+        "Rhodes State Office Tower",
+        "LeVeque Tower",
+        "William Green Building",
+        "Huntington Center",
+        "Vern Riffe State Office Tower"
+      ],
+      "utterance": "which buildings are taller than 500 ft?",
+      "id": "nt-3690"
+    },
+    {
+      "targetValue": "26",
+      "utterance": "how many floors does the capitol square have?",
+      "id": "nt-12387"
+    },
+    {
+      "targetValue": "Rhodes State Office Tower",
+      "utterance": "which is the tallest building?",
+      "id": "nt-13352"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many buildings on this table are taller than 450 feet?",
+      "id": "nt-13949"
+    }
+  ],
+  "metadata": {
+    "title": "List of tallest buildings in Columbus, Ohio",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12447020&oldid=587551009",
+    "tableIndex": 0,
+    "hashcode": "5de36ecdf9f91903e7417782aff9bb36723082b6",
+    "id": 12447020,
+    "revision": 587551009
+  }
+}

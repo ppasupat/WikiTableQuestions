@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of points scored on 6 february 1922?",
+      "id": "nt-250"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "which game had a higher total number of goals scored, 1 or 16?",
+      "id": "nt-506"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many games had no points scored?",
+      "id": "nt-2603"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many games had four total points scored or more?",
+      "id": "nt-6386"
+    },
+    {
+      "targetValue": "28 January 1922",
+      "utterance": "what date did they play before feb 1?",
+      "id": "nt-6435"
+    },
+    {
+      "targetValue": "Preston North End",
+      "utterance": "who is the first home team listed as having a score of 3-1?",
+      "id": "nt-7259"
+    },
+    {
+      "targetValue": "45",
+      "utterance": "how many total points were scored in the second round proper?",
+      "id": "nt-11057"
+    },
+    {
+      "targetValue": "Tottenham Hotspur",
+      "utterance": "what home team had the same score as aston villa on january 28th, 1922?",
+      "id": "nt-13530"
+    }
+  ],
+  "metadata": {
+    "title": "1921–22 FA Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19999477&oldid=589456169",
+    "tableIndex": 2,
+    "hashcode": "9a3808e49fbcef0e582117e96e170f969f373e78",
+    "id": 19999477,
+    "revision": 589456169
+  }
+}

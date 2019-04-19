@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many ships had more then 7,000 in tonnage?",
+      "id": "nt-453"
+    },
+    {
+      "targetValue": "SS Ville de Gand",
+      "utterance": "which ship has the top amount of tonnage?",
+      "id": "nt-2672"
+    },
+    {
+      "targetValue": "SS Frances Massey",
+      "utterance": "what ship is recorded as sunk before the ss eros?",
+      "id": "nt-2857"
+    },
+    {
+      "targetValue": "MV Athelcrest",
+      "utterance": "what is the last recorded ship sunk on august 25?",
+      "id": "nt-9044"
+    },
+    {
+      "targetValue": "SS Stancor",
+      "utterance": "boat with the least tonnage that was attacked",
+      "id": "nt-9239"
+    },
+    {
+      "targetValue": "6792",
+      "utterance": "what is the difference in tonnage between the heaviest and the lightest ships?",
+      "id": "nt-9356"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many ships were from the united kingdom that were attacked by hans-rudolf rosing",
+      "id": "nt-11731"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "number of boats that were attacked by hans-rudolf rosing as a u-boat commander",
+      "id": "nt-13354"
+    }
+  ],
+  "metadata": {
+    "title": "Hans-Rudolf Rösing",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9559681&oldid=586837083",
+    "tableIndex": 0,
+    "hashcode": "bf758308ffe329d88bd935ab6e73ef13687d2305",
+    "id": 9559681,
+    "revision": 586837083
+  }
+}

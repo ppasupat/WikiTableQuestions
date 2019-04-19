@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "15",
+      "utterance": "how many games had more than 10,000 in attendance?",
+      "id": "nt-1911"
+    },
+    {
+      "targetValue": "24 April 1999",
+      "utterance": "what was the date of the last game played by oxford united in which they lost?",
+      "id": "nt-3346"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "in how many games did the opponent score at least two points?",
+      "id": "nt-3631"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what number of games did oxford united f.c. play in august 1998?",
+      "id": "nt-7341"
+    },
+    {
+      "targetValue": "46",
+      "utterance": "how many total opponents are there?",
+      "id": "nt-7696"
+    },
+    {
+      "targetValue": "Portsmouth",
+      "utterance": "who was the first to have the best result",
+      "id": "nt-8378"
+    },
+    {
+      "targetValue": "19 September 1998",
+      "utterance": "what is the next date after september 12 1998?",
+      "id": "nt-8936"
+    },
+    {
+      "targetValue": "Portsmouth",
+      "utterance": "what was the first opponent oxford united f.c. defeated during the season?",
+      "id": "nt-9531"
+    },
+    {
+      "targetValue": "19 September 1998",
+      "utterance": "on which date was the game played with the most number of people in attendance?",
+      "id": "nt-10986"
+    }
+  ],
+  "metadata": {
+    "title": "1998–99 Oxford United F.C. season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=42192996&oldid=599701298",
+    "tableIndex": 1,
+    "hashcode": "ad39909f4b51d0eb35a1d3c75b547afb793c757a",
+    "id": 42192996,
+    "revision": 599701298
+  }
+}

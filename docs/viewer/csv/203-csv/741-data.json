@@ -1,0 +1,66 @@
+{
+  "examples": [
+    {
+      "targetValue": "before",
+      "utterance": "did they play austria wein before or after jeunesse esch?",
+      "id": "nt-1552"
+    },
+    {
+      "targetValue": "2010-11",
+      "utterance": "what is the first season listed on the table?",
+      "id": "nt-3484"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "did they have more or less than 1 home win in 2010-2011?",
+      "id": "nt-3970"
+    },
+    {
+      "targetValue": "Široki Brijeg",
+      "utterance": "who won the 2010 seaseon",
+      "id": "nt-4862"
+    },
+    {
+      "targetValue": "Široki Brijeg",
+      "utterance": "which opponent is listed the most on this chart?",
+      "id": "nt-5002"
+    },
+    {
+      "targetValue": [
+        "2011-12",
+        "2012-13",
+        "2013-14"
+      ],
+      "utterance": "which years did they have at least 1 home win?",
+      "id": "nt-5886"
+    },
+    {
+      "targetValue": "2011-12",
+      "utterance": "which is the only year they went 1-1 at home?",
+      "id": "nt-6154"
+    },
+    {
+      "targetValue": "Široki Brijeg",
+      "utterance": "who scored at least 3 goals in 2010",
+      "id": "nt-9553"
+    },
+    {
+      "targetValue": "Žilina",
+      "utterance": "who was the last opponent according to this chart?",
+      "id": "nt-13590"
+    },
+    {
+      "targetValue": "Široki Brijeg",
+      "utterance": "what was their 1qr opponent in 2010-2011?",
+      "id": "nt-13907"
+    }
+  ],
+  "metadata": {
+    "title": "NK Olimpija Ljubljana (2005)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2659730&oldid=601154937",
+    "tableIndex": 3,
+    "hashcode": "f70e2b9f53dbf0e460671d0639b46a28a0307a68",
+    "id": 2659730,
+    "revision": 601154937
+  }
+}

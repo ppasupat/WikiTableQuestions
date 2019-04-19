@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "159",
+      "utterance": "what is the least about of runs anyone has?",
+      "id": "nt-493"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many players played more than 10 matches?",
+      "id": "nt-4091"
+    },
+    {
+      "targetValue": "127",
+      "utterance": "how many more runs does john have than albert?",
+      "id": "nt-4303"
+    },
+    {
+      "targetValue": "30",
+      "utterance": "how many innings did bill and ted have in total?",
+      "id": "nt-6340"
+    },
+    {
+      "targetValue": "297",
+      "utterance": "how many runs did ted tyler have?",
+      "id": "nt-7233"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "what were the number of innings albert clapp had?",
+      "id": "nt-9299"
+    },
+    {
+      "targetValue": "Albert Clapp",
+      "utterance": "which player had the least amount of runs?",
+      "id": "nt-11014"
+    },
+    {
+      "targetValue": "Bill Roe",
+      "utterance": "name a player that play in no more than 13 innings.",
+      "id": "nt-12385"
+    },
+    {
+      "targetValue": "Herbie Hewett",
+      "utterance": "name a player whose average was above 25.",
+      "id": "nt-13637"
+    }
+  ],
+  "metadata": {
+    "title": "Somerset County Cricket Club in 1890",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=25595808&oldid=580024161",
+    "tableIndex": 1,
+    "hashcode": "15c100c1707773cf54256f33adbcfb91ed9302d3",
+    "id": 25595808,
+    "revision": 580024161
+  }
+}

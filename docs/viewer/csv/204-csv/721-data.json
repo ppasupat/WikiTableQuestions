@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Davey Richards",
+      "utterance": "which wrestler comes after paul london",
+      "id": "nt-451"
+    },
+    {
+      "targetValue": "Scott Lost",
+      "utterance": "between super dragon, scott lost and paul london - who had the highest number of reigns and defences?",
+      "id": "nt-1302"
+    },
+    {
+      "targetValue": "Scorpio Sky",
+      "utterance": "who is the only wrestler to have only 1 combined day?",
+      "id": "nt-3051"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the difference in the number of combined days between kevin steen and davey richards?",
+      "id": "nt-3285"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many wrestlers have at least 2 number of reigns?",
+      "id": "nt-5055"
+    },
+    {
+      "targetValue": "315",
+      "utterance": "how many days combined did kevin steen had",
+      "id": "nt-9198"
+    },
+    {
+      "targetValue": "25",
+      "utterance": "what is the total number of wrestlers on the chart",
+      "id": "nt-10948"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many reigns has joey ryan had?",
+      "id": "nt-12321"
+    },
+    {
+      "targetValue": "Super Dragon",
+      "utterance": "who has had the the most title reigns?",
+      "id": "nt-12421"
+    }
+  ],
+  "metadata": {
+    "title": "List of PWG World Tag Team Champions",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=22831851&oldid=601785606",
+    "tableIndex": 5,
+    "hashcode": "ddea0296031f929398ae94df44088d7546371ef1",
+    "id": 22831851,
+    "revision": 601785606
+  }
+}

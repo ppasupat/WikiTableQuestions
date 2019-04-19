@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "82",
+      "utterance": "what is the game after 81?",
+      "id": "nt-1370"
+    },
+    {
+      "targetValue": "April 9",
+      "utterance": "what is the next date after april 8?",
+      "id": "nt-1476"
+    },
+    {
+      "targetValue": "Power Balance Pavilion 15,871",
+      "utterance": "what was the only location to have less than 17,000 people attend?",
+      "id": "nt-3001"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many games did the nuggets lose in this series?",
+      "id": "nt-3053"
+    },
+    {
+      "targetValue": "Ty Lawson (37)",
+      "utterance": "which player scored the largest number of points in one game in april?",
+      "id": "nt-3701"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "in how many consecutive games was ty lawson the player with the most assists?",
+      "id": "nt-4140"
+    },
+    {
+      "targetValue": "29",
+      "utterance": "what is the number of high rebounds kenyon martin scored in april of this season?",
+      "id": "nt-5142"
+    },
+    {
+      "targetValue": "848",
+      "utterance": "how many total points did denver score in april of this season?",
+      "id": "nt-5785"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many games was loss?",
+      "id": "nt-6491"
+    },
+    {
+      "targetValue": "24",
+      "utterance": "how many points did the nuggets win by on april 9?",
+      "id": "nt-11647"
+    },
+    {
+      "targetValue": "78",
+      "utterance": "which game at most has the most high rebounds?",
+      "id": "nt-14009"
+    }
+  ],
+  "metadata": {
+    "title": "2010–11 Denver Nuggets season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=27712451&oldid=596576833",
+    "tableIndex": 9,
+    "hashcode": "2a9f3e89379ba33eae767773acd230dcd7186cef",
+    "id": 27712451,
+    "revision": 596576833
+  }
+}

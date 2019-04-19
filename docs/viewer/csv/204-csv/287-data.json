@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "1976",
+      "utterance": "when did he win his first title?",
+      "id": "nt-1897"
+    },
+    {
+      "targetValue": "28",
+      "utterance": "how many championships are listed?",
+      "id": "nt-2811"
+    },
+    {
+      "targetValue": "Manuel Orantes",
+      "utterance": "who is at the top of the chart?",
+      "id": "nt-3482"
+    },
+    {
+      "targetValue": "1979",
+      "utterance": "did jose have more wins in 1978 or 1979?",
+      "id": "nt-3626"
+    },
+    {
+      "targetValue": "Bordeaux, France",
+      "utterance": "where did he win his last championship?",
+      "id": "nt-10676"
+    },
+    {
+      "targetValue": "Båstad, Sweden",
+      "utterance": "which championship only takes place in year 1975?",
+      "id": "nt-10777"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many matches took place in the u.s.?",
+      "id": "nt-10924"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the total number of games played in the united states?",
+      "id": "nt-10938"
+    },
+    {
+      "targetValue": "26",
+      "utterance": "how many courts are clay?",
+      "id": "nt-13442"
+    }
+  ],
+  "metadata": {
+    "title": "José Higueras",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10556260&oldid=595396054",
+    "tableIndex": 0,
+    "hashcode": "a92960f6e6539cf0c4eda6fd3ea047476c429404",
+    "id": 10556260,
+    "revision": 595396054
+  }
+}

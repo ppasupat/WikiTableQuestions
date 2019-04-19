@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many districts are tampere but have only one cup?",
+      "id": "nt-1634"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "was tampere the district featured the most?",
+      "id": "nt-1779"
+    },
+    {
+      "targetValue": "55",
+      "utterance": "what is the total of abbreviations?",
+      "id": "nt-1849"
+    },
+    {
+      "targetValue": "Tervalaakso, Vaasa",
+      "utterance": "what settlement is listed right after oulu?",
+      "id": "nt-3444"
+    },
+    {
+      "targetValue": "49",
+      "utterance": "how many abbreviations are after tarmo?",
+      "id": "nt-3897"
+    },
+    {
+      "targetValue": "Tervarit",
+      "utterance": "what team is the only one in the oulu settlement for \"t\" teams?",
+      "id": "nt-4342"
+    },
+    {
+      "targetValue": "Töölön Taisto",
+      "utterance": "what is the last abbreviation on the list?",
+      "id": "nt-5996"
+    },
+    {
+      "targetValue": "Taalintehdas",
+      "utterance": "the first name on the settlement column is?",
+      "id": "nt-7293"
+    },
+    {
+      "targetValue": "Veikkausliiga",
+      "utterance": "which division has the least teams for \"t\" teams?",
+      "id": "nt-11534"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many teams are in the tampere district for \"t\" teams?",
+      "id": "nt-11895"
+    },
+    {
+      "targetValue": "Vitonen",
+      "utterance": "does vitonen or kutonen have the larger division?",
+      "id": "nt-12479"
+    }
+  ],
+  "metadata": {
+    "title": "List of football clubs in Finland – T",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=34054478&oldid=592622528",
+    "tableIndex": 0,
+    "hashcode": "6ec2b97b1e3b45461fd548efa32934440cc43ced",
+    "id": 34054478,
+    "revision": 592622528
+  }
+}

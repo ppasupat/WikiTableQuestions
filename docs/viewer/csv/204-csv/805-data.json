@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "13",
+      "utterance": "how many managerial changes were there in 2009?",
+      "id": "nt-3519"
+    },
+    {
+      "targetValue": "Wichaya",
+      "utterance": "who was appointed earlier, wichaya or pue-on?",
+      "id": "nt-6444"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of managerial changes that ttm samut sakhon made in 2009?",
+      "id": "nt-9845"
+    },
+    {
+      "targetValue": "Chatchai Paholpat",
+      "utterance": "what is the last name on the list?",
+      "id": "nt-11076"
+    },
+    {
+      "targetValue": "Attaphol Puspakom",
+      "utterance": "next manager of ttm samut sakhon after prajuk viengsong",
+      "id": "nt-11894"
+    },
+    {
+      "targetValue": "Attaphol Puspakom",
+      "utterance": "other new replacement chosen in april 2009 besides kij meesrisuk",
+      "id": "nt-11984"
+    },
+    {
+      "targetValue": "Attaphol Puspakom",
+      "utterance": "what name is just previous to surasak tansurat on the list?",
+      "id": "nt-13346"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many changes incolved pattaya united?",
+      "id": "nt-13712"
+    },
+    {
+      "targetValue": "June",
+      "utterance": "hans r. esmer and christophe larrouilh were both replaced in what month in 2009?",
+      "id": "nt-14041"
+    }
+  ],
+  "metadata": {
+    "title": "2009 in Thai football",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=25849444&oldid=568079017",
+    "tableIndex": 0,
+    "hashcode": "3ad6818b2a4c2e045d6bf58521f1cdf628b091dd",
+    "id": 25849444,
+    "revision": 568079017
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "what was the difference in the score in the 1976 game?",
+      "id": "nt-2570"
+    },
+    {
+      "targetValue": "January 20, 2007",
+      "utterance": "when was the first game played in houston, tx?",
+      "id": "nt-3381"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many consecutive games were played in houston, tx?",
+      "id": "nt-4158"
+    },
+    {
+      "targetValue": "West",
+      "utterance": "which team scored the most points in 2008?",
+      "id": "nt-4552"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "was the total score of the 2003 east-west shrine game more or less than 35?",
+      "id": "nt-4943"
+    },
+    {
+      "targetValue": "West",
+      "utterance": "which team had the longest consecutive winning streak?",
+      "id": "nt-6130"
+    },
+    {
+      "targetValue": "January 6, 1979",
+      "utterance": "which game date had the highest winning score?",
+      "id": "nt-7148"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "waht is the highest number of consecutive wins that west has won in a row?",
+      "id": "nt-12136"
+    },
+    {
+      "targetValue": [
+        "Oakland, CA",
+        "San Antonio, TX"
+      ],
+      "utterance": "which location has the east-west game been played at the least?",
+      "id": "nt-12657"
+    },
+    {
+      "targetValue": "Stanford, CA",
+      "utterance": "at which location has the east-west game been played the most?",
+      "id": "nt-13572"
+    }
+  ],
+  "metadata": {
+    "title": "East–West Shrine Game",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=668496&oldid=591777264",
+    "tableIndex": 1,
+    "hashcode": "cc34c897694cac81edd964dd033f82059c0b6bd1",
+    "id": 668496,
+    "revision": 591777264
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "examples": [
+    {
+      "targetValue": "Grande Fratello 1",
+      "utterance": "which season had the least amount of housemates?",
+      "id": "nt-1091"
+    },
+    {
+      "targetValue": [
+        "Cristina Plevani",
+        "Flavio Montrucchio"
+      ],
+      "utterance": "which winner won the lowest grand prize?",
+      "id": "nt-2675"
+    },
+    {
+      "targetValue": "Alessia Marcuzzi",
+      "utterance": "who has presented the most seasons?",
+      "id": "nt-3408"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many series lasted longer than 100 days?",
+      "id": "nt-5976"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "total number of seasons presented by alessia marcuzzi:",
+      "id": "nt-6814"
+    },
+    {
+      "targetValue": "Daria Bignardi",
+      "utterance": "who was the main presenter previous to barbara d'urso?",
+      "id": "nt-7082"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many seasons lasted more than 100 days?",
+      "id": "nt-7363"
+    },
+    {
+      "targetValue": "Cristina Plevani",
+      "utterance": "the winner previous to flavio montrucchio.",
+      "id": "nt-10639"
+    },
+    {
+      "targetValue": "36",
+      "utterance": "largest number of housemates was during season...",
+      "id": "nt-10885"
+    },
+    {
+      "targetValue": "Daria Bignardi",
+      "utterance": "who was the main presenter before barbara d'urso?",
+      "id": "nt-11056"
+    },
+    {
+      "targetValue": [
+        "Cristina Plevani",
+        "Flavio Montrucchio"
+      ],
+      "utterance": "which two winners of grande fratello won the most money?",
+      "id": "nt-11226"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "which season had the smallest audience?",
+      "id": "nt-12411"
+    },
+    {
+      "targetValue": "183",
+      "utterance": "how many days was the longest season of grande fratello?",
+      "id": "nt-13144"
+    }
+  ],
+  "metadata": {
+    "title": "Grande Fratello",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5855858&oldid=598385676",
+    "tableIndex": 0,
+    "hashcode": "2f751e2b7a725ad156d21f6460d298f080763ad1",
+    "id": 5855858,
+    "revision": 598385676
+  }
+}

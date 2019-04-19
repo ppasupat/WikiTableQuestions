@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "16",
+      "utterance": "how many academy awards have been won posthumously?",
+      "id": "nt-145"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "beauty and the beast won at least how many awards",
+      "id": "nt-3301"
+    },
+    {
+      "targetValue": "Harry W. Tetrick",
+      "utterance": "who was awarded an oscar for best sound for two films in the same year - king kong and rocky?",
+      "id": "nt-3894"
+    },
+    {
+      "targetValue": "Allen Davey",
+      "utterance": "frank churchill is above whom",
+      "id": "nt-4103"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many years are listed for howard ashman under the year column?",
+      "id": "nt-6594"
+    },
+    {
+      "targetValue": "Howard Ashman",
+      "utterance": "who has been nominated for the most posthumous academy awards",
+      "id": "nt-9501"
+    },
+    {
+      "targetValue": "Howard Ashman",
+      "utterance": "who's date of death was after 1990 but before 1992?",
+      "id": "nt-10350"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "for the date of death, how many years difference is there for frank churchill compared to allen davey?",
+      "id": "nt-10874"
+    },
+    {
+      "targetValue": "Walt Disney",
+      "utterance": "who won more awards? walt disney or james dean?",
+      "id": "nt-14089"
+    }
+  ],
+  "metadata": {
+    "title": "List of posthumous Academy Award winners and nominees",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18695712&oldid=597901898",
+    "tableIndex": 0,
+    "hashcode": "f87f07ea4dce926c8b3f7f6fbb17933991c7f298",
+    "id": 18695712,
+    "revision": 597901898
+  }
+}

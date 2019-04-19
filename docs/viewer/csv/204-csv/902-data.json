@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "4:19.84",
+      "utterance": "what was the longest time on the list?",
+      "id": "nt-890"
+    },
+    {
+      "targetValue": "Kaitlin Sandeno",
+      "utterance": "besides julia stowers who is the other american listed?",
+      "id": "nt-1459"
+    },
+    {
+      "targetValue": "4:19.41",
+      "utterance": "what was the average time for the americans?",
+      "id": "nt-2401"
+    },
+    {
+      "targetValue": "Janelle Atkinson",
+      "utterance": "who is the only person to rank from jamaica?",
+      "id": "nt-4107"
+    },
+    {
+      "targetValue": "Janelle Atkinson",
+      "utterance": "what is the first name listed?",
+      "id": "nt-5572"
+    },
+    {
+      "targetValue": "4:16.89",
+      "utterance": "how long was the jamaica time for rank 1?",
+      "id": "nt-6694"
+    },
+    {
+      "targetValue": "Julia Stowers",
+      "utterance": "who finished next after kaitlin sandeno?",
+      "id": "nt-6844"
+    },
+    {
+      "targetValue": "4:18.97",
+      "utterance": "how long did it take for sandeno to finish?",
+      "id": "nt-8886"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many competitors were there in this race?",
+      "id": "nt-10569"
+    },
+    {
+      "targetValue": "Julia Stowers",
+      "utterance": "who ranked below kaitlin sandeno?",
+      "id": "nt-10991"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many ranks have no name?",
+      "id": "nt-11195"
+    },
+    {
+      "targetValue": "Janelle Atkinson",
+      "utterance": "who was the top ranked competitor in this race?",
+      "id": "nt-11787"
+    },
+    {
+      "targetValue": "Kaitlin Sandeno",
+      "utterance": "who was from the same country as stowers?",
+      "id": "nt-12241"
+    },
+    {
+      "targetValue": "Jamaica",
+      "utterance": "what country was the top performer from?",
+      "id": "nt-13893"
+    }
+  ],
+  "metadata": {
+    "title": "Swimming at the 1999 Pan American Games – Women's 400 metre freestyle",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41081714&oldid=582874634",
+    "tableIndex": 1,
+    "hashcode": "2d8117c959e50ef4b4a2edb1d6d6d4128f8f38bd",
+    "id": 41081714,
+    "revision": 582874634
+  }
+}

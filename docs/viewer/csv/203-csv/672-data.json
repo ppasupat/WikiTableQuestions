@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "Los Angeles Rams",
+      "utterance": "which was the last team played?",
+      "id": "nt-1322"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the longest consecutive streak of wins for the green bay packers during the 1978 season?",
+      "id": "nt-2115"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "what was the difference in score in week 7?",
+      "id": "nt-2869"
+    },
+    {
+      "targetValue": "74,965",
+      "utterance": "what is the number of fans in attendance at the game held at mile high stadium?",
+      "id": "nt-4276"
+    },
+    {
+      "targetValue": "October",
+      "utterance": "what month were the most games played?",
+      "id": "nt-4310"
+    },
+    {
+      "targetValue": "105523",
+      "utterance": "what was the total attendance of weeks 1 and 2?",
+      "id": "nt-4731"
+    },
+    {
+      "targetValue": "Lambeau Field",
+      "utterance": "which had greater attendance, solider field or lambeau field?",
+      "id": "nt-7686"
+    },
+    {
+      "targetValue": "Pontiac Silverdome",
+      "utterance": "at what venue did the first game take place?",
+      "id": "nt-8348"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how long was the biggest win streak?",
+      "id": "nt-9360"
+    },
+    {
+      "targetValue": "Mile High Stadium",
+      "utterance": "which was the only stadium where attendance was greater than 70,000?",
+      "id": "nt-9546"
+    },
+    {
+      "targetValue": "at Chicago Bears",
+      "utterance": "who was the only opponent to allow no points in a game?",
+      "id": "nt-9582"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what is the difference in points scored during the november 19, 1978 against the denver broncos?",
+      "id": "nt-10417"
+    },
+    {
+      "targetValue": "at Los Angeles Rams",
+      "utterance": "who was the opponent during the last week of the season?",
+      "id": "nt-11565"
+    }
+  ],
+  "metadata": {
+    "title": "1978 Green Bay Packers season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14656160&oldid=597264960",
+    "tableIndex": 1,
+    "hashcode": "e1b2fe2e96ef55e6da8a8b4467472759b4387252",
+    "id": 14656160,
+    "revision": 597264960
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many consecutive years starting in 2004 did krishna release a film?",
+      "id": "nt-498"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many languages has he been in that are in the telugu language?",
+      "id": "nt-1875"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many films are in telugu?",
+      "id": "nt-2403"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many roles start with the letter v?",
+      "id": "nt-3307"
+    },
+    {
+      "targetValue": "2008",
+      "utterance": "are there more films in 2008 or 2005?",
+      "id": "nt-3340"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many films were made in 2008",
+      "id": "nt-4760"
+    },
+    {
+      "targetValue": "7G Rainbow Colony",
+      "utterance": "what was the actor's first film?",
+      "id": "nt-8900"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many films did he release in 2005?",
+      "id": "nt-9321"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what number of films were made in telugu?",
+      "id": "nt-10436"
+    },
+    {
+      "targetValue": "Tamil",
+      "utterance": "are there more films in tamil or telugu?",
+      "id": "nt-11171"
+    },
+    {
+      "targetValue": "Netru Indru Naalai",
+      "utterance": "name at least one film made in 2008",
+      "id": "nt-12734"
+    },
+    {
+      "targetValue": "Kedi",
+      "utterance": "what was the actor's only movie in 2006?",
+      "id": "nt-13552"
+    }
+  ],
+  "metadata": {
+    "title": "Ravi Krishna",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6809719&oldid=599459598",
+    "tableIndex": 0,
+    "hashcode": "794fb7a99fa1c4f4844e9f4c8c7e2ce6bb4496e3",
+    "id": 6809719,
+    "revision": 599459598
+  }
+}

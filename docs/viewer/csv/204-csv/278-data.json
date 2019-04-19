@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Lalmohan Ghosh",
+      "utterance": "who is the previous president to henry cotton?",
+      "id": "nt-1047"
+    },
+    {
+      "targetValue": "Womesh Chunder Bonnerjee",
+      "utterance": "which president is listed at the top of the chart?",
+      "id": "nt-1590"
+    },
+    {
+      "targetValue": "Calcutta",
+      "utterance": "which location had the most conferences listed?",
+      "id": "nt-5243"
+    },
+    {
+      "targetValue": "N. G. Chandavarkar",
+      "utterance": "who was the first president in the 1900's?",
+      "id": "nt-5250"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many presidents served more than one year?",
+      "id": "nt-7802"
+    },
+    {
+      "targetValue": "Sonia Gandhi",
+      "utterance": "who was the last president to serve consecutive years?",
+      "id": "nt-10328"
+    },
+    {
+      "targetValue": "Calcutta",
+      "utterance": "where was the last conference held?",
+      "id": "nt-11838"
+    },
+    {
+      "targetValue": "Jawaharlal Nehru",
+      "utterance": "which person has led the conference the most?",
+      "id": "nt-12529"
+    },
+    {
+      "targetValue": "Dadabhai Naoroji",
+      "utterance": "womesh chunder has led the conference multiple times, name on other leader who has also.",
+      "id": "nt-13776"
+    }
+  ],
+  "metadata": {
+    "title": "President of the Indian National Congress",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2012055&oldid=602376482",
+    "tableIndex": 0,
+    "hashcode": "37686c388b2e7e1ee4a8090919e3a509249878b1",
+    "id": 2012055,
+    "revision": 602376482
+  }
+}

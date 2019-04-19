@@ -1,0 +1,71 @@
+{
+  "examples": [
+    {
+      "targetValue": "10",
+      "utterance": "what is the total count of stars for european countries?",
+      "id": "nt-1776"
+    },
+    {
+      "targetValue": "Uruguay",
+      "utterance": "what is the only team to wear a star representing olympic victories?",
+      "id": "nt-3946"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the least count of stars amongst south american countries? /",
+      "id": "nt-6601"
+    },
+    {
+      "targetValue": "Spain",
+      "utterance": "who was the last team to win the world cup?",
+      "id": "nt-9004"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many stars does the french team wear on its jerseys?",
+      "id": "nt-9071"
+    },
+    {
+      "targetValue": "Brazil",
+      "utterance": "what team was the first of win the world cup?",
+      "id": "nt-9178"
+    },
+    {
+      "targetValue": "France",
+      "utterance": "germany first wore them in 1996. who was next?",
+      "id": "nt-10893"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the most amount of stars?",
+      "id": "nt-11761"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of stars italy has?",
+      "id": "nt-12524"
+    },
+    {
+      "targetValue": [
+        "England",
+        "France",
+        "Spain"
+      ],
+      "utterance": "which countries do not have multiple stars?",
+      "id": "nt-12662"
+    },
+    {
+      "targetValue": "8 years",
+      "utterance": "what was the difference between the first and second wins for argentina?",
+      "id": "nt-14130"
+    }
+  ],
+  "metadata": {
+    "title": "Star (football badge)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3750798&oldid=601735977",
+    "tableIndex": 0,
+    "hashcode": "1a8de2a1a6dbae81af540de5cdf94aabc69063e6",
+    "id": 3750798,
+    "revision": 601735977
+  }
+}

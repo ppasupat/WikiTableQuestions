@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "That Girl",
+      "utterance": "what is the name of the last album released by natalia lesz?",
+      "id": "nt-375"
+    },
+    {
+      "targetValue": "\"Coś za coś\"",
+      "utterance": "what was natalia's top single on the polish charts?",
+      "id": "nt-4791"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times has natalia lesz made the usa billboard hot dance club play list?",
+      "id": "nt-4868"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many singles were released in 2010?",
+      "id": "nt-5215"
+    },
+    {
+      "targetValue": "\"Beat of My Heart\"",
+      "utterance": "what single was released after 2011?",
+      "id": "nt-5840"
+    },
+    {
+      "targetValue": "\"Miss You\"",
+      "utterance": "which came first: \"that girl\" or \"miss you\"?",
+      "id": "nt-7885"
+    },
+    {
+      "targetValue": "\"Coś za coś\"",
+      "utterance": "what was natalia lesz's most popular song, according to the polish charts?",
+      "id": "nt-7909"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "in what year was the single \"that girl\" on the polish charts?",
+      "id": "nt-9660"
+    },
+    {
+      "targetValue": "\"Fall\"",
+      "utterance": "what was the name of natalia lesz's first single?",
+      "id": "nt-10210"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of singles that made the billboards?",
+      "id": "nt-11511"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many singles were released at least as early as 2009?",
+      "id": "nt-13887"
+    }
+  ],
+  "metadata": {
+    "title": "Natalia Lesz",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18762577&oldid=560481412",
+    "tableIndex": 1,
+    "hashcode": "cc5512bf61847a33f223b294d10d1ec4b0558278",
+    "id": 18762577,
+    "revision": 560481412
+  }
+}

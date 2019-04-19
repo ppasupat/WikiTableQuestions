@@ -1,0 +1,66 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Socialist Group",
+        "RPR Group",
+        "UDF Group"
+      ],
+      "utterance": "list each of the groups that had more than 5 caucusing members.",
+      "id": "nt-543"
+    },
+    {
+      "targetValue": "242",
+      "utterance": "what is the total amount of members in the socialist group not including caucusing members?",
+      "id": "nt-1181"
+    },
+    {
+      "targetValue": "RPR Group",
+      "utterance": "which group had over 130 members but only 6 caucusing members?",
+      "id": "nt-2724"
+    },
+    {
+      "targetValue": "Socialist Group",
+      "utterance": "what group had the greatest amount of members?",
+      "id": "nt-3336"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many groups had more than 100 members?",
+      "id": "nt-4240"
+    },
+    {
+      "targetValue": "Socialist Group",
+      "utterance": "which group had the most members?",
+      "id": "nt-6480"
+    },
+    {
+      "targetValue": "Communist Group",
+      "utterance": "what group has under 40 members but at least 2 caucusing?",
+      "id": "nt-8835"
+    },
+    {
+      "targetValue": "UDF Group",
+      "utterance": "what group has the same number of caucusing members as rpr group?",
+      "id": "nt-10278"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many groups have above 100 members?",
+      "id": "nt-10410"
+    },
+    {
+      "targetValue": "555",
+      "utterance": "what is the total number of members between all of the groups?",
+      "id": "nt-11262"
+    }
+  ],
+  "metadata": {
+    "title": "French legislative election, 1997",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5635451&oldid=602322844",
+    "tableIndex": 0,
+    "hashcode": "310cbc4568c875dc423afd87d6f3d59f764fe55a",
+    "id": 5635451,
+    "revision": 602322844
+  }
+}

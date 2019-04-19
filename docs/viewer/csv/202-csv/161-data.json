@@ -1,0 +1,39 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Antwerp",
+        "East Flanders",
+        "Flemish Brabant",
+        "West Flanders",
+        "Hainaut",
+        "Liège"
+      ],
+      "utterance": "which electoral districts hold 15 or more seats?",
+      "id": "nt-828"
+    },
+    {
+      "targetValue": "Antwerp",
+      "utterance": "which electoral district in the dutch language group has the most seats allotted to it?",
+      "id": "nt-1006"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many seats in the belgian parliament are reserved for the electoral district of luxembourg?",
+      "id": "nt-2687"
+    },
+    {
+      "targetValue": "Antwerp",
+      "utterance": "which dutch language electoral district of belgium has the most seats in parliament?",
+      "id": "nt-4700"
+    }
+  ],
+  "metadata": {
+    "title": "Chamber of Representatives (Belgium)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3771139&oldid=581562102",
+    "tableIndex": 0,
+    "hashcode": "5d767888c75e68a454d2847bb0095e9630adecdb",
+    "id": 3771139,
+    "revision": 581562102
+  }
+}

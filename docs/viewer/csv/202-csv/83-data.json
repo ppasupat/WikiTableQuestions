@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "11",
+      "utterance": "how many seasons did webber average over 20 points per game (ppg)?",
+      "id": "nt-13445"
+    }
+  ],
+  "metadata": {
+    "title": "Chris Webber",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=529136&oldid=602457821",
+    "tableIndex": 1,
+    "hashcode": "3ab8d3cb3fea5b38838a7bfd9eb1272bae7317d7",
+    "id": 529136,
+    "revision": 602457821
+  }
+}

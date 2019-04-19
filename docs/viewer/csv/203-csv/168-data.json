@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Rayleigh Rockets",
+      "utterance": "what team started in 1949 and ended in 1973?",
+      "id": "nt-1579"
+    },
+    {
+      "targetValue": "49",
+      "utterance": "what is the total number of teams that no longer operate?",
+      "id": "nt-1758"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many teams started before 1940?",
+      "id": "nt-3354"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many teams were ended in the last ten years?",
+      "id": "nt-8426"
+    },
+    {
+      "targetValue": "1968",
+      "utterance": "did the canterbury crusaders begin their team in 1950, 1968, or 1969?",
+      "id": "nt-11963"
+    },
+    {
+      "targetValue": "Canterbury Crusaders",
+      "utterance": "what was the next team to end after the london lions?",
+      "id": "nt-13020"
+    }
+  ],
+  "metadata": {
+    "title": "List of defunct motorcycle speedway teams in the United Kingdom",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18471418&oldid=558830492",
+    "tableIndex": 0,
+    "hashcode": "ecafd18e52eb7a9e8a82713a7b2ff730d9e42735",
+    "id": 18471418,
+    "revision": 558830492
+  }
+}

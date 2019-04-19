@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many coaches served less seasons than bill manlove?",
+      "id": "nt-2248"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what was the total number of games played in the 1932 season?",
+      "id": "nt-2583"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the number of wins the team had in the 1998 season?",
+      "id": "nt-4014"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many more seasons was marty brill head coach compared to tom conley?",
+      "id": "nt-8383"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "did the team win more or less games in 1933 than the year before?",
+      "id": "nt-11674"
+    },
+    {
+      "targetValue": "Jim Henry",
+      "utterance": "who was the next head coach after marty brill?",
+      "id": "nt-11693"
+    },
+    {
+      "targetValue": "Phil Longo",
+      "utterance": "who was head coach of the team after archie stalcup?",
+      "id": "nt-12898"
+    }
+  ],
+  "metadata": {
+    "title": "La Salle Explorers football",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11608687&oldid=560496033",
+    "tableIndex": 0,
+    "hashcode": "191874bd7a2100b0d4ecd8347ace6bc7d03c7413",
+    "id": 11608687,
+    "revision": 560496033
+  }
+}

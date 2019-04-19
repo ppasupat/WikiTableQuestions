@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "Derby County",
+      "utterance": "what home team is listed before manchester city?",
+      "id": "nt-1876"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the difference of points in the game between birmingham city and wrexham?",
+      "id": "nt-2423"
+    },
+    {
+      "targetValue": "Leicester City",
+      "utterance": "chesterfield is listed with a score of 1-0, but what team is listed with a score of 2-2?",
+      "id": "nt-2608"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many points did leicester city score?",
+      "id": "nt-4141"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many points have the away teams scored all together?",
+      "id": "nt-13510"
+    }
+  ],
+  "metadata": {
+    "title": "1996–97 FA Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17004128&oldid=597495977",
+    "tableIndex": 5,
+    "hashcode": "7c7576f5211f495553d38a32219747a90ccb90dc",
+    "id": 17004128,
+    "revision": 597495977
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "1997",
+      "utterance": "in what year did jon stewart have the highest number of roles?",
+      "id": "nt-3617"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many more roles did jon stewart have in 1997 compared to 2007?",
+      "id": "nt-3987"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many grammy awards did john stewart host?",
+      "id": "nt-6894"
+    },
+    {
+      "targetValue": "The Daily Show",
+      "utterance": "what show has john stewart had the longest tenure on?",
+      "id": "nt-7361"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many shows have given stewart writing credit?",
+      "id": "nt-12435"
+    }
+  ],
+  "metadata": {
+    "title": "Jon Stewart",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=235888&oldid=601947761",
+    "tableIndex": 1,
+    "hashcode": "0c0bc18ab13bf4e894ab4e1801abe9b9125a24f2",
+    "id": 235888,
+    "revision": 601947761
+  }
+}

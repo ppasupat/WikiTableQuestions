@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "48,410",
+      "utterance": "how many people attended the new york giants game on october 25, 1981?",
+      "id": "nt-4949"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what are the least amount of points scored during the 1981 falcons season?",
+      "id": "nt-5686"
+    },
+    {
+      "targetValue": "Cincinnati Bengals",
+      "utterance": "what team played the last game of the 1981 season?",
+      "id": "nt-11809"
+    },
+    {
+      "targetValue": "57,406",
+      "utterance": "how many people came to the home opener?",
+      "id": "nt-12746"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many games did the 1981 atlanta falcons win?",
+      "id": "nt-13595"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many games were between both saints games in 1981?",
+      "id": "nt-13792"
+    }
+  ],
+  "metadata": {
+    "title": "1981 Atlanta Falcons season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16710910&oldid=588698591",
+    "tableIndex": 1,
+    "hashcode": "27e5281bc192d5d172efef48feca9309891ee860",
+    "id": 16710910,
+    "revision": 588698591
+  }
+}

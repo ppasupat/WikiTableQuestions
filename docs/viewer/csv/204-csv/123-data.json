@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Less",
+      "utterance": "was the attendance more or less in the saturday, april 13th game compared to the saturday, may 11th",
+      "id": "nt-354"
+    },
+    {
+      "targetValue": "Saturday, May 11",
+      "utterance": "what was the date of the first loss of the season?",
+      "id": "nt-710"
+    },
+    {
+      "targetValue": "66278",
+      "utterance": "what is the total amount of attendance between the first and second weeks?",
+      "id": "nt-1923"
+    },
+    {
+      "targetValue": "London Monarchs",
+      "utterance": "which opponent had the lowest amount of points in one game?",
+      "id": "nt-3108"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "which date had the least attendance?",
+      "id": "nt-4906"
+    },
+    {
+      "targetValue": "31",
+      "utterance": "what was the highest score achieved by rhein fire?",
+      "id": "nt-9686"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what was the teams most consective win streak?",
+      "id": "nt-10393"
+    },
+    {
+      "targetValue": "6-5",
+      "utterance": "what was the teams final record",
+      "id": "nt-11347"
+    },
+    {
+      "targetValue": "Amsterdam Admirals",
+      "utterance": "they won the game against the dragons on june 8. what was the previous team they beat before that?",
+      "id": "nt-11427"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many games were played t waldstadion?",
+      "id": "nt-11905"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "which week has the same kickoff time as week 6?",
+      "id": "nt-12251"
+    }
+  ],
+  "metadata": {
+    "title": "1996 Frankfurt Galaxy season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=24917298&oldid=579915158",
+    "tableIndex": 1,
+    "hashcode": "5081a3fc75490f5c3733aeb939256f9af36fbed2",
+    "id": 24917298,
+    "revision": 579915158
+  }
+}

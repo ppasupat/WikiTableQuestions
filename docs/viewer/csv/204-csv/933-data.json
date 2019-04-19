@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "11",
+      "utterance": "how many games did the austrians win in the 1990s?",
+      "id": "nt-1262"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the greatest number of points this team has won by?",
+      "id": "nt-2762"
+    },
+    {
+      "targetValue": "1991",
+      "utterance": "in what year did they score the least amount of goals?",
+      "id": "nt-3286"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "tell me the number of times they won.",
+      "id": "nt-7374"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "did the austria davis cup team score more than 10 goals in 1990?",
+      "id": "nt-7675"
+    },
+    {
+      "targetValue": "1992",
+      "utterance": "did austria win more games in 1992 or 1996?",
+      "id": "nt-7780"
+    },
+    {
+      "targetValue": "1990",
+      "utterance": "whih world group, 1st round was a win, 1990 or 1993?",
+      "id": "nt-8152"
+    },
+    {
+      "targetValue": "Sweden",
+      "utterance": "what was the last team this team played against in the 1990s?",
+      "id": "nt-8194"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many games did this team play against spain?",
+      "id": "nt-8295"
+    },
+    {
+      "targetValue": "Italy",
+      "utterance": "who did the austria davis cup team play after they beat barcelona in the world group 1st round in 1990?",
+      "id": "nt-13908"
+    }
+  ],
+  "metadata": {
+    "title": "Austria Davis Cup team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9663869&oldid=601182261",
+    "tableIndex": 3,
+    "hashcode": "b2af2d72f9e72c9dc1a78c3f39b99047e21f7238",
+    "id": 9663869,
+    "revision": 601182261
+  }
+}

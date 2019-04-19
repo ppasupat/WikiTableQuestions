@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "William Shakespeare",
+      "utterance": "which author wrote \"two loves i have, of comfort and despair\", and \"on a day (alack the day)\"?",
+      "id": "nt-2040"
+    },
+    {
+      "targetValue": "Richard Barnfield",
+      "utterance": "which author had a poem on this list with the first line \"as it fell upon day\" and also a poem that starts with \"if music and sweet poetry agree\".",
+      "id": "nt-3432"
+    },
+    {
+      "targetValue": "50%",
+      "utterance": "what percentage of the poems are by unknown authors?",
+      "id": "nt-9851"
+    },
+    {
+      "targetValue": "William Shakespeare",
+      "utterance": "which author is the most prominent in the 1599 edition?",
+      "id": "nt-12115"
+    }
+  ],
+  "metadata": {
+    "title": "The Passionate Pilgrim",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=706222&oldid=588660393",
+    "tableIndex": 0,
+    "hashcode": "1f21e480a806b0ba3ca15ac2f5eaacd5d05b35c6",
+    "id": 706222,
+    "revision": 588660393
+  }
+}

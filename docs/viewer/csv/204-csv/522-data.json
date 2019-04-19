@@ -1,0 +1,79 @@
+{
+  "examples": [
+    {
+      "targetValue": "Ha-208",
+      "utterance": "which was scuttled earlier, ha-206 or ha-208?",
+      "id": "nt-1947"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "how many boats were launched after april 1945?",
+      "id": "nt-4357"
+    },
+    {
+      "targetValue": "Ha-218",
+      "utterance": "when was a boat launched immediately before ha-206?",
+      "id": "nt-6507"
+    },
+    {
+      "targetValue": "Ha-202",
+      "utterance": "what other boat was completed on the same day as ha-201?",
+      "id": "nt-6852"
+    },
+    {
+      "targetValue": "23-04-1945",
+      "utterance": "ha-201 and ha-202 were both launched on which date?",
+      "id": "nt-8029"
+    },
+    {
+      "targetValue": [
+        "Ha-217",
+        "Ha-218",
+        "Ha-219",
+        "Ha-224",
+        "Ha-225",
+        "Ha-226",
+        "Ha-227",
+        "Ha-228",
+        "Ha-229",
+        "Ha-230",
+        "Ha-231",
+        "Ha-232",
+        "Ha-233",
+        "Ha-235",
+        "Ha-236",
+        "Ha-237",
+        "Ha-238",
+        "Ha-239",
+        "Ha-240",
+        "Ha-246",
+        "Ha-247"
+      ],
+      "utterance": "name all the boats laid down after may 1945.",
+      "id": "nt-8324"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many boats were scuttled off the goto islands?",
+      "id": "nt-9423"
+    },
+    {
+      "targetValue": "Ha-201",
+      "utterance": "which boat was laid down on the same day as ha-202?",
+      "id": "nt-9429"
+    },
+    {
+      "targetValue": "Ha-206",
+      "utterance": "which boat was the only one to be sunk by a typhoon?",
+      "id": "nt-10186"
+    }
+  ],
+  "metadata": {
+    "title": "Ha-201-class submarine",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=22289394&oldid=575908579",
+    "tableIndex": 0,
+    "hashcode": "5c1f4393bacb55689880278232b343aba9091784",
+    "id": 22289394,
+    "revision": 575908579
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "Seaford Town",
+      "utterance": "which division three team also played in the division two season during the 1980s?",
+      "id": "nt-43"
+    },
+    {
+      "targetValue": "Rye & Iden United",
+      "utterance": "which division two team played twice in the 2000s.",
+      "id": "nt-11516"
+    }
+  ],
+  "metadata": {
+    "title": "Sussex County Football League",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=696677&oldid=568213603",
+    "tableIndex": 4,
+    "hashcode": "e740074fff43a4e7991cbb2b87b230adbddbafdf",
+    "id": 696677,
+    "revision": 568213603
+  }
+}

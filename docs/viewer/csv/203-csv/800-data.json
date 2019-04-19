@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "George W. Bush",
+      "utterance": "who was the last president from the republican party?",
+      "id": "nt-865"
+    },
+    {
+      "targetValue": "John Adams",
+      "utterance": "who is the only president to match his senate support numbers and house support with his years served?",
+      "id": "nt-3791"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "how many years did the first three presidents serve combined?",
+      "id": "nt-3818"
+    },
+    {
+      "targetValue": "1.5",
+      "utterance": "what is the difference in senate opposed between john quincy adams and james garfield?",
+      "id": "nt-7136"
+    },
+    {
+      "targetValue": "George Washington",
+      "utterance": "what is the name of the first president?",
+      "id": "nt-8185"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many elections did william mckinley win?",
+      "id": "nt-8911"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "on average how many times was the president's party listed as whig?",
+      "id": "nt-12179"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many presidents were part of the whig party?",
+      "id": "nt-13143"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many years did ulysses grant serve?",
+      "id": "nt-13876"
+    }
+  ],
+  "metadata": {
+    "title": "United States Presidents and control of Congress",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2785831&oldid=599647016",
+    "tableIndex": 0,
+    "hashcode": "d066e69910788a20be829840d6b45e420e807385",
+    "id": 2785831,
+    "revision": 599647016
+  }
+}

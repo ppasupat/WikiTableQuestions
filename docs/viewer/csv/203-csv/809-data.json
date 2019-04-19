@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "September 2",
+      "utterance": "which game did georgia score the largest amount of points in?",
+      "id": "nt-4376"
+    },
+    {
+      "targetValue": "September 30",
+      "utterance": "what was the date of the game that had the least number of people in attendance?",
+      "id": "nt-5418"
+    },
+    {
+      "targetValue": "September 2",
+      "utterance": "what date what the first game on?",
+      "id": "nt-6009"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many games were played before 3:00 p.m.?",
+      "id": "nt-9467"
+    },
+    {
+      "targetValue": "November 25",
+      "utterance": "did november 11 or november 25 have a greater attendance?",
+      "id": "nt-9526"
+    },
+    {
+      "targetValue": "#10",
+      "utterance": "what is the number of the rank of the team on october 7?",
+      "id": "nt-10534"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of games that started after 7:00 p.m.?",
+      "id": "nt-10803"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the number of ranked teams georgia played in 2006?",
+      "id": "nt-14012"
+    }
+  ],
+  "metadata": {
+    "title": "2006 Georgia Bulldogs football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8763212&oldid=581021521",
+    "tableIndex": 0,
+    "hashcode": "5e02657fd77dc6ffaa559615ab9d0170f69cf73a",
+    "id": 8763212,
+    "revision": 581021521
+  }
+}

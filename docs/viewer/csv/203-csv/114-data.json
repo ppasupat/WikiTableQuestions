@@ -1,0 +1,74 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "9",
+        "10",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "utterance": "which week(s) did not have more than 75,000 in attendance?",
+      "id": "nt-563"
+    },
+    {
+      "targetValue": [
+        "September 7, 1998",
+        "September 13, 1998",
+        "October 4, 1998",
+        "October 25, 1998",
+        "November 8, 1998",
+        "November 22, 1998",
+        "December 6, 1998",
+        "December 27, 1998"
+      ],
+      "utterance": "list each of dates played at mile high stadium.",
+      "id": "nt-2913"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many games did the broncos win in 1998 by more than 10 points?",
+      "id": "nt-3468"
+    },
+    {
+      "targetValue": "74,057",
+      "utterance": "what was the total attendance at the end of the last week?",
+      "id": "nt-6063"
+    },
+    {
+      "targetValue": "21522",
+      "utterance": "what was the difference in attendance between the broncos' most-attended game and their least attended game?",
+      "id": "nt-6697"
+    },
+    {
+      "targetValue": "New England Patriots",
+      "utterance": "who was the first opponent of the season?",
+      "id": "nt-8356"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "in how many games did they score at least twice as many points as their opponent?",
+      "id": "nt-10405"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many consecutive games did the denver broncos win to start the 1998 season?",
+      "id": "nt-13106"
+    }
+  ],
+  "metadata": {
+    "title": "1998 Denver Broncos season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3171029&oldid=591480248",
+    "tableIndex": 0,
+    "hashcode": "dec72f893bf23258b6d92030c647c95b3c810f9a",
+    "id": 3171029,
+    "revision": 591480248
+  }
+}

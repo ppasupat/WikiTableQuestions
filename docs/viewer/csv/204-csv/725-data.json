@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Indonesia (INA)",
+      "utterance": "who earned more medals--vietnam or indonesia?",
+      "id": "nt-50"
+    },
+    {
+      "targetValue": "Indonesia",
+      "utterance": "who won the most silver medals?",
+      "id": "nt-1431"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "tell me the number of silver medals won by saudi arabia.",
+      "id": "nt-4046"
+    },
+    {
+      "targetValue": "Iran (IRI)",
+      "utterance": "which country scored the most gold medals--iran or indonesia?",
+      "id": "nt-6960"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many countries earned no bronze medals?",
+      "id": "nt-9228"
+    },
+    {
+      "targetValue": "Vietnam",
+      "utterance": "name a country that won more than one silver medal but no bronze medals.",
+      "id": "nt-12523"
+    }
+  ],
+  "metadata": {
+    "title": "Karate at the 1994 Asian Games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36904152&oldid=597219287",
+    "tableIndex": 2,
+    "hashcode": "3daa0f9c341825d47ad0397169f4b9b1eaf1da5c",
+    "id": 36904152,
+    "revision": 597219287
+  }
+}

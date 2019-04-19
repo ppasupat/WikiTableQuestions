@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "11",
+      "utterance": "how many total goals have been scored against croatia in the world cup?",
+      "id": "nt-3021"
+    },
+    {
+      "targetValue": "1998",
+      "utterance": "in 2002 and what other year did croatia have 2 loses?",
+      "id": "nt-4655"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the number of goals scored against croatia in 2006?",
+      "id": "nt-6751"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what's the most consecutive times croatia has qualified?",
+      "id": "nt-7510"
+    },
+    {
+      "targetValue": "1998",
+      "utterance": "which year had the most matches, 1998 or 2002?",
+      "id": "nt-7911"
+    },
+    {
+      "targetValue": "2006",
+      "utterance": "which year had a lower amount of losses, 1998 or 2006?",
+      "id": "nt-8436"
+    },
+    {
+      "targetValue": "8 years",
+      "utterance": "how long did it take for croatia to qualify after the 2006 world cup?",
+      "id": "nt-11994"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many matches did croatia play in the 1998 world cup",
+      "id": "nt-12075"
+    }
+  ],
+  "metadata": {
+    "title": "Croatia national football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=715240&oldid=601524160",
+    "tableIndex": 0,
+    "hashcode": "da9f9d6be4129e0830e72a0970c428a560dc3fae",
+    "id": 715240,
+    "revision": 601524160
+  }
+}

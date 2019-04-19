@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many months had the same amount of average rainy days?",
+      "id": "nt-7724"
+    },
+    {
+      "targetValue": "January",
+      "utterance": "comparing january and february, who had the least average rainy days?",
+      "id": "nt-11833"
+    },
+    {
+      "targetValue": "March",
+      "utterance": "which month had an average low of 53 degrees and an average high of 63 degrees?",
+      "id": "nt-11980"
+    }
+  ],
+  "metadata": {
+    "title": "Santa Monica, California",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=28208&oldid=600553702",
+    "tableIndex": 0,
+    "hashcode": "842477939341edfb69ef660a0341840f3350a7d8",
+    "id": 28208,
+    "revision": 600553702
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "7,000",
+      "utterance": "what number is the only attendance listed?",
+      "id": "nt-649"
+    },
+    {
+      "targetValue": "George Washington",
+      "utterance": "did georgetown score more points at the 1940 game against george washington or at the 1941 game against syracuse?",
+      "id": "nt-1195"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many wins did georgetown achieve in 1941?",
+      "id": "nt-1841"
+    },
+    {
+      "targetValue": "11 games",
+      "utterance": "how long was georgetown's longest winning streak?",
+      "id": "nt-4016"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many games did the hoyas score 50 or more points?",
+      "id": "nt-4271"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many times was there a loss by more than 5 points?",
+      "id": "nt-5169"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many games did they play in february?",
+      "id": "nt-5787"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many away games did the hoyas lose?",
+      "id": "nt-9017"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many consecutive wins did the hoyas have this season?",
+      "id": "nt-10272"
+    }
+  ],
+  "metadata": {
+    "title": "1940–41 Georgetown Hoyas men's basketball team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41580628&oldid=601452736",
+    "tableIndex": 1,
+    "hashcode": "2f270dd74451ef0d00056b757bc5c65b768c2691",
+    "id": 41580628,
+    "revision": 601452736
+  }
+}

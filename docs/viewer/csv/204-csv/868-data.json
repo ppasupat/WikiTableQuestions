@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of victories this player has had on hard surfaces?",
+      "id": "nt-3278"
+    },
+    {
+      "targetValue": "Lenzerheide, Switzerland",
+      "utterance": "where was the last match played?",
+      "id": "nt-3866"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "on how many dates was the outcome the same as on 1 august 2011",
+      "id": "nt-6039"
+    },
+    {
+      "targetValue": "Laura Siegemund",
+      "utterance": "who did this player face in her only game in switzerland?",
+      "id": "nt-8384"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "tell me the number of matches played on clay.",
+      "id": "nt-8433"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many games did this player play in 2011?",
+      "id": "nt-9060"
+    },
+    {
+      "targetValue": "Goiânia, Brazil",
+      "utterance": "what match did she win before the match in ribeirao preto, brazil?",
+      "id": "nt-9664"
+    },
+    {
+      "targetValue": "2 years",
+      "utterance": "how long from the first date listed to the last date listed?",
+      "id": "nt-10279"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many times was the surface clay?",
+      "id": "nt-11121"
+    }
+  ],
+  "metadata": {
+    "title": "Beatriz Haddad Maia",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=38097406&oldid=602276690",
+    "tableIndex": 2,
+    "hashcode": "8d074b91d88630754fb6a868b3209fa7f931c7c6",
+    "id": 38097406,
+    "revision": 602276690
+  }
+}

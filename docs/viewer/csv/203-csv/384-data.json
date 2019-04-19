@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Finland",
+      "utterance": "marek le&#347;niak's first international goal was scored against what country?",
+      "id": "nt-1754"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many competitions were not for the fifa world cup?",
+      "id": "nt-2225"
+    },
+    {
+      "targetValue": "International Friendly",
+      "utterance": "which competition is represented the most in this chart?",
+      "id": "nt-7114"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times was finland the opponent?",
+      "id": "nt-9940"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many international friendlys took place?",
+      "id": "nt-11012"
+    },
+    {
+      "targetValue": "Poland",
+      "utterance": "which country was the venue in the most number of times?",
+      "id": "nt-13140"
+    }
+  ],
+  "metadata": {
+    "title": "Marek Leśniak",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20965267&oldid=595561838",
+    "tableIndex": 0,
+    "hashcode": "207319869b4bd984027a1624e5b2da9d93244d0f",
+    "id": 20965267,
+    "revision": 595561838
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "Matt Kenseth",
+      "utterance": "which touchstone energy 300 top 10 driver also came in first at the auto club 300?",
+      "id": "nt-4110"
+    },
+    {
+      "targetValue": "Jeff Green",
+      "utterance": "which driver came in first place during the bellsouth mobility 320 but last place in the carquest auto parts 300?",
+      "id": "nt-14010"
+    }
+  ],
+  "metadata": {
+    "title": "1999 NASCAR Busch Series",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4037146&oldid=600947619",
+    "tableIndex": 0,
+    "hashcode": "db22722876b049ce344c26546ffe5cc114925a1d",
+    "id": 4037146,
+    "revision": 600947619
+  }
+}

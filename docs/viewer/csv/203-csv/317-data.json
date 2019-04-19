@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Progressive Conservative",
+      "utterance": "was george hees a member of the liberal or progressive conservative party?",
+      "id": "nt-1996"
+    },
+    {
+      "targetValue": [
+        "John Baird",
+        "Chuck Strahl",
+        "Denis Lebel",
+        "Lisa Raitt"
+      ],
+      "utterance": "besides lawrence cannon, which other members are under the conservative political party?",
+      "id": "nt-4701"
+    },
+    {
+      "targetValue": "Lawrence Cannon",
+      "utterance": "who was the previous minister of transport before john baird?",
+      "id": "nt-5562"
+    },
+    {
+      "targetValue": "Liberal",
+      "utterance": "which political party did most ministers side with?",
+      "id": "nt-6098"
+    },
+    {
+      "targetValue": "C. D. Howe",
+      "utterance": "who was the first minister of transport?",
+      "id": "nt-6300"
+    },
+    {
+      "targetValue": "Arthur Cardin",
+      "utterance": "who was the next minister of transport after c.d. howe?",
+      "id": "nt-6945"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many liberal political party members from the st. laurent ministry are there?",
+      "id": "nt-7984"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "how many ministers of transport were members of the liberal party?",
+      "id": "nt-12161"
+    },
+    {
+      "targetValue": "Liberal",
+      "utterance": "what political party did joseph-enoil michaud belong to?",
+      "id": "nt-13680"
+    },
+    {
+      "targetValue": "George Hees",
+      "utterance": "who was the progressive conservative in the office of minister of transport?",
+      "id": "nt-13740"
+    }
+  ],
+  "metadata": {
+    "title": "Minister of Transport (Canada)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=845730&oldid=598807464",
+    "tableIndex": 0,
+    "hashcode": "d67d54c72f3eced8182a161f629e38e6b4ee1c17",
+    "id": 845730,
+    "revision": 598807464
+  }
+}

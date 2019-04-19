@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Benjamin Edwards",
+      "utterance": "who took office right after uriah forrest?",
+      "id": "nt-5269"
+    },
+    {
+      "targetValue": "John Sarbanes",
+      "utterance": "who is the most recent representative of maryland's 3rd congressional district?",
+      "id": "nt-5704"
+    },
+    {
+      "targetValue": "48",
+      "utterance": "how many representatives have served maryland's 3rd congressional district?",
+      "id": "nt-7093"
+    },
+    {
+      "targetValue": "Jeremiah Crabb",
+      "utterance": "who was the first person to take office after benjamin edwards?",
+      "id": "nt-7768"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "the know-nothing party had a total number of how many people in office?",
+      "id": "nt-7914"
+    },
+    {
+      "targetValue": "Benjamin Cardin",
+      "utterance": "barbara mikulski took office immediately before who?",
+      "id": "nt-8292"
+    },
+    {
+      "targetValue": "Anti-Administration",
+      "utterance": "was benjamin contee a part of the anti-administration or the pro-administration?",
+      "id": "nt-10414"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many representatives served before the 1800s began?",
+      "id": "nt-10527"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many 3rd district representatives have resigned?",
+      "id": "nt-13206"
+    }
+  ],
+  "metadata": {
+    "title": "Maryland's 3rd congressional district",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3881065&oldid=597401640",
+    "tableIndex": 7,
+    "hashcode": "43fc34963f277712e8e51bb87ea070c0c59fdafa",
+    "id": 3881065,
+    "revision": 597401640
+  }
+}

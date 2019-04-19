@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "233",
+      "utterance": "how many matches overall were there?",
+      "id": "nt-3135"
+    },
+    {
+      "targetValue": "Djurgårdens IF",
+      "utterance": "what team has the most goals?",
+      "id": "nt-3712"
+    },
+    {
+      "targetValue": "2005",
+      "utterance": "what season has the most goals?",
+      "id": "nt-5192"
+    },
+    {
+      "targetValue": "Sweden",
+      "utterance": "what country is team djurgårdens if not from?",
+      "id": "nt-5916"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many teams had above 20 matches in the season?",
+      "id": "nt-7016"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what was the number of goals he scored in 2005?",
+      "id": "nt-8005"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many matches did jones kusi-asare play in in his first season?",
+      "id": "nt-11309"
+    },
+    {
+      "targetValue": "58",
+      "utterance": "how many total goals has jones kusi-asare scored?",
+      "id": "nt-12617"
+    },
+    {
+      "targetValue": "233",
+      "utterance": "what is the total number of matches?",
+      "id": "nt-12905"
+    }
+  ],
+  "metadata": {
+    "title": "Jones Kusi-Asare",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7662112&oldid=586651749",
+    "tableIndex": 0,
+    "hashcode": "dc1599be98b490a82b6e7791d402bd78f1d1bfa1",
+    "id": 7662112,
+    "revision": 586651749
+  }
+}

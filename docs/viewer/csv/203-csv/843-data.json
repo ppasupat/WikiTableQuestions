@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "how many records are on the table?",
+      "id": "nt-4214"
+    },
+    {
+      "targetValue": "Tufnell Spartans",
+      "utterance": "did st albans score more goals against ruislip manor or the tufnell spartans?",
+      "id": "nt-5835"
+    },
+    {
+      "targetValue": "Spartan League",
+      "utterance": "from which competition were their the two largest score differences?",
+      "id": "nt-7788"
+    },
+    {
+      "targetValue": "Biggest win",
+      "utterance": "what was the first record broken?",
+      "id": "nt-10544"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many games in the records happened before 1920?",
+      "id": "nt-12325"
+    }
+  ],
+  "metadata": {
+    "title": "St Albans City F.C.",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1233808&oldid=590938642",
+    "tableIndex": 1,
+    "hashcode": "d368c609e334d6aac9eb25c33955d3551e6b8f45",
+    "id": 1233808,
+    "revision": 590938642
+  }
+}

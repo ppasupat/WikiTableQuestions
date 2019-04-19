@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of films jaya has made per year since her debut?",
+      "id": "nt-521"
+    },
+    {
+      "targetValue": "Parle Theka",
+      "utterance": "what is the next film of ahsan's that will be released?",
+      "id": "nt-1342"
+    },
+    {
+      "targetValue": "10 years",
+      "utterance": "how long has she been making films?",
+      "id": "nt-7370"
+    },
+    {
+      "targetValue": "Bachelor",
+      "utterance": "before she was in dubshatar, which film did she make a special appearance in?",
+      "id": "nt-8026"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many of ahsan's films won at least 1 award?",
+      "id": "nt-8957"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many movies has ahsan been in?",
+      "id": "nt-9905"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many films has she been in?",
+      "id": "nt-11107"
+    },
+    {
+      "targetValue": "Zero Degree",
+      "utterance": "what was the last movie joya ahsan played in?",
+      "id": "nt-12489"
+    }
+  ],
+  "metadata": {
+    "title": "Joya Ahsan",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7821120&oldid=601926629",
+    "tableIndex": 0,
+    "hashcode": "5c5f4d43adef9ec9030940cf8371d1d53c891456",
+    "id": 7821120,
+    "revision": 601926629
+  }
+}

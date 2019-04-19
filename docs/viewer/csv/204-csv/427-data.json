@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Cockatrice",
+      "utterance": "what creature is after basilisk?",
+      "id": "nt-768"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many creatures are included at least as high as page 42?",
+      "id": "nt-1750"
+    },
+    {
+      "targetValue": "Describes additional abilities/penalties applicable to native plane of existence.",
+      "utterance": "what is the description next to medusa?",
+      "id": "nt-2102"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many consecutive creatures are included on page 39?",
+      "id": "nt-5498"
+    },
+    {
+      "targetValue": "Horde",
+      "utterance": "what is the first creature (other planes) after page 40?",
+      "id": "nt-9365"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many creatures are on page 40?",
+      "id": "nt-13256"
+    },
+    {
+      "targetValue": "Invisible Stalker",
+      "utterance": "what is the last creature (other planes) for page 41?",
+      "id": "nt-13495"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many creatures are included before page 42?",
+      "id": "nt-14099"
+    }
+  ],
+  "metadata": {
+    "title": "List of Dungeons &amp; Dragons monsters (1977–99)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16407742&oldid=600236042",
+    "tableIndex": 6,
+    "hashcode": "a271ab26c92805cf6c74fd94b2edd13d7644b9b1",
+    "id": 16407742,
+    "revision": 600236042
+  }
+}

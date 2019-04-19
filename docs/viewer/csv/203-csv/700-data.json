@@ -1,0 +1,48 @@
+{
+  "examples": [
+    {
+      "targetValue": "Speaker John Boehner",
+      "utterance": "in 2012 who was expected to light the tree?",
+      "id": "nt-1049"
+    },
+    {
+      "targetValue": "63 feet",
+      "utterance": "what is the total height of trees from california?",
+      "id": "nt-10836"
+    },
+    {
+      "targetValue": "Douglas Fir",
+      "utterance": "the species with the least height",
+      "id": "nt-11411"
+    },
+    {
+      "targetValue": "Engelmann Spruce",
+      "utterance": "what species of tree was the tallest one used?",
+      "id": "nt-12259"
+    },
+    {
+      "targetValue": "Michigan",
+      "utterance": "was the white spruce used in 1985 from michigan or minnesota?",
+      "id": "nt-12329"
+    },
+    {
+      "targetValue": [
+        "Pacific Silver Fir",
+        "Engelmann Spruce",
+        "Red Spruce",
+        "Colorado Blue Spruce",
+        "White Fir"
+      ],
+      "utterance": "each of the species average 65 feet",
+      "id": "nt-13403"
+    }
+  ],
+  "metadata": {
+    "title": "Capitol Christmas Tree",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3279938&oldid=585218001",
+    "tableIndex": 0,
+    "hashcode": "059bc62bbedc8c1d2c4f4036793aa2cdf1350d73",
+    "id": 3279938,
+    "revision": 585218001
+  }
+}

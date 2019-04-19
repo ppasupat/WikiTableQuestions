@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "No",
+      "utterance": "were the new jersey devils in last place according to the chart?",
+      "id": "nt-2284"
+    },
+    {
+      "targetValue": "137",
+      "utterance": "what was the total penalty minutes that dave brown had on the 1993-1994 flyers?",
+      "id": "nt-5039"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "the 1993-1994 flyers missed the playoffs again. how many consecutive seasons up until 93-94 did the flyers miss the playoffs?",
+      "id": "nt-5238"
+    },
+    {
+      "targetValue": "Mark Recchi",
+      "utterance": "who had the most assists on the 1993-1994 flyers?",
+      "id": "nt-6304"
+    },
+    {
+      "targetValue": "Tampa Bay Lightning",
+      "utterance": "which was the only team in the atlantic division in the 1993-1994 season to acquire less points than the philadelphia flyers?",
+      "id": "nt-7596"
+    },
+    {
+      "targetValue": "35",
+      "utterance": "what was the number of wins the philadelphia flyers had?",
+      "id": "nt-7945"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "did the tampa bay lightning have the least amount of wins?",
+      "id": "nt-8033"
+    },
+    {
+      "targetValue": "New York Islanders",
+      "utterance": "what other team had the closest amount of wins?",
+      "id": "nt-13750"
+    }
+  ],
+  "metadata": {
+    "title": "1993–94 Philadelphia Flyers season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14344407&oldid=601107609",
+    "tableIndex": 2,
+    "hashcode": "17391056116975b130b001fd233426374a9f7135",
+    "id": 14344407,
+    "revision": 601107609
+  }
+}

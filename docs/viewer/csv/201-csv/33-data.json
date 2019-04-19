@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Feb",
+      "utterance": "which month averages the least precipitation in kindersley?",
+      "id": "nt-4629"
+    },
+    {
+      "targetValue": "Apr",
+      "utterance": "which month had 15.6 inches in rainfall and also 9.5 inches in snowfall?",
+      "id": "nt-5323"
+    },
+    {
+      "targetValue": "June",
+      "utterance": "which month had the most rainfall?",
+      "id": "nt-8724"
+    },
+    {
+      "targetValue": "June",
+      "utterance": "which month is the best for someone who enjoys the rain?",
+      "id": "nt-9296"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many months experienced a daily mean temperature above 10 degrees fahrenheit?",
+      "id": "nt-9308"
+    },
+    {
+      "targetValue": "Before",
+      "utterance": "does kindersley average more snowfall in the month before or after february?",
+      "id": "nt-12516"
+    },
+    {
+      "targetValue": "Dec",
+      "utterance": "which month had 12.9 as their record high temperature and a negative average high in temperature?",
+      "id": "nt-13951"
+    }
+  ],
+  "metadata": {
+    "title": "Kindersley, Saskatchewan",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=951728&oldid=598656719",
+    "tableIndex": 0,
+    "hashcode": "f69dea63634bc73517cf84aa90137fdab504f199",
+    "id": 951728,
+    "revision": 598656719
+  }
+}

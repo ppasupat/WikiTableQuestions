@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "46",
+      "utterance": "how many total events will occur in all?",
+      "id": "nt-439"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many solar saros events lasted longer than 4 minutes?",
+      "id": "nt-1577"
+    },
+    {
+      "targetValue": "3m 37s",
+      "utterance": "how long did the the saros on july 30, 2307 last for?",
+      "id": "nt-2021"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many partial members will occur before the first annular?",
+      "id": "nt-2704"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "which one has a larger width, 8 or 21?",
+      "id": "nt-4022"
+    },
+    {
+      "targetValue": "June 5, 2217",
+      "utterance": "when will the next solar saros be after the may 24, 2199 solar saros occurs?",
+      "id": "nt-4307"
+    },
+    {
+      "targetValue": "2m 16s",
+      "utterance": "how long did 18 last?",
+      "id": "nt-4821"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "name one that has the same latitude as member number 12.",
+      "id": "nt-10873"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "name a member number with a latitude above 60 s.",
+      "id": "nt-11258"
+    },
+    {
+      "targetValue": "0.1232",
+      "utterance": "what is the difference in magnitude between the may 13, 2181 solar saros and the may 24, 2199 solar saros?",
+      "id": "nt-11418"
+    },
+    {
+      "targetValue": "7:47:48",
+      "utterance": "what is the previous time for the saros on october 3, 2415?",
+      "id": "nt-11435"
+    },
+    {
+      "targetValue": "March 5, 2668",
+      "utterance": "when did the first solar saros with a magnitude of greater than 1.00 occur?",
+      "id": "nt-14080"
+    }
+  ],
+  "metadata": {
+    "title": "Solar Saros 160",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=25559093&oldid=406031952",
+    "tableIndex": 0,
+    "hashcode": "af45d9017eb9d3f9c1819127ff6c947455cc5383",
+    "id": 25559093,
+    "revision": 406031952
+  }
+}

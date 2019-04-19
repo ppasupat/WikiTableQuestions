@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many states have never used capital punishment?",
+      "id": "nt-552"
+    },
+    {
+      "targetValue": "Texas",
+      "utterance": "which state had their last execution on 5 february 2014?",
+      "id": "nt-752"
+    },
+    {
+      "targetValue": "169 years",
+      "utterance": "how long has it been since the first hanging occurred?",
+      "id": "nt-5190"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many states had their last execution take place in 1997?",
+      "id": "nt-5589"
+    },
+    {
+      "targetValue": "Maryland",
+      "utterance": "which state had an execution done by the method of lethal injection and occurred in december of 2005?",
+      "id": "nt-8596"
+    },
+    {
+      "targetValue": "Alabama",
+      "utterance": "arizona last put someone to death in october 2013 what state had the closest previous execution?",
+      "id": "nt-10251"
+    },
+    {
+      "targetValue": "Mississippi",
+      "utterance": "which state had a more recent execution take place delaware or mississippi?",
+      "id": "nt-10619"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of states that have never used capital punishment?",
+      "id": "nt-11952"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many states have never executed anyone?",
+      "id": "nt-12180"
+    },
+    {
+      "targetValue": "lethal injection",
+      "utterance": "alabama last put someone to death in 2013 what was its means of execution?",
+      "id": "nt-12768"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many states have done executions in 2014?",
+      "id": "nt-13099"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "alphabetically what is the largest consecutive amount of states that use lethal injection?",
+      "id": "nt-13478"
+    }
+  ],
+  "metadata": {
+    "title": "List of most recent executions by jurisdiction",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18756507&oldid=602484886",
+    "tableIndex": 4,
+    "hashcode": "d12d7e03234e29d0b783ea7a3fb34d3820455317",
+    "id": 18756507,
+    "revision": 602484886
+  }
+}

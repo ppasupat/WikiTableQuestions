@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "September 5, 2001",
+      "utterance": "what was the date of the only match to occur in sapporo, japan?",
+      "id": "nt-2289"
+    },
+    {
+      "targetValue": "November 10, 2013",
+      "utterance": "what is the last date listed?",
+      "id": "nt-3387"
+    },
+    {
+      "targetValue": "Koji Nakagawa and Gedo",
+      "utterance": "who were the first champions?",
+      "id": "nt-3391"
+    },
+    {
+      "targetValue": "34",
+      "utterance": "how many groups of wrestlers are listed?",
+      "id": "nt-4228"
+    },
+    {
+      "targetValue": "Tokyo, Japan",
+      "utterance": "which location was used the most often?",
+      "id": "nt-7870"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many locations were used at least twice?",
+      "id": "nt-8533"
+    },
+    {
+      "targetValue": "Gedo",
+      "utterance": "who was the first person to hold the titles with three different partners?",
+      "id": "nt-10900"
+    },
+    {
+      "targetValue": "Takashi Sasaki and GENTARO",
+      "utterance": "which wrestlers have the same year listed for their date as kodo fuyuki and the sandman?",
+      "id": "nt-13548"
+    }
+  ],
+  "metadata": {
+    "title": "WEW World Tag Team Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9369480&oldid=586245865",
+    "tableIndex": 0,
+    "hashcode": "de19e6cbd252ac51b7e31e74c402b7fb04f3ca84",
+    "id": 9369480,
+    "revision": 586245865
+  }
+}

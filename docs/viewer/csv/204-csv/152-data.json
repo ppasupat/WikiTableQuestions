@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "SATA 6 Gbit/s",
+      "utterance": "which interface appears first, sata 6 gbit/s or pcie?",
+      "id": "nt-1412"
+    },
+    {
+      "targetValue": "Violin Memory Violin 3200",
+      "utterance": "which is the only device to have the \"flash memory array\" note?",
+      "id": "nt-3538"
+    },
+    {
+      "targetValue": "Simple SLC SSD",
+      "utterance": "which device has the least iops",
+      "id": "nt-4284"
+    },
+    {
+      "targetValue": [
+        "Intel X25-E (SLC)",
+        "OCZ Vertex 3"
+      ],
+      "utterance": "whivh is above g.skill and which one is below",
+      "id": "nt-4661"
+    },
+    {
+      "targetValue": "SSD",
+      "utterance": "which type is consecutive in this chart",
+      "id": "nt-5504"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many devices have no notes?",
+      "id": "nt-5829"
+    },
+    {
+      "targetValue": "Intel X25-M G2 (MLC)",
+      "utterance": "name the device above intel x25-e",
+      "id": "nt-8948"
+    },
+    {
+      "targetValue": "Up to 60,000 IOPS",
+      "utterance": "how many iops can the ocz vertex 3 handle at most?",
+      "id": "nt-9794"
+    },
+    {
+      "targetValue": "FC / InfiniBand",
+      "utterance": "if violet owned a texas memory systems ramsan 630, what kind of interface would it have?",
+      "id": "nt-11506"
+    },
+    {
+      "targetValue": "NetApp FAS6240 cluster",
+      "utterance": "what hard drive has up to 1,200,000 iops but is not a ssd?",
+      "id": "nt-11508"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "does the simple slc ssd have the same interface as the g.skill?",
+      "id": "nt-11942"
+    }
+  ],
+  "metadata": {
+    "title": "IOPS",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2390873&oldid=594236908",
+    "tableIndex": 2,
+    "hashcode": "13e7d5fba86f2228bdd92705f52dd0a8dd6ba43c",
+    "id": 2390873,
+    "revision": 594236908
+  }
+}

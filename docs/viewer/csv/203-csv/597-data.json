@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "more",
+      "utterance": "is the number of games he played in 2002 more or less than the amount he played in 2008?",
+      "id": "nt-12581"
+    },
+    {
+      "targetValue": "2008",
+      "utterance": "each of these years he played less or equal to 4 games",
+      "id": "nt-13372"
+    }
+  ],
+  "metadata": {
+    "title": "Najeh Davenport",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=975577&oldid=602335295",
+    "tableIndex": 0,
+    "hashcode": "2bf1db3ad4233765230f694648168fe4054c7359",
+    "id": 975577,
+    "revision": 602335295
+  }
+}

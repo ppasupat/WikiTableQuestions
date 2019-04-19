@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Ireland",
+      "utterance": "which country is represented for both men and women at the top of the list?",
+      "id": "nt-500"
+    },
+    {
+      "targetValue": "male",
+      "utterance": "in 2009, which competitor finished faster - the male or the female?",
+      "id": "nt-620"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many women's winners are from kenya?",
+      "id": "nt-6795"
+    },
+    {
+      "targetValue": "Maria McCambridge (IRL)",
+      "utterance": "who had the most amount of time out of all the runners?",
+      "id": "nt-11055"
+    },
+    {
+      "targetValue": "Dick Hooper (IRL)",
+      "utterance": "who won at least 3 times in the mens?",
+      "id": "nt-11635"
+    },
+    {
+      "targetValue": "John Mutai (KEN)",
+      "utterance": "who won after joseph kipkemboi's winning streak ended?",
+      "id": "nt-13186"
+    }
+  ],
+  "metadata": {
+    "title": "Dublin Marathon",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5838960&oldid=579852743",
+    "tableIndex": 0,
+    "hashcode": "8e212903ea6633e9e6250e8e731a39bcbe604c55",
+    "id": 5838960,
+    "revision": 579852743
+  }
+}

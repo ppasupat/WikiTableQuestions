@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "September 21, 2011 to January 25, 2012",
+      "utterance": "how long did the broadcast last in spain, from what date to what date?",
+      "id": "nt-901"
+    },
+    {
+      "targetValue": "Cameroon",
+      "utterance": "in france the premeire was on september 23, 2013 what was the other country that did as well?",
+      "id": "nt-3650"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many countries started airing the series in september of 2011?",
+      "id": "nt-5830"
+    },
+    {
+      "targetValue": "Serbia",
+      "utterance": "what country premiered after poland?",
+      "id": "nt-6834"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "in how many countries did the series premiere in the year 2011?",
+      "id": "nt-13240"
+    },
+    {
+      "targetValue": "26",
+      "utterance": "what is the number of networks accounted for in this chart?",
+      "id": "nt-14047"
+    }
+  ],
+  "metadata": {
+    "title": "La Fuerza del Destino (telenovela)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=29799700&oldid=600401795",
+    "tableIndex": 1,
+    "hashcode": "5561abeaefa0755f64d358d355b8d88225a15b7f",
+    "id": 29799700,
+    "revision": 600401795
+  }
+}

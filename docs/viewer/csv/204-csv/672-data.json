@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "\"Melting Pot\"",
+        "\"The Banner Man\""
+      ],
+      "utterance": "which single(s) had the highest uk singles chart position?",
+      "id": "nt-1441"
+    },
+    {
+      "targetValue": "\"Our World\"",
+      "utterance": "name the top single on the us billboard hot 100 chart.",
+      "id": "nt-5097"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of years for singles by philips label?",
+      "id": "nt-8507"
+    },
+    {
+      "targetValue": "\"By the Devil (I Was Tempted)\"",
+      "utterance": "what was the title of the only single to not receive top 20 on the uk singles chart?",
+      "id": "nt-8969"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many top 10 uk-charting singles did blue mink release?",
+      "id": "nt-9800"
+    },
+    {
+      "targetValue": "\"Melting Pot\"",
+      "utterance": "what was the first single that this music group released?",
+      "id": "nt-9966"
+    },
+    {
+      "targetValue": "\"Melting Pot\"",
+      "utterance": "what was blue mink's earliest charting single?",
+      "id": "nt-11172"
+    },
+    {
+      "targetValue": "\"Good Morning Freedom\"",
+      "utterance": "what was the next single released after \"melting pot?\"",
+      "id": "nt-11637"
+    },
+    {
+      "targetValue": "\"Randy\"",
+      "utterance": "what was the last single from this music group?",
+      "id": "nt-11668"
+    }
+  ],
+  "metadata": {
+    "title": "Blue Mink",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1792281&oldid=575843288",
+    "tableIndex": 0,
+    "hashcode": "8d5c5b14b59aa649ba65c22c6cbd609e7adaa30e",
+    "id": 1792281,
+    "revision": 575843288
+  }
+}

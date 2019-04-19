@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Fred Taylor Park",
+      "utterance": "what stadium can hold no more than 2500 people?",
+      "id": "nt-466"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many different kit manufacturers are involved?",
+      "id": "nt-1462"
+    },
+    {
+      "targetValue": "YoungHeart Manawatu",
+      "utterance": "of those teams with kit manufactured by nike, which has a stadium with the most capacity?",
+      "id": "nt-2216"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many stadiums have a capacity of at least 8,000?",
+      "id": "nt-2923"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the number of managers from new zealand?",
+      "id": "nt-4088"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many teams have kits manufactured by samurai?",
+      "id": "nt-4628"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many teams share a common kit manufacturer?",
+      "id": "nt-7484"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "does david farrington park have a larger capacity than porritt stadium?",
+      "id": "nt-7761"
+    },
+    {
+      "targetValue": "Fred Taylor Park",
+      "utterance": "what stadium has the least capacity?",
+      "id": "nt-8138"
+    },
+    {
+      "targetValue": "Fred Taylor Park",
+      "utterance": "the stadium can only hold 2500 people.",
+      "id": "nt-11321"
+    },
+    {
+      "targetValue": "Fred Taylor Park",
+      "utterance": "of those football venues containing the first and last name of a person as part of the name, which is in last place for seating capacity?",
+      "id": "nt-13632"
+    }
+  ],
+  "metadata": {
+    "title": "2012–13 ASB Premiership",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=37134769&oldid=597823146",
+    "tableIndex": 0,
+    "hashcode": "84bb6026a93b4c4c1390f692389017fb95c6c6d1",
+    "id": 37134769,
+    "revision": 597823146
+  }
+}

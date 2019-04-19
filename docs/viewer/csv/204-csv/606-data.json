@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "15695",
+      "utterance": "what is the different of votes between both in orange county",
+      "id": "nt-415"
+    },
+    {
+      "targetValue": "41",
+      "utterance": "how many total counties did bush win in new york?",
+      "id": "nt-1605"
+    },
+    {
+      "targetValue": "Bush",
+      "utterance": "did kerry or bush win in rockland county?",
+      "id": "nt-3752"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many counties gave bush at least 60 percent of the vote?",
+      "id": "nt-4047"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "in how many counties in new york did kerry win at least 50% of the popular vote?",
+      "id": "nt-4349"
+    },
+    {
+      "targetValue": "Tompkins",
+      "utterance": "which county had the most voters for a candidate other than bush or kerry?",
+      "id": "nt-5157"
+    },
+    {
+      "targetValue": "Bronx",
+      "utterance": "in which county in new york did kerry win the most votes?",
+      "id": "nt-5307"
+    },
+    {
+      "targetValue": "Bush",
+      "utterance": "which one is above in votes in rockland county",
+      "id": "nt-10358"
+    }
+  ],
+  "metadata": {
+    "title": "United States presidential election in New York, 2004",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1756364&oldid=583815170",
+    "tableIndex": 0,
+    "hashcode": "0a77352b7dabc8690ada85b3a6300a312840c431",
+    "id": 1756364,
+    "revision": 583815170
+  }
+}

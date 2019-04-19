@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "22 October 1976",
+      "utterance": "what is the date of the first episode?",
+      "id": "nt-371"
+    },
+    {
+      "targetValue": "\"Cat Amongst the Pigeons\"",
+      "utterance": "what is the title before the episode \"target\"?",
+      "id": "nt-419"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the total amount of guests in episode 1-01?",
+      "id": "nt-1880"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "what is the total of guest for the month of january",
+      "id": "nt-3022"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many episodes were there?",
+      "id": "nt-4863"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the least number of guest casts on an episode?",
+      "id": "nt-8012"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many days were there between episode 1 and 2?",
+      "id": "nt-10537"
+    },
+    {
+      "targetValue": "\"Cat Amongst the Pigeons\"",
+      "utterance": "which episode was previous to target",
+      "id": "nt-10929"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the total number of guests listed on episode two?",
+      "id": "nt-13199"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what is the total episode on the chart?",
+      "id": "nt-14049"
+    }
+  ],
+  "metadata": {
+    "title": "The New Avengers (TV series)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3233000&oldid=598089334",
+    "tableIndex": 0,
+    "hashcode": "7a600f713167fd8690457f845b92bfafb516600a",
+    "id": 3233000,
+    "revision": 598089334
+  }
+}

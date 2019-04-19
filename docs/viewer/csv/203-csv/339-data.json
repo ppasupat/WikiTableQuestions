@@ -1,0 +1,83 @@
+{
+  "examples": [
+    {
+      "targetValue": "40",
+      "utterance": "what car achieved the highest qual?",
+      "id": "nt-206"
+    },
+    {
+      "targetValue": "Running",
+      "utterance": "what is the most common cause for a retired car?",
+      "id": "nt-3543"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "in how many indy 500 races, has jones been flagged?",
+      "id": "nt-4421"
+    },
+    {
+      "targetValue": "1130",
+      "utterance": "how many total laps have been driven in the indy 500?",
+      "id": "nt-5386"
+    },
+    {
+      "targetValue": [
+        "1965",
+        "1966"
+      ],
+      "utterance": "in which years did he lead the race the least?",
+      "id": "nt-5401"
+    },
+    {
+      "targetValue": "98",
+      "utterance": "what car ranked #1 from 1962-1963?",
+      "id": "nt-5768"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did he finish in the top three?",
+      "id": "nt-6308"
+    },
+    {
+      "targetValue": [
+        "1963",
+        "1965"
+      ],
+      "utterance": "what year(s) did parnelli finish at least 4th or better?",
+      "id": "nt-7122"
+    },
+    {
+      "targetValue": "7.45",
+      "utterance": "what is the difference between the qualfying time in 1967 and 1965?",
+      "id": "nt-7918"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many consecutive years did parnelli place in the top 5?",
+      "id": "nt-7955"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what was his best finish before his first win?",
+      "id": "nt-9103"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "number of times to finish the races running.",
+      "id": "nt-11413"
+    },
+    {
+      "targetValue": "1961",
+      "utterance": "previous to 1965, when did jones have a number 5 start at the indy 500?",
+      "id": "nt-13512"
+    }
+  ],
+  "metadata": {
+    "title": "Parnelli Jones",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2046034&oldid=572159837",
+    "tableIndex": 0,
+    "hashcode": "b00f3d4cfa92d2c08426a15890f0adeb45a78ccc",
+    "id": 2046034,
+    "revision": 572159837
+  }
+}

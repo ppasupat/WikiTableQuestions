@@ -1,0 +1,46 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many countries participated at reliant park",
+      "id": "nt-3568"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the total number of circuits listed on the chart?",
+      "id": "nt-3925"
+    },
+    {
+      "targetValue": "Jaime Melo",
+      "utterance": "find a driver from finland or brazil.",
+      "id": "nt-6313"
+    },
+    {
+      "targetValue": [
+        "Clint Field",
+        "Liz Halliday",
+        "Jon Field"
+      ],
+      "utterance": "list three american racers consecutivly in the order they won",
+      "id": "nt-6335"
+    },
+    {
+      "targetValue": "Allan McNish",
+      "utterance": "which driver is from england allan mcnish or clint field",
+      "id": "nt-7674"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many races were there total?",
+      "id": "nt-11387"
+    }
+  ],
+  "metadata": {
+    "title": "2006 American Le Mans Series season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6588521&oldid=576805863",
+    "tableIndex": 1,
+    "hashcode": "b2a4059753734a7be44b7971379d855b5c535ef2",
+    "id": 6588521,
+    "revision": 576805863
+  }
+}

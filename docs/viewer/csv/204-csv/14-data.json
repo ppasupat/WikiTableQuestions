@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Marit Bjørgen",
+      "utterance": "who came in first place?",
+      "id": "nt-982"
+    },
+    {
+      "targetValue": "Justyna Kowalczyk",
+      "utterance": "who was the top finisher from poland?",
+      "id": "nt-3500"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many bib numbers were before hanna falk's?",
+      "id": "nt-3559"
+    },
+    {
+      "targetValue": "Marit Bjørgen",
+      "utterance": "who was first?",
+      "id": "nt-3967"
+    },
+    {
+      "targetValue": "Olga Reshetkova",
+      "utterance": "who was last?",
+      "id": "nt-7642"
+    },
+    {
+      "targetValue": "Laure Barthélémy",
+      "utterance": "who is right below hanna falk?",
+      "id": "nt-7702"
+    },
+    {
+      "targetValue": "3:26.51",
+      "utterance": "what is the time of the last finisher from kazakhstan?",
+      "id": "nt-8043"
+    },
+    {
+      "targetValue": "Magda Genuin",
+      "utterance": "who ran the quickest race from italy?",
+      "id": "nt-8133"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times is the united states in the rankings?",
+      "id": "nt-8499"
+    },
+    {
+      "targetValue": "3:11.37",
+      "utterance": "how long did nicole fessel take?",
+      "id": "nt-9934"
+    }
+  ],
+  "metadata": {
+    "title": "FIS Nordic World Ski Championships 2011 – Women's sprint",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30831186&oldid=598634599",
+    "tableIndex": 0,
+    "hashcode": "f61c2082175611d26c2aa78a78daff45683e930e",
+    "id": 30831186,
+    "revision": 598634599
+  }
+}

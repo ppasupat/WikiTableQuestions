@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "F",
+      "utterance": "bruce bowen and mark madsen both played what position?",
+      "id": "nt-760"
+    },
+    {
+      "targetValue": "Dikembe Mutombo",
+      "utterance": "which player was not a free agent?",
+      "id": "nt-1886"
+    },
+    {
+      "targetValue": "Mark Madsen",
+      "utterance": "which of the players listed had the least number of years in the nba?",
+      "id": "nt-4153"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many years in the nba did mark madsen play?",
+      "id": "nt-4563"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total number of the listed nba players that went on to become a coach?",
+      "id": "nt-7205"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many players spent at least a decade in the nba?",
+      "id": "nt-8595"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many players retired after playing 12 years?",
+      "id": "nt-10522"
+    },
+    {
+      "targetValue": "9 years",
+      "utterance": "what is the difference between the player with the most experience and the least amount of experience?",
+      "id": "nt-11183"
+    },
+    {
+      "targetValue": "Dikembe Mutombo",
+      "utterance": "which player has the most years in the nba?",
+      "id": "nt-11624"
+    },
+    {
+      "targetValue": "Dikembe Mutombo",
+      "utterance": "who spent the most years in the nba?",
+      "id": "nt-13416"
+    }
+  ],
+  "metadata": {
+    "title": "List of 2009–10 NBA season transactions",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21035863&oldid=597596411",
+    "tableIndex": 0,
+    "hashcode": "04d4b5e1889234ca0d96f239461cc91acd5f006a",
+    "id": 21035863,
+    "revision": 597596411
+  }
+}

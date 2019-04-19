@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Lucien Favre",
+      "utterance": "who is the only player to play in 5 games, 1 as a sub?",
+      "id": "nt-746"
+    },
+    {
+      "targetValue": "Servette",
+      "utterance": "what is the name of the first club listed on this chart?",
+      "id": "nt-3234"
+    },
+    {
+      "targetValue": "Alain Geiger",
+      "utterance": "who is the next player listed after andy egil?",
+      "id": "nt-3359"
+    },
+    {
+      "targetValue": "24",
+      "utterance": "what was the average age of the grasshoppers?",
+      "id": "nt-5264"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of players that played for fc st. gallen?",
+      "id": "nt-6083"
+    },
+    {
+      "targetValue": "MF",
+      "utterance": "which position is listed the most on this chart?",
+      "id": "nt-7190"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many games did egli play?",
+      "id": "nt-7594"
+    },
+    {
+      "targetValue": "Grasshoppers",
+      "utterance": "which club was represented the most?",
+      "id": "nt-10221"
+    },
+    {
+      "targetValue": "Erich Burgener",
+      "utterance": "who was the oldest player?",
+      "id": "nt-10511"
+    }
+  ],
+  "metadata": {
+    "title": "UEFA Euro 1984 qualifying Group 1",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=24537000&oldid=577904703",
+    "tableIndex": 6,
+    "hashcode": "6690e8a19224ef0e98b87ab8587040f932759666",
+    "id": 24537000,
+    "revision": 577904703
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "what was the most consecutive wins?",
+      "id": "nt-1146"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many games did they play against the chicago cardinals?",
+      "id": "nt-1555"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "for how many consecutive games was attendance above 20,000?",
+      "id": "nt-1681"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "was attendance higher during week 5 or week 9?",
+      "id": "nt-1687"
+    },
+    {
+      "targetValue": "December 14, 1952",
+      "utterance": "what was the date of the last game?",
+      "id": "nt-8963"
+    },
+    {
+      "targetValue": [
+        "Cleveland Browns",
+        "Chicago Cardinals"
+      ],
+      "utterance": "besides the philadelphia eagles, who were the other 2 opponents in october?",
+      "id": "nt-10647"
+    },
+    {
+      "targetValue": "October 19, 1952",
+      "utterance": "on what date was the only game lost with attendance above 40,000?",
+      "id": "nt-13411"
+    },
+    {
+      "targetValue": "December 14, 1952",
+      "utterance": "which game had the most points scored?",
+      "id": "nt-13979"
+    }
+  ],
+  "metadata": {
+    "title": "1952 New York Giants season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15765426&oldid=583531433",
+    "tableIndex": 0,
+    "hashcode": "6dd04f7fefeb110d177363a26dbcfb64c84d3c87",
+    "id": 15765426,
+    "revision": 583531433
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "how many years ago did ne-yo play as mixx?",
+      "id": "nt-10206"
+    }
+  ],
+  "metadata": {
+    "title": "Ne-Yo",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2172695&oldid=602047110",
+    "tableIndex": 0,
+    "hashcode": "530a20f9f2297a8c6e3111f8ae1a421f518f3e6f",
+    "id": 2172695,
+    "revision": 602047110
+  }
+}

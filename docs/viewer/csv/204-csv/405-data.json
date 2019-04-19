@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many ties occurred in the second round?",
+      "id": "nt-6504"
+    },
+    {
+      "targetValue": "Estoril",
+      "utterance": "what winning team has the least number of letters?",
+      "id": "nt-8002"
+    },
+    {
+      "targetValue": "Vitória de Setúbal",
+      "utterance": "what team won after santa clara?",
+      "id": "nt-8780"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "what is the total points scored in the second round by all teams?",
+      "id": "nt-10101"
+    },
+    {
+      "targetValue": "União de Leiria",
+      "utterance": "naval lost to vitoria de setubal. who lost the previous game?",
+      "id": "nt-10367"
+    },
+    {
+      "targetValue": "Gil Vicente",
+      "utterance": "who was the last team to win?",
+      "id": "nt-13844"
+    }
+  ],
+  "metadata": {
+    "title": "2011–12 Taça da Liga",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=32324614&oldid=598558789",
+    "tableIndex": 8,
+    "hashcode": "2ee410eac4f2b1ea4f854ef336bd2e178ee73211",
+    "id": 32324614,
+    "revision": 598558789
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "Round of 16",
+      "utterance": "how far did they make it in the fa cup after 2009?",
+      "id": "nt-211"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the difference in position between 2011 and 2012 for daegu fc in the k league classic?",
+      "id": "nt-955"
+    },
+    {
+      "targetValue": "Round of 32",
+      "utterance": "how long was the round for season 2010",
+      "id": "nt-2314"
+    },
+    {
+      "targetValue": "2004",
+      "utterance": "what was the first year in which daegu fc finished in the top 10 of the k league classic?",
+      "id": "nt-7520"
+    },
+    {
+      "targetValue": "2008",
+      "utterance": "what year did the team make it the furthest in the fa cup?",
+      "id": "nt-7528"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total number of times between 2003 and 2012 they made it to the quarter finals?",
+      "id": "nt-8237"
+    },
+    {
+      "targetValue": [
+        "2009",
+        "2010"
+      ],
+      "utterance": "which year was the most pos.",
+      "id": "nt-11017"
+    },
+    {
+      "targetValue": "2003",
+      "utterance": "what year had the least amount of teams that competed?",
+      "id": "nt-13795"
+    }
+  ],
+  "metadata": {
+    "title": "Daegu FC",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1056492&oldid=601644490",
+    "tableIndex": 2,
+    "hashcode": "946fe7d9cf3bcb2fa23bccf88887d2a05d42a397",
+    "id": 1056492,
+    "revision": 601644490
+  }
+}

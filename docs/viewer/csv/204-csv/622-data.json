@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Bangkok, Thailand",
+      "utterance": "in what city did piotr's last 1st place finish occur?",
+      "id": "nt-1"
+    },
+    {
+      "targetValue": "3:02.57",
+      "utterance": "how long did it take this competitor to finish the 4x400 meter relay at universiade in 2005?",
+      "id": "nt-166"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was piotr's total number of 3rd place finishes?",
+      "id": "nt-1287"
+    },
+    {
+      "targetValue": "Olympic Games",
+      "utterance": "tell me a competition that they placed no higher than 5th.",
+      "id": "nt-2360"
+    },
+    {
+      "targetValue": "Olympic Games",
+      "utterance": "which competition did this competitor compete in next after the world indoor championships in 2008?",
+      "id": "nt-4094"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "tell me the number of times they placed first.",
+      "id": "nt-6745"
+    },
+    {
+      "targetValue": "1:50.46",
+      "utterance": "how long did it take piotr to run the medley relay in 2001?",
+      "id": "nt-7333"
+    },
+    {
+      "targetValue": "Erfurt, Germany",
+      "utterance": "where was the competition held immediately before the one in turkey?",
+      "id": "nt-11160"
+    },
+    {
+      "targetValue": "2005",
+      "utterance": "which 4x400 was faster, 2005 or 2003?",
+      "id": "nt-11432"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times did piotr place 1st in the 4x400m relay?",
+      "id": "nt-11497"
+    },
+    {
+      "targetValue": "46.62",
+      "utterance": "how long did the 400m in erfurt, germany take for piotr kedzia?",
+      "id": "nt-11540"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many times has this competitor placed 5th or better in competition?",
+      "id": "nt-13064"
+    }
+  ],
+  "metadata": {
+    "title": "Piotr Kędzia",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=35891489&oldid=589337922",
+    "tableIndex": 0,
+    "hashcode": "568a86e2066298ba5a8af6f4554dd5afb9bc4568",
+    "id": 35891489,
+    "revision": 589337922
+  }
+}

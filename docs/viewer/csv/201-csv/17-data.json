@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "Del E. Webb Construction Company",
+      "utterance": "what construction company built most of these landmarks?",
+      "id": "nt-5367"
+    },
+    {
+      "targetValue": "Demountable Hangar",
+      "utterance": "which landmark was built del e., webb construction company and was also designed to resemble an enlisted aviator badge?",
+      "id": "nt-5411"
+    },
+    {
+      "targetValue": "Demountable Hangar",
+      "utterance": "considering just the landmarks that have constructed dates, which is the oldest?",
+      "id": "nt-7653"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many of the landmarks are defined as bunkers?",
+      "id": "nt-9424"
+    },
+    {
+      "targetValue": "Demountable Hangar",
+      "utterance": "which landmark was the built the longest ago?",
+      "id": "nt-11690"
+    }
+  ],
+  "metadata": {
+    "title": "Williams Air Force Base",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=180757&oldid=601429121",
+    "tableIndex": 0,
+    "hashcode": "8ca9c62051d1e994013f52fbfd3a10398f706e78",
+    "id": 180757,
+    "revision": 601429121
+  }
+}

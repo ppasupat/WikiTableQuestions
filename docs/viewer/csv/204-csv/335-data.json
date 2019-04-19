@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "how many times was jim mcmanus jim osborne's partner?",
+      "id": "nt-88"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "did jim osborne win any titles at least once on a grass court?",
+      "id": "nt-238"
+    },
+    {
+      "targetValue": "1971",
+      "utterance": "comparing 1971 and 1972, which year has the most won matches by osborne?",
+      "id": "nt-4020"
+    },
+    {
+      "targetValue": "3-6, 4-6",
+      "utterance": "what is the number of score in the final in 1969?",
+      "id": "nt-5336"
+    },
+    {
+      "targetValue": "Los Angeles, U.S.",
+      "utterance": "where was the first tournament held?",
+      "id": "nt-6060"
+    },
+    {
+      "targetValue": "Los Angeles, U.S.",
+      "utterance": "what tournament comes before the one one 1970?",
+      "id": "nt-9064"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the number of tournaments in which jim mcmanus was the partner?",
+      "id": "nt-11469"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the total of tournament on the chart?",
+      "id": "nt-11772"
+    },
+    {
+      "targetValue": "Jim McManus",
+      "utterance": "who did jim osborne partner with the most during the open era titles?",
+      "id": "nt-12756"
+    }
+  ],
+  "metadata": {
+    "title": "Jim Osborne (tennis)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=22670399&oldid=579100289",
+    "tableIndex": 0,
+    "hashcode": "be0fbf60238acdb32f2a94cc145cbff8f9597339",
+    "id": 22670399,
+    "revision": 579100289
+  }
+}

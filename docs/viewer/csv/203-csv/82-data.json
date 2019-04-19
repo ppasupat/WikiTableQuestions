@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "2008",
+      "utterance": "name the year of the license plate that has the largest amount of alphanumeric digits.",
+      "id": "nt-469"
+    },
+    {
+      "targetValue": "1955",
+      "utterance": "which year featured the license plate with the least characters?",
+      "id": "nt-4029"
+    },
+    {
+      "targetValue": "1955",
+      "utterance": "what was year was the first arizona license plate made?",
+      "id": "nt-6027"
+    },
+    {
+      "targetValue": "ABC-123",
+      "utterance": "what is the average serial format of the arizona license plates?",
+      "id": "nt-7353"
+    }
+  ],
+  "metadata": {
+    "title": "Vehicle registration plates of Arizona",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16796432&oldid=592567911",
+    "tableIndex": 1,
+    "hashcode": "36224e6e1994e724ec9e0ef39654d10b029dae92",
+    "id": 16796432,
+    "revision": 592567911
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Colney Heath Mill",
+      "utterance": "what is the name of the only \"c\" mill located in colney health?",
+      "id": "nt-2035"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many mills were mentioned or built before 1700?",
+      "id": "nt-4206"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many mills were built or first mentioned after 1800?",
+      "id": "nt-4585"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many locations have no photograph?",
+      "id": "nt-5108"
+    },
+    {
+      "targetValue": "Cromer",
+      "utterance": "what location has the most maps?",
+      "id": "nt-5166"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many locations have or had at least 2 windmills?",
+      "id": "nt-6731"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of mills named cheshunt?",
+      "id": "nt-9739"
+    },
+    {
+      "targetValue": "Cheshunt",
+      "utterance": "did cromer, chipperfield or cheshunt have the most windmills?",
+      "id": "nt-11184"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the number of mills first mentioned or built in the 1800s?",
+      "id": "nt-13312"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how man \"c\" windmills have there been?",
+      "id": "nt-13486"
+    }
+  ],
+  "metadata": {
+    "title": "List of windmills in Hertfordshire",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20426137&oldid=581538064",
+    "tableIndex": 2,
+    "hashcode": "656828b63da8ca6a227971b127fbb4cbf3651488",
+    "id": 20426137,
+    "revision": 581538064
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "30,509",
+      "utterance": "how many russian-lipovan's were there in 1966?",
+      "id": "nt-1499"
+    },
+    {
+      "targetValue": "1992",
+      "utterance": "what year was the highest population recorded in northern dobruja?",
+      "id": "nt-8367"
+    },
+    {
+      "targetValue": "Romanian",
+      "utterance": "which ethnicity has the biggest population in 1992?",
+      "id": "nt-13377"
+    }
+  ],
+  "metadata": {
+    "title": "Northern Dobruja",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=229277&oldid=580893223",
+    "tableIndex": 0,
+    "hashcode": "ff89546e5d04b15c8f8e1798af0e71cd1a301c55",
+    "id": 229277,
+    "revision": 580893223
+  }
+}

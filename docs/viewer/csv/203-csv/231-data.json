@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "1982/83",
+      "utterance": "what year has no place indicated?",
+      "id": "nt-241"
+    },
+    {
+      "targetValue": [
+        "1983/84",
+        "1985/86",
+        "1987/88",
+        "1996/97"
+      ],
+      "utterance": "which season(s) earned first place?",
+      "id": "nt-846"
+    },
+    {
+      "targetValue": "1991/92",
+      "utterance": "in which year did the team have its worst season?",
+      "id": "nt-1055"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what were the number of times second place was earned?",
+      "id": "nt-1816"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many seasons are shown in this chart?",
+      "id": "nt-2993"
+    },
+    {
+      "targetValue": "1991/92",
+      "utterance": "when is the last year that the team has been division 2?",
+      "id": "nt-4540"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times total did they finish first",
+      "id": "nt-6885"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "which tier was ud alzira a part of the least?",
+      "id": "nt-9540"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many years were they in tier 3",
+      "id": "nt-12205"
+    }
+  ],
+  "metadata": {
+    "title": "UD Alzira",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8312777&oldid=596202660",
+    "tableIndex": 2,
+    "hashcode": "8b4236fb0953e1559a833ae6ba18eece6113101d",
+    "id": 8312777,
+    "revision": 596202660
+  }
+}

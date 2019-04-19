@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "what is the total number of gold medals won by jamaica?",
+      "id": "nt-292"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "what country won more gold medals than any other?",
+      "id": "nt-333"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what number of nations received 1 medal?",
+      "id": "nt-815"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many nations won more than one silver medal?",
+      "id": "nt-3035"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many gold medals did the us and jamaica win combined?",
+      "id": "nt-4003"
+    },
+    {
+      "targetValue": "Jamaica",
+      "utterance": "after the united states, what country won the most gold medals.",
+      "id": "nt-4448"
+    },
+    {
+      "targetValue": "2.6",
+      "utterance": "what is the average number of gold medals won by the top 5 nations?",
+      "id": "nt-4885"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many nations received more medals than canada?",
+      "id": "nt-10666"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many nations won at least two gold medals?",
+      "id": "nt-12512"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "what country won the most silver medals?",
+      "id": "nt-13450"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many nations won no gold medals?",
+      "id": "nt-13932"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "which countries won at least 3 silver medals?",
+      "id": "nt-13934"
+    }
+  ],
+  "metadata": {
+    "title": "60 metres",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2369278&oldid=600760750",
+    "tableIndex": 7,
+    "hashcode": "9013a58b61fac395cbfcfb6a95f00a8feb61d3fa",
+    "id": 2369278,
+    "revision": 600760750
+  }
+}

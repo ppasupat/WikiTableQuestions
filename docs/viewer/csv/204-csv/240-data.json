@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Durst Welcome Center",
+      "utterance": "which building is only for the university's admissions office?",
+      "id": "nt-1522"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "are there more than 5 library buildings?",
+      "id": "nt-2083"
+    },
+    {
+      "targetValue": "Durst Welcome Center",
+      "utterance": "which building is after the bonds hall?",
+      "id": "nt-4770"
+    },
+    {
+      "targetValue": "Lindsay-Crossman Chapel",
+      "utterance": "which building is the oldest on the bw campus.",
+      "id": "nt-6006"
+    },
+    {
+      "targetValue": "Strosacker Hall",
+      "utterance": "was strosacker hall or presidents house made in 1965?",
+      "id": "nt-6959"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many buildings on the list are chapels?",
+      "id": "nt-8938"
+    },
+    {
+      "targetValue": "Lindsay-Crossman Chapel",
+      "utterance": "which building was the first completed?",
+      "id": "nt-11236"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many renovations has the presidents house seen?",
+      "id": "nt-12568"
+    },
+    {
+      "targetValue": "Student Activities Center (SAC)",
+      "utterance": "which building took two consecutive years to build?",
+      "id": "nt-12649"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what is the total number of administrative buildings on the campus of bw.",
+      "id": "nt-12751"
+    },
+    {
+      "targetValue": "Health Center",
+      "utterance": "which was built at the same time as the lou higgens center?",
+      "id": "nt-13980"
+    }
+  ],
+  "metadata": {
+    "title": "List of Baldwin Wallace University buildings",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=38620594&oldid=587721581",
+    "tableIndex": 2,
+    "hashcode": "b96d4c003b9a6f2396fe8427b78ba65d56acb74e",
+    "id": 38620594,
+    "revision": 587721581
+  }
+}

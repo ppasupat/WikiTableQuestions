@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "Sweden",
+      "utterance": "which country had an athlete place in the top 5 but not the top 3?",
+      "id": "nt-1210"
+    },
+    {
+      "targetValue": "Lee Yeong-Ha",
+      "utterance": "who was the only racer from south korea?",
+      "id": "nt-1899"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many athletes finished with the time less than 40.00?",
+      "id": "nt-2749"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many athletes ranked in the top 15 are from the united states?",
+      "id": "nt-2889"
+    },
+    {
+      "targetValue": "40.09",
+      "utterance": "how long did it take jim chapin to finish?",
+      "id": "nt-3370"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many competitors were from the soviet union?",
+      "id": "nt-4241"
+    },
+    {
+      "targetValue": "Horst Freese",
+      "utterance": "who was the only competitor to not finish?",
+      "id": "nt-4404"
+    },
+    {
+      "targetValue": "Soviet Union",
+      "utterance": "which country had the same number of athletes in the top 10 as the united states?",
+      "id": "nt-5378"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many athletes represented sweden?",
+      "id": "nt-6530"
+    },
+    {
+      "targetValue": "Arnulf Sunde",
+      "utterance": "who was faster, mikio oyama or arnulf sunde?",
+      "id": "nt-7346"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many racers finished the course in under forty seconds?",
+      "id": "nt-10127"
+    },
+    {
+      "targetValue": "Arnulf Sunde",
+      "utterance": "which athlete completed the race in the same time as jan bazen?",
+      "id": "nt-12949"
+    },
+    {
+      "targetValue": "Jan Bazen",
+      "utterance": "what racer finished with the same time as the fastest norwegian skater?",
+      "id": "nt-13074"
+    }
+  ],
+  "metadata": {
+    "title": "Speed skating at the 1976 Winter Olympics – Men's 500 metres",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41835867&oldid=594499653",
+    "tableIndex": 2,
+    "hashcode": "7fb809d1893f2945c2a46108babeaf55e493e4a6",
+    "id": 41835867,
+    "revision": 594499653
+  }
+}

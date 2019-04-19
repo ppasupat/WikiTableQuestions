@@ -1,0 +1,50 @@
+{
+  "examples": [
+    {
+      "targetValue": "Yukon",
+      "utterance": "which province is the top consumer of wine?",
+      "id": "nt-178"
+    },
+    {
+      "targetValue": "12.7",
+      "utterance": "how many litres do individuals in yukon consume in spirits per year?",
+      "id": "nt-1368"
+    },
+    {
+      "targetValue": "Quebec",
+      "utterance": "who drank more beer, quebec or northwest territories?",
+      "id": "nt-5793"
+    },
+    {
+      "targetValue": [
+        "Yukon",
+        "Quebec"
+      ],
+      "utterance": "tell me province that drank more than 15 liters of wine.",
+      "id": "nt-10568"
+    },
+    {
+      "targetValue": "Quebec",
+      "utterance": "which province consumes the least amount of spirits?",
+      "id": "nt-11721"
+    },
+    {
+      "targetValue": "4.1",
+      "utterance": "quebuec had a beer consumption of 93.9, what was their spirit consumption?",
+      "id": "nt-12467"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what are the number of territories that have a wine consumption above 10.0?",
+      "id": "nt-13639"
+    }
+  ],
+  "metadata": {
+    "title": "Alcoholic beverages in Canada",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5026194&oldid=602156661",
+    "tableIndex": 0,
+    "hashcode": "97269ed847069401fc8c4869909b82f9d3006520",
+    "id": 5026194,
+    "revision": 602156661
+  }
+}

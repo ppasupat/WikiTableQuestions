@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "26 years",
+      "utterance": "how long did ian armstrong serve?",
+      "id": "nt-180"
+    },
+    {
+      "targetValue": "Ernest Buttenshaw",
+      "utterance": "which member of the second incarnation of the lachlan was also a nationalist?",
+      "id": "nt-1433"
+    },
+    {
+      "targetValue": "Ernest Buttenshaw",
+      "utterance": "of the members of the third incarnation of the lachlan, who served the longest?",
+      "id": "nt-3269"
+    },
+    {
+      "targetValue": "26",
+      "utterance": "how many years of service do the members of the second incarnation have combined?",
+      "id": "nt-5683"
+    },
+    {
+      "targetValue": "1981-2007",
+      "utterance": "how long did the fourth incarnation of the lachlan exist?",
+      "id": "nt-5746"
+    }
+  ],
+  "metadata": {
+    "title": "Electoral district of Lachlan",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4047642&oldid=532844129",
+    "tableIndex": 0,
+    "hashcode": "43bc6c6a647e61147f8552c5c614b38f3eafa04e",
+    "id": 4047642,
+    "revision": 532844129
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "how many more appearances on fuji tv were there than tbs?",
+      "id": "nt-3747"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total role in the year 2008?",
+      "id": "nt-3905"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many titles were made under the network of fuji tv?",
+      "id": "nt-4155"
+    },
+    {
+      "targetValue": "Agri",
+      "utterance": "what was the first english title role?",
+      "id": "nt-7299"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many years has it been since the first and last japanese title was made?",
+      "id": "nt-12095"
+    },
+    {
+      "targetValue": [
+        "2005",
+        "2008",
+        "2009"
+      ],
+      "utterance": "which year's were the most japanese titles produced?",
+      "id": "nt-12279"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many roles did actor ikuta toma have in 2009?",
+      "id": "nt-12849"
+    }
+  ],
+  "metadata": {
+    "title": "Toma Ikuta",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10385277&oldid=599849401",
+    "tableIndex": 0,
+    "hashcode": "5c4108c52f1fd1ada20dfeaa676f147bd8b50375",
+    "id": 10385277,
+    "revision": 599849401
+  }
+}

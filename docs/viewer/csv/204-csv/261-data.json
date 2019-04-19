@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "how many medals did france get in total?",
+      "id": "nt-1121"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "which countries won more total medals than bulgaria?",
+      "id": "nt-1463"
+    },
+    {
+      "targetValue": "Ukraine",
+      "utterance": "which nation has the most bronze medals?",
+      "id": "nt-3397"
+    },
+    {
+      "targetValue": "37",
+      "utterance": "how many nations ranked in last with 0 total medals?",
+      "id": "nt-5478"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "which nation ranked in first with the most amount of total medals?",
+      "id": "nt-7498"
+    },
+    {
+      "targetValue": "Ukraine",
+      "utterance": "which country won the most bronze medals?",
+      "id": "nt-9987"
+    },
+    {
+      "targetValue": "27",
+      "utterance": "what is the total amount of silver medals given out?",
+      "id": "nt-10584"
+    },
+    {
+      "targetValue": "Yemen",
+      "utterance": "what is the last nation on the list?",
+      "id": "nt-11251"
+    },
+    {
+      "targetValue": "27",
+      "utterance": "what is the total of medals earned by russia?",
+      "id": "nt-12613"
+    }
+  ],
+  "metadata": {
+    "title": "2008 World Sambo Championships",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=24250731&oldid=548637979",
+    "tableIndex": 3,
+    "hashcode": "31e164f62a4659ba4cf484b731f0e4d2dedffbf9",
+    "id": 24250731,
+    "revision": 548637979
+  }
+}

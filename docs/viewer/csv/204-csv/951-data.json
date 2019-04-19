@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many candidates received at least 100,000 votes?",
+      "id": "nt-4067"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many candidates received less than 5,000 votes?",
+      "id": "nt-5392"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many candidates received over 10% of the vote?",
+      "id": "nt-6209"
+    },
+    {
+      "targetValue": "96829",
+      "utterance": "what was the difference in votes between mccain and romney?",
+      "id": "nt-6722"
+    },
+    {
+      "targetValue": "4,060",
+      "utterance": "how many votes did alan keyes receive?",
+      "id": "nt-8307"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many candidates got more than 5% of the votes?",
+      "id": "nt-10126"
+    },
+    {
+      "targetValue": "Alan Keyes",
+      "utterance": "who received more votes, duncan hunter or alan keyes?",
+      "id": "nt-10921"
+    }
+  ],
+  "metadata": {
+    "title": "Florida Republican primary, 2008",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15315799&oldid=545112102",
+    "tableIndex": 0,
+    "hashcode": "03ccb534c7805e2f36301aa8af72db09984837b5",
+    "id": 15315799,
+    "revision": 545112102
+  }
+}

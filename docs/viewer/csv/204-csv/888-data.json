@@ -1,0 +1,71 @@
+{
+  "examples": [
+    {
+      "targetValue": "Limestone Road north",
+      "utterance": "what is the exit beofre virginia avenue?",
+      "id": "nt-948"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what are the total number of destinations in woodmont?",
+      "id": "nt-2301"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total number of destinations for the hancock location?",
+      "id": "nt-2685"
+    },
+    {
+      "targetValue": "Hancock",
+      "utterance": "which round had the most miles?",
+      "id": "nt-4184"
+    },
+    {
+      "targetValue": [
+        "US 522 south - Berkeley Springs, WV",
+        "Limestone Road north",
+        "Virginia Avenue to US 522 north"
+      ],
+      "utterance": "which ramps are not signed?",
+      "id": "nt-4231"
+    },
+    {
+      "targetValue": "3.52",
+      "utterance": "how many miles is the us 522 south - berkeley springs, wv location?",
+      "id": "nt-7962"
+    },
+    {
+      "targetValue": "Virginia Avenue to US 522 north",
+      "utterance": "what is the next destination after limestone road north?",
+      "id": "nt-10010"
+    },
+    {
+      "targetValue": "Woodmont Road south",
+      "utterance": "what destination is after the national pike?",
+      "id": "nt-10070"
+    },
+    {
+      "targetValue": "Hancock",
+      "utterance": "which location has the most destinations?",
+      "id": "nt-11515"
+    },
+    {
+      "targetValue": "Limestone Road north",
+      "utterance": "what is the first destination after berkeley springs, wv?",
+      "id": "nt-12374"
+    },
+    {
+      "targetValue": "US 40 Scenic is county-maintained but signed",
+      "utterance": "what note is before \"former md 453\"?",
+      "id": "nt-13287"
+    }
+  ],
+  "metadata": {
+    "title": "Maryland Route 144",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4739509&oldid=599525142",
+    "tableIndex": 1,
+    "hashcode": "473f2d9ce1a367fb667f3ec10725a569128e320d",
+    "id": 4739509,
+    "revision": 599525142
+  }
+}

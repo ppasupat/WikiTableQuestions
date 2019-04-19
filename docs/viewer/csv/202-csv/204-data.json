@@ -1,0 +1,20 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "S. Carolina",
+        "Kentucky"
+      ],
+      "utterance": "name the first and last states to secede.",
+      "id": "nt-1508"
+    }
+  ],
+  "metadata": {
+    "title": "Ordinance of Secession",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1825893&oldid=592590305",
+    "tableIndex": 0,
+    "hashcode": "139b70af9cb269b8aea333431ced7df80c2ca13c",
+    "id": 1825893,
+    "revision": 592590305
+  }
+}

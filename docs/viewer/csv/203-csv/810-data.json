@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Kwamé",
+      "utterance": "who produced \"listen!!!\" but not \"hip hop hooray\"?",
+      "id": "nt-1541"
+    },
+    {
+      "targetValue": "will.i.am",
+      "utterance": "did will.i.am or talib kweli produce \"a dream\"?",
+      "id": "nt-2183"
+    },
+    {
+      "targetValue": "will.i.am",
+      "utterance": "which performer was listed at least 3 times in both the producer column and the performer column?",
+      "id": "nt-4561"
+    },
+    {
+      "targetValue": "\"Hip Hop Hooray\"",
+      "utterance": "what track/title had the most songwriters?",
+      "id": "nt-4667"
+    },
+    {
+      "targetValue": "\"Code of the Streets\"",
+      "utterance": "what title comes after \"keep ya head up\"?",
+      "id": "nt-6278"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many people wrote \"hip hop hooray\"?",
+      "id": "nt-8661"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "on how many songs is m. isham listed as a songwriter?",
+      "id": "nt-9021"
+    }
+  ],
+  "metadata": {
+    "title": "Freedom Writers (soundtrack)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9372835&oldid=532956851",
+    "tableIndex": 1,
+    "hashcode": "6c59137cb236377618dbfac9ccb42ae107716026",
+    "id": 9372835,
+    "revision": 532956851
+  }
+}

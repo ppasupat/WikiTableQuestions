@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "what was the most years a show lasted?",
+      "id": "nt-2337"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many shows were there in 2005?",
+      "id": "nt-2775"
+    },
+    {
+      "targetValue": "Jassi Jaisi Koi Nahin",
+      "utterance": "besides rihaae, in what other show did gauri tejwani cameo in 2005?",
+      "id": "nt-4808"
+    },
+    {
+      "targetValue": [
+        "Krishna Arjun",
+        "Rihaae",
+        "Jassi Jaisi Koi Nahin",
+        "Kumkum - Ek Pyara Sa Bandhan"
+      ],
+      "utterance": "the shows with at most 1 cameo",
+      "id": "nt-5999"
+    },
+    {
+      "targetValue": "Noorjahan",
+      "utterance": "what was the first tv series that gauri tejwani appeared in?",
+      "id": "nt-8004"
+    },
+    {
+      "targetValue": "Jassi Jaisi Koi Nahin",
+      "utterance": "which was the only television show gauri starred in, in which she played herself?",
+      "id": "nt-9352"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many total television shows has gauri starred in?",
+      "id": "nt-11003"
+    },
+    {
+      "targetValue": "Kaisa Ye Pyar Hai",
+      "utterance": "the show above left right left",
+      "id": "nt-11358"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "in total, how many different tv series has gauri tejwani either starred or cameoed in?",
+      "id": "nt-11943"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many different tv shows was gauri tejwani in before 2000?",
+      "id": "nt-12192"
+    },
+    {
+      "targetValue": "Kyunki Saas Bhi Kabhi Bahu Thi",
+      "utterance": "which television show was gauri in for the longest amount of time?",
+      "id": "nt-13752"
+    }
+  ],
+  "metadata": {
+    "title": "Gauri Pradhan Tejwani",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5515839&oldid=598669673",
+    "tableIndex": 0,
+    "hashcode": "e21c9eb25673efb332f90464d910d939fa4fb3fb",
+    "id": 5515839,
+    "revision": 598669673
+  }
+}

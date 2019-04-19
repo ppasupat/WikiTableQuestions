@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many films are under the publisher caliber comics?",
+      "id": "nt-716"
+    },
+    {
+      "targetValue": "The Avengers",
+      "utterance": "which film made the most worldwide gross income?",
+      "id": "nt-2070"
+    },
+    {
+      "targetValue": "The Spirit",
+      "utterance": "name the film from 2008 under the publisher dc comics that grossed over $10,000,000 and was distributed by lionsgate.",
+      "id": "nt-2450"
+    },
+    {
+      "targetValue": "Dredd",
+      "utterance": "which 2012 superhero film did not gross at least 100,000,000?",
+      "id": "nt-5651"
+    },
+    {
+      "targetValue": "Superman and the Mole Men",
+      "utterance": "which live-action american superhero movie was released before the 1966 batman movie?",
+      "id": "nt-8677"
+    },
+    {
+      "targetValue": "Superman",
+      "utterance": "what was the first superhero movie to gross over 300,000,000?",
+      "id": "nt-8889"
+    },
+    {
+      "targetValue": "20th Century Fox",
+      "utterance": "who is the most used distributor?",
+      "id": "nt-8940"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of live-action american superhero movies released in 1978?",
+      "id": "nt-9775"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many superhero movies have been television films?",
+      "id": "nt-10671"
+    },
+    {
+      "targetValue": "The Avengers",
+      "utterance": "which live-action american superhero movie had the largest gross?",
+      "id": "nt-10952"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many live-action american superhero movies were released in 2013?",
+      "id": "nt-12094"
+    },
+    {
+      "targetValue": "Mark Goldblatt",
+      "utterance": "who directed the punisher?",
+      "id": "nt-12742"
+    }
+  ],
+  "metadata": {
+    "title": "List of American superhero films",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18623825&oldid=602268260",
+    "tableIndex": 0,
+    "hashcode": "fc343af8b33bf5b544f04303f102258f95259067",
+    "id": 18623825,
+    "revision": 602268260
+  }
+}

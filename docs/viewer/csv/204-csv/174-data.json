@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "Lee Young-Sun",
+      "utterance": "who performed better, toshida or young-sun?",
+      "id": "nt-519"
+    },
+    {
+      "targetValue": "Uzbekistan",
+      "utterance": "what country ranks before china?",
+      "id": "nt-2235"
+    },
+    {
+      "targetValue": "Pakistan",
+      "utterance": "which nationality had no result above 40?",
+      "id": "nt-2819"
+    },
+    {
+      "targetValue": "Pakistan",
+      "utterance": "what is the last nationality on the list?",
+      "id": "nt-3174"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many competitors were from north and south korea combined?",
+      "id": "nt-3717"
+    },
+    {
+      "targetValue": "Anne De Silva",
+      "utterance": "who scored more than liliya dusmetova but less than lee young-sun?",
+      "id": "nt-4509"
+    },
+    {
+      "targetValue": "Anne De Silva",
+      "utterance": "which person medaled, but was not from south korea?",
+      "id": "nt-8815"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many names are there?",
+      "id": "nt-9565"
+    },
+    {
+      "targetValue": "Zhang Li",
+      "utterance": "who had the next best time after dusmetova.",
+      "id": "nt-11513"
+    },
+    {
+      "targetValue": "Park Ho-Hyun",
+      "utterance": "who is at the top?",
+      "id": "nt-11981"
+    },
+    {
+      "targetValue": "Emika Yoshida",
+      "utterance": "who finished directly before lakmali?",
+      "id": "nt-11989"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of names from nationalities from either korea?",
+      "id": "nt-12170"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many nationalities are there after rank 5?",
+      "id": "nt-13603"
+    }
+  ],
+  "metadata": {
+    "title": "2005 Asian Athletics Championships – Women's javelin throw",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=39279699&oldid=599115300",
+    "tableIndex": 0,
+    "hashcode": "0530bf380eeb35574b41b7569db9cee523d842cf",
+    "id": 39279699,
+    "revision": 599115300
+  }
+}

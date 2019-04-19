@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "yes",
+      "utterance": "did the detriot lions win before the chicago bears in 1982?",
+      "id": "nt-1067"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "what is the number of games in this rivalry that took place in the 1980s?",
+      "id": "nt-1517"
+    },
+    {
+      "targetValue": "Detroit Lions",
+      "utterance": "which team won the last game in 1989?",
+      "id": "nt-1646"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what is the number of games that the detriot lions lost in the 1980s?",
+      "id": "nt-5496"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what number of dates were won by the chicago bears?",
+      "id": "nt-6842"
+    },
+    {
+      "targetValue": "December 15, 1986",
+      "utterance": "which date was attended by the most people?",
+      "id": "nt-8232"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many consecutive games did the bears win against the lions during the 1980s?",
+      "id": "nt-8884"
+    },
+    {
+      "targetValue": "1980",
+      "utterance": "what year in the 1980s was the only year where a game went into overtime?",
+      "id": "nt-9532"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many total games did the chicago bears win in the 1980s?",
+      "id": "nt-11936"
+    }
+  ],
+  "metadata": {
+    "title": "Bears–Lions rivalry",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36961918&oldid=601144906",
+    "tableIndex": 6,
+    "hashcode": "67ad7b81f46c2f482f788673df4684691c6006a7",
+    "id": 36961918,
+    "revision": 601144906
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Chile",
+        "Uruguay",
+        "Venezuela"
+      ],
+      "utterance": "which three countries are tied for last place?",
+      "id": "nt-2744"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many nations scored more total medals than brazil?",
+      "id": "nt-3049"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many countries have at least 2 bronze medals?",
+      "id": "nt-4621"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many more gold medals did jamaica win compared to cuba?",
+      "id": "nt-4837"
+    },
+    {
+      "targetValue": "6 more",
+      "utterance": "how many more bronze medals did canada earn than venezuela?",
+      "id": "nt-5167"
+    },
+    {
+      "targetValue": "Venezuela",
+      "utterance": "which nation came in last place?",
+      "id": "nt-6801"
+    },
+    {
+      "targetValue": "United States (USA)",
+      "utterance": "what country is the only country with at least 20 gold medals?",
+      "id": "nt-11395"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many gold medals did puerto rico earn?",
+      "id": "nt-11714"
+    },
+    {
+      "targetValue": "48",
+      "utterance": "how many medals did the usa win?",
+      "id": "nt-12307"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many teams scored the same amount of gold medals as mexico?",
+      "id": "nt-13700"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many countries have at least 10 total medals?",
+      "id": "nt-14023"
+    },
+    {
+      "targetValue": "37",
+      "utterance": "what is the total number of bronze medals given out?",
+      "id": "nt-14104"
+    }
+  ],
+  "metadata": {
+    "title": "Athletics at the 1971 Pan American Games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10648428&oldid=549885821",
+    "tableIndex": 2,
+    "hashcode": "0872320b4eda25dadd8301d2d7ff994cb591e484",
+    "id": 10648428,
+    "revision": 549885821
+  }
+}

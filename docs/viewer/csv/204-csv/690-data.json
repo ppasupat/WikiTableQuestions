@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Democratic Party",
+      "utterance": "which party had the most number of seats?",
+      "id": "nt-2379"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many elections saw the share of votes more than 15%?",
+      "id": "nt-4482"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the total number of elections listed?",
+      "id": "nt-4599"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many consecutive times is the progressive party listed?",
+      "id": "nt-4787"
+    },
+    {
+      "targetValue": "Jan Steytler",
+      "utterance": "who was the party leader before colin eglin?",
+      "id": "nt-5991"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times did colin eglin serve as party leader?",
+      "id": "nt-7958"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times was jan steytler the party leader?",
+      "id": "nt-9398"
+    },
+    {
+      "targetValue": "1989",
+      "utterance": "what election had the most total votes?",
+      "id": "nt-9638"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "in how many years did the listed party have at least 10.0% share of votes?",
+      "id": "nt-9914"
+    },
+    {
+      "targetValue": "34",
+      "utterance": "what is the largest amount of seats listed?",
+      "id": "nt-10741"
+    }
+  ],
+  "metadata": {
+    "title": "History of the Democratic Alliance (South Africa)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19780756&oldid=596226065",
+    "tableIndex": 4,
+    "hashcode": "f5d1b6d467c9544857f1e8344c44f770ed1de183",
+    "id": 19780756,
+    "revision": 596226065
+  }
+}

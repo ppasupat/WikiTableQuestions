@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "#2",
+      "utterance": "what was the ranking in each november game?",
+      "id": "nt-510"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the total of games where the opponent scored no points?",
+      "id": "nt-565"
+    },
+    {
+      "targetValue": "Nebraska",
+      "utterance": "was the attendance higher in nebraska or in colorado?",
+      "id": "nt-1258"
+    },
+    {
+      "targetValue": "SMU*",
+      "utterance": "who was the first opponent faced by the sooners in september 1971?",
+      "id": "nt-2718"
+    },
+    {
+      "targetValue": "72,032",
+      "utterance": "what was the total attendance for the game against texas?",
+      "id": "nt-3257"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "did oklahoma score more or less than 50 points against kansas state?",
+      "id": "nt-6550"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many consecutive times was the rank #2?",
+      "id": "nt-8997"
+    },
+    {
+      "targetValue": "vs. #3 Texas*",
+      "utterance": "who was the sooners opponent after usc?",
+      "id": "nt-12317"
+    }
+  ],
+  "metadata": {
+    "title": "1971 Oklahoma Sooners football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15786861&oldid=599067299",
+    "tableIndex": 0,
+    "hashcode": "292fe154b8cb41e12e8d7eb9ad8be55a8e6f5b80",
+    "id": 15786861,
+    "revision": 599067299
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Rick Hampton",
+      "utterance": "who was the first pick by the golden seals?",
+      "id": "nt-1125"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "in the 1974-75 golden seals hockey season, how many draft picks were canadian?",
+      "id": "nt-2507"
+    },
+    {
+      "targetValue": "Jim McCabe",
+      "utterance": "which player was picked in the last round?",
+      "id": "nt-2783"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "in the 1974-75 golden seals hockey season, how many draft picks were chosen after the third round?",
+      "id": "nt-4102"
+    },
+    {
+      "targetValue": "Canada",
+      "utterance": "what nationality picked the most players?",
+      "id": "nt-4935"
+    },
+    {
+      "targetValue": "Tom Sundberg",
+      "utterance": "who was drafted first, tom anderson or tom sundberg?",
+      "id": "nt-5712"
+    },
+    {
+      "targetValue": "128",
+      "utterance": "what is the number of the last pick on the list?",
+      "id": "nt-5854"
+    },
+    {
+      "targetValue": "St. Catharines Black Hawks (OHA)",
+      "utterance": "what is the top college/junior/club team from which the golden seals drafted in 1974?",
+      "id": "nt-7663"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many rounds are on the list after round 1?",
+      "id": "nt-8161"
+    },
+    {
+      "targetValue": "Rick Hampton",
+      "utterance": "in the 1974-75 golden seals hockey season, who was picked first in the draft?",
+      "id": "nt-11128"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many canadian players are there in the 1974 nhl amateur draft?",
+      "id": "nt-12191"
+    },
+    {
+      "targetValue": "Canada",
+      "utterance": "are more of the amateur draft picks from canada or the united states?",
+      "id": "nt-13042"
+    }
+  ],
+  "metadata": {
+    "title": "1974–75 California Golden Seals season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19000748&oldid=601073340",
+    "tableIndex": 0,
+    "hashcode": "e527218af25a474f96b4b55b6ae0d887a2cbad31",
+    "id": 19000748,
+    "revision": 601073340
+  }
+}

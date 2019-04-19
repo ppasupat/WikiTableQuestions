@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "10",
+      "utterance": "how many draft picks were between frank tripucka and dale armstrong?",
+      "id": "nt-392"
+    },
+    {
+      "targetValue": "Back",
+      "utterance": "what was the position that most of the players had?",
+      "id": "nt-1624"
+    },
+    {
+      "targetValue": "25",
+      "utterance": "highest rd number?",
+      "id": "nt-1626"
+    },
+    {
+      "targetValue": "Frank Ziegler",
+      "utterance": "who was picked after frank burns?",
+      "id": "nt-6164"
+    },
+    {
+      "targetValue": [
+        "Paul Odom",
+        "John \"Bull\" Schweder"
+      ],
+      "utterance": "who has same position as frank gillespie?",
+      "id": "nt-8402"
+    },
+    {
+      "targetValue": "Chuck Bednarik",
+      "utterance": "was chuck bednarik or frank tripucka the first draft pick?",
+      "id": "nt-9318"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many players were from notre dame?",
+      "id": "nt-10763"
+    },
+    {
+      "targetValue": "Bobby Wilson",
+      "utterance": "who was picked after roy lester?",
+      "id": "nt-12940"
+    },
+    {
+      "targetValue": "Pennsylvania",
+      "utterance": "most prevalent school",
+      "id": "nt-13255"
+    },
+    {
+      "targetValue": "Jonathan Jenkins",
+      "utterance": "who was the player that the team drafted after bob dean?",
+      "id": "nt-13992"
+    }
+  ],
+  "metadata": {
+    "title": "1949 Philadelphia Eagles season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16678524&oldid=599340861",
+    "tableIndex": 0,
+    "hashcode": "8eb0e91ff7cdca7f14609421b93a069a62c7c157",
+    "id": 16678524,
+    "revision": 599340861
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many players had a field goal percentage greater than .500?",
+      "id": "nt-1214"
+    },
+    {
+      "targetValue": "65",
+      "utterance": "how many games did larry johnson play?",
+      "id": "nt-1618"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "give the number of players covered by the table.",
+      "id": "nt-4347"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "did kurt thomas play more or less than 2126 minutes?",
+      "id": "nt-6833"
+    },
+    {
+      "targetValue": "49",
+      "utterance": "how many more games did allan houston play than mark jackson?",
+      "id": "nt-7946"
+    },
+    {
+      "targetValue": "848",
+      "utterance": "how many total points were scored by players averaging over 4 assists per game>",
+      "id": "nt-10630"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "number of players on the team.",
+      "id": "nt-11289"
+    },
+    {
+      "targetValue": "Larry Johnson",
+      "utterance": "who scored more points, larry johnson or charlie ward?",
+      "id": "nt-13546"
+    }
+  ],
+  "metadata": {
+    "title": "2000–01 New York Knicks season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17309791&oldid=586133457",
+    "tableIndex": 6,
+    "hashcode": "201339797b6282d589a71242b7c54d34acb30785",
+    "id": 17309791,
+    "revision": 586133457
+  }
+}

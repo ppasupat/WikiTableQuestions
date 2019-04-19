@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Solid particulate",
+      "utterance": "which pollutant had the same emission standard as pm10?",
+      "id": "nt-1980"
+    },
+    {
+      "targetValue": "SO3",
+      "utterance": "what is the only pollutant that has 0.0 petroleum coke-fired?",
+      "id": "nt-4508"
+    },
+    {
+      "targetValue": "Units",
+      "utterance": "what category does each pollutant except so3 have in common?",
+      "id": "nt-4542"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the total number of pollutants that are measured with an lb/mmbtu unit?",
+      "id": "nt-5915"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "at most part, how many emission standards are equal to or less than 1.1?",
+      "id": "nt-8139"
+    },
+    {
+      "targetValue": "SO3",
+      "utterance": "which pollutant has the least amount of petroleum coke fired?",
+      "id": "nt-12620"
+    }
+  ],
+  "metadata": {
+    "title": "JEA Northside Generating Station",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14818511&oldid=595297698",
+    "tableIndex": 0,
+    "hashcode": "b37d8d28d9598e34bb4d9f761df3763e39c480f0",
+    "id": 14818511,
+    "revision": 595297698
+  }
+}

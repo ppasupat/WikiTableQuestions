@@ -1,0 +1,71 @@
+{
+  "examples": [
+    {
+      "targetValue": "Jefferson",
+      "utterance": "after sedan, which township has the next highest population?",
+      "id": "nt-545"
+    },
+    {
+      "targetValue": "Belleville",
+      "utterance": "which township has the most land area?",
+      "id": "nt-589"
+    },
+    {
+      "targetValue": "Lafayette",
+      "utterance": "which township has the least in population?",
+      "id": "nt-2721"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many townships have no water area?",
+      "id": "nt-2937"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many of the townships have their water area as 0 km?",
+      "id": "nt-5060"
+    },
+    {
+      "targetValue": "Lafayette",
+      "utterance": "which township has the least population density?",
+      "id": "nt-6723"
+    },
+    {
+      "targetValue": "Sedan",
+      "utterance": "which township has the greatest population total?",
+      "id": "nt-7445"
+    },
+    {
+      "targetValue": "Jefferson",
+      "utterance": "which township has his population as 834?",
+      "id": "nt-10027"
+    },
+    {
+      "targetValue": [
+        "Caneyville",
+        "Jefferson",
+        "Summit"
+      ],
+      "utterance": "which township has the same land area as center?",
+      "id": "nt-10658"
+    },
+    {
+      "targetValue": "Sedan",
+      "utterance": "the town with the largest population desnsity",
+      "id": "nt-11648"
+    },
+    {
+      "targetValue": "Sedan",
+      "utterance": "the town with at most 1660 total population",
+      "id": "nt-11663"
+    }
+  ],
+  "metadata": {
+    "title": "Chautauqua County, Kansas",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=95740&oldid=597754185",
+    "tableIndex": 0,
+    "hashcode": "b880b216947b0b88ed2c81b2d7b0a14c06979060",
+    "id": 95740,
+    "revision": 597754185
+  }
+}

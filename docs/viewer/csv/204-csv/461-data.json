@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "August 15, 2009",
+      "utterance": "when was the first win by decision?",
+      "id": "nt-522"
+    },
+    {
+      "targetValue": [
+        "Guto Inocente",
+        "Lavar Johnson"
+      ],
+      "utterance": "besides the loss to cody goodale, what other losses occurred?",
+      "id": "nt-528"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many loses did virgil zwicker have?",
+      "id": "nt-780"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the total number of rounds in the fight against ovince st. preux?",
+      "id": "nt-1316"
+    },
+    {
+      "targetValue": "TKO",
+      "utterance": "are there more wins by submission, or tko?",
+      "id": "nt-2683"
+    },
+    {
+      "targetValue": "5:00",
+      "utterance": "how did the match between zwick and william richley last?",
+      "id": "nt-3745"
+    },
+    {
+      "targetValue": "Denis Hall",
+      "utterance": "zwicker faced tom hubert on october 15th, 2005, who did he face before him?",
+      "id": "nt-4165"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is total amount of submission victories?",
+      "id": "nt-5084"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "what is his total number of fights between april of 2003 and december of 2013?",
+      "id": "nt-12101"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many rounds did he fight cody goodale before finally losing by unanimous decision?",
+      "id": "nt-13399"
+    }
+  ],
+  "metadata": {
+    "title": "Virgil Zwicker",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=31434489&oldid=596070745",
+    "tableIndex": 2,
+    "hashcode": "0ee0d319e2cbe69ed7379464747af39290620abc",
+    "id": 31434489,
+    "revision": 596070745
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Nottingham, England $50,000",
+      "utterance": "where did camerin win singles after cagnes-sur-mer?",
+      "id": "nt-1438"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many opponents played in their own country?",
+      "id": "nt-2655"
+    },
+    {
+      "targetValue": "Spoleto, Italy $10,000",
+      "utterance": "what is the top ranked location?",
+      "id": "nt-2765"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many matches were played on a hard surface?",
+      "id": "nt-3785"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many times did camerin oppose maria sharapova in singles finals?",
+      "id": "nt-3867"
+    },
+    {
+      "targetValue": "Mexico",
+      "utterance": "were there more locations in mexico or the usa?",
+      "id": "nt-4763"
+    },
+    {
+      "targetValue": "$40,000",
+      "utterance": "how much more money did camerin win in pittsburgh than in spoleto?",
+      "id": "nt-4895"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many locations are above sedona?",
+      "id": "nt-6468"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total number of locations that used a clay surface?",
+      "id": "nt-6908"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many matches were not played on a clay surface?",
+      "id": "nt-7953"
+    },
+    {
+      "targetValue": "1 June 2009",
+      "utterance": "what was the only day grass was the surface used?",
+      "id": "nt-9111"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many matches were played in mexico?",
+      "id": "nt-11374"
+    }
+  ],
+  "metadata": {
+    "title": "Maria Elena Camerin",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5462194&oldid=595819263",
+    "tableIndex": 4,
+    "hashcode": "25d7600e5e42558ba66491cf99d463b6d4d5c6e2",
+    "id": 5462194,
+    "revision": 595819263
+  }
+}

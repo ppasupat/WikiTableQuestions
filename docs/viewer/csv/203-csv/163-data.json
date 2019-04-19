@@ -1,0 +1,73 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Serbs",
+        "Germans"
+      ],
+      "utterance": "in 1931, which two ethnic groups were represented by at least 100,000 people within the population of the serbian banat?",
+      "id": "nt-1584"
+    },
+    {
+      "targetValue": [
+        "1948",
+        "1953",
+        "1961",
+        "1971",
+        "1981",
+        "1991",
+        "2002"
+      ],
+      "utterance": "which years were the totals at least 600,000?",
+      "id": "nt-2160"
+    },
+    {
+      "targetValue": "35,319",
+      "utterance": "how many more hungarians lived in the serbian banat region than romanians in 1910?",
+      "id": "nt-2402"
+    },
+    {
+      "targetValue": "2002",
+      "utterance": "in what year were germans and slovaks the smallest two percentages?",
+      "id": "nt-2553"
+    },
+    {
+      "targetValue": "103,019",
+      "utterance": "what was the difference between the number of germans living in the serbian banat in 1931 and 1948?",
+      "id": "nt-4682"
+    },
+    {
+      "targetValue": "45,655",
+      "utterance": "in 2002, how many people in the serbian banat were either slovaks or romanians?",
+      "id": "nt-4780"
+    },
+    {
+      "targetValue": "1971",
+      "utterance": "what was the first year that the romanian population was less than 51,000?",
+      "id": "nt-6907"
+    },
+    {
+      "targetValue": "1991",
+      "utterance": "what was the last year that romanians were 5,5%?",
+      "id": "nt-7368"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did the hungarians have a percentage more than germans?",
+      "id": "nt-7920"
+    },
+    {
+      "targetValue": "Serbs",
+      "utterance": "who had the largest percentact in 1971?",
+      "id": "nt-13025"
+    }
+  ],
+  "metadata": {
+    "title": "Banat",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=271319&oldid=600507911",
+    "tableIndex": 2,
+    "hashcode": "cd8f18d810de374a229c79086e3b4950a2ebd6da",
+    "id": 271319,
+    "revision": 600507911
+  }
+}

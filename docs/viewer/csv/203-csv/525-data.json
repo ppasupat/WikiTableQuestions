@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "'90-'94 N14 Pulsar GTi-R",
+      "utterance": "which engine has the smallest compression rate?",
+      "id": "nt-4777"
+    },
+    {
+      "targetValue": "'97-'01 W11 Avenir GT4",
+      "utterance": "which car has a stock boost of over 7psi?",
+      "id": "nt-5543"
+    },
+    {
+      "targetValue": [
+        "'91-'95 U13 Bluebird Ltd",
+        "'90-'94 N14 Pulsar GTi-R",
+        "'91-'93 S13 Silvia, 180sx"
+      ],
+      "utterance": "which engines are the same as the first entry ('89 u12 bluebird ltd)?",
+      "id": "nt-6396"
+    },
+    {
+      "targetValue": [
+        "Silvertop",
+        "Blacktop"
+      ],
+      "utterance": "which engines were used after 1999?",
+      "id": "nt-7407"
+    },
+    {
+      "targetValue": "Redtop",
+      "utterance": "which engine(s) has the least amount of power?",
+      "id": "nt-8460"
+    },
+    {
+      "targetValue": [
+        "'90-'94 N14 Pulsar GTi-R",
+        "'99-02 S15 Silvia"
+      ],
+      "utterance": "which car's power measured at higher than 6000 rpm?",
+      "id": "nt-9254"
+    },
+    {
+      "targetValue": "'99-02 S15 Silvia",
+      "utterance": "which car is the only one with more than 230 hp?",
+      "id": "nt-9470"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many models used the redtop engine?",
+      "id": "nt-12967"
+    },
+    {
+      "targetValue": "8.3:1",
+      "utterance": "what is his/her compression for the 90-94 n14 pulsar gti-r?",
+      "id": "nt-13770"
+    }
+  ],
+  "metadata": {
+    "title": "Nissan SR20DET",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1634815&oldid=597369975",
+    "tableIndex": 1,
+    "hashcode": "90080db835fb884c27a8ec9988f269d82f19d117",
+    "id": 1634815,
+    "revision": 597369975
+  }
+}

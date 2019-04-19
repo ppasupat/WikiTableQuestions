@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "what are the number of silver medals boxing has?",
+      "id": "nt-2033"
+    },
+    {
+      "targetValue": "Weightlifting",
+      "utterance": "what sport has the second most number of gold medals won?",
+      "id": "nt-3052"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of gold medals won in the rowing category?",
+      "id": "nt-10670"
+    },
+    {
+      "targetValue": "Wrestling",
+      "utterance": "what sport has more silver medals: wrestling or rowing",
+      "id": "nt-12371"
+    },
+    {
+      "targetValue": "Sailing",
+      "utterance": "what sport is listed next after canoeing?",
+      "id": "nt-13493"
+    }
+  ],
+  "metadata": {
+    "title": "Thailand at the 2011 Southeast Asian Games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30163075&oldid=589436461",
+    "tableIndex": 0,
+    "hashcode": "9472dc79d7932bb21b023268ace8535708b6800a",
+    "id": 30163075,
+    "revision": 589436461
+  }
+}

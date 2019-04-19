@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "Downton Abbey",
+      "utterance": "which tv show did this actress star in the most episodes?",
+      "id": "nt-4796"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many episodes did this actress involve herself in three moons over milford?",
+      "id": "nt-5617"
+    }
+  ],
+  "metadata": {
+    "title": "Elizabeth McGovern",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=333160&oldid=599562882",
+    "tableIndex": 1,
+    "hashcode": "fd66889badd51a3e4db6077d5197f1ca8a2894c7",
+    "id": 333160,
+    "revision": 599562882
+  }
+}

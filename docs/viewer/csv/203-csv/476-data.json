@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "how many titles did not list an english translation?",
+      "id": "nt-732"
+    },
+    {
+      "targetValue": "On Preaching the Word of God",
+      "utterance": "what is the subject listed after appealing for peace?",
+      "id": "nt-1581"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what are the number of titles with a date of november?",
+      "id": "nt-3119"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total number of encyclicals to take place in december?",
+      "id": "nt-3802"
+    },
+    {
+      "targetValue": "14 May 1919",
+      "utterance": "after 1 december 1918 when was the next encyclical?",
+      "id": "nt-3930"
+    },
+    {
+      "targetValue": "To the Chair of the Prince of the Apostles",
+      "utterance": "what is the first english translation listed on the table?",
+      "id": "nt-5445"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the number of encyclopedias that had subjects relating specifically to children?",
+      "id": "nt-6382"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many titles are listed in the table?",
+      "id": "nt-8409"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "other than january how many encyclicals were in 1921?",
+      "id": "nt-9511"
+    },
+    {
+      "targetValue": "In Praeclara Summorum",
+      "utterance": "what is the next title listed after sacra propediem?",
+      "id": "nt-10454"
+    },
+    {
+      "targetValue": "On Peace and Christian Reconciliation",
+      "utterance": "what is the only subject on 23 may 1920?",
+      "id": "nt-12262"
+    },
+    {
+      "targetValue": "11 months",
+      "utterance": "how long after quod iam diu was paterno iam diu issued?",
+      "id": "nt-12639"
+    }
+  ],
+  "metadata": {
+    "title": "List of encyclicals of Pope Benedict XV",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6460465&oldid=541762854",
+    "tableIndex": 0,
+    "hashcode": "5d0e6ce41b30bce752b5a9c4d5d62cc68cc63049",
+    "id": 6460465,
+    "revision": 541762854
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Jiang Qing",
+      "utterance": "which name is first on the chart",
+      "id": "nt-32"
+    },
+    {
+      "targetValue": "China Conservatory of Music",
+      "utterance": "what school did the last spouse attend?",
+      "id": "nt-1234"
+    },
+    {
+      "targetValue": "Li Xiannian",
+      "utterance": "who was the chinese president immediately after dong biwu?",
+      "id": "nt-2728"
+    },
+    {
+      "targetValue": "27 years",
+      "utterance": "how long did wang guangmei live before she was married to liu shaoqui?",
+      "id": "nt-2964"
+    },
+    {
+      "targetValue": "Wang Guangmei",
+      "utterance": "what spouse came after qing?",
+      "id": "nt-6632"
+    },
+    {
+      "targetValue": "Liu Yongqing",
+      "utterance": "whose spouse was hu jintao's? wang yeping, or liu yongqing?",
+      "id": "nt-8087"
+    },
+    {
+      "targetValue": "He Lianying",
+      "utterance": "which name is the only one with no birth date",
+      "id": "nt-8984"
+    },
+    {
+      "targetValue": "Guangmei",
+      "utterance": "who was born first, guangmei or yongqing?",
+      "id": "nt-9106"
+    },
+    {
+      "targetValue": "Wang Guangmei",
+      "utterance": "which name come before he lianying",
+      "id": "nt-10265"
+    },
+    {
+      "targetValue": "Liu Shaoqi",
+      "utterance": "dong biwu served in 1975. who was the previous president?",
+      "id": "nt-12876"
+    },
+    {
+      "targetValue": "Mao Zedong",
+      "utterance": "who had the shortest tenures as president?",
+      "id": "nt-13243"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the number of marriages on the chart",
+      "id": "nt-13968"
+    }
+  ],
+  "metadata": {
+    "title": "Spouse of the President of the People's Republic of China",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=39660677&oldid=596363793",
+    "tableIndex": 0,
+    "hashcode": "574d7e63317ebce311d77cc67c4d7b6f9cca15a7",
+    "id": 39660677,
+    "revision": 596363793
+  }
+}

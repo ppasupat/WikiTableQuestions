@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "2008",
+      "utterance": "when did morgan begin hosting scare tactics?",
+      "id": "nt-6103"
+    }
+  ],
+  "metadata": {
+    "title": "Tracy Morgan",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1335475&oldid=599944300",
+    "tableIndex": 1,
+    "hashcode": "a6d9afd26ff2c2a0cc2c9998a166b1815b340ce8",
+    "id": 1335475,
+    "revision": 599944300
+  }
+}

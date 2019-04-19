@@ -1,0 +1,50 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "how many stations have a distance below 15km?",
+      "id": "nt-428"
+    },
+    {
+      "targetValue": "Bizen-Mikado",
+      "utterance": "which has a distance less than 3.0 kilometers?",
+      "id": "nt-690"
+    },
+    {
+      "targetValue": [
+        "Okayama",
+        "Sōja"
+      ],
+      "utterance": "name only the stations that have connections to other lines.",
+      "id": "nt-2333"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many station are located in kita-ku, okayama?",
+      "id": "nt-6272"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive stops must you travel through is you board the kibi line at bizen-mikado at depart at kibitsu?",
+      "id": "nt-6541"
+    },
+    {
+      "targetValue": "Bizen-Mikado",
+      "utterance": "which has a distance of more than 1 kilometer but less than 2 kilometers?",
+      "id": "nt-13155"
+    },
+    {
+      "targetValue": "Hattori",
+      "utterance": "which has the most distance, hattori or kibitsu?",
+      "id": "nt-14059"
+    }
+  ],
+  "metadata": {
+    "title": "Kibi Line",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18535494&oldid=542929534",
+    "tableIndex": 0,
+    "hashcode": "73cad4ee32a247478a154a61a8586b002dd43955",
+    "id": 18535494,
+    "revision": 542929534
+  }
+}

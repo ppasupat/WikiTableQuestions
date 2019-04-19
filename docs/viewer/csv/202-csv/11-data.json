@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "how many films did irwin allen direct, produce and write?",
+      "id": "nt-1829"
+    }
+  ],
+  "metadata": {
+    "title": "Irwin Allen",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=944084&oldid=597844901",
+    "tableIndex": 0,
+    "hashcode": "792718dc271e53147f23a23507dd17cf11f2809f",
+    "id": 944084,
+    "revision": 597844901
+  }
+}

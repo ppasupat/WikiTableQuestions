@@ -1,0 +1,80 @@
+{
+  "examples": [
+    {
+      "targetValue": "September 20, 2007",
+      "utterance": "\"drop dead\" and \"loose ends\" were aired on what date?",
+      "id": "nt-1589"
+    },
+    {
+      "targetValue": "Stephen Surjik",
+      "utterance": "what director is listed with the same original air date as jeremiah chechik?",
+      "id": "nt-3341"
+    },
+    {
+      "targetValue": "June 28, 2007",
+      "utterance": "when was a title aired previous to july 5, 2007?",
+      "id": "nt-3467"
+    },
+    {
+      "targetValue": "\"Family Business\"",
+      "utterance": "what was the title of the episode shown before \"unpaid debts\"?",
+      "id": "nt-4361"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many episodes were written by matt nix?",
+      "id": "nt-5025"
+    },
+    {
+      "targetValue": [
+        "\"Dead Drop\"",
+        "\"Loose Ends\""
+      ],
+      "utterance": "what episode had the highest amount of u.s viewers?",
+      "id": "nt-5436"
+    },
+    {
+      "targetValue": "\"Unpaid Debts\"",
+      "utterance": "what was the title of the only episode written by nick thiel?",
+      "id": "nt-6545"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of episodes that were written by craig o'neill?",
+      "id": "nt-8747"
+    },
+    {
+      "targetValue": "\"Dead Drop\"",
+      "utterance": "which episode had a higher number of viewers, \"identity\" or \"dead drop\"?",
+      "id": "nt-10313"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many titles are listed for august?",
+      "id": "nt-10546"
+    },
+    {
+      "targetValue": "\"Loose Ends\"",
+      "utterance": "what is the name of the last episode of season 1?",
+      "id": "nt-11111"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many episodes were shown in season 1?",
+      "id": "nt-11274"
+    },
+    {
+      "targetValue": "Ben Watkins",
+      "utterance": "in episode 10 the episode was written by matt and nix and what other writer?",
+      "id": "nt-12777"
+    }
+  ],
+  "metadata": {
+    "title": "List of Burn Notice episodes",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11993603&oldid=596128865",
+    "tableIndex": 1,
+    "hashcode": "dae623d37096eb427067bee2bbced1928024814c",
+    "id": 11993603,
+    "revision": 596128865
+  }
+}

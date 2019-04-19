@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "2003",
+      "utterance": "which year has the most games?",
+      "id": "nt-807"
+    },
+    {
+      "targetValue": "Oil Barons",
+      "utterance": "what game is listed before dodgy dealer in 1984?",
+      "id": "nt-1189"
+    },
+    {
+      "targetValue": "Theme Hospital",
+      "utterance": "what game was produced in 1997, theme hospital or mad tv 2?",
+      "id": "nt-1247"
+    },
+    {
+      "targetValue": "1986",
+      "utterance": "what year was the last year in which the zx plaform was used in a business simulation video game?",
+      "id": "nt-2164"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many games were produced in 1984?",
+      "id": "nt-4314"
+    },
+    {
+      "targetValue": "51",
+      "utterance": "how many business simulation video games were developed prior to 1995?",
+      "id": "nt-6612"
+    },
+    {
+      "targetValue": "Tropico 2: Pirate Cove",
+      "utterance": "what was the name of the only business simulation video game developed by frog city?",
+      "id": "nt-7458"
+    },
+    {
+      "targetValue": "WIN",
+      "utterance": "what is the last platform listed on this chart?",
+      "id": "nt-10581"
+    },
+    {
+      "targetValue": "1992",
+      "utterance": "what year is the first appearance of the platform ps1?",
+      "id": "nt-11954"
+    },
+    {
+      "targetValue": "25",
+      "utterance": "how many games are there before 1990?",
+      "id": "nt-13209"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "count the number of platforms for the game m.u.l.e from 1983.",
+      "id": "nt-13454"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of games from produced from 1963 to 1973?",
+      "id": "nt-13691"
+    }
+  ],
+  "metadata": {
+    "title": "Chronology of business simulation video games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21362278&oldid=600984284",
+    "tableIndex": 3,
+    "hashcode": "07f47288769a65464734ce96cb6f4e578535affb",
+    "id": 21362278,
+    "revision": 600984284
+  }
+}

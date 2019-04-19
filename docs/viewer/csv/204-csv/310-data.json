@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Alan McCrabbe",
+      "utterance": "eoin cadogan won in may 2009, who won the month before?",
+      "id": "nt-5879"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many players were from waterford?",
+      "id": "nt-6853"
+    },
+    {
+      "targetValue": "Dan Shanahan",
+      "utterance": "ollie moran won in june 2007, who won the month after?",
+      "id": "nt-7025"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many players won in 2006?",
+      "id": "nt-11147"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many players won at least later than 2010?",
+      "id": "nt-11512"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many players won in 2013?",
+      "id": "nt-12576"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did john mullane win?",
+      "id": "nt-13642"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what was the total number of winners from club ballyhale shamrocks?",
+      "id": "nt-13698"
+    }
+  ],
+  "metadata": {
+    "title": "GAA/GPA Player of the Month (hurling)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41483540&oldid=597249007",
+    "tableIndex": 0,
+    "hashcode": "c16714843ef6dc033f3509a2c88395fbf82f1a8f",
+    "id": 41483540,
+    "revision": 597249007
+  }
+}

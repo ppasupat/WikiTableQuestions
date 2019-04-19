@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "Joe Inman",
+      "utterance": "who had a higher score: craig stadler or joe inman?",
+      "id": "nt-755"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many fifth place winners were there in the second round of the 1979 masters tournament?",
+      "id": "nt-2782"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what are the number of players from the united states with a score of 139?",
+      "id": "nt-8176"
+    },
+    {
+      "targetValue": "Craig Stadler",
+      "utterance": "which players have the same score as ed sneed?",
+      "id": "nt-10307"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many total players played?",
+      "id": "nt-11843"
+    }
+  ],
+  "metadata": {
+    "title": "1979 Masters Tournament",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16458346&oldid=576746844",
+    "tableIndex": 1,
+    "hashcode": "7986725ef3e01d6423d2da4a17faeb5b6306de96",
+    "id": 16458346,
+    "revision": 576746844
+  }
+}

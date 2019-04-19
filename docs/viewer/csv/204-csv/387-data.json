@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "what is the difference in league debut date between farrell and carne?",
+      "id": "nt-44"
+    },
+    {
+      "targetValue": "Brian Carney",
+      "utterance": "debuted for great britain (rl) in 1999 then for ireland (ru) in 2007",
+      "id": "nt-339"
+    },
+    {
+      "targetValue": "Sonny Bill Williams",
+      "utterance": "played for new zealand kiwis and all blacks",
+      "id": "nt-1619"
+    },
+    {
+      "targetValue": "Ireland",
+      "utterance": "which country is listed the least?",
+      "id": "nt-1874"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "what are the number of times super league appears under the top rugby league level column?",
+      "id": "nt-2380"
+    },
+    {
+      "targetValue": "Andy Farrell",
+      "utterance": "name a player that had at least 8 years between their debut in the league and in the union.",
+      "id": "nt-4680"
+    },
+    {
+      "targetValue": "Alan Tait",
+      "utterance": "played rugby for scotland before playing for british & irish lions",
+      "id": "nt-10661"
+    },
+    {
+      "targetValue": "Franze",
+      "utterance": "who made their league debut earlier, hunt or franze?",
+      "id": "nt-11070"
+    },
+    {
+      "targetValue": "Karmichael Hunt",
+      "utterance": "whose name is listed before chris ashton?",
+      "id": "nt-12676"
+    },
+    {
+      "targetValue": "Berrick Barnes",
+      "utterance": "whose name is listed after lee smith?",
+      "id": "nt-12812"
+    }
+  ],
+  "metadata": {
+    "title": "List of players who have converted from one football code to another",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3938277&oldid=600267929",
+    "tableIndex": 0,
+    "hashcode": "f3d3670b19f199fe5613454027a129058c9f2a21",
+    "id": 3938277,
+    "revision": 600267929
+  }
+}

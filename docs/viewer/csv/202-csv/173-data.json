@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "\"Le colonel\"",
+      "utterance": "which track was composed by jacques brel and gaby wagenheim?",
+      "id": "nt-798"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many tracks are in this album?",
+      "id": "nt-835"
+    },
+    {
+      "targetValue": "\"Dites, si c'était vrai\" (poème)",
+      "utterance": "which track was recorded before all the others?",
+      "id": "nt-3027"
+    },
+    {
+      "targetValue": "April",
+      "utterance": "when month were most of the songs recorded on this album?",
+      "id": "nt-11804"
+    }
+  ],
+  "metadata": {
+    "title": "Au Printemps (album)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1187374&oldid=557804997",
+    "tableIndex": 0,
+    "hashcode": "04556f9395a5458ad2939fc01623b1917e4da0a6",
+    "id": 1187374,
+    "revision": 557804997
+  }
+}

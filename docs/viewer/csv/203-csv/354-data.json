@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of parties that had more than 3 candidates in their party?",
+      "id": "nt-794"
+    },
+    {
+      "targetValue": "29734",
+      "utterance": "how many people voted for the top 4 parties?",
+      "id": "nt-1769"
+    },
+    {
+      "targetValue": "Peter McGowan Thomas Mullins",
+      "utterance": "in the 1996 forum, which candidate had the least votes?",
+      "id": "nt-2107"
+    },
+    {
+      "targetValue": "UUP",
+      "utterance": "which party received the most votes?",
+      "id": "nt-2771"
+    },
+    {
+      "targetValue": "Peter Weir Alan McFarland Roy Bradford John Shields Irene Cree",
+      "utterance": "which candidates had the most votes listed?",
+      "id": "nt-3764"
+    },
+    {
+      "targetValue": "UUP",
+      "utterance": "between the uup party and the dup party, which had more votes in the 1996 forum?",
+      "id": "nt-7127"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "how many different parties are listed?",
+      "id": "nt-7201"
+    },
+    {
+      "targetValue": "Natural Law",
+      "utterance": "which party received the least votes",
+      "id": "nt-9909"
+    },
+    {
+      "targetValue": "UUP",
+      "utterance": "which party obtained the largest percentage of votes in the 1996 forum?",
+      "id": "nt-10077"
+    }
+  ],
+  "metadata": {
+    "title": "North Down (Assembly constituency)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9896988&oldid=595438000",
+    "tableIndex": 4,
+    "hashcode": "0d4f09ab863780d920299d6bc8767379ac122bd0",
+    "id": 9896988,
+    "revision": 595438000
+  }
+}

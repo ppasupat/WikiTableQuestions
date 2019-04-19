@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "10",
+      "utterance": "how many consecutive times was david nedohin the skip?",
+      "id": "nt-4823"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many players were in at least five seasons?",
+      "id": "nt-5468"
+    },
+    {
+      "targetValue": "2013-14",
+      "utterance": "what was the only season where kevin martin was the skip?",
+      "id": "nt-6088"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "tell me the number of times marcel rocque was lead?",
+      "id": "nt-8052"
+    },
+    {
+      "targetValue": "1995-96",
+      "utterance": "name a season that did not have events listed.",
+      "id": "nt-8789"
+    },
+    {
+      "targetValue": "Second",
+      "utterance": "which position did this curler hold before becoming skip in the 1997-1998 season?",
+      "id": "nt-10400"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "in how many seasons did david nedohin play?",
+      "id": "nt-10674"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the total number of seasons that scott pfeifer was in second?",
+      "id": "nt-12482"
+    },
+    {
+      "targetValue": "Scott Pfeifer",
+      "utterance": "who was second more, scott pfeifer or sean nedohin?",
+      "id": "nt-13050"
+    },
+    {
+      "targetValue": "Doug Armstrong",
+      "utterance": "who was the lead before pat mccallum?",
+      "id": "nt-13291"
+    },
+    {
+      "targetValue": "Randy Ferbey (skip)",
+      "utterance": "who had the most seasons in third?",
+      "id": "nt-13767"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many skip positions has this curler played?",
+      "id": "nt-13940"
+    }
+  ],
+  "metadata": {
+    "title": "David Nedohin",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1731607&oldid=602307350",
+    "tableIndex": 0,
+    "hashcode": "a01fd868e51207d986d09b51f312c7ec3dfd0501",
+    "id": 1731607,
+    "revision": 602307350
+  }
+}

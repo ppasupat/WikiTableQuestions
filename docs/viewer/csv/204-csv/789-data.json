@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Nigeria LNG",
+      "utterance": "next to rasgas, what plant has the largest capacity?",
+      "id": "nt-362"
+    },
+    {
+      "targetValue": "Arzew GL4Z",
+      "utterance": "which plant was the first to open?",
+      "id": "nt-456"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many plants are in algeria?",
+      "id": "nt-2317"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of plants in algeria?",
+      "id": "nt-2530"
+    },
+    {
+      "targetValue": "Indonesia",
+      "utterance": "which country had the most plants start after 1990?",
+      "id": "nt-3302"
+    },
+    {
+      "targetValue": "Tangguh LNG Project",
+      "utterance": "qatargas ii started up the same year as what indonesian plant?",
+      "id": "nt-5673"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "what is the difference between the number of plants in algeria and the number of plants in indonesia?",
+      "id": "nt-6202"
+    },
+    {
+      "targetValue": "Indonesia",
+      "utterance": "which country has the most plants?",
+      "id": "nt-6406"
+    },
+    {
+      "targetValue": "Angola",
+      "utterance": "what is the only country that started up a plant in 2013?",
+      "id": "nt-8908"
+    },
+    {
+      "targetValue": "Arzew GL4Z",
+      "utterance": "which plant is the oldest?",
+      "id": "nt-13538"
+    }
+  ],
+  "metadata": {
+    "title": "Liquefied natural gas",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=832128&oldid=599962853",
+    "tableIndex": 0,
+    "hashcode": "1183d18cb2e9f31e3a3016ec6156c94fd4ee3b44",
+    "id": 832128,
+    "revision": 599962853
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "32",
+      "utterance": "after winning on four credits with a full house, what is your payout?",
+      "id": "nt-8"
+    },
+    {
+      "targetValue": "Four of a kind, 2-4",
+      "utterance": "what's the best type of four of a kind to win?",
+      "id": "nt-1890"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "the number of flush wins at one credit to equal one flush win at 5 credits.",
+      "id": "nt-3479"
+    },
+    {
+      "targetValue": "400",
+      "utterance": "each four aces win is a multiple of what number?",
+      "id": "nt-4455"
+    },
+    {
+      "targetValue": "40",
+      "utterance": "at most, what could a person earn for having a full house?",
+      "id": "nt-5531"
+    },
+    {
+      "targetValue": "180",
+      "utterance": "what is the total amount of a 3 credit straight flush?",
+      "id": "nt-7301"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "is a 2 credit full house the same as a 5 credit three of a kind?",
+      "id": "nt-7416"
+    },
+    {
+      "targetValue": "Royal flush",
+      "utterance": "which hand is the top hand in the card game super aces?",
+      "id": "nt-7529"
+    },
+    {
+      "targetValue": "Flush",
+      "utterance": "which is a higher standing hand: a straight or a flush?",
+      "id": "nt-8210"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many straight wins at 3 credits equals one straight flush win at two credits?",
+      "id": "nt-8517"
+    },
+    {
+      "targetValue": "5 credits",
+      "utterance": "how many credits do you have to spend to get at least 2000 in payout if you had four aces?",
+      "id": "nt-8837"
+    },
+    {
+      "targetValue": "570",
+      "utterance": "what is the difference of payout on 3 credits, between a straight flush and royal flush?",
+      "id": "nt-10783"
+    },
+    {
+      "targetValue": "250",
+      "utterance": "the number of credits returned for a one credit bet on a royal flush are.",
+      "id": "nt-11230"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "is four 5s worth more or less than four 2s?",
+      "id": "nt-11840"
+    }
+  ],
+  "metadata": {
+    "title": "Super Aces",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11200856&oldid=578488589",
+    "tableIndex": 0,
+    "hashcode": "85d03f79a6bcee7cfa996717f1989cef16929672",
+    "id": 11200856,
+    "revision": 578488589
+  }
+}

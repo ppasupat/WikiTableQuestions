@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "2005",
+      "utterance": "which year had the most titles released?",
+      "id": "nt-84"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many titles have only one artist?",
+      "id": "nt-1340"
+    },
+    {
+      "targetValue": "Music Tree",
+      "utterance": "which was not released in 2004, onna no ehon or music tree?",
+      "id": "nt-3414"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the number of albums released with the artist rimi natsukawa?",
+      "id": "nt-6398"
+    },
+    {
+      "targetValue": "2004",
+      "utterance": "what year was the first title released?",
+      "id": "nt-8228"
+    },
+    {
+      "targetValue": "Boku wa Dō Kana",
+      "utterance": "what song was this artist on after utabito?",
+      "id": "nt-9146"
+    },
+    {
+      "targetValue": "Music Tree",
+      "utterance": "what was the album released immediately before the one that had boku wa do kana on it?",
+      "id": "nt-11266"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many other appearance did this artist make in 2005?",
+      "id": "nt-11584"
+    },
+    {
+      "targetValue": "Tada Sore Dake",
+      "utterance": "what has been the last song this artist has made an other appearance on?",
+      "id": "nt-11727"
+    },
+    {
+      "targetValue": "Deigo to Hanasu",
+      "utterance": "which was released earlier, deigo to hanasu or utabito?",
+      "id": "nt-12316"
+    },
+    {
+      "targetValue": "2009",
+      "utterance": "what is the last title released?",
+      "id": "nt-12437"
+    },
+    {
+      "targetValue": "Boku no Mune de Oyasumi (僕の胸でおやすみ Goodbye with My Heart?)",
+      "utterance": "which title has the same notes as night with a sky full of stars?",
+      "id": "nt-13212"
+    }
+  ],
+  "metadata": {
+    "title": "Rimi Natsukawa discography",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=26026019&oldid=560975474",
+    "tableIndex": 4,
+    "hashcode": "6782094fc64ae4b5ef15d3e2d83a4a50eac7fd05",
+    "id": 26026019,
+    "revision": 560975474
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "examples": [
+    {
+      "targetValue": "yes",
+      "utterance": "are there at least 16 wrestlers on this list?",
+      "id": "nt-1182"
+    },
+    {
+      "targetValue": "Steve Greene",
+      "utterance": "other than yamaha, name a wrestler that held the title for more than 300 days.",
+      "id": "nt-2701"
+    },
+    {
+      "targetValue": "June 23, 2007",
+      "utterance": "tell me the date of the last event held in greensboro, north carolina.",
+      "id": "nt-4502"
+    },
+    {
+      "targetValue": "Gemini Kid",
+      "utterance": "what wrestler is listed first ?",
+      "id": "nt-6534"
+    },
+    {
+      "targetValue": [
+        "Wilson, North Carolina",
+        "Graham, North Carolina",
+        "Greensboro, North Carolina"
+      ],
+      "utterance": "aside from burlington, what were the other cities in which events were held?",
+      "id": "nt-6911"
+    },
+    {
+      "targetValue": "Xsiris",
+      "utterance": "j-money won on march 8, 2003. who won the next match?",
+      "id": "nt-8101"
+    },
+    {
+      "targetValue": "Ric Converse",
+      "utterance": "who reigned before j-money?",
+      "id": "nt-9908"
+    },
+    {
+      "targetValue": "28",
+      "utterance": "how many wrestlers are there total on the chart?",
+      "id": "nt-11100"
+    },
+    {
+      "targetValue": "Lee Valiant",
+      "utterance": "which wrestler had his first reign on june 16, 2007?",
+      "id": "nt-11174"
+    }
+  ],
+  "metadata": {
+    "title": "CWF Mid-Atlantic Television Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=34548276&oldid=547551006",
+    "tableIndex": 2,
+    "hashcode": "8dd60bf7ca67c3dc931efbc3798fd49bac12dd3b",
+    "id": 34548276,
+    "revision": 547551006
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "1:20:00",
+      "utterance": "how long was the marathon for camilla benjaminsson?",
+      "id": "nt-176"
+    },
+    {
+      "targetValue": "Kenya",
+      "utterance": "since 1983 what country has won the most (combined men & women)?",
+      "id": "nt-1483"
+    },
+    {
+      "targetValue": "Savio d'Souza (IND)",
+      "utterance": "which men's winner had the greatest time?",
+      "id": "nt-2611"
+    },
+    {
+      "targetValue": "1985",
+      "utterance": "what is the first year that the country of the men's winner was the same as the country of the women's winner?",
+      "id": "nt-2681"
+    },
+    {
+      "targetValue": "Kenya",
+      "utterance": "what is the country with the most consecutive men's winners?",
+      "id": "nt-3134"
+    },
+    {
+      "targetValue": "Tommy Persson (SWE)",
+      "utterance": "who came in first for the men?",
+      "id": "nt-4616"
+    },
+    {
+      "targetValue": "1997",
+      "utterance": "what was the last year that ind had a winner?",
+      "id": "nt-6217"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many women runners are from sweden?",
+      "id": "nt-7791"
+    },
+    {
+      "targetValue": "2:13:00",
+      "utterance": "what is the shortest time the marathon was completed in since 1990?",
+      "id": "nt-8462"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "since 2000 how many kenyan men have won the marathon?",
+      "id": "nt-10623"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many women's winners were from russia?",
+      "id": "nt-12663"
+    }
+  ],
+  "metadata": {
+    "title": "Pune International Marathon",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7584077&oldid=587934463",
+    "tableIndex": 0,
+    "hashcode": "5ea8aff20c543b5529cfed236f5415027d699777",
+    "id": 7584077,
+    "revision": 587934463
+  }
+}

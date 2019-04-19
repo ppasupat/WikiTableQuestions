@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "552",
+      "utterance": "what was the number of loses while fred jordan was coaching?",
+      "id": "nt-540"
+    },
+    {
+      "targetValue": "Ed Sabre",
+      "utterance": "who was the last coach to only have 1 loss?",
+      "id": "nt-2474"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "for how many years was h.l. matthews active as coach?",
+      "id": "nt-3423"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "does mack erwin have more or less wins than fred montsdeoca?",
+      "id": "nt-4491"
+    },
+    {
+      "targetValue": "0.056",
+      "utterance": "what is the difference in win pct under fred jordan and chal port?",
+      "id": "nt-5967"
+    },
+    {
+      "targetValue": "Mack Erwin",
+      "utterance": "who coached more seasons: ed sabre or mack erwin?",
+      "id": "nt-7621"
+    },
+    {
+      "targetValue": "Ed Sabre",
+      "utterance": "which coach has the least number of total games on their record?",
+      "id": "nt-10651"
+    },
+    {
+      "targetValue": "Chal Port",
+      "utterance": "who is the only coach with 2 ties on their record?",
+      "id": "nt-10889"
+    },
+    {
+      "targetValue": "Fred Jordan",
+      "utterance": "which coach had greater than 700 total wins?",
+      "id": "nt-11876"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many coaches had above 500 wins?",
+      "id": "nt-12229"
+    },
+    {
+      "targetValue": ".462",
+      "utterance": "in 1948 what was their percentage?",
+      "id": "nt-12885"
+    }
+  ],
+  "metadata": {
+    "title": "The Citadel Bulldogs baseball",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33638414&oldid=593781995",
+    "tableIndex": 0,
+    "hashcode": "2d8b6aa4ab8460aa9a942a86831f21a37b181c7a",
+    "id": 33638414,
+    "revision": 593781995
+  }
+}

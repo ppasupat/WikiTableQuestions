@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "6 May 1943",
+      "utterance": "which date had at least 55 casualties?",
+      "id": "nt-4199"
+    },
+    {
+      "targetValue": "U-192",
+      "utterance": "which sunken u-boat had the most casualties",
+      "id": "nt-5245"
+    },
+    {
+      "targetValue": "HMS Vidette",
+      "utterance": "what is the only vessel to sink multiple u-boats?",
+      "id": "nt-5261"
+    },
+    {
+      "targetValue": "158",
+      "utterance": "how many more casualties occurred on may 6 compared to may 4?",
+      "id": "nt-5885"
+    },
+    {
+      "targetValue": "HMS Vidette",
+      "utterance": "which ship sunk the most u-boats",
+      "id": "nt-6706"
+    },
+    {
+      "targetValue": "U-209",
+      "utterance": "which u-boat was the first to sink",
+      "id": "nt-6854"
+    },
+    {
+      "targetValue": "U-192",
+      "utterance": "which u-boat had more than 54 casualties?",
+      "id": "nt-10443"
+    },
+    {
+      "targetValue": "Heinrich Hensohn",
+      "utterance": "what was the only captain sunk by hms pelican?",
+      "id": "nt-10925"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many captains are listed?",
+      "id": "nt-12236"
+    },
+    {
+      "targetValue": "46",
+      "utterance": "what was the number of casualties on may 4 1943?",
+      "id": "nt-13600"
+    },
+    {
+      "targetValue": "Herbert Neckel",
+      "utterance": "aside from oskar staudinger what was the name of the other captain of the u-boat loast on may 5?",
+      "id": "nt-14053"
+    }
+  ],
+  "metadata": {
+    "title": "Convoy ONS 5",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12018584&oldid=591178874",
+    "tableIndex": 1,
+    "hashcode": "ed4ac9d35eeb4f11c3f4bbc2f978f91216ea8693",
+    "id": 12018584,
+    "revision": 591178874
+  }
+}

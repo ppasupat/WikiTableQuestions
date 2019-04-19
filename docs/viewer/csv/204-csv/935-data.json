@@ -1,0 +1,83 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many people were born in 1976?",
+      "id": "nt-278"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many winners have been at least 30 years old?",
+      "id": "nt-459"
+    },
+    {
+      "targetValue": "Raymond Lam",
+      "utterance": "who was the winner immediately before ron ng?",
+      "id": "nt-1420"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many winners were there from 1998 to 2012?",
+      "id": "nt-2227"
+    },
+    {
+      "targetValue": "Oscar Leung",
+      "utterance": "who was the next winner after jin au-yeung in 2011?",
+      "id": "nt-3036"
+    },
+    {
+      "targetValue": "Raymond Lam",
+      "utterance": "who was the youngest person to receive this award?",
+      "id": "nt-4417"
+    },
+    {
+      "targetValue": [
+        "Nick Cheung",
+        "Chin Kar Lok",
+        "Moses Chan",
+        "Kenneth Ma",
+        "Amigo Choi",
+        "Wong Cho Lam",
+        "Ngo Ka-nin",
+        "Raymond Wong",
+        "Jin Au-Yeung",
+        "Oscar Leung"
+      ],
+      "utterance": "name all the winners whose awarding age was more than 28 years.",
+      "id": "nt-4449"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many winners were born after 1972?",
+      "id": "nt-8642"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many winners were born in 1979?",
+      "id": "nt-10156"
+    },
+    {
+      "targetValue": "Jin Au-Yeung",
+      "utterance": "tell me the only player born in 1982.",
+      "id": "nt-11209"
+    },
+    {
+      "targetValue": "Wong Cho Lam",
+      "utterance": "name a player who is the same number of years old as choi.",
+      "id": "nt-12833"
+    },
+    {
+      "targetValue": "Chin Kar Lok",
+      "utterance": "who else won this award the same year as nick cheung?",
+      "id": "nt-13008"
+    }
+  ],
+  "metadata": {
+    "title": "TVB Anniversary Award for Most Improved Male Artiste",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30570784&oldid=586921224",
+    "tableIndex": 2,
+    "hashcode": "d7b664b487562aa22931091d42b11a0dcfc66544",
+    "id": 30570784,
+    "revision": 586921224
+  }
+}

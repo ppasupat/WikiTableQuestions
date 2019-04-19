@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "CHW",
+      "utterance": "in their first 20 games, which team did the tigers play the most?",
+      "id": "nt-215"
+    },
+    {
+      "targetValue": "14,250",
+      "utterance": "what is the difference in the crowd population on april 22 and april 29?",
+      "id": "nt-2443"
+    },
+    {
+      "targetValue": "TEX",
+      "utterance": "which opponent did they play against before the play date of april 12?",
+      "id": "nt-5669"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "before april 7, how many times had morris won?",
+      "id": "nt-6501"
+    },
+    {
+      "targetValue": "KCR",
+      "utterance": "name one game that they did not win in april.",
+      "id": "nt-8018"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "what were the number of wins in april?",
+      "id": "nt-8481"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many times was there a score of w 9-1?",
+      "id": "nt-10656"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many times did morris win?",
+      "id": "nt-12005"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total amount of times they played against opponent @min?",
+      "id": "nt-12986"
+    },
+    {
+      "targetValue": "CHW",
+      "utterance": "what was the next game after kcr on april 19th?",
+      "id": "nt-14014"
+    }
+  ],
+  "metadata": {
+    "title": "1984 Detroit Tigers season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13226865&oldid=601205792",
+    "tableIndex": 1,
+    "hashcode": "58b5777df549e0118475aa6147e6a4cd9f3564a7",
+    "id": 13226865,
+    "revision": 601205792
+  }
+}

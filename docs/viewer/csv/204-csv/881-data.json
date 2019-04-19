@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "how many rounds had more than 20,000 spectators in attendance?",
+      "id": "nt-5534"
+    },
+    {
+      "targetValue": "Waverley Park",
+      "utterance": "in which venue was the only round with more than 40,000 people in attendance?",
+      "id": "nt-5558"
+    },
+    {
+      "targetValue": "28 August",
+      "utterance": "what was the date of the last win?",
+      "id": "nt-6621"
+    },
+    {
+      "targetValue": "Carlton",
+      "utterance": "who was the opponent after hawthorn?",
+      "id": "nt-7036"
+    },
+    {
+      "targetValue": "Subiaco Oval",
+      "utterance": "which venue was the first to have over 30,000 attendees",
+      "id": "nt-7222"
+    },
+    {
+      "targetValue": "Carlton",
+      "utterance": "what was this team's next opponent after facing hawthorn on may 22 of this season?",
+      "id": "nt-8478"
+    },
+    {
+      "targetValue": "Melbourne",
+      "utterance": "who was the opponent to lose by only 2 points",
+      "id": "nt-9032"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the least number of points a game was won by?",
+      "id": "nt-9833"
+    }
+  ],
+  "metadata": {
+    "title": "1988 West Coast Eagles season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=32285422&oldid=576533029",
+    "tableIndex": 1,
+    "hashcode": "a56346aa3ba751ca1d70be391af07b78ff3c4070",
+    "id": 32285422,
+    "revision": 576533029
+  }
+}

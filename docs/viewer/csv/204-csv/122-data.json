@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "yes",
+      "utterance": "are the years listed in consecutive order or not?",
+      "id": "nt-1640"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many countries are listed?",
+      "id": "nt-2275"
+    },
+    {
+      "targetValue": "Brighton",
+      "utterance": "city in which doris lessing made her \"guest of honor\" appearance",
+      "id": "nt-2840"
+    },
+    {
+      "targetValue": "Denver, Colorado",
+      "utterance": "city in which worldcon was held the year after it was held in yokohama",
+      "id": "nt-2853"
+    },
+    {
+      "targetValue": "1984",
+      "utterance": "what year saw the greatest size?",
+      "id": "nt-3523"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "before 1970 how many conventions had more than 1,000 attendees?",
+      "id": "nt-7635"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "number of worldcons held outside the united states",
+      "id": "nt-8904"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many times was chicago listed as a city?",
+      "id": "nt-10605"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "the last convention held outside of europe or north america was held when?",
+      "id": "nt-12475"
+    },
+    {
+      "targetValue": "2015",
+      "utterance": "what is the last year on the chart?",
+      "id": "nt-12820"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many conventions in total have been held in chicago?",
+      "id": "nt-13487"
+    }
+  ],
+  "metadata": {
+    "title": "List of Worldcons",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33608&oldid=575324712",
+    "tableIndex": 0,
+    "hashcode": "62ee9b1ec069dca3d73d0adaa247298c0326bbfa",
+    "id": 33608,
+    "revision": 575324712
+  }
+}

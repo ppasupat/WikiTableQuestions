@@ -1,0 +1,30 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Lulu On The Bridge",
+        "Men with Guns"
+      ],
+      "utterance": "what films did mandy patinkin star in in 1998?",
+      "id": "nt-3007"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many film roles did mandy patinkin play in 1991?",
+      "id": "nt-3715"
+    },
+    {
+      "targetValue": "1988",
+      "utterance": "when was mandy patinkin nominated for the saturn award for best supporting actor?",
+      "id": "nt-9217"
+    }
+  ],
+  "metadata": {
+    "title": "Mandy Patinkin",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20566&oldid=601981966",
+    "tableIndex": 0,
+    "hashcode": "bbddb7a84a5013587b4a8792e941c0dcf620176d",
+    "id": 20566,
+    "revision": 601981966
+  }
+}

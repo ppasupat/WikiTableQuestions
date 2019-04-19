@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many medalists came from kenya?",
+      "id": "nt-2394"
+    },
+    {
+      "targetValue": "Pauline Korikwiang",
+      "utterance": "who was the only medalist not from ethiopia?",
+      "id": "nt-3625"
+    },
+    {
+      "targetValue": "Sule Utura",
+      "utterance": "who ran a shorter time than emebet anteneh mengistu?",
+      "id": "nt-5356"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "the total number of ethiopian runners",
+      "id": "nt-5720"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of racers ethiopia had finish in the top 5?",
+      "id": "nt-7944"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many people from ethiopia ranked in the top 9?",
+      "id": "nt-10601"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many rwandans competed?",
+      "id": "nt-12586"
+    }
+  ],
+  "metadata": {
+    "title": "Athletics at the 2011 All-Africa Games – Women's 5000 metres",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33073044&oldid=571936044",
+    "tableIndex": 2,
+    "hashcode": "cde137a5ea0488d87ee6c497ff03d6afc1b607a8",
+    "id": 33073044,
+    "revision": 571936044
+  }
+}

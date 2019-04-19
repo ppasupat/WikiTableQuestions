@@ -1,0 +1,66 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "number of teams above 9 medals",
+      "id": "nt-713"
+    },
+    {
+      "targetValue": [
+        "Cuba",
+        "Jamaica",
+        "Mexico"
+      ],
+      "utterance": "nations that had 10 or more medals each",
+      "id": "nt-1042"
+    },
+    {
+      "targetValue": "Puerto Rico",
+      "utterance": "the nation before mexico in the table",
+      "id": "nt-3630"
+    },
+    {
+      "targetValue": "31",
+      "utterance": "largest medal differential between countries",
+      "id": "nt-5017"
+    },
+    {
+      "targetValue": "Cuba",
+      "utterance": "which country was awarded more than 5 silver medals?",
+      "id": "nt-6302"
+    },
+    {
+      "targetValue": "Puerto Rico",
+      "utterance": "which team had four gold models and one bronze medal?",
+      "id": "nt-7197"
+    },
+    {
+      "targetValue": "Cuba",
+      "utterance": "only team to have more than 30 medals",
+      "id": "nt-8107"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "what is the difference in medals between cuba and mexico?",
+      "id": "nt-9390"
+    },
+    {
+      "targetValue": "Colombia",
+      "utterance": "who had more silvers? colmbia or the bahamas",
+      "id": "nt-9606"
+    },
+    {
+      "targetValue": "32",
+      "utterance": "what is the total number of gold medals awarded between these 11 countries?",
+      "id": "nt-12125"
+    }
+  ],
+  "metadata": {
+    "title": "Athletics at the 1966 Central American and Caribbean Games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10139327&oldid=551967455",
+    "tableIndex": 2,
+    "hashcode": "3a91bb2cbc413f529ed4f7994ec2f7c67b49fcd7",
+    "id": 10139327,
+    "revision": 551967455
+  }
+}

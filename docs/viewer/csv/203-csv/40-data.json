@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "School 73",
+      "utterance": "which school was in the columbus neighborhood and was demolished?",
+      "id": "nt-770"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many schools were turned into private apartments?",
+      "id": "nt-1597"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many schools are vacant?",
+      "id": "nt-6126"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "what is the total number of schools that are now vacant?",
+      "id": "nt-10769"
+    },
+    {
+      "targetValue": "School 35",
+      "utterance": "which school is the first school to have been closed?",
+      "id": "nt-12354"
+    },
+    {
+      "targetValue": "24",
+      "utterance": "what is the total number of schools that were demolished?",
+      "id": "nt-12831"
+    }
+  ],
+  "metadata": {
+    "title": "Buffalo Public Schools",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4267172&oldid=600719036",
+    "tableIndex": 9,
+    "hashcode": "5cbe26dda9f32f6fb4f202f7909e860a8a5d7618",
+    "id": 4267172,
+    "revision": 600719036
+  }
+}

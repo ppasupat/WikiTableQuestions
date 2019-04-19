@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "\"We Live This\"",
+      "utterance": "what is the first song on the album produced by havoc?",
+      "id": "nt-3087"
+    },
+    {
+      "targetValue": "2:03",
+      "utterance": "how long is the shortest song on the album?",
+      "id": "nt-3347"
+    },
+    {
+      "targetValue": "Al West",
+      "utterance": "who produced the last track of the album?",
+      "id": "nt-4167"
+    },
+    {
+      "targetValue": "\"Teenage Thug\" (Bonus Track)",
+      "utterance": "what is the name of the last song on the album?",
+      "id": "nt-4328"
+    },
+    {
+      "targetValue": "Millennium Thug, Nas",
+      "utterance": "what performers were in the last track?",
+      "id": "nt-6127"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many songs are at least 4 minutes long?",
+      "id": "nt-7861"
+    },
+    {
+      "targetValue": "\"We Break Bread\"",
+      "utterance": "after street glory, what song is listed?",
+      "id": "nt-8942"
+    },
+    {
+      "targetValue": "4:47",
+      "utterance": "how long os the longest track on the album?",
+      "id": "nt-9961"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many songs were on the track list?",
+      "id": "nt-10059"
+    },
+    {
+      "targetValue": "\"Our Way\"",
+      "utterance": "what song was performed before \"fire\"?",
+      "id": "nt-10897"
+    },
+    {
+      "targetValue": "\"Die 4\"",
+      "utterance": "which track is longer, \"money\" or \"die 4\"?",
+      "id": "nt-11978"
+    },
+    {
+      "targetValue": "4:47",
+      "utterance": "how long is the longest track listed?",
+      "id": "nt-14031"
+    },
+    {
+      "targetValue": "\"Die 4\"",
+      "utterance": "which is longer, fire or die 4?",
+      "id": "nt-14096"
+    }
+  ],
+  "metadata": {
+    "title": "Nas &amp; Ill Will Records Presents QB's Finest",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2322683&oldid=549109907",
+    "tableIndex": 0,
+    "hashcode": "5682cb655e7685a90d125a8860286decd2539e69",
+    "id": 2322683,
+    "revision": 549109907
+  }
+}

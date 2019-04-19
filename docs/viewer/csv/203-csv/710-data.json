@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many characters were played in the tv series d.c. in the year 2000?",
+      "id": "nt-4432"
+    },
+    {
+      "targetValue": "Modern Family",
+      "utterance": "what is the last piece of filmography that he has worked on to date?",
+      "id": "nt-5610"
+    },
+    {
+      "targetValue": "\"Mom's Away\"",
+      "utterance": "the episode next to nypd blue",
+      "id": "nt-7305"
+    },
+    {
+      "targetValue": "1992",
+      "utterance": "the year previos to normandy : the great crusade",
+      "id": "nt-8693"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many short film roles has he acted in?",
+      "id": "nt-8829"
+    },
+    {
+      "targetValue": "The Lady in Question",
+      "utterance": "what is the last tv show he was in the in 90's?",
+      "id": "nt-11608"
+    },
+    {
+      "targetValue": "2006",
+      "utterance": "what year what his busiest year with the most roles?",
+      "id": "nt-12118"
+    },
+    {
+      "targetValue": "Comfortably Numb",
+      "utterance": "the movie after the ref",
+      "id": "nt-12238"
+    },
+    {
+      "targetValue": "The Big C",
+      "utterance": "what tv series has he done the most work with in terms of episodes?",
+      "id": "nt-13813"
+    }
+  ],
+  "metadata": {
+    "title": "John Benjamin Hickey",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7834942&oldid=597403248",
+    "tableIndex": 0,
+    "hashcode": "77dd889e0ce1dbf8a76c18d9571bbfb5069c6584",
+    "id": 7834942,
+    "revision": 597403248
+  }
+}

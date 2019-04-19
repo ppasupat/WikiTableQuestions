@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "Summit Bridge",
+      "utterance": "which bridge has their location in summit, delaware?",
+      "id": "nt-1790"
+    },
+    {
+      "targetValue": "Summit Bridge",
+      "utterance": "which crossing carries the most routes (e.g., de 1)?",
+      "id": "nt-4660"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many crossings are in maryland?",
+      "id": "nt-8778"
+    },
+    {
+      "targetValue": "Reedy Point Bridge",
+      "utterance": "which bridge is in delaware and carries de 9?",
+      "id": "nt-12299"
+    }
+  ],
+  "metadata": {
+    "title": "Chesapeake and Delaware Canal",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=289720&oldid=599942358",
+    "tableIndex": 0,
+    "hashcode": "276576c771123b8c778c9b1a1b0e5014bef01139",
+    "id": 289720,
+    "revision": 599942358
+  }
+}

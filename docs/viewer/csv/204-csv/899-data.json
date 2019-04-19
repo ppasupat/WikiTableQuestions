@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Candlestick Park tornado - Jackson, Mississippi",
+      "utterance": "which tornado event occurred after the late-may 1965 tornado outbreak?",
+      "id": "nt-525"
+    },
+    {
+      "targetValue": "1965 Palm Sunday tornado outbreak",
+      "utterance": "which tornado outbreak on the list killed the most people?",
+      "id": "nt-1558"
+    },
+    {
+      "targetValue": "Late-May 1965 tornado outbreak",
+      "utterance": "which tornado had no fatalities?",
+      "id": "nt-6247"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many events had at least 100 fatalities/dead?",
+      "id": "nt-7557"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what number of tornadoes occurred in 1965?",
+      "id": "nt-9240"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many events had no casualties?",
+      "id": "nt-11008"
+    },
+    {
+      "targetValue": "66",
+      "utterance": "what are the total number of tornado events that occurred in 1960 in the u.s.?",
+      "id": "nt-11334"
+    },
+    {
+      "targetValue": "1965 Palm Sunday tornado outbreak",
+      "utterance": "which event had the most casualties?",
+      "id": "nt-12956"
+    }
+  ],
+  "metadata": {
+    "title": "List of North American tornadoes and tornado outbreaks",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7796863&oldid=602301835",
+    "tableIndex": 6,
+    "hashcode": "eeca400deaa3569bdd24a339fdf6fa86dd3822c7",
+    "id": 7796863,
+    "revision": 602301835
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "1954",
+      "utterance": "what was the first year boston college won the championship?",
+      "id": "nt-2376"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many times did boston college score more than 7 points in a game?",
+      "id": "nt-7756"
+    },
+    {
+      "targetValue": "1983",
+      "utterance": "in what year was their largest margin of victory?",
+      "id": "nt-8824"
+    },
+    {
+      "targetValue": "Coach",
+      "utterance": "john \"snooks\" kelly and jerry york occupied which position at boston college?",
+      "id": "nt-10085"
+    },
+    {
+      "targetValue": "Boston University",
+      "utterance": "between the years 1954-2014 did boston university or harvard hold more \"runner-up\" positions?",
+      "id": "nt-10148"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "how many total games did boston college win in the beanpot?",
+      "id": "nt-12625"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many years did boston college win with john kelley as coach?",
+      "id": "nt-13334"
+    }
+  ],
+  "metadata": {
+    "title": "Boston College Eagles men's ice hockey",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18880361&oldid=602165964",
+    "tableIndex": 5,
+    "hashcode": "e7d3ed37d6ae606b03fbcee75d3e504199c76c26",
+    "id": 18880361,
+    "revision": 602165964
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "2008",
+      "utterance": "what was the first year where the position was higher than 3rd place?",
+      "id": "nt-1280"
+    },
+    {
+      "targetValue": "Paris, France",
+      "utterance": "was the positioning better the year of the france venue or the year of the south korea venue?",
+      "id": "nt-2745"
+    },
+    {
+      "targetValue": "Germany",
+      "utterance": "which country had more competitions, germany or greece?",
+      "id": "nt-5986"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times did they rank below 8th place?",
+      "id": "nt-6695"
+    },
+    {
+      "targetValue": "2nd",
+      "utterance": "before 2010 what was their best position?",
+      "id": "nt-8628"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of world championships?",
+      "id": "nt-9028"
+    },
+    {
+      "targetValue": "3rd",
+      "utterance": "after 2008 what was their highest rank?",
+      "id": "nt-10115"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the total number of competitions representing barcelona, spain?",
+      "id": "nt-10700"
+    },
+    {
+      "targetValue": "2008",
+      "utterance": "which year had the lowest position?",
+      "id": "nt-11388"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many years was the distance greater than 9 meters?",
+      "id": "nt-11634"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times did tomlinson appear in the olympic games?",
+      "id": "nt-13401"
+    }
+  ],
+  "metadata": {
+    "title": "Chris Tomlinson",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=861362&oldid=568544823",
+    "tableIndex": 0,
+    "hashcode": "9fa1124ccb4d67b6f3288f8020e94dea1e69e30b",
+    "id": 861362,
+    "revision": 568544823
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": "15",
+      "utterance": "how many buildings has the same year of listing as 1974?",
+      "id": "nt-1371"
+    },
+    {
+      "targetValue": "Swan Street",
+      "utterance": "what is the street of the only building listed in 1989?",
+      "id": "nt-1472"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many buildings had alfred waterhouse as their architect?",
+      "id": "nt-4181"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many buildings do not have an image listed?",
+      "id": "nt-4401"
+    },
+    {
+      "targetValue": [
+        "The Old Wellington Inn",
+        "Smithfield Market Hall"
+      ],
+      "utterance": "which two buildings were listed before 1974?",
+      "id": "nt-6620"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "was charles heathcote the architect of ancoats hospital and apollo theatre?",
+      "id": "nt-7153"
+    },
+    {
+      "targetValue": "54 years",
+      "utterance": "what is the difference, in years, between the completion dates of 53 king street and castlefield congregational chapel?",
+      "id": "nt-10500"
+    },
+    {
+      "targetValue": "1974",
+      "utterance": "which year has the most buildings listed?",
+      "id": "nt-11643"
+    },
+    {
+      "targetValue": "39",
+      "utterance": "how many names are listed with an image?",
+      "id": "nt-11985"
+    }
+  ],
+  "metadata": {
+    "title": "Grade II listed buildings in Manchester",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=37625789&oldid=590524577",
+    "tableIndex": 0,
+    "hashcode": "4c04b7648cfcb7557a7a8be3c9db2e0f02381fff",
+    "id": 37625789,
+    "revision": 590524577
+  }
+}

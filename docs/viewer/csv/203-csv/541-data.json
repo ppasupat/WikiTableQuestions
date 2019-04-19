@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "38",
+      "utterance": "how many events were at the 1980 winter olympics?",
+      "id": "nt-1065"
+    },
+    {
+      "targetValue": "1932 Winter Olympics",
+      "utterance": "which games featured the least amount of events?",
+      "id": "nt-3000"
+    },
+    {
+      "targetValue": "20 July - 18 August",
+      "utterance": "what dates did the 1984 summer olympics take place?",
+      "id": "nt-4486"
+    },
+    {
+      "targetValue": [
+        "1904 Summer Olympics",
+        "1932 Winter Olympics",
+        "1932 Summer Olympics",
+        "1960 Winter Olympics",
+        "1980 Winter Olympics"
+      ],
+      "utterance": "which events had less than fifty nations participating?",
+      "id": "nt-7718"
+    },
+    {
+      "targetValue": [
+        "1932 Summer Olympics",
+        "1984 Summer Olympics",
+        "1996 Summer Olympics"
+      ],
+      "utterance": "which events had at least one hundred events held?",
+      "id": "nt-8446"
+    },
+    {
+      "targetValue": "1984 Summer Olympics",
+      "utterance": "which olympics had the most participants?",
+      "id": "nt-10958"
+    },
+    {
+      "targetValue": "1904 Summer Olympics",
+      "utterance": "what games featured the fewest participating nations?",
+      "id": "nt-12309"
+    },
+    {
+      "targetValue": "197",
+      "utterance": "what was the number of nations that participated in the 1996 summer olympics?",
+      "id": "nt-13213"
+    }
+  ],
+  "metadata": {
+    "title": "United States at the Olympics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2112059&oldid=602110083",
+    "tableIndex": 0,
+    "hashcode": "ebc34976f063261d051d77d9783b0af8f4cb0f21",
+    "id": 2112059,
+    "revision": 602110083
+  }
+}

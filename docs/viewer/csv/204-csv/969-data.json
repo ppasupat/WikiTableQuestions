@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Pete Doherty",
+      "utterance": "which composer produced his title after 2001?",
+      "id": "nt-104"
+    },
+    {
+      "targetValue": "ballet",
+      "utterance": "why type of genre was peter maxwell davies' work that was the same as emil petrovics'",
+      "id": "nt-130"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many works were made in the incidental music genre?",
+      "id": "nt-1515"
+    },
+    {
+      "targetValue": "Alexander Glazunov",
+      "utterance": "which composer is listed below pete doherty?",
+      "id": "nt-4301"
+    },
+    {
+      "targetValue": "Constant Lambert",
+      "utterance": "who is next on the list after alexander krein?",
+      "id": "nt-4892"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what is the number of works titled \"salome?\"",
+      "id": "nt-6779"
+    },
+    {
+      "targetValue": "91",
+      "utterance": "what is the difference in years of granville bantock's work compared to pete dohert?",
+      "id": "nt-7052"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many are symphonic poems?",
+      "id": "nt-7401"
+    },
+    {
+      "targetValue": "Granville Bantock",
+      "utterance": "which composer published first granville bantock or emil petrovics?",
+      "id": "nt-11526"
+    },
+    {
+      "targetValue": "Flor Alpaerts",
+      "utterance": "who is on top of the list?",
+      "id": "nt-13777"
+    },
+    {
+      "targetValue": "Salome, Op. 55",
+      "utterance": "what work was written after henry hadley had seen an oscar wilde play?",
+      "id": "nt-14029"
+    }
+  ],
+  "metadata": {
+    "title": "Music based on the works of Oscar Wilde",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21715268&oldid=592932552",
+    "tableIndex": 24,
+    "hashcode": "7a80bd952b941a8c1fe41712ecfdedc06bf6879b",
+    "id": 21715268,
+    "revision": 592932552
+  }
+}

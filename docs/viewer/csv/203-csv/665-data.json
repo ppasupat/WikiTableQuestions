@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "no",
+      "utterance": "were any towers established before the year 1800?",
+      "id": "nt-1473"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "number of lighthouses that begin with the letter p",
+      "id": "nt-1594"
+    },
+    {
+      "targetValue": "San Juan",
+      "utterance": "names of municipalities established before 1880",
+      "id": "nt-4186"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many towers are at least 18 meters tall?",
+      "id": "nt-5057"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many establishments are restored for tourism?",
+      "id": "nt-5513"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "the difference in years from 1882 to 1889",
+      "id": "nt-7268"
+    },
+    {
+      "targetValue": "Ponce",
+      "utterance": "cardona island light and caja de muertos light are both located in what municipality?",
+      "id": "nt-9441"
+    },
+    {
+      "targetValue": "Punta Higuero Light",
+      "utterance": "what is the largest tower",
+      "id": "nt-10790"
+    },
+    {
+      "targetValue": "San Juan",
+      "utterance": "which municipality was the first to be established?",
+      "id": "nt-12761"
+    }
+  ],
+  "metadata": {
+    "title": "List of lighthouses in Puerto Rico",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5248494&oldid=576066397",
+    "tableIndex": 0,
+    "hashcode": "5e6fed7deb2c2ed8b507e69781d03ebd0cd89def",
+    "id": 5248494,
+    "revision": 576066397
+  }
+}

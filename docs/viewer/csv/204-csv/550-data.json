@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Brisbane, Australia",
+      "utterance": "what is the top place listed on the chart?",
+      "id": "nt-189"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many records has harmon harmon held?",
+      "id": "nt-609"
+    },
+    {
+      "targetValue": "Akanoa William",
+      "utterance": "who holds the top record in the 110 m hurdles?",
+      "id": "nt-3383"
+    },
+    {
+      "targetValue": "Uaongo Areai",
+      "utterance": "who has held the most records?",
+      "id": "nt-3531"
+    },
+    {
+      "targetValue": "Mark Sherwin",
+      "utterance": "what is the first athlete in teh 100m event?",
+      "id": "nt-6033"
+    },
+    {
+      "targetValue": "800 m",
+      "utterance": "what event is after the 400 m?",
+      "id": "nt-7158"
+    },
+    {
+      "targetValue": "15 December 2006",
+      "utterance": "which date comes before 12 march 1983?",
+      "id": "nt-7875"
+    },
+    {
+      "targetValue": "5244 pts",
+      "utterance": "what was the total number of points akanoa william earned during the decathlon held on december 17-18, 1987?",
+      "id": "nt-10683"
+    },
+    {
+      "targetValue": "400 m",
+      "utterance": "which record on the chart was set earlier, the 200 or 400 m?",
+      "id": "nt-11865"
+    }
+  ],
+  "metadata": {
+    "title": "Cook Islands records in athletics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=26764352&oldid=598678590",
+    "tableIndex": 0,
+    "hashcode": "37aaa6b540cb50668babf0ba440e9c6f87fac4f1",
+    "id": 26764352,
+    "revision": 598678590
+  }
+}

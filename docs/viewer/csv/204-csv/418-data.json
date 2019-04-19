@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "how many games did they win by at least 5 points?",
+      "id": "nt-1756"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "how many games were played in total?",
+      "id": "nt-2249"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "on how many dates was the sum of the scores at most 10?",
+      "id": "nt-5481"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the greatest difference in scores?",
+      "id": "nt-11448"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "how many games did cal state fullerton's baseball team play during april 1979?",
+      "id": "nt-12623"
+    }
+  ],
+  "metadata": {
+    "title": "1979 Cal State Fullerton Titans baseball team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36298178&oldid=585505021",
+    "tableIndex": 2,
+    "hashcode": "58299422d6a47ad99ecbfcf427c4f92a5199812d",
+    "id": 36298178,
+    "revision": 585505021
+  }
+}

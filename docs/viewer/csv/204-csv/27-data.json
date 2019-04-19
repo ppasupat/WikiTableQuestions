@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "1887-1905",
+      "utterance": "what year is at the very top?",
+      "id": "nt-887"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the record number of goals scored in one game by tom keetley?",
+      "id": "nt-2624"
+    },
+    {
+      "targetValue": "44",
+      "utterance": "what is the number of league goals billy sharp made?",
+      "id": "nt-3527"
+    },
+    {
+      "targetValue": "28",
+      "utterance": "how many league goals walter langton made?",
+      "id": "nt-3666"
+    },
+    {
+      "targetValue": "49",
+      "utterance": "how many total goals did kit lawlor score from 1950 to 1954?",
+      "id": "nt-9169"
+    },
+    {
+      "targetValue": "Walter Langton",
+      "utterance": "which player's number of total goals is the same as his number of total appearances?",
+      "id": "nt-10567"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many years did syd bycroft spend playing for doncaster?",
+      "id": "nt-10937"
+    }
+  ],
+  "metadata": {
+    "title": "Doncaster Rovers F.C.",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=451160&oldid=602192698",
+    "tableIndex": 1,
+    "hashcode": "7867ba5e91e3050518a3dd4fe83b5afecddb496a",
+    "id": 451160,
+    "revision": 602192698
+  }
+}

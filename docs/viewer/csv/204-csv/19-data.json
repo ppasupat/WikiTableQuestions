@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "Waseda University",
+      "utterance": "hosei won in 1964. who won the next year?",
+      "id": "nt-4145"
+    },
+    {
+      "targetValue": "Teikyo University",
+      "utterance": "who won the last championship recorded on this table?",
+      "id": "nt-5118"
+    },
+    {
+      "targetValue": "Waseda University",
+      "utterance": "which universities had a number of wins higher than 12?",
+      "id": "nt-5135"
+    },
+    {
+      "targetValue": "Waseda University",
+      "utterance": "which university had the most years won?",
+      "id": "nt-6617"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many championships does nippon sport science university have",
+      "id": "nt-7852"
+    }
+  ],
+  "metadata": {
+    "title": "All-Japan University Rugby Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1381359&oldid=585074850",
+    "tableIndex": 0,
+    "hashcode": "4da1b816bd444f2a85a1b0d0f70394f1fe2ad49d",
+    "id": 1381359,
+    "revision": 585074850
+  }
+}

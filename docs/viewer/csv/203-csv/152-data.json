@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Pedernales",
+      "utterance": "what is the only province with population density under 30?",
+      "id": "nt-6555"
+    },
+    {
+      "targetValue": "San Juan",
+      "utterance": "which province has the most area?",
+      "id": "nt-9348"
+    },
+    {
+      "targetValue": "Distrito Nacional",
+      "utterance": "which province in the dominican republic has the smallest area (in square kilometers)?",
+      "id": "nt-9755"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many provinces have populations higher than 300,000?",
+      "id": "nt-11495"
+    },
+    {
+      "targetValue": "Independencia",
+      "utterance": "in the dominican republic, does the province of independencia or the province of barahona have a smaller population?",
+      "id": "nt-12148"
+    },
+    {
+      "targetValue": "587.13",
+      "utterance": "what is the difference between the area of san cristobal and puerto plata?",
+      "id": "nt-12311"
+    },
+    {
+      "targetValue": "68,486",
+      "utterance": "what is the difference between the population of san juan and sanchez ramirez?",
+      "id": "nt-12328"
+    },
+    {
+      "targetValue": "Pedernales",
+      "utterance": "which province has less population density than independencia?",
+      "id": "nt-12511"
+    },
+    {
+      "targetValue": "Santiago Rodríguez",
+      "utterance": "which province in the dominican republic has the same density of people per square kilometer as san juan?",
+      "id": "nt-13634"
+    }
+  ],
+  "metadata": {
+    "title": "Provinces of the Dominican Republic",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=690089&oldid=602099014",
+    "tableIndex": 0,
+    "hashcode": "512925cadb0d60a45818d4916157731c3eea160d",
+    "id": 690089,
+    "revision": 602099014
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "10",
+      "utterance": "what is the total of winners?",
+      "id": "nt-2657"
+    },
+    {
+      "targetValue": "Jimmy Connors",
+      "utterance": "which opponent is listed previous to jürgen fassbender?",
+      "id": "nt-3908"
+    },
+    {
+      "targetValue": "Jimmy Connors",
+      "utterance": "what opponent was competed against the most often?",
+      "id": "nt-6150"
+    },
+    {
+      "targetValue": "Jürgen Fassbender",
+      "utterance": "who was the first person this person played on an indoor surface?",
+      "id": "nt-6392"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many games did this person play against jimmy connors?",
+      "id": "nt-8250"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many different countries are listed?",
+      "id": "nt-8825"
+    },
+    {
+      "targetValue": "Paramus, U.S.",
+      "utterance": "what is the only indoor championship?",
+      "id": "nt-11439"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive championships occurred in baltimore, u.s.?",
+      "id": "nt-12739"
+    },
+    {
+      "targetValue": "Hard (i)",
+      "utterance": "what surface was used before carpet?",
+      "id": "nt-12848"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the number of games that this person won in their career?",
+      "id": "nt-13757"
+    }
+  ],
+  "metadata": {
+    "title": "Sandy Mayer",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4035659&oldid=593906316",
+    "tableIndex": 0,
+    "hashcode": "3b84a34d68748326e533a1a2dfd04367cd08486a",
+    "id": 4035659,
+    "revision": 593906316
+  }
+}

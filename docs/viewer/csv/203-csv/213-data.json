@@ -1,0 +1,56 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many locomotives were built after 1900?",
+      "id": "nt-899"
+    },
+    {
+      "targetValue": "Hunslet",
+      "utterance": "which locomotive builder built a locomotive after 1888 and built the locomotive as a 2ft gauge locomotive?",
+      "id": "nt-1831"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many locomotives were scrapped?",
+      "id": "nt-4262"
+    },
+    {
+      "targetValue": "W.G. Bagnall",
+      "utterance": "who built the larger version of the first bagnall locomotive?",
+      "id": "nt-5738"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many locomotives were built before the 1900s?",
+      "id": "nt-7174"
+    },
+    {
+      "targetValue": [
+        "Lowca Engineering",
+        "Manning Wardle",
+        "Hunslet"
+      ],
+      "utterance": "list each of the builder's that had a locomotive scrapped.",
+      "id": "nt-8095"
+    },
+    {
+      "targetValue": "Vyrnwy",
+      "utterance": "what was the last locomotive?",
+      "id": "nt-9824"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many locomotives were built for the construction of the ashworth moor reservoir?",
+      "id": "nt-13861"
+    }
+  ],
+  "metadata": {
+    "title": "Scropton Tramway",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7238732&oldid=602335594",
+    "tableIndex": 0,
+    "hashcode": "dda23706fd540df3e97105562507001048e29fcd",
+    "id": 7238732,
+    "revision": 602335594
+  }
+}

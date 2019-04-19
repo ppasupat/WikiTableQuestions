@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "China",
+      "utterance": "what country ranks in first place?",
+      "id": "nt-850"
+    },
+    {
+      "targetValue": "Bronze",
+      "utterance": "are there more silver or bronze medals in total?",
+      "id": "nt-1950"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many countries have at least 2 bronze medals?",
+      "id": "nt-3173"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many more total medals did china win over japan?",
+      "id": "nt-3565"
+    },
+    {
+      "targetValue": "North Korea",
+      "utterance": "which country has the most bronze medals?",
+      "id": "nt-5850"
+    },
+    {
+      "targetValue": "China",
+      "utterance": "did china or north korea obtain 5 silver medals?",
+      "id": "nt-6592"
+    },
+    {
+      "targetValue": "Hong Kong",
+      "utterance": "which nation won more silver medals, hong kong or syria?",
+      "id": "nt-6996"
+    },
+    {
+      "targetValue": "Hong Kong",
+      "utterance": "which country received the least bronze medals?",
+      "id": "nt-8365"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many nations won more than 2 gold medals?",
+      "id": "nt-8769"
+    },
+    {
+      "targetValue": [
+        "Hong Kong",
+        "India",
+        "Kazakhstan",
+        "Syria"
+      ],
+      "utterance": "which countries have the least amount of total medals?",
+      "id": "nt-9681"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many nations share the seventh rank?",
+      "id": "nt-11168"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many bronze medals did south korea and india receive, combined?",
+      "id": "nt-13839"
+    },
+    {
+      "targetValue": "China",
+      "utterance": "which country has the most gold medals?",
+      "id": "nt-13841"
+    }
+  ],
+  "metadata": {
+    "title": "2006 Asian Artistic Gymnastics Championships",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=37641406&oldid=549931845",
+    "tableIndex": 2,
+    "hashcode": "119e2e522a5eddf17c6f4b6044225dc673733097",
+    "id": 37641406,
+    "revision": 549931845
+  }
+}

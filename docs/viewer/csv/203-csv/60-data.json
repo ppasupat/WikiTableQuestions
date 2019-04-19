@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "Switzerland",
+      "utterance": "in which country did thierry tulasne win his last singles title?",
+      "id": "nt-138"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what are the total games won against claudio pannata on june 10,1985 in bologna,italy?",
+      "id": "nt-709"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is thierry tulasne number of clay court titles?",
+      "id": "nt-1658"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many tournaments were played indoor?",
+      "id": "nt-2870"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many singles finals did thierry tulasne win against swedish opponents?",
+      "id": "nt-3676"
+    },
+    {
+      "targetValue": "Henri Leconte",
+      "utterance": "who was the opponent in the last tournament?",
+      "id": "nt-4019"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what were the total number of times the championship was held in italy?",
+      "id": "nt-4239"
+    },
+    {
+      "targetValue": "Italy",
+      "utterance": "in which country did thierry tulasne win 2 consecutive titles in 1985",
+      "id": "nt-5643"
+    },
+    {
+      "targetValue": "Andrés Gómez",
+      "utterance": "who is the only player to be listed twice as an opponent in the finals?",
+      "id": "nt-5744"
+    },
+    {
+      "targetValue": "Indoor",
+      "utterance": "which surface was used the least?",
+      "id": "nt-6299"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many were played before 1985?",
+      "id": "nt-8053"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many indoor titles did therry tulasnewin?",
+      "id": "nt-8274"
+    },
+    {
+      "targetValue": "September",
+      "utterance": "which month were the most championships played?",
+      "id": "nt-9168"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many atp tour titles did thierry tulasne win?",
+      "id": "nt-11656"
+    }
+  ],
+  "metadata": {
+    "title": "Thierry Tulasne",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4083975&oldid=571771393",
+    "tableIndex": 1,
+    "hashcode": "609123f7d6163f9a7ed8f0c7a61d670f0c159797",
+    "id": 4083975,
+    "revision": 571771393
+  }
+}

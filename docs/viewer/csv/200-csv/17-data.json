@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "1991",
+      "utterance": "what year was the single, \"superwoman\", released",
+      "id": "nt-6847"
+    },
+    {
+      "targetValue": "1979",
+      "utterance": "when was the single, \"am i too late\", released?",
+      "id": "nt-7720"
+    }
+  ],
+  "metadata": {
+    "title": "Gladys Knight",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=165909&oldid=596212168",
+    "tableIndex": 1,
+    "hashcode": "22a94a5b79f7734e1cb2a40890d6b2bfbcf3cd46",
+    "id": 165909,
+    "revision": 596212168
+  }
+}

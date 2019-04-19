@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Christian Ruuttu",
+      "utterance": "who was the next player picked after steve orth?",
+      "id": "nt-2917"
+    },
+    {
+      "targetValue": "Paul Ames",
+      "utterance": "who was the only player picked above joe reekie?",
+      "id": "nt-3028"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many centre position players are there?",
+      "id": "nt-3344"
+    },
+    {
+      "targetValue": "Paul Ames",
+      "utterance": "which player is listed previous to joe reekie?",
+      "id": "nt-6144"
+    },
+    {
+      "targetValue": "Christian Ruuttu",
+      "utterance": "which player was the only one drafted from finland?",
+      "id": "nt-6356"
+    },
+    {
+      "targetValue": "Canada",
+      "utterance": "which nationality is both scott birnie and bob mormina?",
+      "id": "nt-7460"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "was the the number of canadian players more or less than the number of other players?",
+      "id": "nt-7465"
+    },
+    {
+      "targetValue": "Canada",
+      "utterance": "the most players picked came from which nationality?",
+      "id": "nt-8257"
+    },
+    {
+      "targetValue": "Boston Bruins",
+      "utterance": "which nhl team had the last pick?",
+      "id": "nt-9224"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "was pick #137's nationality united states, soviet union, or canada?",
+      "id": "nt-9355"
+    },
+    {
+      "targetValue": "Tim Burgess",
+      "utterance": "which player was drafted after bob pierson?",
+      "id": "nt-11194"
+    },
+    {
+      "targetValue": "Craig Mack",
+      "utterance": "after pick #123 paul ames being picked for defense, what was the next united states defense pick named?",
+      "id": "nt-12266"
+    }
+  ],
+  "metadata": {
+    "title": "1983 NHL Entry Draft",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2679061&oldid=585456986",
+    "tableIndex": 6,
+    "hashcode": "b0aebd240a389af92dade03b8d7adc3da96fc0f3",
+    "id": 2679061,
+    "revision": 585456986
+  }
+}

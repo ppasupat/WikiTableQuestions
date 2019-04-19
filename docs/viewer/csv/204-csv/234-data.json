@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Hereford",
+      "utterance": "who shot the best 73 m",
+      "id": "nt-4739"
+    },
+    {
+      "targetValue": "York",
+      "utterance": "who shot the most at 91 m",
+      "id": "nt-6462"
+    },
+    {
+      "targetValue": "American",
+      "utterance": "who shot the least at 40 yd",
+      "id": "nt-9834"
+    },
+    {
+      "targetValue": "York",
+      "utterance": "who is at the top of the chart?",
+      "id": "nt-11429"
+    },
+    {
+      "targetValue": "2 doz.",
+      "utterance": "name then number shot for the 80 yard in the new national round.",
+      "id": "nt-11732"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the total number of rounds?",
+      "id": "nt-12970"
+    }
+  ],
+  "metadata": {
+    "title": "Target archery",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7603269&oldid=602425271",
+    "tableIndex": 1,
+    "hashcode": "b3e81f03f577d60fd0af88acbfe2dfe24902d600",
+    "id": 7603269,
+    "revision": 602425271
+  }
+}

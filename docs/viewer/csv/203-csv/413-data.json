@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "how many cities have populations greater than arquata scrivia?",
+      "id": "nt-2533"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many cities have at least 25,000 people?",
+      "id": "nt-2748"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many cities have densities at least above 400?",
+      "id": "nt-2789"
+    },
+    {
+      "targetValue": "Serravalle Scrivia",
+      "utterance": "which city has the smallest area?",
+      "id": "nt-4604"
+    },
+    {
+      "targetValue": [
+        "Alessandria",
+        "Casale Monferrato"
+      ],
+      "utterance": "which communes have a population above 30,000?",
+      "id": "nt-7672"
+    },
+    {
+      "targetValue": "Castelnuovo Scrivia",
+      "utterance": "which city has the least density?",
+      "id": "nt-8559"
+    },
+    {
+      "targetValue": "Castelnuovo Scrivia",
+      "utterance": "which commune has the least number of inhabitants?",
+      "id": "nt-8697"
+    },
+    {
+      "targetValue": "Castelnuovo Scrivia",
+      "utterance": "what is the city with the lowest density?",
+      "id": "nt-8965"
+    },
+    {
+      "targetValue": "Acqui Terme",
+      "utterance": "which city is the most densely populated?",
+      "id": "nt-9043"
+    },
+    {
+      "targetValue": "5467",
+      "utterance": "what is the difference between the population of ovada and the population of serravalle scrivia?",
+      "id": "nt-12602"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many cities do not have lower populations than valenza?",
+      "id": "nt-12731"
+    },
+    {
+      "targetValue": "27476",
+      "utterance": "how many people live in tortona?",
+      "id": "nt-13578"
+    }
+  ],
+  "metadata": {
+    "title": "Province of Alessandria",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1448810&oldid=588549993",
+    "tableIndex": 0,
+    "hashcode": "f29d82957e353ad21fd8d01759b37e406b8211ef",
+    "id": 1448810,
+    "revision": 588549993
+  }
+}

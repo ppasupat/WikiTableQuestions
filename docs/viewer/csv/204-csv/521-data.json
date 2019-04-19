@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Tommy Green",
+      "utterance": "which athlete had the fastest time?",
+      "id": "nt-5146"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many athletes were faster than bill chisholm?",
+      "id": "nt-7708"
+    },
+    {
+      "targetValue": "14:46:36",
+      "utterance": "what is the combined time it took the first three competitors to finish the race?",
+      "id": "nt-8192"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did the united states rank?",
+      "id": "nt-8816"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many athletes finished the race in less than 5:00:00?",
+      "id": "nt-11993"
+    },
+    {
+      "targetValue": "Tommy Green",
+      "utterance": "who was the only competitor to come from great britain?",
+      "id": "nt-12024"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many ranks are there?",
+      "id": "nt-12228"
+    },
+    {
+      "targetValue": "Ettore Rivolta",
+      "utterance": "which competitor finished immediately after karl hahnel?",
+      "id": "nt-13012"
+    },
+    {
+      "targetValue": "Bill Chisholm",
+      "utterance": "which competitor from united states had the longest time?",
+      "id": "nt-14058"
+    }
+  ],
+  "metadata": {
+    "title": "Athletics at the 1932 Summer Olympics – Men's 50 kilometres walk",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=27893929&oldid=569360855",
+    "tableIndex": 0,
+    "hashcode": "6a0b0dc4203137b86408c94c3e800786cdbc459e",
+    "id": 27893929,
+    "revision": 569360855
+  }
+}

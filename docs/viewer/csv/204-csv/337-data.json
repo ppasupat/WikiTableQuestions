@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "how many total times has village roadshow queensland new filmmakers awards won?",
+      "id": "nt-891"
+    },
+    {
+      "targetValue": "Monaco International Film Festival",
+      "utterance": "what is the name of the festival that has won the most?",
+      "id": "nt-4652"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many more winners were there than nominees?",
+      "id": "nt-5444"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many festivals were held after 2012?",
+      "id": "nt-5557"
+    },
+    {
+      "targetValue": "Animation Grand Prize",
+      "utterance": "what was their award at the janison short sharp film festival?",
+      "id": "nt-5618"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many times have they won an award?",
+      "id": "nt-7732"
+    },
+    {
+      "targetValue": "Village Roadshow Queensland New Filmmakers Awards",
+      "utterance": "which festival participated for three consecutive awards?",
+      "id": "nt-8717"
+    },
+    {
+      "targetValue": "St Kilda Film Festival",
+      "utterance": "what is the name of the last festival?",
+      "id": "nt-12168"
+    }
+  ],
+  "metadata": {
+    "title": "Gus (2011 film)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33612129&oldid=562230633",
+    "tableIndex": 0,
+    "hashcode": "d00ba4d83ec68424ada67b44e4025debe4c16827",
+    "id": 33612129,
+    "revision": 562230633
+  }
+}

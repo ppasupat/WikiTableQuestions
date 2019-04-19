@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many times has he been runner-up?",
+      "id": "nt-2894"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many total wins has he had?",
+      "id": "nt-3854"
+    },
+    {
+      "targetValue": "Winner",
+      "utterance": "was roddick a runner-up or winner more?",
+      "id": "nt-3874"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many times were roddick's opponents not from the usa?",
+      "id": "nt-5569"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times was the championship in miami?",
+      "id": "nt-7094"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times was roger federer a runner-up?",
+      "id": "nt-9873"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is his highest number of consecutive wins?",
+      "id": "nt-10001"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many championships occurred in toronto or montreal?",
+      "id": "nt-12292"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the highest number of consecutive wins?",
+      "id": "nt-12824"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many consecutive years was there a hard surface at the championship?",
+      "id": "nt-13000"
+    }
+  ],
+  "metadata": {
+    "title": "Andy Roddick",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=345090&oldid=598721603",
+    "tableIndex": 3,
+    "hashcode": "9301bcb1ab12bc3b019ac2dde9bfe89d6889b74e",
+    "id": 345090,
+    "revision": 598721603
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive friendly competitions did chalupny score in?",
+      "id": "nt-38"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many games were more than 15 minutes?",
+      "id": "nt-4699"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many competitions were not friendly?",
+      "id": "nt-4913"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many assists did tarpley participate in?",
+      "id": "nt-5965"
+    },
+    {
+      "targetValue": "Nigeria",
+      "utterance": "who was the only opponent to be scored against with an assist from wambach?",
+      "id": "nt-7076"
+    },
+    {
+      "targetValue": "CHNShanghai",
+      "utterance": "what is the other location after frisco tx",
+      "id": "nt-8166"
+    },
+    {
+      "targetValue": "19 min",
+      "utterance": "how long or what minute in the game was the first goal scored?",
+      "id": "nt-8201"
+    },
+    {
+      "targetValue": "Mexico",
+      "utterance": "who was the opponent faced when the first goal was scored in 2004?",
+      "id": "nt-8246"
+    },
+    {
+      "targetValue": "USABridgeview IL",
+      "utterance": "what is the last location on the chart",
+      "id": "nt-10233"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many total goals were scored against nigeria?",
+      "id": "nt-10463"
+    },
+    {
+      "targetValue": "24",
+      "utterance": "what is the total goals on this chart",
+      "id": "nt-10902"
+    }
+  ],
+  "metadata": {
+    "title": "Lori Chalupny",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12265902&oldid=594766047",
+    "tableIndex": 1,
+    "hashcode": "5b74ca299e2035954c2ada78c31eb54d76835abd",
+    "id": 12265902,
+    "revision": 594766047
+  }
+}

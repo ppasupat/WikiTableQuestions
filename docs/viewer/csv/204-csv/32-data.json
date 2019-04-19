@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "2009",
+      "utterance": "the team's record in 2011 was the same was it's record in what year",
+      "id": "nt-122"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many seasons did the team finish above .500 for winning percentage?",
+      "id": "nt-430"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "which year did western division had the larger win",
+      "id": "nt-4326"
+    },
+    {
+      "targetValue": "2011",
+      "utterance": "what year did the rush allow the most goals?",
+      "id": "nt-6466"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "which season held the most wins?",
+      "id": "nt-6684"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many consecutive losing seasons were there?",
+      "id": "nt-8211"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "amount of seasons with a winning record",
+      "id": "nt-9009"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "what year did the edmonton rush have their top season?",
+      "id": "nt-10239"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "total amount of times the team made the playoffs",
+      "id": "nt-12124"
+    },
+    {
+      "targetValue": "2013",
+      "utterance": "when did the least amount of fans attend?",
+      "id": "nt-14054"
+    }
+  ],
+  "metadata": {
+    "title": "Edmonton Rush",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1852059&oldid=600707200",
+    "tableIndex": 4,
+    "hashcode": "cf3dd3de5522f92aa2dbff1c29c394b0ac1eecc0",
+    "id": 1852059,
+    "revision": 600707200
+  }
+}

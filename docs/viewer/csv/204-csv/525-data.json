@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "in the 197172 national hurling league, how many players from cork county were ranked at least rank 15 or better?",
+      "id": "nt-442"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many players have a total above 10?",
+      "id": "nt-1382"
+    },
+    {
+      "targetValue": "Offaly",
+      "utterance": "who is the first opposition in rank 27?",
+      "id": "nt-2195"
+    },
+    {
+      "targetValue": "Ger Cuddy",
+      "utterance": "who has a higher total, brendan cummins or ger cuddy?",
+      "id": "nt-4063"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many players are from cork?",
+      "id": "nt-4580"
+    },
+    {
+      "targetValue": "Ger Cuddy",
+      "utterance": "in the 197172 national hurling league, who is the only single player ranked in the top 10 from laois?",
+      "id": "nt-6035"
+    },
+    {
+      "targetValue": "Charlie McCarthy",
+      "utterance": "after declan lovett, who was ranked next in the 197172 national hurling league?",
+      "id": "nt-7975"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "was pat enright in rank 5 or rank 9?",
+      "id": "nt-10071"
+    }
+  ],
+  "metadata": {
+    "title": "1971–72 National Hurling League",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=31539638&oldid=569073045",
+    "tableIndex": 3,
+    "hashcode": "0c3e667e4aaa67518ddcb66774b252c8f127cc16",
+    "id": 31539638,
+    "revision": 569073045
+  }
+}

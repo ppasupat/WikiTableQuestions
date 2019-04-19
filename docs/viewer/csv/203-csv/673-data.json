@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "July 25",
+      "utterance": "which date had the most attendance?",
+      "id": "nt-2238"
+    },
+    {
+      "targetValue": "July 3",
+      "utterance": "what is the first date listed for the opponent \"reds\"?",
+      "id": "nt-6440"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many games had at least 40,000 spectators in attendance?",
+      "id": "nt-7972"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many saves did cordero have on july 3?",
+      "id": "nt-9143"
+    },
+    {
+      "targetValue": "Reds",
+      "utterance": "what team was the opponent in the first game with over 35,000 attendees?",
+      "id": "nt-10145"
+    },
+    {
+      "targetValue": "July 2",
+      "utterance": "which attendance was higher, july 1 or july 2?",
+      "id": "nt-10867"
+    }
+  ],
+  "metadata": {
+    "title": "2008 Washington Nationals season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14271118&oldid=587008531",
+    "tableIndex": 6,
+    "hashcode": "401eae96b7fb6475100f7e69446c998d9022a7c5",
+    "id": 14271118,
+    "revision": 587008531
+  }
+}

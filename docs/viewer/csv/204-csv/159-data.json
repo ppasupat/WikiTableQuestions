@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "the least number of total appearances",
+      "id": "nt-1219"
+    },
+    {
+      "targetValue": "15.5",
+      "utterance": "what is the average number of scotland's total apps?",
+      "id": "nt-1569"
+    },
+    {
+      "targetValue": "James Wood",
+      "utterance": "what is the last name listed on this chart?",
+      "id": "nt-3705"
+    },
+    {
+      "targetValue": "England",
+      "utterance": "name the nation with the most appearances.",
+      "id": "nt-4512"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many players are fws?",
+      "id": "nt-6565"
+    },
+    {
+      "targetValue": "27",
+      "utterance": "what are the number of league apps ted davis has?",
+      "id": "nt-7466"
+    },
+    {
+      "targetValue": "Ned Barkas",
+      "utterance": "what is the first name listed?",
+      "id": "nt-12333"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "average number of goals scored by players from scotland",
+      "id": "nt-13040"
+    },
+    {
+      "targetValue": "GK",
+      "utterance": "which position is listed the least amount of times on this chart?",
+      "id": "nt-13591"
+    }
+  ],
+  "metadata": {
+    "title": "1921–22 Huddersfield Town F.C. season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20521023&oldid=569681639",
+    "tableIndex": 0,
+    "hashcode": "2cca63bf53833ab5fce8c57d37a5ca28418fe0f5",
+    "id": 20521023,
+    "revision": 569681639
+  }
+}

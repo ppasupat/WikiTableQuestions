@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "1up.com",
+      "utterance": "which publication has no score consisting of numbers?",
+      "id": "nt-930"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many publications have the same score as 1up.com?",
+      "id": "nt-1739"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the total number of publications?",
+      "id": "nt-3182"
+    },
+    {
+      "targetValue": "GamePro.com",
+      "utterance": "what publication scored the least?",
+      "id": "nt-4391"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many reviews were in print?",
+      "id": "nt-4978"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what number of publications are indicated as being in print?",
+      "id": "nt-6238"
+    },
+    {
+      "targetValue": "1up.com",
+      "utterance": "which publication only received a letter score?",
+      "id": "nt-7056"
+    },
+    {
+      "targetValue": "Hardcore Gamer Magazine",
+      "utterance": "which publication had the largest amount of points out of 10?",
+      "id": "nt-10817"
+    },
+    {
+      "targetValue": "GamePro.com",
+      "utterance": "what publication scored less than a 7.5 out of 10?",
+      "id": "nt-11566"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many publications used a scale-of-one-to-ten scoring system?",
+      "id": "nt-12201"
+    },
+    {
+      "targetValue": "Hardcore Gamer Magazine",
+      "utterance": "what publication scored the most?",
+      "id": "nt-13088"
+    },
+    {
+      "targetValue": "Nintendo Power",
+      "utterance": "what publication is listed before play magazine?",
+      "id": "nt-13210"
+    }
+  ],
+  "metadata": {
+    "title": "Dragon Quest Monsters: Joker",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5160400&oldid=594338220",
+    "tableIndex": 0,
+    "hashcode": "88be701a918315f116a58450900dcb1efcdaa6de",
+    "id": 5160400,
+    "revision": 594338220
+  }
+}

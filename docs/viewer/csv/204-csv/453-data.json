@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Aarhus Stadion, Aarhus",
+      "utterance": "what is the name of the venue listed before olympic stadium on 1950-08-27?",
+      "id": "nt-2832"
+    },
+    {
+      "targetValue": "32",
+      "utterance": "what are the number of times nc appears under the comp column?",
+      "id": "nt-3736"
+    },
+    {
+      "targetValue": "Poland",
+      "utterance": "who did they play in the game listed directly above july 25, 1952?",
+      "id": "nt-4864"
+    },
+    {
+      "targetValue": "Sweden",
+      "utterance": "is denmark better against sweden or england?",
+      "id": "nt-6447"
+    },
+    {
+      "targetValue": "1959-06-21",
+      "utterance": "when was the last time the team went 0-6?",
+      "id": "nt-10334"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what was the difference in score between the two teams in the last game?",
+      "id": "nt-10401"
+    },
+    {
+      "targetValue": "163",
+      "utterance": "which total score was higher, game #163 or #181?",
+      "id": "nt-10767"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times was poland the opponent?",
+      "id": "nt-12318"
+    },
+    {
+      "targetValue": "Idrætsparken, Copenhagen (H)",
+      "utterance": "what is the venue right below jna stadium, belgrade (a)?",
+      "id": "nt-12872"
+    }
+  ],
+  "metadata": {
+    "title": "List of Denmark national football team results – 1950s",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=26701098&oldid=573271305",
+    "tableIndex": 0,
+    "hashcode": "fc373e1190cb5a6c7e017eaffa9ecc0ab72925d6",
+    "id": 26701098,
+    "revision": 573271305
+  }
+}

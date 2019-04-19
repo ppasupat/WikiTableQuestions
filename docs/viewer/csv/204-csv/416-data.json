@@ -1,0 +1,85 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "what is the difference in frequency between the at90s1200 and the at90s2313?",
+      "id": "nt-479"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many chips have a flash size of at least 3k?",
+      "id": "nt-864"
+    },
+    {
+      "targetValue": "AT90S1200",
+      "utterance": "what chip has the lowest flash size?",
+      "id": "nt-1079"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many consecutive 10mhz frequency chips are there?",
+      "id": "nt-1461"
+    },
+    {
+      "targetValue": "AT90S1200",
+      "utterance": "which chip has the least sram?",
+      "id": "nt-1571"
+    },
+    {
+      "targetValue": "AT90S1200",
+      "utterance": "which chip has the fewest amount of eeprom?",
+      "id": "nt-7737"
+    },
+    {
+      "targetValue": [
+        "AT90S8515",
+        "AT90S/LS8535"
+      ],
+      "utterance": "which two chips have the most flash size?",
+      "id": "nt-7980"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many microcontrollers have 128 eeprom?",
+      "id": "nt-9120"
+    },
+    {
+      "targetValue": "AT90S/LS4434",
+      "utterance": "what microcontroller has the same flash size as at90s4414",
+      "id": "nt-9174"
+    },
+    {
+      "targetValue": "AT90S8515",
+      "utterance": "which chip has the larger flash size, at90s/ls4434 or at90s8515?",
+      "id": "nt-9548"
+    },
+    {
+      "targetValue": "AT90S1200",
+      "utterance": "which chip has the highest frequency?",
+      "id": "nt-9704"
+    },
+    {
+      "targetValue": "4k",
+      "utterance": "what is the flash size difference in the at90s8515 chip and the at90s4414?",
+      "id": "nt-12535"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many chips total are there?",
+      "id": "nt-12982"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what number of microcontrollers have only 64 eeprom?",
+      "id": "nt-14060"
+    }
+  ],
+  "metadata": {
+    "title": "Atmel AVR",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=100290&oldid=601437135",
+    "tableIndex": 0,
+    "hashcode": "04ac65f482c742aa696e6e0f1d82b296d8ed7f1a",
+    "id": 100290,
+    "revision": 601437135
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "J515",
+        "J549"
+      ],
+      "utterance": "which are the only trains still in service?",
+      "id": "nt-3572"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many of the locomotives were built before 1940?",
+      "id": "nt-13266"
+    }
+  ],
+  "metadata": {
+    "title": "Victorian Goldfields Railway",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1276536&oldid=593386422",
+    "tableIndex": 0,
+    "hashcode": "343d2844d40a479c5ca4a7107c906aeeee943240",
+    "id": 1276536,
+    "revision": 593386422
+  }
+}

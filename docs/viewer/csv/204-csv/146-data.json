@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "how many games attendance was under 1000?",
+      "id": "nt-356"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "at most, how many of these teams have never scored a goal?",
+      "id": "nt-1693"
+    },
+    {
+      "targetValue": "Windsor & Eton",
+      "utterance": "who is the first away team on the list?",
+      "id": "nt-2042"
+    },
+    {
+      "targetValue": "Farnborough Town",
+      "utterance": "what was the next team to score two points after aylesbury united?",
+      "id": "nt-2459"
+    },
+    {
+      "targetValue": "Burscough",
+      "utterance": "tell me a game that had a total score above 4.",
+      "id": "nt-4111"
+    },
+    {
+      "targetValue": "Burscough",
+      "utterance": "which game had the least number of people in attendance?",
+      "id": "nt-4375"
+    },
+    {
+      "targetValue": "Yeovil Town",
+      "utterance": "other than in gloucester city, name a game that was attended by more than 1,000 people.",
+      "id": "nt-5381"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how may of the teams shut out their opponent in this round?",
+      "id": "nt-6453"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many consecutive games were there over 500 in attendance?",
+      "id": "nt-9452"
+    },
+    {
+      "targetValue": "Farnborough Town",
+      "utterance": "what home team is above gloucester city?",
+      "id": "nt-9562"
+    },
+    {
+      "targetValue": "5 letters",
+      "utterance": "how long is the shortest name of one of the teams?",
+      "id": "nt-12076"
+    },
+    {
+      "targetValue": "Burscough vs Wakefield & Emley",
+      "utterance": "which match had the least in attendance?",
+      "id": "nt-12665"
+    },
+    {
+      "targetValue": "Yeovil Town",
+      "utterance": "what home team had at least 4000 people in attendance?",
+      "id": "nt-13130"
+    }
+  ],
+  "metadata": {
+    "title": "2002–03 FA Trophy",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=25947466&oldid=559160779",
+    "tableIndex": 10,
+    "hashcode": "a472de4ef79cab72958c4b31e3d0f5ab4878f6ba",
+    "id": 25947466,
+    "revision": 559160779
+  }
+}

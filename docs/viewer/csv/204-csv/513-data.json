@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "7:30 PM",
+      "utterance": "what time is the only game in august?",
+      "id": "nt-1296"
+    },
+    {
+      "targetValue": "November 23",
+      "utterance": "when is the next game played after november 17th?",
+      "id": "nt-3244"
+    },
+    {
+      "targetValue": "1:00 PM",
+      "utterance": "was duke at 2:00pm or 1:00pm?",
+      "id": "nt-4728"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many times is attendance over 30,000?",
+      "id": "nt-4879"
+    },
+    {
+      "targetValue": "Navy",
+      "utterance": "which game has the least attendance?",
+      "id": "nt-8006"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the total number of losses?",
+      "id": "nt-12418"
+    },
+    {
+      "targetValue": "October 26",
+      "utterance": "when was the first time the attendance was below 20,000?",
+      "id": "nt-13616"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many losses were there in the season?",
+      "id": "nt-14119"
+    }
+  ],
+  "metadata": {
+    "title": "Wake Forest Demon Deacons football, 1990–99",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15547315&oldid=578801485",
+    "tableIndex": 12,
+    "hashcode": "2f3ab6bd642ab820ed8763ea6880d6276d56e6f5",
+    "id": 15547315,
+    "revision": 578801485
+  }
+}

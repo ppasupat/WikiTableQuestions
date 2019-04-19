@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "13",
+      "utterance": "how many louisiana state senators are democrats?",
+      "id": "nt-1237"
+    },
+    {
+      "targetValue": "Rep",
+      "utterance": "which political party has the most people in office?",
+      "id": "nt-4673"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many democrats are in office?",
+      "id": "nt-5090"
+    },
+    {
+      "targetValue": "A.G. Crowe",
+      "utterance": "name a senator who was elected before brown.",
+      "id": "nt-8025"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many senators are from baton rouge?",
+      "id": "nt-8469"
+    },
+    {
+      "targetValue": "39",
+      "utterance": "how many total senators are there?",
+      "id": "nt-10052"
+    },
+    {
+      "targetValue": "Ed Murray",
+      "utterance": "who was the only louisiana state senator first elected in 2005?",
+      "id": "nt-10804"
+    },
+    {
+      "targetValue": "Amedee",
+      "utterance": "who was elected earlier, amedee or cortez?",
+      "id": "nt-12019"
+    },
+    {
+      "targetValue": "Conrad Appel",
+      "utterance": "j.p morrell was elected in 2008 - the same as which other louisiana state senator?",
+      "id": "nt-12244"
+    }
+  ],
+  "metadata": {
+    "title": "Louisiana State Senate",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7939576&oldid=588892102",
+    "tableIndex": 1,
+    "hashcode": "258440ff58c63aeae519fe391e094a84757b498b",
+    "id": 7939576,
+    "revision": 588892102
+  }
+}

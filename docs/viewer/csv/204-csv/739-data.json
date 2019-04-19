@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "43",
+      "utterance": "what is the total number of districts of lima?",
+      "id": "nt-1152"
+    },
+    {
+      "targetValue": "Santa Anita",
+      "utterance": "what was the last district created?",
+      "id": "nt-1405"
+    },
+    {
+      "targetValue": "San Juan de Lurigancho",
+      "utterance": "which district in this city has the greatest population?",
+      "id": "nt-2054"
+    },
+    {
+      "targetValue": "32",
+      "utterance": "what is the total number of districts created in the 1900's?",
+      "id": "nt-3280"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "how many districts have more than 100,000 people in this city?",
+      "id": "nt-5992"
+    },
+    {
+      "targetValue": "San Juan de Lurigancho",
+      "utterance": "which is the largest district in terms of population?",
+      "id": "nt-9654"
+    },
+    {
+      "targetValue": "43",
+      "utterance": "how many districts are there in this city?",
+      "id": "nt-12100"
+    },
+    {
+      "targetValue": "Santa María del Mar District",
+      "utterance": "what district has the least amount of population?",
+      "id": "nt-12810"
+    },
+    {
+      "targetValue": "31",
+      "utterance": "how many districts have a population density of at lest 1000.0?",
+      "id": "nt-14150"
+    }
+  ],
+  "metadata": {
+    "title": "List of districts of Lima",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1516245&oldid=556831587",
+    "tableIndex": 0,
+    "hashcode": "4c36e34cc3f141e174da8b12949471094c7e258e",
+    "id": 1516245,
+    "revision": 556831587
+  }
+}

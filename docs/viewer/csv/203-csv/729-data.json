@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Lorraine",
+      "utterance": "what is the only population center in the green garden township?",
+      "id": "nt-1735"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many townships have a population above 50?",
+      "id": "nt-6087"
+    },
+    {
+      "targetValue": "Wilson",
+      "utterance": "alphabetically, what is the last township in ellsworth county, kansas?",
+      "id": "nt-7505"
+    },
+    {
+      "targetValue": "31",
+      "utterance": "how many more people live in clear creek township than columbia township in ellsworth county, kansas?",
+      "id": "nt-8094"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many townships have at least a 0.50 water percentage?",
+      "id": "nt-8990"
+    },
+    {
+      "targetValue": "0.24%",
+      "utterance": "what is the average water % for mulberry?",
+      "id": "nt-14094"
+    }
+  ],
+  "metadata": {
+    "title": "Ellsworth County, Kansas",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=95724&oldid=597755862",
+    "tableIndex": 0,
+    "hashcode": "28326aebe445a75483adb6999485ffb752c2ae3f",
+    "id": 95724,
+    "revision": 597755862
+  }
+}

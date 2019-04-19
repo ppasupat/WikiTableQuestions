@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "South African Railways",
+      "utterance": "which railway was the only railway that hunslet-taylor bulit a garratt for?",
+      "id": "nt-3428"
+    },
+    {
+      "targetValue": "South African Railways",
+      "utterance": "hanomag and franco-belge, belgium both built garratts for which railway?",
+      "id": "nt-5926"
+    },
+    {
+      "targetValue": "Beyer, Peacock",
+      "utterance": "builder that has the most experience",
+      "id": "nt-7189"
+    },
+    {
+      "targetValue": "42",
+      "utterance": "how many total garratts did south african railways have?",
+      "id": "nt-7560"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of garratts produced in 1911?",
+      "id": "nt-9658"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many years apart were the two garratts on the southern fuegian railway produced?",
+      "id": "nt-13781"
+    }
+  ],
+  "metadata": {
+    "title": "Garratt",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=485932&oldid=601788099",
+    "tableIndex": 0,
+    "hashcode": "e0fa43e2a6974ef3e217c860c9dc79799453c315",
+    "id": 485932,
+    "revision": 601788099
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Molly's Express",
+        "Magic Mile Express",
+        "Palmer Express",
+        "Jeff Flood Express (Still Creek Basin)"
+      ],
+      "utterance": "name all the lifts that are longer than 5,000 ft.",
+      "id": "nt-2113"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many lifts are of the detach quad type?",
+      "id": "nt-2513"
+    },
+    {
+      "targetValue": "Palmer Express",
+      "utterance": "which timberline lodge lift other than the magic mile express has a slope of 20% or greater?",
+      "id": "nt-3063"
+    },
+    {
+      "targetValue": [
+        "Magic Mile Express",
+        "Palmer Express",
+        "Jeff Flood Express (Still Creek Basin)"
+      ],
+      "utterance": "which lifts have a vertical rise of more than 1,000?",
+      "id": "nt-4032"
+    },
+    {
+      "targetValue": [
+        "Molly's Express",
+        "Stormin' Norman",
+        "Palmer Express",
+        "Jeff Flood Express (Still Creek Basin)"
+      ],
+      "utterance": "which lifts were not manufactured by poma?",
+      "id": "nt-5289"
+    },
+    {
+      "targetValue": "1800",
+      "utterance": "the capacity of a timberline lodge lift is at most how many rides per hour?",
+      "id": "nt-7698"
+    },
+    {
+      "targetValue": "Bruno",
+      "utterance": "what lift has the least passenger capacity per hour?",
+      "id": "nt-9714"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many lifts are detach quads?",
+      "id": "nt-9773"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many of timberline lodge's lifts were installed after 2000?",
+      "id": "nt-9976"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many lifts were installed after 1991?",
+      "id": "nt-10408"
+    }
+  ],
+  "metadata": {
+    "title": "Timberline Lodge ski area",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5625545&oldid=593191839",
+    "tableIndex": 1,
+    "hashcode": "2f71dda299dd77958582ec7071ab8605704dca6a",
+    "id": 5625545,
+    "revision": 593191839
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "david oliver has come in 3rd place in how many competitions?",
+      "id": "nt-549"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many times were the 110 m hurdles recorded in the notes?",
+      "id": "nt-2600"
+    },
+    {
+      "targetValue": "IAAF World Athletics Final",
+      "utterance": "in 2008, david oliver came in first during what competition?",
+      "id": "nt-2929"
+    },
+    {
+      "targetValue": "IAAF World Athletics Final",
+      "utterance": "david oliver made his debut in 2006 by placing 5th in what competition?",
+      "id": "nt-4133"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "the number of times david oliver placed 1st in 100m hurdles between the years 2006-2013.",
+      "id": "nt-4623"
+    },
+    {
+      "targetValue": "Stuttgart, Germany",
+      "utterance": "where was the first competition held according to this chart?",
+      "id": "nt-4626"
+    },
+    {
+      "targetValue": "World Championships",
+      "utterance": "what was the name of the last competition?",
+      "id": "nt-7515"
+    },
+    {
+      "targetValue": "2013",
+      "utterance": "the world championships were not held in moscow, russia before what year?",
+      "id": "nt-8020"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times did david oliver finish first in the 110m hurdles after 2008?",
+      "id": "nt-9350"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what were the number of competitions that had a position of first?",
+      "id": "nt-10044"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many consecutive competitions did david oliver place first in running the 100m hurdles?",
+      "id": "nt-10434"
+    },
+    {
+      "targetValue": "50 m",
+      "utterance": "what was the difference in hurdle length for the olympic games 2008 and the world indoor championships 2008?",
+      "id": "nt-12155"
+    },
+    {
+      "targetValue": "IAAF World Athletics Final",
+      "utterance": "at what competition did david receive the least position?",
+      "id": "nt-13191"
+    }
+  ],
+  "metadata": {
+    "title": "David Oliver (athlete)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7152719&oldid=587237092",
+    "tableIndex": 1,
+    "hashcode": "85512f50d3c4a72849ddb293422c4fbe507e8800",
+    "id": 7152719,
+    "revision": 587237092
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "Toronto Maple Leafs",
+      "utterance": "which team has the highest number of consecutive calder memorial trophy winners?",
+      "id": "nt-4175"
+    },
+    {
+      "targetValue": "Frank Brimsek",
+      "utterance": "who was the first calder memorial trophy winner from the boston bruins?",
+      "id": "nt-10798"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many times did the toronto maple leaves win?",
+      "id": "nt-13954"
+    }
+  ],
+  "metadata": {
+    "title": "Calder Memorial Trophy",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=263035&oldid=599989871",
+    "tableIndex": 1,
+    "hashcode": "63454967b9c84234c40cd484ff51c1556f04001f",
+    "id": 263035,
+    "revision": 599989871
+  }
+}

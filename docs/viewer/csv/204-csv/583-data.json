@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Nesccap Electric double-layer capacitor",
+      "utterance": "which one is previous from eesu",
+      "id": "nt-554"
+    },
+    {
+      "targetValue": "ACT Premlis Lithium ion capacitor",
+      "utterance": "which capacitor has the same temperature as the nesccap electric double-layer capacitor?",
+      "id": "nt-812"
+    },
+    {
+      "targetValue": "25 °C",
+      "utterance": "what is the average temp of the nesccap electric double-layer capacitor?",
+      "id": "nt-6208"
+    },
+    {
+      "targetValue": "3500 V",
+      "utterance": "what comes after 2.7 volts",
+      "id": "nt-7028"
+    },
+    {
+      "targetValue": "Nesccap Electric double-layer capacitor",
+      "utterance": "which one is below act",
+      "id": "nt-7077"
+    },
+    {
+      "targetValue": "3496 V",
+      "utterance": "what is the difference in volts between the eestor eesu barium titanate supercapacitor and the act premlis lithium ion capacitor?",
+      "id": "nt-8534"
+    },
+    {
+      "targetValue": "EEStor EESU barium titanate supercapacitor",
+      "utterance": "which capacitor has the top voltage rating?",
+      "id": "nt-9305"
+    }
+  ],
+  "metadata": {
+    "title": "Power-to-weight ratio",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=158741&oldid=600541571",
+    "tableIndex": 5,
+    "hashcode": "a941d2a14357df2d22d6cb92fa2aec2aa9fa176f",
+    "id": 158741,
+    "revision": 600541571
+  }
+}

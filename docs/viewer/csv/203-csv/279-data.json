@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "what is the number of interferometers that use wavebands r?",
+      "id": "nt-1256"
+    },
+    {
+      "targetValue": "CHARA Array",
+      "utterance": "which has a limiting magnitude higher than coast visible, chara array or coast infrared?",
+      "id": "nt-4127"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what's the total limiting matitude of coast visible and coast infrared?",
+      "id": "nt-5193"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many interferometers have under 3000 visibility measurements per year?",
+      "id": "nt-5897"
+    },
+    {
+      "targetValue": "SUSI",
+      "utterance": "which interferometer has the highest maximum baseline?",
+      "id": "nt-11618"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the total number of interferometers that have comments stating they are closed?",
+      "id": "nt-13846"
+    }
+  ],
+  "metadata": {
+    "title": "List of astronomical interferometers at visible and infrared wavelengths",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1525551&oldid=584033848",
+    "tableIndex": 0,
+    "hashcode": "50ff72f7bc1778368d2ed37ca381100c4e7c4173",
+    "id": 1525551,
+    "revision": 584033848
+  }
+}

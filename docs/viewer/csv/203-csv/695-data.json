@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "Dreams",
+      "utterance": "which artist had the draw immediately before the song \"count on me\"?",
+      "id": "nt-573"
+    },
+    {
+      "targetValue": "\"If It Means Losing You\"",
+      "utterance": "name one song that did not earn 60 points.",
+      "id": "nt-1011"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "in the irish national final for the eurovision song contest in 1990, how many artists received less than 90 points?",
+      "id": "nt-1150"
+    },
+    {
+      "targetValue": "\"Somewhere In Europe\"",
+      "utterance": "what song received the most points?",
+      "id": "nt-2539"
+    },
+    {
+      "targetValue": [
+        "The Memories",
+        "Fran Meen",
+        "Dreams",
+        "Maggie Toal"
+      ],
+      "utterance": "in the irish national final for the eurovision song contest in 1990, which artists did not receive at least 75 points?",
+      "id": "nt-3193"
+    },
+    {
+      "targetValue": "Linda Martin and Friends",
+      "utterance": "after liam reilly which artist had the next highest point total?",
+      "id": "nt-4464"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many songs had the word \"love\" in the title?",
+      "id": "nt-5588"
+    },
+    {
+      "targetValue": "The Memories",
+      "utterance": "which artist came in last place in the national final?",
+      "id": "nt-8490"
+    },
+    {
+      "targetValue": "Liam Reilly",
+      "utterance": "which artist scored the most points?",
+      "id": "nt-8607"
+    },
+    {
+      "targetValue": "Connor Stevens",
+      "utterance": "in the irish national final for the eurovision song contest in 1990, the artist singing which song received third place?",
+      "id": "nt-9192"
+    },
+    {
+      "targetValue": "\"If It Means Losing You\"",
+      "utterance": "which was the only song to earn less than 60 points?",
+      "id": "nt-11285"
+    },
+    {
+      "targetValue": "Liam Reilly",
+      "utterance": "in the irish national final for the eurovision song contest in 1990, which artist won more points than linda martin and friends?",
+      "id": "nt-12828"
+    }
+  ],
+  "metadata": {
+    "title": "Ireland in the Eurovision Song Contest 1990",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16729685&oldid=545294865",
+    "tableIndex": 0,
+    "hashcode": "80298cbeb6d1271deb70933fbd79948caaba10af",
+    "id": 16729685,
+    "revision": 545294865
+  }
+}

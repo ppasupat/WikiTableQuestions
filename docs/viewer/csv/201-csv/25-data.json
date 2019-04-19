@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Conservative",
+      "utterance": "compare the scottish national party to the conservative and determine which party had their leaders in office for a longer time.",
+      "id": "nt-861"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of years gordon wallace and robert cunning spent in office.",
+      "id": "nt-3707"
+    },
+    {
+      "targetValue": "Scottish National Party",
+      "utterance": "which party had its first leader in 1974 and last leader in 1980?",
+      "id": "nt-4720"
+    },
+    {
+      "targetValue": "Labour",
+      "utterance": "which party has had the most group leaders?",
+      "id": "nt-6770"
+    },
+    {
+      "targetValue": "Independent",
+      "utterance": "which party had only one leader and only a three year office term?",
+      "id": "nt-6831"
+    },
+    {
+      "targetValue": "William Leslie",
+      "utterance": "which leader served more years, william leslie, or joyce shannon?",
+      "id": "nt-7614"
+    },
+    {
+      "targetValue": "Labour",
+      "utterance": "which party has had the most leaders?",
+      "id": "nt-7951"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many group leaders were from the conservative party?",
+      "id": "nt-10951"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many parties had the same leader in office twice?",
+      "id": "nt-11084"
+    }
+  ],
+  "metadata": {
+    "title": "Strathkelvin",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=564160&oldid=550206034",
+    "tableIndex": 1,
+    "hashcode": "ccc76114116aaaaa98ad97c51577b07cb65eea78",
+    "id": 564160,
+    "revision": 550206034
+  }
+}

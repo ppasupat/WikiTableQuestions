@@ -1,0 +1,45 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "how many terms did a republican serve before watkins term?",
+      "id": "nt-859"
+    },
+    {
+      "targetValue": [
+        "Wes Watkins",
+        "Frank Lucas"
+      ],
+      "utterance": "which two republicans took office next to each other on the timeline?",
+      "id": "nt-2189"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the total number of representatives from the democratic party?",
+      "id": "nt-3105"
+    },
+    {
+      "targetValue": "James S. Davenport",
+      "utterance": "which representative was the earliest to take office?",
+      "id": "nt-5539"
+    },
+    {
+      "targetValue": "Wes Watkins",
+      "utterance": "who was the next representative to be elected after carl albert?",
+      "id": "nt-6988"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many past representatives did this district have, not including the current representative?",
+      "id": "nt-10864"
+    }
+  ],
+  "metadata": {
+    "title": "Oklahoma's 3rd congressional district",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7504983&oldid=543418143",
+    "tableIndex": 0,
+    "hashcode": "01371ec23f939bf386fd6f6dcd86288149ef78be",
+    "id": 7504983,
+    "revision": 543418143
+  }
+}

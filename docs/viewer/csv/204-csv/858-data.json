@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "70,097",
+      "utterance": "what was the total attendance at the august 30 game against alabama?",
+      "id": "nt-9887"
+    },
+    {
+      "targetValue": "28234",
+      "utterance": "what is the different between the number of people who attended august 30th and the number of people who attended november 1st",
+      "id": "nt-10495"
+    },
+    {
+      "targetValue": "223,962",
+      "utterance": "what was the total attendance for the tigers' first three games of 2008?",
+      "id": "nt-11073"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many games did the tigers lose in the 2008 season?",
+      "id": "nt-11143"
+    },
+    {
+      "targetValue": "Nebraska",
+      "utterance": "to what teams other than alabama did the tigers lose in 2009?",
+      "id": "nt-11601"
+    },
+    {
+      "targetValue": "The Citadel*",
+      "utterance": "who did the tigers face for their first win of the 2008 season?",
+      "id": "nt-12917"
+    }
+  ],
+  "metadata": {
+    "title": "2008 Clemson Tigers football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15655756&oldid=594408688",
+    "tableIndex": 0,
+    "hashcode": "b8fa7be523ff80911017151508acbcbfd40ba316",
+    "id": 15655756,
+    "revision": 594408688
+  }
+}

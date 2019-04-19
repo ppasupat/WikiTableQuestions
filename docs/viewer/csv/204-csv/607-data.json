@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "3rd",
+      "utterance": "what was the finishing place of the last race in december 2010?",
+      "id": "nt-2936"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of her 2nd place finishes on the list?",
+      "id": "nt-4196"
+    },
+    {
+      "targetValue": "3rd",
+      "utterance": "the final race finishing place was not 1st but what other place?",
+      "id": "nt-4844"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many races were in 2010?",
+      "id": "nt-7838"
+    },
+    {
+      "targetValue": "1st",
+      "utterance": "aspen and lienz in 2009 are the only races where this racer got what position?",
+      "id": "nt-8838"
+    },
+    {
+      "targetValue": "Aspen, USA",
+      "utterance": "where was her first win?",
+      "id": "nt-9631"
+    },
+    {
+      "targetValue": "Aspen",
+      "utterance": "what is the only location in the us?",
+      "id": "nt-10687"
+    }
+  ],
+  "metadata": {
+    "title": "Kathrin Hölzl",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14045679&oldid=600551425",
+    "tableIndex": 2,
+    "hashcode": "c9d263b4873ed765b5bda1ebaf39c7a716cdf573",
+    "id": 14045679,
+    "revision": 600551425
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "United States lightship LV-72",
+      "utterance": "what was the name of the ship that was built after the jule in this yard?",
+      "id": "nt-222"
+    },
+    {
+      "targetValue": "USS Lawrence (DD-8)",
+      "utterance": "tell me one that was not built as a yatch.",
+      "id": "nt-496"
+    },
+    {
+      "targetValue": "USS Lawrence (DD-8)",
+      "utterance": "which bainbridge class destroyer was launched before december 1900?",
+      "id": "nt-1921"
+    },
+    {
+      "targetValue": "USS Lawrence (DD-8)",
+      "utterance": "which was delivered earlier, uss lawrence or uss macdonough?",
+      "id": "nt-2468"
+    },
+    {
+      "targetValue": "Lyman",
+      "utterance": "who is the first owner listed in the top portion of the table?",
+      "id": "nt-2904"
+    },
+    {
+      "targetValue": "United States lightship LV-72",
+      "utterance": "what is the only ship in this yard to be built as a lightvessel?",
+      "id": "nt-4965"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "tell me the total number that were laid down on an unknown date.",
+      "id": "nt-7655"
+    },
+    {
+      "targetValue": "Sally",
+      "utterance": "what name is above caprice?",
+      "id": "nt-9479"
+    },
+    {
+      "targetValue": "Sally",
+      "utterance": "what was the name of the previous ship built before the caprice in this yard?",
+      "id": "nt-12281"
+    },
+    {
+      "targetValue": "Eleanor",
+      "utterance": "what was the only yacht owned by clapp?",
+      "id": "nt-12378"
+    }
+  ],
+  "metadata": {
+    "title": "List of ships built at the Fore River Shipyard",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41438214&oldid=594011016",
+    "tableIndex": 0,
+    "hashcode": "0b052a382411817222d23abd2f2ae2f8a152608a",
+    "id": 41438214,
+    "revision": 594011016
+  }
+}

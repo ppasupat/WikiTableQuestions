@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "1986",
+      "utterance": "what was the last year that no competition was held at the australian open?",
+      "id": "nt-2804"
+    },
+    {
+      "targetValue": "Serena Williams",
+      "utterance": "who has won more championships, serena williams or lisa raymond?",
+      "id": "nt-4594"
+    },
+    {
+      "targetValue": "Lili de Alvarez",
+      "utterance": "who was the only spanish tennis player to win during 1929?",
+      "id": "nt-4979"
+    },
+    {
+      "targetValue": "Australian Open",
+      "utterance": "which tennis tournament did doris hart not win in 1951-1953?",
+      "id": "nt-7678"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive australian open's did esna boyd robertson win?",
+      "id": "nt-8208"
+    },
+    {
+      "targetValue": "South Africa",
+      "utterance": "what other country was represented during 1927 other than australia, united states and great britain?",
+      "id": "nt-8215"
+    },
+    {
+      "targetValue": "1922",
+      "utterance": "what is the first year of the australian open?",
+      "id": "nt-10372"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times has a team with only chinese players won a championship?",
+      "id": "nt-10768"
+    },
+    {
+      "targetValue": "79",
+      "utterance": "how many times has the u.s. open be won by an all american team?",
+      "id": "nt-11217"
+    }
+  ],
+  "metadata": {
+    "title": "List of Grand Slam women's doubles champions",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2153148&oldid=592147272",
+    "tableIndex": 0,
+    "hashcode": "c511ccaf292291cb48b46a7dd6cff5ce1ba83b85",
+    "id": 2153148,
+    "revision": 592147272
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "1999",
+      "utterance": "which year was the competition held in the same country as in 1992?",
+      "id": "nt-700"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did imamura place at least 5th?",
+      "id": "nt-1160"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many world championships did imamura participate in?",
+      "id": "nt-2043"
+    },
+    {
+      "targetValue": "1994",
+      "utterance": "what year did the first asian games take place?",
+      "id": "nt-2981"
+    },
+    {
+      "targetValue": "12th",
+      "utterance": "what position did this racer finish at his only world race walking cup competition?",
+      "id": "nt-3407"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times did fumio place in the top ten?",
+      "id": "nt-5402"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times has this racer finished below 20th position?",
+      "id": "nt-5474"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many olympic games occurred after 1992?",
+      "id": "nt-6913"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many world championships were held previous to the world championships in 2001?",
+      "id": "nt-8833"
+    },
+    {
+      "targetValue": [
+        "1994",
+        "1998"
+      ],
+      "utterance": "in which years did fumio finish 3rd and 2nd?",
+      "id": "nt-10318"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many total races has this racer competed in?",
+      "id": "nt-10330"
+    }
+  ],
+  "metadata": {
+    "title": "Fumio Imamura",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21965601&oldid=545599995",
+    "tableIndex": 0,
+    "hashcode": "99158bf05d59ade62dd0a97120214de68448e145",
+    "id": 21965601,
+    "revision": 545599995
+  }
+}

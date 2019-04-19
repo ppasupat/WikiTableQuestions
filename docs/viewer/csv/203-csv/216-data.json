@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "33",
+      "utterance": "how many more general acute care hospitals are there in california than rehabilitation hospitals?",
+      "id": "nt-450"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many hospital's have at least 600 beds?",
+      "id": "nt-3465"
+    },
+    {
+      "targetValue": "General Acute Care",
+      "utterance": "which type of hospitals are the same as grossmont hospital?",
+      "id": "nt-4128"
+    },
+    {
+      "targetValue": [
+        "Laguna Honda Hospital Rehabilitation Center",
+        "Atascadero State Hospital"
+      ],
+      "utterance": "what two hospitals holding consecutive rankings of 8 and 9 respectively, both provide 1200 hospital beds?",
+      "id": "nt-7486"
+    },
+    {
+      "targetValue": "1071",
+      "utterance": "how much larger (in number of beds) was the largest hospital in california than the 50th largest?",
+      "id": "nt-8183"
+    },
+    {
+      "targetValue": "Lanterman Developmental Center",
+      "utterance": "what hospital in los angeles county providing hospital beds specifically for rehabilitation is ranked at least among the top 10 hospitals?",
+      "id": "nt-10878"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "does patton state hospital in the city of patton in san bernardino county have more mental health hospital beds than atascadero state hospital in atascadero, san luis obispo county?",
+      "id": "nt-11034"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many hospitals have at least 1,000 beds?",
+      "id": "nt-11538"
+    }
+  ],
+  "metadata": {
+    "title": "List of hospitals in California",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=379362&oldid=602497428",
+    "tableIndex": 0,
+    "hashcode": "d8b6e56619a23ebe3a4ddf66f019087e13c375e8",
+    "id": 379362,
+    "revision": 602497428
+  }
+}

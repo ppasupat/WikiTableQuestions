@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "how many institutions are non-denominational or non-sectarian?",
+      "id": "nt-1678"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "are there more private affiliations than presbyterian affiliations?",
+      "id": "nt-2938"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many institutions have a private historical affiliation?",
+      "id": "nt-4915"
+    },
+    {
+      "targetValue": "Quinnipiac University",
+      "utterance": "which institution was founded last?",
+      "id": "nt-5150"
+    },
+    {
+      "targetValue": "Cornell University",
+      "utterance": "what college has the top enrollment?",
+      "id": "nt-5550"
+    },
+    {
+      "targetValue": "Cornell University",
+      "utterance": "which college has the largest non-sectarian enrollment",
+      "id": "nt-6337"
+    },
+    {
+      "targetValue": "9,844",
+      "utterance": "what is the total enrollment when you add brown university and union college?",
+      "id": "nt-6921"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what are the number of ivy league institutions?",
+      "id": "nt-7175"
+    },
+    {
+      "targetValue": "Cornell University",
+      "utterance": "which institution has the most enrollment?",
+      "id": "nt-8240"
+    },
+    {
+      "targetValue": "Quinnipiac University",
+      "utterance": "which college was the last to be founded.",
+      "id": "nt-13084"
+    },
+    {
+      "targetValue": "St. Lawrence",
+      "utterance": "which college had the saints as their nickname?",
+      "id": "nt-13683"
+    }
+  ],
+  "metadata": {
+    "title": "ECAC Hockey",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=579089&oldid=601905018",
+    "tableIndex": 0,
+    "hashcode": "ad338c7f31535009249bbaebc72ae1eff69d452b",
+    "id": 579089,
+    "revision": 601905018
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "11",
+      "utterance": "total number of encyclicals on churches .",
+      "id": "nt-1020"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "in the first 10 years of his reign, how many encyclicals did pope pius ix issue?",
+      "id": "nt-4073"
+    },
+    {
+      "targetValue": "5 August 1871",
+      "utterance": "date of the last encyclical whose subject contained the word \"pontificate\"",
+      "id": "nt-4329"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how often was an encyclical sent in january?",
+      "id": "nt-7295"
+    },
+    {
+      "targetValue": "38",
+      "utterance": "what is the total number of title?",
+      "id": "nt-8475"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many encyclicals were issued between august 15, 1854 and october 26, 1867?",
+      "id": "nt-8479"
+    },
+    {
+      "targetValue": "Incredibili",
+      "utterance": "latin title of the encyclical before the encyclical with the subject \"on the church in bavaria\"",
+      "id": "nt-8971"
+    },
+    {
+      "targetValue": "On the Church in the Papal States",
+      "utterance": "what is the previous subject after on the effects of the jubilee?",
+      "id": "nt-9634"
+    },
+    {
+      "targetValue": "Graves Ac Diuturnae",
+      "utterance": "what is the last title?",
+      "id": "nt-11559"
+    },
+    {
+      "targetValue": "38",
+      "utterance": "how many subjects are there?",
+      "id": "nt-11778"
+    }
+  ],
+  "metadata": {
+    "title": "List of encyclicals of Pope Pius IX",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6319030&oldid=541758715",
+    "tableIndex": 0,
+    "hashcode": "70bfcf9b63b8c40b6288de211feb72ffd889b4e2",
+    "id": 6319030,
+    "revision": 541758715
+  }
+}

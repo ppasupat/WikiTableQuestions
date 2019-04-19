@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "10",
+      "utterance": "how many films are there in total?",
+      "id": "nt-1487"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many times has he been either a producer or director?",
+      "id": "nt-3219"
+    },
+    {
+      "targetValue": "New York Doll",
+      "utterance": "what was the earliest film released?",
+      "id": "nt-3243"
+    },
+    {
+      "targetValue": "Freakonomics",
+      "utterance": "what is the only film for which seth was director and screenwriter?",
+      "id": "nt-6107"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the difference in years between cry wolf and four christmases?",
+      "id": "nt-7278"
+    },
+    {
+      "targetValue": "Undefeated",
+      "utterance": "which was released in 2011, undefeated or freakonomics?",
+      "id": "nt-7523"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "after 2008 how many films did he help make?",
+      "id": "nt-8685"
+    },
+    {
+      "targetValue": "The King of Kong: A Fistful of Quarters",
+      "utterance": "what did seth produce next, after cry wolf?",
+      "id": "nt-10091"
+    },
+    {
+      "targetValue": "Example",
+      "utterance": "what is the role listed after cameo appearance?",
+      "id": "nt-14123"
+    }
+  ],
+  "metadata": {
+    "title": "Seth Gordon",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=23400649&oldid=594139105",
+    "tableIndex": 0,
+    "hashcode": "53d0758c86d8c080557d7356c89d6b400c8a17cd",
+    "id": 23400649,
+    "revision": 594139105
+  }
+}

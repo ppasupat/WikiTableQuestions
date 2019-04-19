@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Australian Open",
+      "utterance": "did he win more at the australian open or indian wells?",
+      "id": "nt-347"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "in what year did fabrice santoro make his last grand slam appearance?",
+      "id": "nt-5288"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many other grand slams are there besides wimbledon and the us open?",
+      "id": "nt-6768"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many grand slam events are there?",
+      "id": "nt-9090"
+    },
+    {
+      "targetValue": "Australian Open",
+      "utterance": "what was the only grand slam where fabrice santoro reached as far as a quarterfinal?",
+      "id": "nt-9818"
+    },
+    {
+      "targetValue": "French Open",
+      "utterance": "what grand slam is after the australian open?",
+      "id": "nt-9975"
+    }
+  ],
+  "metadata": {
+    "title": "Fabrice Santoro",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1978564&oldid=587554384",
+    "tableIndex": 9,
+    "hashcode": "3ac20033254ac84832ff088bf53bb846892f9ba9",
+    "id": 1978564,
+    "revision": 587554384
+  }
+}

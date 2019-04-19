@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "McCain",
+      "utterance": "who has more votes in butler county, obama or mccain?",
+      "id": "nt-499"
+    },
+    {
+      "targetValue": "80",
+      "utterance": "how many counties had at least 35% or more listed under the obama column?",
+      "id": "nt-2911"
+    },
+    {
+      "targetValue": "36,849",
+      "utterance": "how many voters did mccain have in boone county?",
+      "id": "nt-5456"
+    },
+    {
+      "targetValue": "21,847",
+      "utterance": "what was the total listed for camden county?",
+      "id": "nt-10903"
+    },
+    {
+      "targetValue": "Benton",
+      "utterance": "who has the lowest total, barry county or benton county?",
+      "id": "nt-11570"
+    },
+    {
+      "targetValue": "2130",
+      "utterance": "what is the difference between the obama# and mccain# in benton county?",
+      "id": "nt-11572"
+    },
+    {
+      "targetValue": "Worth",
+      "utterance": "which county did mccain have the least amount of votes?",
+      "id": "nt-11692"
+    },
+    {
+      "targetValue": "123",
+      "utterance": "how many votes did obama win by in iron county?",
+      "id": "nt-12627"
+    }
+  ],
+  "metadata": {
+    "title": "United States presidential election in Missouri, 2008",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16223328&oldid=590099605",
+    "tableIndex": 1,
+    "hashcode": "8af47c3f6ec27527accfafe20f8d9f8b9905bd64",
+    "id": 16223328,
+    "revision": 590099605
+  }
+}

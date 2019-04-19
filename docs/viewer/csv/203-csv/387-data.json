@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Cathedral of Christ the King",
+      "utterance": "which church had more weekly collections; cathedral of christ the king, or saint brigid catholic church?",
+      "id": "nt-1331"
+    },
+    {
+      "targetValue": "Atlanta",
+      "utterance": "in what city was each parish established in 1964 located?",
+      "id": "nt-1520"
+    },
+    {
+      "targetValue": "134 years",
+      "utterance": "how long has sacred heart basilica been established?",
+      "id": "nt-3547"
+    },
+    {
+      "targetValue": "Saint Brigid Catholic Church",
+      "utterance": "which church not in atlanta has weekly collections in excess of $25,000?",
+      "id": "nt-5495"
+    },
+    {
+      "targetValue": "Saint Paul of The Cross Catholic Church",
+      "utterance": "our lady of the assumption catholic church started the same year as what church?",
+      "id": "nt-6259"
+    },
+    {
+      "targetValue": "1936",
+      "utterance": "in what year was the parish established for the only cathedral?",
+      "id": "nt-6528"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many different cities are the listed churches in?",
+      "id": "nt-9706"
+    },
+    {
+      "targetValue": "$66,000",
+      "utterance": "how much more are the weekly collections from cathedral of christ the king than most blessed sacrament catholic church?",
+      "id": "nt-12463"
+    }
+  ],
+  "metadata": {
+    "title": "List of Roman Catholic churches in the Archdiocese of Atlanta",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4617588&oldid=592601154",
+    "tableIndex": 0,
+    "hashcode": "cf124766699a473aaf4740a192d15b27edf35dfc",
+    "id": 4617588,
+    "revision": 592601154
+  }
+}

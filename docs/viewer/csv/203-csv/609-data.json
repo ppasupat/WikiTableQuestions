@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "true",
+      "utterance": "any person can petition matters 2 and 17. true or false?",
+      "id": "nt-1512"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many matters require at least one tenth of the existing representatives or senators?",
+      "id": "nt-1633"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many matters have political party as their \"type\"?",
+      "id": "nt-8804"
+    }
+  ],
+  "metadata": {
+    "title": "Constitutional Court of Thailand",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6967691&oldid=596587726",
+    "tableIndex": 0,
+    "hashcode": "ecef31236fabcbc1690296a36442992e7a1ff5de",
+    "id": 6967691,
+    "revision": 596587726
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "examples": [
+    {
+      "targetValue": "Wilbert Pennings",
+      "utterance": "who is above martyn bernard",
+      "id": "nt-3266"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "what is the number of nationalities listed in the table?",
+      "id": "nt-4157"
+    },
+    {
+      "targetValue": "Yaroslav Rybakov",
+      "utterance": "which name is listed below niki palli?",
+      "id": "nt-4802"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many high jumpers had a result of 2.19?",
+      "id": "nt-5100"
+    },
+    {
+      "targetValue": [
+        "Oskari Frösén",
+        "Stefan Holm",
+        "Svatoslav Ton",
+        "Yaroslav Rybakov",
+        "Giulio Ciotti",
+        "Wilbert Pennings",
+        "Peter Horák",
+        "Normunds Pūpols",
+        "Rožle Prezelj",
+        "Andriy Sokolovskyy",
+        "Mickaël Hanany",
+        "Javier Bermejo",
+        "Adam Scarr"
+      ],
+      "utterance": "which names are not in group a?",
+      "id": "nt-5724"
+    },
+    {
+      "targetValue": "Jan-Peter Larsen",
+      "utterance": "who is the only high jumper to have a result of 2.05?",
+      "id": "nt-7202"
+    },
+    {
+      "targetValue": "Andrea Bettinelli",
+      "utterance": "who is the next person listed after ivan ukhov?",
+      "id": "nt-10957"
+    },
+    {
+      "targetValue": "United Kingdom",
+      "utterance": "what is the last nationality listed in the table?",
+      "id": "nt-11046"
+    },
+    {
+      "targetValue": "Czech Republic",
+      "utterance": "what is the nationality of the performer listed before niki palli?",
+      "id": "nt-11141"
+    }
+  ],
+  "metadata": {
+    "title": "2006 European Athletics Championships – Men's high jump",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=27711172&oldid=599492170",
+    "tableIndex": 2,
+    "hashcode": "0df0113cfc1daf20cd8434c7e2b7436ca80aac3b",
+    "id": 27711172,
+    "revision": 599492170
+  }
+}

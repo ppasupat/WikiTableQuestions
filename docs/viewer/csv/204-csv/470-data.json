@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Kilkenny",
+      "utterance": "which country had the most wins?",
+      "id": "nt-1561"
+    },
+    {
+      "targetValue": "St. Rynagh's",
+      "utterance": "james stephens won in 1976-76. who won three years before that?",
+      "id": "nt-2440"
+    },
+    {
+      "targetValue": "Kilcormac/Killoughey",
+      "utterance": "which winner is next to mount leinster rangers?",
+      "id": "nt-10155"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive years did rathnure win?",
+      "id": "nt-10482"
+    },
+    {
+      "targetValue": "2007-08",
+      "utterance": "what was the last season the leinster senior club hurling championships was won by a score differential of less than 11?",
+      "id": "nt-11129"
+    },
+    {
+      "targetValue": "Ballyhale Shamrocks",
+      "utterance": "which team won the leinster senior club hurling championships previous to the last time birr won?",
+      "id": "nt-13047"
+    }
+  ],
+  "metadata": {
+    "title": "Leinster Senior Club Hurling Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7501228&oldid=584366139",
+    "tableIndex": 1,
+    "hashcode": "454afbffbbe097874b96b853944f77ce6f5fdb2d",
+    "id": 7501228,
+    "revision": 584366139
+  }
+}

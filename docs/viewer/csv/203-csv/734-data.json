@@ -1,0 +1,76 @@
+{
+  "examples": [
+    {
+      "targetValue": "2003 World Championships",
+      "utterance": "of those listed, which had the fastest time?",
+      "id": "nt-784"
+    },
+    {
+      "targetValue": "2005",
+      "utterance": "what was the last year that had an achievement listed?",
+      "id": "nt-1099"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many placed did lorenzo improve between his edmonton and beijing competition?",
+      "id": "nt-2927"
+    },
+    {
+      "targetValue": "World Championships",
+      "utterance": "which competition comes after the french venue?",
+      "id": "nt-3369"
+    },
+    {
+      "targetValue": [
+        "1999",
+        "2003",
+        "2005"
+      ],
+      "utterance": "in which years did civallero only have one achievement?",
+      "id": "nt-5946"
+    },
+    {
+      "targetValue": "2001",
+      "utterance": "in what year did lorenzo take first place?",
+      "id": "nt-6479"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of times that the competition is listed as \"world championships\"?",
+      "id": "nt-7193"
+    },
+    {
+      "targetValue": "2005",
+      "utterance": "in what year was lorenzo's latest competition?",
+      "id": "nt-9055"
+    },
+    {
+      "targetValue": "Universiade",
+      "utterance": "what competition is lorenzo's top position in?",
+      "id": "nt-9165"
+    },
+    {
+      "targetValue": "World Championships",
+      "utterance": "which had the least amount of time?",
+      "id": "nt-9461"
+    },
+    {
+      "targetValue": "2001",
+      "utterance": "what was the only year that a competition was held in china?",
+      "id": "nt-12038"
+    },
+    {
+      "targetValue": "1999",
+      "utterance": "in what year was civallero's first listed achievement?",
+      "id": "nt-13168"
+    }
+  ],
+  "metadata": {
+    "title": "Lorenzo Civallero",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8231887&oldid=537357895",
+    "tableIndex": 0,
+    "hashcode": "7c386753f2539dd9df0bc915cad527504c4cef0d",
+    "id": 8231887,
+    "revision": 537357895
+  }
+}

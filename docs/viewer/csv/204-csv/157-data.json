@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many games were only won by 20 points or less?",
+      "id": "nt-171"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many games did the irish win by at least 30 points?",
+      "id": "nt-1132"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the highest number of consecutive wins that the fighting irish had in the 1946 season?",
+      "id": "nt-3968"
+    },
+    {
+      "targetValue": "123",
+      "utterance": "how many total points did the fighting irish score in october 1946?",
+      "id": "nt-3981"
+    },
+    {
+      "targetValue": "Tulane",
+      "utterance": "october 26, 1946 notre dame scores 41 points faints iowa. what other team did nd score 41 points against?",
+      "id": "nt-4135"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many consecutive wins did nd have before the tie against army?",
+      "id": "nt-4659"
+    },
+    {
+      "targetValue": "W 26-6",
+      "utterance": "what is the combined result on 9/28?",
+      "id": "nt-11422"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "in how many games did notre dame win and the opponent scored zero points?",
+      "id": "nt-12041"
+    },
+    {
+      "targetValue": "Purdue",
+      "utterance": "name one team below rank 2",
+      "id": "nt-12587"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many schedule entries are there?",
+      "id": "nt-12767"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "in how many stadiums other than notre dam stadium did the fighting irish play in during the 1946 season?",
+      "id": "nt-13159"
+    },
+    {
+      "targetValue": "ranked",
+      "utterance": "did the fighting irish score more on average when they were ranked or when they were unranked?",
+      "id": "nt-14027"
+    }
+  ],
+  "metadata": {
+    "title": "1946 Notre Dame Fighting Irish football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20900384&oldid=596931319",
+    "tableIndex": 0,
+    "hashcode": "9ab45076f01314054fb5cde47c87b40d8fcff611",
+    "id": 20900384,
+    "revision": 596931319
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Tom Kiley",
+      "utterance": "what is the name of the first jockey on this chart?",
+      "id": "nt-187"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many horses finished the rase?",
+      "id": "nt-328"
+    },
+    {
+      "targetValue": "Spokane",
+      "utterance": "who came in first?",
+      "id": "nt-646"
+    },
+    {
+      "targetValue": "Spokane",
+      "utterance": "who finished earlier, hindoocraft or spokane?",
+      "id": "nt-1218"
+    },
+    {
+      "targetValue": "Bootmaker",
+      "utterance": "what is the name of the horse after outbound?",
+      "id": "nt-1914"
+    },
+    {
+      "targetValue": "Milton Young",
+      "utterance": "whose horse performed better beverwyck stable's or milton youngs?",
+      "id": "nt-6220"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the total number of trainers listed?",
+      "id": "nt-7787"
+    },
+    {
+      "targetValue": "Scoggan Bros.",
+      "utterance": "who is the next owner listed after milton young?",
+      "id": "nt-7872"
+    },
+    {
+      "targetValue": "Hindoocraft",
+      "utterance": "name the horse that finished three spots before outbound.",
+      "id": "nt-7993"
+    },
+    {
+      "targetValue": "Bootmaker",
+      "utterance": "which was the last horse to finish?",
+      "id": "nt-9095"
+    },
+    {
+      "targetValue": "2:34.50",
+      "utterance": "how long did spokane take to finish the race?",
+      "id": "nt-11925"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many of the owners names include the word \"stable\"?",
+      "id": "nt-12406"
+    }
+  ],
+  "metadata": {
+    "title": "1889 Kentucky Derby",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=29029333&oldid=441891151",
+    "tableIndex": 0,
+    "hashcode": "7dad4c23578c7445e879f97f6ed7fe3704a1e9b1",
+    "id": 29029333,
+    "revision": 441891151
+  }
+}

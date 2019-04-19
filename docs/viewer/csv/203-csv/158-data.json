@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "November 21",
+      "utterance": "which game did the opponent score only 7 points?",
+      "id": "nt-2732"
+    },
+    {
+      "targetValue": "New Mexico",
+      "utterance": "against what opponent did utah score the largest amount of points?",
+      "id": "nt-3151"
+    },
+    {
+      "targetValue": "18,736",
+      "utterance": "what is the difference in attendance on november 7th and october 17th?",
+      "id": "nt-3769"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many games had an attendance of 50,000 or greater fans?",
+      "id": "nt-4415"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the number of games won for the 2009 utah utes football team?",
+      "id": "nt-5528"
+    },
+    {
+      "targetValue": "December 23",
+      "utterance": "when was the last 2009 utah utes football game?",
+      "id": "nt-8597"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "the total number of losses at home.",
+      "id": "nt-11027"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many games did each team score over 20 points?",
+      "id": "nt-11774"
+    },
+    {
+      "targetValue": "away",
+      "utterance": "was the first loss of the season at home or away?",
+      "id": "nt-12875"
+    },
+    {
+      "targetValue": "September 3",
+      "utterance": "when was the first game for the 2009 utah utes football team?",
+      "id": "nt-14091"
+    }
+  ],
+  "metadata": {
+    "title": "2009 Utah Utes football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21200806&oldid=580762614",
+    "tableIndex": 1,
+    "hashcode": "d712ded89ea5a4d3d22074fc0188045dd9e3384e",
+    "id": 21200806,
+    "revision": 580762614
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Don Randall",
+      "utterance": "what member comes next after hon trish worth?",
+      "id": "nt-842"
+    },
+    {
+      "targetValue": "00.4",
+      "utterance": "what was the total majority that the dobell seat had?",
+      "id": "nt-2000"
+    },
+    {
+      "targetValue": "01.9",
+      "utterance": "what is the difference in majority between hindmarsh and hinkler?",
+      "id": "nt-2405"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many states were represented in the seats?",
+      "id": "nt-2663"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "tell me the number of seats from nsw?",
+      "id": "nt-4917"
+    },
+    {
+      "targetValue": "HINDMARSH",
+      "utterance": "what is the name of the last seat?",
+      "id": "nt-9416"
+    },
+    {
+      "targetValue": "Hon Trish Worth",
+      "utterance": "who is listed before don randall?",
+      "id": "nt-10481"
+    },
+    {
+      "targetValue": "Lib",
+      "utterance": "what party had the most seats?",
+      "id": "nt-10927"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many members in total?",
+      "id": "nt-11182"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what is the total of seats?",
+      "id": "nt-12727"
+    },
+    {
+      "targetValue": "Vic",
+      "utterance": "was fran bailey from vic or wa?",
+      "id": "nt-13185"
+    }
+  ],
+  "metadata": {
+    "title": "Electoral system of Australia",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=318313&oldid=600109004",
+    "tableIndex": 0,
+    "hashcode": "e6ba6959517905ecc8a4ed75c2a0ba05b673798b",
+    "id": 318313,
+    "revision": 600109004
+  }
+}

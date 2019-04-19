@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many nations have set the record more than the united states?",
+      "id": "nt-733"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the difference between the number of times the record has been set by the czech republic and the number of times the record has been set by china?",
+      "id": "nt-3109"
+    },
+    {
+      "targetValue": [
+        "Sun Caiyun",
+        "Zhong Guiqing"
+      ],
+      "utterance": "which other athlete with the same record 4.08m (13ft. 4 1/2in",
+      "id": "nt-4539"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "which nation has set the record the most times?",
+      "id": "nt-4855"
+    },
+    {
+      "targetValue": "Stacy Dragila",
+      "utterance": "who was the next record holder after emma george won held it in 1999?",
+      "id": "nt-6399"
+    },
+    {
+      "targetValue": "3 years",
+      "utterance": "how long did sun caiyun hold her record position for pole vaulting?",
+      "id": "nt-6437"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many records does australia hold for pole vaulting?",
+      "id": "nt-9962"
+    },
+    {
+      "targetValue": "Germany",
+      "utterance": "which country is the only one to have only one record holder for pole vaulting?",
+      "id": "nt-11315"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many consecutive records has stacy dragila held",
+      "id": "nt-11923"
+    }
+  ],
+  "metadata": {
+    "title": "Women's pole vault world record progression",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1579780&oldid=578042105",
+    "tableIndex": 0,
+    "hashcode": "8ce4b50d25b5313a878199b1c5790f3dd6cec553",
+    "id": 1579780,
+    "revision": 578042105
+  }
+}

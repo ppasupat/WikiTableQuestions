@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "number of state senators first elected in 2002",
+      "id": "nt-1080"
+    },
+    {
+      "targetValue": "David Valesky",
+      "utterance": "only state senator who caucuses with idc whose last name ends in 'v'",
+      "id": "nt-1402"
+    },
+    {
+      "targetValue": "10 years",
+      "utterance": "how long after farley was seward elected?",
+      "id": "nt-3683"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "have at least 5 democrats from brooklyn been elected?",
+      "id": "nt-7180"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "do the republicans have the same number of elected officials as democrats?",
+      "id": "nt-7398"
+    },
+    {
+      "targetValue": "32",
+      "utterance": "what is the total number of democrats on this list?",
+      "id": "nt-7694"
+    },
+    {
+      "targetValue": "Timothy M. Kennedy",
+      "utterance": "who was the last sentor from erie?",
+      "id": "nt-8111"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the number of republicans elected in 2010?",
+      "id": "nt-9585"
+    },
+    {
+      "targetValue": "Democratic",
+      "utterance": "which party has the most members?",
+      "id": "nt-11079"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many republicans were elected after 2000?",
+      "id": "nt-13279"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many counties have elected at least 10 democrats?",
+      "id": "nt-13524"
+    }
+  ],
+  "metadata": {
+    "title": "List of New York State Senators",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=659782&oldid=588839963",
+    "tableIndex": 2,
+    "hashcode": "a072f99d49523de29c4ed5ee178ad29fac1be990",
+    "id": 659782,
+    "revision": 588839963
+  }
+}

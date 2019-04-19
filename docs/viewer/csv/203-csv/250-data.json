@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "Abell 3202",
+      "utterance": "name the member with the highest apparent magnitude.",
+      "id": "nt-1627"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what number of \"irregular\" types are there?",
+      "id": "nt-9435"
+    }
+  ],
+  "metadata": {
+    "title": "Dorado Group",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18156552&oldid=601543990",
+    "tableIndex": 1,
+    "hashcode": "6b53d7f5b0fe77c2116ed27b8eb13a3dcb4451a6",
+    "id": 18156552,
+    "revision": 601543990
+  }
+}

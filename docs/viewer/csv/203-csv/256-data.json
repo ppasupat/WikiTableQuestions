@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "Harlequins RL",
+      "utterance": "which home team scored the most points?",
+      "id": "nt-4050"
+    },
+    {
+      "targetValue": "13,313",
+      "utterance": "how many people attended the harlequins rl vs hull game?",
+      "id": "nt-5565"
+    },
+    {
+      "targetValue": "Wigan Warriors",
+      "utterance": "which team first won the first round?",
+      "id": "nt-9516"
+    }
+  ],
+  "metadata": {
+    "title": "2008 Harlequins Rugby League season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15700008&oldid=583478341",
+    "tableIndex": 2,
+    "hashcode": "9def456302eb7378dcccef24f6be6c601a7ca60b",
+    "id": 15700008,
+    "revision": 583478341
+  }
+}

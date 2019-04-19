@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "22",
+      "utterance": "what was the number of events she took place in?",
+      "id": "nt-2576"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many first place victories did the runner have?",
+      "id": "nt-5526"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how long did this runner compete in years?",
+      "id": "nt-8314"
+    },
+    {
+      "targetValue": "2000 Olympic Games",
+      "utterance": "other than the 1996 world junior championships, name a competition held in australia.",
+      "id": "nt-9449"
+    },
+    {
+      "targetValue": "1999",
+      "utterance": "name a year he placed at least 2nd in two competitions.",
+      "id": "nt-9744"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "how many total events did she take place in?",
+      "id": "nt-13141"
+    },
+    {
+      "targetValue": "23.26",
+      "utterance": "before the 2000 olympic games what was johanna's fastest 200m time?",
+      "id": "nt-13333"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "how many times did the runner finish below 10th place?",
+      "id": "nt-13679"
+    }
+  ],
+  "metadata": {
+    "title": "Johanna Manninen",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36984745&oldid=542666885",
+    "tableIndex": 0,
+    "hashcode": "ba26b6d555eeedbdbc82a06fcacdd35d4a206a01",
+    "id": 36984745,
+    "revision": 542666885
+  }
+}

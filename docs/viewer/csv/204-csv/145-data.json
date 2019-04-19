@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many of the listed senators were at least 90 years old when they died?",
+      "id": "nt-244"
+    },
+    {
+      "targetValue": "Democratic",
+      "utterance": "which party has the highest number of deaths?",
+      "id": "nt-1879"
+    },
+    {
+      "targetValue": "Charles Goodell",
+      "utterance": "who was the first death in the republican party?",
+      "id": "nt-3872"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "how many deaths did the democratic party have in 1987?",
+      "id": "nt-3980"
+    },
+    {
+      "targetValue": "41",
+      "utterance": "how long did william r. poage serve in texas?",
+      "id": "nt-4931"
+    },
+    {
+      "targetValue": "Sala Burton",
+      "utterance": "who died first: sala burton or harold earthman?",
+      "id": "nt-5919"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "was harold earthman more or less than 79 years of age?",
+      "id": "nt-6767"
+    },
+    {
+      "targetValue": "79",
+      "utterance": "what was the average age of the first three on the list?",
+      "id": "nt-6869"
+    },
+    {
+      "targetValue": "41",
+      "utterance": "how many years did william r poage serve?",
+      "id": "nt-7267"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many districts did charles goodell serve in?",
+      "id": "nt-10558"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how man total democrats died in office?",
+      "id": "nt-10780"
+    },
+    {
+      "targetValue": "4 years",
+      "utterance": "how long did sala burton serve?",
+      "id": "nt-12165"
+    },
+    {
+      "targetValue": "LaFayette L. Patterson",
+      "utterance": "which senator listed was the oldest when he died?",
+      "id": "nt-13249"
+    }
+  ],
+  "metadata": {
+    "title": "List of members of the United States House of Representatives who died in 1987",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36509163&oldid=593203385",
+    "tableIndex": 0,
+    "hashcode": "a6547263c77b70e32d21a37338127d39b12d411a",
+    "id": 36509163,
+    "revision": 593203385
+  }
+}

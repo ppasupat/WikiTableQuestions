@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "22",
+      "utterance": "how many districts are there in virginia?",
+      "id": "nt-64"
+    },
+    {
+      "targetValue": "William McCoy",
+      "utterance": "name the only candidate that was first elected in 1811.",
+      "id": "nt-2514"
+    },
+    {
+      "targetValue": "Arthur Smith",
+      "utterance": "which jacksonian candidates got at least 76% of the vote in their races?",
+      "id": "nt-2975"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "number of incumbents who retired or lost re-election",
+      "id": "nt-4248"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "what are the number of times re-elected is listed as the result?",
+      "id": "nt-4740"
+    },
+    {
+      "targetValue": "Crawford Republican",
+      "utterance": "what is the last party on this chart?",
+      "id": "nt-6221"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many candidates were there for virginia 17 district?",
+      "id": "nt-7331"
+    },
+    {
+      "targetValue": "George Tucker",
+      "utterance": "who was the next incumbent after john randolph?",
+      "id": "nt-7509"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "tell me the number of people first elected in 1817.",
+      "id": "nt-10464"
+    }
+  ],
+  "metadata": {
+    "title": "United States House of Representatives elections, 1824",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2668264&oldid=577525015",
+    "tableIndex": 24,
+    "hashcode": "fe471bb93a8e004bf0b0131550320befcfb50709",
+    "id": 2668264,
+    "revision": 577525015
+  }
+}

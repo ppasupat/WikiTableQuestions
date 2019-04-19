@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "Yes",
+      "utterance": "is the order of bardney abbey the same as abingdon abbey?",
+      "id": "nt-5955"
+    },
+    {
+      "targetValue": "Barking Abbey",
+      "utterance": "name an abbey located in greater london county.",
+      "id": "nt-8928"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "what's the difference in year dissolved between abingdon abbey and bardsey abbey?",
+      "id": "nt-9829"
+    },
+    {
+      "targetValue": "Basingwerk Abbey",
+      "utterance": "which abbey is cistercian order, bath abbey or basingwerk abbey?",
+      "id": "nt-10287"
+    },
+    {
+      "targetValue": "1539",
+      "utterance": "in what year was bath abbey dissolved by henry viii?",
+      "id": "nt-12226"
+    }
+  ],
+  "metadata": {
+    "title": "List of monasteries dissolved by Henry VIII of England",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=104138&oldid=592774288",
+    "tableIndex": 0,
+    "hashcode": "268c17a044f4fd277f59ba1bb2312b3dcecc0df3",
+    "id": 104138,
+    "revision": 592774288
+  }
+}

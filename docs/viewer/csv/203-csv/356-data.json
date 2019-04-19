@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "1/10\"",
+      "utterance": "what is the first sensor size in the table?",
+      "id": "nt-566"
+    },
+    {
+      "targetValue": "29",
+      "utterance": "how many types have a height greater than 5 mm?",
+      "id": "nt-1359"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many sensors have a crop area of less than 1.0?",
+      "id": "nt-2517"
+    },
+    {
+      "targetValue": ".69",
+      "utterance": "what is the different in area between the 1/10\" and the 1/8\"?",
+      "id": "nt-2878"
+    },
+    {
+      "targetValue": "Blackmagic Pocket Cinema Camera",
+      "utterance": "which is wider; the blackmagic pocket cinema camera or the 1/2.7\"?",
+      "id": "nt-3615"
+    },
+    {
+      "targetValue": "IMAX film frame",
+      "utterance": "which has a larger diagonal: super 8mm film or imax?",
+      "id": "nt-6008"
+    },
+    {
+      "targetValue": "IMAX film frame",
+      "utterance": "which sensor has the largest area?",
+      "id": "nt-7803"
+    },
+    {
+      "targetValue": "1.60",
+      "utterance": "how long is the diagonal size of a 1/10\" sensor?",
+      "id": "nt-8170"
+    },
+    {
+      "targetValue": "2/3\" (Nokia Lumia 1020, Fujifilm X-S1, X20, XF1)",
+      "utterance": "what is listed next after the 1/1.6\" type?",
+      "id": "nt-8910"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "does any image frame have the same height as the nokia lumia 720?",
+      "id": "nt-10377"
+    },
+    {
+      "targetValue": [
+        "1/10\"",
+        "1/8\""
+      ],
+      "utterance": "what are the only two types with a crop factor over 20?",
+      "id": "nt-12621"
+    },
+    {
+      "targetValue": "1/10\"",
+      "utterance": "which image frame has the largest crop factor?",
+      "id": "nt-13567"
+    }
+  ],
+  "metadata": {
+    "title": "Image sensor format",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10497504&oldid=601892096",
+    "tableIndex": 1,
+    "hashcode": "2afc5a1fb056e49c8a444307ab8dbe4e0e1d8c35",
+    "id": 10497504,
+    "revision": 601892096
+  }
+}

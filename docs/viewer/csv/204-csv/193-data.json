@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Willie Nelson",
+      "utterance": "who is the artist listed before ben e. king?",
+      "id": "nt-684"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many roles other than remastering engineer has gene paul had on hit records?",
+      "id": "nt-1796"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "what is the difference between the number of top ten jazz records that gene paul has engineered and the number of top ten country records that he has engineered?",
+      "id": "nt-2049"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many albums made the charts in 1998?",
+      "id": "nt-2316"
+    },
+    {
+      "targetValue": "Second Movement",
+      "utterance": "what other album did eddie harris &les mccain had besides swiss movement",
+      "id": "nt-2994"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what are the total number of times eddie harris is listed as the artist?",
+      "id": "nt-10734"
+    },
+    {
+      "targetValue": "Bette Midler",
+      "utterance": "what is the album listed after hold on, i'm coming?",
+      "id": "nt-12628"
+    },
+    {
+      "targetValue": "Les McCann",
+      "utterance": "what comes before donny hathaway",
+      "id": "nt-13991"
+    }
+  ],
+  "metadata": {
+    "title": "Gene Paul",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36809553&oldid=579508386",
+    "tableIndex": 1,
+    "hashcode": "12b96e879d091961e89c3311ed8901e55148bd6b",
+    "id": 36809553,
+    "revision": 579508386
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "47",
+      "utterance": "what is the difference between the highest average high temperature and the lowest average low temperature in burbank, california?",
+      "id": "nt-11977"
+    }
+  ],
+  "metadata": {
+    "title": "Burbank, California",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=107608&oldid=600848812",
+    "tableIndex": 0,
+    "hashcode": "7628e63e3d403e37aa8f1bbbd7c87454363bc830",
+    "id": 107608,
+    "revision": 600848812
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "how many hungarians have been the men's winner of the budapest half marathon?",
+      "id": "nt-637"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many half marathons did krisztina papp win?",
+      "id": "nt-2133"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many races had at least 5000 finishers?",
+      "id": "nt-5373"
+    },
+    {
+      "targetValue": "Hungary",
+      "utterance": "which country has had the most men's winners?",
+      "id": "nt-7073"
+    },
+    {
+      "targetValue": "Gábor Józsa (HUN)",
+      "utterance": "what was the name of the person who finished the 2012 budapest half marathon the fastest?",
+      "id": "nt-8270"
+    },
+    {
+      "targetValue": [
+        "Beáta Rakonczai",
+        "Anikó Kálovics",
+        "Krisztina Papp"
+      ],
+      "utterance": "name the consecutive women's winners of the budapest half marathon.",
+      "id": "nt-8525"
+    },
+    {
+      "targetValue": "Japan",
+      "utterance": "name a country that had a men's winner in the 1990's but not the 2000's.",
+      "id": "nt-9336"
+    },
+    {
+      "targetValue": "2535",
+      "utterance": "how many people finished the 1997 budapest half marathon?",
+      "id": "nt-10404"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many times was the budapest half marathon held before 2001?",
+      "id": "nt-12668"
+    },
+    {
+      "targetValue": [
+        "Zoltán Káldy",
+        "Simona Staicu"
+      ],
+      "utterance": "name the male/female winners in the 1996 budapest half marathon.",
+      "id": "nt-13094"
+    }
+  ],
+  "metadata": {
+    "title": "Budapest Half Marathon",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=28720399&oldid=597456505",
+    "tableIndex": 0,
+    "hashcode": "d96bc57429bf7df65e938c3a122cde00f5fe52d8",
+    "id": 28720399,
+    "revision": 597456505
+  }
+}

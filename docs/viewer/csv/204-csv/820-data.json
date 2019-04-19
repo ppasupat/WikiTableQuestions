@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "21 December 1790",
+      "utterance": "what is the next date after the first date on the list?",
+      "id": "nt-631"
+    },
+    {
+      "targetValue": "Peregrine Bertie",
+      "utterance": "which incumbent died before john george montagu?",
+      "id": "nt-845"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "did john lee win before lord hugh seymour?",
+      "id": "nt-4493"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "what is the total number of contested polls (c)?",
+      "id": "nt-8145"
+    },
+    {
+      "targetValue": "William Coles Medlycott",
+      "utterance": "who resigned after richard ford?",
+      "id": "nt-8761"
+    },
+    {
+      "targetValue": "Marquess of Worcester",
+      "utterance": "did charles william wyndham or the marquess of worcester choose to sit for bristol?",
+      "id": "nt-9190"
+    }
+  ],
+  "metadata": {
+    "title": "List of Great Britain by-elections (1790–1800)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=38644016&oldid=600774295",
+    "tableIndex": 0,
+    "hashcode": "b8f23b73cdb84e673f652c801cd8b70120f3b87e",
+    "id": 38644016,
+    "revision": 600774295
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "0",
+      "utterance": "what is the difference between 2008 and 2009 score?",
+      "id": "nt-775"
+    },
+    {
+      "targetValue": "2013",
+      "utterance": "which year is there a larger amount of students receiving a 4 than a 3?",
+      "id": "nt-2637"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "which year had the weakest score?",
+      "id": "nt-5412"
+    },
+    {
+      "targetValue": "30.4%",
+      "utterance": "what is the number of students in 2011 that received a 1?",
+      "id": "nt-6467"
+    },
+    {
+      "targetValue": "2013",
+      "utterance": "was the total number of students testing the greatest in 2008 or 2013?",
+      "id": "nt-7518"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "which score consecutively had the highest percentage of students in it each year?",
+      "id": "nt-7942"
+    },
+    {
+      "targetValue": "2013",
+      "utterance": "which year had the largest number of students who scored 5s?",
+      "id": "nt-9157"
+    },
+    {
+      "targetValue": "below",
+      "utterance": "was 2008's score above or below 2013?",
+      "id": "nt-10264"
+    },
+    {
+      "targetValue": "23",
+      "utterance": "what is the number of scores that are under 20%?",
+      "id": "nt-10577"
+    },
+    {
+      "targetValue": "97,136",
+      "utterance": "what is the number of students who took the test in 2007?",
+      "id": "nt-13288"
+    }
+  ],
+  "metadata": {
+    "title": "AP Chemistry",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1865258&oldid=597407078",
+    "tableIndex": 0,
+    "hashcode": "15055bba67bb718f50d49a77c9f9f367ba05c05a",
+    "id": 1865258,
+    "revision": 597407078
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "examples": [
+    {
+      "targetValue": "2012",
+      "utterance": "what was the last year where tijuana was a venue?",
+      "id": "nt-4566"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "in list of venues, how many years was beijing above moscow (1st venue is above 2nd venue, etc)?",
+      "id": "nt-4761"
+    },
+    {
+      "targetValue": "2012",
+      "utterance": "name a year whose second venue was the same as 2011.",
+      "id": "nt-5929"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "which year is previous to 2011",
+      "id": "nt-7167"
+    },
+    {
+      "targetValue": "2007",
+      "utterance": "which is the only year that mexico is on a venue",
+      "id": "nt-7525"
+    },
+    {
+      "targetValue": "2012",
+      "utterance": "which year had more venues, 2007 or 2012?",
+      "id": "nt-8353"
+    },
+    {
+      "targetValue": "7 years",
+      "utterance": "how long, in years, has the this world series been occurring?",
+      "id": "nt-9855"
+    },
+    {
+      "targetValue": [
+        "2013",
+        "2014"
+      ],
+      "utterance": "what years had the most venues?",
+      "id": "nt-9904"
+    },
+    {
+      "targetValue": [
+        "5th Venue",
+        "6th Venue"
+      ],
+      "utterance": "which two venue has no nations from 2007-2012",
+      "id": "nt-10072"
+    },
+    {
+      "targetValue": "2012",
+      "utterance": "in what year was the 3rd venue the same as 2011's 1st venue?",
+      "id": "nt-13237"
+    }
+  ],
+  "metadata": {
+    "title": "FINA Diving World Series",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=22482077&oldid=599849517",
+    "tableIndex": 0,
+    "hashcode": "73da250cb54ced3f83e78a78bd4c2936fb49034a",
+    "id": 22482077,
+    "revision": 599849517
+  }
+}

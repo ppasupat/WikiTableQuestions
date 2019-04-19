@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "1997",
+      "utterance": "when was the first time elizabeth dawn appeared in her role as vera duckworth?",
+      "id": "nt-1966"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many awards has elizabeth dawn received, in total, for her work in the entertainment industry?",
+      "id": "nt-6659"
+    }
+  ],
+  "metadata": {
+    "title": "Elizabeth Dawn",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1429767&oldid=601524918",
+    "tableIndex": 0,
+    "hashcode": "db1b3898a339df00f720a90ddab10b3986e973c6",
+    "id": 1429767,
+    "revision": 601524918
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many drivers scored at least 4 or more points?",
+      "id": "nt-1958"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the least number of laps made?",
+      "id": "nt-2020"
+    },
+    {
+      "targetValue": "2:05:26.8",
+      "utterance": "how long did it take jo bonnier to finish all 75 laps?",
+      "id": "nt-5476"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what are the number of times ferrari is listed as the constructor?",
+      "id": "nt-5827"
+    },
+    {
+      "targetValue": "73",
+      "utterance": "what are the total number of laps phil hill drove?",
+      "id": "nt-6357"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many drivers drove a ferrari in the race?",
+      "id": "nt-6688"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many drivers are from the united states?",
+      "id": "nt-8818"
+    },
+    {
+      "targetValue": "Jo Bonnier",
+      "utterance": "name a driver who scored at least 5 points.",
+      "id": "nt-8883"
+    },
+    {
+      "targetValue": "United Kingdom",
+      "utterance": "which country were most of the drivers from?",
+      "id": "nt-12157"
+    },
+    {
+      "targetValue": "Jo Bonnier",
+      "utterance": "who scored the most points?",
+      "id": "nt-12350"
+    }
+  ],
+  "metadata": {
+    "title": "1959 Dutch Grand Prix",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1122188&oldid=573883709",
+    "tableIndex": 0,
+    "hashcode": "c89aa74c53da581391bb66d8fe94eaf8579f5c14",
+    "id": 1122188,
+    "revision": 573883709
+  }
+}

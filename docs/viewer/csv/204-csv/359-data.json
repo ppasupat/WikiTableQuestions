@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Puerto Villarroel Municipality",
+      "utterance": "which municipality has the largest number of spanish speakers?",
+      "id": "nt-4505"
+    },
+    {
+      "targetValue": "Puerto Villarroel Municipality",
+      "utterance": "which municipality has the most spanish speakers?",
+      "id": "nt-5664"
+    },
+    {
+      "targetValue": "Quechua",
+      "utterance": "in puerto villarroel, which language is spoken more, quechua or spanish?",
+      "id": "nt-6000"
+    },
+    {
+      "targetValue": "Puerto Villarroel Municipality",
+      "utterance": "which municipality has the highest number of quechua speakers?",
+      "id": "nt-10050"
+    },
+    {
+      "targetValue": "Totora Municipality",
+      "utterance": "which has a larger aymara population, tortora or pocona municipalities?",
+      "id": "nt-12197"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many languages spoken are in the single digits in all municipalities?",
+      "id": "nt-13330"
+    }
+  ],
+  "metadata": {
+    "title": "Carrasco Province (Bolivia)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14279071&oldid=601692940",
+    "tableIndex": 2,
+    "hashcode": "2b787d185429f40e38bd9fe8808037d5923f78fd",
+    "id": 14279071,
+    "revision": 601692940
+  }
+}

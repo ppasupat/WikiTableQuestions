@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "U+1F6BF",
+      "utterance": "what is the code for shower facilities?",
+      "id": "nt-3018"
+    },
+    {
+      "targetValue": "U+1F6BB",
+      "utterance": "what is the code for a unisex restroom?",
+      "id": "nt-4178"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "is a water closet the same as a toilet?",
+      "id": "nt-8763"
+    }
+  ],
+  "metadata": {
+    "title": "Public toilet",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1053470&oldid=601616145",
+    "tableIndex": 0,
+    "hashcode": "bd458bf08394521dd1b07f8d615a9122d475dfa0",
+    "id": 1053470,
+    "revision": 601616145
+  }
+}

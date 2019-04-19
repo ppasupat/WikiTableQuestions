@@ -1,0 +1,66 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Frozen",
+        "Cásese Quien Pueda",
+        "300: Rise of an Empire"
+      ],
+      "utterance": "which movies were number 1 for at least two consecutive weeks?",
+      "id": "nt-197"
+    },
+    {
+      "targetValue": "Cásese Quien Pueda",
+      "utterance": "did frozen or cásese quien pueda make more money during their respective two week periods?",
+      "id": "nt-1498"
+    },
+    {
+      "targetValue": "Captain America: The Winter Soldier",
+      "utterance": "what is the top-grossing film on this list?",
+      "id": "nt-5211"
+    },
+    {
+      "targetValue": "Frozen",
+      "utterance": "name a film that came out before february.",
+      "id": "nt-6243"
+    },
+    {
+      "targetValue": "Captain America: The Winter Soldier",
+      "utterance": "which film was the highest grossing?",
+      "id": "nt-10876"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many films grosses above 2.5 million dollars but below 3.5 million dollars?",
+      "id": "nt-11370"
+    },
+    {
+      "targetValue": "47 Ronin",
+      "utterance": "the lego movie was number one on february 9. what was the previous number one?",
+      "id": "nt-11560"
+    },
+    {
+      "targetValue": "$3,634,431",
+      "utterance": "what was the total gross of frozen when it was number one?",
+      "id": "nt-12794"
+    },
+    {
+      "targetValue": "The Lego Movie",
+      "utterance": "which movie made more money, mr. peabody or the lego movie?",
+      "id": "nt-13338"
+    },
+    {
+      "targetValue": "2 weeks",
+      "utterance": "how long was frozen number one?",
+      "id": "nt-13364"
+    }
+  ],
+  "metadata": {
+    "title": "List of 2014 box office number-one films in Mexico",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41636772&oldid=602350774",
+    "tableIndex": 0,
+    "hashcode": "e927e6c2d683b4346c443e1953323a4019906ad3",
+    "id": 41636772,
+    "revision": 602350774
+  }
+}

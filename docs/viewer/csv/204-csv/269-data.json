@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Kyal and Kara",
+      "utterance": "who became the winning couple the most?",
+      "id": "nt-841"
+    },
+    {
+      "targetValue": "Chantelle and Steve",
+      "utterance": "who were the chumps in the kitchen?",
+      "id": "nt-1136"
+    },
+    {
+      "targetValue": "Brad and Dale",
+      "utterance": "in week 3 the winning couple in guest bedroom 2 was kyal and kara but the chumps were",
+      "id": "nt-2541"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "after winning week 5, alisa and lysandra had how many winning weeks",
+      "id": "nt-4465"
+    },
+    {
+      "targetValue": "Upstairs Bathroom",
+      "utterance": "what room was previous to week 5?",
+      "id": "nt-4754"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "total number of times kyal and kara were the winning couple",
+      "id": "nt-5505"
+    },
+    {
+      "targetValue": "Kyal and Kara",
+      "utterance": "which couple was the chumps the same amount of times as chantelle and steve?",
+      "id": "nt-7273"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many weeks were chantelle and steve the \"3rd couple\"?",
+      "id": "nt-9164"
+    },
+    {
+      "targetValue": "Chantelle and Steve",
+      "utterance": "who became winning couple for the first time in week 6?",
+      "id": "nt-12023"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "number of weeks that there were no \"chumps\"",
+      "id": "nt-13231"
+    }
+  ],
+  "metadata": {
+    "title": "The Block (season 8)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41996715&oldid=602276749",
+    "tableIndex": 0,
+    "hashcode": "b5673c34e3dc80e2a94d96638904f5a94aff26e4",
+    "id": 41996715,
+    "revision": 602276749
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "how many tournaments did sergio garcia win on the 2002 pga tour?",
+      "id": "nt-252"
+    },
+    {
+      "targetValue": "B.C. Open",
+      "utterance": "which pga tour event gave out the least prize money to its 1st place finisher?",
+      "id": "nt-3953"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many tournaments were located in florida?",
+      "id": "nt-4536"
+    },
+    {
+      "targetValue": "The Open Championship (British Open)",
+      "utterance": "which tournament rewarded the most money for first prize?",
+      "id": "nt-4828"
+    },
+    {
+      "targetValue": "Florida",
+      "utterance": "which state hosted the most pga tour tournaments?",
+      "id": "nt-8050"
+    },
+    {
+      "targetValue": "Luke Donald",
+      "utterance": "who win the last pga tour event of the year?",
+      "id": "nt-10316"
+    },
+    {
+      "targetValue": "The Open Championship (British Open)",
+      "utterance": "which tournament had a prize no less than $1,100,000?",
+      "id": "nt-11519"
+    },
+    {
+      "targetValue": "Hawaii",
+      "utterance": "the mercedes championships and sony open in hawaii are located in what state?",
+      "id": "nt-12472"
+    },
+    {
+      "targetValue": "58",
+      "utterance": "phil mickelson's score at the bob hope chrysler minus chris smith's score at the buick classic.",
+      "id": "nt-12795"
+    }
+  ],
+  "metadata": {
+    "title": "2002 PGA Tour",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14583241&oldid=568434572",
+    "tableIndex": 0,
+    "hashcode": "fca461d93723667e60d6e1ce8e000b52784fda21",
+    "id": 14583241,
+    "revision": 568434572
+  }
+}

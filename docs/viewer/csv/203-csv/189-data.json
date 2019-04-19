@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "10,000 m",
+      "utterance": "how long was the race in the all-africa games (distance)?",
+      "id": "nt-95"
+    },
+    {
+      "targetValue": "5,000 m",
+      "utterance": "what is the least number of meters habte jifar has run?",
+      "id": "nt-135"
+    },
+    {
+      "targetValue": "Ethiopia",
+      "utterance": "habte jifar is a marathon runner representing his home country of ____?",
+      "id": "nt-181"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times has jifar placed third or better in the 10,000 meter race?",
+      "id": "nt-431"
+    },
+    {
+      "targetValue": "3rd",
+      "utterance": "which position did habte jifar achieve in the all-africa games in 1999: 4th or 3rd?",
+      "id": "nt-5968"
+    },
+    {
+      "targetValue": "10,000 m",
+      "utterance": "what was the longest distance traveled in the competitions?",
+      "id": "nt-6511"
+    },
+    {
+      "targetValue": "Lisbon, Portugal",
+      "utterance": "did they finish in a better position in portugal or greece?",
+      "id": "nt-7511"
+    },
+    {
+      "targetValue": "1996",
+      "utterance": "in what years between 1194-1997 did habte jifar not compete in a marathon race?",
+      "id": "nt-8410"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many countries are represented as venues?",
+      "id": "nt-8617"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many competitions did jifar participate in before joining the 10000m?",
+      "id": "nt-9420"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times has habte jifar placed in a 10000 m race?",
+      "id": "nt-10973"
+    },
+    {
+      "targetValue": "1997",
+      "utterance": "what was the first year in which jifar placed lower than 2nd?",
+      "id": "nt-11214"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive times did habte jifar place second in the 5000 m?",
+      "id": "nt-11832"
+    }
+  ],
+  "metadata": {
+    "title": "Habte Jifar",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4436363&oldid=556873889",
+    "tableIndex": 0,
+    "hashcode": "5eb2c79c5512ee25d3b87153d8c38189c60fd4d9",
+    "id": 4436363,
+    "revision": 556873889
+  }
+}

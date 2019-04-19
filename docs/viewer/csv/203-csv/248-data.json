@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "CH1",
+        "CH2",
+        "LL1",
+        "LL2"
+      ],
+      "utterance": "list each code not associated to a year.",
+      "id": "nt-1970"
+    },
+    {
+      "targetValue": "28",
+      "utterance": "number of codes containing a 2?",
+      "id": "nt-9000"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many different codes were used from 1953 to 1958?",
+      "id": "nt-10725"
+    },
+    {
+      "targetValue": "1930",
+      "utterance": "what was the only year to use the code ch?",
+      "id": "nt-12636"
+    },
+    {
+      "targetValue": [
+        "1955",
+        "1981"
+      ],
+      "utterance": "other than 1927 what year did the code start with a?",
+      "id": "nt-12654"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "is the e code less than 1950?",
+      "id": "nt-13870"
+    },
+    {
+      "targetValue": "1927",
+      "utterance": "what was the lowest year stamped?",
+      "id": "nt-13888"
+    }
+  ],
+  "metadata": {
+    "title": "Star Bonifacio Echeverria",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4886532&oldid=588535097",
+    "tableIndex": 0,
+    "hashcode": "04154f110d2570a233099104939f470972a2139b",
+    "id": 4886532,
+    "revision": 588535097
+  }
+}

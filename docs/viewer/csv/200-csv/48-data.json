@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "83.5",
+      "utterance": "what is the average high temperature for fayetteville, arkansas in june?",
+      "id": "nt-2634"
+    },
+    {
+      "targetValue": "August",
+      "utterance": "which month had the average highest in temperature?",
+      "id": "nt-2896"
+    },
+    {
+      "targetValue": "July",
+      "utterance": "which month had the record high in temperature?",
+      "id": "nt-7210"
+    },
+    {
+      "targetValue": "59.1",
+      "utterance": "what is the average high temperature for fayetteville, arkansas in march?",
+      "id": "nt-13543"
+    }
+  ],
+  "metadata": {
+    "title": "Fayetteville, Arkansas",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=107293&oldid=600071611",
+    "tableIndex": 0,
+    "hashcode": "c9150d6cbfdf06798564a2b71d1e607b384b03ee",
+    "id": 107293,
+    "revision": 600071611
+  }
+}

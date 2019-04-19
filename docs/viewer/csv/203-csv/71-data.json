@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "August Geiger+",
+      "utterance": "his/ her efforts awarded them the 416th oak leaves?",
+      "id": "nt-3977"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many individuals were awarded the knight's cross of the iron cross before 1940?",
+      "id": "nt-7625"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many services other than the heer had members awarded the knight's cross of the iron cross?",
+      "id": "nt-10996"
+    },
+    {
+      "targetValue": "Platoon Leader",
+      "utterance": "was ernst gaedckens a platoon leader or a commander?",
+      "id": "nt-13018"
+    }
+  ],
+  "metadata": {
+    "title": "List of Knight's Cross of the Iron Cross recipients (G)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8678732&oldid=595446485",
+    "tableIndex": 0,
+    "hashcode": "fe44c4e4eabde6d28c0be6df4a4ad53aad2b7fa4",
+    "id": 8678732,
+    "revision": 595446485
+  }
+}

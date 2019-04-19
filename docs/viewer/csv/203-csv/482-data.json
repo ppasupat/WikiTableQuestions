@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many 'choice tv sidekick' award categories was scrubs nominated for?",
+      "id": "nt-1002"
+    },
+    {
+      "targetValue": "Outstanding Supporting Actor in a Comedy Series",
+      "utterance": "which award did scrubs win the most of?",
+      "id": "nt-3033"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many awards total was scrubs nominated for?",
+      "id": "nt-3107"
+    },
+    {
+      "targetValue": "BET Comedy Awards",
+      "utterance": "what was the only award that scrubs won for outstanding supporting actor in a comedy series?",
+      "id": "nt-3877"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many nominations were received in all?",
+      "id": "nt-5011"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many awards were won?",
+      "id": "nt-6092"
+    },
+    {
+      "targetValue": "BET Comedy Awards",
+      "utterance": "did scrubs win the bet comedy awards or the teen choice awards in 2002?",
+      "id": "nt-8578"
+    },
+    {
+      "targetValue": "Outstanding Actor in a Comedy Series",
+      "utterance": "what was the last awared scrubs was nominated for?",
+      "id": "nt-12352"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many teen choice awards was scrubs nominate for from 2004 to 2007?",
+      "id": "nt-12582"
+    },
+    {
+      "targetValue": "2008",
+      "utterance": "in what year was the last nomination received?",
+      "id": "nt-13787"
+    }
+  ],
+  "metadata": {
+    "title": "Donald Faison",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=715428&oldid=599958038",
+    "tableIndex": 2,
+    "hashcode": "fe225c721d0f5e235aa6d29565188580c4703e46",
+    "id": 715428,
+    "revision": 599958038
+  }
+}

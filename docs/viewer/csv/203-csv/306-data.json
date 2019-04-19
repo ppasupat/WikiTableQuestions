@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many episodes were directed by perry lang",
+      "id": "nt-555"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what are the number of titles written by patrick massett and john zinman?",
+      "id": "nt-1131"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "list the number of items written by brad falchuk",
+      "id": "nt-1442"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many episodes were unaired in u.s?",
+      "id": "nt-2052"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many of the episodes did not air in the u.s.?",
+      "id": "nt-4039"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many other episodes were written by john zinman other than \"reunion\"?",
+      "id": "nt-6946"
+    },
+    {
+      "targetValue": "Helmholtz Resonance",
+      "utterance": "what is the name of the last title listed in this chart?",
+      "id": "nt-8787"
+    },
+    {
+      "targetValue": "February",
+      "utterance": "which month aired the most episodes according to this chart?",
+      "id": "nt-10995"
+    },
+    {
+      "targetValue": "\"Skulls\"",
+      "utterance": "which episode aired in the same month as \"antarctica\"?",
+      "id": "nt-11211"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "does reunion have the same authors as antarctica?",
+      "id": "nt-11719"
+    }
+  ],
+  "metadata": {
+    "title": "Veritas: The Quest",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=193747&oldid=576031352",
+    "tableIndex": 0,
+    "hashcode": "c128b9dc98aca79d3f1bd22c77cc9b843b1b2859",
+    "id": 193747,
+    "revision": 576031352
+  }
+}

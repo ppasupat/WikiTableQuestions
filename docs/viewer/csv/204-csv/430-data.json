@@ -1,0 +1,63 @@
+{
+  "examples": [
+    {
+      "targetValue": "KM-45 Series",
+      "utterance": "which model has the most in service?",
+      "id": "nt-21"
+    },
+    {
+      "targetValue": [
+        "CMC Cruiser",
+        "Delta Mini Cruiser"
+      ],
+      "utterance": "what two models are only from the philippines?",
+      "id": "nt-734"
+    },
+    {
+      "targetValue": "AM General HMMWV",
+      "utterance": "name a model that has the most versions.",
+      "id": "nt-3654"
+    },
+    {
+      "targetValue": "M35 Truck",
+      "utterance": "which model comes after m939 truck?",
+      "id": "nt-4021"
+    },
+    {
+      "targetValue": "AM General HMMWV",
+      "utterance": "what is the first model on the list?",
+      "id": "nt-7236"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many models were made in the replublic of korea?",
+      "id": "nt-9651"
+    },
+    {
+      "targetValue": "Japan",
+      "utterance": "what country uses the mitsubishi l200 by their military?",
+      "id": "nt-11564"
+    },
+    {
+      "targetValue": [
+        "KM-45 Series",
+        "Republic of Korea"
+      ],
+      "utterance": "what is the last model and its origin?",
+      "id": "nt-11788"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "the number of type, how many are light vehicle",
+      "id": "nt-13270"
+    }
+  ],
+  "metadata": {
+    "title": "List of equipment of the Philippine Army",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=39753188&oldid=601956484",
+    "tableIndex": 3,
+    "hashcode": "efb57110840c95c71f10e4c037b5db76b5bd2a19",
+    "id": 39753188,
+    "revision": 601956484
+  }
+}

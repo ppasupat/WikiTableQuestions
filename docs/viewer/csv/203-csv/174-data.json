@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Pirates of the Caribbean: At World's End",
+      "utterance": "in terms of gross what movie is above toy story 3?",
+      "id": "nt-194"
+    },
+    {
+      "targetValue": "Marvel's The Avengers",
+      "utterance": "the biggest worldwide opening since 2002 is held by what movie?",
+      "id": "nt-1620"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the number of twilight movies that made this ranked list?",
+      "id": "nt-3069"
+    },
+    {
+      "targetValue": "$166,278,034",
+      "utterance": "what is the average opening weekend gross between iron man 3 and the dark knight?",
+      "id": "nt-3303"
+    },
+    {
+      "targetValue": "Marvel's The Avengers",
+      "utterance": "only this movie had a worldwide opening of $390+ million in 2012?",
+      "id": "nt-8060"
+    },
+    {
+      "targetValue": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "utterance": "which film had the least opening weekend?",
+      "id": "nt-9590"
+    },
+    {
+      "targetValue": "Alice in Wonderland",
+      "utterance": "name one that ranked after man of steel.",
+      "id": "nt-11225"
+    }
+  ],
+  "metadata": {
+    "title": "List of highest-grossing openings for films",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6512248&oldid=594954627",
+    "tableIndex": 1,
+    "hashcode": "f527144035638aca4c6fe3a7a717a7bba38e6d53",
+    "id": 6512248,
+    "revision": 594954627
+  }
+}

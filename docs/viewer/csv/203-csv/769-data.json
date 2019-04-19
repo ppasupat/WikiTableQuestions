@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Indira Gandhi Peace Prize for Disarmament and Development",
+      "utterance": "what award was won previously just before the medaglia pontificia anno xiii was awarded?",
+      "id": "nt-219"
+    },
+    {
+      "targetValue": "29",
+      "utterance": "what were the total number of honors/award titles listed according to this chart?",
+      "id": "nt-470"
+    },
+    {
+      "targetValue": "Sir Seretse Khama SADC Meda",
+      "utterance": "what was the name of the honor/award title given after the international kim il sung prize certificate?",
+      "id": "nt-1233"
+    },
+    {
+      "targetValue": "Sir Seretse Khama SADC Meda",
+      "utterance": "what was the last award that nujoma won?",
+      "id": "nt-1343"
+    },
+    {
+      "targetValue": "2003",
+      "utterance": "the \"fellowship award of the institute of governance and social research\" was awarded in 2003 or 2004?",
+      "id": "nt-1574"
+    },
+    {
+      "targetValue": "Romania",
+      "utterance": "did nujoma win the o.b.f.f.s. award in romania or ghana?",
+      "id": "nt-3390"
+    },
+    {
+      "targetValue": "Sir Seretse Khama SADC Meda",
+      "utterance": "what is the most recent award nujoma received?",
+      "id": "nt-8822"
+    },
+    {
+      "targetValue": "1988",
+      "utterance": "which year was the most honors/award titles given?",
+      "id": "nt-9506"
+    },
+    {
+      "targetValue": "29",
+      "utterance": "what is the total number of awards that nujoma won?",
+      "id": "nt-10158"
+    },
+    {
+      "targetValue": "Sir Seretse Khama SADC Meda",
+      "utterance": "what is the last honors/award title listed on this chart?",
+      "id": "nt-11092"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "the number of times \"recognition granted\" was the received award?",
+      "id": "nt-11718"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the difference between the number of awards won in 1988 and the number of awards won in 1995?",
+      "id": "nt-12153"
+    }
+  ],
+  "metadata": {
+    "title": "Sam Nujoma",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=295598&oldid=600975742",
+    "tableIndex": 0,
+    "hashcode": "75cec4130f7709206bc16b174ed633e9ceee5322",
+    "id": 295598,
+    "revision": 600975742
+  }
+}

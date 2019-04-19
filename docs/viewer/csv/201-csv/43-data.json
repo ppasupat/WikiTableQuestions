@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "how many luxembourg cities had a date of law of feb 24, 1843?",
+      "id": "nt-8538"
+    },
+    {
+      "targetValue": "Luxembourg",
+      "utterance": "what canton is the most populated?",
+      "id": "nt-12807"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many diekirch districts also have diekirch as their canton?",
+      "id": "nt-12980"
+    },
+    {
+      "targetValue": "Grevenmacher",
+      "utterance": "which canton falls under the date of law of 24 february 1843 and has a population of 3,966?",
+      "id": "nt-13076"
+    }
+  ],
+  "metadata": {
+    "title": "List of cities in Luxembourg",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=467853&oldid=591609903",
+    "tableIndex": 0,
+    "hashcode": "b3bf798a20a10a8f08dc6e9e503a2e3ac6e09957",
+    "id": 467853,
+    "revision": 591609903
+  }
+}

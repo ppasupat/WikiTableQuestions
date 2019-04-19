@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "yes",
+      "utterance": "was only nominated for best actor in a supporting role at satellite awards in 2008?",
+      "id": "nt-1205"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many awards has he been nominated for and not won?",
+      "id": "nt-1311"
+    },
+    {
+      "targetValue": "Fugitive Pieces (film)",
+      "utterance": "what movie was he nominated the most times for?",
+      "id": "nt-1613"
+    },
+    {
+      "targetValue": "Satellite Awards",
+      "utterance": "which was erbedija's first festival/event where he was nominated but didn't win an award?",
+      "id": "nt-3601"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many times did erbedija win best foreign performer between 1994 and 2012?",
+      "id": "nt-4004"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "was any movie nominated more than fugitive pieces?",
+      "id": "nt-6420"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times did erbedija win best actor between 1994 and 2012?",
+      "id": "nt-10321"
+    },
+    {
+      "targetValue": "2012",
+      "utterance": "when was the last time rade serbedzija won an award for best actor?",
+      "id": "nt-11001"
+    },
+    {
+      "targetValue": "Best actor",
+      "utterance": "what was the only award in 1994?",
+      "id": "nt-11286"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many award did he win?",
+      "id": "nt-13469"
+    }
+  ],
+  "metadata": {
+    "title": "Rade Šerbedžija",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=707923&oldid=601094517",
+    "tableIndex": 1,
+    "hashcode": "9aceacf2ff7f6cc0f4d7fcaf1d2461c65161608c",
+    "id": 707923,
+    "revision": 601094517
+  }
+}

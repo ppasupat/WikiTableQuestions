@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Twente",
+      "utterance": "which team is previous to cska moscow on team 1",
+      "id": "nt-1249"
+    },
+    {
+      "targetValue": "Dynamo Kyiv",
+      "utterance": "who was the previous winner before twente in the round of 16?",
+      "id": "nt-3228"
+    },
+    {
+      "targetValue": "PSV Eindhoven",
+      "utterance": "braga had the same aggregated score as what other team in the round of 16?",
+      "id": "nt-3393"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "did ajax score more points than porto?",
+      "id": "nt-4355"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the total of nation in team 1",
+      "id": "nt-5607"
+    },
+    {
+      "targetValue": "Benfica",
+      "utterance": "which team scored more goals in the first leg, benfica or ajax?",
+      "id": "nt-7162"
+    },
+    {
+      "targetValue": "Rangers",
+      "utterance": "what nation is next after porto on team 2",
+      "id": "nt-8603"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "how many total points did the winning teams score in the round of 16?",
+      "id": "nt-9048"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the number of countries represented on team 2?",
+      "id": "nt-14003"
+    }
+  ],
+  "metadata": {
+    "title": "2010–11 UEFA Europa League",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20795986&oldid=586020970",
+    "tableIndex": 36,
+    "hashcode": "48bd8e5110d4e4f8d06a948ef53820bc0fc8bb8f",
+    "id": 20795986,
+    "revision": 586020970
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "95",
+      "utterance": "what is the total number of countries on the chart?",
+      "id": "nt-4277"
+    },
+    {
+      "targetValue": "3.2 with India",
+      "utterance": "is bangladesh in zone 3.2 with india or in zone 3.5 with china?",
+      "id": "nt-7716"
+    },
+    {
+      "targetValue": "1785",
+      "utterance": "what is the total number of fide players in the united states?",
+      "id": "nt-10263"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "which country has the most #gm?",
+      "id": "nt-11753"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "which country has the most fide rated players after germany?",
+      "id": "nt-13396"
+    },
+    {
+      "targetValue": "25",
+      "utterance": "how many grandmasters does bulgaria have listed?",
+      "id": "nt-13689"
+    }
+  ],
+  "metadata": {
+    "title": "Chess around the world",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14721436&oldid=581164441",
+    "tableIndex": 0,
+    "hashcode": "7154d1df5cdd61ca8ffd4f9960433f301e553f23",
+    "id": 14721436,
+    "revision": 581164441
+  }
+}

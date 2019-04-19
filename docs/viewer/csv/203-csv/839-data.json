@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "how many stations opened before 1926?",
+      "id": "nt-2740"
+    },
+    {
+      "targetValue": "Mount Wilson, California",
+      "utterance": "what was the very first station to open?",
+      "id": "nt-5452"
+    },
+    {
+      "targetValue": "1938",
+      "utterance": "when was the last recorded opening date of an observatory?",
+      "id": "nt-6369"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many stations opened after 1917?",
+      "id": "nt-6579"
+    },
+    {
+      "targetValue": "Mount Saint Catherine, Egypt",
+      "utterance": "the top elevation measured for this station is 2591m",
+      "id": "nt-7477"
+    },
+    {
+      "targetValue": "5 years",
+      "utterance": "how long did the mount harquahala, arizon station operate?",
+      "id": "nt-8619"
+    },
+    {
+      "targetValue": "Mount Wilson, California",
+      "utterance": "the first opened station",
+      "id": "nt-8624"
+    },
+    {
+      "targetValue": "1125 m",
+      "utterance": "elevation difference in mount montezuma, chile and mount brukkaros, namibia",
+      "id": "nt-9401"
+    },
+    {
+      "targetValue": "Table Mountain, California",
+      "utterance": "its operating years total 37",
+      "id": "nt-10609"
+    }
+  ],
+  "metadata": {
+    "title": "Smithsonian Astrophysical Observatory",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1389867&oldid=560227466",
+    "tableIndex": 0,
+    "hashcode": "6c06b31efe8cb948523a70df71d2402376951c55",
+    "id": 1389867,
+    "revision": 560227466
+  }
+}

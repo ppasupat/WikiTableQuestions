@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "what is the number of drivers who didn't finish the race due to engine trouble?",
+      "id": "nt-3512"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many drivers had the same number of laps as at least one other driver?",
+      "id": "nt-4435"
+    },
+    {
+      "targetValue": "Jim Clark",
+      "utterance": "who was the top driver at the 1967 british grand prix?",
+      "id": "nt-6211"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many drivers finished at least 40 laps?",
+      "id": "nt-6667"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of points that chris amon earned?",
+      "id": "nt-7172"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "how many drivers had constructors other than brabham-repco?",
+      "id": "nt-7949"
+    },
+    {
+      "targetValue": "Pedro Rodriguez",
+      "utterance": "which driver finished after jack brabham?",
+      "id": "nt-8859"
+    },
+    {
+      "targetValue": "Denny Hulme",
+      "utterance": "which driver had a total time of 1:59:38.4?",
+      "id": "nt-10743"
+    },
+    {
+      "targetValue": "John Surtees",
+      "utterance": "besides jim clark who is the other british driver in the top 6?",
+      "id": "nt-12573"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the difference in points between chris amon and jim clark?",
+      "id": "nt-13133"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what number of drivers aslo had brabham-repco as their constructor?",
+      "id": "nt-13811"
+    }
+  ],
+  "metadata": {
+    "title": "1967 British Grand Prix",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1122370&oldid=593696147",
+    "tableIndex": 0,
+    "hashcode": "5bc83f733d1b1c92ca791a3737b7602a79d5637e",
+    "id": 1122370,
+    "revision": 593696147
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many buildings have less than 20 floors?",
+      "id": "nt-3859"
+    },
+    {
+      "targetValue": "647 feet",
+      "utterance": "what is the difference in height between key tower and 55 public square",
+      "id": "nt-5085"
+    },
+    {
+      "targetValue": "24",
+      "utterance": "how many buildings were built after 1950?",
+      "id": "nt-6076"
+    },
+    {
+      "targetValue": "Ernst & Young Tower",
+      "utterance": "what is the name of the building with the first downtown private office building constructed since 1992?",
+      "id": "nt-6642"
+    },
+    {
+      "targetValue": "Key Tower",
+      "utterance": "which building has the greatest number of floors?",
+      "id": "nt-10344"
+    },
+    {
+      "targetValue": "Key Tower",
+      "utterance": "which building is the tallest?",
+      "id": "nt-11350"
+    },
+    {
+      "targetValue": "Terminal Tower",
+      "utterance": "when the key tower was built in 1991, what was the previous tallest building constructed?",
+      "id": "nt-12555"
+    }
+  ],
+  "metadata": {
+    "title": "List of tallest buildings in Cleveland",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5816475&oldid=592883894",
+    "tableIndex": 0,
+    "hashcode": "1d53f5af96b09b65aa7a888eff7882e00e081ee0",
+    "id": 5816475,
+    "revision": 592883894
+  }
+}

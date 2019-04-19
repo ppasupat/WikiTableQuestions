@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many world championships has he been in?",
+      "id": "nt-1490"
+    },
+    {
+      "targetValue": "2012",
+      "utterance": "which year held the most competitions?",
+      "id": "nt-4120"
+    },
+    {
+      "targetValue": "63.17 m",
+      "utterance": "what was mayer's best result: i.e his longest throw?",
+      "id": "nt-5240"
+    },
+    {
+      "targetValue": "2001",
+      "utterance": "how what listed year was a distance of only 53.30m reached?",
+      "id": "nt-5859"
+    },
+    {
+      "targetValue": "6th",
+      "utterance": "prior to 2007, what was the highest place achieved?",
+      "id": "nt-7433"
+    },
+    {
+      "targetValue": "European Championships",
+      "utterance": "what was the last competition he was in before the 2012 olympics?",
+      "id": "nt-7579"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what are the total number of times european junior championships is listed as the competition?",
+      "id": "nt-9819"
+    },
+    {
+      "targetValue": [
+        "European Championships",
+        "Universiade"
+      ],
+      "utterance": "name two events in which mayer competed before he won the bangkok universiade.",
+      "id": "nt-12893"
+    }
+  ],
+  "metadata": {
+    "title": "Gerhard Mayer",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21046107&oldid=590598140",
+    "tableIndex": 0,
+    "hashcode": "fe2598efb5726c405428e5646f2749c0f1953867",
+    "id": 21046107,
+    "revision": 590598140
+  }
+}

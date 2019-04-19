@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "9",
+      "utterance": "how many players scored at least ten goals?",
+      "id": "nt-1352"
+    },
+    {
+      "targetValue": "Adriano Leite Ribeiro",
+      "utterance": "whose number of goals was greater against columbia, lucimar ferreira da silva or adriano leite ribeiro?",
+      "id": "nt-3985"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many players scored at least 30 goals?",
+      "id": "nt-4424"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "ze roberto and emerson each scored how many goals?",
+      "id": "nt-6859"
+    },
+    {
+      "targetValue": "Neymar da Silva Santos Júnior",
+      "utterance": "who scored the same number of goals as adriano leite ribeiro?",
+      "id": "nt-11932"
+    }
+  ],
+  "metadata": {
+    "title": "List of Brazilian footballers",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5999181&oldid=592680040",
+    "tableIndex": 0,
+    "hashcode": "322029f70ff5fdd04e8186957593802d89154716",
+    "id": 5999181,
+    "revision": 592680040
+  }
+}

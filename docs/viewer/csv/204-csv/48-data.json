@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "0",
+      "utterance": "what is the number of different races that brazil has won?",
+      "id": "nt-660"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many winners are from brazil?",
+      "id": "nt-1319"
+    },
+    {
+      "targetValue": "below",
+      "utterance": "is the us average uci rating above or below 2?",
+      "id": "nt-3688"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what was the number of winners from argentina?",
+      "id": "nt-3777"
+    },
+    {
+      "targetValue": "Tour de Beauce",
+      "utterance": "in which race did nathan brown receive his victory during 2013?",
+      "id": "nt-6657"
+    },
+    {
+      "targetValue": [
+        "Francisco Chamorro (ARG)",
+        "Funvic Brasilinvest-São José dos Campos"
+      ],
+      "utterance": "what is the winner name and team for the copa américa de ciclismo race?",
+      "id": "nt-9444"
+    },
+    {
+      "targetValue": "USA",
+      "utterance": "who won more races, the usa or canada?",
+      "id": "nt-11138"
+    },
+    {
+      "targetValue": "Óscar Sevilla",
+      "utterance": "who won more races in 2013, oscar sevilla or oscar sanchez?",
+      "id": "nt-11269"
+    },
+    {
+      "targetValue": "Tour de San Luis",
+      "utterance": "which race from 2013 had a higher uci rating, tour de san luis or tour of california?",
+      "id": "nt-12225"
+    },
+    {
+      "targetValue": "Copa América de Ciclismo",
+      "utterance": "what is the name of the first race in the year?",
+      "id": "nt-14005"
+    }
+  ],
+  "metadata": {
+    "title": "2012–13 UCI America Tour",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=37255182&oldid=579845677",
+    "tableIndex": 1,
+    "hashcode": "daa015b31c6fe29d2db38dd6a9f190cc0d6be3b1",
+    "id": 37255182,
+    "revision": 579845677
+  }
+}

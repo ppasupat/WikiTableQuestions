@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "No",
+      "utterance": "was there more clay surfaces used than hard surfaces?",
+      "id": "nt-2799"
+    },
+    {
+      "targetValue": "Hard",
+      "utterance": "has she won more doubles tournaments on clay or on hard?",
+      "id": "nt-3030"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the most consecutive doubles tournaments she has won?",
+      "id": "nt-4006"
+    },
+    {
+      "targetValue": "May 18, 2013",
+      "utterance": "what was the date of the last tournament?",
+      "id": "nt-4308"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many tournaments were played in the united states?",
+      "id": "nt-4861"
+    },
+    {
+      "targetValue": "Winner",
+      "utterance": "what was the first outcome listed on this chart?",
+      "id": "nt-7404"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the total number of doubles tournaments stephanie has won?",
+      "id": "nt-12064"
+    },
+    {
+      "targetValue": "2007",
+      "utterance": "did she play in more matches in 2007 or 2008?",
+      "id": "nt-12708"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what are the number of times hard appears as the surface?",
+      "id": "nt-13044"
+    }
+  ],
+  "metadata": {
+    "title": "Stéphanie Dubois",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6563124&oldid=601492673",
+    "tableIndex": 6,
+    "hashcode": "1a3e3428cd41e8b7fd8348d1c05c8fec117589cc",
+    "id": 6563124,
+    "revision": 601492673
+  }
+}

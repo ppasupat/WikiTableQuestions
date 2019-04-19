@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "Kishinev",
+      "utterance": "which venue hosted the standard result immediately after berlin in the 1990s?",
+      "id": "nt-1588"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times was bremen the venue for the idsf world championships for the latin result?",
+      "id": "nt-11329"
+    }
+  ],
+  "metadata": {
+    "title": "Formation dance",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=606788&oldid=598396572",
+    "tableIndex": 1,
+    "hashcode": "2b432201d5432f1023c8767799192bac6b4d3d71",
+    "id": 606788,
+    "revision": 598396572
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "26 February 2010",
+      "utterance": "what is the last date shown for february 2010?",
+      "id": "nt-482"
+    },
+    {
+      "targetValue": "20 February 2009",
+      "utterance": "what is the date of the last event listed?",
+      "id": "nt-3055"
+    },
+    {
+      "targetValue": "Germany",
+      "utterance": "what country has the most start records?",
+      "id": "nt-4080"
+    },
+    {
+      "targetValue": "46.808",
+      "utterance": "how long did felix loch take to complete the men's luge?",
+      "id": "nt-5228"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many total athletes have track records?",
+      "id": "nt-5702"
+    },
+    {
+      "targetValue": "Germany",
+      "utterance": "which country's team holds the track record for men's luge singles?",
+      "id": "nt-9982"
+    },
+    {
+      "targetValue": "5.11",
+      "utterance": "kaillie humphries was listed for an event on february 23, 2010, what was her time?",
+      "id": "nt-10525"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the number of records at the start?",
+      "id": "nt-12775"
+    }
+  ],
+  "metadata": {
+    "title": "Whistler Sliding Centre",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15702882&oldid=595594907",
+    "tableIndex": 2,
+    "hashcode": "e8a39811ee0eea1df43cc1e22244a6d1694d1625",
+    "id": 15702882,
+    "revision": 595594907
+  }
+}

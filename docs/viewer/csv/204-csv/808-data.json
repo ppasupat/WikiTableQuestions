@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Mugen-Honda",
+      "utterance": "which engine was used the most by teams this season?",
+      "id": "nt-2969"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of teams that had drivers all from the same country?",
+      "id": "nt-3658"
+    },
+    {
+      "targetValue": "24",
+      "utterance": "what is the average number of teams that had a mugen-honda engine?",
+      "id": "nt-4736"
+    },
+    {
+      "targetValue": "Team Park",
+      "utterance": "what team is listed above diamond racing?",
+      "id": "nt-8580"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many teams had at least two drivers this season?",
+      "id": "nt-9894"
+    },
+    {
+      "targetValue": "Team Avanti",
+      "utterance": "who had more drivers, team avanti or motaworld racing?",
+      "id": "nt-9907"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "how many class s (scholarship) teams are on the chart?",
+      "id": "nt-11301"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "what is the total number of class c (championship) teams?",
+      "id": "nt-11440"
+    },
+    {
+      "targetValue": "Karun Chandhok",
+      "utterance": "the two drivers on t-sport are clivio piccione and what other driver?",
+      "id": "nt-13264"
+    }
+  ],
+  "metadata": {
+    "title": "2002 British Formula Three season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=26137666&oldid=561735665",
+    "tableIndex": 0,
+    "hashcode": "6694a50384dc3c1c81e15ef0f9b19f2d67077abf",
+    "id": 26137666,
+    "revision": 561735665
+  }
+}

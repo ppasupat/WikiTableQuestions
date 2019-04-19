@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "10",
+      "utterance": "what is the highest number of goals podolski has scored in an international game?",
+      "id": "nt-446"
+    },
+    {
+      "targetValue": "Slovenia",
+      "utterance": "who did lukas podolski's team face after thailand in december 21, 2004?",
+      "id": "nt-2757"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times was liechtenstein the opponent?",
+      "id": "nt-2871"
+    },
+    {
+      "targetValue": "Rajamangala Stadium, Bangkok, Thailand",
+      "utterance": "where was the first \"friendly\" competition held?",
+      "id": "nt-4237"
+    },
+    {
+      "targetValue": "2009",
+      "utterance": "what year was the only time china was the opponent?",
+      "id": "nt-7071"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the total number of goals that was scored against romania in 2007?",
+      "id": "nt-7119"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "what are the total number of non-friendly competitions?",
+      "id": "nt-9741"
+    },
+    {
+      "targetValue": "Germany",
+      "utterance": "in what country were the most games held?",
+      "id": "nt-9751"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "how many competitions were not friendly?",
+      "id": "nt-13902"
+    }
+  ],
+  "metadata": {
+    "title": "Lukas Podolski",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1955932&oldid=602156768",
+    "tableIndex": 2,
+    "hashcode": "5beddab2fbad89613ca6240615a75783069b79d4",
+    "id": 1955932,
+    "revision": 602156768
+  }
+}

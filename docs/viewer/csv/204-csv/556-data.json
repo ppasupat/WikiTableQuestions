@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "Leah Poulos",
+      "utterance": "who was the silver medalist?",
+      "id": "nt-931"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many athletes are from east germany?",
+      "id": "nt-1854"
+    },
+    {
+      "targetValue": "1:24.10",
+      "utterance": "what was the fastest time in the competition?",
+      "id": "nt-4577"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many canadian athletes finished at less than 1:30?",
+      "id": "nt-4685"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many athletes took at least an hour and 32 minutes?",
+      "id": "nt-4834"
+    },
+    {
+      "targetValue": "Mandy Horsepool",
+      "utterance": "who came in last place during the 1980 winter olympic women's 1000 metres in speed skating?",
+      "id": "nt-5723"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of athletes from japan?",
+      "id": "nt-5864"
+    },
+    {
+      "targetValue": "Sylvia Albrecht",
+      "utterance": "who was the bronze medalist for east germany?",
+      "id": "nt-10098"
+    },
+    {
+      "targetValue": "Soviet Union",
+      "utterance": "which country won the gold medal?",
+      "id": "nt-10154"
+    },
+    {
+      "targetValue": "Sylvia Burka",
+      "utterance": "who finished first between sarah docter and sylvia burka?",
+      "id": "nt-11224"
+    },
+    {
+      "targetValue": "Nataliya Petrusyova",
+      "utterance": "who came in first place at the 1980 winter olympic women's 1000 metres in speed skating?",
+      "id": "nt-11651"
+    },
+    {
+      "targetValue": "1:26.66",
+      "utterance": "how long did karin enke took to finish the race?",
+      "id": "nt-12599"
+    },
+    {
+      "targetValue": "37",
+      "utterance": "how many women competed during the 1980 winter olympic women's 1000 metres in speed skating?",
+      "id": "nt-13875"
+    }
+  ],
+  "metadata": {
+    "title": "Speed skating at the 1980 Winter Olympics – Women's 1000 metres",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41835828&oldid=594499796",
+    "tableIndex": 2,
+    "hashcode": "a89411bc3adc804739d198fb549c95b2aa58cc25",
+    "id": 41835828,
+    "revision": 594499796
+  }
+}

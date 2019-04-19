@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "tell me the number with a \"fab\" of 500 nm.",
+      "id": "nt-1277"
+    },
+    {
+      "targetValue": "Voodoo5 6000",
+      "utterance": "which model has the largest bandwidth",
+      "id": "nt-1426"
+    },
+    {
+      "targetValue": "Spectre 3000",
+      "utterance": "what is the last model?",
+      "id": "nt-3121"
+    },
+    {
+      "targetValue": "April 1997",
+      "utterance": "what launch date comes before march 1, 1998?",
+      "id": "nt-5382"
+    },
+    {
+      "targetValue": "Velocity 200",
+      "utterance": "what wast the previous model launched before voodoo3 1000?",
+      "id": "nt-7713"
+    },
+    {
+      "targetValue": "SST96",
+      "utterance": "what is the next code name after sst1?",
+      "id": "nt-10193"
+    },
+    {
+      "targetValue": "100",
+      "utterance": "what is the number of mpixels/s that voodoo banshee had?",
+      "id": "nt-11463"
+    }
+  ],
+  "metadata": {
+    "title": "Comparison of 3dfx graphics processing units",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=40149718&oldid=571162743",
+    "tableIndex": 0,
+    "hashcode": "f141775e69cb95e713337c9ac1180b4a0d23703b",
+    "id": 40149718,
+    "revision": 571162743
+  }
+}

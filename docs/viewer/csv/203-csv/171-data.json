@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many games has chorrillo f.c. won?",
+      "id": "nt-2018"
+    },
+    {
+      "targetValue": "Tauro F.C.",
+      "utterance": "who finished on top of the apertura 2008 standings.",
+      "id": "nt-2393"
+    },
+    {
+      "targetValue": "Chepo F.C.",
+      "utterance": "name one team that finished before chorillo f.c. in the apertura 2008 standings.",
+      "id": "nt-4648"
+    },
+    {
+      "targetValue": "Tauro F.C.",
+      "utterance": "who is the top team?",
+      "id": "nt-6655"
+    },
+    {
+      "targetValue": "Atlético Veragüense",
+      "utterance": "which team gave up the most goals?",
+      "id": "nt-7938"
+    },
+    {
+      "targetValue": "Alianza",
+      "utterance": "which team scored the most goals in the apertura 2008 standings?",
+      "id": "nt-8970"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many teams scored at least 17 goals?",
+      "id": "nt-9886"
+    },
+    {
+      "targetValue": "4.5",
+      "utterance": "what was the average number of games lost?",
+      "id": "nt-11696"
+    },
+    {
+      "targetValue": [
+        "Plaza Amador",
+        "Chorrillo F.C."
+      ],
+      "utterance": "list each team with the most draws.",
+      "id": "nt-13170"
+    }
+  ],
+  "metadata": {
+    "title": "ANAPROF Apertura 2008",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15682637&oldid=545142730",
+    "tableIndex": 1,
+    "hashcode": "f68a16a2875f134bde8c417f31b3a97af540f920",
+    "id": 15682637,
+    "revision": 545142730
+  }
+}

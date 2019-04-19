@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Malaysia",
+      "utterance": "ravi sandrian and s. raj were both winners from what country?",
+      "id": "nt-2236"
+    },
+    {
+      "targetValue": "Philippines",
+      "utterance": "after malaysia - which country had the most champions between 2001 and 2010?",
+      "id": "nt-3952"
+    },
+    {
+      "targetValue": "Ravi Sandiran",
+      "utterance": "which is the above tengku hadzali shah",
+      "id": "nt-5902"
+    },
+    {
+      "targetValue": "Selbaraju Subramaniam",
+      "utterance": "who was the champion previous to s raj?",
+      "id": "nt-7087"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of champion for ronald l. briones",
+      "id": "nt-7858"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many known champions have their been for the open?",
+      "id": "nt-9700"
+    },
+    {
+      "targetValue": "SGD 900",
+      "utterance": "in the 2009 singapore open, after paying the prize money to the champion and the runner up - what was the amount left over?",
+      "id": "nt-10513"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many years do not have a runner up?",
+      "id": "nt-11959"
+    },
+    {
+      "targetValue": "Selbaraju Subramaniam",
+      "utterance": "who won the open the year after tengku hadzali shah won it?",
+      "id": "nt-13649"
+    }
+  ],
+  "metadata": {
+    "title": "Singapore Open (darts)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=28256065&oldid=475268406",
+    "tableIndex": 0,
+    "hashcode": "6dfbe5b9edab56ef5174971f818522b567551329",
+    "id": 28256065,
+    "revision": 475268406
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Jim Clark",
+      "utterance": "which driver appears the most?",
+      "id": "nt-74"
+    },
+    {
+      "targetValue": "Riccardo Patrese",
+      "utterance": "who was the next to last winner of the mexican grand prix?",
+      "id": "nt-1791"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "what is the total number of years the event was not held?",
+      "id": "nt-1976"
+    },
+    {
+      "targetValue": "McLaren-Honda",
+      "utterance": "did alan prost have mclaren-honda or ferrari as the constructor in 1988?",
+      "id": "nt-3781"
+    },
+    {
+      "targetValue": "Denny Hulme",
+      "utterance": "who won previous to graham hill?",
+      "id": "nt-7274"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many times has a british driver competed?",
+      "id": "nt-8326"
+    },
+    {
+      "targetValue": "Jim Clark",
+      "utterance": "who had the most wins?",
+      "id": "nt-9049"
+    },
+    {
+      "targetValue": "Riccardo Patrese",
+      "utterance": "who won the year before alain prost?",
+      "id": "nt-12634"
+    },
+    {
+      "targetValue": "Dan Gurney",
+      "utterance": "who was the first united states driver?",
+      "id": "nt-12778"
+    },
+    {
+      "targetValue": "30",
+      "utterance": "how many years in does the table cover?",
+      "id": "nt-12892"
+    }
+  ],
+  "metadata": {
+    "title": "Mexican Grand Prix",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1108831&oldid=600474065",
+    "tableIndex": 2,
+    "hashcode": "7a3679412b4eb936138f6375f1d6035939e74de0",
+    "id": 1108831,
+    "revision": 600474065
+  }
+}

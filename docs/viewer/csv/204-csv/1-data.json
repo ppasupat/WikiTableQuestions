@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "EHC Regensburg",
+      "utterance": "the only team to win the north in 2000-01 season?",
+      "id": "nt-1885"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many champions are listend in the north?",
+      "id": "nt-2571"
+    },
+    {
+      "targetValue": "SC Gaißach",
+      "utterance": "who won the south after esc geretsried did during the 2006-07 season?",
+      "id": "nt-4651"
+    },
+    {
+      "targetValue": "Bayreuth",
+      "utterance": "which name appears more often, kottern or bayreuth?",
+      "id": "nt-4980"
+    },
+    {
+      "targetValue": "EHC Regensburg",
+      "utterance": "what was the first club for the north in the 2000's?",
+      "id": "nt-6635"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "starting with the 2007 - 08 season, does ecs kempten appear in any of the previous years?",
+      "id": "nt-7774"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the number of seasons covered in the table?",
+      "id": "nt-8955"
+    },
+    {
+      "targetValue": "BTS Bayreuth",
+      "utterance": "who won the season in the north before ec bayreuth did in 2002-03?",
+      "id": "nt-12455"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of times deggendorfer sc ii is on the list?",
+      "id": "nt-12784"
+    },
+    {
+      "targetValue": "1. EC Senden",
+      "utterance": "the last team to win the west?",
+      "id": "nt-13573"
+    }
+  ],
+  "metadata": {
+    "title": "Bavarian ice hockey leagues",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16472737&oldid=545271302",
+    "tableIndex": 6,
+    "hashcode": "31f1608449eb5d1da6c1d7dddfb2034824f48d29",
+    "id": 16472737,
+    "revision": 545271302
+  }
+}

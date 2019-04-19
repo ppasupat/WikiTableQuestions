@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Ralf Schumacher",
+      "utterance": "which driver has the least amount of points?",
+      "id": "nt-881"
+    },
+    {
+      "targetValue": "Kimi Räikkönen",
+      "utterance": "which driver in the top 8, drives a mclaran-mercedes but is not in first place?",
+      "id": "nt-1386"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "is there a points difference between the 9th position and 19th position on the list?",
+      "id": "nt-1427"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many drivers received points from the race?",
+      "id": "nt-4849"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many drivers from germany?",
+      "id": "nt-5512"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of toyota's on the list?",
+      "id": "nt-6176"
+    },
+    {
+      "targetValue": "Jenson Button",
+      "utterance": "which driver has his grid at 2?",
+      "id": "nt-11191"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "after 8th position, how many points does a driver receive?",
+      "id": "nt-11391"
+    },
+    {
+      "targetValue": "Jenson Button",
+      "utterance": "which driver came after giancarlo fisichella?",
+      "id": "nt-12221"
+    }
+  ],
+  "metadata": {
+    "title": "2005 British Grand Prix",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2163765&oldid=598740642",
+    "tableIndex": 1,
+    "hashcode": "497817ab25b9840c0acd52b4dbbc8961432f2b4f",
+    "id": 2163765,
+    "revision": 598740642
+  }
+}

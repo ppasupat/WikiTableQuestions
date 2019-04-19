@@ -1,0 +1,50 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many teams were founded in morwell?",
+      "id": "nt-3988"
+    },
+    {
+      "targetValue": "More",
+      "utterance": "does churchill united have more or less titles than falcons 2000?",
+      "id": "nt-4177"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many teams have the color red in their team colours?",
+      "id": "nt-5120"
+    },
+    {
+      "targetValue": "Sale United",
+      "utterance": "which is the only club founded after 1970 whose nickname is a bird?",
+      "id": "nt-5597"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many titles does fortuna 60 have?",
+      "id": "nt-9337"
+    },
+    {
+      "targetValue": [
+        "East Gippsland United¹",
+        "Newborough/Yallourn"
+      ],
+      "utterance": "which clubs have no nickname?",
+      "id": "nt-13048"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many teams are from morwell?",
+      "id": "nt-13652"
+    }
+  ],
+  "metadata": {
+    "title": "Gippsland Soccer League",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11561991&oldid=597617015",
+    "tableIndex": 0,
+    "hashcode": "d41a833a52c3a36de817ccfb22a4a6f0667a890a",
+    "id": 11561991,
+    "revision": 597617015
+  }
+}

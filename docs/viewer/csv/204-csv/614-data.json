@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Essex Engine",
+      "utterance": "which plant builds the ford triton engine and the ford essex v6 engine?",
+      "id": "nt-1570"
+    },
+    {
+      "targetValue": "St. Louis Assembly",
+      "utterance": "which plant is listed first?",
+      "id": "nt-2447"
+    },
+    {
+      "targetValue": "Windsor Casting",
+      "utterance": "which plant had the least amount of employees laid off?",
+      "id": "nt-5301"
+    },
+    {
+      "targetValue": "Norfolk Assembly",
+      "utterance": "what is the top company that has the most employees?",
+      "id": "nt-5690"
+    },
+    {
+      "targetValue": "Maumee, Ohio",
+      "utterance": "where is the last plant on the list located?",
+      "id": "nt-10362"
+    },
+    {
+      "targetValue": "1310",
+      "utterance": "what is the average number of employees at a given plant?",
+      "id": "nt-11175"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of plants in ohio?",
+      "id": "nt-12384"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many plants manufacture items for ford?",
+      "id": "nt-12416"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many plants had more than 2000 employees laid off?",
+      "id": "nt-13360"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many plants have at least 1,500 employees?",
+      "id": "nt-13582"
+    }
+  ],
+  "metadata": {
+    "title": "The Way Forward",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3979387&oldid=584285861",
+    "tableIndex": 0,
+    "hashcode": "1915883373a2891fdd5c6fc22216d0e42370d263",
+    "id": 3979387,
+    "revision": 584285861
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Idaho Power Building",
+      "utterance": "what is the name of the last building on this chart?",
+      "id": "nt-1291"
+    },
+    {
+      "targetValue": "The Grove Hotel",
+      "utterance": "what is the name of the building listed after idaho state capitol?",
+      "id": "nt-1870"
+    },
+    {
+      "targetValue": "Zions Bank Building",
+      "utterance": "which building has the most floors according to this chart?",
+      "id": "nt-2354"
+    },
+    {
+      "targetValue": "Zions Bank Building Zions Bank Building in Downtown Boise, Idaho",
+      "utterance": "what is the tallest building in bosie, idaho?",
+      "id": "nt-3850"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of floors of the oldest building?",
+      "id": "nt-7960"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "how many floors does the tallest building have?",
+      "id": "nt-9549"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many buildings have at least ten floors?",
+      "id": "nt-10975"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many of these buildings were built after 1975",
+      "id": "nt-11667"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "what are the number of floors the us bank plaza has?",
+      "id": "nt-13156"
+    },
+    {
+      "targetValue": "above",
+      "utterance": "is the bronco stadium above or below 150 ft?",
+      "id": "nt-13723"
+    },
+    {
+      "targetValue": "98 m",
+      "utterance": "how tall (in meters) is the tallest building?",
+      "id": "nt-13746"
+    }
+  ],
+  "metadata": {
+    "title": "List of tallest buildings in Boise",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21973248&oldid=592523414",
+    "tableIndex": 0,
+    "hashcode": "d8c61eb11d1c536e757033011d66b8c042912606",
+    "id": 21973248,
+    "revision": 592523414
+  }
+}

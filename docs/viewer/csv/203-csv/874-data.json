@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "World Championships",
+      "utterance": "what was the name of the competition that took place before the olympic games in 1996?",
+      "id": "nt-805"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many times was first place listed as the position?",
+      "id": "nt-2886"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many events were at least 50 km?",
+      "id": "nt-3213"
+    },
+    {
+      "targetValue": "2004",
+      "utterance": "in what year was korzeniowski's last competition?",
+      "id": "nt-5510"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many times did korzeniowski finish above fourth place?",
+      "id": "nt-6001"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many times was korzeniowski disqualified from a competition?",
+      "id": "nt-6672"
+    },
+    {
+      "targetValue": "Athens, Greece",
+      "utterance": "which venue is listed the most?",
+      "id": "nt-9087"
+    },
+    {
+      "targetValue": "2:14",
+      "utterance": "what was the difference between korzeniowski's performance at the 1996 olympic games and the 2000 olympic games in the 20 km walk?",
+      "id": "nt-9544"
+    },
+    {
+      "targetValue": "3:38:46",
+      "utterance": "how long did it take to walk 50 km in the 2004 olympic games?",
+      "id": "nt-12253"
+    }
+  ],
+  "metadata": {
+    "title": "Robert Korzeniowski",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=979678&oldid=597945797",
+    "tableIndex": 0,
+    "hashcode": "12c0c34ccf1cf36988575756611ce4f31be228fd",
+    "id": 979678,
+    "revision": 597945797
+  }
+}

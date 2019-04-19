@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "1994",
+      "utterance": "what was the year in which no event was held?",
+      "id": "nt-1809"
+    },
+    {
+      "targetValue": "2002",
+      "utterance": "name one year that only had 6000 in attendance at lotusphere.",
+      "id": "nt-2572"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "what are the number of times the location was in orlando?",
+      "id": "nt-3203"
+    },
+    {
+      "targetValue": "10000",
+      "utterance": "how many people were in attendance to the event in the year 2000?",
+      "id": "nt-4269"
+    },
+    {
+      "targetValue": "Orlando",
+      "utterance": "which location is before the \"no event\" row of 1994?",
+      "id": "nt-6664"
+    },
+    {
+      "targetValue": "Energizing Life's work.",
+      "utterance": "what is the last theme phrase listed on this chart?",
+      "id": "nt-6877"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "how many events were there in total?",
+      "id": "nt-7098"
+    },
+    {
+      "targetValue": "4727",
+      "utterance": "how much more people were in attendance at the orlando lotusphere conference in 2001 than the one in 2004?",
+      "id": "nt-7622"
+    },
+    {
+      "targetValue": "2006",
+      "utterance": "what was the first year in which mike rhodin was the host?",
+      "id": "nt-11166"
+    },
+    {
+      "targetValue": "Orlando",
+      "utterance": "which location had the leargest attendeance?",
+      "id": "nt-11525"
+    },
+    {
+      "targetValue": "2001",
+      "utterance": "did 2001 or 2002 had the more attendence?",
+      "id": "nt-12533"
+    },
+    {
+      "targetValue": "2300",
+      "utterance": "how many were attendance at the lotusphere conference in orlando in 1993?",
+      "id": "nt-13774"
+    }
+  ],
+  "metadata": {
+    "title": "Lotusphere",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15503399&oldid=599627662",
+    "tableIndex": 0,
+    "hashcode": "fb33c75b2db195c316e2647d169264f944dbbd94",
+    "id": 15503399,
+    "revision": 599627662
+  }
+}

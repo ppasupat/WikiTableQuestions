@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "12",
+      "utterance": "what is the total number of awards that the film won or was nominated for?",
+      "id": "nt-4378"
+    },
+    {
+      "targetValue": "Mirchi Music Awards",
+      "utterance": "in which ceremony did the film win the most awards?",
+      "id": "nt-7155"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what are the total times 'won' was listed as the outcome?",
+      "id": "nt-7565"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how man awards did the film win at the mirchi music awards?",
+      "id": "nt-7871"
+    },
+    {
+      "targetValue": "Best Romantic Movie",
+      "utterance": "what is the name of the first category listed on this chart?",
+      "id": "nt-8105"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times is andrea jeremiah listed on this chart?",
+      "id": "nt-11478"
+    },
+    {
+      "targetValue": "Nominated",
+      "utterance": "which outcome is listed the most?",
+      "id": "nt-11803"
+    }
+  ],
+  "metadata": {
+    "title": "Goa (film)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20533089&oldid=600846289",
+    "tableIndex": 0,
+    "hashcode": "38ba3c1c89c906776d97eb3c9bbc0ed4eb03c914",
+    "id": 20533089,
+    "revision": 600846289
+  }
+}

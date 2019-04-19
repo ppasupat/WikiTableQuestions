@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Beit Yitzhak",
+      "utterance": "after you complete deganya road, what portion comes next?",
+      "id": "nt-614"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many sections intersect highway 2?",
+      "id": "nt-2952"
+    },
+    {
+      "targetValue": "Haniel",
+      "utterance": "which location comes after kfar yona?",
+      "id": "nt-4693"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many portions are lo?cated in netanya",
+      "id": "nt-5751"
+    },
+    {
+      "targetValue": "Begin Boulevard",
+      "utterance": "which portion has the same intersecting route as rabin boulevard?",
+      "id": "nt-8615"
+    },
+    {
+      "targetValue": "IDF checkpoint",
+      "utterance": "which section is longest??",
+      "id": "nt-8892"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many locations in netanya are there?",
+      "id": "nt-11671"
+    }
+  ],
+  "metadata": {
+    "title": "Highway 57 (Israel)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17542543&oldid=557146642",
+    "tableIndex": 0,
+    "hashcode": "8439a5293e5b5ec2588e8a0678bb14e080e0dab3",
+    "id": 17542543,
+    "revision": 557146642
+  }
+}

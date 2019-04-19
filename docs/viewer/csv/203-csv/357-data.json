@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "how many consecutive songs were by the album leaf?",
+      "id": "nt-212"
+    },
+    {
+      "targetValue": "27",
+      "utterance": "how many episodes are below 2.00?",
+      "id": "nt-4488"
+    },
+    {
+      "targetValue": "\"Burn Baby Burn\"",
+      "utterance": "the artist ash only had one song that appeared in the o.c. what is the name of that song?",
+      "id": "nt-4530"
+    },
+    {
+      "targetValue": "Franz Ferdinand",
+      "utterance": "what artist has more music appear in the show, daft punk or franz ferdinand?",
+      "id": "nt-13594"
+    },
+    {
+      "targetValue": "Beck",
+      "utterance": "\"girl\" and \"el pro\" were performed by which artist?",
+      "id": "nt-13653"
+    }
+  ],
+  "metadata": {
+    "title": "Music on The O.C.",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18502565&oldid=600492139",
+    "tableIndex": 1,
+    "hashcode": "22214e3336dc658dd9b428a9be3bb73bdf603153",
+    "id": 18502565,
+    "revision": 600492139
+  }
+}

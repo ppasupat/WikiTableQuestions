@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "siyam",
+      "utterance": "in the rinconada bikol language, what is the last single digit integer?",
+      "id": "nt-10665"
+    }
+  ],
+  "metadata": {
+    "title": "Rinconada Bikol language",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13780922&oldid=601073348",
+    "tableIndex": 4,
+    "hashcode": "a63fe995b2b1c3df98cae59b486c1e3168c47449",
+    "id": 13780922,
+    "revision": 601073348
+  }
+}

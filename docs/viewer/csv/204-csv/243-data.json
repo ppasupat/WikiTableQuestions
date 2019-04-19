@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "2010",
+        "2012"
+      ],
+      "utterance": "in which years did he release more than 2 albums?",
+      "id": "nt-1630"
+    },
+    {
+      "targetValue": "\"Healing\"",
+      "utterance": "was the song \"healing\" or the song \"boys and girls\" with trax?",
+      "id": "nt-2558"
+    },
+    {
+      "targetValue": "Only One",
+      "utterance": "what album was published next after mama?",
+      "id": "nt-3166"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the total number of albums listed?",
+      "id": "nt-5397"
+    },
+    {
+      "targetValue": "\"Delicious\"",
+      "utterance": "what is the most recent song on which they collaborated?",
+      "id": "nt-6523"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many years were between the albums only one and toheart?",
+      "id": "nt-6890"
+    },
+    {
+      "targetValue": "History of Salary Man OST",
+      "utterance": "what album was previous to one dream?",
+      "id": "nt-8430"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of albums made in 2012?",
+      "id": "nt-10048"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many collaborations did key release during 2010?",
+      "id": "nt-11252"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many albums has key produced after 2010?",
+      "id": "nt-13743"
+    }
+  ],
+  "metadata": {
+    "title": "Key (singer)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18586680&oldid=602195216",
+    "tableIndex": 2,
+    "hashcode": "c360f50882319b47781804607e42ff0020b318a6",
+    "id": 18586680,
+    "revision": 602195216
+  }
+}

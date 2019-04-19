@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "459,640",
+      "utterance": "what is the total number of popular votes cast in 2003?",
+      "id": "nt-42"
+    },
+    {
+      "targetValue": "2003",
+      "utterance": "which election was the first to reach over 40% of the popular vote?",
+      "id": "nt-129"
+    },
+    {
+      "targetValue": "2011",
+      "utterance": "other than the 2007 election, which election had approximately 39% of the popular vote?",
+      "id": "nt-1304"
+    },
+    {
+      "targetValue": "83",
+      "utterance": "how many total elected seats in 1991?",
+      "id": "nt-2270"
+    },
+    {
+      "targetValue": "2003",
+      "utterance": "which election had the highest percentage of popular votes - 2003 or 2007?",
+      "id": "nt-3742"
+    },
+    {
+      "targetValue": "2003",
+      "utterance": "what was the only election with more than 450,000 popular votes?",
+      "id": "nt-4131"
+    },
+    {
+      "targetValue": "1999",
+      "utterance": "what was the last election to have under 35% of the popular votes?",
+      "id": "nt-4160"
+    },
+    {
+      "targetValue": "121",
+      "utterance": "how many seats were won in the year 1994?",
+      "id": "nt-4462"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many elections had more than 200,000 popular votes?",
+      "id": "nt-5006"
+    }
+  ],
+  "metadata": {
+    "title": "Pan-democracy camp",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3291227&oldid=599199142",
+    "tableIndex": 3,
+    "hashcode": "69fcb290763ebd191e81fc728f6a9f70c2a6e5a6",
+    "id": 3291227,
+    "revision": 599199142
+  }
+}

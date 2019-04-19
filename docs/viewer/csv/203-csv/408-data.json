@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Ayrton Senna",
+      "utterance": "who was the top driver in round 14?",
+      "id": "nt-2973"
+    },
+    {
+      "targetValue": "Satoru Nakajima",
+      "utterance": "who had the fastest lap in the last grand prix of the season?",
+      "id": "nt-4790"
+    },
+    {
+      "targetValue": "Ayrton Senna",
+      "utterance": "who had pole position the most times?",
+      "id": "nt-6720"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "what is the total number of rounds?",
+      "id": "nt-6997"
+    },
+    {
+      "targetValue": "Ayrton Senna",
+      "utterance": "who was the winning driver after nigel mansell?",
+      "id": "nt-8072"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times has nigel mansell been the winning driver?",
+      "id": "nt-10583"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what is the total number of times ayrton senna has held the pole position?",
+      "id": "nt-12071"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many grand prix had mclaren honda as constructor?",
+      "id": "nt-12341"
+    },
+    {
+      "targetValue": "Alain Prost",
+      "utterance": "who placed first in round 8?",
+      "id": "nt-12790"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many consecutive races in a row was ayrton senna the winning driver?",
+      "id": "nt-12930"
+    }
+  ],
+  "metadata": {
+    "title": "1989 Formula One season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1137718&oldid=601524759",
+    "tableIndex": 1,
+    "hashcode": "b9e8ffa33dc8ef00ed6566e235abf40ed628b6c1",
+    "id": 1137718,
+    "revision": 601524759
+  }
+}

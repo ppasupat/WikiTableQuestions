@@ -1,0 +1,69 @@
+{
+  "examples": [
+    {
+      "targetValue": "402,026",
+      "utterance": "the least number of kilometres traveled was what number?",
+      "id": "nt-4166"
+    },
+    {
+      "targetValue": "476,489",
+      "utterance": "how many kilometers did number 4110 travel?",
+      "id": "nt-4970"
+    },
+    {
+      "targetValue": "4105",
+      "utterance": "which locomotive did not have any info after it entered into service?",
+      "id": "nt-4995"
+    },
+    {
+      "targetValue": "22 Feb 1954",
+      "utterance": "only 402,026 kilometres were travelled in what service date?",
+      "id": "nt-7319"
+    },
+    {
+      "targetValue": "4101",
+      "utterance": "which locomotive was the first to enter into service?",
+      "id": "nt-7722"
+    },
+    {
+      "targetValue": "4101",
+      "utterance": "what was the next locomotive to be withdrawn after locomotive 4106",
+      "id": "nt-8164"
+    },
+    {
+      "targetValue": "492,650",
+      "utterance": "what was the most kilometres traveled?",
+      "id": "nt-9486"
+    },
+    {
+      "targetValue": [
+        "1000",
+        "1002",
+        "1003",
+        "1004",
+        "1007",
+        "1010"
+      ],
+      "utterance": "what serial numbers travelled more than 440,000 kilometers?",
+      "id": "nt-9774"
+    },
+    {
+      "targetValue": "30 Oct 1953",
+      "utterance": "when was number 4102 entered into service?",
+      "id": "nt-13078"
+    },
+    {
+      "targetValue": "4103",
+      "utterance": "which locomotive entered service first: 4107 or 4103?",
+      "id": "nt-13304"
+    }
+  ],
+  "metadata": {
+    "title": "New South Wales 41 class locomotive",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17683985&oldid=602153460",
+    "tableIndex": 0,
+    "hashcode": "e04d8dafad37f80dbf6028aabe7580688778bd30",
+    "id": 17683985,
+    "revision": 602153460
+  }
+}

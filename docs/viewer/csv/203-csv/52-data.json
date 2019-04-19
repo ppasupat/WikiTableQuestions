@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "1144",
+      "utterance": "how many laps total were completed by all drivers?",
+      "id": "nt-2836"
+    },
+    {
+      "targetValue": "70",
+      "utterance": "how many total laps were there in the 2008 canadian grand prix?",
+      "id": "nt-3488"
+    },
+    {
+      "targetValue": "Robert Kubica",
+      "utterance": "who placed first in the 2008 canadian grand prix?",
+      "id": "nt-4298"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the number of drivers that finished the 2008 canadian grand prix before jarno trulli?",
+      "id": "nt-5613"
+    },
+    {
+      "targetValue": "Robert Kubica",
+      "utterance": "who had the fastest lap time?",
+      "id": "nt-6798"
+    },
+    {
+      "targetValue": "Jenson Button",
+      "utterance": "who finished after nico rosberg?",
+      "id": "nt-7106"
+    },
+    {
+      "targetValue": "Lewis Hamilton",
+      "utterance": "adrian sutil had to retire before which driver?",
+      "id": "nt-8077"
+    },
+    {
+      "targetValue": "Sebastian Vettel",
+      "utterance": "who was the last driver listed to receive points?",
+      "id": "nt-8576"
+    },
+    {
+      "targetValue": "Adrian Sutil",
+      "utterance": "of all the retired drivers, which of them completed the least amount of laps?",
+      "id": "nt-8704"
+    },
+    {
+      "targetValue": "Germany",
+      "utterance": "which country did most drivers represent?",
+      "id": "nt-10114"
+    },
+    {
+      "targetValue": "Robert Kubica",
+      "utterance": "who earned the top amount of points?",
+      "id": "nt-11712"
+    },
+    {
+      "targetValue": "1:36:24.227",
+      "utterance": "how long did robert kubica take to complete the race?",
+      "id": "nt-13137"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many drivers completed at least 45 laps?",
+      "id": "nt-13520"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many cars spun off the track?",
+      "id": "nt-13854"
+    }
+  ],
+  "metadata": {
+    "title": "2008 Canadian Grand Prix",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14233950&oldid=584926092",
+    "tableIndex": 1,
+    "hashcode": "f7f95217ac512cecb33659a67c11ccfacceaaf83",
+    "id": 14233950,
+    "revision": 584926092
+  }
+}

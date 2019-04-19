@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "no",
+      "utterance": "did the team finish the same as they did in 1956?",
+      "id": "nt-1610"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many fourth place finishes did they have?",
+      "id": "nt-2895"
+    },
+    {
+      "targetValue": "Alberto Hidalgo",
+      "utterance": "which manager had consecutive seasons?",
+      "id": "nt-2933"
+    },
+    {
+      "targetValue": "1962-63",
+      "utterance": "which year did they win their least amount of games?",
+      "id": "nt-3708"
+    },
+    {
+      "targetValue": "1962-63",
+      "utterance": "what season had the least amount of wins?",
+      "id": "nt-5927"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many managers total finished second place?",
+      "id": "nt-6279"
+    },
+    {
+      "targetValue": "1959-60",
+      "utterance": "which year did no one win?",
+      "id": "nt-9717"
+    }
+  ],
+  "metadata": {
+    "title": "Indios de Oriente",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=39565293&oldid=597948872",
+    "tableIndex": 0,
+    "hashcode": "f9ebdd668d8d0a578d734033d967c7554fccb1ea",
+    "id": 39565293,
+    "revision": 597948872
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many drivers completed the 2007 steelback grand prix?",
+      "id": "nt-1406"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the total number of teams?",
+      "id": "nt-1677"
+    },
+    {
+      "targetValue": "73",
+      "utterance": "what was the difference between the number of laps alex figge completed and the number of laps that will power completed?",
+      "id": "nt-1766"
+    },
+    {
+      "targetValue": "RSPORTS",
+      "utterance": "what team were justin wilson and alex tagliani on?",
+      "id": "nt-2532"
+    },
+    {
+      "targetValue": "Katherine Legge",
+      "utterance": "what driver placed before ale figge?",
+      "id": "nt-2602"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many total laps did alex figge complete?",
+      "id": "nt-2722"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many drivers earned at least 20 points or more?",
+      "id": "nt-2833"
+    },
+    {
+      "targetValue": "Will Power",
+      "utterance": "which driver scored the top number of points?",
+      "id": "nt-3058"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what were the total number of drivers that had contact listed under their time?",
+      "id": "nt-4632"
+    },
+    {
+      "targetValue": "Tristan Gommendy",
+      "utterance": "who placed next after paul tracy?",
+      "id": "nt-7011"
+    },
+    {
+      "targetValue": [
+        "Justin Wilson",
+        "Neel Jani",
+        "Will Power"
+      ],
+      "utterance": "which drivers finished the 2007 steelback grand prix before simon pagenaud?",
+      "id": "nt-10432"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many different teams were represented at the 2007 steelback grand prix?",
+      "id": "nt-13710"
+    }
+  ],
+  "metadata": {
+    "title": "2007 Steelback Grand Prix",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12126919&oldid=564133873",
+    "tableIndex": 1,
+    "hashcode": "485e6b34505ab9d11952f0bb01161d8031d19d79",
+    "id": 12126919,
+    "revision": 564133873
+  }
+}

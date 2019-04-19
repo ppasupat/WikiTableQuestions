@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "1998",
+      "utterance": "when was the benetton b198 chassis used?",
+      "id": "nt-223"
+    },
+    {
+      "targetValue": "1998",
+      "utterance": "in what year did the highest number of points occur?",
+      "id": "nt-3436"
+    }
+  ],
+  "metadata": {
+    "title": "Playlife",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1218394&oldid=548786367",
+    "tableIndex": 0,
+    "hashcode": "c09281b4f599845f59af402ba8b057f5aa2456a5",
+    "id": 1218394,
+    "revision": 548786367
+  }
+}

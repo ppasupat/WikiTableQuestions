@@ -1,0 +1,26 @@
+{
+  "examples": [
+    {
+      "targetValue": "M-13DD",
+      "utterance": "which katyusha launcher has the best range?",
+      "id": "nt-8276"
+    },
+    {
+      "targetValue": [
+        "M-30",
+        "M-31",
+        "M-31UK"
+      ],
+      "utterance": "which three weapons have the highest caliber?",
+      "id": "nt-9648"
+    }
+  ],
+  "metadata": {
+    "title": "Katyusha rocket launcher",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16959&oldid=596813796",
+    "tableIndex": 1,
+    "hashcode": "a426daa03ba74677536c1d5c500059c97d801d65",
+    "id": 16959,
+    "revision": 596813796
+  }
+}

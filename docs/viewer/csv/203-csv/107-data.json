@@ -1,0 +1,73 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Joe Calzaghe",
+        "Sven Ottke"
+      ],
+      "utterance": "which 2 super middleweight champions both had the same about of successful defenses?",
+      "id": "nt-1149"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what were the total amount of successful defenses andre ward had?",
+      "id": "nt-1887"
+    },
+    {
+      "targetValue": "27",
+      "utterance": "what is the total number of title defenses completed by german champions?",
+      "id": "nt-2881"
+    },
+    {
+      "targetValue": "10 years, 11 months, 15 days",
+      "utterance": "how long was the longest title reign?",
+      "id": "nt-3023"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "what is the difference between the number of successful defenses by joe calzaghe and robert stieglitz?",
+      "id": "nt-3251"
+    },
+    {
+      "targetValue": [
+        "Joe Calzaghe",
+        "Sven Ottke"
+      ],
+      "utterance": "who had the most successful defenses?",
+      "id": "nt-5735"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the number of times the title reign was longer than 3 years?",
+      "id": "nt-6428"
+    },
+    {
+      "targetValue": "Denmark",
+      "utterance": "what country does the least amount of successful defenses come from?",
+      "id": "nt-8156"
+    },
+    {
+      "targetValue": "Joe Calzaghe",
+      "utterance": "who is the only champion to reign for more than 10 years?",
+      "id": "nt-10918"
+    },
+    {
+      "targetValue": "5 years, 5 months, 3 days",
+      "utterance": "what is the longest title reign after champion joe calzaghe?",
+      "id": "nt-12886"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many champions had at least 10 title defenses?",
+      "id": "nt-13244"
+    }
+  ],
+  "metadata": {
+    "title": "Super middleweight",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2388308&oldid=597736782",
+    "tableIndex": 1,
+    "hashcode": "56e9d1d01b6f279d015f48bb0e4e1c516ca2ab31",
+    "id": 2388308,
+    "revision": 597736782
+  }
+}

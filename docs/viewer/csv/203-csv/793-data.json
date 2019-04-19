@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "1981",
+      "utterance": "in what year did he have the most international goals?",
+      "id": "nt-2244"
+    },
+    {
+      "targetValue": "1981",
+      "utterance": "what year did he score more goals than any other year?",
+      "id": "nt-2407"
+    },
+    {
+      "targetValue": "France",
+      "utterance": "who was the opponent before mexico?",
+      "id": "nt-3031"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many opponents are listed?",
+      "id": "nt-3059"
+    },
+    {
+      "targetValue": "1-1",
+      "utterance": "the 27 march 1977 and the 20 june 1982 games each resulted in a score of what?",
+      "id": "nt-4035"
+    },
+    {
+      "targetValue": "20 June 1982",
+      "utterance": "what was the date of the last game?",
+      "id": "nt-4191"
+    },
+    {
+      "targetValue": "Yugoslavia",
+      "utterance": "what opponent is listed below venezuela?",
+      "id": "nt-4714"
+    },
+    {
+      "targetValue": "4 October 1978",
+      "utterance": "which date is listed after 27 march 1977?",
+      "id": "nt-4869"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the total number of fifa world cup goals scored by juan gómez gonzález?",
+      "id": "nt-8093"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "for how many consecutive years did juan gómez gonzález score international goals?",
+      "id": "nt-8644"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many international goals did juan gómez gonzález score against yugoslavia?",
+      "id": "nt-11940"
+    }
+  ],
+  "metadata": {
+    "title": "Juan Gómez González",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1422285&oldid=595060584",
+    "tableIndex": 0,
+    "hashcode": "9b114b83acd6e7a01523dfd6194eb89fe79d893d",
+    "id": 1422285,
+    "revision": 595060584
+  }
+}

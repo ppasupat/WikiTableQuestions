@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many songs was claudio zoli the original artist?",
+      "id": "nt-600"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "is the order # of top 6 greater than that of top 8?",
+      "id": "nt-2206"
+    },
+    {
+      "targetValue": "Birth Year Songs",
+      "utterance": "which came first, the judge's choice or birth year song?",
+      "id": "nt-2899"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what were the total number of weeks in which lopes was considered to be \"safe.\"",
+      "id": "nt-6167"
+    },
+    {
+      "targetValue": "Cláudio Zoli",
+      "utterance": "name an original artist that had their song performed two consecutive weeks.",
+      "id": "nt-7612"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "is the order # of top 10 more than that of top 7?",
+      "id": "nt-9928"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many themes are presented?",
+      "id": "nt-11716"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many songs sung were by cláudio zoli?",
+      "id": "nt-13765"
+    }
+  ],
+  "metadata": {
+    "title": "Leandro Lopes",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8403407&oldid=587569444",
+    "tableIndex": 0,
+    "hashcode": "96d916838d0a74152ea9a097acd4aead3a234029",
+    "id": 8403407,
+    "revision": 587569444
+  }
+}

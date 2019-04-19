@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "6.1 x 6.1",
+      "utterance": "how long is the size (m) of algeria?",
+      "id": "nt-2293"
+    },
+    {
+      "targetValue": "Europe",
+      "utterance": "which is the other besides asia the most region charted",
+      "id": "nt-4909"
+    },
+    {
+      "targetValue": "Virginia",
+      "utterance": "what country is last on the list?",
+      "id": "nt-5360"
+    },
+    {
+      "targetValue": "67",
+      "utterance": "how many tables are in asia?",
+      "id": "nt-6003"
+    },
+    {
+      "targetValue": "Location",
+      "utterance": "what field comes previous to size in the table?",
+      "id": "nt-6189"
+    },
+    {
+      "targetValue": "North America",
+      "utterance": "which is the least region charted on this chart",
+      "id": "nt-7089"
+    },
+    {
+      "targetValue": "University of Witwatersrand",
+      "utterance": "which table has a higher horiz disp, university of witwatersrand or iit guwahati?",
+      "id": "nt-13636"
+    }
+  ],
+  "metadata": {
+    "title": "Earthquake shaking table",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16865499&oldid=598974412",
+    "tableIndex": 0,
+    "hashcode": "a183fe0c47027b55c317a2b2db16df13686f6abd",
+    "id": 16865499,
+    "revision": 598974412
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "examples": [
+    {
+      "targetValue": "0",
+      "utterance": "how many votes were counted as invalid or blank votes?",
+      "id": "nt-1905"
+    },
+    {
+      "targetValue": "112,781",
+      "utterance": "how many more votes did the liberal democratic league win over the free-thinking democratic league?",
+      "id": "nt-4461"
+    },
+    {
+      "targetValue": [
+        "Liberal Democratic League",
+        "Anti Revolutionary Party",
+        "General League of Roman Catholic Caucuses"
+      ],
+      "utterance": "name the top three parties?",
+      "id": "nt-5021"
+    },
+    {
+      "targetValue": "34",
+      "utterance": "after the election, how many seats did the liberal democratic league win?",
+      "id": "nt-11542"
+    }
+  ],
+  "metadata": {
+    "title": "Dutch general election, 1905",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=803966&oldid=542590637",
+    "tableIndex": 0,
+    "hashcode": "45c43c07fbf2edd3dbff17420821595cd82aebfa",
+    "id": 803966,
+    "revision": 542590637
+  }
+}

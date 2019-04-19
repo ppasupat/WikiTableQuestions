@@ -1,0 +1,33 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Trinidad and Tobago",
+        "Jamaica",
+        "Cuba",
+        "Martinique",
+        "Haiti"
+      ],
+      "utterance": "name all winners of the caribbean cup",
+      "id": "nt-822"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many titles has jamaica won since trinidad and tobago's last title?",
+      "id": "nt-5713"
+    },
+    {
+      "targetValue": "Jamaica",
+      "utterance": "which team has best percentage of titles to runner up finishes?",
+      "id": "nt-10459"
+    }
+  ],
+  "metadata": {
+    "title": "Caribbean Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1125578&oldid=587506631",
+    "tableIndex": 1,
+    "hashcode": "a1c3e044d69d9a21f40c3a4a3489fbbe5646f094",
+    "id": 1125578,
+    "revision": 587506631
+  }
+}

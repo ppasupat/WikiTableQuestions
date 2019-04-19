@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "Boxing",
+      "utterance": "which sport had the least silver medalists?",
+      "id": "nt-382"
+    },
+    {
+      "targetValue": "Aparna Popat",
+      "utterance": "which player competed in women's singles and won a silver medal?",
+      "id": "nt-1039"
+    },
+    {
+      "targetValue": "Weightlifting",
+      "utterance": "in what sport did india win the most silver medals?",
+      "id": "nt-1096"
+    },
+    {
+      "targetValue": [
+        "Arumugam K. Pandian",
+        "Satheesha Rai"
+      ],
+      "utterance": "which two silver medalists had 2 weightlifting silver medals each?",
+      "id": "nt-5871"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many silver medals did satheesha rai win according to the table?",
+      "id": "nt-8694"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many silver medals did india win in shooting?",
+      "id": "nt-9683"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many silver medalists did not have at least 2 silver medals listed?",
+      "id": "nt-10964"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many total silver medals did india win?",
+      "id": "nt-11181"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many total sports had silver medals awarded?",
+      "id": "nt-11249"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what was the number of silver metals given for weightlifting?",
+      "id": "nt-12403"
+    }
+  ],
+  "metadata": {
+    "title": "India at the 1998 Commonwealth Games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=28889938&oldid=549931169",
+    "tableIndex": 1,
+    "hashcode": "37468904c89484a26aaacc22f32a497533b5e962",
+    "id": 28889938,
+    "revision": 549931169
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Costa Rica",
+      "utterance": "are more managers from costa rica or brazil?",
+      "id": "nt-621"
+    },
+    {
+      "targetValue": "Limón",
+      "utterance": "what city is listed below heredia?",
+      "id": "nt-3304"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many teams are there in this league?",
+      "id": "nt-4984"
+    },
+    {
+      "targetValue": "13,790",
+      "utterance": "how many more people can sit in the alajuela's stadium than puntarenas?",
+      "id": "nt-7142"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what is the total number of teams playing in this division?",
+      "id": "nt-8919"
+    },
+    {
+      "targetValue": "Ricardo Saprissa",
+      "utterance": "what is the name of the biggest capacity stadium?",
+      "id": "nt-9022"
+    },
+    {
+      "targetValue": "Estadio Municipal de Tarrazú",
+      "utterance": "what stadium can seat the least number of people?",
+      "id": "nt-9414"
+    },
+    {
+      "targetValue": "Ricardo Saprissa",
+      "utterance": "which is the only stadium with a capacity of larger than 20,000?",
+      "id": "nt-10105"
+    },
+    {
+      "targetValue": "23,000",
+      "utterance": "what is the most amount of people that can attend a deportivo saprissa game in ricardo saprissa?",
+      "id": "nt-11086"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many managers from uruguay?",
+      "id": "nt-11177"
+    },
+    {
+      "targetValue": "4500",
+      "utterance": "what is the sum of the capacity of both tarrazu and guapiles stadiums?",
+      "id": "nt-11902"
+    }
+  ],
+  "metadata": {
+    "title": "2011–12 Costa Rican Primera División season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=32233355&oldid=584984173",
+    "tableIndex": 0,
+    "hashcode": "4ef2a69b2be009b24547a117a38638659e5c7841",
+    "id": 32233355,
+    "revision": 584984173
+  }
+}

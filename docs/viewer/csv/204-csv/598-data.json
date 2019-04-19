@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "what is the total number of senior advisors that there has been?",
+      "id": "nt-3506"
+    },
+    {
+      "targetValue": "David Axelrod",
+      "utterance": "which senior advisor is after pete rouse?",
+      "id": "nt-3873"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many advisors were in office for less than 3 years?",
+      "id": "nt-5475"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many years did karl rove stay in office?",
+      "id": "nt-6649"
+    },
+    {
+      "targetValue": "Daniel Pfeiffer",
+      "utterance": "who was the last senior advisor to be named in 2013?",
+      "id": "nt-6900"
+    },
+    {
+      "targetValue": "Barry Steven Jackson",
+      "utterance": "name the advisor who served under the same president as karl rove.",
+      "id": "nt-6916"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many years did david plouffe serve?",
+      "id": "nt-11592"
+    },
+    {
+      "targetValue": "Barry Steven Jackson",
+      "utterance": "who was the previous advisor before pete rouse?",
+      "id": "nt-13379"
+    }
+  ],
+  "metadata": {
+    "title": "Senior Advisor to the President of the United States",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=29024072&oldid=595687263",
+    "tableIndex": 0,
+    "hashcode": "5e02c97f984c27638e35ed58346163f3c878c653",
+    "id": 29024072,
+    "revision": 595687263
+  }
+}

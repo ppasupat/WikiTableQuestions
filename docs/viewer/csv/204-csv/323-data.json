@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many films did ms. starfelt produce after 2010?",
+      "id": "nt-1178"
+    },
+    {
+      "targetValue": "2008",
+      "utterance": "which year was there at least three movies?",
+      "id": "nt-2149"
+    },
+    {
+      "targetValue": "Lorenda Starfelt",
+      "utterance": "who was the first producer that made the film sing*ularity?",
+      "id": "nt-2366"
+    },
+    {
+      "targetValue": "5 years",
+      "utterance": "how long was the film schooled out before beginning blue?",
+      "id": "nt-3457"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many years before was the film bacchae out before the watermelon?",
+      "id": "nt-5121"
+    },
+    {
+      "targetValue": "The Audacity of Democracy",
+      "utterance": "what documentary film was produced before the year 2011 but after 2008?",
+      "id": "nt-5849"
+    },
+    {
+      "targetValue": "The Watermelon",
+      "utterance": "which film was before the audacity of democracy?",
+      "id": "nt-10507"
+    },
+    {
+      "targetValue": "2008",
+      "utterance": "in which year did ms. starfelt produce the most films?",
+      "id": "nt-11088"
+    }
+  ],
+  "metadata": {
+    "title": "Lorenda Starfelt",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=23652717&oldid=598026559",
+    "tableIndex": 0,
+    "hashcode": "81491c7ad6ac2443704845652630023ffd9b1b49",
+    "id": 23652717,
+    "revision": 598026559
+  }
+}

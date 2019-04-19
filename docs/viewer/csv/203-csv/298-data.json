@@ -1,0 +1,58 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Thailand",
+        "Commonwealth realms"
+      ],
+      "utterance": "name the two kingdoms whose monarchs have the longest and second longest reign.",
+      "id": "nt-1180"
+    },
+    {
+      "targetValue": "Akihito",
+      "utterance": "which person reigned for 25 years and are from japan?",
+      "id": "nt-1929"
+    },
+    {
+      "targetValue": [
+        "Bhumibol Adulyadej",
+        "Elizabeth II",
+        "Abdul Halim",
+        "Sikiru Kayode Adetona"
+      ],
+      "utterance": "which monarchs reined for more than 50 years?",
+      "id": "nt-3719"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total number of monarchs that ascended the throne in 2010?",
+      "id": "nt-4038"
+    },
+    {
+      "targetValue": [
+        "Akihito",
+        "Francis"
+      ],
+      "utterance": "besides bhumibol adulyadej, which other people were born in december?",
+      "id": "nt-9457"
+    },
+    {
+      "targetValue": "43",
+      "utterance": "how many reigned for less time than carl xvi gustaf?",
+      "id": "nt-12257"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many reigned more than 50 years?",
+      "id": "nt-12899"
+    }
+  ],
+  "metadata": {
+    "title": "Current reigning monarchs by length of reign",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1753437&oldid=594531292",
+    "tableIndex": 0,
+    "hashcode": "c06f8a06bc41b0d692d64cef258968b008029578",
+    "id": 1753437,
+    "revision": 594531292
+  }
+}

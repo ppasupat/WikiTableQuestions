@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Andres Guillama",
+      "utterance": "which contestant is the same age as chris hodgson?",
+      "id": "nt-1007"
+    },
+    {
+      "targetValue": "Daniela Perez-Reyes",
+      "utterance": "who was the first contestant to be eliminated on season 9 of food network star?",
+      "id": "nt-3558"
+    },
+    {
+      "targetValue": "Viet Pham",
+      "utterance": "who was eliminated first, nikki dinki or viet pham?",
+      "id": "nt-5889"
+    },
+    {
+      "targetValue": "Andres Guillama",
+      "utterance": "which competitor only lasted two weeks?",
+      "id": "nt-6514"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many competitors were under the age of 30?",
+      "id": "nt-9767"
+    },
+    {
+      "targetValue": "Nikki Dinki",
+      "utterance": "which contestant's culinary point of view had a longer description than \"vintage with a modern twist\"?",
+      "id": "nt-10499"
+    },
+    {
+      "targetValue": "Damaris Phillips",
+      "utterance": "who was the top chef?",
+      "id": "nt-13295"
+    }
+  ],
+  "metadata": {
+    "title": "Food Network Star",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2035825&oldid=587136908",
+    "tableIndex": 8,
+    "hashcode": "25e2e8e992bda030503b9a458fef2b6193846fa9",
+    "id": 2035825,
+    "revision": 587136908
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Amelia Victoria Vega Polanco",
+      "utterance": "who was the youngest delegate for miss dominican republic in 2002?",
+      "id": "nt-1812"
+    },
+    {
+      "targetValue": "30",
+      "utterance": "what was the total number of delegates?",
+      "id": "nt-2325"
+    },
+    {
+      "targetValue": "30",
+      "utterance": "the number of delegates in competition",
+      "id": "nt-3461"
+    },
+    {
+      "targetValue": "Amelia Victoria Vega Polanco",
+      "utterance": "the tallest delegate",
+      "id": "nt-3951"
+    },
+    {
+      "targetValue": "Amelia Victoria Vega Polanco",
+      "utterance": "who was the tallest delegate for miss dominican republic in 2002?",
+      "id": "nt-9692"
+    },
+    {
+      "targetValue": "Amelia Victoria Vega Polanco",
+      "utterance": "who was the only 17 year old delegate?",
+      "id": "nt-10720"
+    },
+    {
+      "targetValue": "Lourdes Medina Acosta",
+      "utterance": "if you lined the contestants up by height with shortest first and tallest last, which contestant would be next after carolina ayala cromen?",
+      "id": "nt-11363"
+    },
+    {
+      "targetValue": "Carol María Arciniegas Jiménez",
+      "utterance": "who was the only delegate for miss dominican republic in 2002 who represented a region outside of the dominican republic?",
+      "id": "nt-13654"
+    }
+  ],
+  "metadata": {
+    "title": "Miss Dominican Republic 2002",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14959613&oldid=576540869",
+    "tableIndex": 1,
+    "hashcode": "4d4b2877a3f9a6cd44827d3789b6b9507d65c7d8",
+    "id": 14959613,
+    "revision": 576540869
+  }
+}

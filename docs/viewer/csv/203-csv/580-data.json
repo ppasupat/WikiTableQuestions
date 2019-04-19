@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Windows",
+      "utterance": "which kind of computer can most of the games be played on?",
+      "id": "nt-28"
+    },
+    {
+      "targetValue": "29",
+      "utterance": "how many lego games are there?",
+      "id": "nt-1347"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many types of smartphones can lego creationary be played on?",
+      "id": "nt-1922"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many games were released for smartphones?",
+      "id": "nt-3600"
+    },
+    {
+      "targetValue": "Bionicle: Maze of Shadows",
+      "utterance": "what was the last released game for game boy advance?",
+      "id": "nt-3649"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "is bionicle heroes available on more/less systems than lego chess?",
+      "id": "nt-6169"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many more consoles can bionicle heroes be played on than bionicle: the game?",
+      "id": "nt-8279"
+    },
+    {
+      "targetValue": "Lego Island",
+      "utterance": "what was the first game released?",
+      "id": "nt-9161"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many total action-adventure genre games are there?",
+      "id": "nt-9368"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "whats the number of games released in 1998?",
+      "id": "nt-12640"
+    },
+    {
+      "targetValue": "Bionicle: The Game",
+      "utterance": "name one game that you can not play on the wii.",
+      "id": "nt-13549"
+    }
+  ],
+  "metadata": {
+    "title": "List of Lego video games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3551842&oldid=601721028",
+    "tableIndex": 0,
+    "hashcode": "316155463bb15190a4f79062670914f4584ced09",
+    "id": 3551842,
+    "revision": 601721028
+  }
+}

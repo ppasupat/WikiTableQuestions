@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Kindersley",
+      "utterance": "which town has the most people in their 2011 population?",
+      "id": "nt-2198"
+    },
+    {
+      "targetValue": "Rockglen",
+      "utterance": "name a city whose population was no more than 400 in 2011.",
+      "id": "nt-2656"
+    },
+    {
+      "targetValue": "Scott",
+      "utterance": "what city has the least amount of population?",
+      "id": "nt-3008"
+    },
+    {
+      "targetValue": "Preeceville",
+      "utterance": "which town comes after porcupine plain in alphabetical order?",
+      "id": "nt-5036"
+    },
+    {
+      "targetValue": "599",
+      "utterance": "what is the total population for aberdeen in 2011?",
+      "id": "nt-5173"
+    },
+    {
+      "targetValue": "Broadview",
+      "utterance": "which town has the same population in 2011 as bruno?",
+      "id": "nt-7514"
+    },
+    {
+      "targetValue": "941",
+      "utterance": "how many people total are there in aberdeen and alameda combined?",
+      "id": "nt-8501"
+    },
+    {
+      "targetValue": "Big River",
+      "utterance": "what is the first town with \"river\" in its name?",
+      "id": "nt-10046"
+    },
+    {
+      "targetValue": "5350",
+      "utterance": "what is the combined 2011 population of battleford and oxbow?",
+      "id": "nt-11997"
+    }
+  ],
+  "metadata": {
+    "title": "List of towns in Saskatchewan",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12604853&oldid=586297094",
+    "tableIndex": 0,
+    "hashcode": "f1346cdd015a0a35ce40d1f469ebc12615e2abe9",
+    "id": 12604853,
+    "revision": 586297094
+  }
+}

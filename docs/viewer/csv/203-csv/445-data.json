@@ -1,0 +1,69 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "perfect fifth",
+        "septendecimal tritone",
+        "septimal tritone",
+        "tridecimal tritone",
+        "11th harmonic",
+        "(15:11) augmented fourth"
+      ],
+      "utterance": "what is each interval name with a size (cents) greater than 500?",
+      "id": "nt-352"
+    },
+    {
+      "targetValue": "perfect fifth",
+      "utterance": "which interval has the most justs?",
+      "id": "nt-966"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many intervals had more than 30 steps?",
+      "id": "nt-4188"
+    },
+    {
+      "targetValue": "470.78",
+      "utterance": "what is the highest just (cents) for an interval with a size (cents) less than 500?",
+      "id": "nt-6980"
+    },
+    {
+      "targetValue": "septimal diatonic semitone",
+      "utterance": "what other tone has the same size as the diatonic semitone?",
+      "id": "nt-9223"
+    },
+    {
+      "targetValue": "tridecimal major third",
+      "utterance": "which has a larger size in steps, a tridecimal major third or a tridecimal neutral third?",
+      "id": "nt-9382"
+    },
+    {
+      "targetValue": "266.67",
+      "utterance": "what is the difference in size (cents) for tridecimal major third and whole tone, minor tone?",
+      "id": "nt-9803"
+    },
+    {
+      "targetValue": "perfect fifth",
+      "utterance": "name the interval with its size greater than 40 steps.",
+      "id": "nt-9889"
+    },
+    {
+      "targetValue": "lesser undecimal neutral second",
+      "utterance": "what is the only interval with a size in cents of 150?",
+      "id": "nt-12519"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many intervals have a step size that is less than ten steps?",
+      "id": "nt-13443"
+    }
+  ],
+  "metadata": {
+    "title": "72 equal temperament",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3324846&oldid=596734568",
+    "tableIndex": 0,
+    "hashcode": "cec9bbcd77b25c7ffefd4484227f38d8f53b08fe",
+    "id": 3324846,
+    "revision": 596734568
+  }
+}

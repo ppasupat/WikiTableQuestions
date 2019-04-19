@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "number of losses",
+      "id": "nt-913"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did brazil score during the game on november 6th?",
+      "id": "nt-1356"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "total number of wins",
+      "id": "nt-6307"
+    },
+    {
+      "targetValue": "1968",
+      "utterance": "what year has the highest scoring game?",
+      "id": "nt-8174"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "the most goals scored by brazil in a game",
+      "id": "nt-8894"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did brazil play against argentina in the international friendly competition?",
+      "id": "nt-9203"
+    },
+    {
+      "targetValue": "Taça Rio Branco",
+      "utterance": "name the first competition ever played by brazil.",
+      "id": "nt-9495"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the top score ever scored by the brazil national team?",
+      "id": "nt-11228"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what is the number of countries they have played?",
+      "id": "nt-11294"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many matches are wins?",
+      "id": "nt-11307"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what's the total number of ties?",
+      "id": "nt-12057"
+    },
+    {
+      "targetValue": "Yugoslavia",
+      "utterance": "who played brazil previous to the game on june 30th?",
+      "id": "nt-12456"
+    }
+  ],
+  "metadata": {
+    "title": "1968 in Brazilian football",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15205863&oldid=525204775",
+    "tableIndex": 5,
+    "hashcode": "8a92fd502af920445d84cd32efffcab16defa306",
+    "id": 15205863,
+    "revision": 525204775
+  }
+}

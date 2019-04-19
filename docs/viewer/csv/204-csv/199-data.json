@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many countries appear more than once on the chart?",
+      "id": "nt-2426"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many cyclists are from norway?",
+      "id": "nt-4547"
+    },
+    {
+      "targetValue": "José Joaquín Rojas (ESP)",
+      "utterance": "who finished before elia viviani?",
+      "id": "nt-5281"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many points did arnaud demare receive?",
+      "id": "nt-6387"
+    },
+    {
+      "targetValue": "Movistar Team",
+      "utterance": "was josé joaquín rojas from the movistar team or team katusha?",
+      "id": "nt-8219"
+    },
+    {
+      "targetValue": "66",
+      "utterance": "what is the difference in uci points between nikolas maes and john degenkolb?",
+      "id": "nt-8267"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "which is the next highest points after 14?",
+      "id": "nt-10165"
+    },
+    {
+      "targetValue": "5h 45' 16\"",
+      "utterance": "john degenkolb took how long to complete the world tour?",
+      "id": "nt-10820"
+    },
+    {
+      "targetValue": "Boy Van Poppel (NLD)",
+      "utterance": "which cyclist resulted in a total of 22 uci world tour points?",
+      "id": "nt-11023"
+    },
+    {
+      "targetValue": "Team Saxo-Tinkoff",
+      "utterance": "which team came in second to last place?",
+      "id": "nt-11869"
+    },
+    {
+      "targetValue": "André Greipel (GER)",
+      "utterance": "who was on the same team as john degenkolb?",
+      "id": "nt-12146"
+    },
+    {
+      "targetValue": "John Degenkolb",
+      "utterance": "which cyclist had the most points?",
+      "id": "nt-12681"
+    },
+    {
+      "targetValue": "5h 45' 16\"",
+      "utterance": "how long was the ride of john degenkolb?",
+      "id": "nt-13248"
+    }
+  ],
+  "metadata": {
+    "title": "2013 Vattenfall Cyclassics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=40504805&oldid=572520569",
+    "tableIndex": 0,
+    "hashcode": "38d28f7cffa9719866ba582214f55bd1ae1552d1",
+    "id": 40504805,
+    "revision": 572520569
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "18 June 2009",
+      "utterance": "when was the auction involving a kelvinator washing machine?",
+      "id": "nt-8169"
+    }
+  ],
+  "metadata": {
+    "title": "TradeMe",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2831038&oldid=594468775",
+    "tableIndex": 0,
+    "hashcode": "8ba56f47d277ec10449705eff655dbd7762190e1",
+    "id": 2831038,
+    "revision": 594468775
+  }
+}

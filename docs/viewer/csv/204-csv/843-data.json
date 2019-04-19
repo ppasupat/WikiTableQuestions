@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "3,108",
+      "utterance": "how many articles were published in the 6th volume?",
+      "id": "nt-164"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "which volume had the most maps?",
+      "id": "nt-898"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what is the difference in years between the first volume published and the 13th volume published?",
+      "id": "nt-2888"
+    },
+    {
+      "targetValue": "1984",
+      "utterance": "in which year did the number of pages first increase?",
+      "id": "nt-5493"
+    },
+    {
+      "targetValue": "3600",
+      "utterance": "how many total pages from 1970's",
+      "id": "nt-5540"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "for how many years was the encyclopedia printed?",
+      "id": "nt-7925"
+    },
+    {
+      "targetValue": "36,767",
+      "utterance": "what is the total of articles for this chart",
+      "id": "nt-9147"
+    },
+    {
+      "targetValue": "ԱՐԳԻՇՏԻ-ԳԵՂԵՐՎԱՆ",
+      "utterance": "which one has the most images",
+      "id": "nt-9384"
+    },
+    {
+      "targetValue": "36",
+      "utterance": "how many fewer maps were present between the 1986 and 1983 editions?",
+      "id": "nt-10315"
+    },
+    {
+      "targetValue": "1985",
+      "utterance": "in what year were there the least number of images?",
+      "id": "nt-11288"
+    },
+    {
+      "targetValue": "1,200,000",
+      "utterance": "what is the total number of copies to have been published by volumes 1 through 12 of the encyclopedias?",
+      "id": "nt-12289"
+    },
+    {
+      "targetValue": "1978",
+      "utterance": "other than 1977, what year had 53 maps?",
+      "id": "nt-13798"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "which volume had the least number of images?",
+      "id": "nt-13830"
+    }
+  ],
+  "metadata": {
+    "title": "Armenian Encyclopedia",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13984112&oldid=599076800",
+    "tableIndex": 1,
+    "hashcode": "d36be7a053ac0f1d6f9ae8cc5caf3c11496a39cc",
+    "id": 13984112,
+    "revision": 599076800
+  }
+}

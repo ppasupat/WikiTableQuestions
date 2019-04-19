@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "317",
+      "utterance": "aside from 316, what was the other works number used in 1883?",
+      "id": "nt-344"
+    },
+    {
+      "targetValue": "1898",
+      "utterance": "in which year were the most steam locomotives built?",
+      "id": "nt-1908"
+    },
+    {
+      "targetValue": "Penrhyn Quarry",
+      "utterance": "which original owner had the most locomotives?",
+      "id": "nt-5430"
+    },
+    {
+      "targetValue": "554",
+      "utterance": "what is the total number of preserved hunslet narrow gauge locomotives currently located in ffestiniog railway",
+      "id": "nt-6781"
+    },
+    {
+      "targetValue": "317",
+      "utterance": "which works number had a larger gauge, 283 or 317?",
+      "id": "nt-8130"
+    },
+    {
+      "targetValue": "364",
+      "utterance": "how many steam locomotives are currently located at the bala lake railway?",
+      "id": "nt-8396"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "after 1940, how many steam locomotives were built?",
+      "id": "nt-8663"
+    },
+    {
+      "targetValue": "Trangkil Sugar Mill, Indonesia",
+      "utterance": "who owned the last locomotive to be built?",
+      "id": "nt-8949"
+    },
+    {
+      "targetValue": "Gwynedd",
+      "utterance": "what is the name of the last locomotive to be located at the bressingham steam museum?",
+      "id": "nt-10956"
+    },
+    {
+      "targetValue": "32 mm",
+      "utterance": "what is the difference in gauge between works numbers 541 and 542?",
+      "id": "nt-11622"
+    },
+    {
+      "targetValue": "283",
+      "utterance": "what is the works number of the only item built in 1882?",
+      "id": "nt-11839"
+    }
+  ],
+  "metadata": {
+    "title": "List of preserved Hunslet narrow gauge locomotives",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=27740320&oldid=601878973",
+    "tableIndex": 0,
+    "hashcode": "558e6bba6d1c3ecbf37971d95be158a14da8611b",
+    "id": 27740320,
+    "revision": 601878973
+  }
+}

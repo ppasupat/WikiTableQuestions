@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "RDF",
+      "utterance": "what is the only input/output format for allegrograph?",
+      "id": "nt-2032"
+    },
+    {
+      "targetValue": "Gephi",
+      "utterance": "what is the next product listed after egonet?",
+      "id": "nt-3403"
+    },
+    {
+      "targetValue": "AllegroGraph",
+      "utterance": "which product come before egonet",
+      "id": "nt-5561"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "what is the total number of products represented in the chart?",
+      "id": "nt-5708"
+    },
+    {
+      "targetValue": "Any system supporting Java",
+      "utterance": "graphstream and egonet can be on any platform that supports what?",
+      "id": "nt-8920"
+    },
+    {
+      "targetValue": "AllegroGraph",
+      "utterance": "what is the only product utilizing rdf input and output format?",
+      "id": "nt-9123"
+    },
+    {
+      "targetValue": "AllegroGraph",
+      "utterance": "which product as rdf for input or output",
+      "id": "nt-9632"
+    },
+    {
+      "targetValue": "Wolfram Alpha",
+      "utterance": "what is the last product represented in the chart?",
+      "id": "nt-9923"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the number of open source products available?",
+      "id": "nt-10416"
+    }
+  ],
+  "metadata": {
+    "title": "Social network analysis software",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15919460&oldid=597258624",
+    "tableIndex": 0,
+    "hashcode": "ad5287848280bd5fffcdc0c58b97e72daf6e737b",
+    "id": 15919460,
+    "revision": 597258624
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "9",
+      "utterance": "how many different names (variants not included) are there?",
+      "id": "nt-1848"
+    },
+    {
+      "targetValue": "2.5 miles",
+      "utterance": "what is the difference between the length of english canyon and the length of munger creek?",
+      "id": "nt-5564"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many of the streams and drains listed are on the right bank of aliso creek?",
+      "id": "nt-7413"
+    },
+    {
+      "targetValue": "Sulphur Creek",
+      "utterance": "which tributary has at least 3 variant names?",
+      "id": "nt-7728"
+    },
+    {
+      "targetValue": "Munger Creek",
+      "utterance": "which is the only creek to be 1 mile in length?",
+      "id": "nt-8271"
+    }
+  ],
+  "metadata": {
+    "title": "Aliso Creek (Orange County)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14816487&oldid=601650411",
+    "tableIndex": 0,
+    "hashcode": "f722320e0f2cdc1ee95b970a83240d533cadf08b",
+    "id": 14816487,
+    "revision": 601650411
+  }
+}

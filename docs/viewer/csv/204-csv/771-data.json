@@ -1,0 +1,92 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many countries in this competition had more than two silver medals?",
+      "id": "nt-702"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total numbers of medals won by ecuador?",
+      "id": "nt-1871"
+    },
+    {
+      "targetValue": [
+        "Peru",
+        "Ecuador"
+      ],
+      "utterance": "which nations won only 1 gold medal?",
+      "id": "nt-2594"
+    },
+    {
+      "targetValue": "Venezuela",
+      "utterance": "what country has the largest number of silver medals?",
+      "id": "nt-3447"
+    },
+    {
+      "targetValue": "Peru",
+      "utterance": "what was the only country to win three silver medals in this competition?",
+      "id": "nt-3947"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of silver medals won by peru and ecuador combined?",
+      "id": "nt-6303"
+    },
+    {
+      "targetValue": "Ecuador",
+      "utterance": "name a country that only had one of each kind of medal.",
+      "id": "nt-7230"
+    },
+    {
+      "targetValue": [
+        "Venezuela",
+        "Bolivia",
+        "Chile",
+        "Peru"
+      ],
+      "utterance": "which nations won at least 6 medals?",
+      "id": "nt-9131"
+    },
+    {
+      "targetValue": "Venezuela",
+      "utterance": "which nation won the same number of bronze medals as peru?",
+      "id": "nt-9786"
+    },
+    {
+      "targetValue": [
+        "Peru",
+        "Venezuela"
+      ],
+      "utterance": "which nation/nations won more medals than chile?",
+      "id": "nt-9963"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "calculate the difference in the number of gold medals won between venezuela and colombia.",
+      "id": "nt-13037"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many medals did venezuela win in this competition?",
+      "id": "nt-13918"
+    },
+    {
+      "targetValue": [
+        "Venezuela",
+        "Bolivia",
+        "Chile"
+      ],
+      "utterance": "name the nations that won at least 2 gold medals.",
+      "id": "nt-14084"
+    }
+  ],
+  "metadata": {
+    "title": "Cue sports at the 2013 Bolivarian Games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41030284&oldid=584987313",
+    "tableIndex": 0,
+    "hashcode": "54b5b0f33ece7c272138948a24bb11ab067cdefe",
+    "id": 41030284,
+    "revision": 584987313
+  }
+}

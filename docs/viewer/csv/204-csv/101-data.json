@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "what's the number of songs that e-swift produced?",
+      "id": "nt-1250"
+    },
+    {
+      "targetValue": [
+        "\"Turn Tha Party Out\"",
+        "\"Mary Jane\""
+      ],
+      "utterance": "what are some songs that are not produced by e-swift?",
+      "id": "nt-2418"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of songs with a length over 4 minutes?",
+      "id": "nt-3904"
+    },
+    {
+      "targetValue": "2:34",
+      "utterance": "how long is the song \"likwit\"?",
+      "id": "nt-5730"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what are the number of times e-swift appears under producers?",
+      "id": "nt-7507"
+    },
+    {
+      "targetValue": "\"Only When I'm Drunk\"",
+      "utterance": "which song is longer, \"turn tha party out\" or \"only when i'm drunk\"?",
+      "id": "nt-11452"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many songs have more than one sample?",
+      "id": "nt-13850"
+    },
+    {
+      "targetValue": "\"Make Room\"",
+      "utterance": "what is the title listed before mary jane?",
+      "id": "nt-13976"
+    }
+  ],
+  "metadata": {
+    "title": "21 &amp; Over (album)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3310171&oldid=596795912",
+    "tableIndex": 1,
+    "hashcode": "f4875dd3fdeb1ba21b5514cfc7b16b673a1d8e9e",
+    "id": 3310171,
+    "revision": 596795912
+  }
+}

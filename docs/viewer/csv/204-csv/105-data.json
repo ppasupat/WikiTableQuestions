@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Steven Shepp",
+      "utterance": "taylor kelly is shorter than 6' 3\", which other player is also shorter than 6' 3\"?",
+      "id": "nt-355"
+    },
+    {
+      "targetValue": "greater",
+      "utterance": "is the number of freshmen (fr.) greater than, equal to, or less than the number of juniors (jr.)?",
+      "id": "nt-2544"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many players hometowns are outside of california?",
+      "id": "nt-2598"
+    },
+    {
+      "targetValue": "Justin Johnson",
+      "utterance": "which player who is only a forward (f) is the shortest?",
+      "id": "nt-4583"
+    },
+    {
+      "targetValue": "Brandon Webster",
+      "utterance": "who weighs the most on the team?",
+      "id": "nt-5985"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the number of players who weight over 200 pounds?",
+      "id": "nt-10389"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many players and both guard (g) and forward (f)?",
+      "id": "nt-10822"
+    },
+    {
+      "targetValue": "Sylvester Seay",
+      "utterance": "who is the next heaviest player after nedelijko golubovic?",
+      "id": "nt-11377"
+    },
+    {
+      "targetValue": "Jerry Brown, Jr.",
+      "utterance": "which player previously played for sacred heart?",
+      "id": "nt-12637"
+    },
+    {
+      "targetValue": "Greg Smith",
+      "utterance": "which player is taller, paul george or greg smith?",
+      "id": "nt-13588"
+    },
+    {
+      "targetValue": "Nedeljko Golubovic",
+      "utterance": "who is the only player not from the u. s.?",
+      "id": "nt-13983"
+    }
+  ],
+  "metadata": {
+    "title": "2009–10 Fresno State Bulldogs men's basketball team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=25132949&oldid=599915330",
+    "tableIndex": 0,
+    "hashcode": "d747ed8190260e332656e1340073fce2c09c3f25",
+    "id": 25132949,
+    "revision": 599915330
+  }
+}

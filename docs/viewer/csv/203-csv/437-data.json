@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "number of nobel laureates from penn in the 1970s.",
+      "id": "nt-929"
+    },
+    {
+      "targetValue": "11 years",
+      "utterance": "how long was otto fritz meyerhof a research professor?",
+      "id": "nt-1661"
+    },
+    {
+      "targetValue": "13 years",
+      "utterance": "how long after mlk was a graduate student did he receive a laureate?",
+      "id": "nt-5466"
+    },
+    {
+      "targetValue": "Otto Fritz Meyerhof",
+      "utterance": "who was the first laureate in physiology or medicine?",
+      "id": "nt-5900"
+    },
+    {
+      "targetValue": "Martin Luther King, Jr.",
+      "utterance": "who is after robert hofstadter on the list?",
+      "id": "nt-5953"
+    },
+    {
+      "targetValue": "Vincent du Vigneaud",
+      "utterance": "who is below richard kuhn on the list?",
+      "id": "nt-6568"
+    },
+    {
+      "targetValue": "Otto Fritz Meyerhof",
+      "utterance": "name of the first nobel laureates from penn.",
+      "id": "nt-7008"
+    },
+    {
+      "targetValue": "Martin Luther King, Jr.",
+      "utterance": "who is the only person that received a nobel peace prize?",
+      "id": "nt-8186"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many of the laureates received the nobel peace prize?",
+      "id": "nt-9676"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many laureates were in the field of physics?",
+      "id": "nt-11356"
+    }
+  ],
+  "metadata": {
+    "title": "List of Nobel laureates affiliated with the University of Pennsylvania",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19853017&oldid=600697566",
+    "tableIndex": 0,
+    "hashcode": "d1ce12e652aa83685d6384f18ae10b6403989dd5",
+    "id": 19853017,
+    "revision": 600697566
+  }
+}

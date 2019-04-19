@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many singles did celine dion sing?",
+      "id": "nt-1318"
+    },
+    {
+      "targetValue": "\"Move Your Body\"",
+      "utterance": "eiffel 65 had a top 100 hit of the 1990s, \"blue (da ba dee)\", as well as one other 1990s top 100 hit single. what was that other hit single?",
+      "id": "nt-2138"
+    },
+    {
+      "targetValue": "61",
+      "utterance": "what were the total number of songs that peaked at number one according to this chart?",
+      "id": "nt-2812"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "how many artists had sales above 900,000?",
+      "id": "nt-4423"
+    },
+    {
+      "targetValue": "\"Mambo No. 5\"",
+      "utterance": "which single had the largest amount of sales in germany?",
+      "id": "nt-5843"
+    },
+    {
+      "targetValue": "\"Tic, Tic Tac\"",
+      "utterance": "which song on the list of top 100 of the 1990s is the only one from brazil?",
+      "id": "nt-7075"
+    },
+    {
+      "targetValue": "1016000",
+      "utterance": "candle in the wind had how many more sales than freed from desire?",
+      "id": "nt-7117"
+    },
+    {
+      "targetValue": "980,000",
+      "utterance": "how many sales did the single \"tic tic tac\" have?",
+      "id": "nt-8711"
+    },
+    {
+      "targetValue": "497000",
+      "utterance": "how many more sales did elton john have than lou bega?",
+      "id": "nt-9085"
+    },
+    {
+      "targetValue": "1,001,000",
+      "utterance": "what were the total sales of eiffel 65's \"blue (da ba dee)\"?",
+      "id": "nt-11338"
+    },
+    {
+      "targetValue": "\"Can You Feel The Love Tonight\"",
+      "utterance": "elton john released the \"candle in the wind\", the #2 hit single of the 1990s, in 1997. what was an earlier top 100 hit single of elton john's in the 1990s?",
+      "id": "nt-11892"
+    },
+    {
+      "targetValue": "1872000",
+      "utterance": "what is the difference in sales from the highest sales to the lowest sales?",
+      "id": "nt-13419"
+    }
+  ],
+  "metadata": {
+    "title": "French Top 100 singles of the 1990s",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16659852&oldid=578204440",
+    "tableIndex": 0,
+    "hashcode": "e7dd8e847978e738c355692cb8f48b50de1e3329",
+    "id": 16659852,
+    "revision": 578204440
+  }
+}

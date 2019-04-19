@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "4 years",
+      "utterance": "what is the difference in years between constiuency 1 and 2?",
+      "id": "nt-2254"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "what is the total number of constituencies?",
+      "id": "nt-3125"
+    },
+    {
+      "targetValue": "Coquimbo",
+      "utterance": "which region is listed below atacama?",
+      "id": "nt-3264"
+    },
+    {
+      "targetValue": "PPD",
+      "utterance": "which party did jaime quintana belong to?",
+      "id": "nt-6446"
+    },
+    {
+      "targetValue": "Magallanes",
+      "utterance": "what is the last region listed on the table?",
+      "id": "nt-7882"
+    },
+    {
+      "targetValue": "Fulvio Rossi",
+      "utterance": "what is the first name on the table?",
+      "id": "nt-8692"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "how many total consituency are listed in the table?",
+      "id": "nt-9126"
+    },
+    {
+      "targetValue": "Antonio Horvath Kiss",
+      "utterance": "who was not last elected in either 2005 or 2009?",
+      "id": "nt-9181"
+    },
+    {
+      "targetValue": "2001",
+      "utterance": "when was antonio horvath kiss last elected?",
+      "id": "nt-12427"
+    },
+    {
+      "targetValue": "1 year",
+      "utterance": "how long was baldo prokurica prokurica vice-president?",
+      "id": "nt-12669"
+    }
+  ],
+  "metadata": {
+    "title": "Senate of Chile",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=683411&oldid=598779320",
+    "tableIndex": 2,
+    "hashcode": "d51fe5f6861136435d5792a46a12cf44f942d5ee",
+    "id": 683411,
+    "revision": 598779320
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Ironi Ashkelon",
+      "utterance": "who, of the years on this list, was the first team to win?",
+      "id": "nt-1062"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many more titles did team maccabi tel aviv win than every other team combined?",
+      "id": "nt-2604"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "ironi ashkelon has no runners-up, but how many runners-up does team hapoel holon have?",
+      "id": "nt-4645"
+    },
+    {
+      "targetValue": "Maccabi Ashdod",
+      "utterance": "what is the last team?",
+      "id": "nt-7034"
+    },
+    {
+      "targetValue": "Maccabi Tel Aviv",
+      "utterance": "which team has the most titles?",
+      "id": "nt-7357"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what are the total number of runers-up titles awarded?",
+      "id": "nt-8247"
+    },
+    {
+      "targetValue": "Ironi Ashkelon",
+      "utterance": "what team was the runner run the least number of times?",
+      "id": "nt-9354"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many teams won at least 1 title?",
+      "id": "nt-12214"
+    },
+    {
+      "targetValue": "Maccabi Tel Aviv",
+      "utterance": "who is in first place?",
+      "id": "nt-12729"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many teams have the same amount of runners-up as maccabi tel aviv?",
+      "id": "nt-13658"
+    },
+    {
+      "targetValue": "Hapoel Jerusalem",
+      "utterance": "2008 and 2009 are the winning years of what team?",
+      "id": "nt-13664"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many total titles were won?",
+      "id": "nt-14137"
+    }
+  ],
+  "metadata": {
+    "title": "Israeli Basketball League Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21283005&oldid=588339078",
+    "tableIndex": 1,
+    "hashcode": "a834c3cdf7238e4578a1f0033f34718d2371124a",
+    "id": 21283005,
+    "revision": 588339078
+  }
+}

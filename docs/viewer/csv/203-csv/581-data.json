@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Tianjin Teda",
+      "utterance": "did tianjin teda or qingdao jonoon have a higher average attendance?",
+      "id": "nt-4169"
+    },
+    {
+      "targetValue": "14,581",
+      "utterance": "what is the average attendance for all stadiums?",
+      "id": "nt-4950"
+    },
+    {
+      "targetValue": "Nanchang Bayi Stadium",
+      "utterance": "which stadium only has a capacity of 20,000?",
+      "id": "nt-7067"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many clubs are listed in the table?",
+      "id": "nt-7637"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many teams for the 2010 chinese super league had an average of over 15,000 audience members attend?",
+      "id": "nt-8047"
+    },
+    {
+      "targetValue": "Workers Stadium",
+      "utterance": "which stadium is larger than nanjing olympic stadium?",
+      "id": "nt-8569"
+    },
+    {
+      "targetValue": "Beijing GuoanTH",
+      "utterance": "which club had the highest average attendance?",
+      "id": "nt-8839"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "what is the total humber of home stadiums for the 2010 chinese super league clubs?",
+      "id": "nt-10441"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many total clubs are listed?",
+      "id": "nt-10880"
+    },
+    {
+      "targetValue": "Qingdao Tiantai Stadium",
+      "utterance": "which stadium has the least number of average attendees?",
+      "id": "nt-12545"
+    }
+  ],
+  "metadata": {
+    "title": "2010 Chinese Super League",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19414382&oldid=578175447",
+    "tableIndex": 0,
+    "hashcode": "e36ac84e0b024fd9fcd76d5e8c4b196ccd5f296f",
+    "id": 19414382,
+    "revision": 578175447
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many counties had at least 75% of the votes for obama?",
+      "id": "nt-1204"
+    },
+    {
+      "targetValue": "38957",
+      "utterance": "what is the number of votes for obama for del norte and el dorado counties?",
+      "id": "nt-1591"
+    },
+    {
+      "targetValue": "Amador",
+      "utterance": "which county had the lower percentage votes for obama: amador, humboldt, or lake?",
+      "id": "nt-2826"
+    },
+    {
+      "targetValue": "Modoc",
+      "utterance": "which count had the least number of votes for obama?",
+      "id": "nt-4676"
+    },
+    {
+      "targetValue": "Los Angeles",
+      "utterance": "which county had the most total votes?",
+      "id": "nt-7234"
+    },
+    {
+      "targetValue": "17693",
+      "utterance": "what is the total number of votes for amador?",
+      "id": "nt-9008"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "did romney earn more or less votes than obama did in alameda county?",
+      "id": "nt-11106"
+    },
+    {
+      "targetValue": "Contra Costa",
+      "utterance": "what county is just before del norte on the list?",
+      "id": "nt-11382"
+    }
+  ],
+  "metadata": {
+    "title": "United States presidential election in California, 2012",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=34348415&oldid=581015338",
+    "tableIndex": 1,
+    "hashcode": "3d977e9e6ea256772fbba98c14a69ddf0fc0d4f5",
+    "id": 34348415,
+    "revision": 581015338
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "12",
+      "utterance": "what is the number of poles that daly has won in his career?",
+      "id": "nt-1411"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many different series are listed?",
+      "id": "nt-4295"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many teams came in 3rd?",
+      "id": "nt-4532"
+    },
+    {
+      "targetValue": "Juncos Racing",
+      "utterance": "what teams has the top amount of points?",
+      "id": "nt-6383"
+    },
+    {
+      "targetValue": "Sam Schmidt Motorsports",
+      "utterance": "the two teams who raced in 2011 are carlin motorsport and what other team?",
+      "id": "nt-6503"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "what is the total number of races won by all teams combined?",
+      "id": "nt-9227"
+    },
+    {
+      "targetValue": "Double R Racing",
+      "utterance": "which is the only team with n/a in the points column?",
+      "id": "nt-10183"
+    },
+    {
+      "targetValue": "Juncos Racing",
+      "utterance": "who came in first before mrf challenge?",
+      "id": "nt-13361"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the least number of points that daly won in a single seasons",
+      "id": "nt-13555"
+    }
+  ],
+  "metadata": {
+    "title": "Conor Daly",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=27626649&oldid=602429699",
+    "tableIndex": 0,
+    "hashcode": "95b35cc5acc530ad8d607c8ba1f6b571c517cc5a",
+    "id": 27626649,
+    "revision": 602429699
+  }
+}

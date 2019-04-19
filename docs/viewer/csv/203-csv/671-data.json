@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "16 years",
+      "utterance": "what's the difference in age between luis estrella martinez and edgardo rivera garcia?",
+      "id": "nt-1675"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many associate justices are there currently?",
+      "id": "nt-4696"
+    },
+    {
+      "targetValue": "Erick Kolthoff Caraballo",
+      "utterance": "which justice served a total of 17 years before they retired?",
+      "id": "nt-5071"
+    },
+    {
+      "targetValue": "19 years",
+      "utterance": "how long did roberto feliberti cintron serve before retirement?",
+      "id": "nt-6872"
+    },
+    {
+      "targetValue": "Luis Estrella Martínez",
+      "utterance": "who has the most number of years until their mandatory retirement?",
+      "id": "nt-9419"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "hom many justices served above 10 years before retirement?",
+      "id": "nt-9942"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many justices were appointed in the year 2004?",
+      "id": "nt-11990"
+    },
+    {
+      "targetValue": "Edgardo Rivera Garcia",
+      "utterance": "who was the only associate justice appointed in 2010?",
+      "id": "nt-12293"
+    },
+    {
+      "targetValue": "Federico Hernández Denton",
+      "utterance": "who has the least number of years until their mandatory retirement?",
+      "id": "nt-12664"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many times did luis fortuno appoint someone on the list?",
+      "id": "nt-13826"
+    }
+  ],
+  "metadata": {
+    "title": "Supreme Court of Puerto Rico",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1097299&oldid=602428823",
+    "tableIndex": 0,
+    "hashcode": "2816e5e29582957c834c057dd8aba5620d6ae969",
+    "id": 1097299,
+    "revision": 602428823
+  }
+}

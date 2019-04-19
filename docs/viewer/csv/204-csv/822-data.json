@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many nations won more than ten silver medals?",
+      "id": "nt-1635"
+    },
+    {
+      "targetValue": "Soviet Union",
+      "utterance": "the top ranked nation for total medals won",
+      "id": "nt-1737"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many bronze medals were won by the nation with the fewest gold medals?",
+      "id": "nt-5032"
+    },
+    {
+      "targetValue": "Bulgaria",
+      "utterance": "which nation won the same number of gold medals as hungary?",
+      "id": "nt-8022"
+    },
+    {
+      "targetValue": "Hungary",
+      "utterance": "what nation received 6 gold medals other than bulgaria",
+      "id": "nt-8284"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many medals did australia win in these olympics?",
+      "id": "nt-8632"
+    },
+    {
+      "targetValue": "Australia",
+      "utterance": "which nation received the least bronze medals",
+      "id": "nt-8933"
+    },
+    {
+      "targetValue": "Australia",
+      "utterance": "which nation won the least number of bronze medals?",
+      "id": "nt-9246"
+    },
+    {
+      "targetValue": "Poland",
+      "utterance": "which country won the same amount of medals as bulgaria in these olympics?",
+      "id": "nt-10515"
+    },
+    {
+      "targetValue": "Soviet Union",
+      "utterance": "which country was first in rank at the 1972 olympics?",
+      "id": "nt-10739"
+    },
+    {
+      "targetValue": "27",
+      "utterance": "what number of silver medals was won by the nation with the most gold medals?",
+      "id": "nt-10805"
+    }
+  ],
+  "metadata": {
+    "title": "Sports in Munich",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10292498&oldid=596469894",
+    "tableIndex": 2,
+    "hashcode": "67af675b09ce246359bd6aca92aa0d8cc3db3c27",
+    "id": 10292498,
+    "revision": 596469894
+  }
+}

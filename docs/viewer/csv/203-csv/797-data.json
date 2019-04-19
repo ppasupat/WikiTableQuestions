@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "2013",
+      "utterance": "which year has the most film appearances?",
+      "id": "nt-1389"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many total episodes of nash bridges between 1997 and 2000?",
+      "id": "nt-1868"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "in 2013, how many films did domingo appear in?",
+      "id": "nt-5978"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many total episodes of the big gay sketch show?",
+      "id": "nt-6757"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many movies has he been in?",
+      "id": "nt-7392"
+    },
+    {
+      "targetValue": "Nash Bridges",
+      "utterance": "what was coleman domingo's first tv series?",
+      "id": "nt-9738"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many different films has domingo appeared in?",
+      "id": "nt-10338"
+    }
+  ],
+  "metadata": {
+    "title": "Colman Domingo",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15716274&oldid=583373449",
+    "tableIndex": 1,
+    "hashcode": "22b5f0e3a85582dde8a3aedb6b09d16790be31cc",
+    "id": 15716274,
+    "revision": 583373449
+  }
+}

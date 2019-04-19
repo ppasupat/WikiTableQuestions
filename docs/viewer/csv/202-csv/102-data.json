@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "how many battles resulted between 3,000 and 4,200 estimated americans killed?",
+      "id": "nt-3267"
+    }
+  ],
+  "metadata": {
+    "title": "Most lethal American battles",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3726647&oldid=563401984",
+    "tableIndex": 0,
+    "hashcode": "33ce6ab6abe77602f0d81464a273b9a617a2b028",
+    "id": 3726647,
+    "revision": 563401984
+  }
+}

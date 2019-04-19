@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "yes",
+      "utterance": "did charles royer hold office longer than paul schell?",
+      "id": "nt-4108"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the number of mayors with the first name of john?",
+      "id": "nt-5935"
+    },
+    {
+      "targetValue": "Harry White",
+      "utterance": "who began their term in 1890?",
+      "id": "nt-7534"
+    },
+    {
+      "targetValue": "365",
+      "utterance": "how many days did robert moran serve?",
+      "id": "nt-8042"
+    },
+    {
+      "targetValue": "Henry A. Atkins",
+      "utterance": "who was the mayor before jordan?",
+      "id": "nt-8226"
+    },
+    {
+      "targetValue": "James d'Orma Braman",
+      "utterance": "who was mayor of seattle, washington before being appointed to department of transportation during the nixon administration?",
+      "id": "nt-9282"
+    },
+    {
+      "targetValue": "Richard A. Ballinger",
+      "utterance": "who was the first mayor in the 1900's?",
+      "id": "nt-10387"
+    },
+    {
+      "targetValue": "Frank D. Black",
+      "utterance": "which mayor seattle, washington resigned after only three weeks in office in 1896?",
+      "id": "nt-10451"
+    },
+    {
+      "targetValue": "John T. Jordan",
+      "utterance": "who was the only person elected in 1871?",
+      "id": "nt-10982"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many women have been elected mayor of seattle, washington?",
+      "id": "nt-11026"
+    }
+  ],
+  "metadata": {
+    "title": "List of mayors of Seattle",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=741582&oldid=591088650",
+    "tableIndex": 0,
+    "hashcode": "b04da97719051b886950e0c3534eb2e80ffe60a0",
+    "id": 741582,
+    "revision": 591088650
+  }
+}

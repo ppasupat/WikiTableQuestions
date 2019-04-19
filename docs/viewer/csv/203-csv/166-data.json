@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "how many riders used a motorcycle manufactured by honda?",
+      "id": "nt-302"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many honda motorcycles completed the race?",
+      "id": "nt-1436"
+    },
+    {
+      "targetValue": "Dani Pedrosa",
+      "utterance": "who came in after valentino rossi in the 2008 malaysian motorcycle grand prix?",
+      "id": "nt-1663"
+    },
+    {
+      "targetValue": "Shinya Nakano",
+      "utterance": "who came in immediately after nicky hayden?",
+      "id": "nt-2294"
+    },
+    {
+      "targetValue": "Dani Pedrosa",
+      "utterance": "did dani pedrosa or loris capriossi ride a motorcycle manufactured by honda in the 2008 malaysian motorcycle grand prix?",
+      "id": "nt-3773"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is difference in points between valentino rossi and dani pedrosa?",
+      "id": "nt-3845"
+    },
+    {
+      "targetValue": "Nobuatsu Aoki",
+      "utterance": "which rider completed all 21 laps of the 2008 malaysian motorcycle grand prixwith the longest time?",
+      "id": "nt-4784"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many positions below valentino rossi did john hopkins place in the 2008 malaysian motorcycle grand prix?",
+      "id": "nt-4848"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "did any country have consecutive winners in the race?",
+      "id": "nt-4857"
+    },
+    {
+      "targetValue": "Valentino Rossi",
+      "utterance": "who is at the top out of the riders?",
+      "id": "nt-9211"
+    },
+    {
+      "targetValue": "Loris Capirossi",
+      "utterance": "which rider rode a suzuki and has a total of nine points?",
+      "id": "nt-10185"
+    },
+    {
+      "targetValue": "Alex de Angelis",
+      "utterance": "who finished next after sylvain guintoli in the 2008 malaysian motorcycle grand prix?",
+      "id": "nt-10280"
+    },
+    {
+      "targetValue": "Valentino Rossi",
+      "utterance": "who is the only rider with 25 points?",
+      "id": "nt-14124"
+    }
+  ],
+  "metadata": {
+    "title": "2008 Malaysian motorcycle Grand Prix",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16287116&oldid=594344358",
+    "tableIndex": 0,
+    "hashcode": "4638f014353acc8f62794b2ef6aab58a0f8d7596",
+    "id": 16287116,
+    "revision": 594344358
+  }
+}

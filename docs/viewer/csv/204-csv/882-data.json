@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "how many number were in service in 1910?",
+      "id": "nt-291"
+    },
+    {
+      "targetValue": "9-1-1909",
+      "utterance": "can you find the top entered service?",
+      "id": "nt-1468"
+    },
+    {
+      "targetValue": "597",
+      "utterance": "what is the last number on the list?",
+      "id": "nt-1775"
+    },
+    {
+      "targetValue": "9-1-1909",
+      "utterance": "what was the first entered service date in the table?",
+      "id": "nt-5078"
+    },
+    {
+      "targetValue": "589",
+      "utterance": "which number was in service the least amount of time?",
+      "id": "nt-5507"
+    },
+    {
+      "targetValue": "589",
+      "utterance": "which locomotive was withdrawn from service in the same year as 445?",
+      "id": "nt-5994"
+    },
+    {
+      "targetValue": "442",
+      "utterance": "what is the number of the only locomotive to be withdrawn from service before the year 1945?",
+      "id": "nt-6824"
+    },
+    {
+      "targetValue": "1910",
+      "utterance": "what year was number 445 and 446 entered into service?",
+      "id": "nt-6866"
+    },
+    {
+      "targetValue": "Converted to 4-cylinder simple, 12-1949",
+      "utterance": "what was the most reason given in the notes column?",
+      "id": "nt-7442"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the total number of different builders in the table?",
+      "id": "nt-8571"
+    },
+    {
+      "targetValue": [
+        "442",
+        "445",
+        "446",
+        "589"
+      ],
+      "utterance": "which numbers were not withdrawn from service in 1957?",
+      "id": "nt-8891"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many locomotives were still in service after the year 1950?",
+      "id": "nt-10910"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many of these locomotives were eventually converted to 4-cylinder simple engines?",
+      "id": "nt-14004"
+    }
+  ],
+  "metadata": {
+    "title": "NZR X class",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3859106&oldid=602331833",
+    "tableIndex": 1,
+    "hashcode": "eddcee39ecc1d6d38a76085c1409fe1502a6a785",
+    "id": 3859106,
+    "revision": 602331833
+  }
+}

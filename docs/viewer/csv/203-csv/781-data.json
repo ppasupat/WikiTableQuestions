@@ -1,0 +1,80 @@
+{
+  "examples": [
+    {
+      "targetValue": "Asian Junior Championships",
+      "utterance": "what is the name of the first competiton on this chart?",
+      "id": "nt-2543"
+    },
+    {
+      "targetValue": [
+        "2004",
+        "2005"
+      ],
+      "utterance": "kazakhstan took 7th two consecutive years in a row. what two years were they?",
+      "id": "nt-2959"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many times did anna ustinova come in 3rd?",
+      "id": "nt-4466"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many of the competitions were held in thailand before 2006?",
+      "id": "nt-4717"
+    },
+    {
+      "targetValue": "Doha, Qatar",
+      "utterance": "which was the only venue where anna ustinova took 6th place?",
+      "id": "nt-7630"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many competitions were held in 2005?",
+      "id": "nt-8508"
+    },
+    {
+      "targetValue": [
+        "2004",
+        "Ipoh, Malaysia"
+      ],
+      "utterance": "what was the last year kazakhstan took first place in a completion, and what city was it located in?",
+      "id": "nt-9183"
+    },
+    {
+      "targetValue": [
+        "Bangkok, Thailand",
+        "Incheon, South Korea",
+        "Amman, Jordan",
+        "Bangkok, Thailand",
+        "Macau",
+        "Guangzhou, China"
+      ],
+      "utterance": "list each venue where the 3rd position was achieved?",
+      "id": "nt-9616"
+    },
+    {
+      "targetValue": "2005",
+      "utterance": "bangkok, thailand held the 2002 asian junior championships. what was the next year they held another event?",
+      "id": "nt-12084"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what number of competitions were held in 2010?",
+      "id": "nt-13733"
+    },
+    {
+      "targetValue": "2007",
+      "utterance": "which year had the most competitions?",
+      "id": "nt-14001"
+    }
+  ],
+  "metadata": {
+    "title": "Anna Ustinova",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17889451&oldid=567493024",
+    "tableIndex": 0,
+    "hashcode": "9adff2d6b5d16d4bd81ea97d57dc6bfe48cd9d69",
+    "id": 17889451,
+    "revision": 567493024
+  }
+}

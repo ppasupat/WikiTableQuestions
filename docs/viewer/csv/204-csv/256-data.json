@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Málaga CF",
+      "utterance": "what club scored the only a total of 79 points?",
+      "id": "nt-26"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the difference in wins between sevilla fc and cd toledo?",
+      "id": "nt-1200"
+    },
+    {
+      "targetValue": "Atlético de Madrid B 1",
+      "utterance": "which club scored the highest number of goals?",
+      "id": "nt-2089"
+    },
+    {
+      "targetValue": "Rayo Vallecano",
+      "utterance": "what club is after the sevilla fc?",
+      "id": "nt-2524"
+    },
+    {
+      "targetValue": "64",
+      "utterance": "what is the combined wins of the clubs in the top 3 positions?",
+      "id": "nt-3637"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "what is the total number of position as listed?",
+      "id": "nt-4413"
+    },
+    {
+      "targetValue": "-47",
+      "utterance": "what is the largest negative goal difference?",
+      "id": "nt-5086"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "how many teams are there in total?",
+      "id": "nt-10761"
+    },
+    {
+      "targetValue": "Málaga CF",
+      "utterance": "which team has the most points?",
+      "id": "nt-13435"
+    },
+    {
+      "targetValue": "109",
+      "utterance": "how many total goals were scored between ue lleida and ud las palmas?",
+      "id": "nt-13959"
+    }
+  ],
+  "metadata": {
+    "title": "1998–99 Segunda División",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12087037&oldid=557638033",
+    "tableIndex": 1,
+    "hashcode": "abd10dd4e3edf5d45aacfab0cf7c0161fcf6e666",
+    "id": 12087037,
+    "revision": 557638033
+  }
+}

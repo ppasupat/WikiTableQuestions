@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "1995",
+      "utterance": "his last score was written in...",
+      "id": "nt-7552"
+    },
+    {
+      "targetValue": "1993",
+      "utterance": "what was the last year of the television scores in the genre category?",
+      "id": "nt-11986"
+    },
+    {
+      "targetValue": "Star-Isle",
+      "utterance": "what composition was written in the same year as \"rain coming\"?",
+      "id": "nt-12366"
+    },
+    {
+      "targetValue": "Solitude Sonore",
+      "utterance": "after requiem for strings, what was the next score takemitsu wrote for orchestra?",
+      "id": "nt-12618"
+    },
+    {
+      "targetValue": "1988",
+      "utterance": "which year saw the highest number of releases?",
+      "id": "nt-12716"
+    }
+  ],
+  "metadata": {
+    "title": "List of compositions by Tōru Takemitsu",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11575584&oldid=584795211",
+    "tableIndex": 0,
+    "hashcode": "395bb391c7de5acce23fa6cd617ef079ae37177a",
+    "id": 11575584,
+    "revision": 584795211
+  }
+}

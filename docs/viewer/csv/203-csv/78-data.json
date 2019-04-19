@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "July 2015",
+      "utterance": "smolenski-1 is operational until december 2022, but smolensk-2 is only operational until what month and year?",
+      "id": "nt-4064"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of liningrad locations?",
+      "id": "nt-4170"
+    },
+    {
+      "targetValue": "August 2026",
+      "utterance": "when will the last reactor at leningrad be closed?",
+      "id": "nt-4429"
+    },
+    {
+      "targetValue": "1980s",
+      "utterance": "each kostroma had construction cancelled in which decade?",
+      "id": "nt-7328"
+    },
+    {
+      "targetValue": "Leningrad-4",
+      "utterance": "which reactor is the only one that is operational until august 2026?",
+      "id": "nt-7950"
+    },
+    {
+      "targetValue": "1996",
+      "utterance": "when was chernobyl-1 first shut down?",
+      "id": "nt-9212"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of reactors that will be operational until 2024 or later?",
+      "id": "nt-10089"
+    },
+    {
+      "targetValue": "300",
+      "utterance": "what is the difference in gross capacity between the ignalina-1 and the chernobyl-6?",
+      "id": "nt-11063"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what are the total number of locations with shut down listed as its status?",
+      "id": "nt-13332"
+    },
+    {
+      "targetValue": "Kostroma",
+      "utterance": "which location is listed the least on this chart?",
+      "id": "nt-13536"
+    }
+  ],
+  "metadata": {
+    "title": "RBMK",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=213088&oldid=598478153",
+    "tableIndex": 0,
+    "hashcode": "9140090f7588b049357bfdf2b3f2aacb39e209fd",
+    "id": 213088,
+    "revision": 598478153
+  }
+}

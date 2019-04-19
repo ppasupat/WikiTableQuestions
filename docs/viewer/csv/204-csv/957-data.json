@@ -1,0 +1,74 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "what is the total number of passes this player has defended?",
+      "id": "nt-871"
+    },
+    {
+      "targetValue": "127",
+      "utterance": "how many total games did he play in his career?",
+      "id": "nt-2024"
+    },
+    {
+      "targetValue": "ATL",
+      "utterance": "what team did coy play for after he played for buffalo?",
+      "id": "nt-2085"
+    },
+    {
+      "targetValue": [
+        "2002",
+        "2003",
+        "2006",
+        "2008",
+        "2009",
+        "2010"
+      ],
+      "utterance": "what years did coy play at least 15 games?",
+      "id": "nt-2856"
+    },
+    {
+      "targetValue": "BUF",
+      "utterance": "for which team did this player have the least amount of games played?",
+      "id": "nt-3723"
+    },
+    {
+      "targetValue": "2007",
+      "utterance": "what year did he only have 1 assisted tackle?",
+      "id": "nt-5217"
+    },
+    {
+      "targetValue": "2002",
+      "utterance": "in which year did coy have the most combined tackles?",
+      "id": "nt-9746"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many interception return yards does this player have throughout his career?",
+      "id": "nt-10850"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "one year, he had 10 assisted tackles. how many did he have the previous year?",
+      "id": "nt-11520"
+    },
+    {
+      "targetValue": "ATL",
+      "utterance": "what team did he play for the least amount of years?",
+      "id": "nt-12215"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the fewest number of games coy played for buffalo in one year?",
+      "id": "nt-12501"
+    }
+  ],
+  "metadata": {
+    "title": "Coy Wire",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2350964&oldid=600617766",
+    "tableIndex": 0,
+    "hashcode": "f99974b8713cf65593f5ff59ddacb276921965cc",
+    "id": 2350964,
+    "revision": 600617766
+  }
+}

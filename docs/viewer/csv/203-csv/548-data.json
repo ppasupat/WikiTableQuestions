@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many countries have at most 5 medals?",
+      "id": "nt-513"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "what is the number of total gold medals awarded?",
+      "id": "nt-2048"
+    },
+    {
+      "targetValue": "France",
+      "utterance": "which team had the most medals without a gold medal?",
+      "id": "nt-3406"
+    },
+    {
+      "targetValue": "Iran",
+      "utterance": "besides france, which other nation ranked 5th at the 1997 world taekwondo championships?",
+      "id": "nt-4051"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what was the total number of medals received by the nations ranked #11?",
+      "id": "nt-4332"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many more bronze medals were awarded than silver?",
+      "id": "nt-6042"
+    },
+    {
+      "targetValue": "Chinese Taipei",
+      "utterance": "which nation received more bronze metals than mexico?",
+      "id": "nt-10490"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what is the numerical difference of total medals between the countries with the most and least amount of medals?",
+      "id": "nt-11096"
+    },
+    {
+      "targetValue": "Chinese Taipei",
+      "utterance": "who had the top number of bronze awards?",
+      "id": "nt-11823"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the total number of gold awards won between spain and egypt?",
+      "id": "nt-12534"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many nations received at least two gold metals?",
+      "id": "nt-13625"
+    }
+  ],
+  "metadata": {
+    "title": "1997 World Taekwondo Championships",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17042436&oldid=566580129",
+    "tableIndex": 2,
+    "hashcode": "0d254906b30b6c78e87eb61e232718be5e03aed3",
+    "id": 17042436,
+    "revision": 566580129
+  }
+}

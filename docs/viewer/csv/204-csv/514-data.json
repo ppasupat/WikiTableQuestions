@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many of these attacks lasted at least 2 days?",
+      "id": "nt-619"
+    },
+    {
+      "targetValue": "90",
+      "utterance": "how many people were killed in total in the attacks in 1973 and 1974?",
+      "id": "nt-1376"
+    },
+    {
+      "targetValue": "24 December 1994",
+      "utterance": "what is the last date on the chart?",
+      "id": "nt-1842"
+    },
+    {
+      "targetValue": "72+",
+      "utterance": "what is the total number of injuries, not including deaths, related to these attacks?",
+      "id": "nt-3855"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the number of people hurt on april 2,1986?",
+      "id": "nt-5892"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many people died on the air france 193 attack?",
+      "id": "nt-7554"
+    },
+    {
+      "targetValue": "18 February 1969",
+      "utterance": "what is the only attack on an airline to involve grenade and small arms fire?",
+      "id": "nt-8218"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many hijackers were killed october 13,1977?",
+      "id": "nt-8220"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what was the total of dead and injured in the attack on air france flight 193?",
+      "id": "nt-9601"
+    },
+    {
+      "targetValue": "5 years 7 months",
+      "utterance": "how long was it between the attack on el al flight 432 and the attack on twa flight 841?",
+      "id": "nt-11277"
+    },
+    {
+      "targetValue": "Union de Transport Aériens - 772 BZV → NDJ → CDG",
+      "utterance": "which airliner attack on the list had the most dead?",
+      "id": "nt-12678"
+    }
+  ],
+  "metadata": {
+    "title": "List of terrorist incidents in the European Union",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41847916&oldid=601825439",
+    "tableIndex": 1,
+    "hashcode": "9dae0b2e1acda0739c29d2e4cfb54a24ed906236",
+    "id": 41847916,
+    "revision": 601825439
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "3rd place",
+      "utterance": "after their first place win in 2009, how did poland place the next year at the speedway junior world championship?",
+      "id": "nt-2568"
+    },
+    {
+      "targetValue": "2011",
+      "utterance": "when was the first year that poland did not place in the top three positions of the team speedway junior world championship?",
+      "id": "nt-3171"
+    },
+    {
+      "targetValue": "2005",
+      "utterance": "what was the last year 3rd place finished with less than 25 points?",
+      "id": "nt-6826"
+    },
+    {
+      "targetValue": "134",
+      "utterance": "what is the total number of points earned in the years 2009?",
+      "id": "nt-7664"
+    },
+    {
+      "targetValue": "Sweden",
+      "utterance": "which team has the most third place wins in the speedway junior world championship between 2005 and 2012?",
+      "id": "nt-10774"
+    },
+    {
+      "targetValue": "30",
+      "utterance": "what was the difference in final score between russia and denmark in 2011?",
+      "id": "nt-11364"
+    },
+    {
+      "targetValue": "230",
+      "utterance": "after 2008 how many points total were scored by winners?",
+      "id": "nt-12274"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "previous to 2008 how many times was sweden the runner up?",
+      "id": "nt-12758"
+    },
+    {
+      "targetValue": "Poland",
+      "utterance": "from 2005-2012, in the team speedway junior world championship, how many more first place wins than all other teams put together?",
+      "id": "nt-13467"
+    }
+  ],
+  "metadata": {
+    "title": "Team Speedway Junior World Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12278719&oldid=544866491",
+    "tableIndex": 1,
+    "hashcode": "3db703f8477c07b152ba966104ec65bc1e9d2d91",
+    "id": 12278719,
+    "revision": 544866491
+  }
+}

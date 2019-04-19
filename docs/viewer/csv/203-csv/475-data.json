@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "203.0 km (126.1 mi)",
+      "utterance": "how many consecutive km were raced on july 8th?",
+      "id": "nt-432"
+    },
+    {
+      "targetValue": "Miguel Indurain",
+      "utterance": "after lance armstrong, who led next in the 1995 tour de france?",
+      "id": "nt-2912"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many routes have below 100 km total?",
+      "id": "nt-6114"
+    },
+    {
+      "targetValue": "108.5 km",
+      "utterance": "how much longer is the 20th tour de france stage than the 19th?",
+      "id": "nt-9630"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many stages were at least 200 km in length in the 1995 tour de france?",
+      "id": "nt-10677"
+    },
+    {
+      "targetValue": "Italy",
+      "utterance": "which country had more stage-winners than any other country?",
+      "id": "nt-12720"
+    },
+    {
+      "targetValue": [
+        "Dinan - Lannion",
+        "Perros-Guirec - Vitre",
+        "Alençon - Le Havre",
+        "Fécamp - Dunkerque",
+        "Dunkerque - Charleroi",
+        "Charleroi - Liège",
+        "Le Grand-Bornand - La Plagne",
+        "La Plagne - L'Alpe d'Huez",
+        "Le Bourg-d'Oisans - Saint-Étienne",
+        "Saint-Étienne - Mende",
+        "Mende - Revel",
+        "Saint-Orens-de-Gameville - Guzet-Neige",
+        "Saint-Girons - Cauterets",
+        "Tarbes - Pau",
+        "Pau - Bordeaux",
+        "Montpon-Ménestérol - Limoges",
+        "Sainte-Geneviève-des-Bois - Paris (Champs-Élysées)"
+      ],
+      "utterance": "which routes were at least 100 km?",
+      "id": "nt-13656"
+    }
+  ],
+  "metadata": {
+    "title": "1995 Tour de France",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2276333&oldid=596438127",
+    "tableIndex": 0,
+    "hashcode": "1f14f2f53443d28bcb6d4e2860718adc31edaa1a",
+    "id": 2276333,
+    "revision": 596438127
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Portugal",
+      "utterance": "did brazil score more goals against the soviet union or portugal in 1982?",
+      "id": "nt-1813"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many times did brazil play west germany during the 1982 season?",
+      "id": "nt-2555"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of games won by brazil during the month of march 1982?",
+      "id": "nt-4297"
+    },
+    {
+      "targetValue": "Brazil",
+      "utterance": "who won on january 26, 1982 and may 27, 1982?",
+      "id": "nt-4719"
+    },
+    {
+      "targetValue": "January 26, 1982",
+      "utterance": "what date is at the top of the list?",
+      "id": "nt-5700"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "was the total goals scored on june 14, 1982 more than 6?",
+      "id": "nt-7057"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many games did this team play in 1982?",
+      "id": "nt-7684"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what was the total number of losses brazil suffered?",
+      "id": "nt-7811"
+    },
+    {
+      "targetValue": "Scotland",
+      "utterance": "who was this team's next opponent after facing the soviet union on june 14?",
+      "id": "nt-8606"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many games did zico end up scoring in during this season?",
+      "id": "nt-12263"
+    }
+  ],
+  "metadata": {
+    "title": "1982 in Brazilian football",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15136619&oldid=525206191",
+    "tableIndex": 8,
+    "hashcode": "b03e0071626b95eaaab0f112d9f0eed1ec6396d1",
+    "id": 15136619,
+    "revision": 525206191
+  }
+}

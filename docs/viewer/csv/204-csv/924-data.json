@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "what was the total combined score of the game on october 31?",
+      "id": "nt-617"
+    },
+    {
+      "targetValue": "2 - 1",
+      "utterance": "what was the score for borussia dortmund?",
+      "id": "nt-6188"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the number of games that ended in a tie?",
+      "id": "nt-7848"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many games did the club play in september?",
+      "id": "nt-8013"
+    },
+    {
+      "targetValue": "1. FC Saarbrücken",
+      "utterance": "who had the largest margin of winning?",
+      "id": "nt-9404"
+    },
+    {
+      "targetValue": "Bayer Uerdingen",
+      "utterance": "who was the opponent on august 15th?",
+      "id": "nt-10883"
+    },
+    {
+      "targetValue": "Dynamo Dresden",
+      "utterance": "what was the last opponent the club played in august?",
+      "id": "nt-11505"
+    },
+    {
+      "targetValue": "Bayer Uerdingen",
+      "utterance": "who did the club play its first match against?",
+      "id": "nt-12954"
+    }
+  ],
+  "metadata": {
+    "title": "1992–93 FC Bayern Munich season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=39803899&oldid=595240405",
+    "tableIndex": 0,
+    "hashcode": "c01896bfd0db2e6f1e6e4408f8e410c55eba8ed4",
+    "id": 39803899,
+    "revision": 595240405
+  }
+}

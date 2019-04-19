@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "The Train",
+      "utterance": "which is the least successful film?",
+      "id": "nt-917"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many movies did 20th century fox create that were in the top 10 grossing films of 1965?",
+      "id": "nt-1834"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many films were made by 20th century fox studios?",
+      "id": "nt-3089"
+    },
+    {
+      "targetValue": "The Train",
+      "utterance": "which movie starring burt lancaster, paul scofield, jeanne moreau and michel simon was also produced by united artists?",
+      "id": "nt-3409"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many films have united artists as their studio?",
+      "id": "nt-3757"
+    },
+    {
+      "targetValue": "That Darn Cat!",
+      "utterance": "which film was the best in terms of profit for walt disney productions?",
+      "id": "nt-5802"
+    },
+    {
+      "targetValue": "The Sandpiper",
+      "utterance": "which 1965 film starred actors elizabeth taylor and richard burton?",
+      "id": "nt-6253"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many times is 20th century fox on the top grossing films (u.s.) list?",
+      "id": "nt-7454"
+    },
+    {
+      "targetValue": "Jack Lemmon",
+      "utterance": "who starred in the 1965 film how to murder your wife?",
+      "id": "nt-7899"
+    },
+    {
+      "targetValue": "Robert Wise",
+      "utterance": "who is the most high-grossing director of 1965?",
+      "id": "nt-14100"
+    }
+  ],
+  "metadata": {
+    "title": "1965 in film",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=171692&oldid=601082130",
+    "tableIndex": 0,
+    "hashcode": "e3a5673d7dc6d6bcaa8c884f98cfa24f20388f57",
+    "id": 171692,
+    "revision": 601082130
+  }
+}

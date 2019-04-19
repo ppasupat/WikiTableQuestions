@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Justin Allgaier",
+      "utterance": "who won the most?",
+      "id": "nt-530"
+    },
+    {
+      "targetValue": "Racing For Wildlife 200",
+      "utterance": "which race was after the race in pocono?",
+      "id": "nt-1788"
+    },
+    {
+      "targetValue": "Toyota ARCA 150",
+      "utterance": "what race is immediately after the pennsylvania 200?",
+      "id": "nt-2641"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "what is the total number of races in this series?",
+      "id": "nt-2707"
+    },
+    {
+      "targetValue": "Racing For Wildlife 200",
+      "utterance": "which race came next after the pocono 200?",
+      "id": "nt-4748"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did ricky stenhouse, jr. win before 10-03-2008?",
+      "id": "nt-6558"
+    },
+    {
+      "targetValue": "Salem",
+      "utterance": "where was the last race listing frank kimmel held?",
+      "id": "nt-6947"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many races are 100?",
+      "id": "nt-8400"
+    },
+    {
+      "targetValue": "Carolina",
+      "utterance": "which is longer the carolina or kentucky race?",
+      "id": "nt-8404"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many races did ricky stenhouse, jr. when during this season?",
+      "id": "nt-9533"
+    },
+    {
+      "targetValue": "Pocono",
+      "utterance": "ricky stenhouse, jr. and justin allgaier both won at which track this season?",
+      "id": "nt-11816"
+    },
+    {
+      "targetValue": "Joey Logano",
+      "utterance": "who was the top competitor at the carolina 500?",
+      "id": "nt-13790"
+    }
+  ],
+  "metadata": {
+    "title": "2008 ARCA Re/Max Series season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16919628&oldid=553419415",
+    "tableIndex": 1,
+    "hashcode": "1aaaf74a871ce54f241e032b9a9cac4a21c7f359",
+    "id": 16919628,
+    "revision": 553419415
+  }
+}

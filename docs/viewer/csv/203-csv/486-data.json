@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "how many teams won 6 matches?",
+      "id": "nt-1446"
+    },
+    {
+      "targetValue": "Sweden",
+      "utterance": "what team placed after canada?",
+      "id": "nt-1475"
+    },
+    {
+      "targetValue": "Finland",
+      "utterance": "which country finished below the united states?",
+      "id": "nt-1767"
+    },
+    {
+      "targetValue": "Switzerland",
+      "utterance": "what team placed next after sweden?",
+      "id": "nt-7340"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many teams won at least 2 games throughout the 1951 world ice hockey championships?",
+      "id": "nt-7878"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the number of points won by great britain?",
+      "id": "nt-8099"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total number of teams to have 4 total wins?",
+      "id": "nt-8519"
+    },
+    {
+      "targetValue": "Norway",
+      "utterance": "which team won more matches, finland or norway?",
+      "id": "nt-10087"
+    },
+    {
+      "targetValue": "Switzerland",
+      "utterance": "which country performed better during the 1951 world ice hockey championships, switzerland or great britain?",
+      "id": "nt-10707"
+    },
+    {
+      "targetValue": "Finland",
+      "utterance": "which country's team came in last place during the 1951 world ice hockey championships?",
+      "id": "nt-11306"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many teams won at least 4 matches?",
+      "id": "nt-11679"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "during the 1951 world ice hockey championships, what was the difference between the first and last place teams for number of games won ?",
+      "id": "nt-12850"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many teams won only 1 match?",
+      "id": "nt-13477"
+    },
+    {
+      "targetValue": "Finland",
+      "utterance": "which country conceded the least goals?",
+      "id": "nt-13518"
+    }
+  ],
+  "metadata": {
+    "title": "1951 World Ice Hockey Championships",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19602685&oldid=570831413",
+    "tableIndex": 1,
+    "hashcode": "ead3ee31b8c80db883a17c478217d38d4bd5455f",
+    "id": 19602685,
+    "revision": 570831413
+  }
+}

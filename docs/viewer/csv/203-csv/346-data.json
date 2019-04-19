@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "how many days in august of 1993 did pearl jam perform in canada?",
+      "id": "nt-1255"
+    },
+    {
+      "targetValue": "Alberta",
+      "utterance": "in which canadian province were the most consecutive concerts played?",
+      "id": "nt-6717"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many concerts in washington state?",
+      "id": "nt-7012"
+    },
+    {
+      "targetValue": "Portland, Oregon",
+      "utterance": "which leg was the last leg?",
+      "id": "nt-8142"
+    },
+    {
+      "targetValue": "Toronto, Ontario, Canada",
+      "utterance": "which leg was after the hull, quebec leg?",
+      "id": "nt-8506"
+    },
+    {
+      "targetValue": "Quebec",
+      "utterance": "were more concerts played in quebec or in british columbia?",
+      "id": "nt-8518"
+    },
+    {
+      "targetValue": "Calgary",
+      "utterance": "did the calgary or the toronto leg take place on august 11?",
+      "id": "nt-8551"
+    },
+    {
+      "targetValue": "Doughboys",
+      "utterance": "who was the next opening act after the cadillac tramps?",
+      "id": "nt-8806"
+    },
+    {
+      "targetValue": "Viper Room",
+      "utterance": "in which venue was the next performance after the one at verdun auditorium?",
+      "id": "nt-8939"
+    },
+    {
+      "targetValue": "Canada",
+      "utterance": "did pearl jam have more concerts in the u.s. or canada?",
+      "id": "nt-9925"
+    },
+    {
+      "targetValue": "The Darling Buds",
+      "utterance": "who was the opening act at the viper room?",
+      "id": "nt-13221"
+    }
+  ],
+  "metadata": {
+    "title": "Pearl Jam 1993 European and North American Tour",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10911506&oldid=561630849",
+    "tableIndex": 2,
+    "hashcode": "1bc3c5e1b4b2d317a14e158742f6067a4c2e0351",
+    "id": 10911506,
+    "revision": 561630849
+  }
+}

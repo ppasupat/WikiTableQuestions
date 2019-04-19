@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "47",
+      "utterance": "how many songs total are listed?",
+      "id": "nt-2509"
+    },
+    {
+      "targetValue": "The Band",
+      "utterance": "which artist has the most concerts?",
+      "id": "nt-6046"
+    },
+    {
+      "targetValue": "25",
+      "utterance": "what is the largest number of films?",
+      "id": "nt-7254"
+    },
+    {
+      "targetValue": "The Band",
+      "utterance": "which artist has the most album",
+      "id": "nt-10517"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many songs did joni mitchell perform?",
+      "id": "nt-10746"
+    },
+    {
+      "targetValue": "\"This Wheel's on Fire\"",
+      "utterance": "what song is listed below of \"life is a carnival\"?",
+      "id": "nt-11371"
+    },
+    {
+      "targetValue": "\"W.S. Walcott Medicine Show\"",
+      "utterance": "which song is previous to \"georgia on my mind\"",
+      "id": "nt-12181"
+    },
+    {
+      "targetValue": "47",
+      "utterance": "how many songs in total?",
+      "id": "nt-12779"
+    },
+    {
+      "targetValue": "The Band",
+      "utterance": "who is the first artist on the chart?",
+      "id": "nt-13269"
+    }
+  ],
+  "metadata": {
+    "title": "The Last Waltz",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=928511&oldid=600659092",
+    "tableIndex": 0,
+    "hashcode": "5e0c93da849006d39a4be4134954ddaf087ffde9",
+    "id": 928511,
+    "revision": 600659092
+  }
+}

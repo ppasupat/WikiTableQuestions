@@ -1,0 +1,69 @@
+{
+  "examples": [
+    {
+      "targetValue": "Houston Texans",
+      "utterance": "which team had the first pick?",
+      "id": "nt-556"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many draft picks did atlanta have?",
+      "id": "nt-2031"
+    },
+    {
+      "targetValue": "after",
+      "utterance": "was roy williams picked before or after ryan sims",
+      "id": "nt-2599"
+    },
+    {
+      "targetValue": [
+        "Javon Walker",
+        "Marc Colombo"
+      ],
+      "utterance": "who did the green bay packers and chicago bears pick first?",
+      "id": "nt-4273"
+    },
+    {
+      "targetValue": "Houston Texans",
+      "utterance": "which nfl team picked the first player",
+      "id": "nt-4674"
+    },
+    {
+      "targetValue": [
+        "Texas",
+        "Oklahoma",
+        "Colorado"
+      ],
+      "utterance": "list each big 12 school with a player drafted in the first round.",
+      "id": "nt-5861"
+    },
+    {
+      "targetValue": "Kalimba Edwards",
+      "utterance": "who is the first detroit lions pick not from the pac-10?",
+      "id": "nt-6598"
+    },
+    {
+      "targetValue": "Jabar Gaffney",
+      "utterance": "how did houston pick next after david carr?",
+      "id": "nt-6930"
+    },
+    {
+      "targetValue": "WR",
+      "utterance": "the only position that san diego drafted more than one of.",
+      "id": "nt-8363"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what is the total number of pics from the big east in the first two rounds?",
+      "id": "nt-11043"
+    }
+  ],
+  "metadata": {
+    "title": "2002 NFL Draft",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2662584&oldid=599515592",
+    "tableIndex": 1,
+    "hashcode": "a817aad822ec96b8675f87f43b174e718f71030f",
+    "id": 2662584,
+    "revision": 599515592
+  }
+}

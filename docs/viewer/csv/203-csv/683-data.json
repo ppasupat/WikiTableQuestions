@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "what number of times did lillestrøm win gold?",
+      "id": "nt-1808"
+    },
+    {
+      "targetValue": "League of Norway",
+      "utterance": "which league won the least number of golds?",
+      "id": "nt-4379"
+    },
+    {
+      "targetValue": "Fredrikstad",
+      "utterance": "after rosenborg, which team has the most cup wins?",
+      "id": "nt-5008"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many consecutive years did rosenborg win gold?",
+      "id": "nt-5184"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "what is the total number of medals earned by fredrikstad?",
+      "id": "nt-8158"
+    },
+    {
+      "targetValue": "First Division",
+      "utterance": "previous to the tippeligaen, what was the league called?",
+      "id": "nt-8233"
+    },
+    {
+      "targetValue": "1966",
+      "utterance": "what was the only season that skeid won gold?",
+      "id": "nt-12227"
+    },
+    {
+      "targetValue": "Rosenborg",
+      "utterance": "no team has more cup wins than this team?",
+      "id": "nt-12724"
+    },
+    {
+      "targetValue": "Eik-Tønsberg",
+      "utterance": "who won bronze before valeranga in 1960-61?",
+      "id": "nt-13169"
+    }
+  ],
+  "metadata": {
+    "title": "List of Norwegian football league champions",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=303503&oldid=584013987",
+    "tableIndex": 1,
+    "hashcode": "c3555e31025f7181c544716c62484a42637ea3c8",
+    "id": 303503,
+    "revision": 584013987
+  }
+}

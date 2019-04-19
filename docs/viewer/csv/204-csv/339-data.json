@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "Slalom",
+      "utterance": "in which single category did rosi mittemaier get the most awards?",
+      "id": "nt-548"
+    },
+    {
+      "targetValue": "1976",
+      "utterance": "which year was rosi mittermaier's last season?",
+      "id": "nt-1969"
+    },
+    {
+      "targetValue": "20.5",
+      "utterance": "what is the average in the ages",
+      "id": "nt-6966"
+    },
+    {
+      "targetValue": "1976",
+      "utterance": "who is the top in giant slalom",
+      "id": "nt-7660"
+    }
+  ],
+  "metadata": {
+    "title": "Rosi Mittermaier",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=542197&oldid=594032119",
+    "tableIndex": 0,
+    "hashcode": "b2b5ea70418170058e432820d4fa0b71849063d0",
+    "id": 542197,
+    "revision": 594032119
+  }
+}

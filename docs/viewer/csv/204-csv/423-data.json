@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "15",
+      "utterance": "how many historic sites are listed in coldwater?",
+      "id": "nt-308"
+    },
+    {
+      "targetValue": "Edwin R. Clarke Library",
+      "utterance": "which site was listed earlier, the state public school or the edwin r. clarke library?",
+      "id": "nt-336"
+    },
+    {
+      "targetValue": "Chicago Road Informational Designation",
+      "utterance": "name a site that was listed no later than 1960.",
+      "id": "nt-721"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many sites were listed as historical before 1980?",
+      "id": "nt-4267"
+    },
+    {
+      "targetValue": "23",
+      "utterance": "what is the total current listing of names on this chart?",
+      "id": "nt-4367"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many years passed between the historic listing of public libraries in quincy and bronson?",
+      "id": "nt-4928"
+    },
+    {
+      "targetValue": "City of Coldwater",
+      "utterance": "what is the name with the only listing date on april 14, 1961",
+      "id": "nt-5649"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many historic sites were listed in 1988?",
+      "id": "nt-9271"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many historic sites were listed before 1965?",
+      "id": "nt-10719"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many sites are in coldwater?",
+      "id": "nt-12141"
+    },
+    {
+      "targetValue": "Coldwater",
+      "utterance": "which city has the largest number of historic sites?",
+      "id": "nt-12578"
+    }
+  ],
+  "metadata": {
+    "title": "List of Michigan State Historic Sites in Branch County, Michigan",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30600392&oldid=566468093",
+    "tableIndex": 0,
+    "hashcode": "302fcd2a9665535159eb847d4b97423765b6dc28",
+    "id": 30600392,
+    "revision": 566468093
+  }
+}

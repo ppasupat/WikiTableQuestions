@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "Cooper",
+      "utterance": "which place has the lowest, lower zip code?",
+      "id": "nt-5477"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many places are in greene county?",
+      "id": "nt-9238"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many total places are in greene county?",
+      "id": "nt-10536"
+    },
+    {
+      "targetValue": "Cairo Junction",
+      "utterance": "which county is listed above calciana?",
+      "id": "nt-14020"
+    }
+  ],
+  "metadata": {
+    "title": "List of places in New York: C",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2653464&oldid=574916740",
+    "tableIndex": 0,
+    "hashcode": "cec59bd1d8dc805448ac76a0ecd6f9d6934492c5",
+    "id": 2653464,
+    "revision": 574916740
+  }
+}

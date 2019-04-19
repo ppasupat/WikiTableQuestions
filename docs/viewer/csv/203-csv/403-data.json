@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "what is the total number of ships the united states launched in 1929?",
+      "id": "nt-1188"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what are the total number of times northampton-class cruiser is listed as the class of the ship?",
+      "id": "nt-1381"
+    },
+    {
+      "targetValue": [
+        "Salt Lake City",
+        "Barøy"
+      ],
+      "utterance": "name a ship from the united states and one from norway.",
+      "id": "nt-3441"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "which country built the most ships according to this cart?",
+      "id": "nt-5369"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many ships did germany launch in 1929?",
+      "id": "nt-6099"
+    },
+    {
+      "targetValue": "Pensacola",
+      "utterance": "for each ship, list which were built by new york navy yard.",
+      "id": "nt-6593"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "what is the average number of ship launches during the year 1929?",
+      "id": "nt-6958"
+    },
+    {
+      "targetValue": "Salt Lake City",
+      "utterance": "what was the first ship to be launched in 1929?",
+      "id": "nt-8143"
+    },
+    {
+      "targetValue": "Commandant Teste",
+      "utterance": "what ship has the most letters in it's name?",
+      "id": "nt-12122"
+    },
+    {
+      "targetValue": "Commandant Teste",
+      "utterance": "after the salt lake city, which ship was the next to be launched?",
+      "id": "nt-12528"
+    },
+    {
+      "targetValue": "Houston",
+      "utterance": "which ship was launched later in the month: the northampton or the houston?",
+      "id": "nt-13599"
+    }
+  ],
+  "metadata": {
+    "title": "List of ship launches in 1929",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7222091&oldid=591130402",
+    "tableIndex": 0,
+    "hashcode": "8f07493a086fb2e6fdba797c67d9fe5ab9a47181",
+    "id": 7222091,
+    "revision": 591130402
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "Miracles",
+      "utterance": "album released after emotion",
+      "id": "nt-1616"
+    },
+    {
+      "targetValue": "Gimme Shelter",
+      "utterance": "first album released",
+      "id": "nt-1673"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many albums were released in the 1970's?",
+      "id": "nt-1986"
+    },
+    {
+      "targetValue": "25 years",
+      "utterance": "how long is the period between the first and last album in the table?",
+      "id": "nt-3729"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many albums were made in the 70's?",
+      "id": "nt-5424"
+    },
+    {
+      "targetValue": "1979",
+      "utterance": "in what year was the only album on the fontana label?",
+      "id": "nt-6730"
+    },
+    {
+      "targetValue": "Gimme Shelter",
+      "utterance": "name an album released before celebration.",
+      "id": "nt-8355"
+    },
+    {
+      "targetValue": "Keep Your Eye on the Sparrow",
+      "utterance": "which album ranked higher in the us, merry clayton or keep your eye on the sparrow?",
+      "id": "nt-10140"
+    },
+    {
+      "targetValue": "Ode",
+      "utterance": "the only label that shares multiple albums is which?",
+      "id": "nt-11561"
+    },
+    {
+      "targetValue": "1969",
+      "utterance": "what year was clayton's first album?",
+      "id": "nt-11960"
+    },
+    {
+      "targetValue": "US R&B",
+      "utterance": "did the artist fare better on the us chart or the us r&b chart?",
+      "id": "nt-12882"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what number of albums were recorded on the ode label?",
+      "id": "nt-13265"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "number of albums released under the ode label",
+      "id": "nt-13366"
+    }
+  ],
+  "metadata": {
+    "title": "Merry Clayton",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6503391&oldid=600459092",
+    "tableIndex": 0,
+    "hashcode": "966ece39cbe28fc7dee5d3448fc8669905baccf3",
+    "id": 6503391,
+    "revision": 600459092
+  }
+}

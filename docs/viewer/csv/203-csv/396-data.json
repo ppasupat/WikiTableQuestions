@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "for how many consecutive years did oulu airport see an increase in total passengers?",
+      "id": "nt-2320"
+    },
+    {
+      "targetValue": "2012",
+      "utterance": "which year had the most domestic passengers?",
+      "id": "nt-3249"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many years did international passengers number at least 100,000?",
+      "id": "nt-4690"
+    },
+    {
+      "targetValue": "2013",
+      "utterance": "which year saw the highest drop in total passengers from the previous year?",
+      "id": "nt-6054"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many times was the total number of passengers at least 800,000 or more?",
+      "id": "nt-7721"
+    },
+    {
+      "targetValue": "2012",
+      "utterance": "what year had the greatest number of international passengers?",
+      "id": "nt-8638"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many years showed a positive increase?",
+      "id": "nt-8927"
+    },
+    {
+      "targetValue": "2009",
+      "utterance": "2006 and what other year were internationl passengers in the 80,000 range?",
+      "id": "nt-11758"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many years of statistics are listed in chart?",
+      "id": "nt-13880"
+    },
+    {
+      "targetValue": "+39.1%",
+      "utterance": "what is listed as the passenger percentage difference for the year 2011?",
+      "id": "nt-13896"
+    }
+  ],
+  "metadata": {
+    "title": "Oulu Airport",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=731094&oldid=596222106",
+    "tableIndex": 1,
+    "hashcode": "0ff7939ce825721aa9c99c8cddb5a38bc1a08db7",
+    "id": 731094,
+    "revision": 596222106
+  }
+}

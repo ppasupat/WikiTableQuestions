@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "how many nations won at least 10 medals?",
+      "id": "nt-876"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many more medals did egypt win than ivory coast?",
+      "id": "nt-1212"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many bronze medals does togo have?",
+      "id": "nt-2062"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what was the total medal count of switzerland?",
+      "id": "nt-10467"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "how many counties have at least one silver medal?",
+      "id": "nt-10732"
+    },
+    {
+      "targetValue": "23",
+      "utterance": "what is the difference between france's and egypt's silver medals?",
+      "id": "nt-10744"
+    },
+    {
+      "targetValue": "France",
+      "utterance": "who placed in first according to medals?",
+      "id": "nt-12554"
+    }
+  ],
+  "metadata": {
+    "title": "1994 Jeux de la Francophonie",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12402952&oldid=548081466",
+    "tableIndex": 1,
+    "hashcode": "4706f2cf5e4b7fee9c38b8e60136f771ebc5c4e9",
+    "id": 12402952,
+    "revision": 548081466
+  }
+}

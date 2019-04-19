@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "Sesame Street: Once Upon a Monster",
+      "utterance": "which game is credited with a creative director and warner bros. interactive entertainment as their creative director?",
+      "id": "nt-7823"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many games were credited with a creative director?",
+      "id": "nt-9314"
+    }
+  ],
+  "metadata": {
+    "title": "Tim Schafer",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=271857&oldid=602041968",
+    "tableIndex": 0,
+    "hashcode": "22702f235d2366c0c3abacab4985f7784ce23b8a",
+    "id": 271857,
+    "revision": 602041968
+  }
+}

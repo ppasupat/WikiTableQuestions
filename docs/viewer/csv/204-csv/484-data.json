@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "\"Last Dayz\"",
+      "utterance": "which was released earlier, atomic or last dayz?",
+      "id": "nt-3603"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many times was skrein listed as an artist on a song?",
+      "id": "nt-6285"
+    },
+    {
+      "targetValue": "Bring it back",
+      "utterance": "which collaboration featuring plan b is ranked alphabetically above \"broken wings\" (2005)?",
+      "id": "nt-8504"
+    },
+    {
+      "targetValue": "Plan B",
+      "utterance": "which artist name appears the most on this chart?",
+      "id": "nt-10326"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many total songs did shameless perform on?",
+      "id": "nt-11883"
+    }
+  ],
+  "metadata": {
+    "title": "List of songs recorded by Plan B",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30552617&oldid=601956612",
+    "tableIndex": 1,
+    "hashcode": "af91147abe21d167e1025bbbe1b6cbe648fd45cc",
+    "id": 30552617,
+    "revision": 601956612
+  }
+}

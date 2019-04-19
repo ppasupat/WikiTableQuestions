@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of consecrations for the cathedral church of st. mary?",
+      "id": "nt-763"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many bridges are listed in total?",
+      "id": "nt-2142"
+    },
+    {
+      "targetValue": "before",
+      "utterance": "was the cathedral church of st. mary built before or after harnham bridge?",
+      "id": "nt-5384"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many churches in the list are from 13th century?",
+      "id": "nt-6134"
+    },
+    {
+      "targetValue": "Cathedral Church of St. Mary",
+      "utterance": "what structure was probably built around 1220?",
+      "id": "nt-6914"
+    },
+    {
+      "targetValue": "36",
+      "utterance": "how many buildings are there total?",
+      "id": "nt-6933"
+    },
+    {
+      "targetValue": "68 West Walk",
+      "utterance": "which is older, 68 west walk or leaden hall?",
+      "id": "nt-6942"
+    },
+    {
+      "targetValue": "135 years",
+      "utterance": "how much older is harnham bridge (or ayleswade bridge) than the trinity street almshouses?",
+      "id": "nt-12040"
+    }
+  ],
+  "metadata": {
+    "title": "List of Grade I listed buildings in Salisbury",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=39388202&oldid=579712542",
+    "tableIndex": 0,
+    "hashcode": "305bb66a3003891f1c7e02baf770b51e101bad14",
+    "id": 39388202,
+    "revision": 579712542
+  }
+}

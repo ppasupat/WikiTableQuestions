@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "27",
+      "utterance": "how many points did the dolphins score against the buffalo bills total?",
+      "id": "nt-1297"
+    },
+    {
+      "targetValue": "January 2, 1983",
+      "utterance": "date on which the fewest attendees were at a dolphins game (home or away)",
+      "id": "nt-2063"
+    },
+    {
+      "targetValue": "Baltimore Colts",
+      "utterance": "first home opponent for the dolphins in the season",
+      "id": "nt-2386"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "number of points dolphins scored against tampa bay buccaneers in week 4",
+      "id": "nt-5494"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the total number of opponent?",
+      "id": "nt-6364"
+    },
+    {
+      "targetValue": "53,360",
+      "utterance": "what was the number of attendees at the game on september 12th?",
+      "id": "nt-6883"
+    },
+    {
+      "targetValue": "Tampa Bay Buccaneers",
+      "utterance": "team that defeated the dolphins that was not the new england patriots",
+      "id": "nt-8212"
+    }
+  ],
+  "metadata": {
+    "title": "1982 Miami Dolphins season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16023745&oldid=588700803",
+    "tableIndex": 1,
+    "hashcode": "835a356a5f286d91f8103e2132f3b88e40c4a96a",
+    "id": 16023745,
+    "revision": 588700803
+  }
+}

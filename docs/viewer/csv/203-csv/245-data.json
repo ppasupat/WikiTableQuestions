@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "4th",
+      "utterance": "what was the highest that german silva placed in an international race after 1995?",
+      "id": "nt-1023"
+    },
+    {
+      "targetValue": "New York City Marathon",
+      "utterance": "which competition came before the olympic games in atlanta, united states?",
+      "id": "nt-2821"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many total international races did german silva place in the top 3 spots?",
+      "id": "nt-3663"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the number of marathons that silva ran in the united states?",
+      "id": "nt-3672"
+    },
+    {
+      "targetValue": "5th",
+      "utterance": "how did silva plce in the competition after the olympic games in 1996?",
+      "id": "nt-7395"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what are the number of times a competition took place in the united states?",
+      "id": "nt-9901"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total amount of times a new york city marathon competition had a 1st position place?",
+      "id": "nt-11126"
+    }
+  ],
+  "metadata": {
+    "title": "Germán Silva",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17167993&oldid=543384914",
+    "tableIndex": 0,
+    "hashcode": "718c54b119df97f8beb6c48e2d4b224937e2db1a",
+    "id": 17167993,
+    "revision": 543384914
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "in how many games did the winning team score more than 4 points?",
+      "id": "nt-19"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times did the home team have a score of only one against the away team?",
+      "id": "nt-156"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "during the second leg, what number of matches ended in a draw?",
+      "id": "nt-1187"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "during the second leg, in how many matches was the winning score above 4?",
+      "id": "nt-1723"
+    },
+    {
+      "targetValue": "Aberdeen vs Hamilton Academical",
+      "utterance": "which game was won by the largest margin?",
+      "id": "nt-3168"
+    },
+    {
+      "targetValue": "St. Mirren",
+      "utterance": "what is the home team of the only 0-0 score?",
+      "id": "nt-3361"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of ties listed?",
+      "id": "nt-3869"
+    },
+    {
+      "targetValue": "Ayr United",
+      "utterance": "what home team is above clydebank?",
+      "id": "nt-7544"
+    },
+    {
+      "targetValue": "Rangers",
+      "utterance": "what is the away team with the lowest score?",
+      "id": "nt-8647"
+    },
+    {
+      "targetValue": "Aberdeen vs Hamilton Academical",
+      "utterance": "during the second leg, what game had the most goals?",
+      "id": "nt-8862"
+    },
+    {
+      "targetValue": "Aberdeen",
+      "utterance": "what home team has the most points scored?",
+      "id": "nt-9139"
+    },
+    {
+      "targetValue": "Morton",
+      "utterance": "which team scored higher as the home team, ayr united or morton?",
+      "id": "nt-12193"
+    },
+    {
+      "targetValue": "Ayr United vs Falkirk",
+      "utterance": "which game was closer, morton vs kilmarnock or ayr united vs. falkirk?",
+      "id": "nt-14017"
+    }
+  ],
+  "metadata": {
+    "title": "1978–79 Scottish League Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=34686500&oldid=561377976",
+    "tableIndex": 5,
+    "hashcode": "56925616b7465bd1f2ff59fcc0e24bd2195482eb",
+    "id": 34686500,
+    "revision": 561377976
+  }
+}

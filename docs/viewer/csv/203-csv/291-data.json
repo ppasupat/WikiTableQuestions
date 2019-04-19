@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Eric Fraser",
+      "utterance": "what was the name of the only player with the position listed as s?",
+      "id": "nt-2549"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what's the number of schools listed?",
+      "id": "nt-2977"
+    },
+    {
+      "targetValue": "Eric Fraser",
+      "utterance": "who was the only player picked in the top ten?",
+      "id": "nt-7212"
+    },
+    {
+      "targetValue": "Regina",
+      "utterance": "the last player picked came from what school?",
+      "id": "nt-8620"
+    },
+    {
+      "targetValue": "John Kanaroski",
+      "utterance": "what is the name of the player picked in the last round?",
+      "id": "nt-11983"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many players had the position of wr according to this chart?",
+      "id": "nt-13631"
+    }
+  ],
+  "metadata": {
+    "title": "2009 Calgary Stampeders season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20875452&oldid=492486949",
+    "tableIndex": 0,
+    "hashcode": "5b4891f8392fa76ebc1b57359d23083b743baab3",
+    "id": 20875452,
+    "revision": 492486949
+  }
+}

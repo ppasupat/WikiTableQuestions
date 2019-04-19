@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "299",
+      "utterance": "what is the total number of regions?",
+      "id": "nt-2431"
+    },
+    {
+      "targetValue": "14853",
+      "utterance": "how many people live in santa maria?",
+      "id": "nt-4479"
+    },
+    {
+      "targetValue": "Chiclayo",
+      "utterance": "name a city with the same elevation as callao.",
+      "id": "nt-10738"
+    },
+    {
+      "targetValue": "Arequipa",
+      "utterance": "after lima, which location has the next highest population?",
+      "id": "nt-13707"
+    },
+    {
+      "targetValue": "Arequipa",
+      "utterance": "name a city with more than 400,000 people.",
+      "id": "nt-14112"
+    }
+  ],
+  "metadata": {
+    "title": "List of populated places in Peru",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=32378832&oldid=594522378",
+    "tableIndex": 0,
+    "hashcode": "34a40301f8f65695838723bc68e76f37262da349",
+    "id": 32378832,
+    "revision": 594522378
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Inductor",
+      "utterance": "the half-bridge's energy storage is not a transformer but what?",
+      "id": "nt-2076"
+    },
+    {
+      "targetValue": "Flyback",
+      "utterance": "what is one type that has at least a relative cost of 1.0?",
+      "id": "nt-3296"
+    },
+    {
+      "targetValue": "Resonant, zero voltage switched",
+      "utterance": "which power supply can handle the most consecutive watts?",
+      "id": "nt-8709"
+    },
+    {
+      "targetValue": "Full-bridge",
+      "utterance": "which type is the most in power and input range",
+      "id": "nt-10325"
+    },
+    {
+      "targetValue": "below",
+      "utterance": "is the relative cost of the flyback above or below 1.5?",
+      "id": "nt-10997"
+    },
+    {
+      "targetValue": "600",
+      "utterance": "how many volts can the flyback handle at most?",
+      "id": "nt-13789"
+    }
+  ],
+  "metadata": {
+    "title": "Switched-mode power supply",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=223407&oldid=601621070",
+    "tableIndex": 2,
+    "hashcode": "b8f5b672928c388859b1be853db0a1c35ed7aa08",
+    "id": 223407,
+    "revision": 601621070
+  }
+}

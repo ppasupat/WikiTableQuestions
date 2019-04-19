@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "96",
+      "utterance": "by how much does the macintosh cyrillic encoding differ in decimals between the small letter em and the capital letter em?",
+      "id": "nt-3038"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many encodings have a decimal above 200 for the capital letter em?",
+      "id": "nt-4804"
+    }
+  ],
+  "metadata": {
+    "title": "Em (Cyrillic)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=866198&oldid=591097496",
+    "tableIndex": 1,
+    "hashcode": "19e25ad57ef471d851ac88aef9fb57751bde2653",
+    "id": 866198,
+    "revision": 591097496
+  }
+}

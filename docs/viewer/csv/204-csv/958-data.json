@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many episodes had a rank of more than 3?",
+      "id": "nt-1051"
+    },
+    {
+      "targetValue": ".14",
+      "utterance": "what is the difference between the average for episode 1 and the average for episode 13?",
+      "id": "nt-2439"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many episodes had an average over 0.75?",
+      "id": "nt-2823"
+    },
+    {
+      "targetValue": "8 April 2012",
+      "utterance": "on what date was the first episode broadcast?",
+      "id": "nt-4172"
+    },
+    {
+      "targetValue": "3 June 2012",
+      "utterance": "when was the next episodes broadcast date after the may 27th, 2012 episode?",
+      "id": "nt-4490"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "name the episode that ha the same average as number 5.",
+      "id": "nt-4524"
+    },
+    {
+      "targetValue": "July",
+      "utterance": "in what month was the last episode broadcast?",
+      "id": "nt-5689"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the rank of the last episode broadcasted?",
+      "id": "nt-8896"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "which was the first episode to drop the average below 0.60?",
+      "id": "nt-9874"
+    },
+    {
+      "targetValue": "1 July 2012",
+      "utterance": "what was the date of the last episode that was broadcast?",
+      "id": "nt-9969"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what was the only episode broadcasted in july 2012?",
+      "id": "nt-10033"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many episodes had at least an average of 0.70?",
+      "id": "nt-12685"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many aired in may?",
+      "id": "nt-13984"
+    }
+  ],
+  "metadata": {
+    "title": "Absolute Darling",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=32967568&oldid=600546096",
+    "tableIndex": 2,
+    "hashcode": "2e3db127b889d4f78e7d83a24ea866604c401ad7",
+    "id": 32967568,
+    "revision": 600546096
+  }
+}

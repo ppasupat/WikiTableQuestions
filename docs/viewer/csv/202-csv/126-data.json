@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "Walter Schellenberg",
+      "utterance": "which defendant was also the second-in-command to the gestapo?",
+      "id": "nt-7171"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many defendants were acquitted, if any?",
+      "id": "nt-12931"
+    }
+  ],
+  "metadata": {
+    "title": "Ministries Trial",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1513019&oldid=540613380",
+    "tableIndex": 0,
+    "hashcode": "edf678afaa9435b922fd26597b5a9ffda3ae87f3",
+    "id": 1513019,
+    "revision": 540613380
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Bertram Schäfer Racing",
+      "utterance": "which winning team won the least?",
+      "id": "nt-728"
+    },
+    {
+      "targetValue": "Target Racing",
+      "utterance": "was it azeta racing or target racing that won the misano world circuit?",
+      "id": "nt-1819"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the total number of winning drivers for italy?",
+      "id": "nt-2282"
+    },
+    {
+      "targetValue": "Target Racing",
+      "utterance": "who had more winning teams, target or azeta?",
+      "id": "nt-3704"
+    },
+    {
+      "targetValue": "Philip Cloostermans",
+      "utterance": "who appears more often, christiano citron or philip cloostermans?",
+      "id": "nt-5533"
+    },
+    {
+      "targetValue": "Christiano Citron",
+      "utterance": "who is the only winning driver to appear once from team target racing?",
+      "id": "nt-8030"
+    },
+    {
+      "targetValue": "Autodromo Nazionale Monza",
+      "utterance": "what circuit is listed below autodromo di pergusa, enna?",
+      "id": "nt-11480"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "which round did not have an italian team as the winning team?",
+      "id": "nt-12120"
+    }
+  ],
+  "metadata": {
+    "title": "2002 Italian Formula Three season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36849408&oldid=574972659",
+    "tableIndex": 2,
+    "hashcode": "f2947dcd590a9910aaf23784a6c6e242230241d0",
+    "id": 36849408,
+    "revision": 574972659
+  }
+}

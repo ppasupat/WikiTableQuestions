@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "Olympic Games",
+      "utterance": "51st position and 31st position were both obtained by this runner at which competition?",
+      "id": "nt-1730"
+    },
+    {
+      "targetValue": "2007",
+      "utterance": "what was the only year the venue was in japan?",
+      "id": "nt-3607"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many marathons were held in beijing?",
+      "id": "nt-4472"
+    },
+    {
+      "targetValue": "2:10:46",
+      "utterance": "next to 2:13:09, what was his best time?",
+      "id": "nt-5698"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times did he finish in under 2:20?",
+      "id": "nt-6273"
+    },
+    {
+      "targetValue": "Athens, Greece",
+      "utterance": "was the venue in athens or beijing associated with 31st place?",
+      "id": "nt-6750"
+    },
+    {
+      "targetValue": "Marathon",
+      "utterance": "what is the only type of event listed?",
+      "id": "nt-7355"
+    },
+    {
+      "targetValue": "Beijing, PR China",
+      "utterance": "what venue appears most on the list?",
+      "id": "nt-8129"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many years are listed above 2007?",
+      "id": "nt-9040"
+    },
+    {
+      "targetValue": "World Championships",
+      "utterance": "which competition did this runner participate in after the xiamen international marathon?",
+      "id": "nt-9438"
+    },
+    {
+      "targetValue": "Beijing Marathon",
+      "utterance": "which was the first competition?",
+      "id": "nt-10222"
+    },
+    {
+      "targetValue": "2:19:26",
+      "utterance": "how long did it take him to finish the marathon at the olympics in 2004?",
+      "id": "nt-12575"
+    },
+    {
+      "targetValue": "Beijing Marathon",
+      "utterance": "what was the first competition where this runner placed 1st?",
+      "id": "nt-12696"
+    }
+  ],
+  "metadata": {
+    "title": "Li Zhuhong",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18708170&oldid=541447357",
+    "tableIndex": 0,
+    "hashcode": "0928dc4e4970d907ab17d0584b5a325aecae7f31",
+    "id": 18708170,
+    "revision": 541447357
+  }
+}

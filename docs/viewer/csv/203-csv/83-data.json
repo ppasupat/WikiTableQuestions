@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Vitol",
+      "utterance": "which company has the least number of employees?",
+      "id": "nt-398"
+    },
+    {
+      "targetValue": "Wal-Mart Stores, Inc.",
+      "utterance": "what company has the top revenue?",
+      "id": "nt-1365"
+    },
+    {
+      "targetValue": "Ford Motor Company",
+      "utterance": "who earned the same revenue as hon hai precision industry?",
+      "id": "nt-2242"
+    },
+    {
+      "targetValue": "2,800",
+      "utterance": "how many employees does vitol have?",
+      "id": "nt-3427"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many oil and gas industries made the top 10 in ranking of revenue list?",
+      "id": "nt-3718"
+    },
+    {
+      "targetValue": "Volkswagen Group",
+      "utterance": "what is the company with the highest revenue in the automotive industry?",
+      "id": "nt-4348"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many companies have at least 200 billion in revenue for oil and gas?",
+      "id": "nt-6984"
+    },
+    {
+      "targetValue": "Wal-Mart Stores, Inc.",
+      "utterance": "which company is ranked at the top with the largest revenue?",
+      "id": "nt-10039"
+    },
+    {
+      "targetValue": "Japan Post Holdings",
+      "utterance": "what company is ranked below apple?",
+      "id": "nt-11825"
+    }
+  ],
+  "metadata": {
+    "title": "List of largest companies by revenue",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=997455&oldid=601986229",
+    "tableIndex": 1,
+    "hashcode": "da1773e9604425a2b35b00506c26731f7c15a1a9",
+    "id": 997455,
+    "revision": 601986229
+  }
+}

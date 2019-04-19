@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Italy",
+      "utterance": "which team had the same amount of qualification points as latvia?",
+      "id": "nt-2041"
+    },
+    {
+      "targetValue": "Italy",
+      "utterance": "which county had the same number of points as latvia?",
+      "id": "nt-2534"
+    },
+    {
+      "targetValue": "23",
+      "utterance": "how many points did germany have?",
+      "id": "nt-3042"
+    },
+    {
+      "targetValue": "Canada",
+      "utterance": "which country had the largest number of points?",
+      "id": "nt-4386"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many countries had at least 25 points?",
+      "id": "nt-7436"
+    },
+    {
+      "targetValue": "Canada",
+      "utterance": "which country's team ranked first?",
+      "id": "nt-9395"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many competitions was great britain at?",
+      "id": "nt-10063"
+    },
+    {
+      "targetValue": "52.4",
+      "utterance": "what was the average number of points scored among the top five teams?",
+      "id": "nt-10928"
+    }
+  ],
+  "metadata": {
+    "title": "Curling at the 2011 Winter Universiade",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=29795999&oldid=592516075",
+    "tableIndex": 1,
+    "hashcode": "5ffa72eb1a1919636491fb8a46ca268117ba5563",
+    "id": 29795999,
+    "revision": 592516075
+  }
+}

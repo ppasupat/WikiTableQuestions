@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "0",
+      "utterance": "how many events did idaho win?",
+      "id": "nt-1001"
+    },
+    {
+      "targetValue": "Idaho",
+      "utterance": "which state placed first in the 1989 miss teen usa competition?",
+      "id": "nt-1211"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many state has an average under 8.5?",
+      "id": "nt-3379"
+    },
+    {
+      "targetValue": "Kentucky",
+      "utterance": "which state had the most points in the swimsuit competition?",
+      "id": "nt-3758"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many total evening gown scores above 9.000 were given?",
+      "id": "nt-5612"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many average scores were below 8.700?",
+      "id": "nt-5778"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many got, at most, 8.5 in the interview?",
+      "id": "nt-6263"
+    },
+    {
+      "targetValue": "Kentucky",
+      "utterance": "which state has the top swimsuit amount?",
+      "id": "nt-7006"
+    },
+    {
+      "targetValue": "Kentucky",
+      "utterance": "which state's average is almost 9.2?",
+      "id": "nt-7910"
+    },
+    {
+      "targetValue": "Kentucky",
+      "utterance": "who was the top scorer in evening gown?",
+      "id": "nt-7921"
+    },
+    {
+      "targetValue": "9.400",
+      "utterance": "what is the largest evening gown amount?",
+      "id": "nt-10128"
+    }
+  ],
+  "metadata": {
+    "title": "Miss Teen USA 1989",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12064199&oldid=600349181",
+    "tableIndex": 0,
+    "hashcode": "2169fb3433ce2505629372ae9fb50f8b37232a1f",
+    "id": 12064199,
+    "revision": 600349181
+  }
+}

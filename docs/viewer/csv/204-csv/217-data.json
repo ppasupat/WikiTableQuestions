@@ -1,0 +1,73 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "11 Mar [8]",
+        "13 Mar [9]"
+      ],
+      "utterance": "which dates did the colombo national hospital have more than 75 but less than 100 idps?",
+      "id": "nt-1271"
+    },
+    {
+      "targetValue": "25 Feb [3]",
+      "utterance": "how long did kodikamam government tamil mixed school go without topping 500 idps?",
+      "id": "nt-2852"
+    },
+    {
+      "targetValue": "Thampalakamam Peripheral Unit",
+      "utterance": "which camp is the least amount on mar.30",
+      "id": "nt-3239"
+    },
+    {
+      "targetValue": [
+        "Menik Farm Zone 0",
+        "(Kathirkamar Village)"
+      ],
+      "utterance": "what camp is at the top?",
+      "id": "nt-3670"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many camps did vavuniya represent?",
+      "id": "nt-3834"
+    },
+    {
+      "targetValue": "Poonathoddam College of Education",
+      "utterance": "which one is the top camp on feb.9",
+      "id": "nt-5366"
+    },
+    {
+      "targetValue": "Vengalachedikulam",
+      "utterance": "who was the first div sec division?",
+      "id": "nt-5465"
+    },
+    {
+      "targetValue": "Mannar Town",
+      "utterance": "what division comes after jaffna",
+      "id": "nt-8905"
+    },
+    {
+      "targetValue": "Vengalachedikulam",
+      "utterance": "what div sec division comes before vavuniya?",
+      "id": "nt-11847"
+    },
+    {
+      "targetValue": "Nelukkulam Kalaimahal Maha Vidyalayam",
+      "utterance": "which farm grew the larger amount on 9 feb, gamini maha vidyalayam or nelukkulam kalaimahal maha vidyalayam?",
+      "id": "nt-13326"
+    },
+    {
+      "targetValue": "Ariviththodam Sivanantha Vidyalayam, Menik Farm",
+      "utterance": "which camp grew the least on 9 feb?",
+      "id": "nt-13349"
+    }
+  ],
+  "metadata": {
+    "title": "Sri Lankan IDP numbers, February and March 2009",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=24912367&oldid=562467388",
+    "tableIndex": 0,
+    "hashcode": "e0271e0795aa19e013283a226d52cfd1a3eb05b8",
+    "id": 24912367,
+    "revision": 562467388
+  }
+}

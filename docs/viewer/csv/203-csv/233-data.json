@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "20",
+      "utterance": "what is the total number of members in the 20 metre club?",
+      "id": "nt-4013"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many club members put the shot at least 20.15 the first time they broke 20m?",
+      "id": "nt-6071"
+    },
+    {
+      "targetValue": "Conny Karlsson",
+      "utterance": "which club member has the farthest shot put?",
+      "id": "nt-7818"
+    },
+    {
+      "targetValue": "Mika Vasara",
+      "utterance": "matti yrjola had the same distance recorded as who?",
+      "id": "nt-11020"
+    },
+    {
+      "targetValue": "Jari Kuoppa",
+      "utterance": "which member had the farther distance recorded, jari kuoppa, or arsi harju?",
+      "id": "nt-11499"
+    },
+    {
+      "targetValue": "Robert Häggblom",
+      "utterance": "who is the only person since 2000 to join the 20 metre club at an event outside finland?",
+      "id": "nt-12717"
+    },
+    {
+      "targetValue": "Mika Vasara",
+      "utterance": "who was the last member to join the 20 metre club?",
+      "id": "nt-13427"
+    },
+    {
+      "targetValue": "Conny Karlsson",
+      "utterance": "which club member had the top distance?",
+      "id": "nt-13797"
+    },
+    {
+      "targetValue": "Matti Yrjölä",
+      "utterance": "who joined the 20 metre club 1 day before bo grahn?",
+      "id": "nt-13835"
+    }
+  ],
+  "metadata": {
+    "title": "20 metre club",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6628267&oldid=574853425",
+    "tableIndex": 0,
+    "hashcode": "ba73be1eeb2f9cab7fc04a6e03e814b4fb167cf9",
+    "id": 6628267,
+    "revision": 574853425
+  }
+}

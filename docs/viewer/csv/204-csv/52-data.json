@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many times was the venue vasil levski national stadium used?",
+      "id": "nt-914"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many were in 2003?",
+      "id": "nt-2303"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many were friendly competitions?",
+      "id": "nt-3868"
+    },
+    {
+      "targetValue": "2006 Kirin Cup",
+      "utterance": "what competition was on 9 may 2006?",
+      "id": "nt-4672"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what are the number of times the competition was listed as friendly?",
+      "id": "nt-5123"
+    },
+    {
+      "targetValue": "Georgia",
+      "utterance": "what opponent is below belgium?",
+      "id": "nt-6981"
+    },
+    {
+      "targetValue": "Belgium",
+      "utterance": "did belgium or malta lose by the most points?",
+      "id": "nt-7029"
+    },
+    {
+      "targetValue": "Friendly",
+      "utterance": "what is their most frequent competition?",
+      "id": "nt-7415"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what are the total number of competitions held in march?",
+      "id": "nt-11583"
+    },
+    {
+      "targetValue": "Nagai Stadium, Osaka",
+      "utterance": "what is the name of the last venue on this chart?",
+      "id": "nt-13014"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many wins total between belgium and malta?",
+      "id": "nt-13738"
+    },
+    {
+      "targetValue": "Japan",
+      "utterance": "who was the opponent after georgia?",
+      "id": "nt-13978"
+    }
+  ],
+  "metadata": {
+    "title": "Svetoslav Todorov",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1014073&oldid=595569341",
+    "tableIndex": 0,
+    "hashcode": "8b386171d57414a5c84e26a651867e0c9744426c",
+    "id": 1014073,
+    "revision": 595569341
+  }
+}

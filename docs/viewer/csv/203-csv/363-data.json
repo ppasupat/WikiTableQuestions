@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Lijiang",
+      "utterance": "what is the last city listed?",
+      "id": "nt-1308"
+    },
+    {
+      "targetValue": "19,295,000",
+      "utterance": "how many are in beijing's urban area?",
+      "id": "nt-1768"
+    },
+    {
+      "targetValue": "Shenzhen",
+      "utterance": "nama a city that does not have comments listed.",
+      "id": "nt-1820"
+    },
+    {
+      "targetValue": "4,867,388",
+      "utterance": "how many people live in the built up area of zhengzhou?",
+      "id": "nt-2196"
+    },
+    {
+      "targetValue": "Shanghai",
+      "utterance": "of beijing and shanghai, which city has the largest number of people?",
+      "id": "nt-9273"
+    },
+    {
+      "targetValue": "Guangzhou",
+      "utterance": "which city has more in their built-up area than any other?",
+      "id": "nt-9991"
+    }
+  ],
+  "metadata": {
+    "title": "List of cities in China by population",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5361005&oldid=601372478",
+    "tableIndex": 0,
+    "hashcode": "9088bd00fe795292c57e0575fb0cf35498a16311",
+    "id": 5361005,
+    "revision": 601372478
+  }
+}

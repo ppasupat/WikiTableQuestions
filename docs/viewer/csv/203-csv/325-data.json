@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "\"Changing Altitudes\", or \"Changing Heights\"",
+      "utterance": "which david d'or album was the bigger seller - changing heights or in the soul?",
+      "id": "nt-583"
+    },
+    {
+      "targetValue": "Le Haamin",
+      "utterance": "what album was released before kmo haruach?",
+      "id": "nt-2797"
+    },
+    {
+      "targetValue": "Baneshama",
+      "utterance": "what is the only album to come out in the year 2001?",
+      "id": "nt-2865"
+    },
+    {
+      "targetValue": "David D'Or",
+      "utterance": "which is david d'or's oldest album?",
+      "id": "nt-3014"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what were the total number of platinum albums released on the sisu label?",
+      "id": "nt-4225"
+    },
+    {
+      "targetValue": "David D'Or",
+      "utterance": "what was david d'or's first album?",
+      "id": "nt-4418"
+    },
+    {
+      "targetValue": "Begovah Mishtaneh",
+      "utterance": "what was the name of the title previous to david & shlomo?",
+      "id": "nt-9069"
+    },
+    {
+      "targetValue": "Platinum",
+      "utterance": "what was the certification of the last title on this chart?",
+      "id": "nt-9684"
+    },
+    {
+      "targetValue": "Kmo HaRuach",
+      "utterance": "what album came out in the year previous to the album ofa'a haia?",
+      "id": "nt-10173"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many albums did david d'or release with the hed arzi label?",
+      "id": "nt-10653"
+    }
+  ],
+  "metadata": {
+    "title": "David D'Or",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4634812&oldid=601368686",
+    "tableIndex": 0,
+    "hashcode": "975a7eebb3769f990bc20d420358540ce990f3ef",
+    "id": 4634812,
+    "revision": 601368686
+  }
+}

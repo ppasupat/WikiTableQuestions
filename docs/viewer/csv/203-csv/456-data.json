@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "20",
+      "utterance": "how many players made an appearance that year?",
+      "id": "nt-624"
+    },
+    {
+      "targetValue": "Takaji Mori",
+      "utterance": "who had more points takaji mori or junji kawano?",
+      "id": "nt-4371"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "did mitsuo kamata have more than 40 total points?",
+      "id": "nt-5187"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many more total appearances did shigeo yaegashi have than mitsuo kamata?",
+      "id": "nt-6125"
+    },
+    {
+      "targetValue": "40(2)",
+      "utterance": "how many total did mitsuo kamata have?",
+      "id": "nt-11074"
+    },
+    {
+      "targetValue": "38",
+      "utterance": "total appearances by masakatsu miyamoto?",
+      "id": "nt-12249"
+    }
+  ],
+  "metadata": {
+    "title": "1968 in Japanese football",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17313668&oldid=486177205",
+    "tableIndex": 0,
+    "hashcode": "d6d8ab002fda2888f4196e36e7de673bfbdabd83",
+    "id": 17313668,
+    "revision": 486177205
+  }
+}

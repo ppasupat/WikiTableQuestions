@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "Tamar",
+      "utterance": "what was the first character she played in her first movie?",
+      "id": "nt-9862"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many roles did gina bellman play where her character was named christine?",
+      "id": "nt-10494"
+    }
+  ],
+  "metadata": {
+    "title": "Gina Bellman",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1516360&oldid=600314102",
+    "tableIndex": 0,
+    "hashcode": "724898bde6e486b37f60d7b29365ee2e191d25f5",
+    "id": 1516360,
+    "revision": 600314102
+  }
+}

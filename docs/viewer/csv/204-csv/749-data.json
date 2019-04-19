@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of u.s. courthouse and post offices now used as free library according to the dates of use in the table?",
+      "id": "nt-388"
+    },
+    {
+      "targetValue": "Newport",
+      "utterance": "which city's courthouse has been in use longer, brattleboro or newport?",
+      "id": "nt-627"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many courthouses are in vermont total?",
+      "id": "nt-729"
+    },
+    {
+      "targetValue": "Windsor",
+      "utterance": "where was the first court house built?",
+      "id": "nt-3553"
+    },
+    {
+      "targetValue": "Windsor",
+      "utterance": "where is the location (city) of the last u.s. post office and court house on the chart?",
+      "id": "nt-7152"
+    },
+    {
+      "targetValue": "Brattleboro",
+      "utterance": "where is the location (city) of the first u.s. post office and court house on the chart?",
+      "id": "nt-7808"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many total locations are still in use as a post office?",
+      "id": "nt-9284"
+    },
+    {
+      "targetValue": "Burlington",
+      "utterance": "what is the location of the only courthouse to be destroyed by fire?",
+      "id": "nt-9306"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many of the courthouses in vermont are federal buildings?",
+      "id": "nt-9695"
+    },
+    {
+      "targetValue": "97 years",
+      "utterance": "how long has the city of brattleboro's courthouse been in use?",
+      "id": "nt-9821"
+    },
+    {
+      "targetValue": "1859",
+      "utterance": "when was the building at 10 court street built?",
+      "id": "nt-13564"
+    }
+  ],
+  "metadata": {
+    "title": "List of United States federal courthouses in Vermont",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=27904753&oldid=518994037",
+    "tableIndex": 0,
+    "hashcode": "3b014af5ceb3c9bc239059f5e1de371bac4be6af",
+    "id": 27904753,
+    "revision": 518994037
+  }
+}

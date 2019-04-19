@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "9",
+      "utterance": "how many times has gran cochisse been a winner?",
+      "id": "nt-2845"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many times has the wager been hair?",
+      "id": "nt-7532"
+    },
+    {
+      "targetValue": "September 21, 1979",
+      "utterance": "when was gran chochisse first match that had a full date on record?",
+      "id": "nt-8732"
+    },
+    {
+      "targetValue": "Unknown",
+      "utterance": "when did bruno victoria lose his first game?",
+      "id": "nt-9678"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what was the number of losses gran cochisse had against el dandy?",
+      "id": "nt-11232"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many games more than chamaco valaguez did sangre chicana win?",
+      "id": "nt-11541"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many winners were there before bruno victoria lost?",
+      "id": "nt-13420"
+    }
+  ],
+  "metadata": {
+    "title": "Gran Cochisse",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=26552042&oldid=589343855",
+    "tableIndex": 0,
+    "hashcode": "cd30169590d1c95dafcd00d06b3c4726af96fded",
+    "id": 26552042,
+    "revision": 589343855
+  }
+}

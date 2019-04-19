@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "1986",
+      "utterance": "in what year did the track, \"wide open road\" come out?",
+      "id": "nt-370"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many single-only releases did the triffids release?",
+      "id": "nt-996"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many singles had a peak chart position of less than 60?",
+      "id": "nt-3498"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many songs were a \"single-only release\"?",
+      "id": "nt-4294"
+    },
+    {
+      "targetValue": "\"Bury Me Deep in Love\"",
+      "utterance": "what was the last single to be on the nz charts?",
+      "id": "nt-4517"
+    },
+    {
+      "targetValue": "\"Wide Open Road\"",
+      "utterance": "which track had the highest peak position?",
+      "id": "nt-5351"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many tracks were single-only releases?",
+      "id": "nt-6756"
+    },
+    {
+      "targetValue": "\"Save What You Can\"",
+      "utterance": "what was the last single released by the triffids?",
+      "id": "nt-8062"
+    },
+    {
+      "targetValue": "\"Bury Me Deep in Love\"",
+      "utterance": "what title received the most favorable position on the aus chart?",
+      "id": "nt-10898"
+    },
+    {
+      "targetValue": "\"Bury Me Deep in Love\"",
+      "utterance": "what's the next single after \"wide open road\"?",
+      "id": "nt-12932"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many promotional releases were there?",
+      "id": "nt-13501"
+    }
+  ],
+  "metadata": {
+    "title": "The Triffids discography",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14832013&oldid=575523597",
+    "tableIndex": 5,
+    "hashcode": "aef3124da774f2c7d6929d4174518e037dadff53",
+    "id": 14832013,
+    "revision": 575523597
+  }
+}

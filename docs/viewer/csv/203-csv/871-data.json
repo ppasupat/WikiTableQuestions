@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many people that are not diego dominguez have scored at least 24 points in a match for italy?",
+      "id": "nt-1103"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times is fiji listed as the opposition?",
+      "id": "nt-1337"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many players scored at least 25 or more points?",
+      "id": "nt-1953"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "what is the fewest number of conversions scored by an italian player achieving at least 24 points?",
+      "id": "nt-4634"
+    },
+    {
+      "targetValue": "Stefano Bettarello",
+      "utterance": "what is the name of the first player on this list?",
+      "id": "nt-6475"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many drops does diego dominguez have?",
+      "id": "nt-6765"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is total number of places held by diego dominguez?",
+      "id": "nt-7846"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many times was 24 points or more achieved by an italian player before 2000?",
+      "id": "nt-9765"
+    },
+    {
+      "targetValue": "Mirco Bergamasco",
+      "utterance": "who is the only player who is not a fly-half?",
+      "id": "nt-12413"
+    }
+  ],
+  "metadata": {
+    "title": "Italy national rugby union team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=957326&oldid=602116786",
+    "tableIndex": 14,
+    "hashcode": "19205a57fe35e3105d88df5d4b6f6643e7516d77",
+    "id": 957326,
+    "revision": 602116786
+  }
+}

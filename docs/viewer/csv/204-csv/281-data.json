@@ -1,0 +1,56 @@
+{
+  "examples": [
+    {
+      "targetValue": "M45",
+      "utterance": "what is the name of the oldest map/catalog?",
+      "id": "nt-880"
+    },
+    {
+      "targetValue": [
+        "Celestial Globe (渾象) (圓儀)",
+        "First remark of a constellation in observation in Korean history",
+        "First Ecliptic Armillary Sphere (黄道仪Huang Dao Yi)"
+      ],
+      "utterance": "name three items created not long after the equatorial armillary sphere.",
+      "id": "nt-3728"
+    },
+    {
+      "targetValue": "Celestial Globe",
+      "utterance": "which star map was created earlier, celestial globe or the han grave mural star chart?",
+      "id": "nt-7240"
+    },
+    {
+      "targetValue": "Su Song 蘇頌",
+      "utterance": "did xu guang ci or su song create the five star charts in 1094 ad?",
+      "id": "nt-8255"
+    },
+    {
+      "targetValue": "M45 (伏羲星图Fuxixingtu)",
+      "utterance": "which was the first chinese star map known to have been created?",
+      "id": "nt-8745"
+    },
+    {
+      "targetValue": "25 years",
+      "utterance": "what is the difference between the five star prediction device's date of creation and the han comet diagrams' date of creation?",
+      "id": "nt-9101"
+    },
+    {
+      "targetValue": "c. 4000 B.C.",
+      "utterance": "when was the first map or catalog created?",
+      "id": "nt-13340"
+    },
+    {
+      "targetValue": "Sky in Google Earth KML",
+      "utterance": "which map or catalog was created last?",
+      "id": "nt-13556"
+    }
+  ],
+  "metadata": {
+    "title": "Chinese star maps",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4961906&oldid=591251171",
+    "tableIndex": 0,
+    "hashcode": "158ba7459582c939b21fcb9b0bc140c6255688d0",
+    "id": 4961906,
+    "revision": 591251171
+  }
+}

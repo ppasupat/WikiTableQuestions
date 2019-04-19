@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "51,130",
+      "utterance": "what is the difference in child population between koraput and puri?",
+      "id": "nt-457"
+    },
+    {
+      "targetValue": "Cuttack",
+      "utterance": "which district has a higher population, angul or cuttack?",
+      "id": "nt-1845"
+    },
+    {
+      "targetValue": "Jagatsinghpur",
+      "utterance": "which district had least population growth from 2001-2011?",
+      "id": "nt-3430"
+    },
+    {
+      "targetValue": "Boudh",
+      "utterance": "tell me a district that did not have a population over 600,000.",
+      "id": "nt-4473"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the number of districts with percentage decadal growth above 15%",
+      "id": "nt-5490"
+    },
+    {
+      "targetValue": "Nabarangapur",
+      "utterance": "what city is last in literacy?",
+      "id": "nt-6548"
+    },
+    {
+      "targetValue": "1,279,555",
+      "utterance": "how many females live in cuttack?",
+      "id": "nt-10200"
+    },
+    {
+      "targetValue": "Khordha",
+      "utterance": "which district had the most people per km?",
+      "id": "nt-10508"
+    }
+  ],
+  "metadata": {
+    "title": "Odisha",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=250724&oldid=602413741",
+    "tableIndex": 1,
+    "hashcode": "65f5e2f6bb200678b4afbe667d84ca3b29cb912f",
+    "id": 250724,
+    "revision": 602413741
+  }
+}

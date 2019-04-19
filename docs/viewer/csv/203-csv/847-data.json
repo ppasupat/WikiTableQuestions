@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "1999-2000",
+      "utterance": "what was the first year that net profit was above £120 million?",
+      "id": "nt-2946"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many turnovers are below 5.0 billion?",
+      "id": "nt-6290"
+    },
+    {
+      "targetValue": "2008-2009",
+      "utterance": "what was the best year for profit before 2010?",
+      "id": "nt-6943"
+    },
+    {
+      "targetValue": "2001-2002",
+      "utterance": "what year had the least net profit?",
+      "id": "nt-12216"
+    }
+  ],
+  "metadata": {
+    "title": "John Lewis Partnership",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=386085&oldid=601057520",
+    "tableIndex": 0,
+    "hashcode": "a63c99d61550983cd08ab5d730a5857c0bf9d467",
+    "id": 386085,
+    "revision": 601057520
+  }
+}

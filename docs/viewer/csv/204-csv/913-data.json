@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of games played against vietnam?",
+      "id": "nt-248"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "in how many games did sri lanka score at least 2 goals?",
+      "id": "nt-647"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many times was laos the opponent?",
+      "id": "nt-3651"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what was the total number of goals score in the sri lanka - malaysia game of march 24, 2007?",
+      "id": "nt-9236"
+    },
+    {
+      "targetValue": "Guam",
+      "utterance": "which team did this player face before pakistan on april 4, 2008?",
+      "id": "nt-10078"
+    },
+    {
+      "targetValue": "April",
+      "utterance": "were more competitions played in april or december?",
+      "id": "nt-10170"
+    },
+    {
+      "targetValue": "Chungshan Stadium, Taipei, Taiwan",
+      "utterance": "which venue has the largest result",
+      "id": "nt-11544"
+    },
+    {
+      "targetValue": "Rasmee Dhandu Stadium, Malé, Maldives",
+      "utterance": "what is the top listed venue in the table?",
+      "id": "nt-12107"
+    },
+    {
+      "targetValue": "Beirut Municipal Stadium, Beirut, Lebanon",
+      "utterance": "what was the next venue after colombo, sri lanka on march 28?",
+      "id": "nt-12965"
+    }
+  ],
+  "metadata": {
+    "title": "Kasun Jayasuriya",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19258837&oldid=564305933",
+    "tableIndex": 0,
+    "hashcode": "4e7e3cf4a466762657096c480dc35c4d32c57990",
+    "id": 19258837,
+    "revision": 564305933
+  }
+}

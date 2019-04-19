@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Hidalgo",
+      "utterance": "name one county that only received 1,935 votes total.",
+      "id": "nt-114"
+    },
+    {
+      "targetValue": "Romney",
+      "utterance": "which candidate finished on top in eddy county?",
+      "id": "nt-485"
+    },
+    {
+      "targetValue": "Bernalillo",
+      "utterance": "what county had the most votes for romney?",
+      "id": "nt-894"
+    },
+    {
+      "targetValue": "Guadalupe",
+      "utterance": "what is the next county listed after grant county?",
+      "id": "nt-1537"
+    },
+    {
+      "targetValue": "Bernalillo",
+      "utterance": "which country had the greatest number of total voters?",
+      "id": "nt-6194"
+    },
+    {
+      "targetValue": "260",
+      "utterance": "what is the number of votes received by obama in harding county.",
+      "id": "nt-6342"
+    },
+    {
+      "targetValue": "19,345",
+      "utterance": "what was the difference in the number of votes between otero county and harding county?",
+      "id": "nt-9555"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many counties are not in blue highlighted boxes?",
+      "id": "nt-11164"
+    }
+  ],
+  "metadata": {
+    "title": "United States presidential election in New Mexico, 2012",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=34348642&oldid=594283162",
+    "tableIndex": 0,
+    "hashcode": "f3460070b7ae1e4001df1936d596729aeba450d6",
+    "id": 34348642,
+    "revision": 594283162
+  }
+}

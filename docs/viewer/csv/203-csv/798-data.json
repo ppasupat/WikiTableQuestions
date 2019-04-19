@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Independent",
+      "utterance": "which party got the least number of votes?",
+      "id": "nt-1236"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "did the australian labor part get more votes than the independent party?",
+      "id": "nt-2003"
+    },
+    {
+      "targetValue": "+3",
+      "utterance": "how many seats were gained by the australian labor party?",
+      "id": "nt-2699"
+    },
+    {
+      "targetValue": "Independent",
+      "utterance": "what party had more than 30,000 votes but no change?",
+      "id": "nt-3046"
+    },
+    {
+      "targetValue": "Australian Labor Party",
+      "utterance": "which party came in first with the number of votes?",
+      "id": "nt-3692"
+    },
+    {
+      "targetValue": "36,271",
+      "utterance": "how many votes did the independent party have?",
+      "id": "nt-5482"
+    },
+    {
+      "targetValue": "Other",
+      "utterance": "what party had the least number of seats?",
+      "id": "nt-6182"
+    },
+    {
+      "targetValue": "Australian Labor Party",
+      "utterance": "which part got the greatest number of votes?",
+      "id": "nt-8159"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many seats did the independent party get?",
+      "id": "nt-11694"
+    },
+    {
+      "targetValue": "Liberal and Country League",
+      "utterance": "who had the most seats after the election?",
+      "id": "nt-12992"
+    },
+    {
+      "targetValue": "Independent",
+      "utterance": "which party came in after the liberal and country league with the highest number of votes?",
+      "id": "nt-13635"
+    }
+  ],
+  "metadata": {
+    "title": "South Australian state election, 1953",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20727920&oldid=494568936",
+    "tableIndex": 0,
+    "hashcode": "e61f577a83246160e98b463527571dc924a25f66",
+    "id": 20727920,
+    "revision": 494568936
+  }
+}

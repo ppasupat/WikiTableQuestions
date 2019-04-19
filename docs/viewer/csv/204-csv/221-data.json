@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "before 2011, how many internationals has the sahrawi national football team won?",
+      "id": "nt-1235"
+    },
+    {
+      "targetValue": "below",
+      "utterance": "is the total number of venues above or below 6?",
+      "id": "nt-1971"
+    },
+    {
+      "targetValue": [
+        "Occitania",
+        "Iraqi Kurdistan"
+      ],
+      "utterance": "which two teams had a score of at least 6",
+      "id": "nt-3890"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did their opponent score 6 goals?",
+      "id": "nt-5821"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "tell me the number of games in 2012.",
+      "id": "nt-8592"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many internationals has the sahrawi national football team won?",
+      "id": "nt-9450"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "is the number of opponents more or less than 10?",
+      "id": "nt-11000"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "at most, how many internationals has the sahrawi national football team won?",
+      "id": "nt-11697"
+    }
+  ],
+  "metadata": {
+    "title": "Sahrawi national football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=35252989&oldid=599210039",
+    "tableIndex": 0,
+    "hashcode": "c259094bc6a087942d54fb38162a31a10046198a",
+    "id": 35252989,
+    "revision": 599210039
+  }
+}

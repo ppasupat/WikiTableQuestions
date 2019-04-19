@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of fdrcs that the ppopp has been a part of?",
+      "id": "nt-186"
+    },
+    {
+      "targetValue": "1996",
+      "utterance": "in what year previous to 2003 was the \"symposium on computational gemoetry\" held?",
+      "id": "nt-1191"
+    },
+    {
+      "targetValue": "2003",
+      "utterance": "what was the last year for ppopp?",
+      "id": "nt-1525"
+    },
+    {
+      "targetValue": "ACM Conference on Electronic Commerce",
+      "utterance": "1993, 1996, and 1999 were the only years where which conference was not a part of fcrc?",
+      "id": "nt-2019"
+    },
+    {
+      "targetValue": "ACM Symposium on Principles of Distributed Computing",
+      "utterance": "which conference had their last year as 2011?",
+      "id": "nt-2267"
+    },
+    {
+      "targetValue": "STOC",
+      "utterance": "which has lasted longer stoc or lctes?",
+      "id": "nt-9373"
+    },
+    {
+      "targetValue": "2003",
+      "utterance": "in what year was the \"conference on computational complexity\" not held?",
+      "id": "nt-9835"
+    },
+    {
+      "targetValue": "2011",
+      "utterance": "what is the next previous year prior to 2015 on the chart?",
+      "id": "nt-10810"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many conferences attended the 2011 fcrc?",
+      "id": "nt-11612"
+    },
+    {
+      "targetValue": "2003",
+      "utterance": "what was the last year that the \"symposium on principles and practice of parallel programming\" held?",
+      "id": "nt-12188"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many consecutive fcrcs has the isca attended?",
+      "id": "nt-12737"
+    },
+    {
+      "targetValue": "8 years",
+      "utterance": "how long was lctes active?",
+      "id": "nt-13682"
+    }
+  ],
+  "metadata": {
+    "title": "Federated Computing Research Conference",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21541522&oldid=594306503",
+    "tableIndex": 0,
+    "hashcode": "ce274942120b25fd0f1860d41c4bf615a09cd749",
+    "id": 21541522,
+    "revision": 594306503
+  }
+}

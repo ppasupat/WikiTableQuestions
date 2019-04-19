@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "1995",
+      "utterance": "what year did firehouse release their last single?",
+      "id": "nt-1565"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the number of singles from the hold your fire album?",
+      "id": "nt-2312"
+    },
+    {
+      "targetValue": "\"Love of a Lifetime\"",
+      "utterance": "name firehouse's first single to get reach the top 10 of the us top 100?",
+      "id": "nt-2384"
+    },
+    {
+      "targetValue": "\"Love of a Lifetime\"",
+      "utterance": "what was the top uk single on the firehouse album?",
+      "id": "nt-2746"
+    },
+    {
+      "targetValue": "\"Love of a Lifetime\"",
+      "utterance": "what was the first song to be in the top ten of the us hot 100 list?",
+      "id": "nt-2877"
+    },
+    {
+      "targetValue": "\"Here For You\"",
+      "utterance": "all of firehouse's singles made it onto the uk singles list, except for?",
+      "id": "nt-5716"
+    },
+    {
+      "targetValue": "\"Here For You\"",
+      "utterance": "what song was a hit in 1995 after \"i live my life for you\"?",
+      "id": "nt-6156"
+    },
+    {
+      "targetValue": "\"Reach for the Sky\"",
+      "utterance": "what single did the band released after \"all she wrote\"?",
+      "id": "nt-8357"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what was the total number of singles that the band released?",
+      "id": "nt-9459"
+    }
+  ],
+  "metadata": {
+    "title": "FireHouse (band)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1392370&oldid=600695415",
+    "tableIndex": 0,
+    "hashcode": "d25415ed50c9709c1e0c44c8bdb51ac956882de1",
+    "id": 1392370,
+    "revision": 600695415
+  }
+}

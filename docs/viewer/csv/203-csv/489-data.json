@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Kemco",
+      "utterance": "was \"the real ghostbusters\" made by activision or kemco?",
+      "id": "nt-1485"
+    },
+    {
+      "targetValue": "The Real Ghostbusters",
+      "utterance": "what was the game made in the year previous to 1994?",
+      "id": "nt-4905"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many games were produced from 1988 to 1993?",
+      "id": "nt-5231"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "did nes systems have games for more than 5 years?",
+      "id": "nt-5662"
+    },
+    {
+      "targetValue": "Sega Master System",
+      "utterance": "when ghostbusters was released for the nes in 1988 what systems had it previously been released for?",
+      "id": "nt-7379"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "what is the total number of ghostbusters videogames created?",
+      "id": "nt-10998"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many ghostbusters games were released in 1990?",
+      "id": "nt-11518"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total amount of games activision developed?",
+      "id": "nt-13160"
+    }
+  ],
+  "metadata": {
+    "title": "Ghostbusters (franchise)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12744042&oldid=601791962",
+    "tableIndex": 0,
+    "hashcode": "ec7e094840924ef70e2ece3d3d09985b1eb63d94",
+    "id": 12744042,
+    "revision": 601791962
+  }
+}

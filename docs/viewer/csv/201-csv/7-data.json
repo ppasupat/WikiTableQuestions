@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "1980",
+      "utterance": "which year has the most per capita income (as % of usa)?",
+      "id": "nt-976"
+    },
+    {
+      "targetValue": "2000",
+      "utterance": "what year did the kuwaiti dinar have the highest us dollar exchange?",
+      "id": "nt-1654"
+    },
+    {
+      "targetValue": "2000",
+      "utterance": "which is the year that has a gross domestic product more than 8,114 but less than 21,783 in gross domestic product?",
+      "id": "nt-4394"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times is the us dollar exchange 0.29 kuwaiti dinars?",
+      "id": "nt-4573"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many years have an inflation index above 90?",
+      "id": "nt-5234"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many years was the gross domestic product above 6,000?",
+      "id": "nt-13358"
+    }
+  ],
+  "metadata": {
+    "title": "Economy of Kuwait",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16689&oldid=601087419",
+    "tableIndex": 0,
+    "hashcode": "62c70160737fdf57fac6f0736893c128554a910b",
+    "id": 16689,
+    "revision": 601087419
+  }
+}

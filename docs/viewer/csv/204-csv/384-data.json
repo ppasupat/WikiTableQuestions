@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "which show had the highest rating?",
+      "id": "nt-2760"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how long did the program air for in days?",
+      "id": "nt-3775"
+    },
+    {
+      "targetValue": "Earlier",
+      "utterance": "did the season finish at an earlier or later timeslot?",
+      "id": "nt-4477"
+    },
+    {
+      "targetValue": "March 2, 2008",
+      "utterance": "what episode had the highest rating?",
+      "id": "nt-6040"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many shows had at least 10 million viewers?",
+      "id": "nt-7545"
+    },
+    {
+      "targetValue": "April 13, 2008",
+      "utterance": "which air date had the least viewers?",
+      "id": "nt-10309"
+    },
+    {
+      "targetValue": "March 2, 2008",
+      "utterance": "the air date with the most viewers",
+      "id": "nt-13224"
+    },
+    {
+      "targetValue": "Sunday 9:00 P.M.",
+      "utterance": "what time slot did the show have for its first 6 episodes?",
+      "id": "nt-13471"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many shows had more than 10 million viewers?",
+      "id": "nt-13788"
+    }
+  ],
+  "metadata": {
+    "title": "Oprah's Big Give",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11754447&oldid=577284651",
+    "tableIndex": 1,
+    "hashcode": "7588e502306177825b4c65ce2e277488c6e7ea0f",
+    "id": 11754447,
+    "revision": 577284651
+  }
+}

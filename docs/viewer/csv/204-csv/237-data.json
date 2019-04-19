@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "11,386",
+      "utterance": "what was the number of season tickets in 2007?",
+      "id": "nt-7185"
+    },
+    {
+      "targetValue": "10,031",
+      "utterance": "what was the average attendance in 2008?",
+      "id": "nt-7595"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many seasons had average attendance of at least 15,000 at the stadio ennio tardini?",
+      "id": "nt-8066"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many seasons at the stadio ennio tardini had 11,000 or more season tickets?",
+      "id": "nt-8873"
+    },
+    {
+      "targetValue": "17,956",
+      "utterance": "what was the average in 2001",
+      "id": "nt-11926"
+    }
+  ],
+  "metadata": {
+    "title": "Stadio Ennio Tardini",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3264594&oldid=599362527",
+    "tableIndex": 5,
+    "hashcode": "15ce6598f9648e6f8a16de339e0950edcb84ab6c",
+    "id": 3264594,
+    "revision": 599362527
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Oregon Route 18 Business",
+      "utterance": "what was the first route formed in the 1960's?",
+      "id": "nt-1114"
+    },
+    {
+      "targetValue": "U.S. Route 630",
+      "utterance": "which route existed longer, us route 630 or us route 30n?",
+      "id": "nt-3909"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many routes were formed in 1926?",
+      "id": "nt-7139"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many routes were formed in the 1920's?",
+      "id": "nt-8754"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "is oregon route 69 newer than oregon route 90?",
+      "id": "nt-8788"
+    },
+    {
+      "targetValue": "Oregon Route 402",
+      "utterance": "was oregon route 402 or oregon route 220 constructed in 2002?",
+      "id": "nt-12515"
+    },
+    {
+      "targetValue": "U.S. Route 630",
+      "utterance": "which route was eliminated first?",
+      "id": "nt-12814"
+    }
+  ],
+  "metadata": {
+    "title": "List of highway route numbers in Oregon",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13501264&oldid=593431777",
+    "tableIndex": 4,
+    "hashcode": "2b7b4a8319d624b8de3e622448cb4aa1abdf5926",
+    "id": 13501264,
+    "revision": 593431777
+  }
+}

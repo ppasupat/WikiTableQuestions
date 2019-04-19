@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "Conservative Party",
+      "utterance": "which political party party has had the most mayors of austevoll?",
+      "id": "nt-605"
+    },
+    {
+      "targetValue": "Inge Bjarne Storebø",
+      "utterance": "which mayor is in the conservative party and was a bank manager?",
+      "id": "nt-718"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many conservative party mayors were elected after peder kalve?",
+      "id": "nt-3124"
+    },
+    {
+      "targetValue": "Conservative Party",
+      "utterance": "which political party has had the most elected mayors?",
+      "id": "nt-4439"
+    },
+    {
+      "targetValue": [
+        "Peder Olai Kleppe",
+        "Salomon O. Fagerbakke"
+      ],
+      "utterance": "which 2 mayors were fisherman?",
+      "id": "nt-4833"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many mayors were either fisherman or farmers?",
+      "id": "nt-5989"
+    },
+    {
+      "targetValue": "Progress Party",
+      "utterance": "does the 15# mayor belong the conservative or progress party?",
+      "id": "nt-7940"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many mayors were in office for a total of 9 years?",
+      "id": "nt-8371"
+    },
+    {
+      "targetValue": "1959",
+      "utterance": "after what year were austevoll mayors affiliated with political parties?",
+      "id": "nt-9433"
+    },
+    {
+      "targetValue": "Ole Olsen Strømme",
+      "utterance": "who was the first mayor of austevoll?",
+      "id": "nt-13593"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "since 1886 how many austevoll mayors have had maritime related occupations?",
+      "id": "nt-13596"
+    }
+  ],
+  "metadata": {
+    "title": "Austevoll",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=178116&oldid=599814803",
+    "tableIndex": 2,
+    "hashcode": "23fa53cf50e76f863a9a61c4f13c85b4f2f5c6d0",
+    "id": 178116,
+    "revision": 599814803
+  }
+}

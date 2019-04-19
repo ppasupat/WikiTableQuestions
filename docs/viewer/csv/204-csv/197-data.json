@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "Jones Stadium • Lubbock, TX",
+      "utterance": "what stadium was play at three consecutive games at?",
+      "id": "nt-508"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "in how many football games in 1993 did texas tech score at least 30 points?",
+      "id": "nt-744"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many wins did the red raiders have?",
+      "id": "nt-1290"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many consecutive losses did texas tech experience from september 11th to october 9th?",
+      "id": "nt-2300"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many home games did texas tech win in 1993?",
+      "id": "nt-2723"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many games did the 1993 texas tech football team play in either september or october?",
+      "id": "nt-3961"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many wins did texas tech have in the regular season of 1993?",
+      "id": "nt-4489"
+    },
+    {
+      "targetValue": "58",
+      "utterance": "what was the highest number of points scored in a single game the texas tech football team in 1993?",
+      "id": "nt-4668"
+    },
+    {
+      "targetValue": "September 4",
+      "utterance": "what was the date of the first game played?",
+      "id": "nt-4964"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "in how many games did the red raiders score at least 20 points?",
+      "id": "nt-7055"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "were there any games that were played before 6 pm?",
+      "id": "nt-7214"
+    },
+    {
+      "targetValue": "43,848",
+      "utterance": "how many people attended the last game?",
+      "id": "nt-12012"
+    },
+    {
+      "targetValue": "October 2",
+      "utterance": "on which date did the red raiders score the least points?",
+      "id": "nt-12379"
+    },
+    {
+      "targetValue": "Oklahoma",
+      "utterance": "who was the last opponent the texas tech team faced in 1993?",
+      "id": "nt-13479"
+    }
+  ],
+  "metadata": {
+    "title": "1993 Texas Tech Red Raiders football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21123449&oldid=540057547",
+    "tableIndex": 0,
+    "hashcode": "e12e72964bf8b4fa8c185e1bfa76216d5165a4e3",
+    "id": 21123449,
+    "revision": 540057547
+  }
+}

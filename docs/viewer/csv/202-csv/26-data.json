@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "what is the most number of goals scored by elvir rahimic in a single season?",
+      "id": "nt-1348"
+    },
+    {
+      "targetValue": "CSKA Moscow",
+      "utterance": "did elvir rhimic score more goals during his time in the anxhi makhachkala club or the cska moscow club?",
+      "id": "nt-10727"
+    }
+  ],
+  "metadata": {
+    "title": "Elvir Rahimić",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2440163&oldid=599148019",
+    "tableIndex": 0,
+    "hashcode": "1846ce950ecb1f7a376e74a4eee5c8812e1f877a",
+    "id": 2440163,
+    "revision": 599148019
+  }
+}

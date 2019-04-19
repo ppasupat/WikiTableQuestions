@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "Robin Hood: Prince of Thieves",
+      "utterance": "which morgan creek film grossed the most money prior to 1994?",
+      "id": "nt-1272"
+    },
+    {
+      "targetValue": "Robin Hood: Prince of Thieves",
+      "utterance": "what is the top grossing film?",
+      "id": "nt-1369"
+    },
+    {
+      "targetValue": "Less",
+      "utterance": "did true romance make more or less money than diabolique?",
+      "id": "nt-3293"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "was the budget for young guns more or less than freejack's budget?",
+      "id": "nt-4500"
+    },
+    {
+      "targetValue": "Wild America",
+      "utterance": "what movie came out after bad moon?",
+      "id": "nt-4932"
+    },
+    {
+      "targetValue": "The In Crowd",
+      "utterance": "what movie was made immediately before the pledge?",
+      "id": "nt-5199"
+    },
+    {
+      "targetValue": "Ace Ventura Jr: Pet Detective",
+      "utterance": "what was the last movie morgan creek made for a budget under thirty million?",
+      "id": "nt-6665"
+    },
+    {
+      "targetValue": "Robin Hood: Prince of Thieves",
+      "utterance": "what was the only movie with a 48 million dollar budget?",
+      "id": "nt-7002"
+    },
+    {
+      "targetValue": "Robin Hood: Prince of Thieves",
+      "utterance": "which morgan creek film grossed the most worldwide?",
+      "id": "nt-7758"
+    },
+    {
+      "targetValue": "Ace Ventura: When Nature Calls",
+      "utterance": "which film had a higher budget, ace ventura: when nature calls, or major league: back to the minors?",
+      "id": "nt-8248"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many films were there in 1990?",
+      "id": "nt-9426"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of films directed by david s. ward?",
+      "id": "nt-11207"
+    },
+    {
+      "targetValue": "Major League",
+      "utterance": "after young guns, what was the next movie with the exact same budget?",
+      "id": "nt-12650"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many films did morgan creek make in 2006?",
+      "id": "nt-13801"
+    }
+  ],
+  "metadata": {
+    "title": "Morgan Creek Productions",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=673092&oldid=599268355",
+    "tableIndex": 0,
+    "hashcode": "185f2486d9a8ca0dc96fae8532838ee14cf4c3b2",
+    "id": 673092,
+    "revision": 599268355
+  }
+}

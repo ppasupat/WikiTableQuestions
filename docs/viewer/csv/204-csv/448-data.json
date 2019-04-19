@@ -1,0 +1,101 @@
+{
+  "examples": [
+    {
+      "targetValue": "Liverpool",
+      "utterance": "what is the name of the first team on this chart?",
+      "id": "nt-435"
+    },
+    {
+      "targetValue": "Bradford City",
+      "utterance": "what is the name of the last team on this chart?",
+      "id": "nt-1692"
+    },
+    {
+      "targetValue": "Arsenal",
+      "utterance": "what team has won twice but has been runner-up 5 times?",
+      "id": "nt-1999"
+    },
+    {
+      "targetValue": "Liverpool",
+      "utterance": "which team has the most wins?",
+      "id": "nt-2652"
+    },
+    {
+      "targetValue": "Swansea City",
+      "utterance": "which team has won more, swansea city or west ham united?",
+      "id": "nt-3606"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what's the total of wins does the manchester united have?",
+      "id": "nt-4904"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many teams won, at most, 1 time?",
+      "id": "nt-6028"
+    },
+    {
+      "targetValue": "Wolverhampton Wanderers",
+      "utterance": "what team has only won twice and has never been a runners-up?",
+      "id": "nt-7160"
+    },
+    {
+      "targetValue": [
+        "West Ham United",
+        "Everton",
+        "Bolton Wanderers",
+        "Sunderland",
+        "Rotherham United",
+        "Rochdale",
+        "Newcastle United",
+        "Southampton",
+        "Oldham Athletic",
+        "Tranmere Rovers",
+        "Wigan Athletic",
+        "Cardiff City",
+        "Bradford City"
+      ],
+      "utterance": "which teams has the least wins?",
+      "id": "nt-8039"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what are the number of runners-up did arsenal have?",
+      "id": "nt-8841"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what's the number of teams that won the cup four times?",
+      "id": "nt-9430"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many total times has liverpool won?",
+      "id": "nt-10327"
+    },
+    {
+      "targetValue": "Arsenal",
+      "utterance": "which team was the runner up the most times?",
+      "id": "nt-10642"
+    },
+    {
+      "targetValue": "Aston Villa",
+      "utterance": "liverpool had 8 wins. who is next?",
+      "id": "nt-13489"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many teams have been winners at least 5 times?",
+      "id": "nt-14070"
+    }
+  ],
+  "metadata": {
+    "title": "List of Football League Cup finals",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19887643&oldid=597882928",
+    "tableIndex": 2,
+    "hashcode": "a1d0368c4dd86c17bca908c3a12b11ec0abe094a",
+    "id": 19887643,
+    "revision": 597882928
+  }
+}

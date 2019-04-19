@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Robert Kubica",
+      "utterance": "who was the slowest driver to finish the race?",
+      "id": "nt-2259"
+    },
+    {
+      "targetValue": "56",
+      "utterance": "how many laps in total is the race?",
+      "id": "nt-3139"
+    },
+    {
+      "targetValue": "Jarno Trulli",
+      "utterance": "what driver was last on the list?",
+      "id": "nt-5786"
+    },
+    {
+      "targetValue": "Jarno Trulli",
+      "utterance": "which driver is the only driver who retired because of collision damage?",
+      "id": "nt-6258"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many drivers did not finish 56 laps?",
+      "id": "nt-7294"
+    },
+    {
+      "targetValue": "McLaren-Mercedes",
+      "utterance": "heikki kovalainen and lewis hamilton both had which constructor?",
+      "id": "nt-8124"
+    },
+    {
+      "targetValue": "Sebastian Vettel",
+      "utterance": "what is the name of a driver that ferrari was not a constructor for?",
+      "id": "nt-8721"
+    },
+    {
+      "targetValue": "+44.975",
+      "utterance": "what was jenson button's time?",
+      "id": "nt-9027"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "what is the total number of drivers on the list?",
+      "id": "nt-11419"
+    },
+    {
+      "targetValue": "Adrian Sutil",
+      "utterance": "what name is just previous to kazuki nakjima on the list?",
+      "id": "nt-11706"
+    }
+  ],
+  "metadata": {
+    "title": "2009 Chinese Grand Prix",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21958115&oldid=589575162",
+    "tableIndex": 1,
+    "hashcode": "7ad4e982182bb1a7f4238cf8c175be13f1603170",
+    "id": 21958115,
+    "revision": 589575162
+  }
+}

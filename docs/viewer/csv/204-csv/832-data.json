@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Martin Rennie",
+      "utterance": "marc dos santos started as coach the same year as what other coach?",
+      "id": "nt-941"
+    },
+    {
+      "targetValue": "Alen Marcina",
+      "utterance": "who is the last to coach the san antonio scorpions?",
+      "id": "nt-3246"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many total coaches on the list are from canada?",
+      "id": "nt-5080"
+    },
+    {
+      "targetValue": "4 years",
+      "utterance": "how long did colin clarke coach the puerto rico islanders for?",
+      "id": "nt-6426"
+    },
+    {
+      "targetValue": "Canada",
+      "utterance": "what same country did marc dos santos coach as colin miller?",
+      "id": "nt-7026"
+    },
+    {
+      "targetValue": "4 years",
+      "utterance": "how long did colin clarke coach the puerto rico islanders?",
+      "id": "nt-8445"
+    },
+    {
+      "targetValue": "Chacon",
+      "utterance": "who coached the silverbacks longer, abundis or chacon?",
+      "id": "nt-9623"
+    },
+    {
+      "targetValue": "Harry Sinkgraven",
+      "utterance": "who was the coach of fc edmonton before miller?",
+      "id": "nt-11488"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many coaches have coached from america?",
+      "id": "nt-11860"
+    },
+    {
+      "targetValue": "José Manuel Abundis",
+      "utterance": "what name is listed at the top?",
+      "id": "nt-12792"
+    }
+  ],
+  "metadata": {
+    "title": "List of North American Soccer League coaches",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41523522&oldid=592504586",
+    "tableIndex": 0,
+    "hashcode": "2a0fd4529122ad8d1897195dce45070cc13ed646",
+    "id": 41523522,
+    "revision": 592504586
+  }
+}

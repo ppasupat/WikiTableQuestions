@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Chevrolet",
+      "utterance": "what vehicle maker other than dodge has the most vehicles in the roster?",
+      "id": "nt-81"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the difference in tom power's number and jon wood's number?",
+      "id": "nt-205"
+    },
+    {
+      "targetValue": "Orleans Racing",
+      "utterance": "other than bobby hamilton racing, name a team that uses a dodge ram.",
+      "id": "nt-1166"
+    },
+    {
+      "targetValue": "Bobby Hamilton Racing",
+      "utterance": "according to the chart, which team is listed to have the first dodge ram?",
+      "id": "nt-3146"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many total chevrolet silverados are raced?",
+      "id": "nt-6537"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many teams have ford f-150 as their trucks?",
+      "id": "nt-6992"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "how many people are not driving a chevrolet silverado?",
+      "id": "nt-9445"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what is the total number of people driving dodge rams?",
+      "id": "nt-10262"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many people have numbers above 50?",
+      "id": "nt-10429"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many racers drive trucks that are the same model as brian rose?",
+      "id": "nt-10785"
+    },
+    {
+      "targetValue": "Addington Racing",
+      "utterance": "who is at the top of the list?",
+      "id": "nt-13280"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many numbers start with 7 in the list?",
+      "id": "nt-13558"
+    }
+  ],
+  "metadata": {
+    "title": "2002 NASCAR Craftsman Truck Series",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5286599&oldid=580341190",
+    "tableIndex": 0,
+    "hashcode": "a54b5fed00fd0a122edb60744462b839d8e8b33f",
+    "id": 5286599,
+    "revision": 580341190
+  }
+}

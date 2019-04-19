@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "2006 FIBA World Championship",
+      "utterance": "which tournament had the most points per game?",
+      "id": "nt-806"
+    },
+    {
+      "targetValue": "2013 EuroBasket",
+      "utterance": "during which tournament did florent average the least points per game?",
+      "id": "nt-2903"
+    },
+    {
+      "targetValue": "2006 FIBA World Championship",
+      "utterance": "in which tournament did the team score the most points per game?",
+      "id": "nt-3648"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "in 2009, what were the total number of games played?",
+      "id": "nt-5631"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "in how many tournaments did the team play, at most, 9 games?",
+      "id": "nt-5937"
+    },
+    {
+      "targetValue": "69",
+      "utterance": "how many international tournament games has florent played to date?",
+      "id": "nt-8977"
+    },
+    {
+      "targetValue": "0.6",
+      "utterance": "what was florent's average number of assists per game during the 2006 fiba world championship?",
+      "id": "nt-9649"
+    },
+    {
+      "targetValue": "0.2",
+      "utterance": "how many total assists per game did 2013 eurobasket have?",
+      "id": "nt-12984"
+    }
+  ],
+  "metadata": {
+    "title": "Florent Piétrus",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2761641&oldid=574264391",
+    "tableIndex": 0,
+    "hashcode": "9f88a4954874eea8f01249c79b7f14c011b73678",
+    "id": 2761641,
+    "revision": 574264391
+  }
+}

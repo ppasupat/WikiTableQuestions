@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "3 years",
+      "utterance": "how long did tigerair fly into chiang mai?",
+      "id": "nt-1710"
+    },
+    {
+      "targetValue": "2009",
+      "utterance": "what year was the last time tigerair offered flights to xiamen?",
+      "id": "nt-2120"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what are the number of times 2013 appears under the commenced column?",
+      "id": "nt-5855"
+    },
+    {
+      "targetValue": "Francisco Bangoy International Airport",
+      "utterance": "what is the next airport listed after darwin international airport?",
+      "id": "nt-5983"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many of tigerair's destination cities are in china?",
+      "id": "nt-6540"
+    },
+    {
+      "targetValue": "Yogyakarta",
+      "utterance": "which one is last on the chart",
+      "id": "nt-9428"
+    },
+    {
+      "targetValue": "45",
+      "utterance": "how many cities does tigerair currently fly into?",
+      "id": "nt-10526"
+    }
+  ],
+  "metadata": {
+    "title": "Tigerair destinations",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7409980&oldid=600568951",
+    "tableIndex": 1,
+    "hashcode": "14847b03fdbc27ffd36d65c05f9d79ea68891c65",
+    "id": 7409980,
+    "revision": 600568951
+  }
+}

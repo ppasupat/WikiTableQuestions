@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "how many athletes took more than 8 minutes to run complete the race?",
+      "id": "nt-533"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many ranks do not have notes?",
+      "id": "nt-2302"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what number of the athletes are from spain?",
+      "id": "nt-2470"
+    },
+    {
+      "targetValue": "Spain",
+      "utterance": "which country had the most athletes?",
+      "id": "nt-4219"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many runners in the 2002 european athletics indoor championships completed the men's 3000 metres event in under 8 minutes?",
+      "id": "nt-6249"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many athletes had times that were at least 8 minutes?",
+      "id": "nt-8698"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many athletes had times under 8 minutes?",
+      "id": "nt-9234"
+    },
+    {
+      "targetValue": "Alberto García",
+      "utterance": "what is the first name ranked?",
+      "id": "nt-13385"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many athletes were from a country other than cyprus?",
+      "id": "nt-13666"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many spanish runners total placed in the top 10 in the men's 3000 metres event at the 2002 european athletics indoor championships?",
+      "id": "nt-13803"
+    }
+  ],
+  "metadata": {
+    "title": "2002 European Athletics Indoor Championships – Men's 3000 metres",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=31850538&oldid=569224672",
+    "tableIndex": 0,
+    "hashcode": "6e20d2c2f212f14886fabb151a86390ce491d9a1",
+    "id": 31850538,
+    "revision": 569224672
+  }
+}

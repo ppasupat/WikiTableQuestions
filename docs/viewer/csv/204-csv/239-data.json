@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "1976",
+      "utterance": "which year does the artist have the most charted singles?",
+      "id": "nt-2069"
+    },
+    {
+      "targetValue": "UK",
+      "utterance": "in 1979 \"lead me on\" did not chart where?",
+      "id": "nt-4575"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many total charts did \"lead me on\" appear on?",
+      "id": "nt-5372"
+    },
+    {
+      "targetValue": "\"Love Hit Me\"",
+      "utterance": "name a single that had no spot on the billboard hot 100.",
+      "id": "nt-6529"
+    },
+    {
+      "targetValue": "Right Back Where We Started From",
+      "utterance": "what title was released previous to \"gotta be the one\"?",
+      "id": "nt-13347"
+    }
+  ],
+  "metadata": {
+    "title": "Maxine Nightingale",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2968668&oldid=583243492",
+    "tableIndex": 0,
+    "hashcode": "09fe427b0066e694e8f16b2b5d812942a1d6dab9",
+    "id": 2968668,
+    "revision": 583243492
+  }
+}

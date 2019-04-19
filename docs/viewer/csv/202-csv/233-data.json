@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "Fokker D.VII",
+      "utterance": "which opponent did kindley have the most victories against?",
+      "id": "nt-5318"
+    }
+  ],
+  "metadata": {
+    "title": "Field Eugene Kindley",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=344428&oldid=601796035",
+    "tableIndex": 0,
+    "hashcode": "9e884a7bb88b05b093a0675910c108beaae5bebd",
+    "id": 344428,
+    "revision": 601796035
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "examples": [
+    {
+      "targetValue": "European Architectural Year",
+      "utterance": "which stamp set had only three cards in the set?",
+      "id": "nt-1952"
+    },
+    {
+      "targetValue": "Royal Wedding (The Princess Anne)",
+      "utterance": "which stamp set had the greatest quantity issued?",
+      "id": "nt-3437"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many stamp sets had at least 50,000 issued?",
+      "id": "nt-4250"
+    },
+    {
+      "targetValue": "Royal Wedding (The Princess Anne)",
+      "utterance": "which card was issued most?",
+      "id": "nt-8119"
+    },
+    {
+      "targetValue": [
+        "Bicentenary, birth J. M. W. Turner",
+        "Jane Austen Bicentenary",
+        "American Bicentenary"
+      ],
+      "utterance": "list each bicentenary stamp set",
+      "id": "nt-8951"
+    },
+    {
+      "targetValue": "Royal Wedding (The Princess Anne)",
+      "utterance": "which was the only stamp set to have more than 200,000 issued?",
+      "id": "nt-8993"
+    },
+    {
+      "targetValue": "1973",
+      "utterance": "which year had the most stamps issued?",
+      "id": "nt-11359"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many stamp sets were released in the year 1975?",
+      "id": "nt-11616"
+    }
+  ],
+  "metadata": {
+    "title": "PHQ card",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9114833&oldid=601485806",
+    "tableIndex": 0,
+    "hashcode": "c575fd90ac4dc56d80c1ff598e6df4fe91bac5d8",
+    "id": 9114833,
+    "revision": 601485806
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "36,800",
+      "utterance": "what is the total number from column 1 for all face values?",
+      "id": "nt-2119"
+    },
+    {
+      "targetValue": "2005 SV",
+      "utterance": "what face value comes after 2005?",
+      "id": "nt-3013"
+    },
+    {
+      "targetValue": "6,000",
+      "utterance": "what is the total face value of 1.00 in 2011?",
+      "id": "nt-3462"
+    },
+    {
+      "targetValue": "400",
+      "utterance": "what is the difference between the value of 0.01 in 2008 than that if 0.01 in 2002?",
+      "id": "nt-4124"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many face values are there on the chart?",
+      "id": "nt-6882"
+    },
+    {
+      "targetValue": "2007",
+      "utterance": "what face value comes next 2006?",
+      "id": "nt-10369"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many years was 0.01 valied at 6,000?",
+      "id": "nt-10796"
+    },
+    {
+      "targetValue": "1,604,690",
+      "utterance": "what was the mst amount of money in 2012?",
+      "id": "nt-10809"
+    },
+    {
+      "targetValue": "6,000",
+      "utterance": "how many with a face value of 0.01 were circulating in 2010?",
+      "id": "nt-13422"
+    }
+  ],
+  "metadata": {
+    "title": "Vatican euro coins",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=923559&oldid=599053491",
+    "tableIndex": 3,
+    "hashcode": "6932aa48f507c6babaaab969f2ddd9e2092803da",
+    "id": 923559,
+    "revision": 599053491
+  }
+}

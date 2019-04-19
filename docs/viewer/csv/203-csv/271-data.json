@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Jim Richards",
+      "utterance": "which racer won consecutive races in 1992?",
+      "id": "nt-1937"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what was the total number of races?",
+      "id": "nt-2129"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many races were won by mark skaife?",
+      "id": "nt-2550"
+    },
+    {
+      "targetValue": "15 Mar",
+      "utterance": "what was the date of the last time glen seton won?",
+      "id": "nt-5133"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many races took place in new south wales?",
+      "id": "nt-6229"
+    },
+    {
+      "targetValue": "Nissan Skyline R32 GT-R",
+      "utterance": "which model of car won the most races in the 1992 season?",
+      "id": "nt-6378"
+    },
+    {
+      "targetValue": "John Bowe",
+      "utterance": "what is the name of the winner of the next round?",
+      "id": "nt-9674"
+    },
+    {
+      "targetValue": "Winton Motor Raceway",
+      "utterance": "what circuit is after symmons plains raceway?",
+      "id": "nt-11597"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "did the drink/drive sandown 500 happen before the tooheys 1000?",
+      "id": "nt-11661"
+    },
+    {
+      "targetValue": "Winfield Team Nissan",
+      "utterance": "mark skaife was the winnter of atcc round 1, but what was the name of his team?",
+      "id": "nt-11669"
+    },
+    {
+      "targetValue": "BMW M3 Evolution",
+      "utterance": "what was the only bmw model to win a round of the atcc?",
+      "id": "nt-13755"
+    }
+  ],
+  "metadata": {
+    "title": "1992 Australian Touring Car season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17902470&oldid=560904303",
+    "tableIndex": 0,
+    "hashcode": "e2698ad31fda0e17a2df48e3817a5c647f8b8d46",
+    "id": 17902470,
+    "revision": 560904303
+  }
+}

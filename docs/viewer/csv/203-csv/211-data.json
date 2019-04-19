@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Sally Pearson",
+      "utterance": "who was the first athlete to be faster than 12.3?",
+      "id": "nt-2428"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what was the position number of gail devers?",
+      "id": "nt-3005"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "which country had the most athletic representation?",
+      "id": "nt-3045"
+    },
+    {
+      "targetValue": "12.37",
+      "utterance": "how long did it take until dawn harper finished?",
+      "id": "nt-4826"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what number of athletes had times that were below 12.40?",
+      "id": "nt-5314"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many of the athletes came from the united states?",
+      "id": "nt-6576"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many countries have at least one athlete who ranks in the top 25?",
+      "id": "nt-9806"
+    },
+    {
+      "targetValue": "12.39",
+      "utterance": "what is the time of each of the athletes who are in the number 10 position in the rankings?",
+      "id": "nt-9896"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many athletes were faster than 12.40 seconds?",
+      "id": "nt-12919"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what are the total number of athletes representing bulgaria?",
+      "id": "nt-13046"
+    }
+  ],
+  "metadata": {
+    "title": "100 metres hurdles",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4064591&oldid=596452111",
+    "tableIndex": 3,
+    "hashcode": "b0c26264e4d37b9cc218827287661fea6e77deb0",
+    "id": 4064591,
+    "revision": 596452111
+  }
+}

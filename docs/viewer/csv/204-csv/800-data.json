@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Cayman Islands",
+        "Saint Kitts and Nevis"
+      ],
+      "utterance": "which nations won only bronze medals?",
+      "id": "nt-1757"
+    },
+    {
+      "targetValue": "México",
+      "utterance": "who won more gold medals between jamaica and mexico?",
+      "id": "nt-1832"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many sliver medal does bermuda has",
+      "id": "nt-2336"
+    },
+    {
+      "targetValue": "Panamá",
+      "utterance": "which is above cayman island",
+      "id": "nt-4345"
+    },
+    {
+      "targetValue": "Colombia",
+      "utterance": "venezuela was 7th overall in total medals. who is next on the list?",
+      "id": "nt-6562"
+    },
+    {
+      "targetValue": "Puerto Rico",
+      "utterance": "what country had the top number of silver medals?",
+      "id": "nt-7032"
+    },
+    {
+      "targetValue": [
+        "Puerto Rico",
+        "Bahamas",
+        "México",
+        "Jamaica"
+      ],
+      "utterance": "name all the nations that won at least five silver medals.",
+      "id": "nt-8230"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many countries earned only one gold medal?",
+      "id": "nt-10691"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many silver medals did venezuela win?",
+      "id": "nt-11562"
+    },
+    {
+      "targetValue": [
+        "Antigua and Barbuda",
+        "Suriname",
+        "Cayman Islands",
+        "Saint Kitts and Nevis"
+      ],
+      "utterance": "which nations did not win any silver medals?",
+      "id": "nt-12222"
+    }
+  ],
+  "metadata": {
+    "title": "1984 Central American and Caribbean Junior Championships in Athletics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=32694001&oldid=575016325",
+    "tableIndex": 4,
+    "hashcode": "1831adf97e786155d1282e13952c6fe7e96ecd9c",
+    "id": 32694001,
+    "revision": 575016325
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Troy Bayliss",
+      "utterance": "who is the other pole position for italy",
+      "id": "nt-2046"
+    },
+    {
+      "targetValue": "28",
+      "utterance": "how many rounds are there in this season?",
+      "id": "nt-4598"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many total races did troy bayliss win?",
+      "id": "nt-5772"
+    },
+    {
+      "targetValue": "2 November",
+      "utterance": "when was the last round in this season?",
+      "id": "nt-7600"
+    },
+    {
+      "targetValue": "Troy Bayliss",
+      "utterance": "which rider held the pole position the most consecutive times?",
+      "id": "nt-7919"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "which country was the round above germany?",
+      "id": "nt-7965"
+    },
+    {
+      "targetValue": "Australia",
+      "utterance": "which country's riders won more races: germany or australia?",
+      "id": "nt-8385"
+    },
+    {
+      "targetValue": "Troy Bayliss",
+      "utterance": "who did the most pole position what is his or her name",
+      "id": "nt-9132"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many total races were there?",
+      "id": "nt-10828"
+    },
+    {
+      "targetValue": "Portimão",
+      "utterance": "what was the last race of the season?",
+      "id": "nt-11898"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "what is the total number of countries participating this season",
+      "id": "nt-12901"
+    }
+  ],
+  "metadata": {
+    "title": "2008 Superbike World Championship season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13261826&oldid=574411977",
+    "tableIndex": 0,
+    "hashcode": "bed736e216786c50692831eb32b8db10d691ee0b",
+    "id": 13261826,
+    "revision": 574411977
+  }
+}

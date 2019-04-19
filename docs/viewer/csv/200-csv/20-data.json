@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "Rebecca \"Becky\" Marrero",
+      "utterance": "which victim was missing the longest?",
+      "id": "nt-478"
+    }
+  ],
+  "metadata": {
+    "title": "Gary Ridgway",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=288210&oldid=602446896",
+    "tableIndex": 0,
+    "hashcode": "66fd3b1619f92f9717a9dac9aef22922e419c661",
+    "id": 288210,
+    "revision": 602446896
+  }
+}

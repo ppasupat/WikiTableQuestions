@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many times were the braves listed as the opponents?",
+      "id": "nt-2693"
+    },
+    {
+      "targetValue": "Mets",
+      "utterance": "which team was the opponents of this team the most?",
+      "id": "nt-6587"
+    },
+    {
+      "targetValue": "111",
+      "utterance": "which game had the most attendance?",
+      "id": "nt-8010"
+    },
+    {
+      "targetValue": "August 31",
+      "utterance": "what is the date of the last game on this chart?",
+      "id": "nt-9369"
+    },
+    {
+      "targetValue": "Pirates",
+      "utterance": "who was the first team to beat the 1987 chicago cubs in august?",
+      "id": "nt-11438"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what were the most runs that the cubs scored in a single day in august 1987?",
+      "id": "nt-12382"
+    },
+    {
+      "targetValue": "28",
+      "utterance": "how many games did the 1987 chicago cubs play in august?",
+      "id": "nt-12887"
+    }
+  ],
+  "metadata": {
+    "title": "1987 Chicago Cubs season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13553506&oldid=600669275",
+    "tableIndex": 5,
+    "hashcode": "d72829136f4fcef33580a626d08b36ee5e03df8f",
+    "id": 13553506,
+    "revision": 600669275
+  }
+}

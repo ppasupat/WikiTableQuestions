@@ -1,0 +1,48 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Mount Mercy University",
+        "Viterbo University"
+      ],
+      "utterance": "which two institutions joined the same year as clarke university?",
+      "id": "nt-642"
+    },
+    {
+      "targetValue": "AIB College of Business",
+      "utterance": "which school has the least number of students attending it?",
+      "id": "nt-3892"
+    },
+    {
+      "targetValue": [
+        "Saint Ambrose University",
+        "Viterbo University"
+      ],
+      "utterance": "which institutions have more than 2,000 enrollment?",
+      "id": "nt-6231"
+    },
+    {
+      "targetValue": "Mustangs",
+      "utterance": "out of v-hawks and mustangs, who has the least enrollment?",
+      "id": "nt-8346"
+    },
+    {
+      "targetValue": "AIB College of Business",
+      "utterance": "what is the first school on the list?",
+      "id": "nt-8471"
+    },
+    {
+      "targetValue": "Viterbo University",
+      "utterance": "does vigerbo university or william penn university have a higher student enrollment?",
+      "id": "nt-12913"
+    }
+  ],
+  "metadata": {
+    "title": "Midwest Collegiate Conference",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2117061&oldid=593476070",
+    "tableIndex": 0,
+    "hashcode": "31fcd1d016490e9be19edd8cd071c04298e62852",
+    "id": 2117061,
+    "revision": 593476070
+  }
+}

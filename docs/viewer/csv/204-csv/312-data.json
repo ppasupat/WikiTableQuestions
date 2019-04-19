@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many number of stages in the tour de france contain stages with mountains?",
+      "id": "nt-927"
+    },
+    {
+      "targetValue": "Joop Zoetemelk",
+      "utterance": "paul wellens won stage 13. who won the next stage?",
+      "id": "nt-2901"
+    },
+    {
+      "targetValue": "45",
+      "utterance": "how many miles is the metz - nancy route?",
+      "id": "nt-3508"
+    },
+    {
+      "targetValue": "Plain stage",
+      "utterance": "which type of terrain is listed the most?",
+      "id": "nt-4272"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "which stage was longer, 3 or 8?",
+      "id": "nt-7827"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many french winners are listed?",
+      "id": "nt-10378"
+    },
+    {
+      "targetValue": "244 km (152 mi)",
+      "utterance": "what was the total length listed for stage 3?",
+      "id": "nt-11246"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "name the only stage that sean kelly won.",
+      "id": "nt-12063"
+    }
+  ],
+  "metadata": {
+    "title": "1978 Tour de France",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3410830&oldid=596416960",
+    "tableIndex": 0,
+    "hashcode": "df89b4636a9392ffbb2c273102e8af733a32af3a",
+    "id": 3410830,
+    "revision": 596416960
+  }
+}

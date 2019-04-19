@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Clint Bolton",
+      "utterance": "which alumni in the 1990's has the least number of international caps?",
+      "id": "nt-65"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many notable alumni in the 1990's are not from australia?",
+      "id": "nt-515"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many players have above 40 international caps?",
+      "id": "nt-1185"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many players are currently retired?",
+      "id": "nt-4987"
+    },
+    {
+      "targetValue": "Dinamo Zagreb",
+      "utterance": "the team with the most international caps",
+      "id": "nt-5415"
+    },
+    {
+      "targetValue": "Dinamo Zagreb",
+      "utterance": "the team with the largest number of caps after 1988",
+      "id": "nt-13473"
+    }
+  ],
+  "metadata": {
+    "title": "Australian Institute of Sport Football Program",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2880018&oldid=600174087",
+    "tableIndex": 0,
+    "hashcode": "359fb6c715e885cf7ee4b834d8d249c1097dfde0",
+    "id": 2880018,
+    "revision": 600174087
+  }
+}

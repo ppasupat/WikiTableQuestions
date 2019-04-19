@@ -1,0 +1,76 @@
+{
+  "examples": [
+    {
+      "targetValue": "33",
+      "utterance": "what is the total number of gold medals awarded?",
+      "id": "nt-251"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "tell me the number of gold medals the dominican republic won.",
+      "id": "nt-287"
+    },
+    {
+      "targetValue": "Chile",
+      "utterance": "who received more total medals, ecuador or chile?",
+      "id": "nt-1467"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many bronze medals did el salvador win?",
+      "id": "nt-2653"
+    },
+    {
+      "targetValue": "Venezuela",
+      "utterance": "who won the most total medals?",
+      "id": "nt-3833"
+    },
+    {
+      "targetValue": "Colombia",
+      "utterance": "which nation received the least number of gold medals?",
+      "id": "nt-5928"
+    },
+    {
+      "targetValue": "Colombia",
+      "utterance": "which is the only country to not receive a gold medal?",
+      "id": "nt-6339"
+    },
+    {
+      "targetValue": "Venezuela",
+      "utterance": "who won more silvers, venezuela or chile?",
+      "id": "nt-7013"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "did peru win more or less gold medals than chile?",
+      "id": "nt-10108"
+    },
+    {
+      "targetValue": "3.66",
+      "utterance": "what was the average number of gold medals received by a nation?",
+      "id": "nt-12641"
+    },
+    {
+      "targetValue": "Peru",
+      "utterance": "which county had the most bronze medals?",
+      "id": "nt-13441"
+    },
+    {
+      "targetValue": [
+        "Venezuela",
+        "Guatemala",
+        "Peru"
+      ],
+      "utterance": "name the countries that had at least 5 gold medals",
+      "id": "nt-13775"
+    }
+  ],
+  "metadata": {
+    "title": "Shooting at the 2013 Bolivarian Games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41056727&oldid=585059564",
+    "tableIndex": 0,
+    "hashcode": "56b550f1436bc555db4e1144c986067b336391a6",
+    "id": 41056727,
+    "revision": 585059564
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many of the subspecies of p. ponderosa have a foliate length on branch in excess of 25.0?",
+      "id": "nt-2015"
+    },
+    {
+      "targetValue": "Columbia",
+      "utterance": "which is the best area to find a pinus ponderosa with the longest needles?",
+      "id": "nt-11598"
+    },
+    {
+      "targetValue": "1.8 years",
+      "utterance": "how many additional years will the rocky mountains (scopulorum) subspecies of p. ponderosa needles remain green compared to pacific (critchfieldiana)?",
+      "id": "nt-13948"
+    }
+  ],
+  "metadata": {
+    "title": "Pinus ponderosa",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=532941&oldid=598391784",
+    "tableIndex": 0,
+    "hashcode": "eee8de56068925a18d013a54133d81f44ea1c2f7",
+    "id": 532941,
+    "revision": 598391784
+  }
+}

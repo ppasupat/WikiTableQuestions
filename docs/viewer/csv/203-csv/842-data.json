@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "13 February 2005",
+      "utterance": "besides the 12th of march, what other time was the final score of 0-9 reached in 2005?",
+      "id": "nt-2207"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what was the total number of appearances in 2005?",
+      "id": "nt-12843"
+    }
+  ],
+  "metadata": {
+    "title": "Stephen Cluxton",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4567057&oldid=599930959",
+    "tableIndex": 0,
+    "hashcode": "3d249a5aac9c60376e4bbc2ba7b9e9a9ad144eba",
+    "id": 4567057,
+    "revision": 599930959
+  }
+}

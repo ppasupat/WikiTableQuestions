@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "Sam Snead",
+      "utterance": "which one is the last on the chart",
+      "id": "nt-175"
+    },
+    {
+      "targetValue": "Ben Hogan",
+      "utterance": "which player won more money that skee riegel?",
+      "id": "nt-1844"
+    },
+    {
+      "targetValue": "Lloyd Mangrum",
+      "utterance": "which competitor had the same score as lew worhsam?",
+      "id": "nt-2801"
+    },
+    {
+      "targetValue": "E",
+      "utterance": "how many par does dave douglas",
+      "id": "nt-3562"
+    },
+    {
+      "targetValue": "2550",
+      "utterance": "what is the difference in prize money between ben hogan and sam snead?",
+      "id": "nt-8737"
+    },
+    {
+      "targetValue": "Dave Douglas",
+      "utterance": "which player placed above lawson little?",
+      "id": "nt-10179"
+    },
+    {
+      "targetValue": "Ben Hogan",
+      "utterance": "which player won the most money?",
+      "id": "nt-10324"
+    },
+    {
+      "targetValue": [
+        "Byron Nelson",
+        "Sam Snead"
+      ],
+      "utterance": "who had the same score as bulla?",
+      "id": "nt-11069"
+    },
+    {
+      "targetValue": "Ben Hogan",
+      "utterance": "who finished above skee riegel in terms of points?",
+      "id": "nt-11991"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "which country produced the player who placed last?",
+      "id": "nt-13045"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many had at least 285 points?",
+      "id": "nt-13374"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of players from australia in the open?",
+      "id": "nt-13646"
+    }
+  ],
+  "metadata": {
+    "title": "1951 Masters Tournament",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13059263&oldid=588764640",
+    "tableIndex": 0,
+    "hashcode": "c0c33062cb4f1a7f9a95f73965c21e62e783b6cc",
+    "id": 13059263,
+    "revision": 588764640
+  }
+}

@@ -1,0 +1,721 @@
+<table>
+<thead>
+<tr>
+<th>Payload type (PT)</th>
+<th>Name</th>
+<th>Type</th>
+<th>No. of channels</th>
+<th>Clock rate (Hz)</th>
+<th>Frame size (ms)</th>
+<th>Default packet size (ms)</th>
+<th>Description</th>
+<th>References</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0</td>
+<td>PCMU</td>
+<td>audio</td>
+<td>1</td>
+<td>8000</td>
+<td>any</td>
+<td>20</td>
+<td>ITU-T G.711 PCM µ-Law Audio 64 kbit/s</td>
+<td>RFC 3551</td>
+</tr>
+<tr>
+<td>1</td>
+<td>reserved (previously 1016)</td>
+<td>audio</td>
+<td>1</td>
+<td>8000</td>
+<td></td>
+<td></td>
+<td>reserved, previously CELP Audio 4.8 kbit/s</td>
+<td>RFC 3551, previously RFC 1890</td>
+</tr>
+<tr>
+<td>2</td>
+<td>reserved (previously G721)</td>
+<td>audio</td>
+<td>1</td>
+<td>8000</td>
+<td></td>
+<td></td>
+<td>reserved, previously ITU-T G.721 ADPCM Audio 32 kbit/s</td>
+<td>RFC 3551, previously RFC 1890</td>
+</tr>
+<tr>
+<td>3</td>
+<td>GSM</td>
+<td>audio</td>
+<td>1</td>
+<td>8000</td>
+<td>20</td>
+<td>20</td>
+<td>European GSM Full Rate Audio 13 kbit/s (GSM 06.10)</td>
+<td>RFC 3551</td>
+</tr>
+<tr>
+<td>4</td>
+<td>G723</td>
+<td>audio</td>
+<td>1</td>
+<td>8000</td>
+<td>30</td>
+<td>30</td>
+<td>ITU-T G.723.1</td>
+<td>RFC 3551</td>
+</tr>
+<tr>
+<td>5</td>
+<td>DVI4</td>
+<td>audio</td>
+<td>1</td>
+<td>8000</td>
+<td>any</td>
+<td>20</td>
+<td>IMA ADPCM Audio 32 kbit/s</td>
+<td>RFC 3551</td>
+</tr>
+<tr>
+<td>6</td>
+<td>DVI4</td>
+<td>audio</td>
+<td>1</td>
+<td>16000</td>
+<td>any</td>
+<td>20</td>
+<td>IMA ADPCM 64 kbit/s</td>
+<td>RFC 3551</td>
+</tr>
+<tr>
+<td>7</td>
+<td>LPC</td>
+<td>audio</td>
+<td>1</td>
+<td>8000</td>
+<td>any</td>
+<td>20</td>
+<td>Experimental Linear Predictive Coding Audio</td>
+<td>RFC 3551</td>
+</tr>
+<tr>
+<td>8</td>
+<td>PCMA</td>
+<td>audio</td>
+<td>1</td>
+<td>8000</td>
+<td>any</td>
+<td>20</td>
+<td>ITU-T G.711 PCM A-Law Audio 64 kbit/s</td>
+<td>RFC 3551</td>
+</tr>
+<tr>
+<td>9</td>
+<td>G722</td>
+<td>audio</td>
+<td>1</td>
+<td>8000</td>
+<td>any</td>
+<td>20</td>
+<td>ITU-T G.722 Audio</td>
+<td>RFC 3551 - Page 14</td>
+</tr>
+<tr>
+<td>10</td>
+<td>L16</td>
+<td>audio</td>
+<td>2</td>
+<td>44100</td>
+<td>any</td>
+<td>20</td>
+<td>Linear PCM 16-bit Stereo Audio 1411.2 kbit/s, uncompressed</td>
+<td>RFC 3551, Page 27</td>
+</tr>
+<tr>
+<td>11</td>
+<td>L16</td>
+<td>audio</td>
+<td>1</td>
+<td>44100</td>
+<td>any</td>
+<td>20</td>
+<td>Linear PCM 16-bit Audio 705.6 kbit/s, uncompressed</td>
+<td>RFC 3551, Page 27</td>
+</tr>
+<tr>
+<td>12</td>
+<td>QCELP</td>
+<td>audio</td>
+<td>1</td>
+<td>8000</td>
+<td>20</td>
+<td>20</td>
+<td>Qualcomm Code Excited Linear Prediction</td>
+<td>RFC 2658, RFC 3551</td>
+</tr>
+<tr>
+<td>13</td>
+<td>CN</td>
+<td>audio</td>
+<td>1</td>
+<td>8000</td>
+<td></td>
+<td></td>
+<td>Comfort noise. Payload type used with audio codecs that do not support comfort noise as part of the codec itself such as G.711, G.722.1, G.722, G.726, G.727, G.728, GSM 06.10, Siren, and RTAudio.</td>
+<td>RFC 3389</td>
+</tr>
+<tr>
+<td>14</td>
+<td>MPA</td>
+<td>audio</td>
+<td>1</td>
+<td>90000</td>
+<td></td>
+<td></td>
+<td>MPEG-1 or MPEG-2 Audio Only</td>
+<td>RFC 3551, RFC 2250</td>
+</tr>
+<tr>
+<td>15</td>
+<td>G728</td>
+<td>audio</td>
+<td>1</td>
+<td>8000</td>
+<td>2.5</td>
+<td>20</td>
+<td>ITU-T G.728 Audio 16 kbit/s</td>
+<td>RFC 3551</td>
+</tr>
+<tr>
+<td>16</td>
+<td>DVI4</td>
+<td>audio</td>
+<td>1</td>
+<td>11025</td>
+<td>any</td>
+<td>20</td>
+<td>IMA ADPCM</td>
+<td>RFC 3551</td>
+</tr>
+<tr>
+<td>17</td>
+<td>DVI4</td>
+<td>audio</td>
+<td>1</td>
+<td>22050</td>
+<td>any</td>
+<td>20</td>
+<td>IMA ADPCM</td>
+<td>RFC 3551</td>
+</tr>
+<tr>
+<td>18</td>
+<td>G729</td>
+<td>audio</td>
+<td>1</td>
+<td>8000</td>
+<td>10</td>
+<td>20</td>
+<td>ITU-T G.729 and G.729a</td>
+<td>RFC 3551, Page 20</td>
+</tr>
+<tr>
+<td>25</td>
+<td>CELB</td>
+<td>video</td>
+<td>1</td>
+<td>90000</td>
+<td></td>
+<td></td>
+<td>Sun's CellB Video Encoding</td>
+<td>RFC 2029</td>
+</tr>
+<tr>
+<td>26</td>
+<td>JPEG</td>
+<td>video</td>
+<td>1</td>
+<td>90000</td>
+<td></td>
+<td></td>
+<td>JPEG Video</td>
+<td>RFC 2435</td>
+</tr>
+<tr>
+<td>28</td>
+<td>NV</td>
+<td>video</td>
+<td>1</td>
+<td>90000</td>
+<td></td>
+<td></td>
+<td>Xerox PARC's Network Video (nv)</td>
+<td>RFC 3551, Page 32</td>
+</tr>
+<tr>
+<td>31</td>
+<td>H261</td>
+<td>video</td>
+<td>1</td>
+<td>90000</td>
+<td></td>
+<td></td>
+<td>ITU-T H.261 Video</td>
+<td>RFC 4587</td>
+</tr>
+<tr>
+<td>32</td>
+<td>MPV</td>
+<td>video</td>
+<td>1</td>
+<td>90000</td>
+<td></td>
+<td></td>
+<td>MPEG-1 and MPEG-2 Video</td>
+<td>RFC 2250</td>
+</tr>
+<tr>
+<td>33</td>
+<td>MP2T</td>
+<td>audio/video</td>
+<td>1</td>
+<td>90000</td>
+<td></td>
+<td></td>
+<td>MPEG-2 transport stream Video</td>
+<td>RFC 2250</td>
+</tr>
+<tr>
+<td>34</td>
+<td>H263</td>
+<td>video</td>
+<td></td>
+<td>90000</td>
+<td></td>
+<td></td>
+<td>H.263 video, first version (1996)</td>
+<td>RFC 3551, RFC 2190</td>
+</tr>
+<tr>
+<td>35 - 71</td>
+<td>unassigned</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>RFC 3551, Page 32</td>
+</tr>
+<tr>
+<td>72 - 76</td>
+<td>Reserved for RTCP conflict avoidance</td>
+<td>N/A</td>
+<td></td>
+<td>N/A</td>
+<td></td>
+<td></td>
+<td></td>
+<td>RFC 3551, Page 32</td>
+</tr>
+<tr>
+<td>77 - 95</td>
+<td>unassigned</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>RFC 3551, Page 32</td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td>H263-1998</td>
+<td>video</td>
+<td></td>
+<td>90000</td>
+<td></td>
+<td></td>
+<td>H.263 video, second version (1998)</td>
+<td>RFC 3551, RFC 4629, RFC 2190</td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td>H263-2000</td>
+<td>video</td>
+<td></td>
+<td>90000</td>
+<td></td>
+<td></td>
+<td>H.263 video, third version (2000)</td>
+<td>RFC 4629</td>
+</tr>
+<tr>
+<td>dynamic (or profile)</td>
+<td>H264</td>
+<td>video</td>
+<td></td>
+<td>90000</td>
+<td></td>
+<td></td>
+<td>H.264 video (MPEG-4 Part 10)</td>
+<td>RFC 6184, previously RFC 3984</td>
+</tr>
+<tr>
+<td>dynamic (or profile)</td>
+<td>theora</td>
+<td>video</td>
+<td></td>
+<td>90000</td>
+<td></td>
+<td></td>
+<td>Theora video</td>
+<td>draft-barbato-avt-rtp-theora-01</td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td>iLBC</td>
+<td>audio</td>
+<td>1</td>
+<td>8000</td>
+<td>20 or 30</td>
+<td>20 or 30, respectively</td>
+<td>Internet low Bitrate Codec 13.33 or 15.2 kbit/s</td>
+<td>RFC 3952</td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td>PCMA-WB</td>
+<td>audio</td>
+<td></td>
+<td>16000</td>
+<td>5</td>
+<td></td>
+<td>ITU-T G.711.1, A-law</td>
+<td>RFC 5391</td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td>PCMU-WB</td>
+<td>audio</td>
+<td></td>
+<td>16000</td>
+<td>5</td>
+<td></td>
+<td>ITU-T G.711.1, µ-law</td>
+<td>RFC 5391</td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td>G718</td>
+<td>audio</td>
+<td></td>
+<td>32000 (placeholder)</td>
+<td>20</td>
+<td></td>
+<td>ITU-T G.718</td>
+<td>draft-ietf-avt-rtp-g718-03</td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td>G719</td>
+<td>audio</td>
+<td>(various)</td>
+<td>48000</td>
+<td>20</td>
+<td></td>
+<td>ITU-T G.719</td>
+<td>RFC 5404</td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td>G7221</td>
+<td>audio</td>
+<td></td>
+<td>32000, 16000</td>
+<td>20</td>
+<td></td>
+<td>ITU-T G.722.1</td>
+<td>RFC 5577</td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td>G726-16</td>
+<td>audio</td>
+<td>1</td>
+<td>8000</td>
+<td>any</td>
+<td>20</td>
+<td>ITU-T G.726 audio with 16 kbit/s</td>
+<td>RFC 3551</td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td>G726-24</td>
+<td>audio</td>
+<td>1</td>
+<td>8000</td>
+<td>any</td>
+<td>20</td>
+<td>ITU-T G.726 audio with 24 kbit/s</td>
+<td>RFC 3551</td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td>G726-32</td>
+<td>audio</td>
+<td>1</td>
+<td>8000</td>
+<td>any</td>
+<td>20</td>
+<td>ITU-T G.726 audio with 32 kbit/s</td>
+<td>RFC 3551</td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td>G726-40</td>
+<td>audio</td>
+<td>1</td>
+<td>8000</td>
+<td>any</td>
+<td>20</td>
+<td>ITU-T G.726 audio with 40 kbit/s</td>
+<td>RFC 3551</td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td>G729D</td>
+<td>audio</td>
+<td>1</td>
+<td>8000</td>
+<td>10</td>
+<td>20</td>
+<td>ITU-T G.729 Annex D</td>
+<td>RFC 3551</td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td>G729E</td>
+<td>audio</td>
+<td>1</td>
+<td>8000</td>
+<td>10</td>
+<td>20</td>
+<td>ITU-T G.729 Annex E</td>
+<td>RFC 3551</td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td>G7291</td>
+<td>audio</td>
+<td></td>
+<td>16000</td>
+<td>20</td>
+<td></td>
+<td>ITU-T G.729.1</td>
+<td>RFC 4749</td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td>GSM-EFR</td>
+<td>audio</td>
+<td>1</td>
+<td>8000</td>
+<td>20</td>
+<td>20</td>
+<td>ITU-T GSM-EFR (GSM 06.60)</td>
+<td>RFC 3551</td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td>GSM-HR-08</td>
+<td>audio</td>
+<td>1</td>
+<td>8000</td>
+<td>20</td>
+<td></td>
+<td>ITU-T GSM-HR (GSM 06.20)</td>
+<td>RFC 5993</td>
+</tr>
+<tr>
+<td>dynamic (or profile)</td>
+<td>AMR</td>
+<td>audio</td>
+<td>(various)</td>
+<td>8000</td>
+<td>20</td>
+<td></td>
+<td>Adaptive Multi-Rate audio</td>
+<td>RFC 4867</td>
+</tr>
+<tr>
+<td>dynamic (or profile)</td>
+<td>AMR-WB</td>
+<td>audio</td>
+<td>(various)</td>
+<td>16000</td>
+<td>20</td>
+<td></td>
+<td>Adaptive Multi-Rate Wideband audio (ITU-T G.722.2)</td>
+<td>RFC 4867</td>
+</tr>
+<tr>
+<td>dynamic (or profile)</td>
+<td>AMR-WB+</td>
+<td>audio</td>
+<td>1, 2 or omit</td>
+<td>72000</td>
+<td>80 (super-frame; internally divided in to transport frames of 13.33, 14.22, 15, 16, 17.78, 20, 21.33, 24, 26.67, 30, 35.55, or 40)</td>
+<td></td>
+<td>Extended Adaptive Multi Rate – WideBand audio</td>
+<td>RFC 4352</td>
+</tr>
+<tr>
+<td>dynamic (or profile)</td>
+<td>vorbis</td>
+<td>audio</td>
+<td>(various)</td>
+<td>any (must be a multiple of sample rate)</td>
+<td></td>
+<td>as many Vorbis packets as fit within the path MTU, unless it exceeds an application's desired transmission latency</td>
+<td>RTP Payload Format for Vorbis Encoded Audio</td>
+<td>RFC 5215</td>
+</tr>
+<tr>
+<td>dynamic (or profile)</td>
+<td>opus</td>
+<td>audio</td>
+<td>1, 2</td>
+<td>48000</td>
+<td>2.5, 5, 10, 20, 40, or 60</td>
+<td>20, minimum allowed value 3 (rounded from 2.5), maximum allowed value 120 (allowed values are 3, 5, 10, 20, 40, or 60 or an arbitrary multiple of Opus frame sizes rounded up to the next full integer value up to a maximum value of 120)</td>
+<td>RTP Payload Format for Opus Speech and Audio Codec</td>
+<td>draft</td>
+</tr>
+<tr>
+<td>dynamic (or profile)</td>
+<td>speex</td>
+<td>audio</td>
+<td>1</td>
+<td>8000, 16000 or 32000</td>
+<td>20</td>
+<td></td>
+<td>RTP Payload Format for the Speex Codec</td>
+<td>RFC 5574</td>
+</tr>
+<tr>
+<td>dynamic (96-127)</td>
+<td>mpa-robust</td>
+<td>audio</td>
+<td></td>
+<td>90000</td>
+<td></td>
+<td></td>
+<td>A More Loss-Tolerant RTP Payload Format for MP3 Audio</td>
+<td>RFC 5219</td>
+</tr>
+<tr>
+<td>dynamic (or profile)</td>
+<td>MP4A-LATM</td>
+<td>audio</td>
+<td></td>
+<td>90000 or others</td>
+<td></td>
+<td>recommended same as frame size</td>
+<td>RTP Payload Format for MPEG-4 Audio</td>
+<td>RFC 6416 (previously RFC 3016)</td>
+</tr>
+<tr>
+<td>dynamic (or profile)</td>
+<td>MP4V-ES</td>
+<td>video</td>
+<td></td>
+<td>90000 or others</td>
+<td></td>
+<td>recommended same as frame size</td>
+<td>RTP Payload Format for MPEG-4 Visual</td>
+<td>RFC 6416 (previously RFC 3016)</td>
+</tr>
+<tr>
+<td>dynamic (or profile)</td>
+<td>mpeg4-generic</td>
+<td>audio/video</td>
+<td></td>
+<td>90000 or other</td>
+<td></td>
+<td></td>
+<td>RTP Payload Format for Transport of MPEG-4 Elementary Streams</td>
+<td>RFC 3640</td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td>VP8</td>
+<td>video</td>
+<td></td>
+<td>90000</td>
+<td></td>
+<td></td>
+<td>RTP Payload Format for Transport of VP8 Streams</td>
+<td>draft-ietf-payload-vp8-08</td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td>L8</td>
+<td>audio</td>
+<td>(various)</td>
+<td>(various)</td>
+<td>any</td>
+<td>20</td>
+<td>Linear PCM 8-bit audio with 128 offset</td>
+<td>RFC 3551 Section 4.5.10 and Table 5</td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td>DAT12</td>
+<td>audio</td>
+<td>(various)</td>
+<td>8000, 11025, 16000, 22050, 24000, 32000, 44100, 48000 or others</td>
+<td>any</td>
+<td>20 (by analogy with L16)</td>
+<td>IEC 61119 12-bit nonlinear audio</td>
+<td>RFC 3190 Section 3</td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td>L16</td>
+<td>audio</td>
+<td>(various)</td>
+<td>8000, 11025, 16000, 22050, 24000, 32000, 44100, 48000 or others</td>
+<td>any</td>
+<td>20</td>
+<td>Linear PCM 16-bit audio</td>
+<td>RFC 3551 Section 4.5.11, RFC 2586</td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td>L20</td>
+<td>audio</td>
+<td>(various)</td>
+<td>8000, 11025, 16000, 22050, 24000, 32000, 44100, 48000 or others</td>
+<td>any</td>
+<td>20 (by analogy with L16)</td>
+<td>Linear PCM 20-bit audio</td>
+<td>RFC 3190 Section 4</td>
+</tr>
+<tr>
+<td>dynamic</td>
+<td>L24</td>
+<td>audio</td>
+<td>(various)</td>
+<td>8000, 11025, 16000, 22050, 24000, 32000, 44100, 48000 or others</td>
+<td>any</td>
+<td>20 (by analogy with L16)</td>
+<td>Linear PCM 24-bit audio</td>
+<td>RFC 3190 Section 4</td>
+</tr>
+</tbody>
+</table>

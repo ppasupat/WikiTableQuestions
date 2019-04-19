@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Michael Piller & Bill Dial",
+      "utterance": "were more episodes written by michael piller & bill dial or by bob shane & ron friedman?",
+      "id": "nt-3214"
+    },
+    {
+      "targetValue": "\"Bone of Contention\"",
+      "utterance": "title of the episode that came before the one directed by bob balaban",
+      "id": "nt-7178"
+    },
+    {
+      "targetValue": "\"Revenge of the Herd\"",
+      "utterance": "what was the name of the only episode directed by bob balaban?",
+      "id": "nt-7242"
+    },
+    {
+      "targetValue": "skeletons in the closet",
+      "utterance": "what is the only episode that aired in august 1995?",
+      "id": "nt-7321"
+    },
+    {
+      "targetValue": "\"The Gospel According to Legend\"",
+      "utterance": "john considine and michael vejar worked on what episode together?",
+      "id": "nt-7932"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many episodes aired in may 1995?",
+      "id": "nt-8411"
+    },
+    {
+      "targetValue": "birth of a legend",
+      "utterance": "which episode aired first--\"birth of a legend\" or \"skeletons in the closest\"?",
+      "id": "nt-10006"
+    },
+    {
+      "targetValue": "\"Birth of a Legend\"",
+      "utterance": "what was the name of the first episode?",
+      "id": "nt-10201"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many episodes aired in july 1995?",
+      "id": "nt-11879"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many episodes are there total?",
+      "id": "nt-12643"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "total number of episodes written or co-written by bill dial",
+      "id": "nt-12714"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many of the episodes were broadcast in july?",
+      "id": "nt-13800"
+    }
+  ],
+  "metadata": {
+    "title": "Legend (TV series)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1073826&oldid=593966886",
+    "tableIndex": 0,
+    "hashcode": "49689857a95af472d3e72e8d1a3bd515e12e24b1",
+    "id": 1073826,
+    "revision": 593966886
+  }
+}

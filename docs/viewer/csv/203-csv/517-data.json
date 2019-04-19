@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "18",
+      "utterance": "what is the number of games the senators have played?",
+      "id": "nt-141"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many games did the senators play in january?",
+      "id": "nt-182"
+    },
+    {
+      "targetValue": "December 21",
+      "utterance": "what date was the first game played?",
+      "id": "nt-226"
+    },
+    {
+      "targetValue": "Montreal Canadiens",
+      "utterance": "the only shutout of the season was won against which team?",
+      "id": "nt-6614"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "is the total score for december 26 the same score as january 2?",
+      "id": "nt-8339"
+    },
+    {
+      "targetValue": "Montreal Canadiens",
+      "utterance": "the first win by the ottawa senators in the first half of the regular season was to...",
+      "id": "nt-9202"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the number of points scored in the december 26th game by the toronto arenas?",
+      "id": "nt-11856"
+    },
+    {
+      "targetValue": "Toronto Arenas",
+      "utterance": "the senators' first lost came against which team?",
+      "id": "nt-11866"
+    }
+  ],
+  "metadata": {
+    "title": "1918–19 Ottawa Senators season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11446537&oldid=562112576",
+    "tableIndex": 2,
+    "hashcode": "e9c0ebe32c66ecdabddcd6faeb7956dec7bf736b",
+    "id": 11446537,
+    "revision": 562112576
+  }
+}

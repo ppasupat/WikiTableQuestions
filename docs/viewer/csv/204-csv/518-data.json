@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Akakios Kakiasvilis (GRE)",
+      "utterance": "which competitor lifted the most amount of weight?",
+      "id": "nt-527"
+    },
+    {
+      "targetValue": "407 kg",
+      "utterance": "how many kg at most were listed in the asian record category?",
+      "id": "nt-2106"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of polish nationals who hold world records?",
+      "id": "nt-6277"
+    },
+    {
+      "targetValue": "232 kg",
+      "utterance": "what is the total weight for the world record in clean and jerk?",
+      "id": "nt-6891"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many world record holders were from greece?",
+      "id": "nt-7005"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "did iiya illyin life more or less than 180 kg?",
+      "id": "nt-7853"
+    },
+    {
+      "targetValue": "World Record",
+      "utterance": "what type of record group is above the asian record group?",
+      "id": "nt-8305"
+    },
+    {
+      "targetValue": "Bakhyt Akhmetov (KAZ)",
+      "utterance": "which record is older, ilyin's or akhmetov's?",
+      "id": "nt-10306"
+    },
+    {
+      "targetValue": "Ilya Ilyin (KAZ)",
+      "utterance": "the clean & jerk in the games record and the clean & jerk in the asian record was held by who?",
+      "id": "nt-13780"
+    }
+  ],
+  "metadata": {
+    "title": "Weightlifting at the 2010 Asian Games – Men's 94 kg",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=38092699&oldid=585528888",
+    "tableIndex": 1,
+    "hashcode": "8362b80989fab465b51cb7e3be1c2da6c3d03008",
+    "id": 38092699,
+    "revision": 585528888
+  }
+}

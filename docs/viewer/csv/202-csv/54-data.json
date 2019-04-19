@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many songs were on the mtv taiwan top 20 chart?",
+      "id": "nt-307"
+    },
+    {
+      "targetValue": "Super Star",
+      "utterance": "which song has the longest weeks on global asia's top 15 chart?",
+      "id": "nt-5626"
+    },
+    {
+      "targetValue": "Half-Sugarism",
+      "utterance": "which song had the most weeks on the ufo radio top 15 chart?",
+      "id": "nt-12760"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many weeks was the song far away on the ufo top list?",
+      "id": "nt-13228"
+    }
+  ],
+  "metadata": {
+    "title": "Super Star (S.H.E album)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3122253&oldid=565768957",
+    "tableIndex": 1,
+    "hashcode": "fa76e6ba878650fc5720cbad71191b613f8546ea",
+    "id": 3122253,
+    "revision": 565768957
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Eugène Bernain",
+      "utterance": "who served the most years as mayor?",
+      "id": "nt-1609"
+    },
+    {
+      "targetValue": "Alain Lamassoure",
+      "utterance": "what mayor of anglet town served for the same number of years as daubin?",
+      "id": "nt-2174"
+    },
+    {
+      "targetValue": "Robert Villenave",
+      "utterance": "other than daubin who else was as mayor for same time period of 7 years",
+      "id": "nt-2346"
+    },
+    {
+      "targetValue": "2 years",
+      "utterance": "how long was daubin in office?",
+      "id": "nt-3416"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what are the number of mayors that were of the udf party?",
+      "id": "nt-5650"
+    },
+    {
+      "targetValue": "Albert Le Barillier",
+      "utterance": "which mayor was in office the least amount of years?",
+      "id": "nt-6080"
+    },
+    {
+      "targetValue": "UDF",
+      "utterance": "which party won the most number of time?",
+      "id": "nt-6832"
+    },
+    {
+      "targetValue": "Alain Lamassoure",
+      "utterance": "which mayor was for the least time period as mayor position?",
+      "id": "nt-8880"
+    },
+    {
+      "targetValue": [
+        "Victor Mendiboure",
+        "Michel Bonnet",
+        "Alain Lamassoure",
+        "Robert Villenave"
+      ],
+      "utterance": "name each of the mayors of the udf party who won the elections",
+      "id": "nt-8903"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many mayors of anglet town served for longer than the previous mayor?",
+      "id": "nt-13363"
+    }
+  ],
+  "metadata": {
+    "title": "Anglet",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2431503&oldid=594620787",
+    "tableIndex": 1,
+    "hashcode": "c8d8cee44fffb6648e67dfe198036f2d21562acd",
+    "id": 2431503,
+    "revision": 594620787
+  }
+}

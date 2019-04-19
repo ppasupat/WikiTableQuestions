@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "9",
+      "utterance": "total number of boxing fights that went to a decision",
+      "id": "nt-3207"
+    },
+    {
+      "targetValue": "second",
+      "utterance": "were there more rounds in the second match or the third match?",
+      "id": "nt-3836"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many knockouts, including tkos, does adnan redzovic have in boxing",
+      "id": "nt-6812"
+    },
+    {
+      "targetValue": "04/13/2012",
+      "utterance": "on which date was the match with the smallest number of rounds?",
+      "id": "nt-8916"
+    },
+    {
+      "targetValue": "Ergin Solmaz",
+      "utterance": "what is the name of the last opponent on this chart?",
+      "id": "nt-10346"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many rounds did the boxing fight against alexander vasiliev take?",
+      "id": "nt-10872"
+    },
+    {
+      "targetValue": "Sarajevo, Bosnia and Herzegovina",
+      "utterance": "which location is listed the most according to this chart?",
+      "id": "nt-11260"
+    },
+    {
+      "targetValue": "Decision",
+      "utterance": "which method is listed the least?",
+      "id": "nt-13238"
+    }
+  ],
+  "metadata": {
+    "title": "Adnan Redžović",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=28121349&oldid=592512741",
+    "tableIndex": 1,
+    "hashcode": "13efa8b079d93013778a6fde6f826a2ca13cc1b0",
+    "id": 28121349,
+    "revision": 592512741
+  }
+}

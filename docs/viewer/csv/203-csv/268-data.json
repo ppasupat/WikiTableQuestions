@@ -1,0 +1,66 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many ships were attacked by u-502 but not sunk?",
+      "id": "nt-1140"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many countries had at least 10,000 tons of total shipping sunk?",
+      "id": "nt-5556"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many united kingdom ships were sunk after 1941?",
+      "id": "nt-7182"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "what country lost the most ships to u-502?",
+      "id": "nt-7820"
+    },
+    {
+      "targetValue": [
+        "United Kingdom",
+        "Venezuela",
+        "Panama",
+        "Brazil",
+        "Belgium"
+      ],
+      "utterance": "other than the united states, what other nationality were the submarines?",
+      "id": "nt-8561"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many submarines have a tonnage above 4,000?",
+      "id": "nt-8935"
+    },
+    {
+      "targetValue": [
+        "Svend Foyn",
+        "Sun"
+      ],
+      "utterance": "what where the only two submarines that where only damaged?",
+      "id": "nt-9102"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many submarines were sunk?",
+      "id": "nt-10141"
+    },
+    {
+      "targetValue": "Monagas",
+      "utterance": "the only submarine from venezuela was named what?",
+      "id": "nt-11062"
+    }
+  ],
+  "metadata": {
+    "title": "German submarine U-502",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6479098&oldid=594985417",
+    "tableIndex": 0,
+    "hashcode": "e2c7a3f0398accc52e991cb7f06771ffba72bccc",
+    "id": 6479098,
+    "revision": 594985417
+  }
+}

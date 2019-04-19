@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "1993",
+      "utterance": "what is the only year with the 1st position?",
+      "id": "nt-638"
+    },
+    {
+      "targetValue": "1993",
+      "utterance": "what year was their top performance?",
+      "id": "nt-1575"
+    },
+    {
+      "targetValue": "Östra Svealand",
+      "utterance": "what section did they play in the most?",
+      "id": "nt-4095"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "in total, how many times were they promoted?",
+      "id": "nt-5232"
+    },
+    {
+      "targetValue": "1999",
+      "utterance": "they placed third in 2003. when did they place third before that?",
+      "id": "nt-6737"
+    },
+    {
+      "targetValue": "Relegated",
+      "utterance": "what is listed under the movements column of the last season?",
+      "id": "nt-8725"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what are the number of times norra was listed as the section?",
+      "id": "nt-8746"
+    },
+    {
+      "targetValue": "2002",
+      "utterance": "which year was more successful, 2007 or 2002?",
+      "id": "nt-9489"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many times did they finish above 5th place in division 2 tier 3?",
+      "id": "nt-10610"
+    },
+    {
+      "targetValue": "2007",
+      "utterance": "what year is at least on the list?",
+      "id": "nt-11173"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many times is division 2 listed as the division?",
+      "id": "nt-12061"
+    },
+    {
+      "targetValue": "1993",
+      "utterance": "in what season did visby if gute fk finish first in division 2 tier 3?",
+      "id": "nt-12879"
+    },
+    {
+      "targetValue": "better",
+      "utterance": "in 2000 they finished 9th in their division, did they perform better or worse the next season?",
+      "id": "nt-14131"
+    }
+  ],
+  "metadata": {
+    "title": "FC Gute",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=28843248&oldid=579659816",
+    "tableIndex": 0,
+    "hashcode": "f56c4d141c398004c9bf199a9fa72f643d799146",
+    "id": 28843248,
+    "revision": 579659816
+  }
+}

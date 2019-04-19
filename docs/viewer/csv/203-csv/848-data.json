@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "what's the total of grass and hard surfaces listed?",
+      "id": "nt-1607"
+    },
+    {
+      "targetValue": "Danie Visser",
+      "utterance": "who is the last partner listed?",
+      "id": "nt-2205"
+    }
+  ],
+  "metadata": {
+    "title": "Christo Steyn",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19401556&oldid=543115072",
+    "tableIndex": 0,
+    "hashcode": "50fa3fc621a2c12f4d6dc97139b5bbdf7b6eef84",
+    "id": 19401556,
+    "revision": 543115072
+  }
+}

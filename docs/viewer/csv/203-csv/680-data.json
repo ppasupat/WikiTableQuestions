@@ -1,0 +1,38 @@
+{
+  "examples": [
+    {
+      "targetValue": "Syracuse",
+      "utterance": "which team has the largest margin of victory in an aloha bowl game?",
+      "id": "nt-1216"
+    },
+    {
+      "targetValue": [
+        "Boston College",
+        "Arizona State"
+      ],
+      "utterance": "which teams played in the last aloha bowl?",
+      "id": "nt-5124"
+    },
+    {
+      "targetValue": "94",
+      "utterance": "what is the largest total number of points scored by both teams in an aloha bowl game?",
+      "id": "nt-10830"
+    },
+    {
+      "targetValue": [
+        "Syracuse",
+        "Arizona"
+      ],
+      "utterance": "which teams were playing in the game with the least amount of people in attendance?",
+      "id": "nt-13987"
+    }
+  ],
+  "metadata": {
+    "title": "Aloha Bowl",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=607205&oldid=579441823",
+    "tableIndex": 0,
+    "hashcode": "028ea4862607175de23d048ae06dff131abc860f",
+    "id": 607205,
+    "revision": 579441823
+  }
+}

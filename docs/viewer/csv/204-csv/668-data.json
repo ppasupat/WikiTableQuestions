@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "Jaafar Mohamed",
+      "utterance": "who was the first to take office?",
+      "id": "nt-92"
+    },
+    {
+      "targetValue": "Syed Abdul Kadir Mohamed",
+      "utterance": "who is listed below onn jaafar?",
+      "id": "nt-1530"
+    },
+    {
+      "targetValue": "Mohamed Mahbob",
+      "utterance": "who was in office previous to abdullah jaafar?",
+      "id": "nt-1573"
+    },
+    {
+      "targetValue": "Mustapha Jaafar",
+      "utterance": "other than abullah jaafar, name someone with the same last name.",
+      "id": "nt-2861"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many years was jaafar mohamed in office?",
+      "id": "nt-3222"
+    },
+    {
+      "targetValue": "August 31, 1957",
+      "utterance": "what was the date the last person on the list left office?",
+      "id": "nt-4666"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the number of menteri besars that there have been during the pre-independence period?",
+      "id": "nt-4704"
+    },
+    {
+      "targetValue": "Ungku Abdul Aziz Abdul Majid",
+      "utterance": "who spend the most amount of time in office?",
+      "id": "nt-6431"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of menteri besar that served 4 or more years?",
+      "id": "nt-6998"
+    },
+    {
+      "targetValue": "Mustapha Jaafar",
+      "utterance": "who took office after abdullah jaafar?",
+      "id": "nt-8485"
+    },
+    {
+      "targetValue": "Abdul Hamid Yusof",
+      "utterance": "who was in office after mustapha jaafar",
+      "id": "nt-9232"
+    },
+    {
+      "targetValue": "12 years",
+      "utterance": "how long did ungku abdul aziz abdul majid serve?",
+      "id": "nt-10057"
+    },
+    {
+      "targetValue": "Syed Abdul Kadir Mohamed",
+      "utterance": "who took office after onn jaafar?",
+      "id": "nt-11818"
+    },
+    {
+      "targetValue": "Mohamed Mahbob",
+      "utterance": "name someone who was not in office more than 4 years.",
+      "id": "nt-13282"
+    }
+  ],
+  "metadata": {
+    "title": "Menteri Besar of Johor",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=31511216&oldid=573502794",
+    "tableIndex": 0,
+    "hashcode": "2d20858719133fb1de594fd6f0bd7fbb66821981",
+    "id": 31511216,
+    "revision": 573502794
+  }
+}

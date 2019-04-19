@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Inter-Cities Fairs Cup",
+      "utterance": "what is the name of the first competition listed?",
+      "id": "nt-2515"
+    },
+    {
+      "targetValue": "UEFA Cup",
+      "utterance": "name the competition that occured directly after the european cup in 1985-86.",
+      "id": "nt-2581"
+    },
+    {
+      "targetValue": "Athlone Town",
+      "utterance": "what opponent is listed nest to r1 in the uefa cup?",
+      "id": "nt-2808"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many matches were in 2005-2006?",
+      "id": "nt-4070"
+    },
+    {
+      "targetValue": "Austria Wien",
+      "utterance": "who was their last opponent in the uefa cup in the 2007-2008 season?",
+      "id": "nt-5395"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many european cups has this team been a part of?",
+      "id": "nt-8322"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many different competitions are listed?",
+      "id": "nt-10301"
+    },
+    {
+      "targetValue": "European Cup",
+      "utterance": "what competition came after the inter-cities fairs cup?",
+      "id": "nt-12320"
+    }
+  ],
+  "metadata": {
+    "title": "Vålerenga Fotball",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=337678&oldid=602414739",
+    "tableIndex": 2,
+    "hashcode": "824c5550fa8134fb4cdd14f6bbf967194b2722f6",
+    "id": 337678,
+    "revision": 602414739
+  }
+}

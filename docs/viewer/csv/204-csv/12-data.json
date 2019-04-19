@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "yes",
+      "utterance": "does cbs serve at least 5 areas?",
+      "id": "nt-5257"
+    },
+    {
+      "targetValue": "Indianapolis",
+      "utterance": "which is the only city of license to carry the daystar network?",
+      "id": "nt-6700"
+    },
+    {
+      "targetValue": "Indianapolis",
+      "utterance": "which area has the largest number of stations serving it?",
+      "id": "nt-7141"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "does evansville have more than 4 stations?",
+      "id": "nt-7479"
+    },
+    {
+      "targetValue": "WXIN",
+      "utterance": "other than whmb, tell me a station that serves and is licensed in indianapolis and has a vc higher than 40.",
+      "id": "nt-8281"
+    },
+    {
+      "targetValue": "Indianapolis",
+      "utterance": "which city is served by the most full-power stations?",
+      "id": "nt-8958"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of stations serving terre haute?",
+      "id": "nt-11913"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "tell me the number of stations licensed in fort wayne.",
+      "id": "nt-13043"
+    }
+  ],
+  "metadata": {
+    "title": "List of television stations in Indiana",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2114042&oldid=578007196",
+    "tableIndex": 0,
+    "hashcode": "4161acbcce0659a002db2deb2cdb04b5647efc7f",
+    "id": 2114042,
+    "revision": 578007196
+  }
+}

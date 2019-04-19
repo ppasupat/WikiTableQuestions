@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "in how many games did this team have more than 80 points?",
+      "id": "nt-557"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many games were not played at araneta coliseum?",
+      "id": "nt-936"
+    },
+    {
+      "targetValue": "Singson",
+      "utterance": "who scored more points, hrabak or singson?",
+      "id": "nt-2001"
+    },
+    {
+      "targetValue": "Governor's Cup",
+      "utterance": "which cup happened before the commissioner's cup?",
+      "id": "nt-3875"
+    },
+    {
+      "targetValue": "70",
+      "utterance": "how many total points did askia jones score at the araneta coliseum?",
+      "id": "nt-6438"
+    },
+    {
+      "targetValue": "Commissioner's Cup",
+      "utterance": "what cup was held after the governor's cup?",
+      "id": "nt-8082"
+    },
+    {
+      "targetValue": "Commissioner's Cup",
+      "utterance": "what was the next cup this team went to after the governor's cup this season?",
+      "id": "nt-9624"
+    },
+    {
+      "targetValue": "Askia Jones",
+      "utterance": "this team faced sta. lucia and had who as their top scorer which was the same top scoerer as their game against coca cola?",
+      "id": "nt-11459"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many games took place in the araneta coliseum?",
+      "id": "nt-11775"
+    }
+  ],
+  "metadata": {
+    "title": "2002 Shell Turbo Chargers season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33789545&oldid=576063053",
+    "tableIndex": 1,
+    "hashcode": "45723db8fdd8426bbff7536b1a889c231a79156d",
+    "id": 33789545,
+    "revision": 576063053
+  }
+}

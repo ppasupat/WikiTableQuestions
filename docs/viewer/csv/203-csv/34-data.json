@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "2008",
+      "utterance": "in 2001 and what other year did he have 55 points?",
+      "id": "nt-578"
+    },
+    {
+      "targetValue": "2001",
+      "utterance": "what year did the bulldogs make the greatest number of tries",
+      "id": "nt-1443"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many seasons did the teams score above 40 points?",
+      "id": "nt-2713"
+    },
+    {
+      "targetValue": "2003",
+      "utterance": "in what year did the bulldogs make their 19th appearance?",
+      "id": "nt-4519"
+    },
+    {
+      "targetValue": "608",
+      "utterance": "how many total points were score over all the seasons?",
+      "id": "nt-5370"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many interchanges were recorded from 2000 to 2005",
+      "id": "nt-5532"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many more goals did he have in 2009 than 2005?",
+      "id": "nt-6670"
+    },
+    {
+      "targetValue": "2012",
+      "utterance": "there were years where he had 0 goals but was year did he have the most goals?",
+      "id": "nt-8389"
+    },
+    {
+      "targetValue": "2009",
+      "utterance": "which season has the least number of appearances?",
+      "id": "nt-8581"
+    },
+    {
+      "targetValue": "1.75",
+      "utterance": "what is the average of all 14 interchanges?",
+      "id": "nt-9508"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "how many appearances did he have in 2001?",
+      "id": "nt-10123"
+    },
+    {
+      "targetValue": "Roosters",
+      "utterance": "which team name had the most goals in a year (bulldogs, roosters, tigers)",
+      "id": "nt-13481"
+    }
+  ],
+  "metadata": {
+    "title": "Braith Anasta",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2729935&oldid=601759318",
+    "tableIndex": 0,
+    "hashcode": "eb1016df4940e6e3f4023fb3e03b292059266225",
+    "id": 2729935,
+    "revision": 601759318
+  }
+}

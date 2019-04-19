@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "11",
+      "utterance": "what were the total number of license plates that featured the black embossed numbers on it?",
+      "id": "nt-279"
+    },
+    {
+      "targetValue": "1913",
+      "utterance": "in what year was the only baseplate with a white background issued?",
+      "id": "nt-1763"
+    },
+    {
+      "targetValue": "New Jersey",
+      "utterance": "each baseplate is from which american state?",
+      "id": "nt-7371"
+    },
+    {
+      "targetValue": "2007",
+      "utterance": "what only year was security threads added to baseplates?",
+      "id": "nt-8463"
+    },
+    {
+      "targetValue": [
+        "1913",
+        "1933"
+      ],
+      "utterance": "which baseplates has the most numbers?",
+      "id": "nt-8762"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many baseplates have a slogan?",
+      "id": "nt-10199"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many license plates were issued before 1960?",
+      "id": "nt-10680"
+    },
+    {
+      "targetValue": "1913",
+      "utterance": "when was the first baseplate issued?",
+      "id": "nt-10907"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "what year was the last license plate issued?",
+      "id": "nt-11576"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "what were the number of license plates that had a slogan according to this chart?",
+      "id": "nt-13262"
+    }
+  ],
+  "metadata": {
+    "title": "Vehicle registration plates of New Jersey",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16735553&oldid=601502492",
+    "tableIndex": 0,
+    "hashcode": "829ddf553b415aad12240af1c10d6486c827d2a1",
+    "id": 16735553,
+    "revision": 601502492
+  }
+}

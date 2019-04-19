@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "Renaissance",
+      "utterance": "what was the earliest album?",
+      "id": "nt-7562"
+    }
+  ],
+  "metadata": {
+    "title": "Renaissance (band)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=236128&oldid=600647606",
+    "tableIndex": 0,
+    "hashcode": "1ba2f8749b17e84a3aa4e98f2b3a6a8e217a0617",
+    "id": 236128,
+    "revision": 600647606
+  }
+}

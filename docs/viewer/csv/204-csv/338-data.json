@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "9",
+      "utterance": "what is the total number of locations?",
+      "id": "nt-3364"
+    },
+    {
+      "targetValue": "-2005",
+      "utterance": "what year built is at the top?",
+      "id": "nt-3824"
+    },
+    {
+      "targetValue": "3 years",
+      "utterance": "how long did it take the pionersky radar station to go from partially operational to fully operational?",
+      "id": "nt-4624"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many voronezh radars are in kaliningrad or in krasnodar?",
+      "id": "nt-4985"
+    },
+    {
+      "targetValue": "Lekhtusi Radar Station, Leningrad Oblast",
+      "utterance": "what is the only location with a coordination of 60°16&#8242;31.65&#8243;n 30°32&#8242;45.66&#8243;e / 60.2754583°n 30.5460167°e?",
+      "id": "nt-7669"
+    },
+    {
+      "targetValue": "Armavir Radar Station, Krasnodar",
+      "utterance": "which site has the most radars?",
+      "id": "nt-10131"
+    },
+    {
+      "targetValue": "Pechora Radar Station, Komi",
+      "utterance": "what is the only radar that will start in 2015?",
+      "id": "nt-11187"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many voronezh radars were built before 2010?",
+      "id": "nt-11700"
+    }
+  ],
+  "metadata": {
+    "title": "Voronezh radar",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=34322027&oldid=593289284",
+    "tableIndex": 0,
+    "hashcode": "5e10b7a0302b870f3b4568b2b6563f2b5dbdfa4e",
+    "id": 34322027,
+    "revision": 593289284
+  }
+}

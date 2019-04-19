@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "1985",
+      "utterance": "which year had the most releases?",
+      "id": "nt-994"
+    },
+    {
+      "targetValue": "Worldwide",
+      "utterance": "which country or region had the most releases?",
+      "id": "nt-2868"
+    },
+    {
+      "targetValue": "June 10, 1985",
+      "utterance": "what was the date of the first vinyl lp release?",
+      "id": "nt-4468"
+    },
+    {
+      "targetValue": "Australia",
+      "utterance": "name another region for the 1985 release other than greece.",
+      "id": "nt-5388"
+    },
+    {
+      "targetValue": "United Kingdom",
+      "utterance": "which is the only region with vinyl lp format?",
+      "id": "nt-5502"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many times was the album released?",
+      "id": "nt-6024"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "which region has more than one format?",
+      "id": "nt-8912"
+    },
+    {
+      "targetValue": "Europe",
+      "utterance": "which region was the last to release?",
+      "id": "nt-9504"
+    },
+    {
+      "targetValue": [
+        "I.R.S.",
+        "Illegal"
+      ],
+      "utterance": "name at least two labels that released the group's albums.",
+      "id": "nt-10092"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many more releases were in compact disc format than cassette tape?",
+      "id": "nt-10664"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the greatest consecutive amount of releases in lp format?",
+      "id": "nt-10852"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "in how many countries was the album released before 1990?",
+      "id": "nt-12088"
+    }
+  ],
+  "metadata": {
+    "title": "Fables of the Reconstruction",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=671562&oldid=591734850",
+    "tableIndex": 1,
+    "hashcode": "5389a8a7def69b33ad3650647f77eaebbba9c097",
+    "id": 671562,
+    "revision": 591734850
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "how many players are australian?",
+      "id": "nt-1350"
+    },
+    {
+      "targetValue": "28",
+      "utterance": "how many players were not signed from the academy?",
+      "id": "nt-4207"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the total number of players from canada on the squad in 2011-2012?",
+      "id": "nt-4428"
+    },
+    {
+      "targetValue": "Leonardo Burián",
+      "utterance": "who is older--leonardo burian or darwin torres?",
+      "id": "nt-9858"
+    },
+    {
+      "targetValue": "Andrés Scotti",
+      "utterance": "who was the oldest player on the squad in the 2011-12 season?",
+      "id": "nt-10090"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "what is the total number of \"df\" positions on the list?",
+      "id": "nt-10627"
+    },
+    {
+      "targetValue": "Tabaré Viudez",
+      "utterance": "name a player who is from uruguay but was signed from mexico.",
+      "id": "nt-12330"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "how many players are reserve team players?",
+      "id": "nt-12904"
+    },
+    {
+      "targetValue": "Alexis Rolin",
+      "utterance": "what name comes after santiago romero's name on the list?",
+      "id": "nt-12924"
+    }
+  ],
+  "metadata": {
+    "title": "2011–12 Club Nacional de Football season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=32119176&oldid=587488092",
+    "tableIndex": 0,
+    "hashcode": "24dbc9175708775138a2e01aa73d39b359aacfe2",
+    "id": 32119176,
+    "revision": 587488092
+  }
+}

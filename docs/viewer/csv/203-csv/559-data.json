@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "James Lee Goddard, M.D.",
+      "utterance": "who became commissioner after george p. larrick?",
+      "id": "nt-190"
+    },
+    {
+      "targetValue": "Lester Mills Crawford, D.V.M., Ph.D.",
+      "utterance": "who was in office for the least amount of time?",
+      "id": "nt-1599"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many total commissioner were there between 1970-1985?",
+      "id": "nt-1916"
+    },
+    {
+      "targetValue": "Walter Gilbert Campbell",
+      "utterance": "who was in office for the most amount of time?",
+      "id": "nt-5446"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many commissioners served under calvin coolidge?",
+      "id": "nt-9374"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "how many commissioners have there been?",
+      "id": "nt-9970"
+    },
+    {
+      "targetValue": "Jane Ellen Henney, M.D.",
+      "utterance": "besides david aaron kessler, what other person was in office under bill clinton?",
+      "id": "nt-11620"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many commissioners of food and drugs did george w bush appoint?",
+      "id": "nt-12938"
+    },
+    {
+      "targetValue": "Harvey Washington Wiley, M.D.",
+      "utterance": "who was the first commissioner of food and drug, appointed in january 1907?",
+      "id": "nt-13571"
+    }
+  ],
+  "metadata": {
+    "title": "Commissioner of Food and Drugs",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17303026&oldid=602036802",
+    "tableIndex": 0,
+    "hashcode": "ab7736470c71a09d496d71cb2b1ea00a8a353f8e",
+    "id": 17303026,
+    "revision": 602036802
+  }
+}

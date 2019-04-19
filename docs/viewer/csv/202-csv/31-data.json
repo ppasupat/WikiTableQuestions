@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "Penny Black",
+      "utterance": "when was the last album of this band recorded?",
+      "id": "nt-3817"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many albums has this band released?",
+      "id": "nt-3837"
+    },
+    {
+      "targetValue": "How to Start a Fire",
+      "utterance": "which album is the best performing on the us charts?",
+      "id": "nt-4758"
+    }
+  ],
+  "metadata": {
+    "title": "Further Seems Forever",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=406170&oldid=598485766",
+    "tableIndex": 0,
+    "hashcode": "2e1c75a62fe9f6fb7ecb3e01653a6863d84839cb",
+    "id": 406170,
+    "revision": 598485766
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many placed in the t4 category?",
+      "id": "nt-2488"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what are the total number of distinct countries?",
+      "id": "nt-2497"
+    },
+    {
+      "targetValue": "206",
+      "utterance": "the countries of the united states and denmark where the only two countries represented that shot under what score?",
+      "id": "nt-2664"
+    },
+    {
+      "targetValue": "Thomas Bjørn",
+      "utterance": "who was the only other besides david duval in the t2 category?",
+      "id": "nt-5041"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many american players were there",
+      "id": "nt-8027"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many players are below tiger woods",
+      "id": "nt-9301"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many players were ranked on top of darren clarke",
+      "id": "nt-9958"
+    },
+    {
+      "targetValue": "208",
+      "utterance": "what was ernie els total score?",
+      "id": "nt-10142"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many times does tiger woods appear in the list?",
+      "id": "nt-11530"
+    },
+    {
+      "targetValue": "67",
+      "utterance": "what score did tiger woods achieve in his third round?",
+      "id": "nt-14134"
+    }
+  ],
+  "metadata": {
+    "title": "2000 Open Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18027810&oldid=585931864",
+    "tableIndex": 5,
+    "hashcode": "6262145dbd99b6bb816b5fa5ed9146b7659ed0e6",
+    "id": 18027810,
+    "revision": 585931864
+  }
+}

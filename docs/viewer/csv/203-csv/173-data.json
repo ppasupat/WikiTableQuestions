@@ -1,0 +1,69 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "what was the number of television shows that sharad kelkar co-stared with keerti gaekwad?",
+      "id": "nt-3458"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many shows were on zee tv?",
+      "id": "nt-4211"
+    },
+    {
+      "targetValue": "Shaitaan - A Criminal Mind",
+      "utterance": "what was kelkar's last role?",
+      "id": "nt-4650"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times did kelkar play himself?",
+      "id": "nt-5398"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "on how many shows did he play himself?",
+      "id": "nt-7431"
+    },
+    {
+      "targetValue": "Saat Phere",
+      "utterance": "which show ran the longest?",
+      "id": "nt-10225"
+    },
+    {
+      "targetValue": [
+        "Saat Phere",
+        "Sarvggun Sampanna",
+        "Bairi Piya",
+        "Sinndoor Tere Naam Ka",
+        "Uttaran",
+        "Kuch Toh Log Kahenge"
+      ],
+      "utterance": "what is the names of the shows in which sharad kelkar was not himself?",
+      "id": "nt-10329"
+    },
+    {
+      "targetValue": "Saat Phere",
+      "utterance": "did he act longer on sinndoor tere naam ka or saat phere?",
+      "id": "nt-11283"
+    },
+    {
+      "targetValue": "Nach Baliye 2",
+      "utterance": "what was the only show that ran on the channel star one?",
+      "id": "nt-12419"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many shows did he play someone else?",
+      "id": "nt-13899"
+    }
+  ],
+  "metadata": {
+    "title": "Sharad Kelkar",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16811168&oldid=592160101",
+    "tableIndex": 0,
+    "hashcode": "f21fa4b7d676946f6889c3e6342baf99cfe83a13",
+    "id": 16811168,
+    "revision": 592160101
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of teams located in bobruisk?",
+      "id": "nt-1941"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what were the total amount of times minsk is listed as a location?",
+      "id": "nt-4327"
+    },
+    {
+      "targetValue": "Obuvshchik",
+      "utterance": "what was the name of the last team listed on this chart?",
+      "id": "nt-6413"
+    },
+    {
+      "targetValue": "Torpedo, Mogilev",
+      "utterance": "the spartak, bobruisk venue is has a larger capacity than which other venues?",
+      "id": "nt-7892"
+    },
+    {
+      "targetValue": "Dinamo Minsk",
+      "utterance": "which team held first position during the 1993-94 season?",
+      "id": "nt-9811"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many venues did the league play during this particular season?",
+      "id": "nt-11032"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many teams are located in minsk?",
+      "id": "nt-11093"
+    },
+    {
+      "targetValue": "14600",
+      "utterance": "what is the capacity of central vitebsk and neman combined?",
+      "id": "nt-13187"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many venues had a capacity of at least 10,000?",
+      "id": "nt-13505"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of teams located in minsk?",
+      "id": "nt-14002"
+    }
+  ],
+  "metadata": {
+    "title": "1994–95 Belarusian Premier League",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14745005&oldid=565613122",
+    "tableIndex": 0,
+    "hashcode": "2068122c568f856ebfaa67d0884baefbc9e4dbbc",
+    "id": 14745005,
+    "revision": 565613122
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "15",
+      "utterance": "what is the total number of awards the lion king has won?",
+      "id": "nt-165"
+    },
+    {
+      "targetValue": "The Phantom of the Opera",
+      "utterance": "which title has the largest number of performances?",
+      "id": "nt-643"
+    },
+    {
+      "targetValue": "Chicago",
+      "utterance": "does cats or chicago have the most comments?",
+      "id": "nt-1902"
+    },
+    {
+      "targetValue": "25585",
+      "utterance": "how many combined performances have the top three longest running broadway shows had?",
+      "id": "nt-2466"
+    },
+    {
+      "targetValue": "Torch Song Trilogy",
+      "utterance": "which production has the same number of performances as sleuth?",
+      "id": "nt-2814"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many awards did chicago win in 1997?",
+      "id": "nt-3398"
+    },
+    {
+      "targetValue": "53",
+      "utterance": "how many shows won drama desk awards?",
+      "id": "nt-4541"
+    },
+    {
+      "targetValue": [
+        "A Chorus Line",
+        "Avenue Q"
+      ],
+      "utterance": "which were the only two longest running shows to open in july?",
+      "id": "nt-4727"
+    },
+    {
+      "targetValue": "The Phantom of the Opera",
+      "utterance": "which production is the longest running broadway show?",
+      "id": "nt-7812"
+    },
+    {
+      "targetValue": "Lightnin'",
+      "utterance": "which show had the earliest opening date?",
+      "id": "nt-8782"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of tony awards that 42nd street has won?",
+      "id": "nt-9220"
+    }
+  ],
+  "metadata": {
+    "title": "List of the longest-running Broadway shows",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16674268&oldid=601859043",
+    "tableIndex": 0,
+    "hashcode": "5e7bcf9c15074abbe656d303cae4d7ba8d97e85b",
+    "id": 16674268,
+    "revision": 601859043
+  }
+}

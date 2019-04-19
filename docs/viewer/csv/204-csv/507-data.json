@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "17",
+      "utterance": "how many bridges are longer than 200 feet?",
+      "id": "nt-418"
+    },
+    {
+      "targetValue": "Dry Canyon Creek Bridge",
+      "utterance": "what was the shortest bridge mccullough designed?",
+      "id": "nt-2950"
+    },
+    {
+      "targetValue": "Old Youngs Bay Bridge",
+      "utterance": "name a bridge whose length is above 1000 feet.",
+      "id": "nt-3596"
+    },
+    {
+      "targetValue": "Oregon City, Oregon",
+      "utterance": "the oregon city bridge and the john mcloughlin bridge are located where?",
+      "id": "nt-5634"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many bridges are 400 feet long at most?",
+      "id": "nt-7251"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many bridges are not as long as the ellsworth street bridge?",
+      "id": "nt-8102"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many bridges were built in 1931?",
+      "id": "nt-10282"
+    },
+    {
+      "targetValue": "Old Youngs Bay Bridge",
+      "utterance": "which bridge is longer, old youngs bay bridge or ellsworth street bridge?",
+      "id": "nt-11603"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many of mccullough's bridges were completed in 1922",
+      "id": "nt-13063"
+    },
+    {
+      "targetValue": "Old Youngs Bay Bridge",
+      "utterance": "which bridge is longer--old youngs bay bridge or oregon city bridge?",
+      "id": "nt-13356"
+    }
+  ],
+  "metadata": {
+    "title": "Conde McCullough",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2382370&oldid=557474991",
+    "tableIndex": 0,
+    "hashcode": "b0779aeca21ca9bee284b82fc7fdc78ab52c8289",
+    "id": 2382370,
+    "revision": 557474991
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Ogden Driskill",
+      "utterance": "which representative represented the most counties?",
+      "id": "nt-664"
+    },
+    {
+      "targetValue": "26",
+      "utterance": "how many times is the word republican on the list?",
+      "id": "nt-3188"
+    },
+    {
+      "targetValue": "26",
+      "utterance": "how many representatives are republican?",
+      "id": "nt-4275"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "gerald geis represents how many counties in total?",
+      "id": "nt-4515"
+    },
+    {
+      "targetValue": "Ogden Driskill",
+      "utterance": "which wyoming senator represented the most counties?",
+      "id": "nt-6354"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of democratic representatives?",
+      "id": "nt-7238"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many senators represent natrona county?",
+      "id": "nt-10391"
+    },
+    {
+      "targetValue": "Ogden Driskill",
+      "utterance": "this first district representative lives in devil's tower.",
+      "id": "nt-12869"
+    },
+    {
+      "targetValue": "R. Ray Peterson",
+      "utterance": "which representative is listed next after hank coe?",
+      "id": "nt-13128"
+    }
+  ],
+  "metadata": {
+    "title": "Wyoming Senate",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5617627&oldid=596563961",
+    "tableIndex": 2,
+    "hashcode": "4cb513cde75f3e25147230906bc626c10f40532c",
+    "id": 5617627,
+    "revision": 596563961
+  }
+}

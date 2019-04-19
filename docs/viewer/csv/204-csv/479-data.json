@@ -1,0 +1,50 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "how many defedants were arrested in december of 1955?",
+      "id": "nt-5105"
+    },
+    {
+      "targetValue": "Lewd conduct with a minor",
+      "utterance": "what was the charge against the defendant who was arrested after 1955?",
+      "id": "nt-5242"
+    },
+    {
+      "targetValue": [
+        "Ten years in prison",
+        "15 years in prison"
+      ],
+      "utterance": "vernon cassel and reginald shaffer was sentenced how many years?",
+      "id": "nt-5520"
+    },
+    {
+      "targetValue": "Charles Herbert Gordon",
+      "utterance": "which defendant received the same sentence as reginald shaffer?",
+      "id": "nt-8699"
+    },
+    {
+      "targetValue": "Paris Martin",
+      "utterance": "which is the only defendant who was tried and found not guilty?",
+      "id": "nt-9328"
+    },
+    {
+      "targetValue": "Melvin Dir",
+      "utterance": "who was arrested on jan 7,1956?",
+      "id": "nt-12362"
+    },
+    {
+      "targetValue": "Five years in prison",
+      "utterance": "how many years was gordon larsen convicted to?",
+      "id": "nt-12389"
+    }
+  ],
+  "metadata": {
+    "title": "Boise homosexuality scandal",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=22557308&oldid=583319651",
+    "tableIndex": 0,
+    "hashcode": "5360329ce4dea7833b9ccb9a2a508a0ad17eeddd",
+    "id": 22557308,
+    "revision": 583319651
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many girls were heavier at birth than chimaijem otto?",
+      "id": "nt-544"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many consecutive girls were born?",
+      "id": "nt-2458"
+    },
+    {
+      "targetValue": "Jioke",
+      "utterance": "who weighed the most?",
+      "id": "nt-4243"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many boys were born?",
+      "id": "nt-6338"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the total amount of names listed?",
+      "id": "nt-9503"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many names were not given to girls?",
+      "id": "nt-11415"
+    }
+  ],
+  "metadata": {
+    "title": "Chukwu octuplets",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11908801&oldid=596263783",
+    "tableIndex": 0,
+    "hashcode": "91b9295b2e3511f8a032891959c552611064f2e2",
+    "id": 11908801,
+    "revision": 596263783
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "examples": [
+    {
+      "targetValue": "Spain",
+      "utterance": "did italy or spain receive a greater number of silver medals?",
+      "id": "nt-905"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is russia's total number of non-gold medals?",
+      "id": "nt-1822"
+    },
+    {
+      "targetValue": "Turkey",
+      "utterance": "what country is listed before france?",
+      "id": "nt-2773"
+    },
+    {
+      "targetValue": "France",
+      "utterance": "who has the most bronze medals?",
+      "id": "nt-3297"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many more bronze medals does france have compared to russia?",
+      "id": "nt-3326"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "germany and the netherlands tied for what rank?",
+      "id": "nt-4460"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many total medals did germany win?",
+      "id": "nt-6242"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many gold medals does belgium, france, and turkey have total?",
+      "id": "nt-6560"
+    },
+    {
+      "targetValue": "Belgium",
+      "utterance": "which is the only country that has won 6 gold medals?",
+      "id": "nt-6758"
+    },
+    {
+      "targetValue": "France",
+      "utterance": "who was the only nation with more total medals than belgium?",
+      "id": "nt-7455"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many gold medals does poland have?",
+      "id": "nt-8705"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what was the total number of medals won by portugal?",
+      "id": "nt-10187"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "if a man's nationality was from belgium, how many medals total has his country won?",
+      "id": "nt-11402"
+    },
+    {
+      "targetValue": "France",
+      "utterance": "who won the most bronze medals?",
+      "id": "nt-13827"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the difference between germany and spains total medals?",
+      "id": "nt-13863"
+    }
+  ],
+  "metadata": {
+    "title": "1997 European Judo Championships",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11755180&oldid=576345872",
+    "tableIndex": 2,
+    "hashcode": "403e974b8f166ad0d5eef9dbb0f35f0c5fe2a23a",
+    "id": 11755180,
+    "revision": 576345872
+  }
+}

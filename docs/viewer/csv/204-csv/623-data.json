@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "KS Skenderbeu Korce",
+      "utterance": "which is before ks tomori",
+      "id": "nt-781"
+    },
+    {
+      "targetValue": "KS Bylis",
+      "utterance": "who had more draws, laci or bylis?",
+      "id": "nt-2830"
+    },
+    {
+      "targetValue": [
+        "KS Shkumbini",
+        "6"
+      ],
+      "utterance": "what comes after kf laçi and what is their wins",
+      "id": "nt-7072"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many opponents have the same number of draws as ks flamurtari?",
+      "id": "nt-7744"
+    },
+    {
+      "targetValue": "KS Elbasani",
+      "utterance": "name one team who was eliminatedat most twice",
+      "id": "nt-8225"
+    },
+    {
+      "targetValue": "KS Elbasani",
+      "utterance": "name one team that had the same amount of draws as losses",
+      "id": "nt-8236"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the average number of losses for the first three on the list?",
+      "id": "nt-9844"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "what is the number of losses for dinamo tiranë",
+      "id": "nt-12143"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many had more than 25 matches?",
+      "id": "nt-12158"
+    },
+    {
+      "targetValue": "195",
+      "utterance": "how many wins do the opponents have total?",
+      "id": "nt-12631"
+    },
+    {
+      "targetValue": "1.625",
+      "utterance": "what is the average number of losses an opponent has?",
+      "id": "nt-13300"
+    }
+  ],
+  "metadata": {
+    "title": "KF Tirana Statistics in Albanian Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33856354&oldid=596761187",
+    "tableIndex": 2,
+    "hashcode": "2fc8c943cbaa066fd7be4b2709c70a1c6943e1cf",
+    "id": 33856354,
+    "revision": 596761187
+  }
+}

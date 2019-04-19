@@ -1,0 +1,76 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many times was macau the opponent?",
+      "id": "nt-494"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many games did the winning team score above 3 points?",
+      "id": "nt-1298"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what were the most points scored by the losing team?",
+      "id": "nt-2505"
+    },
+    {
+      "targetValue": [
+        "Costa Rica",
+        "Uzbekistan",
+        "Macau",
+        "South Korea"
+      ],
+      "utterance": "which opponents scored no goals?",
+      "id": "nt-4570"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many points did saudi arabia score in 2000?",
+      "id": "nt-5687"
+    },
+    {
+      "targetValue": [
+        "1997-03-25",
+        "1997-06-22",
+        "1997-11-01"
+      ],
+      "utterance": "when did their world cup games take place?",
+      "id": "nt-8316"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the number of wins?",
+      "id": "nt-9293"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the least points scored by the winning team?",
+      "id": "nt-10204"
+    },
+    {
+      "targetValue": "Kyoto, Japan",
+      "utterance": "what was the first venue played on this table?",
+      "id": "nt-10750"
+    },
+    {
+      "targetValue": "Muscat, Oman",
+      "utterance": "in which venue was the score the same as the 10-0 score in tokyo, japan?",
+      "id": "nt-13325"
+    },
+    {
+      "targetValue": "2000-10-24",
+      "utterance": "when was the last time he scored an international goal?",
+      "id": "nt-13657"
+    }
+  ],
+  "metadata": {
+    "title": "Hiroshi Nanami",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1637082&oldid=588189696",
+    "tableIndex": 2,
+    "hashcode": "eae19f2f4f52e341a26a750620ddbe91fa288bfd",
+    "id": 1637082,
+    "revision": 588189696
+  }
+}

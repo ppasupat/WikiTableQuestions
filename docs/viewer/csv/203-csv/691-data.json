@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "15",
+      "utterance": "what week had the most attendance?",
+      "id": "nt-131"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what were the number of games scheduled in november?",
+      "id": "nt-1321"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the total number of losses?",
+      "id": "nt-1669"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the score difference for the game in week 10?",
+      "id": "nt-5583"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "other than against the 49ers how many wins were there?",
+      "id": "nt-6379"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what week was their last loss?",
+      "id": "nt-7383"
+    },
+    {
+      "targetValue": "24,940",
+      "utterance": "how much higher was the attendance in week 15 as compared to in week 14?",
+      "id": "nt-11144"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "who where the total wins for week 7?",
+      "id": "nt-11313"
+    },
+    {
+      "targetValue": "at Chicago Bears",
+      "utterance": "who would the next opponent be after week 4?",
+      "id": "nt-12305"
+    }
+  ],
+  "metadata": {
+    "title": "1987 New Orleans Saints season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16713026&oldid=589030424",
+    "tableIndex": 1,
+    "hashcode": "a11cc0cab7f957ca7042d4323f26ede8780fdb2e",
+    "id": 16713026,
+    "revision": 589030424
+  }
+}

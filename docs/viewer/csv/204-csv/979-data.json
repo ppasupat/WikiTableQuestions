@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Bulgaria",
+        "Spain"
+      ],
+      "utterance": "which two nations made the same score for 5 hoops and 3 balls, 2 ribbons?",
+      "id": "nt-799"
+    },
+    {
+      "targetValue": "Hungary",
+      "utterance": "tell me the only country to schore below 38 total points.",
+      "id": "nt-808"
+    },
+    {
+      "targetValue": "Hungary",
+      "utterance": "name of the last placed nation?",
+      "id": "nt-2171"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many teams score 19.000 or greater in the 5 hoops competition?",
+      "id": "nt-2395"
+    },
+    {
+      "targetValue": "Bulgaria",
+      "utterance": "who had a higher score in 3 balls, 2 ribbons, ukraine or bulgaria?",
+      "id": "nt-3628"
+    },
+    {
+      "targetValue": "Hungary",
+      "utterance": "what country had the least in the 5 hoops category",
+      "id": "nt-7345"
+    },
+    {
+      "targetValue": ".067",
+      "utterance": "what was the difference in the 5 hoops between bulgaria and belarus?",
+      "id": "nt-11558"
+    },
+    {
+      "targetValue": "Bulgaria",
+      "utterance": "what nation was the top scoring in the games?",
+      "id": "nt-12440"
+    },
+    {
+      "targetValue": "Belarus",
+      "utterance": "other than spain, name a country that beat russia overall.",
+      "id": "nt-13946"
+    }
+  ],
+  "metadata": {
+    "title": "1996 World Rhythmic Gymnastics Championships",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14842452&oldid=566834045",
+    "tableIndex": 4,
+    "hashcode": "6099c3293356a9c8078b6bf0579183d16a046042",
+    "id": 14842452,
+    "revision": 566834045
+  }
+}

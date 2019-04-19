@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "February 13, 2011",
+      "utterance": "on what date does gery chico have at least 23%?",
+      "id": "nt-965"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many candidates did not have a percentage in the september 8th poll?",
+      "id": "nt-1799"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many polls did dart win?",
+      "id": "nt-2343"
+    },
+    {
+      "targetValue": "We Ask America",
+      "utterance": "which poll source has the largest sample size?",
+      "id": "nt-2692"
+    },
+    {
+      "targetValue": "600",
+      "utterance": "what's the number of sample size do they use at the chicago sun-times?",
+      "id": "nt-3675"
+    },
+    {
+      "targetValue": "Rahm Emanuel",
+      "utterance": "who is the first candidate to have over 25%?",
+      "id": "nt-5637"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many candidates are listed?",
+      "id": "nt-7729"
+    },
+    {
+      "targetValue": "32%",
+      "utterance": "what was the average percentile at the chicago tribune who are voting for rahm emanuel?",
+      "id": "nt-10559"
+    },
+    {
+      "targetValue": "Chicago Tribune",
+      "utterance": "which poll source has the larger sample size, chicago sun-times or chicago tribune?",
+      "id": "nt-11019"
+    }
+  ],
+  "metadata": {
+    "title": "Chicago mayoral election, 2011",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=28769581&oldid=589225691",
+    "tableIndex": 0,
+    "hashcode": "c828693fe32410c9ec8de68beb1232ca400e723e",
+    "id": 28769581,
+    "revision": 589225691
+  }
+}

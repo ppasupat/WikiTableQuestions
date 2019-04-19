@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "11",
+      "utterance": "how many games did at least 1500 people attend?",
+      "id": "nt-58"
+    },
+    {
+      "targetValue": "Jan. 26",
+      "utterance": "at which date was the highest attendance recorded?",
+      "id": "nt-1439"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the total number of losses for the wisconsin badgers women's ice hockey team?",
+      "id": "nt-2086"
+    },
+    {
+      "targetValue": "Union",
+      "utterance": "who was the first team that the badgers faced this season?",
+      "id": "nt-2640"
+    },
+    {
+      "targetValue": "Vetter",
+      "utterance": "which goalie had the most saves?",
+      "id": "nt-2966"
+    },
+    {
+      "targetValue": "5 games",
+      "utterance": "how long did the badgers go before losing or tying their first game in the season?",
+      "id": "nt-3640"
+    },
+    {
+      "targetValue": "October",
+      "utterance": "in which month were more games played--september or october?",
+      "id": "nt-8651"
+    },
+    {
+      "targetValue": "Sept. 29",
+      "utterance": "which game did the wisconsin badgers women's ice hockey team win by the most points?",
+      "id": "nt-10168"
+    }
+  ],
+  "metadata": {
+    "title": "2007–08 Wisconsin Badgers women's ice hockey season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=27721295&oldid=569264639",
+    "tableIndex": 0,
+    "hashcode": "104ae8a4b0a35b434d220d8e8418a11cbc458859",
+    "id": 27721295,
+    "revision": 569264639
+  }
+}

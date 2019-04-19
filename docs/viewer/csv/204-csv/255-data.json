@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Tikamgarh",
+      "utterance": "which district has the greatest total number of electorates?",
+      "id": "nt-123"
+    },
+    {
+      "targetValue": "145,555",
+      "utterance": "how many electorates does jatara have?",
+      "id": "nt-2355"
+    },
+    {
+      "targetValue": "Maharajpur",
+      "utterance": "which of the listed segments has the most electorates?",
+      "id": "nt-4942"
+    },
+    {
+      "targetValue": "152,605",
+      "utterance": "how many electorates are in the chhatarpur district?",
+      "id": "nt-5780"
+    },
+    {
+      "targetValue": "Prithvipur",
+      "utterance": "name a constituency that only has 139,110 electorates.",
+      "id": "nt-6683"
+    },
+    {
+      "targetValue": "Chhatarpur",
+      "utterance": "besides tikamgarth, what is the other district?",
+      "id": "nt-6934"
+    },
+    {
+      "targetValue": "Maharajpur",
+      "utterance": "name one that is not in the tikamgarh district.",
+      "id": "nt-7418"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many districts are there?",
+      "id": "nt-7968"
+    },
+    {
+      "targetValue": "Khargapur",
+      "utterance": "who has more electorates, khargapur or niwari?",
+      "id": "nt-8116"
+    },
+    {
+      "targetValue": "Prithvipur",
+      "utterance": "the number of electorates represented in the niwari segment is more than those in which other segment?",
+      "id": "nt-8857"
+    }
+  ],
+  "metadata": {
+    "title": "Tikamgarh (Lok Sabha constituency)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=23244582&oldid=576156935",
+    "tableIndex": 0,
+    "hashcode": "d4eecc79d6cd0158d5024ff0fe49e0ddb38f0698",
+    "id": 23244582,
+    "revision": 576156935
+  }
+}

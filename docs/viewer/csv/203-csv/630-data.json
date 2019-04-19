@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "10",
+      "utterance": "south korea has how many more medals that north korea?",
+      "id": "nt-692"
+    },
+    {
+      "targetValue": "26",
+      "utterance": "how many more gold medals does china have over france?",
+      "id": "nt-1183"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many gold medals did germany earn?",
+      "id": "nt-1651"
+    },
+    {
+      "targetValue": "Brazil",
+      "utterance": "who won more gold medals, brazil or china?",
+      "id": "nt-6068"
+    },
+    {
+      "targetValue": "Italy",
+      "utterance": "who only won 13 silver medals?",
+      "id": "nt-6274"
+    },
+    {
+      "targetValue": "Silver",
+      "utterance": "which type of medal does belarus not have?",
+      "id": "nt-7711"
+    },
+    {
+      "targetValue": "Italy",
+      "utterance": "did italy or norway have 51 total medals?",
+      "id": "nt-7981"
+    },
+    {
+      "targetValue": "Brazil",
+      "utterance": "which nation earned the most gold medals?",
+      "id": "nt-8658"
+    },
+    {
+      "targetValue": "150",
+      "utterance": "what is the total number of medals between south korea, north korea, sweden, and brazil?",
+      "id": "nt-9488"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many total medals did norway win?",
+      "id": "nt-12590"
+    }
+  ],
+  "metadata": {
+    "title": "2011 Military World Games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19050471&oldid=550036333",
+    "tableIndex": 3,
+    "hashcode": "6f56218d3ac29e6284eebe1e647c72ab37d4fa47",
+    "id": 19050471,
+    "revision": 550036333
+  }
+}

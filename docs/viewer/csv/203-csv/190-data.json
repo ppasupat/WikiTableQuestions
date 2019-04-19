@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Überlingen",
+      "utterance": "other than ulm, what is the name of the other imperial city listed?",
+      "id": "nt-102"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what is the number of the states in the holy roman empire that begin with the letter u?",
+      "id": "nt-2328"
+    },
+    {
+      "targetValue": "Upper Schönburg",
+      "utterance": "what was the last state to be formed?",
+      "id": "nt-2528"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what is the total number of states?",
+      "id": "nt-6518"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of states formed between 1000 and 1200?",
+      "id": "nt-7033"
+    },
+    {
+      "targetValue": "Ulm",
+      "utterance": "was ulm or unterwalden founded in 1115?",
+      "id": "nt-7680"
+    },
+    {
+      "targetValue": "Utrecht",
+      "utterance": "the first state formed?",
+      "id": "nt-8817"
+    },
+    {
+      "targetValue": "Utrecht",
+      "utterance": "which was the first state to be formed?",
+      "id": "nt-10754"
+    }
+  ],
+  "metadata": {
+    "title": "List of states in the Holy Roman Empire (U)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8392171&oldid=506472782",
+    "tableIndex": 0,
+    "hashcode": "a01e0f2429b931f7fc19e2bde7ee3178c8f0c577",
+    "id": 8392171,
+    "revision": 506472782
+  }
+}

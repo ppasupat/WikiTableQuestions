@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Over cooked (trop cuit, carbonisé\")'",
+      "utterance": "which cooking method (term) is not below 212 degrees f?",
+      "id": "nt-389"
+    },
+    {
+      "targetValue": "193.75",
+      "utterance": "what is the average usda recommended temperature?",
+      "id": "nt-1186"
+    },
+    {
+      "targetValue": "Over cooked (trop cuit, carbonisé\")'",
+      "utterance": "what is the last term listed in the table?",
+      "id": "nt-3129"
+    },
+    {
+      "targetValue": "Extra-rare or Blue (bleu)",
+      "utterance": "which cooking term requires the least heat?",
+      "id": "nt-3974"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "is medium well more or less red than well done?",
+      "id": "nt-8427"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive terms have no usda recommended temperature?",
+      "id": "nt-12114"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what are the total number of terms in the table?",
+      "id": "nt-12194"
+    }
+  ],
+  "metadata": {
+    "title": "Temperature (meat)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3655000&oldid=592672505",
+    "tableIndex": 0,
+    "hashcode": "631e7bf7746b74f67aacd5202bfff905e04ea2ef",
+    "id": 3655000,
+    "revision": 592672505
+  }
+}

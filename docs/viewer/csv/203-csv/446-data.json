@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many of the contestants were students?",
+      "id": "nt-253"
+    },
+    {
+      "targetValue": "Trisha",
+      "utterance": "who was the top prize winner in cha$e?",
+      "id": "nt-843"
+    },
+    {
+      "targetValue": "Student",
+      "utterance": "what occupation was shared by more than 2 contestants?",
+      "id": "nt-4315"
+    },
+    {
+      "targetValue": "California",
+      "utterance": "are there more contestants from california or new york on cha$e?",
+      "id": "nt-6026"
+    },
+    {
+      "targetValue": "$28,000",
+      "utterance": "what was the total prize money earned by contestants?",
+      "id": "nt-8282"
+    },
+    {
+      "targetValue": "Adria",
+      "utterance": "who is the youngest female, but not the youngest overall on the show cha$e?",
+      "id": "nt-9335"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what were the number of contestants that were male?",
+      "id": "nt-10292"
+    },
+    {
+      "targetValue": "$26,000",
+      "utterance": "what is the total prize money for the contestants from california?",
+      "id": "nt-14139"
+    }
+  ],
+  "metadata": {
+    "title": "List of Cha$e episodes",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20250000&oldid=543068047",
+    "tableIndex": 2,
+    "hashcode": "ff80642adaf81aed27760bbdc64859c863dd6653",
+    "id": 20250000,
+    "revision": 543068047
+  }
+}

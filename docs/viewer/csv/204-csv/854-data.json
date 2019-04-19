@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "2003",
+      "utterance": "ebessan and pero won in what year?",
+      "id": "nt-613"
+    },
+    {
+      "targetValue": "Kuishinbo Kamen",
+      "utterance": "what wrestler held the title the longest?",
+      "id": "nt-1164"
+    },
+    {
+      "targetValue": "Vacant",
+      "utterance": "name a wrestler who held the title the same number of days as stripped.",
+      "id": "nt-1705"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of times that miracle man has held the belt?",
+      "id": "nt-2368"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many wrestlers do not have any notes?",
+      "id": "nt-3911"
+    },
+    {
+      "targetValue": "Kuishinbo Kamen",
+      "utterance": "which is the largest days held",
+      "id": "nt-3939"
+    },
+    {
+      "targetValue": "Tokyo, Japan",
+      "utterance": "miracle man and kanjyuro matsuyama both won the title in which japanese city?",
+      "id": "nt-6714"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many matches were in 2007?",
+      "id": "nt-6892"
+    },
+    {
+      "targetValue": "Okita-kun",
+      "utterance": "which wrestler is previous from vacant",
+      "id": "nt-8420"
+    },
+    {
+      "targetValue": "Kuishinbo Kamen",
+      "utterance": "which wrestler has held the title for the most days?",
+      "id": "nt-11061"
+    },
+    {
+      "targetValue": "Osaka",
+      "utterance": "what location hosted more, osaka or tokyo?",
+      "id": "nt-12464"
+    }
+  ],
+  "metadata": {
+    "title": "Osaka Meibutsu Sekaiichi Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=28865696&oldid=590772666",
+    "tableIndex": 1,
+    "hashcode": "e547acee854f000271bbd9fe1f9781a7aaa05b99",
+    "id": 28865696,
+    "revision": 590772666
+  }
+}

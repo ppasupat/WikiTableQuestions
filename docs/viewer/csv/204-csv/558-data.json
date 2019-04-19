@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "Port Huron",
+      "utterance": "fort gratiot lighthouse and fort st. joseph are located in what city?",
+      "id": "nt-2529"
+    },
+    {
+      "targetValue": "Port Huron",
+      "utterance": "which city is home to the greatest number of historic sites, existing or demolished?",
+      "id": "nt-5178"
+    },
+    {
+      "targetValue": "41",
+      "utterance": "how many names do not have images next to them?",
+      "id": "nt-5194"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the total number of locations in the city of algonac?",
+      "id": "nt-8541"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of properties on the list that have been demolished?",
+      "id": "nt-10445"
+    }
+  ],
+  "metadata": {
+    "title": "List of Michigan State Historic Sites in St. Clair County, Michigan",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=31945401&oldid=549678996",
+    "tableIndex": 0,
+    "hashcode": "bb49cedb132fbb72500f80c41ecfe6f88c4479e3",
+    "id": 31945401,
+    "revision": 549678996
+  }
+}

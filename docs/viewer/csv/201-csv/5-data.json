@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "2009",
+      "utterance": "when did the album hallelujah - live volume 2 come out?",
+      "id": "nt-8741"
+    }
+  ],
+  "metadata": {
+    "title": "Kurt Nilsen",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=421766&oldid=602185807",
+    "tableIndex": 2,
+    "hashcode": "15f0d695c5730252123d26fdd0d1a0f7db73d801",
+    "id": 421766,
+    "revision": 602185807
+  }
+}

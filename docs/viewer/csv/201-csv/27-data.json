@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Roch Pinard",
+      "utterance": "which secretary of state came after jack pkckersgill?",
+      "id": "nt-208"
+    },
+    {
+      "targetValue": "Before",
+      "utterance": "was macdonald prime minister before or after bowell?",
+      "id": "nt-4960"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many secretaries of state had the last name bouchard?",
+      "id": "nt-6857"
+    },
+    {
+      "targetValue": "John Costigan",
+      "utterance": "who was thompson's secretary of state?",
+      "id": "nt-8535"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many secretary of states were under prime minister macdonald?",
+      "id": "nt-10492"
+    },
+    {
+      "targetValue": "Charles Murphy",
+      "utterance": "what secretary of state served under both prime minister laurier and prime minister king?",
+      "id": "nt-11744"
+    }
+  ],
+  "metadata": {
+    "title": "Secretary of State for Canada",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=774995&oldid=554200691",
+    "tableIndex": 0,
+    "hashcode": "64ea6976a03560dcb16cdbdc9d0d2b03f3df012d",
+    "id": 774995,
+    "revision": 554200691
+  }
+}

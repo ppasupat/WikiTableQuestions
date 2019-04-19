@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "20",
+      "utterance": "how many movies have links to other wikipedia pages about them?",
+      "id": "nt-18"
+    },
+    {
+      "targetValue": "Revengers Tragedy",
+      "utterance": "which film came out in 2002 and also had the role of vindici?",
+      "id": "nt-641"
+    },
+    {
+      "targetValue": "Salesman",
+      "utterance": "which role is the most common from all the titles?",
+      "id": "nt-2414"
+    },
+    {
+      "targetValue": "1999",
+      "utterance": "which year did he play the roles of gary ellis and vincent boyd?",
+      "id": "nt-10267"
+    }
+  ],
+  "metadata": {
+    "title": "Christopher Eccleston",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=461437&oldid=601714334",
+    "tableIndex": 1,
+    "hashcode": "fef737ec6f50b3d822210508053b2185bb54f61e",
+    "id": 461437,
+    "revision": 601714334
+  }
+}

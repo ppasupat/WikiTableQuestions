@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Princeton",
+      "utterance": "who was the top winner in 2002 of the division 1 undergraduate?",
+      "id": "nt-36"
+    },
+    {
+      "targetValue": "More",
+      "utterance": "did chicago win more or less than cal-berkeley?",
+      "id": "nt-306"
+    },
+    {
+      "targetValue": "Chipola",
+      "utterance": "valencia cc and who else won the most division ii community college?",
+      "id": "nt-396"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what was the total number of overall wins for harvard?",
+      "id": "nt-1391"
+    },
+    {
+      "targetValue": "Valencia CC",
+      "utterance": "who is listed the most in division ii community college?",
+      "id": "nt-1491"
+    },
+    {
+      "targetValue": "1997",
+      "utterance": "what is the first year on the chart?",
+      "id": "nt-3287"
+    },
+    {
+      "targetValue": "Chicago, Illinois",
+      "utterance": "who hosted the most consecutive years?",
+      "id": "nt-3288"
+    },
+    {
+      "targetValue": "2014",
+      "utterance": "what is the last year on the chart?",
+      "id": "nt-4775"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many times is harvard listed on the chart?",
+      "id": "nt-9918"
+    },
+    {
+      "targetValue": "2007",
+      "utterance": "when was the last time the event was held in minnesota?",
+      "id": "nt-10922"
+    }
+  ],
+  "metadata": {
+    "title": "National Academic Quiz Tournaments",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=213480&oldid=602112840",
+    "tableIndex": 0,
+    "hashcode": "2c0f73bd39021c0368b3b2168e3e11e0547f039b",
+    "id": 213480,
+    "revision": 602112840
+  }
+}

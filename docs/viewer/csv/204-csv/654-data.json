@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many songs charted above the 10th position on any chart?",
+      "id": "nt-91"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "in the uk, how many spots difference were between \"strollin' on\" and \"in the springtime?\"",
+      "id": "nt-1961"
+    },
+    {
+      "targetValue": "\"Wild World\"",
+      "utterance": "what song hit the highest spot on the uk chart?",
+      "id": "nt-5204"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many years before 1996 did they have at least 2 hits?",
+      "id": "nt-6025"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many songs did they have the previous year of 1987?",
+      "id": "nt-6746"
+    },
+    {
+      "targetValue": "\"Set the Night to Music\" (with Roberta Flack)",
+      "utterance": "which songs charted in the united states, but not the uk?",
+      "id": "nt-7115"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the highest position a song from \"bonafide\" reached on any chart?",
+      "id": "nt-8625"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many songs from the album \"intentions\" charted in the uk?",
+      "id": "nt-9391"
+    },
+    {
+      "targetValue": "Bonafide",
+      "utterance": "which album had more, bonafide or intentions?",
+      "id": "nt-12854"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many years after 1996 did they have another song?",
+      "id": "nt-13739"
+    },
+    {
+      "targetValue": "\"Groovin' in the Midnight\"",
+      "utterance": "what was maxi priest's only single in 1992?",
+      "id": "nt-14065"
+    }
+  ],
+  "metadata": {
+    "title": "Maxi Priest",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1019343&oldid=597755482",
+    "tableIndex": 0,
+    "hashcode": "5471c2aca48bb9f33be05ac872004914ab1ecbb6",
+    "id": 1019343,
+    "revision": 597755482
+  }
+}

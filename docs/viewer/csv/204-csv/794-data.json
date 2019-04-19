@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "N",
+      "utterance": "what is the last iec world plugs type in the list?",
+      "id": "nt-134"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of power rating for type a, b and c",
+      "id": "nt-1783"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many types of plug are europlug compatible?",
+      "id": "nt-2567"
+    },
+    {
+      "targetValue": "16 A/250 V",
+      "utterance": "what is the last power rating on the chart?",
+      "id": "nt-3348"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many are europlug compatible (yes)?",
+      "id": "nt-4896"
+    },
+    {
+      "targetValue": [
+        "A",
+        "NEMA 1-15 unpolarised"
+      ],
+      "utterance": "what is the first type and standard on the chart",
+      "id": "nt-7526"
+    },
+    {
+      "targetValue": "16 A/250 V",
+      "utterance": "what is the average power rating for type e and type f?",
+      "id": "nt-8294"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many plugs in the list are not earthed?",
+      "id": "nt-8852"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many total standards are there for type b plugs?",
+      "id": "nt-9666"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "how many different types of world plugs are earthed?",
+      "id": "nt-10040"
+    },
+    {
+      "targetValue": "Socket 0.2 A/250 V Plug Unspecified7",
+      "utterance": "which power rating is previous to type d",
+      "id": "nt-10230"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many plugs are polarised but not europlug compatible?",
+      "id": "nt-11005"
+    }
+  ],
+  "metadata": {
+    "title": "AC power plugs and sockets",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=773271&oldid=601678101",
+    "tableIndex": 0,
+    "hashcode": "6a60a79260199ef6f41d1cbf81026b58b7a917cb",
+    "id": 773271,
+    "revision": 601678101
+  }
+}

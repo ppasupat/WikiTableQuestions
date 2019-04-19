@@ -1,0 +1,30 @@
+{
+  "examples": [
+    {
+      "targetValue": "white",
+      "utterance": "what color is next to blue?",
+      "id": "nt-10366"
+    },
+    {
+      "targetValue": [
+        "Blue",
+        "White"
+      ],
+      "utterance": "what two colors can be worn for home or away games?",
+      "id": "nt-12027"
+    },
+    {
+      "targetValue": "Blue",
+      "utterance": "there are two different uniforms worn for home and away games, which color of uniform is worn for away games?",
+      "id": "nt-12607"
+    }
+  ],
+  "metadata": {
+    "title": "New Hampshire Wildcats men's basketball",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=27561335&oldid=597331836",
+    "tableIndex": 5,
+    "hashcode": "19d64c53f76c1ef6150648bf820bcb38c0cad06f",
+    "id": 27561335,
+    "revision": 597331836
+  }
+}

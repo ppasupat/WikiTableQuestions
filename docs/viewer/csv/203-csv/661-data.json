@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "US",
+      "utterance": "compare the chart positions between the us and the uk for the science of selling yourself short, where did it do better?",
+      "id": "nt-2202"
+    },
+    {
+      "targetValue": "60.5",
+      "utterance": "what was the average chart position of their singles in the uk?",
+      "id": "nt-2263"
+    },
+    {
+      "targetValue": "\"History of a Boring Town\"",
+      "utterance": "what was the first single to earn a chart position?",
+      "id": "nt-3386"
+    },
+    {
+      "targetValue": "\"Automatic\"",
+      "utterance": "which single was released before \"dopeman\"?",
+      "id": "nt-4711"
+    },
+    {
+      "targetValue": "1997",
+      "utterance": "which year has the most singles?",
+      "id": "nt-4944"
+    },
+    {
+      "targetValue": "Losing Streak",
+      "utterance": "which album had the single automatic?",
+      "id": "nt-5322"
+    },
+    {
+      "targetValue": "\"Automatic\"",
+      "utterance": "name one other single that was on the losing streak album besides \"dopeman\".",
+      "id": "nt-8809"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how long was it between losing streak almbum and gnv fla in years.",
+      "id": "nt-9257"
+    },
+    {
+      "targetValue": "\"The Rest of My Life\"",
+      "utterance": "what was the next single after \"overrated (everything is)\"?",
+      "id": "nt-11684"
+    },
+    {
+      "targetValue": "Dopeman",
+      "utterance": "which song came out first? dopeman or surrender.",
+      "id": "nt-13866"
+    }
+  ],
+  "metadata": {
+    "title": "Less Than Jake discography",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4613928&oldid=582750314",
+    "tableIndex": 6,
+    "hashcode": "4e6637303638bc558b3024ed0325a02df783bc71",
+    "id": 4613928,
+    "revision": 582750314
+  }
+}

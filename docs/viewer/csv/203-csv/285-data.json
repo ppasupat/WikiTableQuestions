@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many times was the location in the united states?",
+      "id": "nt-790"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of times a brazilian has won a medal?",
+      "id": "nt-2029"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the total number of russian gymnasts that have won silver.",
+      "id": "nt-4876"
+    },
+    {
+      "targetValue": "Moscow",
+      "utterance": "where were the championships held before the 1962 prague championships?",
+      "id": "nt-6336"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times was the world artistic gymnastics championships held in the united states?",
+      "id": "nt-6848"
+    },
+    {
+      "targetValue": [
+        "Kim Zmeskal",
+        "Shannon Miller"
+      ],
+      "utterance": "which two american rivals won consecutive floor exercise gold medals at the artistic gymnastics world championships in 1992 and 1993?",
+      "id": "nt-7166"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "as of 2013, what is the total number of floor exercise gold medals won by american women at the world championships?",
+      "id": "nt-7417"
+    },
+    {
+      "targetValue": "23 years",
+      "utterance": "how long is the time between the times the championship was held in moscow?",
+      "id": "nt-8435"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive floor exercise gold medals did romanian star andreea raducan win at the world championships?",
+      "id": "nt-9583"
+    },
+    {
+      "targetValue": "Sabae",
+      "utterance": "where did the world artistic gymnastics take place before san juan?",
+      "id": "nt-12816"
+    }
+  ],
+  "metadata": {
+    "title": "World Artistic Gymnastics Championships – Women's floor",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19478078&oldid=576001661",
+    "tableIndex": 0,
+    "hashcode": "920cd02f0d2b6f3fde2bf8e2eae6735fef65703d",
+    "id": 19478078,
+    "revision": 576001661
+  }
+}

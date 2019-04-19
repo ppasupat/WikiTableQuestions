@@ -1,0 +1,71 @@
+{
+  "examples": [
+    {
+      "targetValue": "Japan",
+      "utterance": "who finished after austria in rank?",
+      "id": "nt-804"
+    },
+    {
+      "targetValue": [
+        "United States",
+        "Austria"
+      ],
+      "utterance": "which countries won at least six bronze medals?",
+      "id": "nt-4134"
+    },
+    {
+      "targetValue": "Austria",
+      "utterance": "who had the next highest number of gold medals after the unites states?",
+      "id": "nt-5876"
+    },
+    {
+      "targetValue": [
+        "Netherlands",
+        "Spain",
+        "Bulgaria",
+        "Great Britain",
+        "Sweden"
+      ],
+      "utterance": "name the countries that did not win any gold medals.",
+      "id": "nt-6928"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many silver medals were won by italy?",
+      "id": "nt-7835"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "which nations earned at least 5 silver medals?",
+      "id": "nt-8089"
+    },
+    {
+      "targetValue": [
+        "Canada",
+        "United States",
+        "Austria",
+        "Italy"
+      ],
+      "utterance": "which countries won the more than five silver medals?",
+      "id": "nt-9253"
+    },
+    {
+      "targetValue": "Canada",
+      "utterance": "what nation was ranked first in total number of gold medals?",
+      "id": "nt-10012"
+    },
+    {
+      "targetValue": "Austria",
+      "utterance": "what was the only nation with 24 total medals?",
+      "id": "nt-10423"
+    }
+  ],
+  "metadata": {
+    "title": "2012–13 FIS Snowboard World Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36795535&oldid=594815183",
+    "tableIndex": 0,
+    "hashcode": "27161c591cd58c99696962ecea2e3e91af130bb4",
+    "id": 36795535,
+    "revision": 594815183
+  }
+}

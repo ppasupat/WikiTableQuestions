@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many performance indicators are there for standard 3 for grades 3-5?",
+      "id": "nt-5361"
+    }
+  ],
+  "metadata": {
+    "title": "Health education",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2459566&oldid=600474666",
+    "tableIndex": 0,
+    "hashcode": "d21da3aa13a0b65291c1e560a79cb9aa0f36ebdb",
+    "id": 2459566,
+    "revision": 600474666
+  }
+}

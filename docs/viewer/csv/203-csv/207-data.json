@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "2,069.1",
+      "utterance": "what is number of acres in castledon",
+      "id": "nt-2093"
+    },
+    {
+      "targetValue": "17 sites",
+      "utterance": "how many sites have both a biological and geological interest?",
+      "id": "nt-2499"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many sites were notified after 2000?",
+      "id": "nt-3130"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many sites were designated for both biological and geological interest?",
+      "id": "nt-10136"
+    },
+    {
+      "targetValue": "Hurdlow Meadows",
+      "utterance": "which site has a greater area wall lands or hurdlow meadows?",
+      "id": "nt-10770"
+    },
+    {
+      "targetValue": "Carver's Rocks",
+      "utterance": "which is larger(acres) carver's rocks or cawdo quarry",
+      "id": "nt-11781"
+    },
+    {
+      "targetValue": "18 years",
+      "utterance": "how long has ballidon dale been notified in years",
+      "id": "nt-13451"
+    }
+  ],
+  "metadata": {
+    "title": "List of Sites of Special Scientific Interest in Derbyshire",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5880884&oldid=580300119",
+    "tableIndex": 0,
+    "hashcode": "d25ab78575e1b04cde16c0400fbee4a40b191bea",
+    "id": 5880884,
+    "revision": 580300119
+  }
+}

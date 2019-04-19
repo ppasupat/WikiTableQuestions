@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "2011",
+      "utterance": "in what year did jason babin force at least 15 sacks?",
+      "id": "nt-1094"
+    },
+    {
+      "targetValue": "Houston",
+      "utterance": "did babin record more sacks for houston or for jacksonville?",
+      "id": "nt-1281"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many touchdowns?",
+      "id": "nt-2034"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "what was the first year in which babin had over 10 sacks?",
+      "id": "nt-3921"
+    },
+    {
+      "targetValue": "2004",
+      "utterance": "in what year did babin have the highest amount of fumble recoveries",
+      "id": "nt-5225"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive seasons with 16 games played?",
+      "id": "nt-6222"
+    },
+    {
+      "targetValue": "HOU",
+      "utterance": "team he played most games with.",
+      "id": "nt-7320"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what is the total amount of sacks with houston?",
+      "id": "nt-8978"
+    }
+  ],
+  "metadata": {
+    "title": "Jason Babin",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2380524&oldid=601420687",
+    "tableIndex": 1,
+    "hashcode": "c585752cc095d00a0f61fe81bea3b7372cddc50b",
+    "id": 2380524,
+    "revision": 601420687
+  }
+}

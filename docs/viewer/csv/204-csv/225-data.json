@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Brazil",
+      "utterance": "who had more semifinalists, brazil or poland?",
+      "id": "nt-653"
+    },
+    {
+      "targetValue": "Poland",
+      "utterance": "which country has the highest total in the miss supranational pagent?",
+      "id": "nt-1860"
+    },
+    {
+      "targetValue": "Belarus",
+      "utterance": "who is the frist country to have a 1st runner-up of 2",
+      "id": "nt-5138"
+    },
+    {
+      "targetValue": "Gambia",
+      "utterance": "gabon is ranked 32, what country is ranked next?",
+      "id": "nt-5254"
+    },
+    {
+      "targetValue": "U.S. Virgin Islands",
+      "utterance": "which country is before rank 20",
+      "id": "nt-8175"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times has belarus been first runner-up?",
+      "id": "nt-8253"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the difference in semifinalists between panama and vietnam?",
+      "id": "nt-8664"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "the number of miss supranational's from puerto rico",
+      "id": "nt-9108"
+    },
+    {
+      "targetValue": "Slovenia",
+      "utterance": "which country is above turkey",
+      "id": "nt-10717"
+    },
+    {
+      "targetValue": "4th",
+      "utterance": "the united states has won only one time. what place did they come in?",
+      "id": "nt-13290"
+    }
+  ],
+  "metadata": {
+    "title": "Miss Supranational country rankings",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=35722954&oldid=601650891",
+    "tableIndex": 0,
+    "hashcode": "eac32519cf210a9e845f50e62277d4306ecbf0ec",
+    "id": 35722954,
+    "revision": 601650891
+  }
+}

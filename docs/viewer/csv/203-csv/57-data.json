@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "1934",
+      "utterance": "based on the table of brazil's results at the fifa world cup between 1930 and 2010, in which listed year did brazil play on average only a single match in round 1?",
+      "id": "nt-6322"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "how many goals did brazil score in the 1950 world cup?",
+      "id": "nt-9639"
+    },
+    {
+      "targetValue": "7-1",
+      "utterance": "largest victory",
+      "id": "nt-9707"
+    },
+    {
+      "targetValue": "1938",
+      "utterance": "based on the table of brazil's results at the fifa world cup between 1930 and 2010, in which year did brazil's player romeu score a point in brazil's bronze final match against sweden after previously scoring a point in the semi-final match against italy?",
+      "id": "nt-10189"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "the most goals scored in a game",
+      "id": "nt-10253"
+    },
+    {
+      "targetValue": "1994",
+      "utterance": "based on the table of brazil's results at the fifa world cup between 1930 and 2010, in which year did teams score no match points at all during the final between brazil and italy?",
+      "id": "nt-11170"
+    }
+  ],
+  "metadata": {
+    "title": "Brazil at the FIFA World Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8734046&oldid=598182222",
+    "tableIndex": 1,
+    "hashcode": "c979c59311feff3ad2c308ae28951987eb9bd5d9",
+    "id": 8734046,
+    "revision": 598182222
+  }
+}

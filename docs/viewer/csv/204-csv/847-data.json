@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Theodis Tarver",
+      "utterance": "does theodis or david play center?",
+      "id": "nt-54"
+    },
+    {
+      "targetValue": "Michael Baumer",
+      "utterance": "who is the shortest player on this team?",
+      "id": "nt-2424"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many players weigh more than michael baumer?",
+      "id": "nt-3355"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many weights are at least 90kg?",
+      "id": "nt-10395"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many players were born after 1985?",
+      "id": "nt-10398"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many players have german as their nationality?",
+      "id": "nt-10440"
+    },
+    {
+      "targetValue": "Stefan Svitek",
+      "utterance": "who is the only player whose last team was chemosvit svit?",
+      "id": "nt-13097"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many people at most are american?",
+      "id": "nt-13285"
+    }
+  ],
+  "metadata": {
+    "title": "BG Karlsruhe",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21245680&oldid=558408370",
+    "tableIndex": 1,
+    "hashcode": "977254da7ffe0766a6a1f2388b9a96aff845044d",
+    "id": 21245680,
+    "revision": 558408370
+  }
+}

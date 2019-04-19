@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Orange Polska",
+      "utterance": "which company had the least revenue?",
+      "id": "nt-1078"
+    },
+    {
+      "targetValue": "PKN Orlen SA",
+      "utterance": "which company had the most revenue?",
+      "id": "nt-1711"
+    },
+    {
+      "targetValue": "PGE SA",
+      "utterance": "which company had the most employees?",
+      "id": "nt-5054"
+    },
+    {
+      "targetValue": "PKN Orlen SA",
+      "utterance": "what company is the only one with a revenue greater than 75,000,000 thou. pln?",
+      "id": "nt-5573"
+    },
+    {
+      "targetValue": "PGE SA",
+      "utterance": "what company has the top number of employees?",
+      "id": "nt-6764"
+    },
+    {
+      "targetValue": "39,872 employees",
+      "utterance": "what is the difference in employees for rank 1 and rank 3?",
+      "id": "nt-9496"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many companies had over $1,000,000 profit?",
+      "id": "nt-11949"
+    },
+    {
+      "targetValue": "33,071",
+      "utterance": "what is the number of employees who work for pgnig sa?",
+      "id": "nt-12567"
+    }
+  ],
+  "metadata": {
+    "title": "Poland",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=22936&oldid=602465825",
+    "tableIndex": 1,
+    "hashcode": "101157ab47847c222202ff096144e95fd211d112",
+    "id": 22936,
+    "revision": 602465825
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "Clavijo",
+      "utterance": "which is the most recent source for the name?",
+      "id": "nt-177"
+    },
+    {
+      "targetValue": "Hidush",
+      "utterance": "what was the nation called before the book of esther called it hodu?",
+      "id": "nt-8708"
+    }
+  ],
+  "metadata": {
+    "title": "Names of India",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=764545&oldid=601824024",
+    "tableIndex": 0,
+    "hashcode": "f3f1d5db8f5cdea1098f3e897723f7e16d582ac0",
+    "id": 764545,
+    "revision": 601824024
+  }
+}

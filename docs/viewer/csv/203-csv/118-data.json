@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "away",
+      "utterance": "did the anaheim storm win more home or away games?",
+      "id": "nt-5647"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many wins did the team have before march 4,2005?",
+      "id": "nt-7952"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total amount of games that the team won by more than 2 points?",
+      "id": "nt-8660"
+    }
+  ],
+  "metadata": {
+    "title": "2005 Anaheim Storm season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17542320&oldid=529583011",
+    "tableIndex": 2,
+    "hashcode": "558210fbaddcf24ad3c4f81e61cd26150700d544",
+    "id": 17542320,
+    "revision": 529583011
+  }
+}

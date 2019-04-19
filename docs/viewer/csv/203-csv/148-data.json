@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "San Tiburcio",
+      "utterance": "which submarine had the most tonnage?",
+      "id": "nt-1332"
+    },
+    {
+      "targetValue": [
+        "United Kingdom",
+        "Estonia"
+      ],
+      "utterance": "what two nationalities have a tonnage of around 1900 and both sunk?",
+      "id": "nt-1672"
+    },
+    {
+      "targetValue": "Shtorm",
+      "utterance": "what was the soviet ship that did not sink on 11 may 1944?",
+      "id": "nt-2615"
+    },
+    {
+      "targetValue": "Sweden",
+      "utterance": "the flandria and the patria are ships that both fly under what country's flag?",
+      "id": "nt-2949"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "other than \"damaged\", how many vessels were reported lost between january 1, 1940 and may 11, 1940?",
+      "id": "nt-7671"
+    },
+    {
+      "targetValue": "Tringa",
+      "utterance": "which submarine was from the uk and was almost at 2,000 in tonnage?",
+      "id": "nt-8242"
+    },
+    {
+      "targetValue": "Sunk",
+      "utterance": "what was the top (most frequent) fate reported for losses?",
+      "id": "nt-10213"
+    },
+    {
+      "targetValue": "San Tiburcio",
+      "utterance": "what was the first vessel sunk in may 1940?",
+      "id": "nt-10437"
+    },
+    {
+      "targetValue": "2367",
+      "utterance": "what was the number of tonnage for sweden?",
+      "id": "nt-10450"
+    },
+    {
+      "targetValue": "United Kingdom",
+      "utterance": "what nationality is on top of french navy?",
+      "id": "nt-14077"
+    }
+  ],
+  "metadata": {
+    "title": "German submarine U-9 (1935)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9732949&oldid=602289205",
+    "tableIndex": 0,
+    "hashcode": "12b000a9b9dcdc413909103c5a326113fb83446d",
+    "id": 9732949,
+    "revision": 602289205
+  }
+}

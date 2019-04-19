@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Yes",
+      "utterance": "did tomber rank higher than l'etranger on the french charts?",
+      "id": "nt-758"
+    },
+    {
+      "targetValue": "\"J'en rêve encore\"",
+      "utterance": "what song reached the highest position on the french charts?",
+      "id": "nt-3496"
+    },
+    {
+      "targetValue": "\"Une seule vie (marcher dans le sable)\"",
+      "utterance": "which single was released before \"tomber\"?",
+      "id": "nt-4581"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many singles were released before 2001 but after 1997?",
+      "id": "nt-6160"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many songs were not listed on the swiss charts?",
+      "id": "nt-7844"
+    },
+    {
+      "targetValue": "\"Elle s'ennuie\"",
+      "utterance": "what single was released next after \"tomber\"?",
+      "id": "nt-8764"
+    },
+    {
+      "targetValue": "\"Je me souviens de tout\"",
+      "utterance": "what was the last single released?",
+      "id": "nt-12659"
+    },
+    {
+      "targetValue": "\"Je me souviens de tout\"",
+      "utterance": "what is the name of the single that was not released before 2012?",
+      "id": "nt-14132"
+    }
+  ],
+  "metadata": {
+    "title": "Gérald de Palmas",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6172501&oldid=588580023",
+    "tableIndex": 2,
+    "hashcode": "b17573db9c958a70945abde3b259a75f2b452433",
+    "id": 6172501,
+    "revision": 588580023
+  }
+}

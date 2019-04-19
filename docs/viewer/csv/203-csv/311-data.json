@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "what was the number of services represented by yellow blocks?",
+      "id": "nt-9176"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many individual stations are at the times square station complex?",
+      "id": "nt-12377"
+    }
+  ],
+  "metadata": {
+    "title": "List of New York City Subway transfer stations",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1642061&oldid=598083468",
+    "tableIndex": 5,
+    "hashcode": "295cfc26707e5af670041098722f0df2a7ae8091",
+    "id": 1642061,
+    "revision": 598083468
+  }
+}

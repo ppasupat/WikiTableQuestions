@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "Seville",
+      "utterance": "which province in andalusia has the largest population?",
+      "id": "nt-151"
+    },
+    {
+      "targetValue": "Huelva",
+      "utterance": "what province has the least population?",
+      "id": "nt-467"
+    },
+    {
+      "targetValue": "Cadiz",
+      "utterance": "does cadiz or granada have a laerger population?",
+      "id": "nt-1927"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many provinces in andalusia have at least 100 municipalities?",
+      "id": "nt-2010"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the number of legal districts in almeria province?",
+      "id": "nt-5535"
+    },
+    {
+      "targetValue": "Málaga",
+      "utterance": "which province in andalusia has the highest density?",
+      "id": "nt-5979"
+    },
+    {
+      "targetValue": "Seville",
+      "utterance": "which province has the most legal districts?",
+      "id": "nt-6310"
+    },
+    {
+      "targetValue": "Jaen",
+      "utterance": "which province has a lower population density, almeria or jaen?",
+      "id": "nt-7103"
+    },
+    {
+      "targetValue": "Seville",
+      "utterance": "which province is the only province with a higher population than malaga?",
+      "id": "nt-7408"
+    },
+    {
+      "targetValue": "Malaga",
+      "utterance": "which province has the largest density in square miles?",
+      "id": "nt-8327"
+    },
+    {
+      "targetValue": "Granada",
+      "utterance": "what is the province with the most municipalities?",
+      "id": "nt-10678"
+    },
+    {
+      "targetValue": "572,919",
+      "utterance": "the population of cadiz is how much greater than jaen?",
+      "id": "nt-12336"
+    },
+    {
+      "targetValue": "Córdoba",
+      "utterance": "is almería or córdoba's density 72.4/km2?",
+      "id": "nt-12941"
+    },
+    {
+      "targetValue": "44",
+      "utterance": "how many municipalities exist in the province of cadiz?",
+      "id": "nt-13643"
+    }
+  ],
+  "metadata": {
+    "title": "Andalusia",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2736&oldid=601618613",
+    "tableIndex": 0,
+    "hashcode": "2efd01c50b48ac82ab3270f913393f3ef1cdd16c",
+    "id": 2736,
+    "revision": 601618613
+  }
+}

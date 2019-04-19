@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Dana Building",
+      "utterance": "the phoenix buildings were built in 1834. what was built next?",
+      "id": "nt-2080"
+    },
+    {
+      "targetValue": "State Tower Building",
+      "utterance": "is the state tower building or the granger block taller?",
+      "id": "nt-2170"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "all of these landmarks have at least how many stories?",
+      "id": "nt-2298"
+    },
+    {
+      "targetValue": "State Tower Building",
+      "utterance": "which was the last building built?",
+      "id": "nt-6061"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many landmarks are in the hannover square historic district?",
+      "id": "nt-6380"
+    },
+    {
+      "targetValue": "Larned Building",
+      "utterance": "which is older, larned building or state tower building?",
+      "id": "nt-7283"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many images are listed?",
+      "id": "nt-7602"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "is the gere bank building taller than 6 stories?",
+      "id": "nt-7834"
+    },
+    {
+      "targetValue": "State Tower Building",
+      "utterance": "what building is the tallest?",
+      "id": "nt-10629"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many landmarks do not have multiple stories?",
+      "id": "nt-13897"
+    }
+  ],
+  "metadata": {
+    "title": "Hanover Square, Syracuse",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1131910&oldid=589672022",
+    "tableIndex": 0,
+    "hashcode": "26d2818eae385fde89f0f652a4ac68b01e511d21",
+    "id": 1131910,
+    "revision": 589672022
+  }
+}

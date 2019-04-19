@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "5th",
+      "utterance": "what peter widen's is the highest finish in all indoor championships?",
+      "id": "nt-161"
+    },
+    {
+      "targetValue": "Tokyo, Japan",
+      "utterance": "only one championship in which he participated was held outside europe. where was this?",
+      "id": "nt-1323"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many championships did he compete in?",
+      "id": "nt-1465"
+    },
+    {
+      "targetValue": "1991",
+      "utterance": "at which world indoor championships did peter widen achieve a higher position: 1989 or 1991?",
+      "id": "nt-5077"
+    },
+    {
+      "targetValue": "6th",
+      "utterance": "what is peter widen's top most position ever in world indoor championships?",
+      "id": "nt-5839"
+    },
+    {
+      "targetValue": "Budapest, Hungary",
+      "utterance": "after the championship in the hague, netherlands, where were the next championship held?",
+      "id": "nt-6669"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many competitions were held after 1992?",
+      "id": "nt-7041"
+    },
+    {
+      "targetValue": "5th",
+      "utterance": "what was the top position in which he finished?",
+      "id": "nt-7610"
+    },
+    {
+      "targetValue": "5th",
+      "utterance": "what was peter widen's top career position at a competition?",
+      "id": "nt-7987"
+    }
+  ],
+  "metadata": {
+    "title": "Peter Widén",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6245122&oldid=585495279",
+    "tableIndex": 0,
+    "hashcode": "546251928487318f06de22cfe8dc9c9b9d5d0486",
+    "id": 6245122,
+    "revision": 585495279
+  }
+}

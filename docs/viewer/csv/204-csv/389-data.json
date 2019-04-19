@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "LaRon Landry",
+      "utterance": "did laron landry or ted ginn jr have an earlier draft pick?",
+      "id": "nt-427"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many players are qbs?",
+      "id": "nt-2408"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many drafted players were quarterbacks?",
+      "id": "nt-6198"
+    },
+    {
+      "targetValue": "Calvin Johnson",
+      "utterance": "who was picked after jamarcus russell?",
+      "id": "nt-8151"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the number of qb's selected in the first round?",
+      "id": "nt-9552"
+    },
+    {
+      "targetValue": "Georgia Tech",
+      "utterance": "first round pick calvin johnson went to which college?",
+      "id": "nt-11058"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many players from wisconsin were picked in the first round?",
+      "id": "nt-12589"
+    },
+    {
+      "targetValue": "JaMarcus Russell",
+      "utterance": "who was the first pick in the draft?",
+      "id": "nt-12698"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "number of quarterbacks picks in the first round",
+      "id": "nt-13855"
+    }
+  ],
+  "metadata": {
+    "title": "2007 NFL Draft",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6399931&oldid=600461208",
+    "tableIndex": 1,
+    "hashcode": "f1d71ed8a7e1773460e5e42b0c68fbc4c5a59d92",
+    "id": 6399931,
+    "revision": 600461208
+  }
+}

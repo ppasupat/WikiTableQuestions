@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "what is he number of events held in philadelphia?",
+      "id": "nt-720"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many qualifying scores were above 15.2?",
+      "id": "nt-3862"
+    },
+    {
+      "targetValue": "0.400",
+      "utterance": "what was the difference between her qualifying scores for balance beam between boston and philadelphia?",
+      "id": "nt-4319"
+    },
+    {
+      "targetValue": "U.S. Championships",
+      "utterance": "what was the next competition this competitor went to after the olympic trials in 2008?",
+      "id": "nt-5001"
+    },
+    {
+      "targetValue": "Olympic Trials",
+      "utterance": "what was the only event that she participated in the vault?",
+      "id": "nt-5083"
+    },
+    {
+      "targetValue": "26.625",
+      "utterance": "what was the average qualifying score for the u.s. championships?",
+      "id": "nt-5575"
+    },
+    {
+      "targetValue": "Olympic Trials",
+      "utterance": "did the olympic trials or the american cup have more events?",
+      "id": "nt-6120"
+    },
+    {
+      "targetValue": "2008 Summer Olympics",
+      "utterance": "what was the only competition this competitor went to in 2008 that had a team event?",
+      "id": "nt-6328"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how man consecutive events took place in beijing?",
+      "id": "nt-6451"
+    },
+    {
+      "targetValue": "63.075",
+      "utterance": "what was her highest all around score?",
+      "id": "nt-8707"
+    },
+    {
+      "targetValue": "American Cup",
+      "utterance": "which competition took place in 2008 but had only one event?",
+      "id": "nt-10611"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was her highest qualifying rank?",
+      "id": "nt-12208"
+    },
+    {
+      "targetValue": "Boston",
+      "utterance": "where was the location after philadelphia?",
+      "id": "nt-12442"
+    }
+  ],
+  "metadata": {
+    "title": "Samantha Peszek",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13114949&oldid=602230275",
+    "tableIndex": 5,
+    "hashcode": "5f1c6c8bf89f057f18e2d91dc319bd90e4582c93",
+    "id": 13114949,
+    "revision": 602230275
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "C.D. Luis Ángel Firpo",
+      "utterance": "which team came in last place?",
+      "id": "nt-3645"
+    },
+    {
+      "targetValue": "San Salvador F.C.",
+      "utterance": "which team had the same amount of total points as c.d. altetico balboa?",
+      "id": "nt-4881"
+    },
+    {
+      "targetValue": "242",
+      "utterance": "what is the total number of all goals scored?",
+      "id": "nt-5826"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "what were the number of goals scored by team a.d.isidro metapan?",
+      "id": "nt-7651"
+    },
+    {
+      "targetValue": "C.D. Águila",
+      "utterance": "which team had the most wins?",
+      "id": "nt-10470"
+    },
+    {
+      "targetValue": "C.D. Aguila",
+      "utterance": "which team had the most points?",
+      "id": "nt-11264"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many teams scored at least 25 points or more?",
+      "id": "nt-11975"
+    },
+    {
+      "targetValue": [
+        "C.D. Águila",
+        "C.D. FAS"
+      ],
+      "utterance": "which team had the least amount on losses?",
+      "id": "nt-12059"
+    }
+  ],
+  "metadata": {
+    "title": "Primera División de Fútbol Profesional Clausura 2006",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13103590&oldid=573342222",
+    "tableIndex": 0,
+    "hashcode": "96ed0a2201fa330ec326747d43702ec67fb617d6",
+    "id": 13103590,
+    "revision": 573342222
+  }
+}

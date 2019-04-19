@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "16",
+      "utterance": "how many tracks are listed in this table?",
+      "id": "nt-656"
+    },
+    {
+      "targetValue": "\"Trap Niggas\"",
+      "utterance": "what track was drumma boy's last on the album?",
+      "id": "nt-2061"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many featured guests are there in total?",
+      "id": "nt-2754"
+    },
+    {
+      "targetValue": "1:41",
+      "utterance": "how long is the intro?",
+      "id": "nt-3889"
+    },
+    {
+      "targetValue": "\"Dem Boyz\"",
+      "utterance": "is \"dem boyz\" or \"felonies\" have the featured guest p. diddy?",
+      "id": "nt-4484"
+    },
+    {
+      "targetValue": "\"Intro\"",
+      "utterance": "which is the only track under two minutes?",
+      "id": "nt-5427"
+    },
+    {
+      "targetValue": "\"Still Slizzard\"",
+      "utterance": "other than \"dem boyz\", name a track produced by nitti.",
+      "id": "nt-6062"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many tracks are in the album?",
+      "id": "nt-6180"
+    },
+    {
+      "targetValue": "\"Felonies\"",
+      "utterance": "what is the longest song?",
+      "id": "nt-7626"
+    },
+    {
+      "targetValue": "\"Dem Boyz\"",
+      "utterance": "which track plays before \"felonies\"?",
+      "id": "nt-8244"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many of his tracks does nitti have a guest on?",
+      "id": "nt-13864"
+    }
+  ],
+  "metadata": {
+    "title": "Boyz n da Hood (album)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2673995&oldid=591340570",
+    "tableIndex": 1,
+    "hashcode": "0f7f60040f7f73877b8bd951c65d4b4324d123b0",
+    "id": 2673995,
+    "revision": 591340570
+  }
+}

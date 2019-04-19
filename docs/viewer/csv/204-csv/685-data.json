@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "what is the largest number of times the prose prize has been awarded to one person?",
+      "id": "nt-2111"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "does each edition have more than one poetry prize?",
+      "id": "nt-3621"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many years was it between when agustín hermida castro received the poetry prize and when emma pedreira did?",
+      "id": "nt-3937"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "what are the total numbers of letters used in the last poetry prize?",
+      "id": "nt-4232"
+    },
+    {
+      "targetValue": "2005",
+      "utterance": "what year were prose accessits awarded to the largest number of people?",
+      "id": "nt-4817"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how long in years from the 1st edition to the 18th edition?",
+      "id": "nt-9518"
+    },
+    {
+      "targetValue": "Agustín Hermida Castro",
+      "utterance": "what poetry prize is at the top of the list?",
+      "id": "nt-11819"
+    },
+    {
+      "targetValue": "Roberto X. Traba Velay",
+      "utterance": "who is above 5th edition",
+      "id": "nt-13178"
+    }
+  ],
+  "metadata": {
+    "title": "Manuel Oreste Rodriguez Lopez Literary Contest",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=39369552&oldid=598250411",
+    "tableIndex": 0,
+    "hashcode": "843e5979665bf38b5b155c6107b914fb8eeedbd9",
+    "id": 39369552,
+    "revision": 598250411
+  }
+}

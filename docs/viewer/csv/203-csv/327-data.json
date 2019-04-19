@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "47 years",
+      "utterance": "how long ago was it that don january won?",
+      "id": "nt-5379"
+    },
+    {
+      "targetValue": "Gene Sarazen",
+      "utterance": "who has the most years won of players who missed the cut?",
+      "id": "nt-5660"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times did gene sarazen win?",
+      "id": "nt-5939"
+    },
+    {
+      "targetValue": "Gene Sarazen",
+      "utterance": "who had the most wins from the united states?",
+      "id": "nt-6772"
+    },
+    {
+      "targetValue": "160",
+      "utterance": "what is the total listed for gene sarazen?",
+      "id": "nt-11785"
+    }
+  ],
+  "metadata": {
+    "title": "1971 PGA Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19804148&oldid=585816473",
+    "tableIndex": 1,
+    "hashcode": "30a4f87561bb84982da5cb2cfbe9ef0c0e738d1c",
+    "id": 19804148,
+    "revision": 585816473
+  }
+}

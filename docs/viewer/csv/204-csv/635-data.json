@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "1231",
+      "utterance": "what is the total if you add all of the selection numbers together?",
+      "id": "nt-693"
+    },
+    {
+      "targetValue": "Stansly Maponga",
+      "utterance": "who was the last de player?",
+      "id": "nt-749"
+    },
+    {
+      "targetValue": "Malliciah Goodman",
+      "utterance": "who was the only draftee to come from clemson?",
+      "id": "nt-2986"
+    },
+    {
+      "targetValue": "Desmond Trufant",
+      "utterance": "who was drafted before robert alford?",
+      "id": "nt-4142"
+    },
+    {
+      "targetValue": "Washington",
+      "utterance": "who got the first draft pick--washington or clemson?",
+      "id": "nt-6616"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many rounds were there?",
+      "id": "nt-7809"
+    },
+    {
+      "targetValue": "Desmond Trufant",
+      "utterance": "what is the top listed player?",
+      "id": "nt-7931"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many positions are assigned per player?",
+      "id": "nt-9399"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many cbs were drafted in 2013?",
+      "id": "nt-10373"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many different colleges did the players come from?",
+      "id": "nt-11311"
+    },
+    {
+      "targetValue": "Desmond Trufant",
+      "utterance": "who was the top draft pick?",
+      "id": "nt-12648"
+    },
+    {
+      "targetValue": "Sean Renfree",
+      "utterance": "who was the last draftee to be picked by the team?",
+      "id": "nt-13344"
+    },
+    {
+      "targetValue": "CB",
+      "utterance": "desmond trufant and robert alford both played which position?",
+      "id": "nt-14039"
+    }
+  ],
+  "metadata": {
+    "title": "2013 Atlanta Falcons season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=37982235&oldid=600005493",
+    "tableIndex": 0,
+    "hashcode": "80e087870f87fb65d22222051b3334ba1c404c75",
+    "id": 37982235,
+    "revision": 600005493
+  }
+}

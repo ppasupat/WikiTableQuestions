@@ -1,0 +1,58 @@
+{
+  "examples": [
+    {
+      "targetValue": "Lennart \"Skinnet\" Wigren",
+      "utterance": "who is the last player listed?",
+      "id": "nt-2272"
+    },
+    {
+      "targetValue": [
+        "Degerfors IF",
+        "MF"
+      ],
+      "utterance": "what is olle ahlunds club and his position?",
+      "id": "nt-4726"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "how many team players have less that 1 goal?",
+      "id": "nt-5022"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the difference between the caps of henry carlsson and borge leander?",
+      "id": "nt-7123"
+    },
+    {
+      "targetValue": "Gunnar \"Il Professore\" Gren",
+      "utterance": "who has the most goals?",
+      "id": "nt-7797"
+    },
+    {
+      "targetValue": [
+        "Gunnar \"Il Professore\" Gren",
+        "Gunnar Nordahl"
+      ],
+      "utterance": "who 2 players had at least 6 goals?",
+      "id": "nt-11414"
+    },
+    {
+      "targetValue": "33",
+      "utterance": "what was the total number of goals in 1945/1946?",
+      "id": "nt-13271"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many goals did olle ahlund score?",
+      "id": "nt-14102"
+    }
+  ],
+  "metadata": {
+    "title": "1945–46 in Swedish football",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10126993&oldid=584805617",
+    "tableIndex": 10,
+    "hashcode": "e8971671026c4c393fb54103750a93f36d76780f",
+    "id": 10126993,
+    "revision": 584805617
+  }
+}

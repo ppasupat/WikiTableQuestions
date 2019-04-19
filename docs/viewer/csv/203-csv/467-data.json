@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "2001",
+      "utterance": "list the first year more than 2000 jamaicans were granted british citizenship.",
+      "id": "nt-1509"
+    },
+    {
+      "targetValue": "2005",
+      "utterance": "which year saw the most naturalization by marriage?",
+      "id": "nt-2800"
+    },
+    {
+      "targetValue": "8405",
+      "utterance": "how many jamaicans were granted british citizenship after 2005?",
+      "id": "nt-3490"
+    },
+    {
+      "targetValue": "Naturalisation by residence",
+      "utterance": "most gain british citizenship in which manner?",
+      "id": "nt-4774"
+    },
+    {
+      "targetValue": "2,715",
+      "utterance": "what is the total number of jamaicans granted british citizenship in 2008?",
+      "id": "nt-6490"
+    },
+    {
+      "targetValue": "1,370",
+      "utterance": "how many jamaicans were granted british citizenship in 1998?",
+      "id": "nt-7313"
+    },
+    {
+      "targetValue": "1997",
+      "utterance": "what is the only year that had 114 minor children registered?",
+      "id": "nt-12199"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many years were the naturalisation numbers below 1500?",
+      "id": "nt-12571"
+    },
+    {
+      "targetValue": "1997",
+      "utterance": "in which year were the least amount of jamaicans granted british citizenship?",
+      "id": "nt-13147"
+    }
+  ],
+  "metadata": {
+    "title": "British Jamaican",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11214212&oldid=599246311",
+    "tableIndex": 0,
+    "hashcode": "2e5d85fb7c543226cede55dc66e438b12809ab77",
+    "id": 11214212,
+    "revision": 599246311
+  }
+}

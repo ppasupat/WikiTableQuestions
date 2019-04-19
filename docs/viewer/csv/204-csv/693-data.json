@@ -1,0 +1,81 @@
+{
+  "examples": [
+    {
+      "targetValue": "zabalj",
+      "utterance": "which place has more jews, durdevo or zabalj?",
+      "id": "nt-626"
+    },
+    {
+      "targetValue": "64",
+      "utterance": "what was total number of civilian casualties in vilovo?",
+      "id": "nt-1282"
+    },
+    {
+      "targetValue": "927",
+      "utterance": "how many total women were victims?",
+      "id": "nt-1990"
+    },
+    {
+      "targetValue": "Srbobran",
+      "utterance": "which town had the least vicitims?",
+      "id": "nt-3172"
+    },
+    {
+      "targetValue": "Lok",
+      "utterance": "at which location was there only one elderly casualty?",
+      "id": "nt-3852"
+    },
+    {
+      "targetValue": "1182",
+      "utterance": "what is the difference in total victims between vilovo and novi sad?",
+      "id": "nt-5428"
+    },
+    {
+      "targetValue": "272",
+      "utterance": "what was the average number of victims for all places?",
+      "id": "nt-6047"
+    },
+    {
+      "targetValue": "32",
+      "utterance": "how many victims in becej were children and the elderly?",
+      "id": "nt-6246"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many children casualties were there in temerin and titel?",
+      "id": "nt-6365"
+    },
+    {
+      "targetValue": "215",
+      "utterance": "what were the total number of victims in becej?",
+      "id": "nt-10799"
+    },
+    {
+      "targetValue": "Novi Sad",
+      "utterance": "what was the top city for victims?",
+      "id": "nt-11213"
+    },
+    {
+      "targetValue": [
+        "Lok",
+        "Srbobran",
+        "Titel"
+      ],
+      "utterance": "which locations had no women casualties?",
+      "id": "nt-11223"
+    },
+    {
+      "targetValue": "Novi Sad",
+      "utterance": "which place has the most women?",
+      "id": "nt-12691"
+    }
+  ],
+  "metadata": {
+    "title": "Novi Sad raid",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17608546&oldid=594733005",
+    "tableIndex": 0,
+    "hashcode": "a57f33705445f1285bb3702b84a5112ef18b0d97",
+    "id": 17608546,
+    "revision": 594733005
+  }
+}

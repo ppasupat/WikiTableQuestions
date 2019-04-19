@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "LB",
+      "utterance": "geno hayes and nick roach both played which position?",
+      "id": "nt-1014"
+    },
+    {
+      "targetValue": "OG",
+      "utterance": "the top played position according to this chart.",
+      "id": "nt-3202"
+    },
+    {
+      "targetValue": "Zack Bowman",
+      "utterance": "nick roach was signed the same day as what other player?",
+      "id": "nt-5694"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many players were signed in march?",
+      "id": "nt-7829"
+    },
+    {
+      "targetValue": "Troy Nolan",
+      "utterance": "last name is also a first name beginning with \"n\"",
+      "id": "nt-9519"
+    },
+    {
+      "targetValue": "Israel Idonije",
+      "utterance": "who was the previous player signed before troy nolan?",
+      "id": "nt-10137"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many free agents did this team pick up this season?",
+      "id": "nt-10736"
+    },
+    {
+      "targetValue": "Israel Idonije",
+      "utterance": "his/her first name is the same name as a country.",
+      "id": "nt-11018"
+    },
+    {
+      "targetValue": "Troy Nolan",
+      "utterance": "the only player to sign in july?",
+      "id": "nt-11734"
+    },
+    {
+      "targetValue": "Chris Spencer",
+      "utterance": "signed the same date as \"april fools day\".",
+      "id": "nt-12068"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many players play cb or og?",
+      "id": "nt-12117"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "total number of players that signed in march?",
+      "id": "nt-12948"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the total of 2013 teams on the chart?",
+      "id": "nt-13292"
+    }
+  ],
+  "metadata": {
+    "title": "2013 Chicago Bears season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=37982213&oldid=602216435",
+    "tableIndex": 0,
+    "hashcode": "2f47a95fddec388421186cf3d687fec6fd1c7281",
+    "id": 37982213,
+    "revision": 602216435
+  }
+}

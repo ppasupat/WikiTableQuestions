@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "649",
+      "utterance": "how much higher, in feet, is marmolada than vernel?",
+      "id": "nt-4317"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "which peaks in the dolomites start with the letter c and are under 3,000 meters?",
+      "id": "nt-5317"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "how many peaks in the dolomites are above 10,000 feet?",
+      "id": "nt-11652"
+    }
+  ],
+  "metadata": {
+    "title": "Dolomites",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=55202&oldid=601485830",
+    "tableIndex": 0,
+    "hashcode": "bc0b6a08e8d74cdb92cf8868f32bb67d65cd5d3c",
+    "id": 55202,
+    "revision": 601485830
+  }
+}

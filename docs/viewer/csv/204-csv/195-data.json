@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "2,850",
+      "utterance": "how many people can attend a game in holon city arena?",
+      "id": "nt-2156"
+    },
+    {
+      "targetValue": "Hapoel Tel Aviv",
+      "utterance": "what team other than maccabi tel aviv placed 1st last season?",
+      "id": "nt-2971"
+    },
+    {
+      "targetValue": "Nokia Arena",
+      "utterance": "which stadium can seat the most people?",
+      "id": "nt-3356"
+    },
+    {
+      "targetValue": "2,850",
+      "utterance": "how many people does the holon city arena in holon seat?",
+      "id": "nt-4988"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what is the total number of team?",
+      "id": "nt-5593"
+    },
+    {
+      "targetValue": "Romema Arena",
+      "utterance": "what is the next stadium after begin arena?",
+      "id": "nt-6827"
+    },
+    {
+      "targetValue": "1,100",
+      "utterance": "what amount of people, at most, can begin arena hold?",
+      "id": "nt-6903"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many stadiums hold ore than 2000 people?",
+      "id": "nt-8032"
+    },
+    {
+      "targetValue": "Tel Aviv",
+      "utterance": "name a home city that has at least two teams.",
+      "id": "nt-10065"
+    },
+    {
+      "targetValue": "Holon City Arena",
+      "utterance": "which stadium holds more people, yeshurun or holon city.",
+      "id": "nt-11477"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many stadiums seat more than 2,000 people?",
+      "id": "nt-12766"
+    }
+  ],
+  "metadata": {
+    "title": "2012–13 Israeli Basketball Super League",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=35965471&oldid=589597933",
+    "tableIndex": 0,
+    "hashcode": "e8b3abdfc289f8438625a1636454ba6e98691f84",
+    "id": 35965471,
+    "revision": 589597933
+  }
+}

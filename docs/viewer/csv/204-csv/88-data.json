@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Film",
+      "utterance": "was shinjuku triad society a film or tv release?",
+      "id": "nt-1177"
+    },
+    {
+      "targetValue": "Video",
+      "utterance": "were more air on tv or video?",
+      "id": "nt-7641"
+    },
+    {
+      "targetValue": "Shinjuku Triad Society",
+      "utterance": "name a film that was released before 1996.",
+      "id": "nt-8464"
+    },
+    {
+      "targetValue": "Fudoh: The New Generation",
+      "utterance": "which title is listed next after \"the way to fight\"?",
+      "id": "nt-10562"
+    },
+    {
+      "targetValue": "23",
+      "utterance": "how many years is the chart for?",
+      "id": "nt-11130"
+    },
+    {
+      "targetValue": "The Mole Song: Undercover Agent Reiji",
+      "utterance": "what is takashi miike's work with the least amount of years since release?",
+      "id": "nt-11742"
+    }
+  ],
+  "metadata": {
+    "title": "Takashi Miike",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=210732&oldid=596753227",
+    "tableIndex": 0,
+    "hashcode": "78138618b631bb6389cfe825f421fdf5a2675c9d",
+    "id": 210732,
+    "revision": 596753227
+  }
+}

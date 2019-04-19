@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "10",
+      "utterance": "what is the total number of teams that qualified?",
+      "id": "nt-3999"
+    },
+    {
+      "targetValue": "Kolkata Knight Riders",
+      "utterance": "which game came in first in the 2012 indian premier league?",
+      "id": "nt-4518"
+    },
+    {
+      "targetValue": "Highveld Lions",
+      "utterance": "which team came in after the titans in the miway t20 challenge?",
+      "id": "nt-5405"
+    },
+    {
+      "targetValue": [
+        "Auckland Aces",
+        "Yorkshire Carnegie"
+      ],
+      "utterance": "which teams were the last to qualify?",
+      "id": "nt-6151"
+    },
+    {
+      "targetValue": "Sydney Sixers",
+      "utterance": "which team made their first appearance in the same tournament as the perth scorchers?",
+      "id": "nt-12896"
+    },
+    {
+      "targetValue": "10 October 2012",
+      "utterance": "the auckland aces and yorkshire carnegie qualified on what date?",
+      "id": "nt-13118"
+    },
+    {
+      "targetValue": "Titans",
+      "utterance": "did the titans or the daredevils winners?",
+      "id": "nt-13459"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the total number of teams?",
+      "id": "nt-13468"
+    }
+  ],
+  "metadata": {
+    "title": "2012 Champions League Twenty20",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=35388712&oldid=577720892",
+    "tableIndex": 2,
+    "hashcode": "6a77932aa8c22d245d0cade011951c6003a724cc",
+    "id": 35388712,
+    "revision": 577720892
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "1 May 1979",
+      "utterance": "which game was attended by the least number of people?",
+      "id": "nt-581"
+    },
+    {
+      "targetValue": "Hinnigan",
+      "utterance": "who was the first goalscorer for wigan athletic f.c in the 1978-79 season?",
+      "id": "nt-4090"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what is the number of games with the attendance of at least 7,500?",
+      "id": "nt-7306"
+    },
+    {
+      "targetValue": "Newport County",
+      "utterance": "hinnigan and purdie were the only scorers against what opponent this team faced in september 1978?",
+      "id": "nt-7816"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many times did wright score after 1978?",
+      "id": "nt-10051"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many games were played in september 1978?",
+      "id": "nt-11052"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many games was the longest consecutive win streak?",
+      "id": "nt-13022"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many goals did hinnigan score throughout this season?",
+      "id": "nt-13874"
+    }
+  ],
+  "metadata": {
+    "title": "1978–79 Wigan Athletic F.C. season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30060491&oldid=593314346",
+    "tableIndex": 1,
+    "hashcode": "9642c9e0fb9311b7a1ce87f58e898d9c00200fdb",
+    "id": 30060491,
+    "revision": 593314346
+  }
+}

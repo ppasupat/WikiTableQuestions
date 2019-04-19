@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "yes",
+      "utterance": "are there any counties that have a larger amount of voters over alameda county?",
+      "id": "nt-3080"
+    },
+    {
+      "targetValue": "921",
+      "utterance": "what's the difference between horne's votes in marin and his votes in santa cruz?",
+      "id": "nt-3725"
+    },
+    {
+      "targetValue": "58",
+      "utterance": "how many counties participated in the election?",
+      "id": "nt-4921"
+    },
+    {
+      "targetValue": "7,011",
+      "utterance": "how many votes did horne have in contra costa?",
+      "id": "nt-5834"
+    },
+    {
+      "targetValue": "Feinstein",
+      "utterance": "who had more votes in marin county, feinstein or seymour?",
+      "id": "nt-6170"
+    },
+    {
+      "targetValue": "2,643,475",
+      "utterance": "what is the total number of votes submitted for all candidates in los angeles county?",
+      "id": "nt-6525"
+    },
+    {
+      "targetValue": "2.29%",
+      "utterance": "what percentage of votes did boddie have in sacramento?",
+      "id": "nt-9109"
+    },
+    {
+      "targetValue": "Feinstein",
+      "utterance": "which candidate came in first place, with the most votes?",
+      "id": "nt-9799"
+    },
+    {
+      "targetValue": "Alpine",
+      "utterance": "which county did feinstein have the least amount of votes in?",
+      "id": "nt-10548"
+    },
+    {
+      "targetValue": "8.04%",
+      "utterance": "how much greater was feinstein's percent in san francisco than in alameda?",
+      "id": "nt-11075"
+    },
+    {
+      "targetValue": "Alpine",
+      "utterance": "which county had the least amount of votes for horne?",
+      "id": "nt-11726"
+    },
+    {
+      "targetValue": "San Francisco",
+      "utterance": "which county had 15.79% for seymour?",
+      "id": "nt-12386"
+    }
+  ],
+  "metadata": {
+    "title": "United States Senate special election in California, 1992",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18656607&oldid=410069279",
+    "tableIndex": 1,
+    "hashcode": "93aea6543fbef0b6e5b6bda91f708482cc8c7c7d",
+    "id": 18656607,
+    "revision": 410069279
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Finland",
+      "utterance": "what is the first country listed on this chart?",
+      "id": "nt-1241"
+    },
+    {
+      "targetValue": "Finland",
+      "utterance": "who was in the final for 1975, finland or united kingdom?",
+      "id": "nt-6306"
+    },
+    {
+      "targetValue": "1991",
+      "utterance": "when was the next time spain was a finalist after 1979?",
+      "id": "nt-6970"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many countries appear at least four times?",
+      "id": "nt-7399"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what are the number of times france is listed on this chart?",
+      "id": "nt-7522"
+    },
+    {
+      "targetValue": "Israel",
+      "utterance": "who won two years after the uk?",
+      "id": "nt-7924"
+    },
+    {
+      "targetValue": "Ireland",
+      "utterance": "which country is listed for the most finals?",
+      "id": "nt-9615"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many years previous to 2010 was ireland a finalist?",
+      "id": "nt-9838"
+    }
+  ],
+  "metadata": {
+    "title": "Switzerland in the Eurovision Song Contest",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=806150&oldid=602217935",
+    "tableIndex": 5,
+    "hashcode": "c22d6cd64dc6c07992f54de0aae7d890d05d1c6e",
+    "id": 806150,
+    "revision": 602217935
+  }
+}

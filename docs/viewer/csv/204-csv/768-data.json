@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "14.0%",
+      "utterance": "what as the percentage total of ratings for episode 8?",
+      "id": "nt-403"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many episode total are there?",
+      "id": "nt-4083"
+    },
+    {
+      "targetValue": "Ep. 4",
+      "utterance": "which episode was titled i want to let her attend school?",
+      "id": "nt-4116"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many episodes are listed?",
+      "id": "nt-6639"
+    },
+    {
+      "targetValue": "Ep. 8",
+      "utterance": "other than the 10th episode, which other episode has a 14% rating?",
+      "id": "nt-7424"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many episodes were broadcast in april 2010 in japan?",
+      "id": "nt-8757"
+    },
+    {
+      "targetValue": "児童虐待からの脱出 渡り鳥になった二人",
+      "utterance": "what was the name of the first episode of this show?",
+      "id": "nt-9820"
+    },
+    {
+      "targetValue": "あの子を返して!",
+      "utterance": "what was the name of the next episode after goodbye mother?",
+      "id": "nt-10574"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many episodes had a consecutive rating over 11%?",
+      "id": "nt-11602"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what episode number was the only episode to have over 16% of ratings?",
+      "id": "nt-12543"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many episode are not over 14%?",
+      "id": "nt-13319"
+    },
+    {
+      "targetValue": "ずっと愛してる",
+      "utterance": "what was the top rated episode of this show?",
+      "id": "nt-13644"
+    }
+  ],
+  "metadata": {
+    "title": "Mother (TV series)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=27813037&oldid=541239150",
+    "tableIndex": 0,
+    "hashcode": "d7e74ee5c18075e45f8250e84e1640f9588a3a4c",
+    "id": 27813037,
+    "revision": 541239150
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "#14",
+      "utterance": "what was there top ranked position of the season?",
+      "id": "nt-6101"
+    },
+    {
+      "targetValue": "San Diego State",
+      "utterance": "which team has the highest rank among those listed?",
+      "id": "nt-7740"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the score difference for the game against michigan state?",
+      "id": "nt-7750"
+    },
+    {
+      "targetValue": "146",
+      "utterance": "add up the total number of points scored in the last wins for boise state.",
+      "id": "nt-7759"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what was the most consecutive wins for the team shown in the season?",
+      "id": "nt-7789"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "did the broncos on september 29th win by less than 5 points?",
+      "id": "nt-9884"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of games played at bronco stadium?",
+      "id": "nt-11698"
+    },
+    {
+      "targetValue": "Wyoming",
+      "utterance": "opponent broncos faced next after unlv",
+      "id": "nt-12255"
+    },
+    {
+      "targetValue": "#22",
+      "utterance": "what rank was boise state after november 10th?",
+      "id": "nt-12632"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "number of points scored by miami (oh) against the broncos.",
+      "id": "nt-14082"
+    }
+  ],
+  "metadata": {
+    "title": "2012 Boise State Broncos football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=34980632&oldid=592688526",
+    "tableIndex": 0,
+    "hashcode": "ace36246ef3574ba1dcb11c0ff2f0abb87152d18",
+    "id": 34980632,
+    "revision": 592688526
+  }
+}

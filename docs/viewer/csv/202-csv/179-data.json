@@ -1,0 +1,31 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Kimi Räikkönen",
+        "Fernando Alonso",
+        "Jenson Button"
+      ],
+      "utterance": "who were the top 3 finishers in the 2005 belgian grand prix?",
+      "id": "nt-672"
+    },
+    {
+      "targetValue": "40",
+      "utterance": "how many laps did juan pablo montoya complete in the 2005 belgian grand prix?",
+      "id": "nt-6682"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many competitors in the 2005 belgian grand prix did not finish the race?",
+      "id": "nt-10353"
+    }
+  ],
+  "metadata": {
+    "title": "2005 Belgian Grand Prix",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2652835&oldid=598640168",
+    "tableIndex": 1,
+    "hashcode": "0e62954443b370ee5d8aff93037ab1054048432c",
+    "id": 2652835,
+    "revision": 598640168
+  }
+}

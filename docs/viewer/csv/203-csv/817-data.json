@@ -1,0 +1,43 @@
+{
+  "examples": [
+    {
+      "targetValue": "11",
+      "utterance": "how many re-elected republicans had at least 53% of the vote?",
+      "id": "nt-5898"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "how many states were listed as democratic?",
+      "id": "nt-6361"
+    },
+    {
+      "targetValue": [
+        "State",
+        "Incumbent",
+        "Party",
+        "Result",
+        "Candidates"
+      ],
+      "utterance": "at the top of the table, list the categories given.",
+      "id": "nt-9805"
+    },
+    {
+      "targetValue": "35",
+      "utterance": "counts and give the number of incumbents.",
+      "id": "nt-10261"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many states had a democratic gain due to retirement?",
+      "id": "nt-13294"
+    }
+  ],
+  "metadata": {
+    "title": "United States Senate elections, 1956",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1305075&oldid=572092776",
+    "tableIndex": 4,
+    "hashcode": "cabc491038314dec785d0ed6dfd9c4eb57214293",
+    "id": 1305075,
+    "revision": 572092776
+  }
+}

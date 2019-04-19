@@ -1,0 +1,74 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many 4x 100m relays were run?",
+      "id": "nt-1494"
+    },
+    {
+      "targetValue": [
+        "European Championships",
+        "Commonwealth Games",
+        "Commonwealth Games"
+      ],
+      "utterance": "list the other competitions besides european u23 championship that came in 1st position?",
+      "id": "nt-3843"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many times was golding in 2nd position?",
+      "id": "nt-5461"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many total years did golding compete?",
+      "id": "nt-6703"
+    },
+    {
+      "targetValue": [
+        "European Championships",
+        "Commonwealth Games"
+      ],
+      "utterance": "list the competitions that have the same relay as world championships from athens, greece.",
+      "id": "nt-7685"
+    },
+    {
+      "targetValue": "1998",
+      "utterance": "in what year between 1997 and 2000 did julian golding, the sprinter representing the united kingdom and england finish first in both the 4 x 100 m relay and the 200 metres race?",
+      "id": "nt-7801"
+    },
+    {
+      "targetValue": "200 metres",
+      "utterance": "how long was the sprint from the european indoor championships competition in 2000?",
+      "id": "nt-7979"
+    },
+    {
+      "targetValue": "1997",
+      "utterance": "in what year did england get the top achievment in the 200 meter?",
+      "id": "nt-11222"
+    },
+    {
+      "targetValue": "European Indoor Championships",
+      "utterance": "what was the only event won in belgium?",
+      "id": "nt-12458"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many events were won in malaysia?",
+      "id": "nt-13070"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many competitions were in budapest, hungary and came in 1st position?",
+      "id": "nt-13410"
+    }
+  ],
+  "metadata": {
+    "title": "Julian Golding",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2920758&oldid=585180670",
+    "tableIndex": 0,
+    "hashcode": "2fda67301e44ace06f37352f164ae6d588c9e51e",
+    "id": 2920758,
+    "revision": 585180670
+  }
+}

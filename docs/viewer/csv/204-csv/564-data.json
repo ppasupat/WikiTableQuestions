@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many total options are there about anusvara?",
+      "id": "nt-2050"
+    },
+    {
+      "targetValue": "ओ / ो",
+      "utterance": "which devanagaria means the same as this iast letter: o?",
+      "id": "nt-2960"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "this table shows the difference between how many transliterations?",
+      "id": "nt-8793"
+    },
+    {
+      "targetValue": "e",
+      "utterance": "what iast is listed before the o?",
+      "id": "nt-9534"
+    },
+    {
+      "targetValue": "e",
+      "utterance": "what unrsgn is listed previous to the o?",
+      "id": "nt-10228"
+    },
+    {
+      "targetValue": "ए / े",
+      "utterance": "which devanagari transliteration is listed on the top of the table?",
+      "id": "nt-11575"
+    },
+    {
+      "targetValue": "For consistency with r̥",
+      "utterance": "what is listed previous to in iso 15919, &#7735; is used to represent &#2355;. under comments?",
+      "id": "nt-11848"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the total number of translations?",
+      "id": "nt-13460"
+    }
+  ],
+  "metadata": {
+    "title": "ISO 15919",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=869290&oldid=585792471",
+    "tableIndex": 0,
+    "hashcode": "4ca10971fb4ac07e289a96d146e826d6e0b21c67",
+    "id": 869290,
+    "revision": 585792471
+  }
+}

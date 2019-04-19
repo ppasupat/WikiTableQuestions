@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "1985",
+      "utterance": "in what year were there the most births?",
+      "id": "nt-1148"
+    },
+    {
+      "targetValue": "2006",
+      "utterance": "which year had more deaths, 1998 or 2006?",
+      "id": "nt-2233"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "in how many years was there a negative (listed in red) natural change?",
+      "id": "nt-3216"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "are the years in a consecutive order?",
+      "id": "nt-4144"
+    },
+    {
+      "targetValue": "2003",
+      "utterance": "name a year that had deaths higher than 400 but a crude birth rate lower than 12.",
+      "id": "nt-4589"
+    },
+    {
+      "targetValue": "350",
+      "utterance": "what is the total number of natural change in 1980?",
+      "id": "nt-5163"
+    },
+    {
+      "targetValue": "436",
+      "utterance": "what was the number of deaths in 1996?",
+      "id": "nt-7247"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many counties had a negative natural change?",
+      "id": "nt-9394"
+    },
+    {
+      "targetValue": [
+        "1990",
+        "1991"
+      ],
+      "utterance": "name two years each with 38 as the average population",
+      "id": "nt-10446"
+    },
+    {
+      "targetValue": "99",
+      "utterance": "what is the difference between live births and deaths in 1995?",
+      "id": "nt-10686"
+    },
+    {
+      "targetValue": "40",
+      "utterance": "how many years span the table entry?",
+      "id": "nt-11917"
+    },
+    {
+      "targetValue": "310",
+      "utterance": "how many live births are in 2002?",
+      "id": "nt-12409"
+    }
+  ],
+  "metadata": {
+    "title": "Koryak Okrug",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=482036&oldid=593793780",
+    "tableIndex": 0,
+    "hashcode": "5ac6e13f385e2f5e8c702ea368798bb51120e336",
+    "id": 482036,
+    "revision": 593793780
+  }
+}

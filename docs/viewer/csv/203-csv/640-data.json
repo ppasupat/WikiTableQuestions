@@ -1,0 +1,41 @@
+{
+  "examples": [
+    {
+      "targetValue": "1962",
+      "utterance": "what was the last year of harald v of norway's reign?",
+      "id": "nt-4059"
+    },
+    {
+      "targetValue": "Andrew Bertie",
+      "utterance": "vajiravhud went to college at christ church. who is the other monarch that went there?",
+      "id": "nt-5305"
+    },
+    {
+      "targetValue": [
+        "Tuanku Jaafar",
+        "Harald V of Norway",
+        "Olav V of Norway"
+      ],
+      "utterance": "which monarchs attended the same college at the university of oxford as seretse khama?",
+      "id": "nt-8909"
+    },
+    {
+      "targetValue": "BagammaNgwato",
+      "utterance": "where did seretse khama reign before he was the president of botswana?",
+      "id": "nt-11015"
+    },
+    {
+      "targetValue": "2 years",
+      "utterance": "how long was harald v of norway the king of norway at the university of oxford?",
+      "id": "nt-12297"
+    }
+  ],
+  "metadata": {
+    "title": "List of University of Oxford people in public life overseas",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13004902&oldid=596071098",
+    "tableIndex": 0,
+    "hashcode": "99e4d3e8472af351e99603888589973db566adf4",
+    "id": 13004902,
+    "revision": 596071098
+  }
+}

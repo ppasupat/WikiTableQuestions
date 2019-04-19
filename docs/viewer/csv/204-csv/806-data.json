@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "baroque style",
+      "utterance": "what style was the chateau de brissac rebuilt in after it was damaged during the french wars of religion?",
+      "id": "nt-110"
+    },
+    {
+      "targetValue": "Château de Pouancé",
+      "utterance": "which castle is considered second fortress of anjou, after angers?",
+      "id": "nt-217"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many towers does château d'angers have?",
+      "id": "nt-304"
+    },
+    {
+      "targetValue": "Château de Brissac",
+      "utterance": "what chateau comes after \"chateau de bourmont\"?",
+      "id": "nt-855"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many chateau's were constructed in the 13th century?",
+      "id": "nt-1030"
+    },
+    {
+      "targetValue": "Château de Baugé",
+      "utterance": "what was the only castle to be built as a hunting lodge?",
+      "id": "nt-1173"
+    },
+    {
+      "targetValue": "Château d'Angers",
+      "utterance": "the two that are substantially intact are château de montreuil-bellay and which other one?",
+      "id": "nt-1415"
+    },
+    {
+      "targetValue": "Château de Baugé",
+      "utterance": "which is the only one built as a hunting lodge?",
+      "id": "nt-1962"
+    },
+    {
+      "targetValue": "15th century",
+      "utterance": "when was the last external change made on château du plessis-bourré?",
+      "id": "nt-5089"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many of these castles are currently in ruins?",
+      "id": "nt-7428"
+    },
+    {
+      "targetValue": "Château de Montsoreau",
+      "utterance": "what is the only chateau built in 1455?",
+      "id": "nt-7896"
+    }
+  ],
+  "metadata": {
+    "title": "List of castles in the Pays de la Loire",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=32531288&oldid=601321516",
+    "tableIndex": 1,
+    "hashcode": "d6714a4bbb7575c61d05a9a72e89c758d016db0d",
+    "id": 32531288,
+    "revision": 601321516
+  }
+}

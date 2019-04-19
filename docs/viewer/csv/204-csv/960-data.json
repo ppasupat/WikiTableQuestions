@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "100",
+      "utterance": "what is the total number of counties listed?",
+      "id": "nt-1327"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what number of counties are named for us presidents?",
+      "id": "nt-1549"
+    },
+    {
+      "targetValue": "Alamance County",
+      "utterance": "what is the only county whose name comes from a battle?",
+      "id": "nt-3236"
+    },
+    {
+      "targetValue": "Dare County",
+      "utterance": "which county covers the most area?",
+      "id": "nt-5239"
+    },
+    {
+      "targetValue": "37",
+      "utterance": "what is the number of counties created in the 1800s?",
+      "id": "nt-7956"
+    },
+    {
+      "targetValue": "Wake County",
+      "utterance": "other than mecklenburg which county has the largest population?",
+      "id": "nt-8198"
+    },
+    {
+      "targetValue": "Alamance County",
+      "utterance": "which county has a higher population, alamance or alexander?",
+      "id": "nt-12426"
+    }
+  ],
+  "metadata": {
+    "title": "List of counties in North Carolina",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=82165&oldid=588253335",
+    "tableIndex": 0,
+    "hashcode": "a1fa9cae712293465d90ebc722bb463678ac36d8",
+    "id": 82165,
+    "revision": 588253335
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "examples": [
+    {
+      "targetValue": "1985",
+      "utterance": "what year was the first to reach 1,000 or more live births?",
+      "id": "nt-117"
+    },
+    {
+      "targetValue": "2006",
+      "utterance": "which year had an average population of less than 38?",
+      "id": "nt-2848"
+    },
+    {
+      "targetValue": "2000",
+      "utterance": "what is the only year that had 460 live births?",
+      "id": "nt-3577"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many years had more than 500 deaths but less than 502?",
+      "id": "nt-5464"
+    },
+    {
+      "targetValue": [
+        "1985",
+        "1990",
+        "1991"
+      ],
+      "utterance": "which years have an average population of no less than 50,000?",
+      "id": "nt-8049"
+    },
+    {
+      "targetValue": "1985",
+      "utterance": "when was there a larger amount of natural change than in 1980?",
+      "id": "nt-11132"
+    },
+    {
+      "targetValue": "39,000",
+      "utterance": "what is the average population of 2001?",
+      "id": "nt-14021"
+    }
+  ],
+  "metadata": {
+    "title": "Taymyr Autonomous Okrug",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=482047&oldid=586318897",
+    "tableIndex": 0,
+    "hashcode": "f2f85eca33e8952d16312ce22e0d6280f7088832",
+    "id": 482047,
+    "revision": 586318897
+  }
+}

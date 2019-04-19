@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Valencia, Spain",
+      "utterance": "what venue was before beijing, china?",
+      "id": "nt-5148"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many races did she compete in each of the following years: 2009, 2010, and 2011.",
+      "id": "nt-6141"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of 800 meter events?",
+      "id": "nt-7629"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "what was the only year she competed in kenya?",
+      "id": "nt-8790"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many 800m events?",
+      "id": "nt-9937"
+    },
+    {
+      "targetValue": "2013",
+      "utterance": "what is the year with the most events?",
+      "id": "nt-11322"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many races did she run after the 2008 olympics?",
+      "id": "nt-11485"
+    },
+    {
+      "targetValue": "Stuttgart, Germany",
+      "utterance": "was germany or japan in 8th place in 2007?",
+      "id": "nt-11740"
+    },
+    {
+      "targetValue": "Berlin, Germany",
+      "utterance": "which country came in last place in 2009?",
+      "id": "nt-12247"
+    },
+    {
+      "targetValue": "4:05.57",
+      "utterance": "her best time for the 1500 m was 4:04.06 in 2013. what was her previous best time?",
+      "id": "nt-13211"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of competitions held in 2013?",
+      "id": "nt-13823"
+    }
+  ],
+  "metadata": {
+    "title": "Siham Hilali",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13393389&oldid=598761465",
+    "tableIndex": 0,
+    "hashcode": "ef193972fef3d731633be62a6350218dc0393dc6",
+    "id": 13393389,
+    "revision": 598761465
+  }
+}

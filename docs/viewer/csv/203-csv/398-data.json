@@ -1,0 +1,50 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "1969",
+        "1989"
+      ],
+      "utterance": "what years were the 5th and 10 vidhan sabha?",
+      "id": "nt-1019"
+    },
+    {
+      "targetValue": "1952",
+      "utterance": "name a year in which there was not an election.",
+      "id": "nt-2441"
+    },
+    {
+      "targetValue": "1980",
+      "utterance": "was there an election in 1980 or 1982?",
+      "id": "nt-3142"
+    },
+    {
+      "targetValue": "INC",
+      "utterance": "which party has won the most?",
+      "id": "nt-4335"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many total times has the jnp been the winning party?",
+      "id": "nt-9645"
+    },
+    {
+      "targetValue": "Shri Tej Bhahdur",
+      "utterance": "who has been elected more often, shri tej bhadur or shri anish ahemd khan?",
+      "id": "nt-10811"
+    },
+    {
+      "targetValue": "INC",
+      "utterance": "what is the winning party the year that shri durga prasad was the vidhan sabha?",
+      "id": "nt-13858"
+    }
+  ],
+  "metadata": {
+    "title": "Pilibhit District – Vidhan Sabha Constituencies",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19343153&oldid=551363134",
+    "tableIndex": 2,
+    "hashcode": "a8bda222abd620825d9272ad5547e9f388cb1d7f",
+    "id": 19343153,
+    "revision": 551363134
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "56656",
+      "utterance": "which train number has its destination in kannur?",
+      "id": "nt-801"
+    },
+    {
+      "targetValue": "Kozhikode",
+      "utterance": "what is the first destination in the chart?",
+      "id": "nt-1430"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "the number of passenger trains that left mangalore central is how many?",
+      "id": "nt-5358"
+    },
+    {
+      "targetValue": "DEMU",
+      "utterance": "beside passenger and fast passenger, what other train name left mangalore central?",
+      "id": "nt-7198"
+    },
+    {
+      "targetValue": "Verna",
+      "utterance": "what destination is above subrahmanya road in the chart?",
+      "id": "nt-8869"
+    },
+    {
+      "targetValue": "70106",
+      "utterance": "what is the next train number that followed 56661?",
+      "id": "nt-9595"
+    },
+    {
+      "targetValue": "Kozhikode",
+      "utterance": "what is the destination of the first passenger train to leave mangalore central?",
+      "id": "nt-10196"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many trains are passenger?",
+      "id": "nt-10226"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many trains are demu category?",
+      "id": "nt-13523"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many trains originate from mangalore central?",
+      "id": "nt-13645"
+    }
+  ],
+  "metadata": {
+    "title": "Mangalore Central railway station",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=32988055&oldid=598051926",
+    "tableIndex": 1,
+    "hashcode": "f565155316aaac37ad214a753fcff44769aace92",
+    "id": 32988055,
+    "revision": 598051926
+  }
+}

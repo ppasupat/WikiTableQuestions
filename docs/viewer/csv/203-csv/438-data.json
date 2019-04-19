@@ -1,0 +1,80 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many titles have also starred michael douglas?",
+      "id": "nt-1807"
+    },
+    {
+      "targetValue": "32",
+      "utterance": "how many times is executive producer listed as the role in this chart?",
+      "id": "nt-2404"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what were the number of titles produced in 2004?",
+      "id": "nt-3104"
+    },
+    {
+      "targetValue": "Lone Survivor",
+      "utterance": "which was damons' last title to be the executive producer on?",
+      "id": "nt-3183"
+    },
+    {
+      "targetValue": "1972",
+      "utterance": "what year were the most titles produced?",
+      "id": "nt-4890"
+    },
+    {
+      "targetValue": "Monster",
+      "utterance": "which of damons' titles won the most awards?",
+      "id": "nt-5383"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what are the total number of times dolph lundgren starred in a title according to this list?",
+      "id": "nt-6228"
+    },
+    {
+      "targetValue": "The I Inside",
+      "utterance": "what film did damon produce right after monster?",
+      "id": "nt-10220"
+    },
+    {
+      "targetValue": "53",
+      "utterance": "how many titles were released before, but not including, 1988?",
+      "id": "nt-11156"
+    },
+    {
+      "targetValue": "The Upside of Anger",
+      "utterance": "what film did damon executive produce that starred kevin costner and joan allen?",
+      "id": "nt-12801"
+    },
+    {
+      "targetValue": "2004",
+      "utterance": "what year was beyond the sea released?",
+      "id": "nt-13621"
+    },
+    {
+      "targetValue": "Executive Producer",
+      "utterance": "what role did damon play most throughout his career?",
+      "id": "nt-13905"
+    },
+    {
+      "targetValue": [
+        "The NeverEnding Story",
+        "Das Boot"
+      ],
+      "utterance": "what two consecutive films did damon executive produce that were directed by wolfgang petersen?",
+      "id": "nt-14098"
+    }
+  ],
+  "metadata": {
+    "title": "Mark Damon",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6605658&oldid=590357837",
+    "tableIndex": 0,
+    "hashcode": "b822e2dfa6267981a45c7d15d251c6e5b98eeff1",
+    "id": 6605658,
+    "revision": 590357837
+  }
+}

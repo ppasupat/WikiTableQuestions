@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "101,821",
+      "utterance": "what is the largest attendance on the chart",
+      "id": "nt-1292"
+    },
+    {
+      "targetValue": "Missouri State",
+      "utterance": "what is the first game listed on the schedule?",
+      "id": "nt-3916"
+    },
+    {
+      "targetValue": [
+        "November 5",
+        "W 44-28"
+      ],
+      "utterance": "whats after october 29 and what is the result",
+      "id": "nt-4168"
+    },
+    {
+      "targetValue": "52",
+      "utterance": "what is he largest points scored in one game?",
+      "id": "nt-4469"
+    },
+    {
+      "targetValue": "Auburn",
+      "utterance": "which game at home had the most attendance?",
+      "id": "nt-4658"
+    },
+    {
+      "targetValue": "19304",
+      "utterance": "what is the difference in attendance between november 5 and november 25",
+      "id": "nt-6573"
+    },
+    {
+      "targetValue": "W 51-7",
+      "utterance": "what is the top result on the chart",
+      "id": "nt-8487"
+    },
+    {
+      "targetValue": "Kansas State",
+      "utterance": "who is the only team this team faced in january which was during the cotton bowl?",
+      "id": "nt-9477"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many games during this season were aired on cbs?",
+      "id": "nt-10203"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many wins did they have before the november 19th game?",
+      "id": "nt-12736"
+    }
+  ],
+  "metadata": {
+    "title": "2011 Arkansas Razorbacks football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=31546691&oldid=601654453",
+    "tableIndex": 0,
+    "hashcode": "72e767b2606f24ba889cda46c050af7bfd071317",
+    "id": 31546691,
+    "revision": 601654453
+  }
+}

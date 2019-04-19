@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Halau Ku Mana NCPCS",
+      "utterance": "what was the last public middle school founded in hawaii?",
+      "id": "nt-717"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many schools are not charter?",
+      "id": "nt-849"
+    },
+    {
+      "targetValue": "86 years",
+      "utterance": "how long has kalakaua middle school been erected?",
+      "id": "nt-4299"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many schools were established before 1955?",
+      "id": "nt-10037"
+    },
+    {
+      "targetValue": "Central Middle School",
+      "utterance": "which public middle school in hawaii was established most closely after washington middle school?",
+      "id": "nt-10285"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "a total of how many schools were established in the 21st century?",
+      "id": "nt-10579"
+    },
+    {
+      "targetValue": "Washington Middle School",
+      "utterance": "which school was established first?",
+      "id": "nt-10845"
+    },
+    {
+      "targetValue": "Washington Middle School",
+      "utterance": "what was the first public middle school established in hawaii?",
+      "id": "nt-10857"
+    },
+    {
+      "targetValue": "2000",
+      "utterance": "what year was the last school established?",
+      "id": "nt-10962"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many schools are only charter?",
+      "id": "nt-11770"
+    }
+  ],
+  "metadata": {
+    "title": "List of middle schools in Hawaii",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18317626&oldid=587319867",
+    "tableIndex": 0,
+    "hashcode": "23c4c47dbc26ba90262d85015675043908c65e22",
+    "id": 18317626,
+    "revision": 587319867
+  }
+}

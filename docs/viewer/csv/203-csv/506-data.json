@@ -1,0 +1,85 @@
+{
+  "examples": [
+    {
+      "targetValue": "New Zealand",
+      "utterance": "name the only team they had a losing record against.",
+      "id": "nt-1869"
+    },
+    {
+      "targetValue": "210",
+      "utterance": "what is the total number of games played by all teams?",
+      "id": "nt-2064"
+    },
+    {
+      "targetValue": [
+        "Australia",
+        "Germany",
+        "Italy",
+        "Kazakhstan",
+        "Netherlands",
+        "Russia",
+        "Samoa",
+        "South Africa",
+        "Sweden"
+      ],
+      "utterance": "teams where the number of games played was the same as number of games won.",
+      "id": "nt-2296"
+    },
+    {
+      "targetValue": "Wales",
+      "utterance": "who did they have the largest win/loss differential against?",
+      "id": "nt-3797"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many teams did they not lose to?",
+      "id": "nt-4794"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "of the teams with 100% wins, which team played the most games?",
+      "id": "nt-6567"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many games did the england women's rfu play against countries located in north america?",
+      "id": "nt-7961"
+    },
+    {
+      "targetValue": [
+        "France",
+        "Wales"
+      ],
+      "utterance": "name two countries that the england women's rfu have played above thirty games against.",
+      "id": "nt-9367"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "what is the most number of games played by a team with at least one draw?",
+      "id": "nt-9802"
+    },
+    {
+      "targetValue": "New Zealand",
+      "utterance": "against which country did the england women's rfu not rate at an overall percentage of at least 70%?",
+      "id": "nt-10475"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "for how many teams was the win percentage below 90%",
+      "id": "nt-11396"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "what was the total number of countries that the england women's rfu played against?",
+      "id": "nt-12398"
+    }
+  ],
+  "metadata": {
+    "title": "England women's national rugby union team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13097604&oldid=600766993",
+    "tableIndex": 0,
+    "hashcode": "8af6f073f175f2ed365da255d419e9735851e949",
+    "id": 13097604,
+    "revision": 600766993
+  }
+}

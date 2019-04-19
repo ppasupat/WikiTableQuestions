@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "36",
+      "utterance": "what is the total amount of senators i all departments?",
+      "id": "nt-61"
+    },
+    {
+      "targetValue": "Pando",
+      "utterance": "which department has the least number of total deputies?",
+      "id": "nt-1034"
+    },
+    {
+      "targetValue": "Pando",
+      "utterance": "what is the only department witj 5 total deputies",
+      "id": "nt-1771"
+    },
+    {
+      "targetValue": [
+        "La Paz",
+        "Santa Cruz"
+      ],
+      "utterance": "which country has the most uninominal deputies",
+      "id": "nt-3179"
+    },
+    {
+      "targetValue": "Pando",
+      "utterance": "which department of bolivia's legislature has the least number of deputies?",
+      "id": "nt-3198"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many more total deputies does benji have than state senators?",
+      "id": "nt-3835"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "does oruro have more or less uninominal deputies than la paz?",
+      "id": "nt-5801"
+    },
+    {
+      "targetValue": "La Paz",
+      "utterance": "what is the department with the most amount of total deputies?",
+      "id": "nt-6484"
+    },
+    {
+      "targetValue": "Cochabamba",
+      "utterance": "are there more special indigenous or campesino deputies from cochabamba or chuquisaca?",
+      "id": "nt-8403"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the difference in number between the uninominal deputies from potosí and beni?",
+      "id": "nt-9497"
+    },
+    {
+      "targetValue": "La Paz",
+      "utterance": "which department has the most total deputies?",
+      "id": "nt-10341"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "each department of bolivia's legislature has at least how many deputies.",
+      "id": "nt-12547"
+    }
+  ],
+  "metadata": {
+    "title": "Bolivian general election, 2014",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=39445965&oldid=601374074",
+    "tableIndex": 0,
+    "hashcode": "7b4947fa448b14458d0e2bde31abef953bc3f3d0",
+    "id": 39445965,
+    "revision": 601374074
+  }
+}

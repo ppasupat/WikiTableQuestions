@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "1995",
+      "utterance": "what year did the album \"jezebel\" on blockshok records release?",
+      "id": "nt-168"
+    },
+    {
+      "targetValue": "Good Deeds and Dirty Rags",
+      "utterance": "what debut album, reached no. 26 on uk albums chart in 1989?",
+      "id": "nt-803"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many total albums did this group have under capitol records?",
+      "id": "nt-2557"
+    },
+    {
+      "targetValue": "Blokshok Records",
+      "utterance": "five and jezebel are apart of which label?",
+      "id": "nt-3357"
+    },
+    {
+      "targetValue": "Goodbye Mr. Mackenzie",
+      "utterance": "which album came after hammer and tongs for this group?",
+      "id": "nt-6376"
+    },
+    {
+      "targetValue": "Five",
+      "utterance": "what is the name of blokshok records third studio album?",
+      "id": "nt-7754"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many consecutive albums were released by the blokshok records label?",
+      "id": "nt-9112"
+    },
+    {
+      "targetValue": "The River Sessions",
+      "utterance": "what is the only album produced by river records for this group?",
+      "id": "nt-9194"
+    },
+    {
+      "targetValue": "Five",
+      "utterance": "what is the next album listed after 1993?",
+      "id": "nt-9304"
+    },
+    {
+      "targetValue": "Live on The Day of Storms",
+      "utterance": "five was released in 1994. what was the previous album released?",
+      "id": "nt-12021"
+    },
+    {
+      "targetValue": "Good Deeds and Dirty Rags",
+      "utterance": "which album hit the highest spot on the uk albums chart?",
+      "id": "nt-13068"
+    }
+  ],
+  "metadata": {
+    "title": "Goodbye Mr. Mackenzie",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1116381&oldid=600847733",
+    "tableIndex": 0,
+    "hashcode": "3bcddc0d78f9f576c9345ac2d121a8c591af9aee",
+    "id": 1116381,
+    "revision": 600847733
+  }
+}

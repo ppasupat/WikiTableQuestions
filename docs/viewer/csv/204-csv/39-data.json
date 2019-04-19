@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "30",
+      "utterance": "what is the number of symbol zn?",
+      "id": "nt-200"
+    },
+    {
+      "targetValue": "nickel",
+      "utterance": "which element is listed directly above copper?",
+      "id": "nt-1851"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of ionizations of iron?",
+      "id": "nt-4210"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many elements have data that is below the 25th?",
+      "id": "nt-5655"
+    },
+    {
+      "targetValue": "154500",
+      "utterance": "what is the amount of ionization of mo at the 30th?",
+      "id": "nt-6251"
+    },
+    {
+      "targetValue": "scandium",
+      "utterance": "name an element that does not have the letter \"e\" in its name.",
+      "id": "nt-8372"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many other symbols than kr are extended to the 30th?",
+      "id": "nt-9713"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many names are listed on the chart?",
+      "id": "nt-11417"
+    },
+    {
+      "targetValue": "21st",
+      "utterance": "does the 21st or the 25th have the most symbols?",
+      "id": "nt-13369"
+    },
+    {
+      "targetValue": "iron",
+      "utterance": "which element has the symbol fe, titanium or iron?",
+      "id": "nt-13575"
+    },
+    {
+      "targetValue": "Fe",
+      "utterance": "what symbol comes before symbol co?",
+      "id": "nt-13856"
+    }
+  ],
+  "metadata": {
+    "title": "Molar ionization energies of the elements",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1665986&oldid=595807361",
+    "tableIndex": 2,
+    "hashcode": "95fa601ea22d9125f9dcab6a0fe4b990ea6a3507",
+    "id": 1665986,
+    "revision": 595807361
+  }
+}

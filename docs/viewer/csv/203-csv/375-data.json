@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "17",
+      "utterance": "what is the total number of pylons listed?",
+      "id": "nt-53"
+    },
+    {
+      "targetValue": [
+        "Mittersill goods aerial tramway",
+        "Singapore cable car"
+      ],
+      "utterance": "list two pylons that are at most, 80 m in height.",
+      "id": "nt-125"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many pylons are in austria?",
+      "id": "nt-350"
+    },
+    {
+      "targetValue": "Eibsee Aerial Tramway",
+      "utterance": "what is the pylon with the least height listed here?",
+      "id": "nt-395"
+    },
+    {
+      "targetValue": "Mittersill goods aerial tramway",
+      "utterance": "which pylon has the most remarks about it?",
+      "id": "nt-582"
+    },
+    {
+      "targetValue": "Singapore cable car",
+      "utterance": "the london emirates air line pylon has the same height as which pylon?",
+      "id": "nt-1013"
+    },
+    {
+      "targetValue": "109 m",
+      "utterance": "how many metres is the mississippi aerial river transit from bottom to top?",
+      "id": "nt-3419"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of tallest pylons in austria?",
+      "id": "nt-5119"
+    },
+    {
+      "targetValue": "Eibsee Aerial Tramway",
+      "utterance": "which pylon is the least tall?",
+      "id": "nt-7785"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many pylons are at least 80 meters tall?",
+      "id": "nt-8126"
+    },
+    {
+      "targetValue": "113.6 m",
+      "utterance": "how many metres is the tallest pylon?",
+      "id": "nt-9763"
+    },
+    {
+      "targetValue": "1970",
+      "utterance": "what year was the last pylon in germany built?",
+      "id": "nt-13311"
+    }
+  ],
+  "metadata": {
+    "title": "Aerial lift pylon",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4118725&oldid=591346458",
+    "tableIndex": 0,
+    "hashcode": "d188b7b1d56edbbf4594aa630f62ce87662df952",
+    "id": 4118725,
+    "revision": 591346458
+  }
+}

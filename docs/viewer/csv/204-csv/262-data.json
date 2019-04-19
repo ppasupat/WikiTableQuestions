@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "15",
+      "utterance": "total, how many racers competed in the race, whether they finished or not?",
+      "id": "nt-1949"
+    },
+    {
+      "targetValue": ".10",
+      "utterance": "what was the time difference between habtamu fayisa andpeter matheka mutuku?",
+      "id": "nt-5911"
+    },
+    {
+      "targetValue": "5:38.62",
+      "utterance": "what was the time of the person who finished first?",
+      "id": "nt-6983"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many athletes had a time lower than 5:50.00?",
+      "id": "nt-8424"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many athletes have a time below 5:56:21 ?",
+      "id": "nt-8861"
+    },
+    {
+      "targetValue": "Laurentiu Rosu (ROU)",
+      "utterance": "which athlete belongs to rank 10?",
+      "id": "nt-10968"
+    },
+    {
+      "targetValue": "5:38.72",
+      "utterance": "how long did it take peter matheka mutuku to complete the event?",
+      "id": "nt-12478"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of racers who finished under 6:00.00?",
+      "id": "nt-13296"
+    }
+  ],
+  "metadata": {
+    "title": "Athletics at the 2010 Summer Youth Olympics – Boys' 2000 metre steeplechase",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=28590290&oldid=569373236",
+    "tableIndex": 1,
+    "hashcode": "20b58df57560a8b53dc2b1163eedd6e0c98501b8",
+    "id": 28590290,
+    "revision": 569373236
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "\"Nelson the Naughty Arsonist\"",
+      "utterance": "which episode aired after \"marion the superfluous feed character\" ?",
+      "id": "nt-738"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many were directed by adam miller?",
+      "id": "nt-5051"
+    },
+    {
+      "targetValue": "\"Nelson the Online Predator\"",
+      "utterance": "what is the name of the first episode?",
+      "id": "nt-5321"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total number of episodes aired in july 2010?",
+      "id": "nt-6493"
+    },
+    {
+      "targetValue": "Eamonn Holmes",
+      "utterance": "who was the last celebrity guest in the 2010 season?",
+      "id": "nt-8264"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "which of the 9 episodes in series 1 of mongrels had the most celebrity guests?",
+      "id": "nt-8459"
+    }
+  ],
+  "metadata": {
+    "title": "List of Mongrels episodes",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=28261566&oldid=579214953",
+    "tableIndex": 2,
+    "hashcode": "76701707913fb5dcb6e750703e814a5aabda9c11",
+    "id": 28261566,
+    "revision": 579214953
+  }
+}

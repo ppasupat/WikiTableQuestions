@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "Ric Flair",
+      "utterance": "which professional wrestler has had the most number of reigns as nwa world heavyweight champion?",
+      "id": "nt-1867"
+    },
+    {
+      "targetValue": "Ric Flair",
+      "utterance": "who has spent more time as nwa world heavyyweight champion, gene kiniski or ric flair?",
+      "id": "nt-5433"
+    },
+    {
+      "targetValue": "692 days",
+      "utterance": "how long did orville brown remain nwa world heavyweight champion?",
+      "id": "nt-5792"
+    }
+  ],
+  "metadata": {
+    "title": "List of NWA World Heavyweight Champions",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2029539&oldid=602114442",
+    "tableIndex": 2,
+    "hashcode": "6fd6768ab832ba5ae9c4bbf646b0117abcfdaee2",
+    "id": 2029539,
+    "revision": 602114442
+  }
+}

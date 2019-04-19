@@ -1,0 +1,68 @@
+{
+  "examples": [
+    {
+      "targetValue": "12",
+      "utterance": "how many games were scheduled between september 3rd and january 2nd?",
+      "id": "nt-444"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the total number of wins by the given home team?",
+      "id": "nt-537"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many times was the game aired on nbc?",
+      "id": "nt-6048"
+    },
+    {
+      "targetValue": "Michigan Stadium • Ann Arbor, MI",
+      "utterance": "what is the only game stadium to record more than 100,000?",
+      "id": "nt-9289"
+    },
+    {
+      "targetValue": "80,795",
+      "utterance": "what is the total in attendance for september 17th?",
+      "id": "nt-9520"
+    },
+    {
+      "targetValue": "October 15th",
+      "utterance": "what date is after october 1st?",
+      "id": "nt-10612"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of games played at notre dame stadium notre dame, in?",
+      "id": "nt-11660"
+    },
+    {
+      "targetValue": "Win",
+      "utterance": "according to this chart, did the given team win or lose more games when played at notre dame stadium?",
+      "id": "nt-12018"
+    },
+    {
+      "targetValue": [
+        "September 3, 2005",
+        "September 24, 2005",
+        "October 1, 2005",
+        "November 26, 2005",
+        "January 2, 2006"
+      ],
+      "utterance": "which dates had below 80,000 in attendance?",
+      "id": "nt-12622"
+    },
+    {
+      "targetValue": "at #3 Michigan",
+      "utterance": "which team had top attendance through 2005?",
+      "id": "nt-13297"
+    }
+  ],
+  "metadata": {
+    "title": "2005 Notre Dame Fighting Irish football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6082436&oldid=585552820",
+    "tableIndex": 2,
+    "hashcode": "40f37ca2f1456ea986691c78b4aabaa04baf7750",
+    "id": 6082436,
+    "revision": 585552820
+  }
+}

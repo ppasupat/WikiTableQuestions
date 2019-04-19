@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "16",
+      "utterance": "what is the number of diocese with an area larger than 20,000(km2)?",
+      "id": "nt-3944"
+    },
+    {
+      "targetValue": "418 years",
+      "utterance": "for how long has the roman catholic diocese of luandensis been established in angola?",
+      "id": "nt-5554"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many jurisdictions are of the metropolitan archdiocese type?",
+      "id": "nt-6213"
+    },
+    {
+      "targetValue": "Before",
+      "utterance": "was lubango established before or after november 5, 1955?",
+      "id": "nt-6292"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "how many roman catholic dioceses have been established in angola?",
+      "id": "nt-6975"
+    },
+    {
+      "targetValue": "Benguelensis",
+      "utterance": "which is the first latin name on the chart",
+      "id": "nt-8770"
+    },
+    {
+      "targetValue": "Luanda",
+      "utterance": "which is the only one with 1074 km",
+      "id": "nt-10801"
+    },
+    {
+      "targetValue": "Dundo",
+      "utterance": "which diocese has a larger area, ondjiva or dundo?",
+      "id": "nt-12439"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many roman catholic dioceses were established in angola before 1990?",
+      "id": "nt-12989"
+    },
+    {
+      "targetValue": "116,926",
+      "utterance": "what is the difference area for lubango and luanda",
+      "id": "nt-13148"
+    },
+    {
+      "targetValue": "Huambo",
+      "utterance": "which roman catholic diocese in angola was established after kvitobiensis on september 4, 1940?",
+      "id": "nt-13695"
+    }
+  ],
+  "metadata": {
+    "title": "List of Roman Catholic dioceses in Angola by name",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30961531&oldid=592136868",
+    "tableIndex": 0,
+    "hashcode": "cb05c8d62c004eff65df83f6b23d76400265aeef",
+    "id": 30961531,
+    "revision": 592136868
+  }
+}

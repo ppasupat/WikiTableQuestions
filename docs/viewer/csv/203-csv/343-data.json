@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "January 4, 1994",
+      "utterance": "when was the first neutral site game to be won by tampa bay?",
+      "id": "nt-1531"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many events occurred in minneapolis, mn?",
+      "id": "nt-6738"
+    },
+    {
+      "targetValue": "8865",
+      "utterance": "how many more people attended the november 18, 1993 games than the november 9th game?",
+      "id": "nt-6901"
+    },
+    {
+      "targetValue": "Tampa Bay",
+      "utterance": "who won the game the day before the january 5, 1994 game?",
+      "id": "nt-6931"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many neutral site games resulted in overtime (ot)?",
+      "id": "nt-9911"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many games have been held in minneapolis?",
+      "id": "nt-11539"
+    },
+    {
+      "targetValue": "January 4, 1994",
+      "utterance": "the game on which date had the most attendance?",
+      "id": "nt-11629"
+    },
+    {
+      "targetValue": "January 4, 1994",
+      "utterance": "which event had higher attendance, january 24, 1994, or december 23, 1993?",
+      "id": "nt-12945"
+    },
+    {
+      "targetValue": "Dallas",
+      "utterance": "did dallas or ottawa win the december 9, 1993 game?",
+      "id": "nt-13429"
+    }
+  ],
+  "metadata": {
+    "title": "1993–94 NHL season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2049643&oldid=600405855",
+    "tableIndex": 11,
+    "hashcode": "bf6cea91a074d8f8903c7e14da21bb19213cf933",
+    "id": 2049643,
+    "revision": 600405855
+  }
+}

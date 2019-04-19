@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "what are the total number of radio stations on this list?",
+      "id": "nt-1259"
+    },
+    {
+      "targetValue": "Mom's Radio 101.5 Tacloban",
+      "utterance": "which of these stations broadcasts with the least power?",
+      "id": "nt-2016"
+    },
+    {
+      "targetValue": "Davao",
+      "utterance": "what is the last location on this chart?",
+      "id": "nt-3525"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many stations have at least 5 kw or more listed in the power column?",
+      "id": "nt-3842"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total number of stations with frequencies above 100 mhz?",
+      "id": "nt-5396"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of these stations broadcasting at a frequency of greater than 100 mhz?",
+      "id": "nt-5963"
+    },
+    {
+      "targetValue": "5 kW",
+      "utterance": "what is the difference in kw between naga and bacolod radio?",
+      "id": "nt-6210"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many stations broadcast with a power of 5kw?",
+      "id": "nt-8753"
+    },
+    {
+      "targetValue": "10 kW",
+      "utterance": "how many kw was the radio in davao?",
+      "id": "nt-9152"
+    },
+    {
+      "targetValue": "Mom's Radio 101.9 Zamboanga",
+      "utterance": "what is the radio with the most mhz?",
+      "id": "nt-9347"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many times is the frequency greater than 95?",
+      "id": "nt-10099"
+    },
+    {
+      "targetValue": "DYAP 88.3 Cebu",
+      "utterance": "what is the only radio station with a frequency below 90 mhz?",
+      "id": "nt-11045"
+    },
+    {
+      "targetValue": "DYAP 88.3 Cebu",
+      "utterance": "what is the radio with the least about of mhz?",
+      "id": "nt-13194"
+    }
+  ],
+  "metadata": {
+    "title": "DYAP-FM",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13919308&oldid=598089781",
+    "tableIndex": 0,
+    "hashcode": "f40dc68ae080229597ad79d5cfa586e92c8bfd51",
+    "id": 13919308,
+    "revision": 598089781
+  }
+}

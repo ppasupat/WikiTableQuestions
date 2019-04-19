@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "16",
+      "utterance": "what was the number of medals earned by indonesia (ina) ?",
+      "id": "nt-1694"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many nations received more than 5 gold medals?",
+      "id": "nt-3495"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many nations won no silver medals at all?",
+      "id": "nt-3942"
+    },
+    {
+      "targetValue": [
+        "Afghanistan (AFG)",
+        "Qatar (QAT)"
+      ],
+      "utterance": "which countries won the same number of gold medals as japan?",
+      "id": "nt-7021"
+    },
+    {
+      "targetValue": "China (CHN)",
+      "utterance": "which nation finished first in total medals earned?",
+      "id": "nt-7856"
+    },
+    {
+      "targetValue": "23",
+      "utterance": "what is the total number of nations that participated in the beach games of 2012?",
+      "id": "nt-8106"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many more medals did india earn compared to pakistan?",
+      "id": "nt-8234"
+    },
+    {
+      "targetValue": "49",
+      "utterance": "how many total gold medal have been given?",
+      "id": "nt-9866"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many nations received a medal in each gold, silver, and bronze?",
+      "id": "nt-11842"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many combined silver medals did china, india, and japan earn ?",
+      "id": "nt-13158"
+    },
+    {
+      "targetValue": "Philippines",
+      "utterance": "did the philippines or kazakhstan have a higher number of total medals?",
+      "id": "nt-13465"
+    }
+  ],
+  "metadata": {
+    "title": "2012 Asian Beach Games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10083100&oldid=586481765",
+    "tableIndex": 2,
+    "hashcode": "cba906736b67d91a761ce94ed2d4a39d5c11a2c1",
+    "id": 10083100,
+    "revision": 586481765
+  }
+}

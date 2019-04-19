@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how long is the entire race (how many months)?",
+      "id": "nt-1390"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many total races are held in june?",
+      "id": "nt-5614"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many races were held in canada?",
+      "id": "nt-7105"
+    },
+    {
+      "targetValue": "Fundidora park",
+      "utterance": "where was the race held after albert whitted airport?",
+      "id": "nt-10978"
+    },
+    {
+      "targetValue": "Lexington, Ohio",
+      "utterance": "what city was the race held before montreal on august 24?",
+      "id": "nt-11257"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many times did leonardo maia have the fastest lap?",
+      "id": "nt-11938"
+    }
+  ],
+  "metadata": {
+    "title": "2003 Barber Dodge Pro Series season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=42147143&oldid=598754711",
+    "tableIndex": 1,
+    "hashcode": "ca33683aa424081fc701ac6c7db5e6e275530b53",
+    "id": 42147143,
+    "revision": 598754711
+  }
+}

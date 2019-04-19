@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "how many residence is there?",
+      "id": "nt-867"
+    },
+    {
+      "targetValue": "David W. Brownback",
+      "utterance": "other director from the same state as john t. stout, jr.",
+      "id": "nt-2203"
+    },
+    {
+      "targetValue": [
+        "Barbara Mowry",
+        "Steve Maestas"
+      ],
+      "utterance": "which other people are in class c besides rose washington?",
+      "id": "nt-2996"
+    },
+    {
+      "targetValue": "Deputy Chairman",
+      "utterance": "steve maestas represented nai maestas and ward on the board of directors, bu he also served as what position on the board of directors?",
+      "id": "nt-5799"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the number of companies presented?",
+      "id": "nt-6168"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "number of current vacancies",
+      "id": "nt-7513"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of different classes?",
+      "id": "nt-7742"
+    },
+    {
+      "targetValue": "Jones National Bank & Trust Co.",
+      "utterance": "what is the name of the company at the top of the chart?",
+      "id": "nt-8727"
+    },
+    {
+      "targetValue": "GoreCreek Advisors",
+      "utterance": "company of the other officer on the board of directors besides steve maestas",
+      "id": "nt-11777"
+    },
+    {
+      "targetValue": "Plaza Belmont Management Group LLC",
+      "utterance": "which company is below ratcliffe's inc. in the table?",
+      "id": "nt-13470"
+    }
+  ],
+  "metadata": {
+    "title": "Federal Reserve Bank of Kansas City",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2338574&oldid=587917576",
+    "tableIndex": 1,
+    "hashcode": "76338e990250b57218b50ab50692e761400255ae",
+    "id": 2338574,
+    "revision": 587917576
+  }
+}

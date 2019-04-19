@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "St. Johns",
+      "utterance": "what team won the maggie dixon classic after losing it the year before?",
+      "id": "nt-2078"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many games were not played at madison square garden?",
+      "id": "nt-2448"
+    },
+    {
+      "targetValue": "36",
+      "utterance": "what was the difference between the two teams' scores in the 2006 ohio state vs. army game?",
+      "id": "nt-2479"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many times has rutgers played in the classic?",
+      "id": "nt-2897"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many games were played at madison square garden?",
+      "id": "nt-4801"
+    },
+    {
+      "targetValue": "271",
+      "utterance": "how many total points were scored during the inaugural maggie dixon classic by all 4 teams?",
+      "id": "nt-7608"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "how many different teams have participated in the maggie dixon classic",
+      "id": "nt-8007"
+    },
+    {
+      "targetValue": "Pittsburgh men",
+      "utterance": "which team had the highest score out of all of the games?",
+      "id": "nt-8155"
+    },
+    {
+      "targetValue": "Duke",
+      "utterance": "did duke or st. john's win in the 2012 match?",
+      "id": "nt-13407"
+    }
+  ],
+  "metadata": {
+    "title": "Maggie Dixon",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4665130&oldid=590758701",
+    "tableIndex": 0,
+    "hashcode": "dea7e439a3ac3df6c2327914695701fa00524f04",
+    "id": 4665130,
+    "revision": 590758701
+  }
+}

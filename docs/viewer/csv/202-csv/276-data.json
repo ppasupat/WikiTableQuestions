@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "1979",
+      "utterance": "which year is the most episodes he played in shows?",
+      "id": "nt-1988"
+    },
+    {
+      "targetValue": "Mr. Beamish",
+      "utterance": "which role did victor buono play in surfside 6?",
+      "id": "nt-9790"
+    },
+    {
+      "targetValue": "1979",
+      "utterance": "what year was he most featured in shows?",
+      "id": "nt-11873"
+    }
+  ],
+  "metadata": {
+    "title": "Victor Buono",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=664949&oldid=597335902",
+    "tableIndex": 1,
+    "hashcode": "5629c2efa83ac6e844cd2c7646c0e2590455cf7e",
+    "id": 664949,
+    "revision": 597335902
+  }
+}

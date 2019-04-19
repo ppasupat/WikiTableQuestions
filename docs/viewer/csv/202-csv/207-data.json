@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "Royal Purple",
+      "utterance": "which color of crayon in crayola's crayons with glitter set also includes ruby red glitter?",
+      "id": "nt-7890"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many crayons in crayola's crayons with glitter set include twinkling turquoise glitter?",
+      "id": "nt-10607"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many crayons in crayola's crayons with glitter set do not include glitzy gold glitter?",
+      "id": "nt-13522"
+    }
+  ],
+  "metadata": {
+    "title": "List of Crayola crayon colors",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3364578&oldid=600904213",
+    "tableIndex": 7,
+    "hashcode": "b50ff4b3d3306390ed4a99967d8e6968bf25fb3a",
+    "id": 3364578,
+    "revision": 600904213
+  }
+}

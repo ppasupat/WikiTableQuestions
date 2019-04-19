@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Netherlands",
+      "utterance": "which country took first place?",
+      "id": "nt-1519"
+    },
+    {
+      "targetValue": "Patricia Bredin",
+      "utterance": "which artist was first in point after nunzio gallo?",
+      "id": "nt-2421"
+    },
+    {
+      "targetValue": "\"L'enfant que j'étais\"",
+      "utterance": "what song got the same points as straatdeuntje?",
+      "id": "nt-4603"
+    },
+    {
+      "targetValue": "French",
+      "utterance": "did paule desjardins speak german or french?",
+      "id": "nt-4946"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of french speaking artist in the draw?",
+      "id": "nt-6897"
+    },
+    {
+      "targetValue": "Austria",
+      "utterance": "which country took last place?",
+      "id": "nt-6962"
+    },
+    {
+      "targetValue": "\"Net als toen\"",
+      "utterance": "what was the only song that got over 20 points?",
+      "id": "nt-7276"
+    },
+    {
+      "targetValue": "Corry Brokken",
+      "utterance": "who took first place?",
+      "id": "nt-10939"
+    },
+    {
+      "targetValue": "28",
+      "utterance": "what is the difference in points between first and last place?",
+      "id": "nt-13917"
+    }
+  ],
+  "metadata": {
+    "title": "Eurovision Song Contest 1957",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=68325&oldid=582226384",
+    "tableIndex": 0,
+    "hashcode": "3672700cc3c89af621fd8c9a00cc53ef26cbe23d",
+    "id": 68325,
+    "revision": 582226384
+  }
+}

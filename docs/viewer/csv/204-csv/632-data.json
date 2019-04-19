@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many orbit pair have no notes?",
+      "id": "nt-2787"
+    },
+    {
+      "targetValue": "AB",
+      "utterance": "which orbit pair has the greatest most recent position angle, ab or ce?",
+      "id": "nt-2885"
+    },
+    {
+      "targetValue": "EF",
+      "utterance": "does cd or ef have a larger separation?",
+      "id": "nt-4359"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many pairs have a separation (au) of more than 5000?",
+      "id": "nt-5749"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many total orbit pairs are there?",
+      "id": "nt-5812"
+    },
+    {
+      "targetValue": "CD",
+      "utterance": "what orbit pair is listed before ca?",
+      "id": "nt-7847"
+    },
+    {
+      "targetValue": "EG",
+      "utterance": "what orbit pair is listed below ef",
+      "id": "nt-9680"
+    },
+    {
+      "targetValue": "CE",
+      "utterance": "does ca or ce have the higher position angle number?",
+      "id": "nt-9730"
+    },
+    {
+      "targetValue": "AI",
+      "utterance": "which had a separation of more than ce, ef or ai?",
+      "id": "nt-10007"
+    },
+    {
+      "targetValue": "Ca",
+      "utterance": "which most recent position angle was smaller, ca or ce?",
+      "id": "nt-11072"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many have a most recent position angle of at least 200?",
+      "id": "nt-11253"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many orbit pairs total are listed?",
+      "id": "nt-12043"
+    },
+    {
+      "targetValue": "CD",
+      "utterance": "which orbit pair has its period for 724.307 years?",
+      "id": "nt-13323"
+    }
+  ],
+  "metadata": {
+    "title": "Epsilon Lyrae",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4976311&oldid=582335284",
+    "tableIndex": 1,
+    "hashcode": "92a6f8651dc826df16d63ce960f87e7328b7b680",
+    "id": 4976311,
+    "revision": 582335284
+  }
+}

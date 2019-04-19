@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "156",
+      "utterance": "how many plan accidents were there in 2008?",
+      "id": "nt-2669"
+    },
+    {
+      "targetValue": "2001",
+      "utterance": "which year was responsible for 4,140 deaths?",
+      "id": "nt-5816"
+    },
+    {
+      "targetValue": "794",
+      "utterance": "how many deaths were in year 2012 due to plan accidents?",
+      "id": "nt-6474"
+    }
+  ],
+  "metadata": {
+    "title": "Aviation accidents and incidents",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=164536&oldid=602452515",
+    "tableIndex": 0,
+    "hashcode": "b369cd67f28f4dd99a4bcdfbc4a117ddc3575e82",
+    "id": 164536,
+    "revision": 602452515
+  }
+}

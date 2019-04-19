@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "13",
+      "utterance": "what is the number of time seyni kountche has been president?",
+      "id": "nt-1175"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many years was ali saibou president?",
+      "id": "nt-2121"
+    },
+    {
+      "targetValue": "Mamadou Tandja",
+      "utterance": "who ruled longer, ali saibou or mamadou tandja?",
+      "id": "nt-7551"
+    },
+    {
+      "targetValue": "Seyni Kountché",
+      "utterance": "who is the next president listed after hamani diori in the year 1974?",
+      "id": "nt-8394"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "how many years was it before the first partly free status?",
+      "id": "nt-9259"
+    },
+    {
+      "targetValue": "18 years",
+      "utterance": "how long did it take for civil liberties to decrease below 6?",
+      "id": "nt-9370"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "how many times was the political rights listed as seven?",
+      "id": "nt-11153"
+    },
+    {
+      "targetValue": "Ibrahim Baré Maïnassara",
+      "utterance": "who was president before mamadou tandja?",
+      "id": "nt-11353"
+    }
+  ],
+  "metadata": {
+    "title": "Human rights in Niger",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15542867&oldid=598128967",
+    "tableIndex": 1,
+    "hashcode": "1d1173989c0842e5eacb69cbfe1c3fcb4ce6ed86",
+    "id": 15542867,
+    "revision": 598128967
+  }
+}

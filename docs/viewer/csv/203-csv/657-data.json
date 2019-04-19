@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "Grand Junction",
+      "utterance": "does grand junction or montrose have more stations?",
+      "id": "nt-5837"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many radio stations are there in grand junction?",
+      "id": "nt-6286"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many stations have the same format as the station klfv?",
+      "id": "nt-9743"
+    },
+    {
+      "targetValue": "Grand Junction",
+      "utterance": "which cities have at least three call signs?",
+      "id": "nt-11149"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many christian contemporary stations are there?",
+      "id": "nt-11276"
+    }
+  ],
+  "metadata": {
+    "title": "Grand Junction, Colorado",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=108583&oldid=601876435",
+    "tableIndex": 2,
+    "hashcode": "5a0f5952aa16c7fce628da02c63c6a21bff96637",
+    "id": 108583,
+    "revision": 601876435
+  }
+}

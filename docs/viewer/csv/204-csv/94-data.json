@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "how many were played on a hard surface?",
+      "id": "nt-458"
+    },
+    {
+      "targetValue": "Anna Hawkins",
+      "utterance": "what is the partnering name above chanelle scheepers?",
+      "id": "nt-1111"
+    },
+    {
+      "targetValue": "$10,000",
+      "utterance": "what is the number of prize money for the 14 may 2002 tournament?",
+      "id": "nt-4544"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many tournaments has jane o'donoghue competed in?",
+      "id": "nt-11255"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many surfaces are grass?",
+      "id": "nt-13072"
+    }
+  ],
+  "metadata": {
+    "title": "Jane O'Donoghue",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13387895&oldid=594424148",
+    "tableIndex": 5,
+    "hashcode": "1d389f3075e9b3f67d6277f86988a465f3e8bf56",
+    "id": 13387895,
+    "revision": 594424148
+  }
+}

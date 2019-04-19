@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "how many months saw record lows below freezing?",
+      "id": "nt-1128"
+    },
+    {
+      "targetValue": "4 months",
+      "utterance": "how long was the monthly average temperature 100 degrees or more?",
+      "id": "nt-13581"
+    }
+  ],
+  "metadata": {
+    "title": "Indio, California",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=107924&oldid=599545049",
+    "tableIndex": 0,
+    "hashcode": "786d657fa40003f55bdc2a47a696648dad73374a",
+    "id": 107924,
+    "revision": 599545049
+  }
+}

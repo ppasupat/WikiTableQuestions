@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Robson Green & Jerome Flynn",
+      "utterance": "who performed the number 1 single of 1995?",
+      "id": "nt-381"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many songs reached position 1 at their highest point?",
+      "id": "nt-3746"
+    },
+    {
+      "targetValue": "Earth Song",
+      "utterance": "what is the other song title by michael jackson besides \"you are not alone\"?",
+      "id": "nt-8565"
+    },
+    {
+      "targetValue": "32",
+      "utterance": "what position did madonna rank on the top 40 singles of 1995 chart?",
+      "id": "nt-10433"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many songs had at least 500,000 sales?",
+      "id": "nt-10778"
+    },
+    {
+      "targetValue": "Livin' Joy",
+      "utterance": "which artist has the least highest position?",
+      "id": "nt-11241"
+    },
+    {
+      "targetValue": "32000",
+      "utterance": "what is the difference between the sales of \"think twice\" and \"back for good\"?",
+      "id": "nt-13362"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many singles topped 1,000,000 sales in 1995?",
+      "id": "nt-13667"
+    }
+  ],
+  "metadata": {
+    "title": "1995 in British music",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2206776&oldid=587030796",
+    "tableIndex": 2,
+    "hashcode": "21bec524c9351990db14caf59fc21ad7d40f5af7",
+    "id": 2206776,
+    "revision": 587030796
+  }
+}

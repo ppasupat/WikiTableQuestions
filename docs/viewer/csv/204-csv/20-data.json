@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "Villa Nueva",
+      "utterance": "who is taller, the delegate from jalapa or from villa nueva?",
+      "id": "nt-143"
+    },
+    {
+      "targetValue": "Ciudad Capital",
+      "utterance": "other than chimaltenango's contestant, which region also had a 19-year-old contestant?",
+      "id": "nt-225"
+    },
+    {
+      "targetValue": "Wendy Karina Albizures del Cid",
+      "utterance": "who is the tallest delegate?",
+      "id": "nt-2219"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many delegates are not in their 20's",
+      "id": "nt-2990"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many delegates are at most 20 years old?",
+      "id": "nt-3561"
+    },
+    {
+      "targetValue": "Jalapa",
+      "utterance": "which delegate is older: the delegate for izabal or the one from jalapa?",
+      "id": "nt-6363"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the total number of delegates?",
+      "id": "nt-7743"
+    },
+    {
+      "targetValue": "Jessica Jazmín Donabó Chávez",
+      "utterance": "name a delegate born before luz yohana marroquín morán.",
+      "id": "nt-9079"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of delegates younger than 20?",
+      "id": "nt-10682"
+    },
+    {
+      "targetValue": [
+        "Rita Elizabeth Meda Cojulún",
+        "Luz Yohana Marroquín Morán"
+      ],
+      "utterance": "which two contestants have the same heights as each other?",
+      "id": "nt-11868"
+    },
+    {
+      "targetValue": "Wendy Karina Albizures del Cid",
+      "utterance": "what delegate is the same age as rita elizabeth meda cojulún",
+      "id": "nt-12175"
+    }
+  ],
+  "metadata": {
+    "title": "Miss Guatemala 2008",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36181691&oldid=522958539",
+    "tableIndex": 1,
+    "hashcode": "c236374f25bad79be87d85789391984bc3ce21d0",
+    "id": 36181691,
+    "revision": 522958539
+  }
+}

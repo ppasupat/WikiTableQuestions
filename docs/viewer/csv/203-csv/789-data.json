@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": "Gostaresh Foolad",
+      "utterance": "what team is in division 2?",
+      "id": "nt-575"
+    },
+    {
+      "targetValue": "Gostaresh Foolad",
+      "utterance": "what team got 0 assists?",
+      "id": "nt-991"
+    },
+    {
+      "targetValue": "03/04",
+      "utterance": "in what season were a number of 6 goals scored?",
+      "id": "nt-2100"
+    },
+    {
+      "targetValue": [
+        "05/06",
+        "10/11"
+      ],
+      "utterance": "in what two seasons were there no goals scored?",
+      "id": "nt-2506"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive years did he score more than 2 goals?",
+      "id": "nt-6427"
+    },
+    {
+      "targetValue": "Gostaresh Foolad",
+      "utterance": "what was the last team played for?",
+      "id": "nt-7112"
+    },
+    {
+      "targetValue": "05/06",
+      "utterance": "in which season was there a total of 2 assists?",
+      "id": "nt-8182"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many seasons were no goals scored?",
+      "id": "nt-9735"
+    },
+    {
+      "targetValue": "27",
+      "utterance": "how many apps were obtained in season 04/05?",
+      "id": "nt-10274"
+    }
+  ],
+  "metadata": {
+    "title": "Farzad Majidi",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9626222&oldid=564786444",
+    "tableIndex": 0,
+    "hashcode": "5290ca7c5e0d4f95d3527ddd9fbe0a2a08d57a1f",
+    "id": 9626222,
+    "revision": 564786444
+  }
+}

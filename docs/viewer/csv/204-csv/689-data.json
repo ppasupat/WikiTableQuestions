@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Kim Wilde",
+      "utterance": "what title is listed in the top of the table?",
+      "id": "nt-959"
+    },
+    {
+      "targetValue": "Kim Wilde",
+      "utterance": "which title has no b-sides?",
+      "id": "nt-1559"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total of titles on new worlds?",
+      "id": "nt-8882"
+    },
+    {
+      "targetValue": "\"Behave\"",
+      "utterance": "what was the only single released in 2006?",
+      "id": "nt-8897"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many titles are more than one word long?",
+      "id": "nt-9734"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many albums did this singer release from 2004 to 2009?",
+      "id": "nt-11715"
+    },
+    {
+      "targetValue": "Dawn Treader (Fredmix); It Isn't Over (Fredmix)",
+      "utterance": "what is the b-side on the only non-album single?",
+      "id": "nt-13421"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many titles were in 2007?",
+      "id": "nt-13849"
+    },
+    {
+      "targetValue": "The Deep Blue",
+      "utterance": "what album had the singles \"i want you to know\" and \"again\" on them?",
+      "id": "nt-13941"
+    }
+  ],
+  "metadata": {
+    "title": "Charlotte Hatherley",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19544037&oldid=593892667",
+    "tableIndex": 1,
+    "hashcode": "62fedc9aa2fd5fa327bf056a1e375d3a44b4560e",
+    "id": 19544037,
+    "revision": 593892667
+  }
+}

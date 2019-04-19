@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many films did zhao dan star in before 1949?",
+      "id": "nt-465"
+    },
+    {
+      "targetValue": "1937",
+      "utterance": "zhao dan starred in 2 movies in the same year only 2 times, 1947 and what other year?",
+      "id": "nt-2962"
+    },
+    {
+      "targetValue": "26 years",
+      "utterance": "how long did zhao dan appear in films?",
+      "id": "nt-4115"
+    },
+    {
+      "targetValue": "Crossroads",
+      "utterance": "what other movie did he star in the year he starred in street angle?",
+      "id": "nt-4215"
+    },
+    {
+      "targetValue": "Far Away Love",
+      "utterance": "what was the next movie zhao dan starred in after crossroads?",
+      "id": "nt-4283"
+    },
+    {
+      "targetValue": "Twenty-Four Hours in Shanghai",
+      "utterance": "what was the first film zhao dan starred in?",
+      "id": "nt-4753"
+    },
+    {
+      "targetValue": "1950s",
+      "utterance": "did zhao dan star in more movies in the 1940s or 1950s?",
+      "id": "nt-5484"
+    },
+    {
+      "targetValue": "26",
+      "utterance": "what is the difference in years between his last role and his first role?",
+      "id": "nt-7157"
+    },
+    {
+      "targetValue": "Nie Er",
+      "utterance": "which movie did he act in after he was in lin zexu?",
+      "id": "nt-8585"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many movies total did zhao dan star in between 1930 and 1940",
+      "id": "nt-10697"
+    },
+    {
+      "targetValue": "Crossroads",
+      "utterance": "what film did the actor star in after \"street angel\"?",
+      "id": "nt-11554"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive movies did he work with zheng junli on?",
+      "id": "nt-12690"
+    }
+  ],
+  "metadata": {
+    "title": "Zhao Dan",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6985581&oldid=579851612",
+    "tableIndex": 0,
+    "hashcode": "56c02d0a3b67a45dee615bbc28fe7105141a9aa4",
+    "id": 6985581,
+    "revision": 579851612
+  }
+}

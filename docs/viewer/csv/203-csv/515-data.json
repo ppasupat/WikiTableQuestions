@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "12,467",
+      "utterance": "how many more passengers flew to los angeles than to saskatoon from manzanillo airport in 2013?",
+      "id": "nt-3"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many airlines have a steady ranking?",
+      "id": "nt-191"
+    },
+    {
+      "targetValue": "13,547",
+      "utterance": "the difference in passengers between los angeles and toronto",
+      "id": "nt-1330"
+    },
+    {
+      "targetValue": "Alaska Airlines",
+      "utterance": "which airline carries the most passengers?",
+      "id": "nt-5506"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many cities from canada are on this list?",
+      "id": "nt-8845"
+    },
+    {
+      "targetValue": "Canada, Calgary",
+      "utterance": "los angeles and what other city had about 19,000 passenger combined",
+      "id": "nt-10649"
+    },
+    {
+      "targetValue": "1,829",
+      "utterance": "what was the number of passengers in phoenix arizona?",
+      "id": "nt-10652"
+    },
+    {
+      "targetValue": "United States, Oakland",
+      "utterance": "the least number of passengers came from which city",
+      "id": "nt-12454"
+    },
+    {
+      "targetValue": "Los Angeles",
+      "utterance": "was los angeles or houston the busiest international route at manzanillo international airport in 2013?",
+      "id": "nt-12527"
+    },
+    {
+      "targetValue": "Calgary",
+      "utterance": "which canadian city had the most passengers traveling from manzanillo international airport in 2013?",
+      "id": "nt-12971"
+    },
+    {
+      "targetValue": "5537.5",
+      "utterance": "what is the average number of passengers in the united states?",
+      "id": "nt-13606"
+    }
+  ],
+  "metadata": {
+    "title": "Playa de Oro International Airport",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1847699&oldid=600814123",
+    "tableIndex": 1,
+    "hashcode": "598472d1aaac797896534b487571fb855e853aeb",
+    "id": 1847699,
+    "revision": 600814123
+  }
+}

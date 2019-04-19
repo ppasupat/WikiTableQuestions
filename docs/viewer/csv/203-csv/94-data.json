@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many strokes marked the margin of victory for justin rose in 2011?",
+      "id": "nt-935"
+    },
+    {
+      "targetValue": "Justin Rose",
+      "utterance": "first player to win with a score over 70 for one round?",
+      "id": "nt-1025"
+    },
+    {
+      "targetValue": "Camilo Villegas",
+      "utterance": "besides tiger woods what other player won between 2007 and 2009?",
+      "id": "nt-1165"
+    },
+    {
+      "targetValue": "Rory McIlroy",
+      "utterance": "after justin rose won in 2011 who won next?",
+      "id": "nt-1220"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total amount of american players that have won the western open since 2007?",
+      "id": "nt-6905"
+    },
+    {
+      "targetValue": "Tiger Woods",
+      "utterance": "which player earned the most between 2007 and 2013 in the western open?",
+      "id": "nt-12314"
+    },
+    {
+      "targetValue": "Zach Johnson",
+      "utterance": "who was the last winner of the western open(2013)?",
+      "id": "nt-12866"
+    },
+    {
+      "targetValue": "Dustin Johnson",
+      "utterance": "who won after tiger woods in 2010?",
+      "id": "nt-13857"
+    },
+    {
+      "targetValue": "Dustin Johnson",
+      "utterance": "which player won by the least number of strokes?",
+      "id": "nt-14072"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "count the number of times the western open has been held at the cog hill golf and country club since 2007.",
+      "id": "nt-14074"
+    }
+  ],
+  "metadata": {
+    "title": "BMW Championship (PGA Tour)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=275162&oldid=588828078",
+    "tableIndex": 0,
+    "hashcode": "6892a8d4ac4386c37ac746d69eaa579b88d39793",
+    "id": 275162,
+    "revision": 588828078
+  }
+}

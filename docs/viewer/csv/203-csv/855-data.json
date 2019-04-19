@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "RTÉ Studios",
+      "utterance": "we will rock you and we are the champions where played at which venue?",
+      "id": "nt-254"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "were the matinee and evening performances held earlier than the 8th anniversary?",
+      "id": "nt-3205"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many days after september 3rd did brian perform in stockholm?",
+      "id": "nt-3276"
+    },
+    {
+      "targetValue": "Dublin",
+      "utterance": "what was the first city brian and roger played in?",
+      "id": "nt-3958"
+    },
+    {
+      "targetValue": [
+        "Utrecht",
+        "Stockholm"
+      ],
+      "utterance": "london came before which city?",
+      "id": "nt-4012"
+    },
+    {
+      "targetValue": "Theater des Westens",
+      "utterance": "what was the last venue brian preformed in?",
+      "id": "nt-12108"
+    },
+    {
+      "targetValue": "15 January",
+      "utterance": "when was the first tour date of 2010?",
+      "id": "nt-13461"
+    },
+    {
+      "targetValue": "21 October",
+      "utterance": "when was the last tour date of 2010?",
+      "id": "nt-13914"
+    }
+  ],
+  "metadata": {
+    "title": "We Will Rock You (musical)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2845394&oldid=602501048",
+    "tableIndex": 8,
+    "hashcode": "b57d9c6fb53c118a04b0a6eec1e977000f902e0a",
+    "id": 2845394,
+    "revision": 602501048
+  }
+}

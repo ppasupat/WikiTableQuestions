@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Will Eisner",
+      "utterance": "who was the only official guest on july 16-18?",
+      "id": "nt-3969"
+    },
+    {
+      "targetValue": "Playboy Towers Hotel, Chicago",
+      "utterance": "what was the location of the next event after the summer 1975 one?",
+      "id": "nt-4434"
+    },
+    {
+      "targetValue": "Playboy Towers Hotel, Chicago",
+      "utterance": "where was the first location used in august, 1976?",
+      "id": "nt-5545"
+    },
+    {
+      "targetValue": "August 6-8, 1976",
+      "utterance": "what was the first date that had official guests?",
+      "id": "nt-6753"
+    },
+    {
+      "targetValue": "2013",
+      "utterance": "in which year were there more official guests--2012 or 2013?",
+      "id": "nt-6979"
+    },
+    {
+      "targetValue": "None",
+      "utterance": "how many official guests were there on july 22-23, 1972?",
+      "id": "nt-10045"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many times was the rosemont convention center used?",
+      "id": "nt-10573"
+    },
+    {
+      "targetValue": "Donald E. Stephens Convention Center",
+      "utterance": "where was the last date held?",
+      "id": "nt-11250"
+    },
+    {
+      "targetValue": "1972",
+      "utterance": "what was the first year the event was held at the pick-congress hotel in chicago?",
+      "id": "nt-12234"
+    },
+    {
+      "targetValue": "2013",
+      "utterance": "in what year was the last chicago comicon to take place in chicago?",
+      "id": "nt-13628"
+    }
+  ],
+  "metadata": {
+    "title": "Wizard World Chicago",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30996608&oldid=588926346",
+    "tableIndex": 0,
+    "hashcode": "754ba8636c62c63a40a66b9c092ea660a93c6a19",
+    "id": 30996608,
+    "revision": 588926346
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "examples": [
+    {
+      "targetValue": "2013 EAFF East Asian Cup",
+      "utterance": "what competition did japan compete in 2013?",
+      "id": "nt-645"
+    },
+    {
+      "targetValue": "2006 AFC U-17 Championship",
+      "utterance": "name the earliest competition to have a sub.",
+      "id": "nt-1109"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "yoichiro kakitani scored above 2 goals in how many major competitions?",
+      "id": "nt-1198"
+    },
+    {
+      "targetValue": "2006 AFC U-17 Championship",
+      "utterance": "where did japan only score four goals?",
+      "id": "nt-1906"
+    },
+    {
+      "targetValue": "2006 AFC U-17 Championship",
+      "utterance": "which competition had the highest number of starts and goals?",
+      "id": "nt-4419"
+    },
+    {
+      "targetValue": "2006 AFC U-17 Championship qualification",
+      "utterance": "what was yoichiro kakitani's first major competition?",
+      "id": "nt-9343"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many total goals were scored?",
+      "id": "nt-9609"
+    },
+    {
+      "targetValue": [
+        "2006 AFC U-17 Championship",
+        "2008 AFC Youth Championship qualification"
+      ],
+      "utterance": "in which major competitions did yoichiro kakitani have at least 3 starts?",
+      "id": "nt-10881"
+    },
+    {
+      "targetValue": [
+        "2006 AFC U-17 Championship qualification",
+        "2008 AFC U-19 Championship"
+      ],
+      "utterance": "in which two competitions did japan lack goals?",
+      "id": "nt-12889"
+    },
+    {
+      "targetValue": "2013 EAFF East Asian Cup",
+      "utterance": "did japan have more starting appearances in the 2013 eaff east asian cup or 2007 fifa u-17 world cup?",
+      "id": "nt-12998"
+    }
+  ],
+  "metadata": {
+    "title": "Yoichiro Kakitani",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10944686&oldid=602467744",
+    "tableIndex": 5,
+    "hashcode": "0ddcaa26487dee12e93f923837098819abf019f5",
+    "id": 10944686,
+    "revision": 602467744
+  }
+}

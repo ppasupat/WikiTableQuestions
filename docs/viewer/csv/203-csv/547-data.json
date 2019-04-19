@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "67,400",
+      "utterance": "what is the difference in the tonage between the queen mary and media?",
+      "id": "nt-1979"
+    },
+    {
+      "targetValue": "Georgic",
+      "utterance": "which ship has the least years in service for cunard?",
+      "id": "nt-2920"
+    },
+    {
+      "targetValue": "Atlantic Conveyor",
+      "utterance": "according to the chart what was the last ship built?",
+      "id": "nt-2947"
+    },
+    {
+      "targetValue": "Queen Elizabeth",
+      "utterance": "the ship with the most tonnage is named after whom?",
+      "id": "nt-3164"
+    },
+    {
+      "targetValue": "1957",
+      "utterance": "the year the last intermediate ship was built.",
+      "id": "nt-3756"
+    },
+    {
+      "targetValue": "Caronia",
+      "utterance": "what is the only cruise ship listed?",
+      "id": "nt-5667"
+    },
+    {
+      "targetValue": "1970",
+      "utterance": "what is the date that the last ship was built?",
+      "id": "nt-6622"
+    },
+    {
+      "targetValue": "Queen Elizabeth",
+      "utterance": "which ship was first employed as a world war ii troopship?",
+      "id": "nt-7264"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many express ships?",
+      "id": "nt-9230"
+    },
+    {
+      "targetValue": "Queen Mary",
+      "utterance": "what ship was built before the mauretania?",
+      "id": "nt-11308"
+    },
+    {
+      "targetValue": "White Star Line",
+      "utterance": "the britannic and the georgic were both built for what?",
+      "id": "nt-11366"
+    },
+    {
+      "targetValue": "Queen Elizabeth 2",
+      "utterance": "what ship's tonnage is at most 70,000?",
+      "id": "nt-11820"
+    }
+  ],
+  "metadata": {
+    "title": "Cunard Line",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=95374&oldid=602400532",
+    "tableIndex": 3,
+    "hashcode": "f604f6af46a108edfe26e16a7defb66df92f61ba",
+    "id": 95374,
+    "revision": 602400532
+  }
+}

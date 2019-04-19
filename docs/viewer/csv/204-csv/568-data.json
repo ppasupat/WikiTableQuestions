@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Antelope",
+      "utterance": "amazon is at the top of the chart, but what is the name below it?",
+      "id": "nt-68"
+    },
+    {
+      "targetValue": "Avenger",
+      "utterance": "what is the last name listed on this chart?",
+      "id": "nt-3605"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many boats costed less than £20m to build?",
+      "id": "nt-4662"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many ships were laid down in september?",
+      "id": "nt-9377"
+    },
+    {
+      "targetValue": "Ambuscade",
+      "utterance": "the arrow was ordered on november 11, 1971. what was the previous ship?",
+      "id": "nt-11169"
+    },
+    {
+      "targetValue": "Avenger",
+      "utterance": "what is the name of the ship listed after ardent?",
+      "id": "nt-11176"
+    },
+    {
+      "targetValue": "F185",
+      "utterance": "what is the last listed pennant?",
+      "id": "nt-11641"
+    },
+    {
+      "targetValue": "Avenger",
+      "utterance": "which ship had the highest estimated cost to build?",
+      "id": "nt-12248"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many ships were built after ardent?",
+      "id": "nt-12258"
+    },
+    {
+      "targetValue": "F173",
+      "utterance": "what is the next pennant after f172?",
+      "id": "nt-12347"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "tell me the number of ships that went to pakistan.",
+      "id": "nt-13852"
+    }
+  ],
+  "metadata": {
+    "title": "Type 21 frigate",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=485779&oldid=597052066",
+    "tableIndex": 0,
+    "hashcode": "778fc35260fef9d075e7c77d88753c7d83d114a7",
+    "id": 485779,
+    "revision": 597052066
+  }
+}

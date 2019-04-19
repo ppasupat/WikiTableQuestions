@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many women clocked less than 13 secs the women's heat of 100m hurdles?",
+      "id": "nt-862"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "tell me the number of competitors from nigeria.",
+      "id": "nt-3581"
+    },
+    {
+      "targetValue": "Tamsin Stephens",
+      "utterance": "who finished directly before akinremi?",
+      "id": "nt-6140"
+    },
+    {
+      "targetValue": "Lacena Golding-Clarke",
+      "utterance": "who is the top ranking athlete?",
+      "id": "nt-6546"
+    },
+    {
+      "targetValue": "Lacena Golding-Clarke",
+      "utterance": "who scored first rank in the first heat?",
+      "id": "nt-7079"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many athletes from jamaica are represented in the results?",
+      "id": "nt-7255"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many women from england were ranked in top 14 in the heats of 100m women's hurdles?",
+      "id": "nt-12569"
+    },
+    {
+      "targetValue": "0.29",
+      "utterance": "what is the time difference in seconds between rachel king and sriyani kulawansa?",
+      "id": "nt-13263"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many athletes have a time of 13.29?",
+      "id": "nt-13339"
+    },
+    {
+      "targetValue": "Jamaica",
+      "utterance": "name a country that had two consecutive finishers.",
+      "id": "nt-14108"
+    }
+  ],
+  "metadata": {
+    "title": "Athletics at the 2002 Commonwealth Games – Women's 100 metres hurdles",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33417046&oldid=599186987",
+    "tableIndex": 1,
+    "hashcode": "e53d2a262219ff35ded0d0cb3297cdcb50dc9742",
+    "id": 33417046,
+    "revision": 599186987
+  }
+}

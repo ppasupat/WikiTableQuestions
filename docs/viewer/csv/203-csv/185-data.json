@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "2014-2015",
+      "utterance": "what is the only year to feature a university level team challenge?",
+      "id": "nt-1101"
+    },
+    {
+      "targetValue": "2014-2015",
+      "utterance": "what is the largest year listed?",
+      "id": "nt-1641"
+    },
+    {
+      "targetValue": "Instant Pudding Improv",
+      "utterance": "what was the title of the first improv challenge?",
+      "id": "nt-2768"
+    },
+    {
+      "targetValue": "Dig In",
+      "utterance": "what technical challenge was featured in 2013-2014 but not 2014-2015?",
+      "id": "nt-3571"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many more challenges were there in 2014-2015 than in 2006-2007?",
+      "id": "nt-5901"
+    },
+    {
+      "targetValue": "2014-2015",
+      "utterance": "which is the only year to feature a university level challenge?",
+      "id": "nt-5920"
+    },
+    {
+      "targetValue": "Windvisible",
+      "utterance": "what was the challenge for scientific after the solar stage?",
+      "id": "nt-8320"
+    },
+    {
+      "targetValue": "Unidentified Moving Object",
+      "utterance": "which technical challenge came directly after \"direct diposit\"?",
+      "id": "nt-9675"
+    },
+    {
+      "targetValue": "1999-2000",
+      "utterance": "what is the last set of years listed?",
+      "id": "nt-10706"
+    },
+    {
+      "targetValue": "Fruit Roller Coaster & Eggploration",
+      "utterance": "what is the earliest technical challenge title?",
+      "id": "nt-12065"
+    },
+    {
+      "targetValue": "Instinct Messaging",
+      "utterance": "which scientific challenge came two years before \"spinning a tale\"?",
+      "id": "nt-13570"
+    }
+  ],
+  "metadata": {
+    "title": "Destination Imagination",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3201722&oldid=601581054",
+    "tableIndex": 0,
+    "hashcode": "944cd4202a279a39961c4d21879674e869e05b4b",
+    "id": 3201722,
+    "revision": 601581054
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "18",
+      "utterance": "how many years later was the sibir in service after the lenin?",
+      "id": "nt-785"
+    },
+    {
+      "targetValue": [
+        "Arktika",
+        "Sibir"
+      ],
+      "utterance": "which ships are class arktika but are not operational?",
+      "id": "nt-2344"
+    },
+    {
+      "targetValue": "Arktika",
+      "utterance": "what was the previous ship to sibir?",
+      "id": "nt-2658"
+    },
+    {
+      "targetValue": "50 Let Pobedy",
+      "utterance": "which was the last ship in service?",
+      "id": "nt-3221"
+    },
+    {
+      "targetValue": "Vaygach",
+      "utterance": "which ship was in service before the yamal?",
+      "id": "nt-4656"
+    },
+    {
+      "targetValue": [
+        "Arktika",
+        "Sibir",
+        "Rossiya",
+        "Sovetskiy Soyuz",
+        "Yamal",
+        "50 Let Pobedy"
+      ],
+      "utterance": "list the ships that have their class as arktika.",
+      "id": "nt-7373"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "what is the difference in years in service of the taymyr and the arktika?",
+      "id": "nt-8670"
+    },
+    {
+      "targetValue": "50 Let Pobedy",
+      "utterance": "what is the next ship after yamal?",
+      "id": "nt-9096"
+    },
+    {
+      "targetValue": "48",
+      "utterance": "what is the difference in years between the first ship put into service and the last?",
+      "id": "nt-10587"
+    },
+    {
+      "targetValue": "Sevmorput",
+      "utterance": "which ship is the only container ship listed?",
+      "id": "nt-12718"
+    },
+    {
+      "targetValue": "Sovetskiy Soyuz",
+      "utterance": "the vaygach was commissioned for service the same year as which ship?",
+      "id": "nt-13345"
+    }
+  ],
+  "metadata": {
+    "title": "Nuclear-powered icebreaker",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=483169&oldid=591999676",
+    "tableIndex": 0,
+    "hashcode": "8ef17535bcaf9b9e979ae644411ddf3b29f3cea8",
+    "id": 483169,
+    "revision": 591999676
+  }
+}

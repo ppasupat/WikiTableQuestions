@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Volume 1",
+      "utterance": "tell me a volume that does not have more than 30 issues.",
+      "id": "nt-783"
+    },
+    {
+      "targetValue": "148",
+      "utterance": "how long, in pages, is volume 6 of doctor who classics?",
+      "id": "nt-6629"
+    },
+    {
+      "targetValue": "December 2013",
+      "utterance": "when was the last doctor who classics volume published?",
+      "id": "nt-6813"
+    },
+    {
+      "targetValue": "Volume 4",
+      "utterance": "what volume is previous to the volume that included contents such as lunar lagoon, 4-dimensional vistas, the moderator, skywatch-7?",
+      "id": "nt-6963"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many total issues are there in volume 9?",
+      "id": "nt-7582"
+    },
+    {
+      "targetValue": "Volume 1",
+      "utterance": "\"the iron legion\" was published only in what issues of the doctor who classics?",
+      "id": "nt-8416"
+    },
+    {
+      "targetValue": "Omnibus 2",
+      "utterance": "which of the existing omnibus (1 or 2) would have the most pages?",
+      "id": "nt-9930"
+    }
+  ],
+  "metadata": {
+    "title": "Doctor Who Magazine",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=359010&oldid=599575896",
+    "tableIndex": 2,
+    "hashcode": "a3469fd038fea6d8c8745e7128de5e6eae6f9077",
+    "id": 359010,
+    "revision": 599575896
+  }
+}

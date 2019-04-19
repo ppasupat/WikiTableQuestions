@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Ah Sa",
+      "utterance": "role played at least twice",
+      "id": "nt-916"
+    },
+    {
+      "targetValue": "Langlang Princess",
+      "utterance": "the only person to appear in episode 2",
+      "id": "nt-1009"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "after 2002 how many notes include music videos?",
+      "id": "nt-6702"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "count of unique roles",
+      "id": "nt-6716"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "titles not on tvb",
+      "id": "nt-6915"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many films made in 2003?",
+      "id": "nt-7080"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many appearances have no role listed?",
+      "id": "nt-9898"
+    },
+    {
+      "targetValue": "10 years",
+      "utterance": "how long until there was an appearance on the cts network?",
+      "id": "nt-10539"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what number of appearances were on the tvb network?",
+      "id": "nt-12420"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of networks listed in the table?",
+      "id": "nt-12897"
+    }
+  ],
+  "metadata": {
+    "title": "Charlene Choi",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=755714&oldid=593130372",
+    "tableIndex": 2,
+    "hashcode": "b21995b92311bd19ca2760462911e977fc969c3c",
+    "id": 755714,
+    "revision": 593130372
+  }
+}

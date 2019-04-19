@@ -1,0 +1,66 @@
+{
+  "examples": [
+    {
+      "targetValue": "12",
+      "utterance": "how many riders finished less than a minute out of first?",
+      "id": "nt-1721"
+    },
+    {
+      "targetValue": "Troy Bayliss",
+      "utterance": "in the 2007 phillip island superbike world championship round superbike race 1 classification who was in the top position?",
+      "id": "nt-3149"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "in the 2007 phillip island superbike world championship round superbike race 1 classification how many riders scored at least 10 points?",
+      "id": "nt-3262"
+    },
+    {
+      "targetValue": "Lorenzo Lanzi",
+      "utterance": "who rides a bike that is the same as troy bayliss' bike?",
+      "id": "nt-3299"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "did james toseland score more or less points than shinichi nakatomi?",
+      "id": "nt-5279"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many riders scored at least 9 points?",
+      "id": "nt-7449"
+    },
+    {
+      "targetValue": "Below",
+      "utterance": "did alex polita finish above or below lorenzo lanzi?",
+      "id": "nt-7470"
+    },
+    {
+      "targetValue": [
+        "Troy Bayliss",
+        "James Toseland",
+        "Max Biaggi"
+      ],
+      "utterance": "name 3 that scored more points than steve martin.",
+      "id": "nt-11399"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "what is the number of non-retired riders?",
+      "id": "nt-12711"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "in the 2007 phillip island superbike world championship round superbike race 1 classification what was the point difference between position 1 and 2?",
+      "id": "nt-12813"
+    }
+  ],
+  "metadata": {
+    "title": "2007 Phillip Island Superbike World Championship round",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10101173&oldid=417019090",
+    "tableIndex": 0,
+    "hashcode": "33337624bf984170ba6890ffe2f9a87cc5c17eee",
+    "id": 10101173,
+    "revision": 417019090
+  }
+}

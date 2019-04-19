@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive years was the result 4th place?",
+      "id": "nt-2274"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many times have the lions played in the playoffs?",
+      "id": "nt-2649"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the greatest amount of consecutive years that the lions did not qualify for playoffs?",
+      "id": "nt-3790"
+    },
+    {
+      "targetValue": "2006",
+      "utterance": "which year had a better regular season finish, 2006 or 2012?",
+      "id": "nt-4268"
+    },
+    {
+      "targetValue": "2007",
+      "utterance": "what year was more successful, 2012 or 2007?",
+      "id": "nt-4611"
+    },
+    {
+      "targetValue": "2007",
+      "utterance": "what year was the only year the team qualified for the playoffs?",
+      "id": "nt-5003"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many years did not qualify?",
+      "id": "nt-5410"
+    },
+    {
+      "targetValue": "5 years",
+      "utterance": "how long has the the team not qualified for the open cup since 2008?",
+      "id": "nt-5663"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many years did the team finish the regular season in at least 4th place?",
+      "id": "nt-10449"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the number of times the lions have placed 5th or better in the regular season?",
+      "id": "nt-10819"
+    },
+    {
+      "targetValue": "2007",
+      "utterance": "what year was it that placed higher than 5th but made the conference semifinals?",
+      "id": "nt-12610"
+    },
+    {
+      "targetValue": "2007",
+      "utterance": "when was the first year the team qualified for the playoffs?",
+      "id": "nt-13554"
+    }
+  ],
+  "metadata": {
+    "title": "St. Louis Lions",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3781971&oldid=575589051",
+    "tableIndex": 0,
+    "hashcode": "6c40e3227f7e2932df94ac9b525652930e78badd",
+    "id": 3781971,
+    "revision": 575589051
+  }
+}

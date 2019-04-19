@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Ince Blundell",
+      "utterance": "which area has the least number of residents?",
+      "id": "nt-330"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many areas are unparished areas?",
+      "id": "nt-2143"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many civil parishes have population counts of at least 10,000?",
+      "id": "nt-3342"
+    },
+    {
+      "targetValue": "23,586",
+      "utterance": "tell me the number of residents in formby.",
+      "id": "nt-4708"
+    },
+    {
+      "targetValue": "Liverpool",
+      "utterance": "what is the largest area in terms of population?",
+      "id": "nt-5677"
+    },
+    {
+      "targetValue": "2,283",
+      "utterance": "how many people live in the bold civil parish?",
+      "id": "nt-7437"
+    },
+    {
+      "targetValue": "Aintree Village",
+      "utterance": "which is a civil parish, aintree village or maghull?",
+      "id": "nt-12565"
+    }
+  ],
+  "metadata": {
+    "title": "Civil parishes in Merseyside",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1469686&oldid=582755413",
+    "tableIndex": 0,
+    "hashcode": "0fead8b40da2834004b4ec2edd642b909dad16b7",
+    "id": 1469686,
+    "revision": 582755413
+  }
+}

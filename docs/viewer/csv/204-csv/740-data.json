@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "how many bmws finished before webber?",
+      "id": "nt-1207"
+    },
+    {
+      "targetValue": "Christijan Albers",
+      "utterance": "who was the last driver to actually finish the race?",
+      "id": "nt-2135"
+    },
+    {
+      "targetValue": "Fernando Alonso",
+      "utterance": "what driver finished first?",
+      "id": "nt-2750"
+    },
+    {
+      "targetValue": "56",
+      "utterance": "what were the total number of laps completed by the 1st position winner?",
+      "id": "nt-3184"
+    },
+    {
+      "targetValue": "Italian",
+      "utterance": "jarno trulli was not french but what nationality?",
+      "id": "nt-5125"
+    },
+    {
+      "targetValue": "1:31:33.736",
+      "utterance": "how long did it take fernando alonso to finish the race?",
+      "id": "nt-5551"
+    },
+    {
+      "targetValue": "David Coulthard",
+      "utterance": "who was the last driver from the uk to actually finish the 56 laps?",
+      "id": "nt-7409"
+    },
+    {
+      "targetValue": "Jarno Trulli",
+      "utterance": "who finished before nick heidfeld?",
+      "id": "nt-9781"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many drivers were retired before the race could end?",
+      "id": "nt-11066"
+    },
+    {
+      "targetValue": "1:31:65.924",
+      "utterance": "how long did it take for heidfeld to finish?",
+      "id": "nt-11568"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many germans finished in the top five?",
+      "id": "nt-12399"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many drivers ended the race early because of engine problems?",
+      "id": "nt-13671"
+    }
+  ],
+  "metadata": {
+    "title": "2005 Malaysian Grand Prix",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1626331&oldid=598740783",
+    "tableIndex": 1,
+    "hashcode": "c3a6ece629600396eaff8289289f13f2a6ae1a8b",
+    "id": 1626331,
+    "revision": 598740783
+  }
+}

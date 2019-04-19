@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Iryna Herashchenko",
+      "utterance": "who was the next ranked competitor after dior delophont and ligia grozav?",
+      "id": "nt-115"
+    },
+    {
+      "targetValue": "Leontia Kallenou",
+      "utterance": "who is the previous qualifier over anna pau?",
+      "id": "nt-313"
+    },
+    {
+      "targetValue": "Vivien Baglyos",
+      "utterance": "what name is just before thea lafond on the list?",
+      "id": "nt-2587"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many different nationality's are on the list?",
+      "id": "nt-4480"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many countries are on the chart?",
+      "id": "nt-4591"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "what is the total number of names listed?",
+      "id": "nt-5377"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "what was the number of competitors who qualified in group a?",
+      "id": "nt-5460"
+    },
+    {
+      "targetValue": "Dior Delophont",
+      "utterance": "what name is at the top of the list?",
+      "id": "nt-7444"
+    },
+    {
+      "targetValue": "Thea Lafond",
+      "utterance": "who is the last name to qualify?",
+      "id": "nt-7665"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "does ranking 7 or 3 have the least amount of listings?",
+      "id": "nt-9682"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "were there more names ranked 11th or 6th?",
+      "id": "nt-10888"
+    },
+    {
+      "targetValue": "Thea Lafond",
+      "utterance": "who was the last ranked competitor in group a?",
+      "id": "nt-12404"
+    }
+  ],
+  "metadata": {
+    "title": "2011 World Youth Championships in Athletics – Girls' high jump",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=32323886&oldid=569294648",
+    "tableIndex": 1,
+    "hashcode": "953f5e66fd699c86274884a9b34d1645941eed59",
+    "id": 32323886,
+    "revision": 569294648
+  }
+}

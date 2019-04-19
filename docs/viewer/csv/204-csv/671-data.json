@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "how many movies have less than 20 episodes?",
+      "id": "nt-536"
+    },
+    {
+      "targetValue": "30 Dec 1996- 27 Jan 1998",
+      "utterance": "what is the last airing date on the list?",
+      "id": "nt-4568"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many movies have at least 20 episodes?",
+      "id": "nt-4615"
+    },
+    {
+      "targetValue": "The Price to Pay",
+      "utterance": "which had less episodes, the price to pay or dark tales?",
+      "id": "nt-5353"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many shows had more episodes than dark tales?",
+      "id": "nt-7227"
+    },
+    {
+      "targetValue": "Dark Tales",
+      "utterance": "what series aired consecutively after 'mutual affection'?",
+      "id": "nt-7751"
+    },
+    {
+      "targetValue": "In the Name of Love",
+      "utterance": "what was the last show to air?",
+      "id": "nt-7994"
+    },
+    {
+      "targetValue": "Daniel Chan",
+      "utterance": "which co-star of 'night journey' also performed the theme song to the show?",
+      "id": "nt-8667"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many shows were modern dramas?",
+      "id": "nt-11140"
+    },
+    {
+      "targetValue": "In the Name of Love",
+      "utterance": "which was the longest running?",
+      "id": "nt-12601"
+    }
+  ],
+  "metadata": {
+    "title": "List of TVB series (1996)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18506921&oldid=545374173",
+    "tableIndex": 0,
+    "hashcode": "641afd9386e85e03fe29077be1837feea3fcb5fa",
+    "id": 18506921,
+    "revision": 545374173
+  }
+}

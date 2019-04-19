@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "October",
+      "utterance": "which month held the most winchester 400 races?",
+      "id": "nt-1967"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many winning oldsmobile vehicles made the list?",
+      "id": "nt-3012"
+    },
+    {
+      "targetValue": "Mercury",
+      "utterance": "which make was used the least?",
+      "id": "nt-5368"
+    },
+    {
+      "targetValue": "Toyota",
+      "utterance": "which make of car was used the least by those that won races?",
+      "id": "nt-5623"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many consecutive wins did bob senneker have?",
+      "id": "nt-5914"
+    },
+    {
+      "targetValue": "Bob Senneker",
+      "utterance": "who on the list has the highest number of consecutive wins?",
+      "id": "nt-10541"
+    }
+  ],
+  "metadata": {
+    "title": "Winchester 400",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19456480&oldid=577223628",
+    "tableIndex": 0,
+    "hashcode": "41ede7c86572fd8d0b69327848b28fe8d8fe4ae4",
+    "id": 19456480,
+    "revision": 577223628
+  }
+}

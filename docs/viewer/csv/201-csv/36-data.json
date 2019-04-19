@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Embrace of the Vampire",
+      "utterance": "which film aired in 1994 and has marika as the role?",
+      "id": "nt-667"
+    },
+    {
+      "targetValue": "2004",
+      "utterance": "which year had the most credits?",
+      "id": "nt-1421"
+    },
+    {
+      "targetValue": "Shadow of the Wolf",
+      "utterance": "which film has their role under igiyook?",
+      "id": "nt-5252"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many films does jennifer tilly do a voice over role in?",
+      "id": "nt-5292"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many rolls did jennifer tilly play in the 1980s?",
+      "id": "nt-9222"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many movies does jennifer tilly play herself?",
+      "id": "nt-9571"
+    },
+    {
+      "targetValue": "No Small Affair",
+      "utterance": "which movie was also a film debut?",
+      "id": "nt-9850"
+    }
+  ],
+  "metadata": {
+    "title": "Jennifer Tilly",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=863973&oldid=601286598",
+    "tableIndex": 0,
+    "hashcode": "7103267a33d016e8672bf83a84ef3a02bc1e3af7",
+    "id": 863973,
+    "revision": 601286598
+  }
+}

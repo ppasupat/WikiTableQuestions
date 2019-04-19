@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "West Bengal",
+      "utterance": "what is the last state in the table?",
+      "id": "nt-4446"
+    },
+    {
+      "targetValue": "Madhya Pradesh",
+      "utterance": "what state comes after kerala?",
+      "id": "nt-4916"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "number of states with less than 100 seats.",
+      "id": "nt-5082"
+    },
+    {
+      "targetValue": "Kerala",
+      "utterance": "who elected 17?",
+      "id": "nt-5229"
+    },
+    {
+      "targetValue": "Goa",
+      "utterance": "what is the first state after delhi?",
+      "id": "nt-8321"
+    },
+    {
+      "targetValue": "Andhra Pradesh",
+      "utterance": "what is the top state in the table?",
+      "id": "nt-9026"
+    },
+    {
+      "targetValue": "Meghalaya",
+      "utterance": "which state other than goa had 3 candidates ?",
+      "id": "nt-9434"
+    },
+    {
+      "targetValue": "Puducherry",
+      "utterance": "what state had only 30 seats in their assembly?",
+      "id": "nt-10097"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of states with more than 5 people elected?",
+      "id": "nt-11501"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "total number of states with elections in 2002.",
+      "id": "nt-11921"
+    }
+  ],
+  "metadata": {
+    "title": "Communist Party of India",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=408215&oldid=599695376",
+    "tableIndex": 1,
+    "hashcode": "419528f6a8bfad6fbb777e79889250227449e70e",
+    "id": 408215,
+    "revision": 599695376
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Tensile Modulus",
+      "utterance": "what property comes before tensile elongation?",
+      "id": "nt-121"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what are the number of times astm d 638 is listed as the test method?",
+      "id": "nt-1201"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "are there more or less than 8 properties?",
+      "id": "nt-1437"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "was the test method for tensile strength the same as the test method tensile elongation?",
+      "id": "nt-5093"
+    },
+    {
+      "targetValue": "ASTM D 638",
+      "utterance": "which test method is used the most?",
+      "id": "nt-5499"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the total number of properties on the chart?",
+      "id": "nt-5824"
+    },
+    {
+      "targetValue": "Tensile Strength",
+      "utterance": "what is the name of the first property?",
+      "id": "nt-6956"
+    },
+    {
+      "targetValue": "ASTM D 638",
+      "utterance": "what test method is listed at the top?",
+      "id": "nt-8067"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times does mpa (kpsi) appear under the units column?",
+      "id": "nt-10715"
+    }
+  ],
+  "metadata": {
+    "title": "Polyamide-imide",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1477774&oldid=557190040",
+    "tableIndex": 1,
+    "hashcode": "be6c967d6eb2f0c89c67aa1b9e8f6a0e9b00f2ae",
+    "id": 1477774,
+    "revision": 557190040
+  }
+}

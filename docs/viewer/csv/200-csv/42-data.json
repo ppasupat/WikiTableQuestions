@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "January",
+      "utterance": "what is the month with the lowest average low in haifa?",
+      "id": "nt-6133"
+    },
+    {
+      "targetValue": "Israel",
+      "utterance": "which country is haifa in?",
+      "id": "nt-7903"
+    },
+    {
+      "targetValue": "January",
+      "utterance": "which month held the most precipitation?",
+      "id": "nt-12304"
+    }
+  ],
+  "metadata": {
+    "title": "Haifa",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=55606&oldid=602467553",
+    "tableIndex": 1,
+    "hashcode": "d8833b847e92ae210242eca16a82d417d4c0d581",
+    "id": 55606,
+    "revision": 602467553
+  }
+}

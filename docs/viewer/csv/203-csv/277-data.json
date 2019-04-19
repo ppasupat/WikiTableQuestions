@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many wrestlers had a time of 6:47?",
+      "id": "nt-704"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many lasted at least 6 minutes?",
+      "id": "nt-2961"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many matches lasted at least 4 minutes?",
+      "id": "nt-2989"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many lasted less than 5 minutes?",
+      "id": "nt-4887"
+    },
+    {
+      "targetValue": "Eric Young",
+      "utterance": "alex shelly and robert roode had the same time as which other wrestler?",
+      "id": "nt-5606"
+    },
+    {
+      "targetValue": "2:32",
+      "utterance": "the difference in time between junior fatu and kaz?",
+      "id": "nt-7130"
+    },
+    {
+      "targetValue": "James Storm",
+      "utterance": "which wrestler lasted the least amount of time in part two of battle royal?",
+      "id": "nt-8678"
+    },
+    {
+      "targetValue": "05:32",
+      "utterance": "how long was the match in which kaz was eliminated by robert roode?",
+      "id": "nt-9782"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many wrestlers entered the battle royal?",
+      "id": "nt-10083"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "wrestler junior fatu was eliminated by a total of how many wrestlers?",
+      "id": "nt-11859"
+    },
+    {
+      "targetValue": [
+        "Robert Roode",
+        "Eric Young"
+      ],
+      "utterance": "which wrestlers did not get eliminated in part two of battle royal?",
+      "id": "nt-12688"
+    },
+    {
+      "targetValue": "Junior Fatu",
+      "utterance": "who entered before robert roode?",
+      "id": "nt-13943"
+    }
+  ],
+  "metadata": {
+    "title": "Bound for Glory (2007)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10411266&oldid=598933757",
+    "tableIndex": 2,
+    "hashcode": "4494185aa238c384772eb820e8bae62d81aa860c",
+    "id": 10411266,
+    "revision": 598933757
+  }
+}

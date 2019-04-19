@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many home games were won in total?",
+      "id": "nt-3327"
+    },
+    {
+      "targetValue": "Columbus Destroyers",
+      "utterance": "which team was the philadelphia soul's next opponent after playing the chicago rush?",
+      "id": "nt-4119"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many games did the philadelphia soul lose after the bye week?",
+      "id": "nt-4531"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the total number of home games played?",
+      "id": "nt-5832"
+    },
+    {
+      "targetValue": "Tampa Bay Storm",
+      "utterance": "where did they play directly before the chicago rush game?",
+      "id": "nt-7244"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many games did the philadelphia soul lose before earning their first win?",
+      "id": "nt-7500"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the total number of games lost during the month of april?",
+      "id": "nt-11386"
+    },
+    {
+      "targetValue": "Home",
+      "utterance": "did the team win more home games or away games?",
+      "id": "nt-12594"
+    },
+    {
+      "targetValue": "February 15",
+      "utterance": "when was the first away game?",
+      "id": "nt-13758"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many times did they lose while away?",
+      "id": "nt-14040"
+    }
+  ],
+  "metadata": {
+    "title": "2004 Philadelphia Soul season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11870863&oldid=566017862",
+    "tableIndex": 0,
+    "hashcode": "1d4ac5f604baf6fd675a636c1653dd8d67970aa6",
+    "id": 11870863,
+    "revision": 566017862
+  }
+}

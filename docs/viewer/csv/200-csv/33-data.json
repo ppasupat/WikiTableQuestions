@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "1344.16",
+      "utterance": "what is the combined area size of the yamato flat inland plain and the yamato highland?",
+      "id": "nt-5223"
+    },
+    {
+      "targetValue": "Yamato flat inland plain",
+      "utterance": "which district has the highest population?",
+      "id": "nt-7088"
+    },
+    {
+      "targetValue": "1,282",
+      "utterance": "what is the population of the yamato flat inland plain",
+      "id": "nt-8245"
+    },
+    {
+      "targetValue": "Yamato flat inland plain",
+      "utterance": "which district has the highest population density?",
+      "id": "nt-10622"
+    }
+  ],
+  "metadata": {
+    "title": "Nara Prefecture",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=179765&oldid=600196784",
+    "tableIndex": 0,
+    "hashcode": "e6c4c0dfd8499af23bb7ac8d556607260ec5ef3e",
+    "id": 179765,
+    "revision": 600196784
+  }
+}

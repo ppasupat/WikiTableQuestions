@@ -1,0 +1,92 @@
+{
+  "examples": [
+    {
+      "targetValue": "54",
+      "utterance": "what were the total number of legs won by ronnie baxter?",
+      "id": "nt-574"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many players have a 3 dart average of more than 97?",
+      "id": "nt-748"
+    },
+    {
+      "targetValue": [
+        "Co Stompé",
+        "Andy Smith",
+        "Jelle Klaasen",
+        "Wes Newton",
+        "Michael van Gerwen",
+        "Andy Hamilton",
+        "Wayne Jones",
+        "Peter Wright",
+        "Colin Osborne",
+        "Dennis Priestley",
+        "Robert Thornton",
+        "Mark Dudbridge",
+        "Jamie Caven",
+        "John Part",
+        "Tony Eccles",
+        "Andy Jenkins"
+      ],
+      "utterance": "which player lost the least?",
+      "id": "nt-1858"
+    },
+    {
+      "targetValue": "Below",
+      "utterance": "mark walsh's average is above/below 93?",
+      "id": "nt-2232"
+    },
+    {
+      "targetValue": "26",
+      "utterance": "what are the number of legs lost by james wade?",
+      "id": "nt-3762"
+    },
+    {
+      "targetValue": "Colin Osborne",
+      "utterance": "which player has his high checkout as 116?",
+      "id": "nt-4620"
+    },
+    {
+      "targetValue": "Wes Newton",
+      "utterance": "what is the name of the next player after mark walsh?",
+      "id": "nt-4842"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total amount of players who played more than 3 games?",
+      "id": "nt-4900"
+    },
+    {
+      "targetValue": "Kevin Painter",
+      "utterance": "was andy smith or kevin painter's 3-dart average 96.71?",
+      "id": "nt-5873"
+    },
+    {
+      "targetValue": "Phil Taylor",
+      "utterance": "who won the highest number of legs in the 2009 world matchplay?",
+      "id": "nt-9871"
+    },
+    {
+      "targetValue": [
+        "Terry Jenkins",
+        "Vincent van der Voort"
+      ],
+      "utterance": "list each of the players with a high checkout of 131.",
+      "id": "nt-12207"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many players in the 2009 world matchplay won at least 30 legs?",
+      "id": "nt-12391"
+    }
+  ],
+  "metadata": {
+    "title": "2009 World Matchplay (darts)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20948329&oldid=586462436",
+    "tableIndex": 0,
+    "hashcode": "33cc3ac7f44d1bdf13739724b76a88d613eae040",
+    "id": 20948329,
+    "revision": 586462436
+  }
+}

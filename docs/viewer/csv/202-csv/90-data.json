@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "Seattle",
+      "utterance": "which town name is the best if you want an area with the largest square miles?",
+      "id": "nt-6162"
+    }
+  ],
+  "metadata": {
+    "title": "List of cities in Washington",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=390607&oldid=602348719",
+    "tableIndex": 0,
+    "hashcode": "fbd10e0f576f9a5fe51b29b99b0b801dd3821bf1",
+    "id": 390607,
+    "revision": 602348719
+  }
+}

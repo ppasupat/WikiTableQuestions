@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Braşov",
+      "utterance": "which city has the most density?",
+      "id": "nt-1674"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "in 2002 did rasnov have more than 10000 people?",
+      "id": "nt-2774"
+    },
+    {
+      "targetValue": "Prejmer",
+      "utterance": "which city had a higher population in 2007, ghimbav or prejmer?",
+      "id": "nt-5808"
+    },
+    {
+      "targetValue": "5,174",
+      "utterance": "what is the number of inhabitants living in predeal in 2007?",
+      "id": "nt-6436"
+    },
+    {
+      "targetValue": "399,902",
+      "utterance": "what is the total number of the population in 2002?",
+      "id": "nt-8188"
+    },
+    {
+      "targetValue": "4,755",
+      "utterance": "how many people lived in predeal in 2011?",
+      "id": "nt-8618"
+    },
+    {
+      "targetValue": "Sânpetru",
+      "utterance": "which city had the least people at the 2002 census?",
+      "id": "nt-10415"
+    },
+    {
+      "targetValue": "Cristian",
+      "utterance": "which locality has the least amount of area according to this chart?",
+      "id": "nt-12182"
+    }
+  ],
+  "metadata": {
+    "title": "Brașov metropolitan area",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14325808&oldid=599497655",
+    "tableIndex": 0,
+    "hashcode": "14dab5b67b8e42c9af8f8bbe27903007f3123734",
+    "id": 14325808,
+    "revision": 599497655
+  }
+}

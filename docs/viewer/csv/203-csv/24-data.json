@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "1.75",
+      "utterance": "what is the average score of all home team members for all dates?",
+      "id": "nt-243"
+    },
+    {
+      "targetValue": "4 March 2008",
+      "utterance": "on which date did the home team member not score?",
+      "id": "nt-553"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many ties are listed total?",
+      "id": "nt-671"
+    },
+    {
+      "targetValue": "Steel Azin",
+      "utterance": "which team has the same score as rah ahan?",
+      "id": "nt-1629"
+    },
+    {
+      "targetValue": "Foolad",
+      "utterance": "which team had the most progress on penalties?",
+      "id": "nt-2155"
+    },
+    {
+      "targetValue": "17 December 2007",
+      "utterance": "at most 8 were scored on what date",
+      "id": "nt-2491"
+    },
+    {
+      "targetValue": "4 March 2008",
+      "utterance": "on what date did the home team score zero points against their opponent?",
+      "id": "nt-5767"
+    },
+    {
+      "targetValue": "Pegah Gilan",
+      "utterance": "which team's score was better than sanaye arak?",
+      "id": "nt-9158"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the total number of points earned by all away team members in december?",
+      "id": "nt-9637"
+    },
+    {
+      "targetValue": [
+        "Foolad",
+        "Esteghlal Ahvaz"
+      ],
+      "utterance": "each of these teams both scored 4 goals",
+      "id": "nt-11689"
+    }
+  ],
+  "metadata": {
+    "title": "2007–08 Hazfi Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13759270&oldid=578573637",
+    "tableIndex": 4,
+    "hashcode": "21ce384bfa9a96c08ed27d55b73ec67d725c0e98",
+    "id": 13759270,
+    "revision": 578573637
+  }
+}

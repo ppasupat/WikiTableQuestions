@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "56 m",
+      "utterance": "how much greater is the height of cable over ground measurement for the peak 2 peak gondola when compared with that of the vanoise express?",
+      "id": "nt-416"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many aerial tramways are located in france?",
+      "id": "nt-579"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "was the peak 2 peak gondola inaugurated before the vanoise express?",
+      "id": "nt-3515"
+    },
+    {
+      "targetValue": "before",
+      "utterance": "was the sandia peak tramway innagurate before or after the 3s aerial tramway?",
+      "id": "nt-4369"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "at least how many aerial tramways were inaugurated after 1970?",
+      "id": "nt-7527"
+    },
+    {
+      "targetValue": "Vanoise Express",
+      "utterance": "which tramway was built directly before the 3s aeriral tramway?",
+      "id": "nt-8078"
+    },
+    {
+      "targetValue": "Aiguille du Midi",
+      "utterance": "which tramway was inaugurated first, the 3s aerial tramway or the aiguille du midi?",
+      "id": "nt-9779"
+    },
+    {
+      "targetValue": "517",
+      "utterance": "how much longer is the peak 2 peak gondola than the 32 aerial tramway?",
+      "id": "nt-12104"
+    }
+  ],
+  "metadata": {
+    "title": "List of spans",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6611805&oldid=591938489",
+    "tableIndex": 3,
+    "hashcode": "d5710f7e8980de0ed2ac077779fa95086da1e86e",
+    "id": 6611805,
+    "revision": 591938489
+  }
+}

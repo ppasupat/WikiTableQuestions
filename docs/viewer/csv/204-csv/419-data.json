@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "how many times has australia been runner-up?",
+      "id": "nt-874"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many teams won only one game?",
+      "id": "nt-1492"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what is the number of countries that are listed in the table?",
+      "id": "nt-3404"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the venue total for sri lanka?",
+      "id": "nt-7168"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "in how many matches have australia tied between 1990-1999?",
+      "id": "nt-10633"
+    },
+    {
+      "targetValue": "Coca-Cola Cup",
+      "utterance": "which was the last tournament australia played in sharjah?",
+      "id": "nt-12557"
+    }
+  ],
+  "metadata": {
+    "title": "History of the Australian cricket team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6549109&oldid=599644205",
+    "tableIndex": 17,
+    "hashcode": "1392504dde2fd093264ce2b883eec8d31647b5ab",
+    "id": 6549109,
+    "revision": 599644205
+  }
+}

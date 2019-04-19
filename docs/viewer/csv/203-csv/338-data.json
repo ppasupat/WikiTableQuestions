@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "December 20, 1967",
+      "utterance": "what is the last date of the cartoon directed by gerry chiniquy?",
+      "id": "nt-1891"
+    },
+    {
+      "targetValue": "George Singer",
+      "utterance": "who directed the least number of the inspector episodes in 1967?",
+      "id": "nt-2005"
+    },
+    {
+      "targetValue": "Bomb Voyage",
+      "utterance": "which 1967 episode of the inspector is the only one written by tony benedict?",
+      "id": "nt-3226"
+    },
+    {
+      "targetValue": "The Shooting of Caribou Lou",
+      "utterance": "what is the last title listed in the table?",
+      "id": "nt-4138"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the number of stories directed by jim ryan?",
+      "id": "nt-5188"
+    },
+    {
+      "targetValue": "Bomb Voyage",
+      "utterance": "what is the next cartoon directed by robert mckimson after le quiet squad?",
+      "id": "nt-13101"
+    }
+  ],
+  "metadata": {
+    "title": "List of The Inspector cartoons",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3306504&oldid=594737950",
+    "tableIndex": 2,
+    "hashcode": "4118e494abe22c6bd37e4be701e382e6794b5e64",
+    "id": 3306504,
+    "revision": 594737950
+  }
+}

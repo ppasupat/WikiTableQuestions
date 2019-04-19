@@ -1,0 +1,71 @@
+{
+  "examples": [
+    {
+      "targetValue": "more",
+      "utterance": "does the malaysia open super series pay more or less than french super series?",
+      "id": "nt-1544"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many series awarded at least $500,000 in prize money?",
+      "id": "nt-2593"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many events of the 2013 bwf super series pay over $200,000?",
+      "id": "nt-4554"
+    },
+    {
+      "targetValue": "5050000",
+      "utterance": "what is the total prize payout for all 13 series?",
+      "id": "nt-4578"
+    },
+    {
+      "targetValue": [
+        "Japan Super Series",
+        "Singapore Super Series",
+        "India Super Series"
+      ],
+      "utterance": "which has the same prize money as the french super series?",
+      "id": "nt-5325"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many occur in the last six months of the year?",
+      "id": "nt-6018"
+    },
+    {
+      "targetValue": "Korea Open Super Series Premier",
+      "utterance": "which series has the highest prize payout?",
+      "id": "nt-6325"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many days does the japan super series last?",
+      "id": "nt-9481"
+    },
+    {
+      "targetValue": "5 days",
+      "utterance": "how long did the japan super series take?",
+      "id": "nt-11743"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many tours took place during january?",
+      "id": "nt-11821"
+    },
+    {
+      "targetValue": "Super Series Masters Finals",
+      "utterance": "which tour was the only one to take place in december?",
+      "id": "nt-13006"
+    }
+  ],
+  "metadata": {
+    "title": "2013 BWF Super Series",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=38522215&oldid=594466311",
+    "tableIndex": 0,
+    "hashcode": "9f11613cfa7ccc38c6745effe10cb44420e0de8a",
+    "id": 38522215,
+    "revision": 594466311
+  }
+}

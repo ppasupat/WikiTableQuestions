@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Dan Clarke",
+      "utterance": "at the 2006 gran premio telmex, who finished last?",
+      "id": "nt-1273"
+    },
+    {
+      "targetValue": "Sébastien Bourdais",
+      "utterance": "at the 2006 gran premio telmex, who scored the highest number of points?",
+      "id": "nt-2444"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the number of laps dan clarke completed?",
+      "id": "nt-2467"
+    },
+    {
+      "targetValue": "Sébastien Bourdais",
+      "utterance": "which driver has the same number as his/her position?",
+      "id": "nt-4893"
+    },
+    {
+      "targetValue": "United Kingdom",
+      "utterance": "which country is represented by the most drivers?",
+      "id": "nt-5553"
+    },
+    {
+      "targetValue": "tie",
+      "utterance": "which country had more drivers representing them, the us or germany?",
+      "id": "nt-9294"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many drivers did not make more than 60 laps?",
+      "id": "nt-12313"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "at the 2006 gran premio telmex, how many drivers completed less than 60 laps?",
+      "id": "nt-12498"
+    },
+    {
+      "targetValue": "Oriol Servià",
+      "utterance": "at the 2006 gran premio telmex, did oriol servia or katherine legge complete more laps?",
+      "id": "nt-13152"
+    },
+    {
+      "targetValue": "Charles Zwolsman",
+      "utterance": "rice finished 10th. who finished next?",
+      "id": "nt-13783"
+    },
+    {
+      "targetValue": "Nelson Philippe",
+      "utterance": "who finished directly after the driver who finished in 1:28.745?",
+      "id": "nt-14144"
+    }
+  ],
+  "metadata": {
+    "title": "2006 Gran Premio Telmex",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7934862&oldid=544590888",
+    "tableIndex": 1,
+    "hashcode": "3a6669a5001f6530e7387e9d9737af321a458019",
+    "id": 7934862,
+    "revision": 544590888
+  }
+}

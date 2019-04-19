@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "Czechoslovakia",
+      "utterance": "which was the first country to sell weapons to iraq?",
+      "id": "nt-305"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "according to this list, how many countries sold weapons to iraq?",
+      "id": "nt-2983"
+    },
+    {
+      "targetValue": "Soviet Union",
+      "utterance": "which country had the largest number of towed guns delivered?",
+      "id": "nt-8288"
+    },
+    {
+      "targetValue": "2500",
+      "utterance": "what is the total number of tanks sold by china to iraq?",
+      "id": "nt-13819"
+    }
+  ],
+  "metadata": {
+    "title": "SIPRI Arms Transfers Database, Iraq 1973–1990",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=440723&oldid=555058912",
+    "tableIndex": 1,
+    "hashcode": "c8342d9a3023724657525743ad76d8ab8d3b5f26",
+    "id": 440723,
+    "revision": 555058912
+  }
+}

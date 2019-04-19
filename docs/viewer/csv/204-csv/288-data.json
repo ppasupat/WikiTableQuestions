@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "East",
+      "utterance": "which of the four regions finished most often in the first round?",
+      "id": "nt-1728"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many west teams did final opponent arizona state play?",
+      "id": "nt-6544"
+    },
+    {
+      "targetValue": "UCLA",
+      "utterance": "which team came in first as champion?",
+      "id": "nt-6971"
+    },
+    {
+      "targetValue": "San Francisco",
+      "utterance": "which team scored the least?",
+      "id": "nt-7913"
+    },
+    {
+      "targetValue": "Midwest",
+      "utterance": "which region is above the west",
+      "id": "nt-9010"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "number of teams that lost by three or fewer points in their final game of the tournament",
+      "id": "nt-9979"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many midwest teams played southwestern louisiana as their final opponent?",
+      "id": "nt-11139"
+    }
+  ],
+  "metadata": {
+    "title": "1973 NCAA Men's Division I Basketball Tournament",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4380865&oldid=601835740",
+    "tableIndex": 1,
+    "hashcode": "53281abf6051fa98b4723bd4154a490813a6a58a",
+    "id": 4380865,
+    "revision": 601835740
+  }
+}

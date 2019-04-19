@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "1-3",
+      "utterance": "what the the top score result?",
+      "id": "nt-2013"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many times did this player play in lionel roberts park?",
+      "id": "nt-3986"
+    },
+    {
+      "targetValue": "December 7, 2012",
+      "utterance": "what date is shown before march 24, 2013?",
+      "id": "nt-6051"
+    },
+    {
+      "targetValue": "Lionel Roberts Park",
+      "utterance": "did they play at lionel roberts park or andre kamperveen stadion more?",
+      "id": "nt-6190"
+    },
+    {
+      "targetValue": "Antigua and Barbuda",
+      "utterance": "which team did this person face in their last game in the 2012 caribbean cup?",
+      "id": "nt-7097"
+    },
+    {
+      "targetValue": "Kensington Oval, Bridgetown",
+      "utterance": "what is the first venue in calender year 2012?",
+      "id": "nt-7800"
+    }
+  ],
+  "metadata": {
+    "title": "Jonathan Faña",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=26113624&oldid=595564760",
+    "tableIndex": 0,
+    "hashcode": "cdde2eaaded4d5e15516bacb9acad0ecee324bf8",
+    "id": 26113624,
+    "revision": 595564760
+  }
+}

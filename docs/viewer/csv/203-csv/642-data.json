@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Panorama Hills",
+      "utterance": "which area in ranked first in population in 2012?",
+      "id": "nt-4098"
+    },
+    {
+      "targetValue": "Chinatown",
+      "utterance": "which residential neighborhood has the least area?",
+      "id": "nt-4222"
+    },
+    {
+      "targetValue": "42",
+      "utterance": "how many industrial neighborhoods exist in calgary?",
+      "id": "nt-5602"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many wards are listed?",
+      "id": "nt-8945"
+    },
+    {
+      "targetValue": "Panorama Hills",
+      "utterance": "what was the most populous neighborhood in calgary in 2012?",
+      "id": "nt-12156"
+    },
+    {
+      "targetValue": "459,339",
+      "utterance": "the city's total number of dwellings as of 2012.",
+      "id": "nt-12811"
+    }
+  ],
+  "metadata": {
+    "title": "List of neighbourhoods in Calgary",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2616968&oldid=590268822",
+    "tableIndex": 0,
+    "hashcode": "05923b27057d625f70e33d0e304955a1c3a0705a",
+    "id": 2616968,
+    "revision": 590268822
+  }
+}

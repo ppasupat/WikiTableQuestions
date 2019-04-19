@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Karen Olsson",
+      "utterance": "who received the least amount of votes?",
+      "id": "nt-148"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what is the total number of candidates?",
+      "id": "nt-1158"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many candidates were from halifax?",
+      "id": "nt-1503"
+    },
+    {
+      "targetValue": "Mark MacNeill",
+      "utterance": "who got a larger number of votes, macneill or olsson?",
+      "id": "nt-2387"
+    },
+    {
+      "targetValue": "52,277",
+      "utterance": "tell me the total number of votes the female candidates got.",
+      "id": "nt-3799"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many of the candidates were females?",
+      "id": "nt-6470"
+    },
+    {
+      "targetValue": "Sackville-Eastern Shore",
+      "utterance": "who has the most votes?",
+      "id": "nt-6615"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many candidates had more votes than tamara lorincz?",
+      "id": "nt-7031"
+    },
+    {
+      "targetValue": "19,252",
+      "utterance": "what is the number of votes that megan leslie received?",
+      "id": "nt-8484"
+    },
+    {
+      "targetValue": "Cape Breton-Canso",
+      "utterance": "what is the first riding?",
+      "id": "nt-13569"
+    }
+  ],
+  "metadata": {
+    "title": "New Democratic Party candidates, 2008 Canadian federal election",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10953705&oldid=583500645",
+    "tableIndex": 2,
+    "hashcode": "4c10058f3fb76e7c5d88c0d7ff8d3f139a58e9d6",
+    "id": 10953705,
+    "revision": 583500645
+  }
+}

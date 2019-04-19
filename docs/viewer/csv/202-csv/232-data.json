@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many of the institutions are located in london?",
+      "id": "nt-7211"
+    },
+    {
+      "targetValue": "Loughborough University",
+      "utterance": "what is the most recent institution to gain university status?",
+      "id": "nt-7640"
+    },
+    {
+      "targetValue": "Loughborough University",
+      "utterance": "which institution has the most research funding?",
+      "id": "nt-12055"
+    }
+  ],
+  "metadata": {
+    "title": "1994 Group",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=142950&oldid=602240142",
+    "tableIndex": 0,
+    "hashcode": "7ac21684432da1de507ca928da316420b0b7e908",
+    "id": 142950,
+    "revision": 602240142
+  }
+}

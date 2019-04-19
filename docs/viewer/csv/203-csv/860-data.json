@@ -1,0 +1,63 @@
+{
+  "examples": [
+    {
+      "targetValue": "Mumbai",
+      "utterance": "who is ranked before delhi?",
+      "id": "nt-407"
+    },
+    {
+      "targetValue": "Mumbai",
+      "utterance": "what city is listed at the top of the table as having the highest population?",
+      "id": "nt-722"
+    },
+    {
+      "targetValue": [
+        "Bulandshahr",
+        "Thanjavur"
+      ],
+      "utterance": "who has a 2011 population less than 224,000?",
+      "id": "nt-820"
+    },
+    {
+      "targetValue": "215,725",
+      "utterance": "thanjavur has a population in 2001 of only how many?",
+      "id": "nt-851"
+    },
+    {
+      "targetValue": "Begusarai",
+      "utterance": "which is the last city for population in the year 2001?",
+      "id": "nt-5024"
+    },
+    {
+      "targetValue": [
+        "Ludhiana",
+        "Amritsar"
+      ],
+      "utterance": "list each of the cities who have more than 1,000,000 in population from the state/territory of punjab.",
+      "id": "nt-5134"
+    },
+    {
+      "targetValue": "1,683,200",
+      "utterance": "what is the total population for the 2011 year in the city of patna?",
+      "id": "nt-6880"
+    },
+    {
+      "targetValue": "Bhopal",
+      "utterance": "name a city not listed in the top 10?",
+      "id": "nt-8254"
+    },
+    {
+      "targetValue": "Pune",
+      "utterance": "pune or surat had a 2001 population on 2,538,473?",
+      "id": "nt-14030"
+    }
+  ],
+  "metadata": {
+    "title": "List of most populous cities in India",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4021386&oldid=601476759",
+    "tableIndex": 0,
+    "hashcode": "86626a57d34f5c0c633dbb7230ee5710b33559ca",
+    "id": 4021386,
+    "revision": 601476759
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "20",
+      "utterance": "how many tracks on trae's album \"life goes on\"?",
+      "id": "nt-725"
+    },
+    {
+      "targetValue": [
+        "\"I'm Good\"",
+        "\"The Truth\""
+      ],
+      "utterance": "which tracks feature the same producer(s) in consecutive order on this album?",
+      "id": "nt-2396"
+    },
+    {
+      "targetValue": "I.N.F.O. & NOVA",
+      "utterance": "which producers produced the majority of songs on this record?",
+      "id": "nt-2445"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of tracks featuring 2pac?",
+      "id": "nt-4564"
+    },
+    {
+      "targetValue": "\"Screwed Up\"",
+      "utterance": "what is the longest track on the album?",
+      "id": "nt-9099"
+    },
+    {
+      "targetValue": "5:02",
+      "utterance": "how long is the longest track on the album?",
+      "id": "nt-10034"
+    },
+    {
+      "targetValue": "\"Give My Last Breathe\"",
+      "utterance": "what is the last track produced by mr. lee?",
+      "id": "nt-10483"
+    },
+    {
+      "targetValue": "1:40",
+      "utterance": "how long is track number 11?",
+      "id": "nt-10726"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "what is the total number of tracks on the album?",
+      "id": "nt-12433"
+    },
+    {
+      "targetValue": "\"Life Goes On Interlude #1",
+      "utterance": "what is the first track featuring lil' duval?",
+      "id": "nt-12656"
+    }
+  ],
+  "metadata": {
+    "title": "Life Goes On (Trae album)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10317862&oldid=601300763",
+    "tableIndex": 1,
+    "hashcode": "120e2b0d03b15f0beb272a46bc4104e205712cfa",
+    "id": 10317862,
+    "revision": 601300763
+  }
+}

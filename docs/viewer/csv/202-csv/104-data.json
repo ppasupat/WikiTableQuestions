@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "Baghdad",
+      "utterance": "which group has the most seats won?",
+      "id": "nt-11472"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many groups have more than 32 total seats?",
+      "id": "nt-12062"
+    }
+  ],
+  "metadata": {
+    "title": "Islamic Supreme Council of Iraq",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=70795&oldid=601654054",
+    "tableIndex": 0,
+    "hashcode": "a0b4ef86e37b83c7d70df224fa2c603cb85a6e5e",
+    "id": 70795,
+    "revision": 601654054
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "Fung Foh Do Yan",
+      "utterance": "whom is listed after juk faat wan?",
+      "id": "nt-633"
+    },
+    {
+      "targetValue": "Lau4 Siu2 Leung4",
+      "utterance": "which cantonese yale is listed before sek6 lam4?",
+      "id": "nt-978"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the total number of rows in the first column with something in it?",
+      "id": "nt-1367"
+    },
+    {
+      "targetValue": "^ Lin Sang",
+      "utterance": "what is listed last in the first column?",
+      "id": "nt-6316"
+    },
+    {
+      "targetValue": "^ Ma Ling-Yee",
+      "utterance": "whom is listed first - gwong wai or ma ling-yee?",
+      "id": "nt-6580"
+    },
+    {
+      "targetValue": "Liúmín Pài",
+      "utterance": "which pinyin is listed below shi lin?",
+      "id": "nt-6681"
+    },
+    {
+      "targetValue": "Lián Shēng",
+      "utterance": "which pinyin is listed last?",
+      "id": "nt-7734"
+    },
+    {
+      "targetValue": "^ Gwong Wai",
+      "utterance": "what is listed before juk faat wan in the first column?",
+      "id": "nt-8773"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many chinese characters is juk faat wan?",
+      "id": "nt-9525"
+    },
+    {
+      "targetValue": "Mǎ Níngér",
+      "utterance": "what is listed first in the pinyin column?",
+      "id": "nt-9575"
+    },
+    {
+      "targetValue": "^ Ma Ling-Yee",
+      "utterance": "whom is listed at the top of the chart?",
+      "id": "nt-9915"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many characters are there in the hakka pinjim transliteration of lei mung's name?",
+      "id": "nt-11320"
+    },
+    {
+      "targetValue": "Mǎ Níngér",
+      "utterance": "what is the pinyin transliteration of the first name in the table?",
+      "id": "nt-11615"
+    },
+    {
+      "targetValue": "Lin Sang",
+      "utterance": "whom is listed last?",
+      "id": "nt-13089"
+    }
+  ],
+  "metadata": {
+    "title": "Bak Mei",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2041767&oldid=599614366",
+    "tableIndex": 0,
+    "hashcode": "18980c7037c6c0c6d2f77fbdbb574f44c769e493",
+    "id": 2041767,
+    "revision": 599614366
+  }
+}

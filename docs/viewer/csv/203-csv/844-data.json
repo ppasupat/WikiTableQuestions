@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "4:27",
+      "utterance": "how long did taiki tsuchiya last?",
+      "id": "nt-625"
+    },
+    {
+      "targetValue": "Antonio Carvalho",
+      "utterance": "who was the first opponent he lost too?",
+      "id": "nt-7188"
+    },
+    {
+      "targetValue": "Kazuyuki Miyata",
+      "utterance": "who was the opponent after hatsu kioki?",
+      "id": "nt-9761"
+    }
+  ],
+  "metadata": {
+    "title": "Takeshi Inoue",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4300455&oldid=590505149",
+    "tableIndex": 1,
+    "hashcode": "185eeaafd199f4a01f0e8bdf9fda87561ea2c61d",
+    "id": 4300455,
+    "revision": 590505149
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "after 800 ce, how many other periods existed?",
+      "id": "nt-5029"
+    },
+    {
+      "targetValue": "Late Archaic",
+      "utterance": "what is the name of the last cahokia phase?",
+      "id": "nt-6496"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many lower yazoo phases are there?",
+      "id": "nt-7795"
+    },
+    {
+      "targetValue": "Lake George",
+      "utterance": "routh or lake george is a lower yazoo phase?",
+      "id": "nt-8614"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many cahokia phases were there?",
+      "id": "nt-10565"
+    },
+    {
+      "targetValue": "Transitional Coles Creek",
+      "utterance": "compare the dates for historic and transitional coles creek, which lower yazoo date is earlier?",
+      "id": "nt-11040"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "did the first ohio/mississippi river confluence happen after 200 bce?",
+      "id": "nt-12322"
+    }
+  ],
+  "metadata": {
+    "title": "List of archaeological periods (North America)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4095077&oldid=573078681",
+    "tableIndex": 1,
+    "hashcode": "f6f90964fa133061dc85bce1ee0e8c72a3b94b87",
+    "id": 4095077,
+    "revision": 573078681
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many works had terence cuneo completed before the year 1950?",
+      "id": "nt-1533"
+    },
+    {
+      "targetValue": "Production of Tanks",
+      "utterance": "other than the assassination of heydrich, what artwork was created for the ministry of information?",
+      "id": "nt-2315"
+    },
+    {
+      "targetValue": "The National Archives, Kew, Richmond, UK",
+      "utterance": "name a collection that has at least two works of art on the list in it.",
+      "id": "nt-2770"
+    },
+    {
+      "targetValue": "Her Majesty The Queen with Her Dogs at Frogmore",
+      "utterance": "bentley vs the blue train is below \"blank\" in the diagram?",
+      "id": "nt-5026"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many works did terence cuneo complete in total?",
+      "id": "nt-5701"
+    },
+    {
+      "targetValue": "Assassination of Heydrich (c. 1942; originally may have been untitled), oil on canvas on board",
+      "utterance": "what was the title of terence cuneo's first work?",
+      "id": "nt-9014"
+    },
+    {
+      "targetValue": "Bentley vs The Blue Train",
+      "utterance": "what was the last piece completed?",
+      "id": "nt-12846"
+    },
+    {
+      "targetValue": "24 years",
+      "utterance": "how long after 1944 did terence cuneo complete his next work?",
+      "id": "nt-13898"
+    }
+  ],
+  "metadata": {
+    "title": "Terence Cuneo",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=604930&oldid=597028953",
+    "tableIndex": 0,
+    "hashcode": "a4c918cb99a475ca6326da471d47bbd10318fd66",
+    "id": 604930,
+    "revision": 597028953
+  }
+}

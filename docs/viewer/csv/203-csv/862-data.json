@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "43",
+      "utterance": "how many points does the artist rita have?",
+      "id": "nt-912"
+    },
+    {
+      "targetValue": "Boaz Sharabi",
+      "utterance": "which artist had almost no points?",
+      "id": "nt-1528"
+    },
+    {
+      "targetValue": "Boaz Sharabi",
+      "utterance": "compare draws, which had the least amount of points?",
+      "id": "nt-1782"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total amount of ties in this competition?",
+      "id": "nt-2955"
+    },
+    {
+      "targetValue": "\"Gitara\"",
+      "utterance": "what is the name of the song listed before the song \"yesh\"?",
+      "id": "nt-3122"
+    },
+    {
+      "targetValue": "\"Yavo Yom\"",
+      "utterance": "what song earned the most points?",
+      "id": "nt-4278"
+    },
+    {
+      "targetValue": "\"Kafe o te\"",
+      "utterance": "what song is listed in the table right before layla layla?",
+      "id": "nt-4975"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what are the number of times an artist earned first place?",
+      "id": "nt-4993"
+    },
+    {
+      "targetValue": "\"Yesh\"",
+      "utterance": "did the song \"gitara\" or \"yesh\" earn more points?",
+      "id": "nt-6845"
+    },
+    {
+      "targetValue": "Moti Giladi and Sarai Tzuriel",
+      "utterance": "doron mazar, which artist(s) had the most points?",
+      "id": "nt-7897"
+    },
+    {
+      "targetValue": "Boaz Sharabi",
+      "utterance": "what artist received the least amount of points in the competition?",
+      "id": "nt-10859"
+    },
+    {
+      "targetValue": "\"Na'ara\"",
+      "utterance": "what is the name of the first song listed on this chart?",
+      "id": "nt-13871"
+    }
+  ],
+  "metadata": {
+    "title": "Israel in the Eurovision Song Contest 1986",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20165480&oldid=572833791",
+    "tableIndex": 0,
+    "hashcode": "4655cda09de7ab9a2de72dca7e1c08fc946240fa",
+    "id": 20165480,
+    "revision": 572833791
+  }
+}

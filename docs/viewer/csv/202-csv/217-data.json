@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "Saura Church",
+      "utterance": "which church, in addition to gildeskal church, was also built in the 1800s?",
+      "id": "nt-9567"
+    }
+  ],
+  "metadata": {
+    "title": "Gildeskål",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=178556&oldid=592402915",
+    "tableIndex": 0,
+    "hashcode": "d6b0173754cbc5ab1e206c47faa35b493c211b30",
+    "id": 178556,
+    "revision": 592402915
+  }
+}

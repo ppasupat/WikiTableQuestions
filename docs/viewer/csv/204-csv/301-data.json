@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "what is the total number of deputy judges that were post abolished?",
+      "id": "nt-1535"
+    },
+    {
+      "targetValue": "Yugoslavia",
+      "utterance": "which country had the most deputy judges?",
+      "id": "nt-2007"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the total number of years that frederik beichmann was a deputy judge?",
+      "id": "nt-6094"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many judges served from january 15, 1931 to feb 1, 1936?",
+      "id": "nt-6234"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "did yugoslavia have more, less, or equal deputy judges to china?",
+      "id": "nt-6268"
+    },
+    {
+      "targetValue": "Rafael Erich",
+      "utterance": "who was the last deputy judge with finland nationality?",
+      "id": "nt-7085"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many judges started their terms on january 30, 1920?",
+      "id": "nt-7762"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many deputy judges served on the permanent court of international justice after 1930?",
+      "id": "nt-10552"
+    },
+    {
+      "targetValue": "10 years",
+      "utterance": "how long are the terms for those deputy judges that are not re-elected?",
+      "id": "nt-10854"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many deputy judges of the permanent court of international justice had their post abolished?",
+      "id": "nt-10913"
+    },
+    {
+      "targetValue": "Wang Ch'ung-hui",
+      "utterance": "who is the only deputy judge at the permanent court of international justice from asia?",
+      "id": "nt-11028"
+    },
+    {
+      "targetValue": "Wang Ch'ung-hui",
+      "utterance": "who was deputy judge before rafael erich?",
+      "id": "nt-13081"
+    },
+    {
+      "targetValue": "after",
+      "utterance": "was rafael erich a deputy judge before or after mihajlo jovanovic?",
+      "id": "nt-13348"
+    }
+  ],
+  "metadata": {
+    "title": "Judges of the Permanent Court of International Justice",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=25940101&oldid=559454992",
+    "tableIndex": 1,
+    "hashcode": "a6b60b655441a53d4d1e2e074d7df170a0181168",
+    "id": 25940101,
+    "revision": 559454992
+  }
+}

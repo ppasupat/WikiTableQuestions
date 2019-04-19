@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Nicholas Addlery",
+      "utterance": "who is the only goal scorer from jamaica?",
+      "id": "nt-1740"
+    },
+    {
+      "targetValue": "Héctor Ramos",
+      "utterance": "who was the top scorer from puerto rico during the nasl?",
+      "id": "nt-2489"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what number of names had 0 at the cfu club championship?",
+      "id": "nt-4939"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many different names are there?",
+      "id": "nt-5760"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many different positions are there?",
+      "id": "nt-5878"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "what is the difference between the total nasl and the total cfu club championship?",
+      "id": "nt-9039"
+    },
+    {
+      "targetValue": "Jonathan Faña",
+      "utterance": "tell me a scorer that had at least 3 scores in cfu club championships.",
+      "id": "nt-11085"
+    }
+  ],
+  "metadata": {
+    "title": "2012 Puerto Rico Islanders season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=34673811&oldid=589181900",
+    "tableIndex": 7,
+    "hashcode": "6bb885785ea057f6121838e70a6028206ab4e350",
+    "id": 34673811,
+    "revision": 589181900
+  }
+}

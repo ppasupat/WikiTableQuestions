@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Center Open",
+      "utterance": "what tournament is listed next to april 15th?",
+      "id": "nt-2350"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many tournaments were held in april?",
+      "id": "nt-5326"
+    },
+    {
+      "targetValue": "150,000",
+      "utterance": "what is the total purse amount for the salta open and the tandil open?",
+      "id": "nt-5921"
+    },
+    {
+      "targetValue": "South Open",
+      "utterance": "what was the first tournament this year where rafael gomez won?",
+      "id": "nt-7194"
+    },
+    {
+      "targetValue": "Abierto del Litoral",
+      "utterance": "what is the only tournament that pays over $550,000?",
+      "id": "nt-7607"
+    },
+    {
+      "targetValue": "Argentine Open",
+      "utterance": "which tournament this year had the highest purse reward offered?",
+      "id": "nt-8081"
+    },
+    {
+      "targetValue": "April",
+      "utterance": "which month hosts the most tournaments?",
+      "id": "nt-8120"
+    },
+    {
+      "targetValue": "Marco Ruiz",
+      "utterance": "who was the previous tournament winner before andres romero at the september 29 salta open?",
+      "id": "nt-9842"
+    },
+    {
+      "targetValue": "Argentine Open",
+      "utterance": "which purse has the most money?",
+      "id": "nt-12460"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "is the south open purse the same as the center open purse?",
+      "id": "nt-13685"
+    }
+  ],
+  "metadata": {
+    "title": "2007 TPG Tour",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21208290&oldid=394818859",
+    "tableIndex": 0,
+    "hashcode": "80ee449c68a3239e0e01eb40b10c099155fd1ad0",
+    "id": 21208290,
+    "revision": 394818859
+  }
+}

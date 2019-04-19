@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "what is the difference between the number of games won and the number of games lost?",
+      "id": "nt-817"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times was the opponent the edmonton eskimos?",
+      "id": "nt-1129"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many times did a game result in a loss?",
+      "id": "nt-2559"
+    },
+    {
+      "targetValue": "21,707",
+      "utterance": "tell me the number of people that attended the first game they won in october.",
+      "id": "nt-5168"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was their total number of wins in the preseason?",
+      "id": "nt-9024"
+    },
+    {
+      "targetValue": "Saskatchewan Roughriders",
+      "utterance": "who was the opponent in the last game of the season?",
+      "id": "nt-9584"
+    }
+  ],
+  "metadata": {
+    "title": "1960 BC Lions season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=23451678&oldid=474125565",
+    "tableIndex": 2,
+    "hashcode": "67730425d2c1db51796fd634d17b2156dd5e7c42",
+    "id": 23451678,
+    "revision": 474125565
+  }
+}

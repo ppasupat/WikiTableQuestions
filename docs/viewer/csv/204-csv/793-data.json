@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": "39",
+      "utterance": "is the rf for wivm-ld 39 or 29?",
+      "id": "nt-228"
+    },
+    {
+      "targetValue": "WIVX-LD",
+      "utterance": "which psip is higher, wivx-ld or wivm-ld?",
+      "id": "nt-3100"
+    },
+    {
+      "targetValue": "RTV (WIVM-LD Simulcast)",
+      "utterance": "which programming is played the most?",
+      "id": "nt-3516"
+    },
+    {
+      "targetValue": "Newcomerstown",
+      "utterance": "which location has more stations, loudonville or newcomerstown?",
+      "id": "nt-3629"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many stations played in canton?",
+      "id": "nt-3861"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many jstations have an rf of at least 29?",
+      "id": "nt-4697"
+    },
+    {
+      "targetValue": [
+        "WIVM-LD",
+        "WIVN-LD"
+      ],
+      "utterance": "which 2 stations both have faith ministries radio?",
+      "id": "nt-6421"
+    },
+    {
+      "targetValue": "PBJ",
+      "utterance": "wivn-ld on rf 29.2 and wivm-ld on rf 39.3 both played what programming",
+      "id": "nt-6497"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many stations are from canton?",
+      "id": "nt-10118"
+    }
+  ],
+  "metadata": {
+    "title": "WIVM-LD",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4056000&oldid=585919539",
+    "tableIndex": 0,
+    "hashcode": "4f62225d77f4e45b67cccf9d5cece3ac28b1c01e",
+    "id": 4056000,
+    "revision": 585919539
+  }
+}

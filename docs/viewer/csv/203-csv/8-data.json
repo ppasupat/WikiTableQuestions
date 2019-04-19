@@ -1,0 +1,92 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many players scored a greater number of touchdowns than anthony hines?",
+      "id": "nt-502"
+    },
+    {
+      "targetValue": "15 yards",
+      "utterance": "what is the difference in yards averaged between cecil moore and raymond philyaw?",
+      "id": "nt-629"
+    },
+    {
+      "targetValue": "Charles Frederick",
+      "utterance": "which player has the most touch downs?",
+      "id": "nt-950"
+    },
+    {
+      "targetValue": "Charles Frederick",
+      "utterance": "which player received the most yards in 2007?",
+      "id": "nt-989"
+    },
+    {
+      "targetValue": "Raymond Philyaw",
+      "utterance": "who is the only player to have a negative yard average?",
+      "id": "nt-4152"
+    },
+    {
+      "targetValue": "Raymond Philyaw",
+      "utterance": "which player did not have positive yardage?",
+      "id": "nt-4514"
+    },
+    {
+      "targetValue": [
+        "Kevin Beard",
+        "Larrell Johnson",
+        "Jamarr Wood",
+        "Raymond Philyaw"
+      ],
+      "utterance": "which players did not score a touchdown?",
+      "id": "nt-4957"
+    },
+    {
+      "targetValue": "Jerel Myers",
+      "utterance": "who had the most touchdowns: jerel myers or cecil moore?",
+      "id": "nt-5069"
+    },
+    {
+      "targetValue": "Charles Frederick",
+      "utterance": "which player got the most yards?",
+      "id": "nt-6460"
+    },
+    {
+      "targetValue": "Kevin Beard",
+      "utterance": "which player had the most receptions but no touchdowns?",
+      "id": "nt-8256"
+    },
+    {
+      "targetValue": "20.2",
+      "utterance": "what is the difference between the highest average and the lowest avaerage?",
+      "id": "nt-8258"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "what is the difference in touchdowns between raymond philyaw and jerel myers?",
+      "id": "nt-9380"
+    },
+    {
+      "targetValue": "Jerel Myers",
+      "utterance": "who was the next player besides charles frederick that received the most yards in 2007?",
+      "id": "nt-10152"
+    },
+    {
+      "targetValue": "Anthony Hines",
+      "utterance": "which player's average is higher than ira gooch's?",
+      "id": "nt-11148"
+    },
+    {
+      "targetValue": "29",
+      "utterance": "how many touchdowns did anthony hines and boo williams have altogether?",
+      "id": "nt-11517"
+    }
+  ],
+  "metadata": {
+    "title": "2007 Kansas City Brigade season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11784911&oldid=566020003",
+    "tableIndex": 4,
+    "hashcode": "7aeb3662a133759f97a45dbf651263e69f47d276",
+    "id": 11784911,
+    "revision": 566020003
+  }
+}

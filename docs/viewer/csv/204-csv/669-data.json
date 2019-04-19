@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Daniel Böltz",
+      "utterance": "who was the only contestant from switzerland to place in the top 50?",
+      "id": "nt-1545"
+    },
+    {
+      "targetValue": "0:01:03",
+      "utterance": "calculate the difference between paul yego's time and danilo goffi's time.",
+      "id": "nt-2924"
+    },
+    {
+      "targetValue": "Delmir dos Santos",
+      "utterance": "who finished directly after thugwane?",
+      "id": "nt-5209"
+    },
+    {
+      "targetValue": "Oleg Strizhakov",
+      "utterance": "name the russian athlete who finished before leone.",
+      "id": "nt-7324"
+    },
+    {
+      "targetValue": "Charles Tangus",
+      "utterance": "which athlete from kenya participated but came in third place?",
+      "id": "nt-7632"
+    },
+    {
+      "targetValue": "Peter Weilenmann",
+      "utterance": "which american came in in the least amount of time?",
+      "id": "nt-8601"
+    },
+    {
+      "targetValue": "Moses Tanui",
+      "utterance": "who was the only participant to win first place?",
+      "id": "nt-9599"
+    },
+    {
+      "targetValue": "1:03:25",
+      "utterance": "how long did it take meck mothuli to finish the race?",
+      "id": "nt-11492"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many athletes are from kenya?",
+      "id": "nt-13039"
+    }
+  ],
+  "metadata": {
+    "title": "1995 IAAF World Half Marathon Championships",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=24122051&oldid=571561490",
+    "tableIndex": 1,
+    "hashcode": "bc15fb5889c25747e5be605b30f4118a5cb48a3b",
+    "id": 24122051,
+    "revision": 571561490
+  }
+}

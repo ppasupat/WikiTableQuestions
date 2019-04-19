@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "1959-10-03",
+      "utterance": "what was the date of the first game won by the smu mustangs?",
+      "id": "nt-1662"
+    },
+    {
+      "targetValue": "5 games",
+      "utterance": "how many games were won in 1959?",
+      "id": "nt-2217"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "in how many games were more than 15 points scored by either team?",
+      "id": "nt-2905"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many total wins were recorded on the table?",
+      "id": "nt-6888"
+    },
+    {
+      "targetValue": "Grant Field • Atlanta, GA",
+      "utterance": "where was the site of the only game not played in texas?",
+      "id": "nt-8064"
+    },
+    {
+      "targetValue": "Grant Field • Atlanta, GA",
+      "utterance": "where was the site of the first game?",
+      "id": "nt-8140"
+    },
+    {
+      "targetValue": "Rice",
+      "utterance": "what opponent was the only game that resulted in a tie?",
+      "id": "nt-9759"
+    },
+    {
+      "targetValue": "Georgia",
+      "utterance": "in what state that is not texas did smu play in?",
+      "id": "nt-10460"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many games had an attendance less than 45,000 people",
+      "id": "nt-14128"
+    }
+  ],
+  "metadata": {
+    "title": "1959 SMU Mustangs football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21020377&oldid=578793249",
+    "tableIndex": 0,
+    "hashcode": "8d50d564a1c48efdba5419384dadb7ddf96b26b9",
+    "id": 21020377,
+    "revision": 578793249
+  }
+}

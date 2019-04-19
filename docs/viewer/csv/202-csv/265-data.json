@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many bus routes are handled by trustybus?",
+      "id": "nt-6404"
+    },
+    {
+      "targetValue": "323",
+      "utterance": "which route travels to broxbourne station and also essex road industrial estate?",
+      "id": "nt-13222"
+    }
+  ],
+  "metadata": {
+    "title": "Hoddesdon",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=261547&oldid=602435416",
+    "tableIndex": 0,
+    "hashcode": "1d86a463cce1a51fa4a1fe0746e1ce6f01d12426",
+    "id": 261547,
+    "revision": 602435416
+  }
+}

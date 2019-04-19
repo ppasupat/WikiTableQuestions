@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "173,805",
+      "utterance": "what is the total of deaths in internment camps and during the wartime flight?",
+      "id": "nt-683"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many causes were responsible for more than 50,000 confirmed deaths?",
+      "id": "nt-2218"
+    },
+    {
+      "targetValue": "Cause undetermined",
+      "utterance": "were there more cause undetermined or miscellaneous deaths in the baltic states?",
+      "id": "nt-5332"
+    },
+    {
+      "targetValue": "Baltic States(Resettled in Poland during war)",
+      "utterance": "which region had the least total of unsolved cases?",
+      "id": "nt-7620"
+    },
+    {
+      "targetValue": "Poland",
+      "utterance": "was there a larger total population before expulsion in poland or sudetendeutsch?",
+      "id": "nt-8187"
+    },
+    {
+      "targetValue": "Cause undetermined",
+      "utterance": "what was the cause of the most deaths?",
+      "id": "nt-10628"
+    },
+    {
+      "targetValue": "58,256",
+      "utterance": "what is the total number of violent deaths across all regions?",
+      "id": "nt-11048"
+    },
+    {
+      "targetValue": "Poland",
+      "utterance": "which country had the larger death tole?",
+      "id": "nt-11349"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "did any location have no violent deaths?",
+      "id": "nt-11733"
+    },
+    {
+      "targetValue": "6919",
+      "utterance": "what is the difference between suicides in poland and sudetendeutsch?",
+      "id": "nt-11951"
+    }
+  ],
+  "metadata": {
+    "title": "Demographic estimates of the flight and expulsion of Germans",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5538683&oldid=601870735",
+    "tableIndex": 2,
+    "hashcode": "6f91d3c336e9044be612de5f3d06a6b17118188a",
+    "id": 5538683,
+    "revision": 601870735
+  }
+}

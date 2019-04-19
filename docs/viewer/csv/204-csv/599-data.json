@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "48",
+      "utterance": "how many third duma and fourth duma for nationalists",
+      "id": "nt-1464"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many parties had more than 50 seats in the third duma?",
+      "id": "nt-2879"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many parties were represented in the third duma?",
+      "id": "nt-5255"
+    },
+    {
+      "targetValue": "Labour group",
+      "utterance": "which party has the most second duma",
+      "id": "nt-6233"
+    },
+    {
+      "targetValue": "448",
+      "utterance": "how many total seats were taken in the fourth duma?",
+      "id": "nt-8502"
+    },
+    {
+      "targetValue": "448",
+      "utterance": "what is the total number of seats in the fourth duma?",
+      "id": "nt-9804"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how long was the first duma on rigtists",
+      "id": "nt-10399"
+    },
+    {
+      "targetValue": "Labour group",
+      "utterance": "what group/party holds the largest number of second duma seats?",
+      "id": "nt-13931"
+    }
+  ],
+  "metadata": {
+    "title": "State Duma (Russian Empire)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9274047&oldid=602405562",
+    "tableIndex": 0,
+    "hashcode": "adb274c886059e03ad891f80a9cbe745d100edf4",
+    "id": 9274047,
+    "revision": 602405562
+  }
+}

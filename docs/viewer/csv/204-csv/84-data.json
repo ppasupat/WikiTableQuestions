@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "Mont Blanc",
+      "utterance": "what is the tallest peak in the alps?",
+      "id": "nt-588"
+    },
+    {
+      "targetValue": "33",
+      "utterance": "how many peaks are taller than 2500 meters?",
+      "id": "nt-2628"
+    },
+    {
+      "targetValue": "Mont Blanc",
+      "utterance": "which peak is higher, mont blanc or monte rosa?",
+      "id": "nt-3955"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many peaks are listed in italy?",
+      "id": "nt-5491"
+    },
+    {
+      "targetValue": [
+        "Monte Baldo/Cima Valdritta",
+        "Cima Dodici",
+        "Chamechaude",
+        "Arcalod",
+        "Grigna Settentrionale",
+        "Monte Bondone",
+        "Col Nudo",
+        "Ellmauer Halt",
+        "Hochtor",
+        "Grimming",
+        "La Tournette",
+        "Zirbitzkogel"
+      ],
+      "utterance": "which peaks are below 2500 meters in height?",
+      "id": "nt-9839"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "according to the list of alpine peaks by prominence, is pizzo di coca more/less than 2000 m?",
+      "id": "nt-10129"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many peaks are taller than 4,500 m?",
+      "id": "nt-11327"
+    },
+    {
+      "targetValue": "Mont Blanc",
+      "utterance": "according to the list of alpine peaks by prominence, which is taller-mont blanc or wildspitze?",
+      "id": "nt-11465"
+    },
+    {
+      "targetValue": "44",
+      "utterance": "what is the total number of peaks listed on the list of alpine peaks by prominence?",
+      "id": "nt-14035"
+    }
+  ],
+  "metadata": {
+    "title": "List of Alpine peaks by prominence",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2731431&oldid=577591196",
+    "tableIndex": 0,
+    "hashcode": "4176765d66354076aef32b36e033389e482f74cd",
+    "id": 2731431,
+    "revision": 577591196
+  }
+}

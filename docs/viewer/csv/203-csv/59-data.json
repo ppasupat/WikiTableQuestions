@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "40,000",
+      "utterance": "according to usgs estimates of mine production, what was the total estimated mine production of niobium minerals from the nation of brazil in 2006?",
+      "id": "nt-460"
+    },
+    {
+      "targetValue": "28",
+      "utterance": "what is the total amount of niobium produced in rwanda in 2000?",
+      "id": "nt-3167"
+    },
+    {
+      "targetValue": [
+        "Australia",
+        "Mozambique",
+        "Nigeria",
+        "Rwanda"
+      ],
+      "utterance": "which countries did not produce more than 1,000 in the year 2006?",
+      "id": "nt-3382"
+    },
+    {
+      "targetValue": "Canada",
+      "utterance": "after brazil which country produced the most niobium?",
+      "id": "nt-4017"
+    },
+    {
+      "targetValue": "Congo D.R.",
+      "utterance": "which country produced 50 in 2002 but only 13 in 2003?",
+      "id": "nt-4897"
+    },
+    {
+      "targetValue": "Brazil",
+      "utterance": "what country was the top producer of niobium in the year 2003?",
+      "id": "nt-6085"
+    },
+    {
+      "targetValue": "Rwanda",
+      "utterance": "according to usgs estimates of mine production, which nation in 2005 produced a larger quantity of niobium mineral production, nigeria or rwanda?",
+      "id": "nt-10106"
+    },
+    {
+      "targetValue": "32,600",
+      "utterance": "a total of how many (t) of niobium was produced in the world in the year 2000?",
+      "id": "nt-10236"
+    },
+    {
+      "targetValue": [
+        "Brazil",
+        "Canada"
+      ],
+      "utterance": "besides australia which other countries produced more than 100 in the year 2000?",
+      "id": "nt-12446"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "in 2000, did world mine production according to usgs estimates produce more tons or less tons of output of niobium minerals than in 2002, when a total of 29,900 tons was estimated to have been mined?",
+      "id": "nt-13132"
+    }
+  ],
+  "metadata": {
+    "title": "Niobium",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21275&oldid=600120741",
+    "tableIndex": 5,
+    "hashcode": "242e133dafff084ec16b0be1a1a6563c4cd8d5d3",
+    "id": 21275,
+    "revision": 600120741
+  }
+}

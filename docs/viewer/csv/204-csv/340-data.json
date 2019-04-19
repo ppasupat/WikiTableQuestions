@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": "Ross Jenkins",
+      "utterance": "who had more goals, ross jenkins or nigel gibbs?",
+      "id": "nt-1016"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "did the hall of fame player awarded the year after tony coton earn more goals than he did?",
+      "id": "nt-2123"
+    },
+    {
+      "targetValue": "485",
+      "utterance": "what is the total amount of goals from all people?",
+      "id": "nt-4218"
+    },
+    {
+      "targetValue": [
+        "Tony Coton",
+        "David James"
+      ],
+      "utterance": "which two players had the least number of goals?",
+      "id": "nt-4242"
+    },
+    {
+      "targetValue": "689",
+      "utterance": "what is the total number of apps and goals for luther blissett?",
+      "id": "nt-4914"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many people have more than 50 goals?",
+      "id": "nt-7900"
+    },
+    {
+      "targetValue": "Luther Blissett",
+      "utterance": "what player has the most number of goals?",
+      "id": "nt-8744"
+    },
+    {
+      "targetValue": "Luther Blissett",
+      "utterance": "who has the largest amount of apps?",
+      "id": "nt-9636"
+    },
+    {
+      "targetValue": "213",
+      "utterance": "what is the combined number of goals earned by the hall of famers of 2006, 2010, and 2012?",
+      "id": "nt-10351"
+    }
+  ],
+  "metadata": {
+    "title": "Watford F.C.",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=85099&oldid=601926899",
+    "tableIndex": 2,
+    "hashcode": "346693f54bcbbb7efa3f7ffd435564c5603381a4",
+    "id": 85099,
+    "revision": 601926899
+  }
+}

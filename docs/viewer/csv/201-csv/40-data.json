@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "\"I Can Go Deep\"",
+      "utterance": "compare \"i can go deep\" with \"don't rush\". which was higher on the us and us r&b charts?",
+      "id": "nt-11681"
+    },
+    {
+      "targetValue": "\"Freak Me\"",
+      "utterance": "which single is the most in terms of how many times it charted?",
+      "id": "nt-13134"
+    }
+  ],
+  "metadata": {
+    "title": "Silk (group)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=953286&oldid=597894058",
+    "tableIndex": 2,
+    "hashcode": "acc354e5b744ba7eafb334df6e1b44a58a4e5c2f",
+    "id": 953286,
+    "revision": 597894058
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "how many received a gold or silver medal in cycling?",
+      "id": "nt-98"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "what was the total number of silver medals earned?",
+      "id": "nt-1666"
+    },
+    {
+      "targetValue": "37",
+      "utterance": "how many medals did france win at the 2000 olympics?",
+      "id": "nt-3848"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many earned their gold medals in rowing?",
+      "id": "nt-6856"
+    },
+    {
+      "targetValue": "Cycling",
+      "utterance": "what sport won the most gold medals?",
+      "id": "nt-8676"
+    },
+    {
+      "targetValue": "Florian Rousseau",
+      "utterance": "which french competitor won the largest amount of medals in the 2000 summer olympics?",
+      "id": "nt-9052"
+    }
+  ],
+  "metadata": {
+    "title": "France at the 2000 Summer Olympics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1745328&oldid=579050085",
+    "tableIndex": 0,
+    "hashcode": "66a5a608dd978b026c0f46914af355e8bc44ed27",
+    "id": 1745328,
+    "revision": 579050085
+  }
+}

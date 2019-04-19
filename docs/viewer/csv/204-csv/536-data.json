@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "what was the number of days of the denver open?",
+      "id": "nt-89"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of events held during november?",
+      "id": "nt-6108"
+    },
+    {
+      "targetValue": "Nov 17-20",
+      "utterance": "what were the dates of the last event of the year?",
+      "id": "nt-7110"
+    },
+    {
+      "targetValue": "Charlotte Open",
+      "utterance": "which event occurred first the st. paul open or the charlotte open?",
+      "id": "nt-8848"
+    },
+    {
+      "targetValue": "Baltimore Open",
+      "utterance": "what is the last event on the chart",
+      "id": "nt-8850"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did gene rhoda win this season?",
+      "id": "nt-9036"
+    },
+    {
+      "targetValue": "Hialeah, Florida",
+      "utterance": "what city comes next after denver, colorado",
+      "id": "nt-10215"
+    },
+    {
+      "targetValue": "Sunnyside Bowl",
+      "utterance": "what bowling center comes after florida lanes",
+      "id": "nt-10266"
+    },
+    {
+      "targetValue": "29",
+      "utterance": "what was the total number of events held in 1966?",
+      "id": "nt-13015"
+    },
+    {
+      "targetValue": "Eastern Open",
+      "utterance": "what event is at the top of the chart?",
+      "id": "nt-13762"
+    }
+  ],
+  "metadata": {
+    "title": "PBA Bowling Tour: 1966 Season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36788264&oldid=595356824",
+    "tableIndex": 0,
+    "hashcode": "0373f6d9f2cb4d61b3995218de3ea5d7e3439a02",
+    "id": 36788264,
+    "revision": 595356824
+  }
+}

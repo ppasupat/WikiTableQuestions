@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "Penrith Panthers",
+      "utterance": "what was the opponent after new zealand warriors on march 25th?",
+      "id": "nt-4044"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many of these games were played at the suncorp stadium?",
+      "id": "nt-10870"
+    },
+    {
+      "targetValue": "North Queensland Cowboys",
+      "utterance": "who was the opponent at the game with the largest crowd?",
+      "id": "nt-10908"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what was the largest consecutive wins did the brisbane broncos have in their 2007 season?",
+      "id": "nt-11596"
+    },
+    {
+      "targetValue": "Suncorp Stadium",
+      "utterance": "what stadium hosted the largest crowd for the brisbane broncos in 2007?",
+      "id": "nt-11779"
+    }
+  ],
+  "metadata": {
+    "title": "2007 Brisbane Broncos season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7233005&oldid=594571135",
+    "tableIndex": 2,
+    "hashcode": "5ae84df683ac97f14354952cdb223176e38d7e69",
+    "id": 7233005,
+    "revision": 594571135
+  }
+}

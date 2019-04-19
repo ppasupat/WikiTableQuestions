@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Leeds United",
+      "utterance": "which team did the rangers play first in november of 1992 in the uefa champions league?",
+      "id": "nt-269"
+    },
+    {
+      "targetValue": "Hateley",
+      "utterance": "who scored more goals: mccoist or hateley?",
+      "id": "nt-1863"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many games had the attendance of at least 20,000?",
+      "id": "nt-2399"
+    },
+    {
+      "targetValue": "30 September 1992",
+      "utterance": "on which did date their game have the least people in attendance?",
+      "id": "nt-2646"
+    },
+    {
+      "targetValue": "16 September 1992",
+      "utterance": "other than march 3, name a game where huistra scored.",
+      "id": "nt-5869"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many home games did the rangers play?",
+      "id": "nt-8813"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times was durrant a scorer between 1992 and 1993?",
+      "id": "nt-8934"
+    },
+    {
+      "targetValue": "7 April 1993",
+      "utterance": "which game had the most in attendance?",
+      "id": "nt-9906"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of times that hateley scored in the uefa champions league?",
+      "id": "nt-9916"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many goals did durrant score?",
+      "id": "nt-10648"
+    }
+  ],
+  "metadata": {
+    "title": "1992–93 Rangers F.C. season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16649577&oldid=552828177",
+    "tableIndex": 3,
+    "hashcode": "217a4ada5b0475288bfbf78334e8dd8d5ef65c93",
+    "id": 16649577,
+    "revision": 552828177
+  }
+}

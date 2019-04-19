@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "9",
+      "utterance": "how many goals did the scotland national team score during the 1950 british home championship?",
+      "id": "nt-2546"
+    },
+    {
+      "targetValue": "Austria",
+      "utterance": "what was the last opponent played in 1950?",
+      "id": "nt-3476"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many total points did scotland score in friendly competitions?",
+      "id": "nt-6748"
+    },
+    {
+      "targetValue": "Billy Steel",
+      "utterance": "who led the scotland national team for number of goals scored during the 1950 british home championship?",
+      "id": "nt-7083"
+    },
+    {
+      "targetValue": "Austria",
+      "utterance": "against which opponent did scotland have no scorers?",
+      "id": "nt-9642"
+    },
+    {
+      "targetValue": [
+        "13 December 1950",
+        "27 May 1951"
+      ],
+      "utterance": "in which two games did scotland not score a goal?",
+      "id": "nt-10074"
+    },
+    {
+      "targetValue": "George Hamilton",
+      "utterance": "\"who scored the larger number of goals during the belgium game in 1951?\"",
+      "id": "nt-11673"
+    },
+    {
+      "targetValue": "England",
+      "utterance": "scotland played their first match of the 1951 british home championship against which team?",
+      "id": "nt-13509"
+    }
+  ],
+  "metadata": {
+    "title": "1950–51 in Scottish football",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2245746&oldid=562480262",
+    "tableIndex": 3,
+    "hashcode": "96dfebda98d0417b98ba1384bd1ffbdea353b566",
+    "id": 2245746,
+    "revision": 562480262
+  }
+}

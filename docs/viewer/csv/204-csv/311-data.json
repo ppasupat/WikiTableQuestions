@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "South Korea",
+      "utterance": "which nation won the most gold medals?",
+      "id": "nt-1169"
+    },
+    {
+      "targetValue": "Spain",
+      "utterance": "which nation won the most silver medals mexico or spain?",
+      "id": "nt-1513"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many nations have a total of 1 medal won?",
+      "id": "nt-2660"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many countries total only received one bronze medal in the 1987 championship?",
+      "id": "nt-5883"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total number of bronze medals won by france?",
+      "id": "nt-6346"
+    },
+    {
+      "targetValue": "Chinese Taipei",
+      "utterance": "who came after south korea with the most gold medals won?",
+      "id": "nt-8832"
+    },
+    {
+      "targetValue": "Chinese Taipei",
+      "utterance": "which nation had as many silver medals as mexico and turkey combined?",
+      "id": "nt-9494"
+    },
+    {
+      "targetValue": [
+        "West Germany",
+        "Netherlands"
+      ],
+      "utterance": "which nations had a gold medal but no silver medals?",
+      "id": "nt-11233"
+    },
+    {
+      "targetValue": "64",
+      "utterance": "what was the total number of medals won by all the teams combined?",
+      "id": "nt-11982"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the difference between the total number of bronze medals won by the united states and west germany?",
+      "id": "nt-12687"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many teams won more than 6 medals total?",
+      "id": "nt-14043"
+    }
+  ],
+  "metadata": {
+    "title": "1987 World Taekwondo Championships",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17278693&oldid=570802346",
+    "tableIndex": 2,
+    "hashcode": "9d965bf88d8203c6eaeabe72ba3d47bb332d48c6",
+    "id": 17278693,
+    "revision": 570802346
+  }
+}

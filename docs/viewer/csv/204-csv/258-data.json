@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "18",
+      "utterance": "how many stations have frequencies between 88 and 92?",
+      "id": "nt-1493"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many locations are listed on the chart total?",
+      "id": "nt-4751"
+    },
+    {
+      "targetValue": "88.7",
+      "utterance": "what is the last frequency on the chart?",
+      "id": "nt-4776"
+    },
+    {
+      "targetValue": "91.9",
+      "utterance": "which frequency has the most stations?",
+      "id": "nt-4829"
+    },
+    {
+      "targetValue": "KDPR",
+      "utterance": "name a news and classical station whose frequency is not above 90.",
+      "id": "nt-9279"
+    },
+    {
+      "targetValue": "98.3",
+      "utterance": "other than 91.9, name a station that is mixed news and classical & roots, rock, and jazz.",
+      "id": "nt-9895"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many more news and classical stations are there than roots, rock and jazz stations?",
+      "id": "nt-10149"
+    },
+    {
+      "targetValue": "KMPR",
+      "utterance": "name the only station from minot public radio.",
+      "id": "nt-12615"
+    },
+    {
+      "targetValue": "KUND-FM",
+      "utterance": "what is the next call sign listed after kdsu?",
+      "id": "nt-13388"
+    }
+  ],
+  "metadata": {
+    "title": "Prairie Public Radio",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=430245&oldid=595753805",
+    "tableIndex": 0,
+    "hashcode": "05faaa249bd1303354538edc07b3a30fba4047d7",
+    "id": 430245,
+    "revision": 595753805
+  }
+}

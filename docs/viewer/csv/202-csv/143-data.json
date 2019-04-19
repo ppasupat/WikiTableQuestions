@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "1:34:45.026",
+      "utterance": "how long did it take michael schumacher to finish the race?",
+      "id": "nt-13638"
+    }
+  ],
+  "metadata": {
+    "title": "1998 French Grand Prix",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1123331&oldid=586828846",
+    "tableIndex": 0,
+    "hashcode": "95fccf5039b9bf1e68d971a9e1acfabd691fc0b9",
+    "id": 1123331,
+    "revision": 586828846
+  }
+}

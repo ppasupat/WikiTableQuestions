@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "Oxygen",
+      "utterance": "which element was observed or predicted in 1771 by w.scheele?",
+      "id": "nt-12532"
+    }
+  ],
+  "metadata": {
+    "title": "Timeline of chemical element discoveries",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8200&oldid=602208986",
+    "tableIndex": 2,
+    "hashcode": "6a850a0ef9f6f6e9973473a8f67a5b39f501f1c4",
+    "id": 8200,
+    "revision": 602208986
+  }
+}

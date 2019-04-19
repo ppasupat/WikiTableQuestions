@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "53:26",
+      "utterance": "how long did sonia o'sullivan take to finish in 2003?",
+      "id": "nt-1385"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "where any women faster than any men?",
+      "id": "nt-2247"
+    },
+    {
+      "targetValue": "Iulia Negura",
+      "utterance": "the other women's winner with the same finish time as jo pavey in 2012",
+      "id": "nt-3329"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many men winners had times at least 46 minutes or under?",
+      "id": "nt-4097"
+    },
+    {
+      "targetValue": "Alison Gooderham",
+      "utterance": "what is the name of the first women's winner?",
+      "id": "nt-6267"
+    },
+    {
+      "targetValue": "Simon Kasimili",
+      "utterance": "who is the male winner listed before gert thys?",
+      "id": "nt-6780"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "home many times did a single country win both the men's and women's bupa great south run?",
+      "id": "nt-7832"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "number of men's winners with a finish time under 46:58",
+      "id": "nt-8956"
+    },
+    {
+      "targetValue": "Joseph Ebuya (KEN)",
+      "utterance": "who has the fastest recorded finish for the men's bupa great south run, between 1990 and 2013?",
+      "id": "nt-9371"
+    },
+    {
+      "targetValue": "5:50",
+      "utterance": "what is the difference in finishing times for the men's and women's bupa great south run finish for 2013?",
+      "id": "nt-13286"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what is the number of times, between 1990 and 2013, for britain not to win the men's or women's bupa great south run?",
+      "id": "nt-14024"
+    }
+  ],
+  "metadata": {
+    "title": "Great South Run",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12694965&oldid=579080680",
+    "tableIndex": 0,
+    "hashcode": "1c94c39f627894a4ea7f30d8fc66e0145545f493",
+    "id": 12694965,
+    "revision": 579080680
+  }
+}

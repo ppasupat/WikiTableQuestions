@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "31 August 2007",
+      "utterance": "what is the last date on the chart?",
+      "id": "nt-1765"
+    },
+    {
+      "targetValue": "9 July 2007",
+      "utterance": "which date had the top listed fee?",
+      "id": "nt-3594"
+    },
+    {
+      "targetValue": "£6,000,000",
+      "utterance": "what was the most amount of disclosed money payed for a transfer during this season?",
+      "id": "nt-5470"
+    },
+    {
+      "targetValue": "Steven Davis",
+      "utterance": "who's fee was higher between steven davis and chris baird?",
+      "id": "nt-6282"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "did diomansy participate in his/her home country?",
+      "id": "nt-6776"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "there are only how many participants from crystal place?",
+      "id": "nt-6855"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the number of dfs?",
+      "id": "nt-8173"
+    },
+    {
+      "targetValue": "£6,000,000",
+      "utterance": "what is the larges fee listed?",
+      "id": "nt-11094"
+    },
+    {
+      "targetValue": "Aston Villa",
+      "utterance": "aaron hughes and steven davis both transferred from what team?",
+      "id": "nt-13365"
+    }
+  ],
+  "metadata": {
+    "title": "2007–08 Fulham F.C. season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15988717&oldid=600733331",
+    "tableIndex": 0,
+    "hashcode": "efdd6e19b47cc4a747c4457a180ca8592f7c7bfb",
+    "id": 15988717,
+    "revision": 600733331
+  }
+}

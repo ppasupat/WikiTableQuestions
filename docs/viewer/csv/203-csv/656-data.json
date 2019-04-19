@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "what was the goal difference on october 19, 2008?",
+      "id": "nt-2849"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many matches were lost?",
+      "id": "nt-3026"
+    },
+    {
+      "targetValue": "Lazio",
+      "utterance": "the team that last played on may 17th ,2009",
+      "id": "nt-3714"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many consecutive wins did they have in january 2009?",
+      "id": "nt-4527"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "the total number of different teams listed as an opponent",
+      "id": "nt-5363"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the longest consecutive win streak?",
+      "id": "nt-7215"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "previous to october 5, 2008 how many matches were won?",
+      "id": "nt-12343"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many combined goals were scored on november 15, 2008?",
+      "id": "nt-12900"
+    }
+  ],
+  "metadata": {
+    "title": "2008–09 U.S. Città di Palermo season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17337209&oldid=551368739",
+    "tableIndex": 1,
+    "hashcode": "073aad9e05d03bf357260c294d8398ea191a91e8",
+    "id": 17337209,
+    "revision": 551368739
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Kelly Bates",
+      "utterance": "who was the last pick in round four?",
+      "id": "nt-1839"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what was the total number of picks in round four?",
+      "id": "nt-2090"
+    },
+    {
+      "targetValue": "Winnipeg Blue Bombers",
+      "utterance": "which team that drafted players in round four had the longest name?",
+      "id": "nt-2278"
+    },
+    {
+      "targetValue": "Peter Moore",
+      "utterance": "andrew carter was picked after who?",
+      "id": "nt-3895"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many players are an ol?",
+      "id": "nt-9058"
+    },
+    {
+      "targetValue": "Kevin Eiben",
+      "utterance": "shawn gifford was pick number 25, who was picked next?",
+      "id": "nt-9288"
+    },
+    {
+      "targetValue": "Shawn Gifford",
+      "utterance": "who was the first player picked in round four?",
+      "id": "nt-10111"
+    },
+    {
+      "targetValue": "Montreal Alouettes",
+      "utterance": "which cfl team has the most picks in round four?",
+      "id": "nt-10174"
+    },
+    {
+      "targetValue": "Hamilton Tiger-Cats",
+      "utterance": "which team drafted the only ol position player from mcmaster college?",
+      "id": "nt-10426"
+    },
+    {
+      "targetValue": "OT",
+      "utterance": "which position did the montreal alouettes fill with their draft previous to their draft of peter moore?",
+      "id": "nt-11514"
+    },
+    {
+      "targetValue": "Kelly Bates",
+      "utterance": "four ot picks in round four were shawn gifford, ryan donelly and andrew carter. who was the other pick?",
+      "id": "nt-11642"
+    }
+  ],
+  "metadata": {
+    "title": "2001 CFL Draft",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15817998&oldid=524578314",
+    "tableIndex": 3,
+    "hashcode": "5c2cf4606e3d591c43c26443967b34481eaa5a6b",
+    "id": 15817998,
+    "revision": 524578314
+  }
+}

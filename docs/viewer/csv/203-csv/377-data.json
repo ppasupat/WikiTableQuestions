@@ -1,0 +1,81 @@
+{
+  "examples": [
+    {
+      "targetValue": "14",
+      "utterance": "how long is the list of countries that won any medals?",
+      "id": "nt-1992"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many medals did senegal win?",
+      "id": "nt-3050"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many silver medals did kenya earn?",
+      "id": "nt-3241"
+    },
+    {
+      "targetValue": "Nigeria",
+      "utterance": "the nation above algeria",
+      "id": "nt-3331"
+    },
+    {
+      "targetValue": [
+        "Rwanda",
+        "Zimbabwe",
+        "Seychelles"
+      ],
+      "utterance": "which nations have won only one medal?",
+      "id": "nt-4390"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "total number of bronze medals nigeria earned?",
+      "id": "nt-5619"
+    },
+    {
+      "targetValue": "Nigeria",
+      "utterance": "the team with the most gold medals",
+      "id": "nt-7054"
+    },
+    {
+      "targetValue": "Nigeria",
+      "utterance": "the country that won the most medals was?",
+      "id": "nt-7364"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what was the total number of medals the ivory coast won?",
+      "id": "nt-7681"
+    },
+    {
+      "targetValue": "Nigeria",
+      "utterance": "what is the name of the first nation on this chart?",
+      "id": "nt-8243"
+    },
+    {
+      "targetValue": "Nigeria",
+      "utterance": "the team before algeria",
+      "id": "nt-11747"
+    },
+    {
+      "targetValue": "Egypt",
+      "utterance": "which country had the least bronze medals?",
+      "id": "nt-12265"
+    },
+    {
+      "targetValue": "Egypt",
+      "utterance": "what is the name of the only nation that did not earn any bronze medals?",
+      "id": "nt-12923"
+    }
+  ],
+  "metadata": {
+    "title": "1989 African Championships in Athletics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7546461&oldid=540898200",
+    "tableIndex": 2,
+    "hashcode": "6a263343a02ec62dd978f7a7919f75ed0692f3f7",
+    "id": 7546461,
+    "revision": 540898200
+  }
+}

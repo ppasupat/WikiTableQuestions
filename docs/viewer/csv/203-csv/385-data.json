@@ -1,0 +1,50 @@
+{
+  "examples": [
+    {
+      "targetValue": "Diamond",
+      "utterance": "what material has the top or best thermal conductivity based on the information in the table?",
+      "id": "nt-183"
+    },
+    {
+      "targetValue": "White Sapphire",
+      "utterance": "what material has a dispersion of .018nm?",
+      "id": "nt-2668"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how hard is a diamond?",
+      "id": "nt-2855"
+    },
+    {
+      "targetValue": [
+        "Rutile",
+        "Moissanite"
+      ],
+      "utterance": "which materials have a refractive index above 2.6?",
+      "id": "nt-7359"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what's the difference between the hardness of diamond and the hardness of white sapphire?",
+      "id": "nt-10729"
+    },
+    {
+      "targetValue": "Moissanite",
+      "utterance": "what has a thermal condition less than excellent but more than poor?",
+      "id": "nt-11180"
+    },
+    {
+      "targetValue": "Moissanite",
+      "utterance": "what material has a high thermal condition?",
+      "id": "nt-12661"
+    }
+  ],
+  "metadata": {
+    "title": "Diamond simulant",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1608081&oldid=597461822",
+    "tableIndex": 0,
+    "hashcode": "c5b07db5011ae0fb20f5962c5176c72ac7a46e3c",
+    "id": 1608081,
+    "revision": 597461822
+  }
+}

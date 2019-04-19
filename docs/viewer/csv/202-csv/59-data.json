@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many teams have the same amount of losses (l)?",
+      "id": "nt-6715"
+    },
+    {
+      "targetValue": "Detroit Pistons",
+      "utterance": "which team has the most games behind (gb)?",
+      "id": "nt-8204"
+    }
+  ],
+  "metadata": {
+    "title": "1979–80 NBA season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3390893&oldid=597707214",
+    "tableIndex": 1,
+    "hashcode": "e3caa9677c15fc3718b294035c3d1efa7c56d643",
+    "id": 3390893,
+    "revision": 597707214
+  }
+}

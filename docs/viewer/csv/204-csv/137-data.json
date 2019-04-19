@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many times was fabio fabiani jay-ten winner?",
+      "id": "nt-1027"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "what is the number of times chevrolet was the winning team?",
+      "id": "nt-1892"
+    },
+    {
+      "targetValue": "Race of Germany",
+      "utterance": "which race had the only german team win?",
+      "id": "nt-2520"
+    },
+    {
+      "targetValue": "Guia Race of Macau",
+      "utterance": "what was the name of the last race?",
+      "id": "nt-4924"
+    },
+    {
+      "targetValue": "Chevrolet",
+      "utterance": "who was the winning team the most number of times?",
+      "id": "nt-6999"
+    },
+    {
+      "targetValue": "Guia Race of Macau",
+      "utterance": "what race name comes in last?",
+      "id": "nt-10877"
+    },
+    {
+      "targetValue": "Race of Italy",
+      "utterance": "what race is previous of race of hungary?",
+      "id": "nt-11341"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many pole positions were won by robert huff?",
+      "id": "nt-13310"
+    }
+  ],
+  "metadata": {
+    "title": "2011 World Touring Car Championship season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=28750604&oldid=591298664",
+    "tableIndex": 3,
+    "hashcode": "511f33f36aef8c4c080bc57b97db22cbba64f180",
+    "id": 28750604,
+    "revision": 591298664
+  }
+}

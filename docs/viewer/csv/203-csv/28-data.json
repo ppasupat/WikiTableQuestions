@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "20 km",
+      "utterance": "how long, in km, was the event in helsinki,finland?",
+      "id": "nt-1035"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many times did they place 1st after 2008?",
+      "id": "nt-2030"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many years consecutive featured the 20 km event?",
+      "id": "nt-3918"
+    },
+    {
+      "targetValue": "2002",
+      "utterance": "what was the only year that a 5 km event took place?",
+      "id": "nt-7063"
+    },
+    {
+      "targetValue": "5 km",
+      "utterance": "how long was the shortest event?",
+      "id": "nt-7131"
+    },
+    {
+      "targetValue": "Bridgetown, Barbados",
+      "utterance": "where was the only 5km event held?",
+      "id": "nt-8568"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many times did they participate in the olympic games?",
+      "id": "nt-9897"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "what was the last year that they received first?",
+      "id": "nt-11563"
+    },
+    {
+      "targetValue": "1st",
+      "utterance": "in 2004, 4th position was achieved. in this same year, what other position was also achieved?",
+      "id": "nt-12401"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times did they participate in the world championships?",
+      "id": "nt-13497"
+    }
+  ],
+  "metadata": {
+    "title": "Eder Sánchez",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6155142&oldid=572676435",
+    "tableIndex": 0,
+    "hashcode": "4b5245cca4bedc781063c6384deeb165585f1155",
+    "id": 6155142,
+    "revision": 572676435
+  }
+}

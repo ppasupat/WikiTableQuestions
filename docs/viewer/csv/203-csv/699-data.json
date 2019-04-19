@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "10",
+      "utterance": "what is the total number of cultivars listed on the table?",
+      "id": "nt-2810"
+    },
+    {
+      "targetValue": "Tom Knudsen",
+      "utterance": "what is the only plant with deep red flower colour?",
+      "id": "nt-2922"
+    },
+    {
+      "targetValue": "Cornish Snow",
+      "utterance": "which plant is listed first on the table?",
+      "id": "nt-4485"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many cultivars are the colour \"rose-pink?\"",
+      "id": "nt-7666"
+    },
+    {
+      "targetValue": "Leonard Messel",
+      "utterance": "is leonard messel or royalty larger in size?",
+      "id": "nt-10151"
+    },
+    {
+      "targetValue": "Cornish Spring",
+      "utterance": "spring festival and what other flower(s) are pink?",
+      "id": "nt-12302"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many flowers have the same type as the freedom bell?",
+      "id": "nt-12703"
+    },
+    {
+      "targetValue": "04.0m²",
+      "utterance": "cornfish snow and cornfish spring are both what size?",
+      "id": "nt-13526"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many cultivars are of the semi-double flower type?",
+      "id": "nt-13561"
+    }
+  ],
+  "metadata": {
+    "title": "Camellia",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=76099&oldid=594898658",
+    "tableIndex": 0,
+    "hashcode": "fe5a4f32e8892f02d765db3431a771f465fffa93",
+    "id": 76099,
+    "revision": 594898658
+  }
+}

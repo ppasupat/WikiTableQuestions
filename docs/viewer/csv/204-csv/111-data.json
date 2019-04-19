@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "Spotty",
+      "utterance": "name the only pillow pal that is a dalmatian.",
+      "id": "nt-2103"
+    },
+    {
+      "targetValue": "Chewy",
+      "utterance": "which is the only pillow pal without a listed animal type?",
+      "id": "nt-2495"
+    },
+    {
+      "targetValue": "Bear",
+      "utterance": "which animal type has the most pillow pals?",
+      "id": "nt-3483"
+    },
+    {
+      "targetValue": "4 years",
+      "utterance": "how long was woof the dog sold before it was retired?",
+      "id": "nt-5737"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of frog pillow pals?",
+      "id": "nt-5906"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "tell me the number of pillow pals reintroduced in 1999.",
+      "id": "nt-6067"
+    },
+    {
+      "targetValue": "30",
+      "utterance": "what are the total number of pillow pals on this chart?",
+      "id": "nt-9954"
+    },
+    {
+      "targetValue": "1995",
+      "utterance": "in what year were the first pillow pals introduced?",
+      "id": "nt-11204"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what is the total number of pillow pals that were reintroduced as a neon variety?",
+      "id": "nt-11300"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many monkey pillow pals were there?",
+      "id": "nt-12077"
+    },
+    {
+      "targetValue": "Zulu",
+      "utterance": "what is the name of the last pillow pal on this chart?",
+      "id": "nt-12686"
+    },
+    {
+      "targetValue": "Foxy",
+      "utterance": "what is the name of the pillow pal listed after clover?",
+      "id": "nt-13437"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many total pillow pals were both reintroduced and retired in 1999?",
+      "id": "nt-13989"
+    }
+  ],
+  "metadata": {
+    "title": "Pillow Pal",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16139901&oldid=549624066",
+    "tableIndex": 0,
+    "hashcode": "3fd4f899ea8c7f82edc1d9eea1eb639682ad019c",
+    "id": 16139901,
+    "revision": 549624066
+  }
+}

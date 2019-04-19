@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "August",
+      "utterance": "during what month are the highest temperature records at bari karol wojtyla airport?",
+      "id": "nt-3702"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many months have precipitation above 55 inches?",
+      "id": "nt-10564"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many months have record high temperatures over 100 degrees fahrenheit?",
+      "id": "nt-13267"
+    }
+  ],
+  "metadata": {
+    "title": "Bari",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=44784&oldid=601051874",
+    "tableIndex": 1,
+    "hashcode": "c904edc0da9b52124cfff5837d7311c83f41d06c",
+    "id": 44784,
+    "revision": 601051874
+  }
+}

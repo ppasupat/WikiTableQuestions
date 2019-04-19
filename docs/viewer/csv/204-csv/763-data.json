@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "12",
+      "utterance": "how many intersecting roads are there in rocky view county?",
+      "id": "nt-4007"
+    },
+    {
+      "targetValue": "1 Avenue, Range Road 271",
+      "utterance": "what is the last intersecting road on the chart?",
+      "id": "nt-6192"
+    },
+    {
+      "targetValue": "197",
+      "utterance": "what are the total km for this xhart",
+      "id": "nt-6790"
+    },
+    {
+      "targetValue": "1 Avenue, Range Road 271",
+      "utterance": "what is the last intersecting road?",
+      "id": "nt-7302"
+    },
+    {
+      "targetValue": "Hwy 772 (Symons Valley Road), Range Road 22",
+      "utterance": "which intersecting road goes to the same place as the intersecting road at kilometer 3 in this county?",
+      "id": "nt-9205"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many intersecting roads come after highway 9?",
+      "id": "nt-9547"
+    },
+    {
+      "targetValue": "Range Road 293, 36 Street NE",
+      "utterance": "which is a farther distance: 14 street nw, range road 14 or range road 293, 36 street ne?",
+      "id": "nt-10364"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what is the number of km for range road 293,36 street ne",
+      "id": "nt-10638"
+    },
+    {
+      "targetValue": "Hwy 791, Range Road 280",
+      "utterance": "which intersecting road comes before range road 273?",
+      "id": "nt-12002"
+    }
+  ],
+  "metadata": {
+    "title": "Alberta Highway 566",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18874979&oldid=537496260",
+    "tableIndex": 0,
+    "hashcode": "8e4d7a568eeff15cb7e6aaf542d0458738d56702",
+    "id": 18874979,
+    "revision": 537496260
+  }
+}

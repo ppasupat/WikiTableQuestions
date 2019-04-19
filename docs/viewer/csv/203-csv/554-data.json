@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many times has germany won bronze?",
+      "id": "nt-124"
+    },
+    {
+      "targetValue": "Sally Carroll",
+      "utterance": "name one of the top three women to earn gold at the 1970 world championship held in phoenix, az",
+      "id": "nt-567"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of total bronze medals that germany has won?",
+      "id": "nt-1726"
+    },
+    {
+      "targetValue": "Phoenix",
+      "utterance": "what is the first place listed in this chart?",
+      "id": "nt-2297"
+    },
+    {
+      "targetValue": "Kirsten Broge",
+      "utterance": "whose name is listed before bonnie bruun's in the gold column?",
+      "id": "nt-7195"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what are the total number of times the soviet union is listed under the gold column?",
+      "id": "nt-9902"
+    },
+    {
+      "targetValue": "Korea",
+      "utterance": "which country is listed the most under the silver column?",
+      "id": "nt-10555"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many world championships had the soviet union won first place in in the 25 metre pistol women's world championship?",
+      "id": "nt-13508"
+    }
+  ],
+  "metadata": {
+    "title": "25 metre pistol",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=655944&oldid=577617995",
+    "tableIndex": 1,
+    "hashcode": "bcc189c366c763fa0f1df893d1eba2bdb54425b3",
+    "id": 655944,
+    "revision": 577617995
+  }
+}

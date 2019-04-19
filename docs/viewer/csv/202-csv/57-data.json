@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "December",
+      "utterance": "which month is the most humid?",
+      "id": "nt-8019"
+    },
+    {
+      "targetValue": "June",
+      "utterance": "which month has the most precipitation?",
+      "id": "nt-10773"
+    }
+  ],
+  "metadata": {
+    "title": "Varna",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=86762&oldid=601969036",
+    "tableIndex": 0,
+    "hashcode": "4797b9fa8b5a9ff7c5f8ba14ca8bfd352fd5a84c",
+    "id": 86762,
+    "revision": 601969036
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Ed Psaltis",
+      "utterance": "who is the owner of the first yacht on the list?",
+      "id": "nt-1174"
+    },
+    {
+      "targetValue": "Iataia",
+      "utterance": "other than rosebud, which yacht originated from a country other than australia and great britain?",
+      "id": "nt-1753"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "its alan whiteley yacht's name dehler magic",
+      "id": "nt-2105"
+    },
+    {
+      "targetValue": "James Connell",
+      "utterance": "who is the last yachts skipper?",
+      "id": "nt-5877"
+    },
+    {
+      "targetValue": "Bob Oatley",
+      "utterance": "who is the owner of the wild oatsxi bob oatley or mark richards?",
+      "id": "nt-6218"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many yachts were launched in 2000?",
+      "id": "nt-7646"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the total number of yachts launched in 2001?",
+      "id": "nt-8797"
+    },
+    {
+      "targetValue": "Impeccable",
+      "utterance": "which of these yachts did not launch in 2007: chutzpah, impeccable, or bear necessity?",
+      "id": "nt-9860"
+    },
+    {
+      "targetValue": "82",
+      "utterance": "how many yachts are on the list total?",
+      "id": "nt-9945"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "was the morna launched the same year as the toyota aurion?",
+      "id": "nt-12230"
+    },
+    {
+      "targetValue": "Aurora",
+      "utterance": "which yacht launched first: cougar ii or aurora?",
+      "id": "nt-12468"
+    }
+  ],
+  "metadata": {
+    "title": "2007 Sydney to Hobart Yacht Race",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14882588&oldid=600911146",
+    "tableIndex": 0,
+    "hashcode": "f25097d8762de4eee200fdd17c93f441f352f3b4",
+    "id": 14882588,
+    "revision": 600911146
+  }
+}

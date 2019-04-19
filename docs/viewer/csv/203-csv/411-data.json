@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "Antholz-Anterselva, Italy",
+      "utterance": "which had the highest individual number?",
+      "id": "nt-4096"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "count the number of venues and give the total.",
+      "id": "nt-9726"
+    }
+  ],
+  "metadata": {
+    "title": "Oļegs Maļuhins",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20568554&oldid=590196242",
+    "tableIndex": 1,
+    "hashcode": "24f6ec4c721897f5480f3a31a9be44c28faaa2b5",
+    "id": 20568554,
+    "revision": 590196242
+  }
+}

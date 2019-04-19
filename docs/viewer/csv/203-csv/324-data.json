@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "G7",
+      "utterance": "which chords does not have a sharp or flat note?",
+      "id": "nt-179"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "what's the total number of thirds you can make on a 7th form chord?",
+      "id": "nt-3245"
+    },
+    {
+      "targetValue": "G♭7",
+      "utterance": "the only chord with all flat notes.",
+      "id": "nt-6797"
+    },
+    {
+      "targetValue": "A",
+      "utterance": "name the note that appears last on the minor seventh column of the table.",
+      "id": "nt-7699"
+    },
+    {
+      "targetValue": "F♯7",
+      "utterance": "which chord has its perfect fifth as a c sharp?",
+      "id": "nt-9167"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many chords have a root not based on a sharp or flat note?",
+      "id": "nt-11394"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "in a c7 chord, how many notes above c is a perfect fifth?",
+      "id": "nt-12042"
+    }
+  ],
+  "metadata": {
+    "title": "Dominant seventh chord",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=573098&oldid=594570783",
+    "tableIndex": 1,
+    "hashcode": "e2f228e2278df314a8b828dd966c7d213bb2dd6c",
+    "id": 573098,
+    "revision": 594570783
+  }
+}

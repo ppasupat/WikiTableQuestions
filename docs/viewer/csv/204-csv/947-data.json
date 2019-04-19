@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "67,779",
+      "utterance": "what is the next largest attendance record after 74,854?",
+      "id": "nt-3679"
+    },
+    {
+      "targetValue": "at San Diego Chargers",
+      "utterance": "after winning on september 29, who was the next opponent they won against?",
+      "id": "nt-5282"
+    },
+    {
+      "targetValue": "October 6, 1974",
+      "utterance": "on what date did they play the broncos but end up losing the game?",
+      "id": "nt-5933"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "in 1974 the chiefs played the denver broncos a total of how many times?",
+      "id": "nt-9482"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many opponents were played twice that season?",
+      "id": "nt-9783"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many wins did the chiefs have in the 1974 season?",
+      "id": "nt-11589"
+    }
+  ],
+  "metadata": {
+    "title": "1974 Kansas City Chiefs season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12536281&oldid=584050536",
+    "tableIndex": 1,
+    "hashcode": "487098fb23deac401f2593ae973c590d56662bcd",
+    "id": 12536281,
+    "revision": 584050536
+  }
+}

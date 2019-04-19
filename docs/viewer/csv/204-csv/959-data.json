@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many division 1 teams were founded before 1950?",
+      "id": "nt-295"
+    },
+    {
+      "targetValue": "7 years",
+      "utterance": "how long has it been since the last greensborough football club promotion?",
+      "id": "nt-577"
+    },
+    {
+      "targetValue": "Greensborough Football Club",
+      "utterance": "which club entered competition the same year as eltham football club?",
+      "id": "nt-2523"
+    },
+    {
+      "targetValue": "Bundoora Football Club",
+      "utterance": "which football club had its most recent promotion a year before the heidelberg football club?",
+      "id": "nt-4015"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many clubs entered competition after 1945?",
+      "id": "nt-4066"
+    },
+    {
+      "targetValue": [
+        "Eltham Football Club",
+        "Greensborough Football Club"
+      ],
+      "utterance": "who was the first division 1 team to enter competition?",
+      "id": "nt-4551"
+    },
+    {
+      "targetValue": "33",
+      "utterance": "what is the difference, in years, between the founding of the heidelberg football club and the eltham football club?",
+      "id": "nt-4600"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the number of clubs that were founded after 1950?",
+      "id": "nt-7245"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what was the total number of clubs in division 1 in the 2010 northern football league season?",
+      "id": "nt-8131"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the total number of clubs in division 1?",
+      "id": "nt-11426"
+    },
+    {
+      "targetValue": "Northcote Park Football Club",
+      "utterance": "the division 1 team (according to the 2010 northern football league season) that was founded previous to the lalor football club was which team?",
+      "id": "nt-11591"
+    },
+    {
+      "targetValue": "Heidelberg Football Club",
+      "utterance": "the only team founded in the nineteenth century that still played in the 2010 northern football league season, in division 1, was which team?",
+      "id": "nt-13485"
+    }
+  ],
+  "metadata": {
+    "title": "2010 Northern Football League season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=27265698&oldid=573021502",
+    "tableIndex": 0,
+    "hashcode": "454528514387ca24980480b92d344b4e6d433922",
+    "id": 27265698,
+    "revision": 573021502
+  }
+}

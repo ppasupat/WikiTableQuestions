@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "9",
+      "utterance": "how many points did emerson fittipaldi receive?",
+      "id": "nt-3272"
+    },
+    {
+      "targetValue": "Emerson Fittipaldi",
+      "utterance": "who came in first?",
+      "id": "nt-3464"
+    },
+    {
+      "targetValue": "McLaren-Ford",
+      "utterance": "name another constructor other than ferrari.",
+      "id": "nt-3552"
+    },
+    {
+      "targetValue": "James Hunt",
+      "utterance": "who is the only person from the uk in the top 3?",
+      "id": "nt-4695"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "did james hunt finish the race after mark donohue?",
+      "id": "nt-4902"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many drivers completed at least 52 laps>",
+      "id": "nt-7603"
+    },
+    {
+      "targetValue": "Carlos Reutemann",
+      "utterance": "who came in next after james hunt?",
+      "id": "nt-8441"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many fewer laps did carlos pace complete than jochen mass?",
+      "id": "nt-8786"
+    },
+    {
+      "targetValue": "Wilson Fittipaldi",
+      "utterance": "who was the only driver that had an accident?",
+      "id": "nt-8972"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "did niki lauda receive more points than james hunt?",
+      "id": "nt-10396"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many points did clay regazzoni receive?",
+      "id": "nt-12128"
+    },
+    {
+      "targetValue": "Clay Regazzoni",
+      "utterance": "who had the best time driving a ferrari?",
+      "id": "nt-14006"
+    }
+  ],
+  "metadata": {
+    "title": "1975 Argentine Grand Prix",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1122634&oldid=598151012",
+    "tableIndex": 0,
+    "hashcode": "45172bee9f3f3f008a0d8ec811d4cb5a73c00ebb",
+    "id": 1122634,
+    "revision": 598151012
+  }
+}

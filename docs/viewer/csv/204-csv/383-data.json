@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "34",
+      "utterance": "how many total medals did china, japan, and south korea collect?",
+      "id": "nt-1375"
+    },
+    {
+      "targetValue": "China",
+      "utterance": "which nation came in first place?",
+      "id": "nt-2026"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "number of gold medals earned by kazakhstan, uzbekistan, and thailand",
+      "id": "nt-2914"
+    },
+    {
+      "targetValue": "China",
+      "utterance": "which nation had the most gold medals?",
+      "id": "nt-3117"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many nations only took one medal?",
+      "id": "nt-6318"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "number of nations that earned no bronze medals",
+      "id": "nt-7676"
+    },
+    {
+      "targetValue": "China",
+      "utterance": "which country had the highest total?",
+      "id": "nt-8369"
+    },
+    {
+      "targetValue": "Chinese Taipei",
+      "utterance": "only nation to earn exactly five total medals",
+      "id": "nt-9733"
+    },
+    {
+      "targetValue": "Japan",
+      "utterance": "which nation took the most bronze medals?",
+      "id": "nt-11958"
+    },
+    {
+      "targetValue": [
+        "China",
+        "Malaysia",
+        "Japan",
+        "South Korea"
+      ],
+      "utterance": "which countries had more gold medals than kazakhstan?",
+      "id": "nt-13069"
+    },
+    {
+      "targetValue": "China",
+      "utterance": "which nation holds first rank?",
+      "id": "nt-13496"
+    },
+    {
+      "targetValue": "Indonesia",
+      "utterance": "which nation came in last place?",
+      "id": "nt-13672"
+    }
+  ],
+  "metadata": {
+    "title": "2008 Asian Cycling Championships",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=26860539&oldid=591214926",
+    "tableIndex": 4,
+    "hashcode": "d9b58007eec3e5949d0e35a30b033acb36c5ccc5",
+    "id": 26860539,
+    "revision": 591214926
+  }
+}

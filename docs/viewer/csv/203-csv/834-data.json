@@ -1,0 +1,84 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "how many cities (census subdivisions) had at least half a million people in 1996?",
+      "id": "nt-2696"
+    },
+    {
+      "targetValue": "1747.44",
+      "utterance": "what is the combined land area of toronto and hamilton?",
+      "id": "nt-3494"
+    },
+    {
+      "targetValue": "Ontario",
+      "utterance": "which province has the most population on the table?",
+      "id": "nt-3522"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "of the top 10 most heavily populated census subdivisions in 2011, how many located were in ontario?",
+      "id": "nt-3786"
+    },
+    {
+      "targetValue": "Milton",
+      "utterance": "between 2006-2011, which subdivision had the largest change in population? (%)",
+      "id": "nt-4337"
+    },
+    {
+      "targetValue": "Sault Ste. Marie",
+      "utterance": "of the municipalities with positive population growth in the years 2006-2011, which had the least growth?",
+      "id": "nt-5115"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "were there more or less people living in ottawa than in vancouver in 2011?",
+      "id": "nt-6139"
+    },
+    {
+      "targetValue": "Edmonton",
+      "utterance": "which census subdivision has a larger land area, edmonton or winnipeg?",
+      "id": "nt-6604"
+    },
+    {
+      "targetValue": "Wood Buffalo",
+      "utterance": "which area covers the most land in square kilometers?",
+      "id": "nt-7252"
+    },
+    {
+      "targetValue": "4922324",
+      "utterance": "what was the total population of the five largest cities in the province of ontario in 2006?",
+      "id": "nt-9361"
+    },
+    {
+      "targetValue": [
+        "Toronto",
+        "Montreal",
+        "Calgary"
+      ],
+      "utterance": "what are the only three census subdivisions that had a population over 1,000,000 in 2011?",
+      "id": "nt-9920"
+    },
+    {
+      "targetValue": "Toronto",
+      "utterance": "which subdivision is at the top of the list?",
+      "id": "nt-11857"
+    },
+    {
+      "targetValue": [
+        "Halifax",
+        "Cape Breton"
+      ],
+      "utterance": "what are the only two areas do be given the designation of regional municipality?",
+      "id": "nt-12496"
+    }
+  ],
+  "metadata": {
+    "title": "List of the 100 largest municipalities in Canada by population",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=413659&oldid=600381493",
+    "tableIndex": 0,
+    "hashcode": "384e8952f3d7ed7a0bf28c3334982ff797390f47",
+    "id": 413659,
+    "revision": 600381493
+  }
+}

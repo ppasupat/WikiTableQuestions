@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "1:57.17",
+      "utterance": "favero finished in 1:57.08. what was the next time?",
+      "id": "nt-4806"
+    },
+    {
+      "targetValue": [
+        "1:55.45",
+        "1:55.96",
+        "1:57.08",
+        "1:57.17"
+      ],
+      "utterance": "what is the time for each name",
+      "id": "nt-4981"
+    },
+    {
+      "targetValue": "Jorge Delgado",
+      "utterance": "who finished with the top time?",
+      "id": "nt-6074"
+    },
+    {
+      "targetValue": "Djan Madruga",
+      "utterance": "what come after rex f.",
+      "id": "nt-9921"
+    },
+    {
+      "targetValue": "Rex Favero",
+      "utterance": "who was the last finisher from the us?",
+      "id": "nt-10731"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many ranked swimmers were from the united states?",
+      "id": "nt-11807"
+    },
+    {
+      "targetValue": "1:56.42",
+      "utterance": "what is the average time?",
+      "id": "nt-14120"
+    }
+  ],
+  "metadata": {
+    "title": "Swimming at the 1975 Pan American Games – Men's 200 metre freestyle",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=40419191&oldid=581627873",
+    "tableIndex": 1,
+    "hashcode": "c2e93d9ffc6b82a901dec2a1130af99a76411556",
+    "id": 40419191,
+    "revision": 581627873
+  }
+}

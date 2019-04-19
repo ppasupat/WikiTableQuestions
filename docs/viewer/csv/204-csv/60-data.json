@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Tingkhong",
+      "utterance": "between tingkhong and sonari, which had a higher constituency number?",
+      "id": "nt-839"
+    },
+    {
+      "targetValue": "Sadiya",
+      "utterance": "if ordering political parties from the most representatives to the least, which would come first?",
+      "id": "nt-2173"
+    },
+    {
+      "targetValue": "Asom Gana Parishad",
+      "utterance": "bhupen ray is from abhayapuri north. name their political party.",
+      "id": "nt-2761"
+    },
+    {
+      "targetValue": "Ratabari",
+      "utterance": "which constituencies have only one representative?",
+      "id": "nt-3312"
+    },
+    {
+      "targetValue": "Abhayapuri North",
+      "utterance": "previous to barhampur, what is the name of the constituency associated with the asom gana parishad listed?",
+      "id": "nt-5454"
+    },
+    {
+      "targetValue": "Rumi Nath",
+      "utterance": "who is the only person with the number 14?",
+      "id": "nt-13615"
+    }
+  ],
+  "metadata": {
+    "title": "Assam Legislative Assembly election, 2011",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=31780478&oldid=601177853",
+    "tableIndex": 1,
+    "hashcode": "ab7a1384028fa02acfb5243fd23c17030623758a",
+    "id": 31780478,
+    "revision": 601177853
+  }
+}

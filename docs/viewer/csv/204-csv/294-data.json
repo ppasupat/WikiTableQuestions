@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "in 2007, what is the largest number of consecutive games won by the nebraska football team?",
+      "id": "nt-193"
+    },
+    {
+      "targetValue": "Folsom Field • Boulder, CO",
+      "utterance": "the nebraska cornhuskers last game was played where",
+      "id": "nt-1378"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "what was the nebraska cornhuskers highest rank of 2007",
+      "id": "nt-2361"
+    },
+    {
+      "targetValue": "Wake Forest",
+      "utterance": "which opponent comes before usc?",
+      "id": "nt-4807"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what is the total of dates?",
+      "id": "nt-12877"
+    },
+    {
+      "targetValue": "Sept 1",
+      "utterance": "which game was higher scoring by nebraska, sept 1 or sept 8?",
+      "id": "nt-13138"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "in 2007, how many games did the nebraska football team play after falling from the national rankings?",
+      "id": "nt-13749"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many total games were aired on espn?",
+      "id": "nt-13754"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many sites are there?",
+      "id": "nt-14063"
+    }
+  ],
+  "metadata": {
+    "title": "2007 Nebraska Cornhuskers football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11542044&oldid=580525461",
+    "tableIndex": 0,
+    "hashcode": "2b43eada11c4b87ba5cd014d2f62bb881dfcfc2f",
+    "id": 11542044,
+    "revision": 580525461
+  }
+}

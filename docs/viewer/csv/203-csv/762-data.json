@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Black Hawk Down",
+      "utterance": "what was the previous film to air before collateral damage?",
+      "id": "nt-675"
+    },
+    {
+      "targetValue": "Queen of the Damned",
+      "utterance": "what is the lowest grossing film listed before march 3, 2002?",
+      "id": "nt-2213"
+    },
+    {
+      "targetValue": "Spider-Man",
+      "utterance": "what was the last title in 2002 to gross the most money?",
+      "id": "nt-3914"
+    },
+    {
+      "targetValue": "Spider-Man",
+      "utterance": "what film grossed the most money.",
+      "id": "nt-4683"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many films grossed more than $80,000,000",
+      "id": "nt-5400"
+    },
+    {
+      "targetValue": "52",
+      "utterance": "what is the total number of films released?",
+      "id": "nt-7930"
+    },
+    {
+      "targetValue": "26",
+      "utterance": "how many films were released before july 1st, 2002?",
+      "id": "nt-10413"
+    },
+    {
+      "targetValue": "The Lord of the Rings: The Fellowship of the Ring",
+      "utterance": "what was the first film released in 2002?",
+      "id": "nt-10969"
+    }
+  ],
+  "metadata": {
+    "title": "List of 2002 box office number-one films in the United States",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12774860&oldid=596302736",
+    "tableIndex": 0,
+    "hashcode": "2d6764dd68a6e4ffe59258451869613bb3cf5639",
+    "id": 12774860,
+    "revision": 596302736
+  }
+}

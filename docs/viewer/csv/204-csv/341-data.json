@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "Lake Palas Tuzla",
+      "utterance": "which is deeper, lake tuz or lake palas tuzla?",
+      "id": "nt-7"
+    },
+    {
+      "targetValue": "Lake Van",
+      "utterance": "other than lake ercek, name a lake in van.",
+      "id": "nt-157"
+    },
+    {
+      "targetValue": "451 m",
+      "utterance": "at most, what's the biggest depth?",
+      "id": "nt-3016"
+    },
+    {
+      "targetValue": "Lake Bafa",
+      "utterance": "does lake bafa or lake yay have a bigger area?",
+      "id": "nt-3963"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many lakes have areas more then 300km",
+      "id": "nt-3976"
+    },
+    {
+      "targetValue": "Van, Bitlis",
+      "utterance": "where is the largest lake located?",
+      "id": "nt-4183"
+    },
+    {
+      "targetValue": [
+        "Lake Van",
+        "Van, Bitlis"
+      ],
+      "utterance": "which lake has the most area and it locations",
+      "id": "nt-4481"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many turkish lakes ate less than 10 square kilometers in size?",
+      "id": "nt-4937"
+    },
+    {
+      "targetValue": "Lake Uluabat",
+      "utterance": "what lake is listed directly below the one that is in both denzili and afyonkarahisar?",
+      "id": "nt-6118"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many turkish lakes are above 100 square kilometers in size?",
+      "id": "nt-6982"
+    },
+    {
+      "targetValue": "Lake Erçek",
+      "utterance": "name a lake that is no larger than 100 sq km.",
+      "id": "nt-8381"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total number of lakes in the province of van in turkey?",
+      "id": "nt-11403"
+    }
+  ],
+  "metadata": {
+    "title": "List of lakes of Turkey",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11234543&oldid=587898552",
+    "tableIndex": 0,
+    "hashcode": "5039190c523bb92f8e420f992d02d2a4001bcc36",
+    "id": 11234543,
+    "revision": 587898552
+  }
+}

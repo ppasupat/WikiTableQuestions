@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "tell me the number of racers from the uk.",
+      "id": "nt-321"
+    },
+    {
+      "targetValue": "Peter Hirt",
+      "utterance": "what is the name of the last driver on this chart?",
+      "id": "nt-987"
+    },
+    {
+      "targetValue": "Peter Hirt",
+      "utterance": "who is the only person to drive a veritas?",
+      "id": "nt-1056"
+    },
+    {
+      "targetValue": "More",
+      "utterance": "did great britain have more or less drivers than the united states?",
+      "id": "nt-4971"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the total drivers with a ferrari chassis?",
+      "id": "nt-8805"
+    },
+    {
+      "targetValue": "France",
+      "utterance": "what country has 4 consecutive drivers on the roster?",
+      "id": "nt-9673"
+    },
+    {
+      "targetValue": "24",
+      "utterance": "what is the total number of drivers on the chart?",
+      "id": "nt-10549"
+    },
+    {
+      "targetValue": "Louis Chiron",
+      "utterance": "who drives a maserati, chiron or ascari?",
+      "id": "nt-11397"
+    },
+    {
+      "targetValue": "Talbot 23CV 4.5 L6",
+      "utterance": "what is the first engine listed on this chart?",
+      "id": "nt-12203"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many drivers used maserati as their constructor?",
+      "id": "nt-14103"
+    }
+  ],
+  "metadata": {
+    "title": "1951 Swiss Grand Prix",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1122044&oldid=589926617",
+    "tableIndex": 0,
+    "hashcode": "35805bd07681a9438b195f32c0aa3f066467fd88",
+    "id": 1122044,
+    "revision": 589926617
+  }
+}

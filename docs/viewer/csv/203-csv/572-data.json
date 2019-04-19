@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "Wayne Edward Alley",
+      "utterance": "which judge began active service first, wayne edward alley or james henry alesia?",
+      "id": "nt-4613"
+    },
+    {
+      "targetValue": "above",
+      "utterance": "is morris s. arnold above or below maryanne trump barry in in the list?",
+      "id": "nt-5639"
+    },
+    {
+      "targetValue": "Joseph Fletcher Anderson, Jr.",
+      "utterance": "who is the next judge listed after frank x. altimari?",
+      "id": "nt-11786"
+    }
+  ],
+  "metadata": {
+    "title": "List of federal judges appointed by Ronald Reagan",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21184971&oldid=602213841",
+    "tableIndex": 2,
+    "hashcode": "cef41aada6d2bb1ae7dc6c28e7eb8ae4ea8b0a64",
+    "id": 21184971,
+    "revision": 602213841
+  }
+}

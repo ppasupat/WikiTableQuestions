@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "15 August 2012",
+        "15 November 2013"
+      ],
+      "utterance": "on which dates were the highest scores?",
+      "id": "nt-2818"
+    },
+    {
+      "targetValue": "Romania",
+      "utterance": "which opponent team had the most wins?",
+      "id": "nt-4316"
+    },
+    {
+      "targetValue": "Liechtenstein",
+      "utterance": "which team played the least number of games?",
+      "id": "nt-6349"
+    },
+    {
+      "targetValue": "Karaiskakis Stadium, Pireaus, Greece",
+      "utterance": "what is the name of the next venue after ullevaal stadion, oslo, norway?",
+      "id": "nt-6443"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what are the number of times romania is listed as an opponent?",
+      "id": "nt-6570"
+    },
+    {
+      "targetValue": "Austria",
+      "utterance": "if all the teams were placed in order of number of wins to least number of wins, who would be in last place?",
+      "id": "nt-7186"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many games were after 14 august 2013?",
+      "id": "nt-8103"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many friendly compeitions occurred after september 6?",
+      "id": "nt-10348"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many friendly competitions occurred before september?",
+      "id": "nt-10899"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many games had at least a score of two or more points?",
+      "id": "nt-12735"
+    },
+    {
+      "targetValue": "September",
+      "utterance": "which month held the least amount of competitions?",
+      "id": "nt-13439"
+    }
+  ],
+  "metadata": {
+    "title": "Konstantinos Mitroglou",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12247002&oldid=602160168",
+    "tableIndex": 1,
+    "hashcode": "58f545e29927e77a3ab67d76503cbabeb796545c",
+    "id": 12247002,
+    "revision": 602160168
+  }
+}

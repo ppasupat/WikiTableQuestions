@@ -1,0 +1,100 @@
+{
+  "examples": [
+    {
+      "targetValue": "2002",
+      "utterance": "what is the first year the scores are recorded?",
+      "id": "nt-1747"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many years was finland listed as 001?",
+      "id": "nt-2400"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total number of years andorra competed?",
+      "id": "nt-4358"
+    },
+    {
+      "targetValue": "Finland",
+      "utterance": "which country ranked first in the press freedom index in 2012?",
+      "id": "nt-6122"
+    },
+    {
+      "targetValue": [
+        "Luxembourg",
+        "Andorra",
+        "Liechtenstein",
+        "New Zealand",
+        "Estonia",
+        "Jamaica",
+        "Slovakia",
+        "Cyprus",
+        "Belize",
+        "Suriname",
+        "Lithuania",
+        "Organisation of Eastern Caribbean States",
+        "Latvia",
+        "Samoa",
+        "Botswana",
+        "Trinidad and Tobago",
+        "Papua New Guinea",
+        "Malta",
+        "Moldova",
+        "Tonga",
+        "Guyana",
+        "Dominican Republic",
+        "Nicaragua",
+        "Lesotho",
+        "Timor-Leste",
+        "Armenia",
+        "Northern Cyprus",
+        "Georgia",
+        "Albania",
+        "Fiji",
+        "Maldives",
+        "Qatar",
+        "United Arab Emirates",
+        "South Sudan",
+        "Macedonia",
+        "Honduras",
+        "Oman",
+        "Singapore",
+        "Somalia",
+        "United States (extraterritorial)",
+        "Israel (extraterritorial)",
+        "Grenada"
+      ],
+      "utterance": "which countries had no listing for 2002?",
+      "id": "nt-8079"
+    },
+    {
+      "targetValue": "Finland",
+      "utterance": "name a country that is \"most free\" and has a rank of lower than (005).",
+      "id": "nt-9137"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many years are recorded in the chart?",
+      "id": "nt-10356"
+    },
+    {
+      "targetValue": "Czech Republic",
+      "utterance": "what country is listed before germany?",
+      "id": "nt-10625"
+    },
+    {
+      "targetValue": "lower",
+      "utterance": "was lebanon ranked higher or lower than guinea on the press freedom index in 2014?",
+      "id": "nt-13577"
+    }
+  ],
+  "metadata": {
+    "title": "Press Freedom Index",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8264708&oldid=602070842",
+    "tableIndex": 1,
+    "hashcode": "95a86922b3e286ff30f623ba3dae9f95baa93397",
+    "id": 8264708,
+    "revision": 602070842
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "2012",
+      "utterance": "in what year did ádám szalai make his next international goal after 2010?",
+      "id": "nt-3795"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the total number of international goals ádám szalai has made?",
+      "id": "nt-5817"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "in what year was szalai's first international goal?",
+      "id": "nt-6679"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many goals were scored at the euro 2012 qualifying competition?",
+      "id": "nt-7116"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many games did he score but his team lost?",
+      "id": "nt-7335"
+    },
+    {
+      "targetValue": "2014 World Cup qualification",
+      "utterance": "szalai scored all but one of his international goals in either euro 2012 qualifying or what other level of play?",
+      "id": "nt-7819"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many consecutive games were goals were against san marino?",
+      "id": "nt-8726"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many non-qualifying games did he score in?",
+      "id": "nt-9709"
+    },
+    {
+      "targetValue": "8 October 2010",
+      "utterance": "when did ádám szalai make his first international goal?",
+      "id": "nt-12920"
+    },
+    {
+      "targetValue": "San Marino",
+      "utterance": "szalai scored only one more international goal against all other countries put together than he did against what one country?",
+      "id": "nt-12960"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of goals ádám szalai made against san marino in 2010?",
+      "id": "nt-13381"
+    }
+  ],
+  "metadata": {
+    "title": "Ádám Szalai",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16145910&oldid=601731763",
+    "tableIndex": 0,
+    "hashcode": "b46ce0a0820097ff390220acd9865eab1b867ab7",
+    "id": 16145910,
+    "revision": 601731763
+  }
+}

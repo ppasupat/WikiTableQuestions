@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Crest Whitestrips Classic",
+      "utterance": "which product was to be used longer, crest whitestrips classic or crest whitestrips 3d vivid?",
+      "id": "nt-745"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of products that were introduced in 2010?",
+      "id": "nt-886"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many products have been discontinued?",
+      "id": "nt-2880"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many models require less than a week of use?",
+      "id": "nt-3535"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "does the crest white strips classic last at least one year?",
+      "id": "nt-3588"
+    },
+    {
+      "targetValue": "Crest Whitestrips Supreme",
+      "utterance": "which model has the highest 'length of use' to 'last of whiteness' ratio?",
+      "id": "nt-4126"
+    },
+    {
+      "targetValue": "12 months",
+      "utterance": "crest 3d intensive professional effects and crest whitestrips 3d professional effects both have a lasting whiteness of how many months?",
+      "id": "nt-5891"
+    },
+    {
+      "targetValue": "Crest Whitestrips Advanced Seal",
+      "utterance": "which discontinued product was introduced the same year as crest whitestrips 3d vivid?",
+      "id": "nt-6816"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "tell me the number of products that give you 12 months of whiteness.",
+      "id": "nt-7064"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "does the crest white strips pro last as long as the crest white strips renewal?",
+      "id": "nt-8206"
+    },
+    {
+      "targetValue": "Crest Whitestrips 3D Professional Effects",
+      "utterance": "what product was introduced in the same month as crest whitestrips 3d advanced vivid?",
+      "id": "nt-8222"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "is each white strip discontinued?",
+      "id": "nt-13096"
+    }
+  ],
+  "metadata": {
+    "title": "Crest Whitestrips",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=926458&oldid=601125747",
+    "tableIndex": 0,
+    "hashcode": "ec466eed54508fb9458cb474a2c77324da9cc6d6",
+    "id": 926458,
+    "revision": 601125747
+  }
+}

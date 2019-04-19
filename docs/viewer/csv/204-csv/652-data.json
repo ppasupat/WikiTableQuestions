@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "how many directors are in the england films?",
+      "id": "nt-954"
+    },
+    {
+      "targetValue": "If These Walls Could Talk 2",
+      "utterance": "jane anderson, martha coolidge, and anne heche all directed which film this years?",
+      "id": "nt-1959"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what is the number of films in this category that came from france during this year?",
+      "id": "nt-3529"
+    },
+    {
+      "targetValue": "An Intimate Friendship",
+      "utterance": "what movie directed this year by angela evers hughey was made in the same country as the next best thing?",
+      "id": "nt-3706"
+    },
+    {
+      "targetValue": "59",
+      "utterance": "what is the total number of lesbian, gay, bisexual, or transgender-related films were there in the year 2000?",
+      "id": "nt-4910"
+    },
+    {
+      "targetValue": "Drama",
+      "utterance": "which genre was used the most?",
+      "id": "nt-6584"
+    },
+    {
+      "targetValue": "And Then Came Summer",
+      "utterance": "did jeff london direct before night falls or and then came summer?",
+      "id": "nt-8831"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many crime thrillers were released in this category in this year?",
+      "id": "nt-9317"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many films were from argentina?",
+      "id": "nt-13113"
+    }
+  ],
+  "metadata": {
+    "title": "List of lesbian, gay, bisexual or transgender-related films of 2000",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36872179&oldid=578222082",
+    "tableIndex": 0,
+    "hashcode": "17dc9bf2882ea2be5ae63f6c5114ad112c89b4f5",
+    "id": 36872179,
+    "revision": 578222082
+  }
+}

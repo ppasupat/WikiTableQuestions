@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "how many teams played on february 14th, 1976?",
+      "id": "nt-1470"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many games did the bolton wanderers and newcastle united play before there was a definitive winner in the fifth round proper?",
+      "id": "nt-3250"
+    },
+    {
+      "targetValue": "Wolverhampton Wanderers",
+      "utterance": "who had a better score, manchester united or wolverhampton wanderers?",
+      "id": "nt-5010"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many games played by sunderland are listed here?",
+      "id": "nt-6388"
+    },
+    {
+      "targetValue": [
+        "Bolton Wanderers",
+        "Newcastle United"
+      ],
+      "utterance": "which teams played the same day as leicester city and manchester united?",
+      "id": "nt-6802"
+    },
+    {
+      "targetValue": "2 goals",
+      "utterance": "what is the difference between southampton's score and sunderland's score?",
+      "id": "nt-8946"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what was the number of games that occurred on 14 february 1976?",
+      "id": "nt-8976"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many games were replays?",
+      "id": "nt-11122"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many of these games occurred before 17 february 1976?",
+      "id": "nt-11220"
+    },
+    {
+      "targetValue": "Leicester City",
+      "utterance": "who was the home team in the game on the top of the table?",
+      "id": "nt-13215"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "what was the goal difference in the game on february 18th?",
+      "id": "nt-14055"
+    }
+  ],
+  "metadata": {
+    "title": "1975–76 FA Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18726561&oldid=594045052",
+    "tableIndex": 4,
+    "hashcode": "f55dc8fb5732f00908c44c3e6e40009130620cda",
+    "id": 18726561,
+    "revision": 594045052
+  }
+}

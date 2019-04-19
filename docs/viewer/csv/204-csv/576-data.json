@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many times did bekele record a 10,000 metre year's best in brussels?",
+      "id": "nt-377"
+    },
+    {
+      "targetValue": "2007",
+      "utterance": "did bekele have a better world ranking in 2012 or 2007?",
+      "id": "nt-3784"
+    },
+    {
+      "targetValue": "Ostrava",
+      "utterance": "which location has the best time other than brussels?",
+      "id": "nt-3931"
+    },
+    {
+      "targetValue": "Brussels",
+      "utterance": "where was the location on september 14?",
+      "id": "nt-5063"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "are the years of the runs consecutive?",
+      "id": "nt-7643"
+    },
+    {
+      "targetValue": "2005",
+      "utterance": "in which year did bekele record his fastest 10,000 meter time from 2003-2012?",
+      "id": "nt-7991"
+    },
+    {
+      "targetValue": "4th",
+      "utterance": "what was the world rank of paris?",
+      "id": "nt-8720"
+    },
+    {
+      "targetValue": "Brussels",
+      "utterance": "who had the best time?",
+      "id": "nt-8836"
+    },
+    {
+      "targetValue": "2012",
+      "utterance": "what year was the worst time given?",
+      "id": "nt-10062"
+    },
+    {
+      "targetValue": "Ostrava",
+      "utterance": "who had the best time ostrava or berlin?",
+      "id": "nt-11784"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many runs are there?",
+      "id": "nt-13525"
+    }
+  ],
+  "metadata": {
+    "title": "Kenenisa Bekele",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=344541&oldid=600879817",
+    "tableIndex": 2,
+    "hashcode": "12cf0ac9c38db0d2789375ede0e35f433f5545bf",
+    "id": 344541,
+    "revision": 600879817
+  }
+}

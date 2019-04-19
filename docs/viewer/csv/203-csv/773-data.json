@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "Chuck Thompson",
+      "utterance": "other than frank gleiber, who else did play-by-play for cbs in 1965?",
+      "id": "nt-331"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many wins did the baltimore colts have during the playoff bowl era?",
+      "id": "nt-476"
+    },
+    {
+      "targetValue": "Miami",
+      "utterance": "what city were most playoff bowls played?",
+      "id": "nt-3455"
+    },
+    {
+      "targetValue": "Frank Gifford and Don Perkins",
+      "utterance": "who was the last color commentator?",
+      "id": "nt-5164"
+    },
+    {
+      "targetValue": "Jack Whitaker",
+      "utterance": "who was the host of play-by-play after ray scott?",
+      "id": "nt-5729"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many seasons of play-by-play did chris schenkel and chuck thompson host combined?",
+      "id": "nt-6477"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many broadcasters performed at least twice?",
+      "id": "nt-7453"
+    },
+    {
+      "targetValue": "Jack Whitaker",
+      "utterance": "who did play-by-play before ray scott?",
+      "id": "nt-8437"
+    },
+    {
+      "targetValue": "Paul Christman",
+      "utterance": "who were the \"color commentators\" for play-by-play in 1968?",
+      "id": "nt-9300"
+    },
+    {
+      "targetValue": "Chris Schenkel",
+      "utterance": "who had two consecutive performances as the first half play by play broadcaster?",
+      "id": "nt-10302"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did chuck thompson serve as a broadcaster?",
+      "id": "nt-11243"
+    },
+    {
+      "targetValue": "1969",
+      "utterance": "in what year was the last season of cbs's play-by-play?",
+      "id": "nt-11580"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many color commentators jack whitaker had in 1969?",
+      "id": "nt-12331"
+    }
+  ],
+  "metadata": {
+    "title": "Playoff Bowl",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1031601&oldid=594736790",
+    "tableIndex": 2,
+    "hashcode": "17f637feebc70739f013b43a563099614277831d",
+    "id": 1031601,
+    "revision": 594736790
+  }
+}

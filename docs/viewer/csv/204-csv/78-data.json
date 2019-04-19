@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "what are the number of times bangalore is listed as the destination?",
+      "id": "nt-2642"
+    },
+    {
+      "targetValue": "Bilaspur Express",
+      "utterance": "what is the name of the last train on the list?",
+      "id": "nt-3602"
+    },
+    {
+      "targetValue": "Shatabdi Express",
+      "utterance": "what is the name of the train listed before bangalore express?",
+      "id": "nt-3609"
+    },
+    {
+      "targetValue": "Tirupati Express",
+      "utterance": "other than the saptagiri express, name a train that was destined for tirupati.",
+      "id": "nt-3858"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "tell me the number of trains headed for jolarpet junction.",
+      "id": "nt-4553"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many total trains were destined for new delhi?",
+      "id": "nt-7703"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many trains are going to trivandrum?",
+      "id": "nt-7850"
+    }
+  ],
+  "metadata": {
+    "title": "List of trains at Chennai Central railway station",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=37723203&oldid=602181540",
+    "tableIndex": 0,
+    "hashcode": "8e176cef453c3bf886bc4c34253f42d1b7d84d63",
+    "id": 37723203,
+    "revision": 602181540
+  }
+}

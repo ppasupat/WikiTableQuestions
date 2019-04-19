@@ -1,0 +1,71 @@
+{
+  "examples": [
+    {
+      "targetValue": "Pune Strykers",
+      "utterance": "did the pune strykers or the karnataka lions have the highest win percentage?",
+      "id": "nt-674"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many teams won less than the pune strykers?",
+      "id": "nt-1351"
+    },
+    {
+      "targetValue": "Bhopal Badshahs",
+      "utterance": "which was the only team that the comets did not win a match against?",
+      "id": "nt-2375"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many teams did the comets win 2 matches against?",
+      "id": "nt-2483"
+    },
+    {
+      "targetValue": "Mumbai Marines",
+      "utterance": "which team has the same percentage as the delhi wizards?",
+      "id": "nt-2850"
+    },
+    {
+      "targetValue": [
+        "Delhi Wizards",
+        "Mumbai Marines",
+        "Pune Strykers"
+      ],
+      "utterance": "who wins the most?",
+      "id": "nt-3992"
+    },
+    {
+      "targetValue": "Bhopal Badshahs",
+      "utterance": "what is the only team to draw?",
+      "id": "nt-5019"
+    },
+    {
+      "targetValue": "Delhi Wizards",
+      "utterance": "which opponent did the comets win more matches against: the delhi wizards or the karnataka lions?",
+      "id": "nt-7478"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of oppositions who the chandigarh comets have 100% win rate against?",
+      "id": "nt-7831"
+    },
+    {
+      "targetValue": "Sher-e-Punjab",
+      "utterance": "who is the last opposition?",
+      "id": "nt-7866"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the total amount of matches drawn?",
+      "id": "nt-13779"
+    }
+  ],
+  "metadata": {
+    "title": "Chandigarh Comets",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=34480210&oldid=560967452",
+    "tableIndex": 5,
+    "hashcode": "23c1f8f6541af0e78352c0e1b11353f5e83aee75",
+    "id": 34480210,
+    "revision": 560967452
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Malik Sealy",
+      "utterance": "who is the only person with a retired jersey from the minnesota timberwolves?",
+      "id": "nt-2310"
+    },
+    {
+      "targetValue": "Boston Celtics",
+      "utterance": "which nba team has more retired jerseys than any other nba team?",
+      "id": "nt-3265"
+    },
+    {
+      "targetValue": "Tim Hardaway",
+      "utterance": "who was the first miami heat player to have their jersey retired?",
+      "id": "nt-6839"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many numbers did the new york knicks retire?",
+      "id": "nt-7322"
+    },
+    {
+      "targetValue": "Boston Celtics",
+      "utterance": "what team appears on this table the most?",
+      "id": "nt-11354"
+    },
+    {
+      "targetValue": "26",
+      "utterance": "how many different teams are represented in the table?",
+      "id": "nt-11897"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many chicago bulls have a retired nba jersey?",
+      "id": "nt-11974"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many teams have retired a number worn by charles barkley?",
+      "id": "nt-12577"
+    },
+    {
+      "targetValue": "Boston Celtics",
+      "utterance": "which of the listed teams has the most players elected to the hall of fame according to this table?",
+      "id": "nt-12705"
+    }
+  ],
+  "metadata": {
+    "title": "List of National Basketball Association retired jersey numbers",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4494837&oldid=602035681",
+    "tableIndex": 1,
+    "hashcode": "771403ea19a0cb72a11123055eaa75e487950a5f",
+    "id": 4494837,
+    "revision": 602035681
+  }
+}

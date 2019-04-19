@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "yes",
+      "utterance": "is ireland before greece in regards of amount of points?",
+      "id": "nt-404"
+    },
+    {
+      "targetValue": "Pave Maijanen",
+      "utterance": "what artist scored the least number of points?",
+      "id": "nt-3435"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many artists scored at least 40 points?",
+      "id": "nt-6145"
+    },
+    {
+      "targetValue": "United Kingdom",
+      "utterance": "which ranked higher in place, israel or the united kingdom?",
+      "id": "nt-6452"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of points scored by finland?",
+      "id": "nt-6754"
+    },
+    {
+      "targetValue": "Ireland",
+      "utterance": "which country scored the most points?",
+      "id": "nt-7901"
+    },
+    {
+      "targetValue": "France",
+      "utterance": "which artist's song results scored the highest, france or spain?",
+      "id": "nt-7963"
+    },
+    {
+      "targetValue": "Netherlands",
+      "utterance": "which country is listed last on the chart?",
+      "id": "nt-8068"
+    },
+    {
+      "targetValue": "Daisy Auvray",
+      "utterance": "which artist(s) scored a total of 32 points?",
+      "id": "nt-8952"
+    },
+    {
+      "targetValue": "Dina",
+      "utterance": "which artist's song scored the least amount of points, diana or kali?",
+      "id": "nt-9483"
+    },
+    {
+      "targetValue": "United Kingdom",
+      "utterance": "which country earned the best amount of points after the first?",
+      "id": "nt-11095"
+    },
+    {
+      "targetValue": "Spain",
+      "utterance": "what was the country previous to belgium on the table?",
+      "id": "nt-12405"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many songs scored less than 10 points?",
+      "id": "nt-12853"
+    }
+  ],
+  "metadata": {
+    "title": "Eurovision Song Contest 1992",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=185191&oldid=601578757",
+    "tableIndex": 0,
+    "hashcode": "3e7a3d2251d6c39a80c4fd831aa3fbff0e36e720",
+    "id": 185191,
+    "revision": 601578757
+  }
+}

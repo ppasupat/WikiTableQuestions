@@ -1,0 +1,50 @@
+{
+  "examples": [
+    {
+      "targetValue": "Brooke's",
+      "utterance": "which quarry was the last to open?",
+      "id": "nt-1156"
+    },
+    {
+      "targetValue": [
+        "Blaen y Cwm",
+        "1911"
+      ],
+      "utterance": "looking at the top of the table, what is the name of the first quarry listed, and what year did it close?",
+      "id": "nt-2759"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "how many quarries was slate mined at?",
+      "id": "nt-5394"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "the ffestiniog railway serviced at most how many slate quarries?",
+      "id": "nt-5941"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "how many quarries opened before 1892?",
+      "id": "nt-11646"
+    },
+    {
+      "targetValue": "Cwt-y-Bugail",
+      "utterance": "what is the last operating quarry that connects to the rhiwbach tramway?",
+      "id": "nt-11835"
+    },
+    {
+      "targetValue": "41",
+      "utterance": "how many years was the cesail mine connected?",
+      "id": "nt-13131"
+    }
+  ],
+  "metadata": {
+    "title": "List of quarries served by the Ffestiniog Railway",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20080366&oldid=577058464",
+    "tableIndex": 0,
+    "hashcode": "d01d1f20e653d0f18375b49f197c911c27e33e15",
+    "id": 20080366,
+    "revision": 577058464
+  }
+}

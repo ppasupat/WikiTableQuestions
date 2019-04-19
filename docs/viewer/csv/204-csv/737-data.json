@@ -1,0 +1,87 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many years are listed?",
+      "id": "nt-944"
+    },
+    {
+      "targetValue": "1898",
+      "utterance": "which had more ger numbers, 1898 or 1893?",
+      "id": "nt-1856"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the number of years with a quantity of 10?",
+      "id": "nt-2565"
+    },
+    {
+      "targetValue": "1893",
+      "utterance": "which year had the least ger numbers?",
+      "id": "nt-2956"
+    },
+    {
+      "targetValue": "1895",
+      "utterance": "which year between 1893 and 1898 was there not an order?",
+      "id": "nt-5469"
+    },
+    {
+      "targetValue": "1894",
+      "utterance": "was the quantity higher in 1894 or 1893?",
+      "id": "nt-5804"
+    },
+    {
+      "targetValue": "1898",
+      "utterance": "when was g42, 1898 or 1894?",
+      "id": "nt-6196"
+    },
+    {
+      "targetValue": "5 years",
+      "utterance": "what amount of time to the years span?",
+      "id": "nt-6610"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how mans years have ger nos below 900?",
+      "id": "nt-8391"
+    },
+    {
+      "targetValue": "K43",
+      "utterance": "what is the order of the last year listed?",
+      "id": "nt-9285"
+    },
+    {
+      "targetValue": "1898",
+      "utterance": "what is the last year listed?",
+      "id": "nt-10390"
+    },
+    {
+      "targetValue": "81",
+      "utterance": "what is the total number of locomotives made during this time?",
+      "id": "nt-11676"
+    },
+    {
+      "targetValue": "N31",
+      "utterance": "what order is listed first at the top of the table?",
+      "id": "nt-12978"
+    },
+    {
+      "targetValue": "E34",
+      "utterance": "which order was the next order after l33?",
+      "id": "nt-13565"
+    },
+    {
+      "targetValue": "E34",
+      "utterance": "were there more n31 or e34 ordered?",
+      "id": "nt-13937"
+    }
+  ],
+  "metadata": {
+    "title": "GER Class N31",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=32239870&oldid=482061732",
+    "tableIndex": 0,
+    "hashcode": "c00e66b884230cab8987aaf3990156e3c7397da5",
+    "id": 32239870,
+    "revision": 482061732
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "examples": [
+    {
+      "targetValue": "9",
+      "utterance": "what is the number of titles in which the surface played on was carpet?",
+      "id": "nt-2839"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "what is the total amount of opponents from the united states in the final?",
+      "id": "nt-2987"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many championships did roche win with newcombe?",
+      "id": "nt-4387"
+    },
+    {
+      "targetValue": [
+        "Fred Stolle",
+        "Raúl Ramírez",
+        "Manuel Orantes",
+        "Arthur Ashe",
+        "Ross Case"
+      ],
+      "utterance": "what other partner did he have besides john newcombe?",
+      "id": "nt-5678"
+    },
+    {
+      "targetValue": "1968",
+      "utterance": "in what year did roche win his first doubles title?",
+      "id": "nt-7312"
+    },
+    {
+      "targetValue": "1968",
+      "utterance": "prior to 1969 when was the previous wimbledon won?",
+      "id": "nt-7905"
+    },
+    {
+      "targetValue": "1974",
+      "utterance": "when was the last wimbledon won?",
+      "id": "nt-12908"
+    },
+    {
+      "targetValue": "Clay",
+      "utterance": "what type of surface was played on in the first game where the opponent in the final included an american?",
+      "id": "nt-13053"
+    }
+  ],
+  "metadata": {
+    "title": "Tony Roche",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=870020&oldid=595802479",
+    "tableIndex": 4,
+    "hashcode": "053d8dbf0acc6681b1ef8285bd1f898eeeda597c",
+    "id": 870020,
+    "revision": 595802479
+  }
+}

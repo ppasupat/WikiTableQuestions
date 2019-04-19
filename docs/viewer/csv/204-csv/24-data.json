@@ -1,0 +1,68 @@
+{
+  "examples": [
+    {
+      "targetValue": "3.5",
+      "utterance": "what is the average finish for thomas lloyd?",
+      "id": "nt-483"
+    },
+    {
+      "targetValue": [
+        "1947",
+        "1948",
+        "1949",
+        "1950",
+        "1951"
+      ],
+      "utterance": "which seasons were not played in the california league?",
+      "id": "nt-2127"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "were they league champions at least 5 times?",
+      "id": "nt-3099"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "tell me the number of winning seasons they had on the list.",
+      "id": "nt-3965"
+    },
+    {
+      "targetValue": "Lilio Marcucci",
+      "utterance": "who other than thomas lloyd managed the sunset league?",
+      "id": "nt-4922"
+    },
+    {
+      "targetValue": "Leonard Noren",
+      "utterance": "who was the previous manager of the california league before ray perry?",
+      "id": "nt-6678"
+    },
+    {
+      "targetValue": "California League",
+      "utterance": "which league won the most consecutive years?",
+      "id": "nt-8137"
+    },
+    {
+      "targetValue": "1975",
+      "utterance": "which season had a better winning record, 1970 or 1975?",
+      "id": "nt-8370"
+    },
+    {
+      "targetValue": "1961",
+      "utterance": "whih year did they finish hiher, 1949 or 1961?",
+      "id": "nt-9316"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total number of years the sunset league was managed by thomas lloyd?",
+      "id": "nt-9669"
+    }
+  ],
+  "metadata": {
+    "title": "Reno Silver Sox",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17250957&oldid=601236618",
+    "tableIndex": 0,
+    "hashcode": "d3f0525d70fb2057717e1fcd48b81c9b90e272f4",
+    "id": 17250957,
+    "revision": 601236618
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "9%",
+      "utterance": "compare religious affiliation in 2001 to 2011. percentage wise, by how much did \"no religion\" increase from 2001 to 2011",
+      "id": "nt-9388"
+    }
+  ],
+  "metadata": {
+    "title": "City of Willoughby",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1097953&oldid=602504680",
+    "tableIndex": 0,
+    "hashcode": "1b36e1443b0561299d480fddeabbcc424dd0fc82",
+    "id": 1097953,
+    "revision": 602504680
+  }
+}

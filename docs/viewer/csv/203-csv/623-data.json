@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "2009",
+      "utterance": "in what year did vinnie dombroski win his outstanding rock/pop vocalist award?",
+      "id": "nt-2705"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many times did liz larin win a category?",
+      "id": "nt-4636"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of awards won by crud?",
+      "id": "nt-6294"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many awards did liz larin win?",
+      "id": "nt-6861"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what are the number of times broadzilla won the outstanding hard rock/metal artist/group award?",
+      "id": "nt-6995"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "what was the only year that cybertribe won an award?",
+      "id": "nt-7704"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "after 2005 how many different songwriters won outstanding rock/pop songwriter",
+      "id": "nt-8252"
+    },
+    {
+      "targetValue": "Liz Larin",
+      "utterance": "did liz larin or ty stone win more categories?",
+      "id": "nt-10760"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "what was the last year that vinnie dombroski won an award?",
+      "id": "nt-11203"
+    },
+    {
+      "targetValue": "Jill Jack",
+      "utterance": "what is the name of the artist that had consecutive wins in the outstanding pop artist/group category?",
+      "id": "nt-12166"
+    },
+    {
+      "targetValue": "2004",
+      "utterance": "liz larin won outstanding rock/pop songwriter in 2006. when was her first win for this category?",
+      "id": "nt-13229"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many years did vinnie dombroski win?",
+      "id": "nt-14018"
+    }
+  ],
+  "metadata": {
+    "title": "Detroit Music Awards",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7594574&oldid=569968248",
+    "tableIndex": 8,
+    "hashcode": "a62608dfa6b0ccfdf8bf6e593059d3e5ec17e14c",
+    "id": 7594574,
+    "revision": 569968248
+  }
+}

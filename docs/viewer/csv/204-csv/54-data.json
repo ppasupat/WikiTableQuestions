@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "how many were affiliated with the janata party?",
+      "id": "nt-481"
+    },
+    {
+      "targetValue": "Twelfth",
+      "utterance": "is the current pondicherry assembly the tenth or the twelfth?",
+      "id": "nt-715"
+    },
+    {
+      "targetValue": "5 years",
+      "utterance": "what is the difference in election year between the first and second members on the list?",
+      "id": "nt-3660"
+    },
+    {
+      "targetValue": "L. Periyasamy",
+      "utterance": "who served after v. vaithilingam?",
+      "id": "nt-5233"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of members?",
+      "id": "nt-6425"
+    },
+    {
+      "targetValue": "Dravida Munnetra Kazhagam",
+      "utterance": "was it the dravida munnetra kazhagam party or the janata party that won the second pondicherry assembly?",
+      "id": "nt-6728"
+    },
+    {
+      "targetValue": "V. Vaithilingam",
+      "utterance": "what was the name of m.l.a. previous to the current one?",
+      "id": "nt-7003"
+    },
+    {
+      "targetValue": "Indian National Congress",
+      "utterance": "what party is represented the most?",
+      "id": "nt-7138"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many assemblies have their been?",
+      "id": "nt-8830"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did v. venkatasubha reddiar serve in the assembly?",
+      "id": "nt-9869"
+    },
+    {
+      "targetValue": "L. Periyasamy",
+      "utterance": "the last winner of the twelfth pondicherry assembly?",
+      "id": "nt-11548"
+    },
+    {
+      "targetValue": "1964",
+      "utterance": "what was the year of the first election?",
+      "id": "nt-12722"
+    },
+    {
+      "targetValue": "Indian National Congress",
+      "utterance": "was v. vaithilingam a member of the indian national congress or the janata party?",
+      "id": "nt-13607"
+    },
+    {
+      "targetValue": "R. Subbaraya Gounder",
+      "utterance": "who won the election after s. sivaprakasam in the fifth pondicherry assembly?",
+      "id": "nt-13958"
+    }
+  ],
+  "metadata": {
+    "title": "Nettapakkam (Union Territory Assembly constituency)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=31761376&oldid=578559916",
+    "tableIndex": 0,
+    "hashcode": "76cc9cb6c76cb31f75f3a9076a386ff91c344682",
+    "id": 31761376,
+    "revision": 578559916
+  }
+}

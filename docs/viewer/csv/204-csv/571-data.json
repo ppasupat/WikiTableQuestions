@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "Jóhann Haraldsson",
+      "utterance": "other than bjorgvinsson, name someone who id not finish a race.",
+      "id": "nt-995"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of men who did not finish?",
+      "id": "nt-4571"
+    },
+    {
+      "targetValue": "Slalom",
+      "utterance": "which men's alpine skiing event had the most icelandic competitors?",
+      "id": "nt-5942"
+    },
+    {
+      "targetValue": "56.98",
+      "utterance": "how long did haraldsson take in race 1 of the slalom?",
+      "id": "nt-7755"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many athletes finished race 1?",
+      "id": "nt-13847"
+    }
+  ],
+  "metadata": {
+    "title": "Iceland at the 2002 Winter Olympics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7732505&oldid=576351263",
+    "tableIndex": 0,
+    "hashcode": "b4fc7c853b82c1b938d2f70b867e548ee315a474",
+    "id": 7732505,
+    "revision": 576351263
+  }
+}

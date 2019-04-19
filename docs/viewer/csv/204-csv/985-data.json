@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "WIT Georgia",
+      "utterance": "what is the first club listed in the chart?",
+      "id": "nt-235"
+    },
+    {
+      "targetValue": "Livorno",
+      "utterance": "fc schalke 04 and what other club beat them?",
+      "id": "nt-888"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many more home victories did this team have in the 2004/2005 season than in the 2003 season?",
+      "id": "nt-2098"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the difference in the amount of home games won versus home games lost for werder bremen?",
+      "id": "nt-4079"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of losses this team had in the 2006/2007 season?",
+      "id": "nt-6032"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many countries have more than one competitor listed?",
+      "id": "nt-9065"
+    },
+    {
+      "targetValue": "5-1",
+      "utterance": "what was the most aggregate score in germany?",
+      "id": "nt-12284"
+    },
+    {
+      "targetValue": "2006/07",
+      "utterance": "what season was the only round 1?",
+      "id": "nt-12852"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many total seasons are given in the chart?",
+      "id": "nt-13001"
+    }
+  ],
+  "metadata": {
+    "title": "ASKÖ Pasching",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=25467303&oldid=569358536",
+    "tableIndex": 0,
+    "hashcode": "ed3ef599dafb7fecd302419bfbef915e4476f742",
+    "id": 25467303,
+    "revision": 569358536
+  }
+}

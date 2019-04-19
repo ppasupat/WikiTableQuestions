@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Cuba",
+      "utterance": "who is ranked #1?",
+      "id": "nt-908"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total number of nations that did not win gold?",
+      "id": "nt-1944"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "which nation won gold but did not win silver?",
+      "id": "nt-1995"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many total medals did argentina win?",
+      "id": "nt-3613"
+    },
+    {
+      "targetValue": "Cuba",
+      "utterance": "who had more silver medals, cuba or brazil?",
+      "id": "nt-3674"
+    },
+    {
+      "targetValue": "36",
+      "utterance": "how many total medals were there all together?",
+      "id": "nt-7291"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "which ranking is mexico?",
+      "id": "nt-8422"
+    },
+    {
+      "targetValue": "Argentina",
+      "utterance": "which country won the largest haul of bronze medals?",
+      "id": "nt-9338"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many total medals did brazil received?",
+      "id": "nt-9715"
+    },
+    {
+      "targetValue": "Ecuador",
+      "utterance": "which is the only nation to win a gold medal and nothing else?",
+      "id": "nt-13950"
+    }
+  ],
+  "metadata": {
+    "title": "Canoeing at the 2011 Pan American Games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=29541264&oldid=594148773",
+    "tableIndex": 0,
+    "hashcode": "d576a4f4968e5282cec4ffa5f58aca47883cab33",
+    "id": 29541264,
+    "revision": 594148773
+  }
+}

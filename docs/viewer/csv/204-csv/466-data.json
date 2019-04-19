@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "69.9",
+      "utterance": "what is france and germany's deficit combined?",
+      "id": "nt-1137"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "which team had the least deficit?",
+      "id": "nt-1644"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "name a team that finished in at least 1:10.",
+      "id": "nt-1821"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "which country won first place (gold medal)?",
+      "id": "nt-3090"
+    },
+    {
+      "targetValue": [
+        "Svetlana Sleptsova",
+        "Anna Bogaliy-Titovets",
+        "Olga Medvedtseva",
+        "Olga Zaitseva"
+      ],
+      "utterance": "name each athlete for the russian team.",
+      "id": "nt-8791"
+    },
+    {
+      "targetValue": "1:11:08.2",
+      "utterance": "how long did it take for olena pidhrushna's team to finish?",
+      "id": "nt-9353"
+    },
+    {
+      "targetValue": "Latvia",
+      "utterance": "which country finished last?",
+      "id": "nt-9688"
+    },
+    {
+      "targetValue": "Belarus",
+      "utterance": "which team finished first, romania or belarus?",
+      "id": "nt-10402"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "what was the only team to not have a deficit?",
+      "id": "nt-12392"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "how many countries were represented?",
+      "id": "nt-13412"
+    }
+  ],
+  "metadata": {
+    "title": "Biathlon at the 2010 Winter Olympics – Women's relay",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=24688906&oldid=600870023",
+    "tableIndex": 0,
+    "hashcode": "fcc27d7356b159422741dea1d0c09553390247d6",
+    "id": 24688906,
+    "revision": 600870023
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "National Treasure: Book of Secrets",
+        "The Bucket List",
+        "Cloverfield",
+        "Rambo"
+      ],
+      "utterance": "what films had their weekend end dates in january?",
+      "id": "nt-1171"
+    },
+    {
+      "targetValue": "The Dark Knight",
+      "utterance": "which film had the largest single week gross?",
+      "id": "nt-1203"
+    },
+    {
+      "targetValue": "The Dark Knight",
+      "utterance": "what movie was the highest grossing film the most consecutive weekends?",
+      "id": "nt-2427"
+    },
+    {
+      "targetValue": "The Dark Knight",
+      "utterance": "what movie grossed the most amount of money in one weekend?",
+      "id": "nt-4213"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many films grossed over five million in their first week?",
+      "id": "nt-4925"
+    },
+    {
+      "targetValue": "The Curious Case of Benjamin Button",
+      "utterance": "what was the last film of the year?",
+      "id": "nt-11331"
+    },
+    {
+      "targetValue": "High School Musical 3: Senior Year",
+      "utterance": "in addition to beverly hills chihuahua and four christmases, what other film spent more than one week as the number 1 movie in north america?",
+      "id": "nt-13247"
+    }
+  ],
+  "metadata": {
+    "title": "List of 2008 box office number-one films in Canada",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20952913&oldid=560172348",
+    "tableIndex": 0,
+    "hashcode": "915c19bae97cddfa53c80ead3d6af9c6aa96e174",
+    "id": 20952913,
+    "revision": 560172348
+  }
+}

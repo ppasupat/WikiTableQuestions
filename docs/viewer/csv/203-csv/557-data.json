@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "14 November 1933",
+      "utterance": "when was the first ship laid down?",
+      "id": "nt-1865"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many of the shiratsuyu-class ships sank in 1944?",
+      "id": "nt-3102"
+    },
+    {
+      "targetValue": "Yamakaze",
+      "utterance": "the yudachi was sunk on november 13,1942. which ship shared the same fate that year?",
+      "id": "nt-3217"
+    },
+    {
+      "targetValue": "Shiratsuyu",
+      "utterance": "what was the name of the only ship that did not sink?",
+      "id": "nt-6454"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many ships were sunk in action total?",
+      "id": "nt-6719"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many ships of the shiratsuyu-class were there total?",
+      "id": "nt-7443"
+    },
+    {
+      "targetValue": "9 July 1935",
+      "utterance": "when was the last ship laid down?",
+      "id": "nt-8810"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many ships sunk?",
+      "id": "nt-9846"
+    },
+    {
+      "targetValue": "Uraga Dock Company",
+      "utterance": "which shipyard was used the most?",
+      "id": "nt-12078"
+    },
+    {
+      "targetValue": "Shiratsuyu",
+      "utterance": "who left on novemeber 14th 1933",
+      "id": "nt-13890"
+    },
+    {
+      "targetValue": "1937",
+      "utterance": "during which year were the most ships completed?",
+      "id": "nt-14138"
+    }
+  ],
+  "metadata": {
+    "title": "Shiratsuyu-class destroyer",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13504057&oldid=599502780",
+    "tableIndex": 0,
+    "hashcode": "7b6a964faa3fb589b5d38252507aa28c42cb1e01",
+    "id": 13504057,
+    "revision": 599502780
+  }
+}

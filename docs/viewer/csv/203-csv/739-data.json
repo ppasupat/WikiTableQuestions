@@ -1,0 +1,86 @@
+{
+  "examples": [
+    {
+      "targetValue": "Russia",
+      "utterance": "in the 2003 summer universiade, which country won the most medals other than gold?",
+      "id": "nt-1703"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "croatia and thailand each won how many medals?",
+      "id": "nt-2503"
+    },
+    {
+      "targetValue": [
+        "Russia",
+        "Japan",
+        "United States"
+      ],
+      "utterance": "in the 2003 summer universiade, which three countries had at least 18 bronze medals?",
+      "id": "nt-2666"
+    },
+    {
+      "targetValue": "Mexico",
+      "utterance": "name a nation which did not get a gold medal.",
+      "id": "nt-2711"
+    },
+    {
+      "targetValue": "62",
+      "utterance": "how many medals total did ranks 10-15 earn?",
+      "id": "nt-5091"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "how many more more bronze medals did russia earn than china?",
+      "id": "nt-5260"
+    },
+    {
+      "targetValue": "93",
+      "utterance": "how many gold medals did the top 3 nations earn altogether?",
+      "id": "nt-5576"
+    },
+    {
+      "targetValue": "37",
+      "utterance": "how many nations received silver medals?",
+      "id": "nt-6967"
+    },
+    {
+      "targetValue": "China",
+      "utterance": "which nation received the largest amount of gold medals?",
+      "id": "nt-6991"
+    },
+    {
+      "targetValue": "Bosnia and Herzegovina",
+      "utterance": "which nation was ranked last?",
+      "id": "nt-7221"
+    },
+    {
+      "targetValue": "Israel",
+      "utterance": "which team won only two bronze medals?",
+      "id": "nt-9524"
+    },
+    {
+      "targetValue": "China",
+      "utterance": "in the 2003 summer universiade, which countries earned the highest total numbers of medals?",
+      "id": "nt-11389"
+    },
+    {
+      "targetValue": [
+        "China",
+        "Russia",
+        "South Korea",
+        "Ukraine"
+      ],
+      "utterance": "in the 2003 summer universiade, which countries had more gold medals than japan?",
+      "id": "nt-12750"
+    }
+  ],
+  "metadata": {
+    "title": "2003 Summer Universiade",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4225766&oldid=599588119",
+    "tableIndex": 0,
+    "hashcode": "04051f641da44d31b105076132ae4cd82414a157",
+    "id": 4225766,
+    "revision": 599588119
+  }
+}

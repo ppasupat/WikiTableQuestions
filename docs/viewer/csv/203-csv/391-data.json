@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "what was the number of players on the roster in 1952-53?",
+      "id": "nt-949"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "after the 1928-29 championship, how many times was the panellinios basket named champions of the panhellenic championship?",
+      "id": "nt-3165"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "other than the 1950s how many greek league finishes were there?",
+      "id": "nt-4989"
+    },
+    {
+      "targetValue": "Vasilis Goumas",
+      "utterance": "vasilis goumas or antonis christeas participated in more championships?",
+      "id": "nt-5598"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what was is the number of wins by roderick blakney?",
+      "id": "nt-7365"
+    },
+    {
+      "targetValue": "Vasilis Goumas",
+      "utterance": "who was on the roster from 1969- 1976? and how do you spell their name?",
+      "id": "nt-8828"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "before 1986 how many korac cup last 16 were there in europe?",
+      "id": "nt-9047"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "previous to 1977 how many greek leagues were champion?",
+      "id": "nt-9795"
+    },
+    {
+      "targetValue": "Nikos Pavlou",
+      "utterance": "what other panellinios basket coach shares the same first name as nikos nisiotis?",
+      "id": "nt-9938"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many years did the greek league have a finalist?",
+      "id": "nt-12360"
+    },
+    {
+      "targetValue": "2010-11",
+      "utterance": "when was the last appearance in the greek league?",
+      "id": "nt-13386"
+    }
+  ],
+  "metadata": {
+    "title": "Panellinios B.C.",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2144929&oldid=594593620",
+    "tableIndex": 0,
+    "hashcode": "24635b17b715bd86e37084015f5b6ae7dd4fdb50",
+    "id": 2144929,
+    "revision": 594593620
+  }
+}

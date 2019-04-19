@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Indianapolis Colts",
+      "utterance": "who did this player play for after he was on the los angeles rams?",
+      "id": "nt-1567"
+    },
+    {
+      "targetValue": "1984",
+      "utterance": "which year did dickerson earn the most rushing yards?",
+      "id": "nt-3085"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many tds did dickerson score in 1988?",
+      "id": "nt-3971"
+    },
+    {
+      "targetValue": "1993",
+      "utterance": "what was the only year that this player played for the atlanta falcons?",
+      "id": "nt-8128"
+    },
+    {
+      "targetValue": "146",
+      "utterance": "what is his total number of games played?",
+      "id": "nt-8132"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "did he play less than 20 years?",
+      "id": "nt-8548"
+    },
+    {
+      "targetValue": [
+        "Los Angeles Rams",
+        "Indianapolis Colts",
+        "Los Angeles Raiders",
+        "Atlanta Falcons"
+      ],
+      "utterance": "name each team that eric has played for.",
+      "id": "nt-10699"
+    },
+    {
+      "targetValue": "1993",
+      "utterance": "which year did dickerson earn the least rushing yards?",
+      "id": "nt-12407"
+    },
+    {
+      "targetValue": "1984",
+      "utterance": "in what year did he carry for the furthest yards?",
+      "id": "nt-12918"
+    },
+    {
+      "targetValue": "Los Angeles Rams",
+      "utterance": "did he score more tds with the los angeles rams or with indianapolis colts?",
+      "id": "nt-13955"
+    }
+  ],
+  "metadata": {
+    "title": "Eric Dickerson",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1326403&oldid=598887938",
+    "tableIndex": 2,
+    "hashcode": "45f9e7d83cbc16d36e175c094d8ec8041022519e",
+    "id": 1326403,
+    "revision": 598887938
+  }
+}

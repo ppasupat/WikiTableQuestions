@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "Russia",
+      "utterance": "what nation leads the medal count?",
+      "id": "nt-246"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "who finished with the top rank in total medals won?",
+      "id": "nt-953"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many countries do not have any gold medals?",
+      "id": "nt-1057"
+    },
+    {
+      "targetValue": "Japan",
+      "utterance": "what is the only country ranked in the top ten that did not earn a silver medal?",
+      "id": "nt-3360"
+    },
+    {
+      "targetValue": [
+        "Russia",
+        "China"
+      ],
+      "utterance": "list each of the countries that have more than 4 in gold medals and also more than 3 in silver medals.",
+      "id": "nt-3929"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many nations won at least 10 silver medals?",
+      "id": "nt-7541"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many nations earned no bronze medals?",
+      "id": "nt-8191"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many countries earned no gold medals?",
+      "id": "nt-8524"
+    },
+    {
+      "targetValue": "32",
+      "utterance": "how many nations are listed in the table?",
+      "id": "nt-8598"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "poland and south africa combined for how many total medals?",
+      "id": "nt-12308"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many total medals did belarus win?",
+      "id": "nt-13550"
+    }
+  ],
+  "metadata": {
+    "title": "Athletics at the 2003 Summer Universiade",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12305146&oldid=597698186",
+    "tableIndex": 2,
+    "hashcode": "6269d389275af67c9ef97214a8e6832ddf76610c",
+    "id": 12305146,
+    "revision": 597698186
+  }
+}

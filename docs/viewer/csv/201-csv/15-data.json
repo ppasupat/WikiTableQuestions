@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "Endless Road 7058",
+      "utterance": "based on sales figures, what auryn album is the most popular?",
+      "id": "nt-7156"
+    }
+  ],
+  "metadata": {
+    "title": "Auryn",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=555515&oldid=594649486",
+    "tableIndex": 3,
+    "hashcode": "2a37f8f1a113f01bd0d5c3990eb46233f189e67a",
+    "id": 555515,
+    "revision": 594649486
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Showdance",
+      "utterance": "which is the last dance on the chart",
+      "id": "nt-379"
+    },
+    {
+      "targetValue": "Showdance",
+      "utterance": "what is the last type of dance listed?",
+      "id": "nt-1307"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many dances at most scored at least 35?",
+      "id": "nt-3750"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many dancers achieved a best score of at least 40?",
+      "id": "nt-5406"
+    },
+    {
+      "targetValue": "34",
+      "utterance": "which is the first best score on the chart",
+      "id": "nt-5517"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many of the worst dancers scored less than 15 points for their dance?",
+      "id": "nt-8779"
+    },
+    {
+      "targetValue": "Jive",
+      "utterance": "which dance is previous to tango",
+      "id": "nt-10304"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many times was henrik normann the worst dancer for a specific dance?",
+      "id": "nt-11792"
+    },
+    {
+      "targetValue": "Argo Ader",
+      "utterance": "who scored higher, argo ader for the quickstep or lauri pedaja for the paso doble?",
+      "id": "nt-13110"
+    }
+  ],
+  "metadata": {
+    "title": "Tantsud tähtedega 2008",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=35734670&oldid=579553860",
+    "tableIndex": 4,
+    "hashcode": "162148b0f0ab96bed0ac5c8a560d39aafa79ff2d",
+    "id": 35734670,
+    "revision": 579553860
+  }
+}

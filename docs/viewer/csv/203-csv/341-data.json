@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Prokom Trefl Sopot",
+      "utterance": "who has a larger amount of championships as a plk medalist?",
+      "id": "nt-1823"
+    },
+    {
+      "targetValue": "Śląsk Eska Wrocław",
+      "utterance": "team that won before mazowszanka pekaes pruszków",
+      "id": "nt-3534"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many consecutive seasons did prokom trefl sopot place as either champion, runner-up or third place?",
+      "id": "nt-4822"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many seasons was anwil wloclawek runner-up before becoming champion?",
+      "id": "nt-5020"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many different champions were there in the 2000 - 2005 seasons?",
+      "id": "nt-5437"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what are the number of times anwil wloclawek is listed as the runner-up?",
+      "id": "nt-7170"
+    },
+    {
+      "targetValue": "Stelmet Zielona Góra",
+      "utterance": "how has won the first championship after gdynia won 3 in a row?",
+      "id": "nt-7766"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many third place wins can ericsson bobry bytom call his own?",
+      "id": "nt-9579"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what are the total amounts of times that prokom trefl sopot is listed as the champion?",
+      "id": "nt-11527"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "number of years that had a shut out score",
+      "id": "nt-13402"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many more seasons was prokom trefl sopot either champion or runner-up than zepter slask wroclaw?",
+      "id": "nt-13807"
+    }
+  ],
+  "metadata": {
+    "title": "Polish Basketball League",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5518041&oldid=596088709",
+    "tableIndex": 0,
+    "hashcode": "8c030e0c3f687b1f703e18b3c888cc8b0fad529f",
+    "id": 5518041,
+    "revision": 596088709
+  }
+}

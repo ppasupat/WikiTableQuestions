@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "after",
+      "utterance": "were the highest unemployment rates in japan before or after the year 2000?",
+      "id": "nt-1384"
+    },
+    {
+      "targetValue": "1995",
+      "utterance": "when in the 1990's did the inflation rate first become negative?",
+      "id": "nt-1904"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "in what years, between 1990 and 2004, did japan's unemployment rate reach 5% or higher?",
+      "id": "nt-5736"
+    },
+    {
+      "targetValue": "2002",
+      "utterance": "what year had the highest unemployment rate?",
+      "id": "nt-5961"
+    },
+    {
+      "targetValue": "1990",
+      "utterance": "what year saw the highest output growth rate in japan between the years 1990 and 2004?",
+      "id": "nt-10374"
+    }
+  ],
+  "metadata": {
+    "title": "Disinflation",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=700316&oldid=601058981",
+    "tableIndex": 0,
+    "hashcode": "9afa7db304ffd59c3a17e8f492867d148429c72f",
+    "id": 700316,
+    "revision": 601058981
+  }
+}

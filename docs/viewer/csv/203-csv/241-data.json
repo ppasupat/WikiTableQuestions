@@ -1,0 +1,108 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Amiga Active",
+        "Amiga Force",
+        "Amiga Power",
+        "Bazinama",
+        "Bazy Rayaneh",
+        "BGamer",
+        "BioGamer Girl Magazine",
+        "Commodore Force",
+        "Donya ye Bazi",
+        "EDGE",
+        "EGM²",
+        "Expert Gamer",
+        "FUN! Online Games Magazine",
+        "Gamemunition",
+        "Giochi per il mio computer",
+        "Game Developer (magazine)",
+        "Games for Windows: The Official Magazine",
+        "Game Informer",
+        "GameStar",
+        "GameNOW",
+        "gamesTM",
+        "LeveL",
+        "meeveo",
+        "NGamer",
+        "Newbez",
+        "Nintendo Force",
+        "Nintendo La Rivista Ufficiale",
+        "Nintendo Magazine System (Australia)",
+        "Official Dreamcast Magazine (UK)",
+        "Official Dreamcast Magazine (US)",
+        "Official Nintendo Magazine",
+        "Official PlayStation Magazine (Australia)",
+        "Official UK PlayStation Magazine",
+        "Official U.S. PlayStation Magazine",
+        "Official Xbox Magazine",
+        "Oyungezer",
+        "PC Gamer",
+        "PC Games",
+        "PC Mania",
+        "Pelit",
+        "Play",
+        "PlayStation Magazine Ufficiale",
+        "PlayStation Official Magazine (UK)",
+        "PlayStation: The Official Magazine",
+        "Planet PC",
+        "Popsoft",
+        "Power Unlimited",
+        "PSM3",
+        "PNM (Pure Nintendo)",
+        "Retro",
+        "Retro Gamer",
+        "Sega Force",
+        "Sega Saturn Magazine",
+        "SKOAR!",
+        "Thirteen1",
+        "Xbox World"
+      ],
+      "utterance": "which companies were founded at least after 1990?",
+      "id": "nt-1440"
+    },
+    {
+      "targetValue": [
+        "Computer and Video Games",
+        "Computer Gaming World",
+        "Electronic Games"
+      ],
+      "utterance": "which magazine was founded the earliest?",
+      "id": "nt-1896"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many publications with atari as a topic folded in consecutive years?",
+      "id": "nt-2486"
+    },
+    {
+      "targetValue": "Atari ST User",
+      "utterance": "what other company has the same founding year as ace?",
+      "id": "nt-4011"
+    },
+    {
+      "targetValue": "before",
+      "utterance": "were more magazines founded before or after 2000?",
+      "id": "nt-4930"
+    },
+    {
+      "targetValue": "Play",
+      "utterance": "which was china's first publication?",
+      "id": "nt-5944"
+    },
+    {
+      "targetValue": "U.K.",
+      "utterance": "is commodore associated with the u. k. or usa?",
+      "id": "nt-12880"
+    }
+  ],
+  "metadata": {
+    "title": "List of video game magazines",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6761737&oldid=601834956",
+    "tableIndex": 0,
+    "hashcode": "096847fb9de8bf1b54f65044a4062290218d1302",
+    "id": 6761737,
+    "revision": 601834956
+  }
+}

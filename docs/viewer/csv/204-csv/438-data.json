@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "49",
+      "utterance": "what was the difference in r&b ranking between \"come go with me\" and \"dance 4 me.\"?",
+      "id": "nt-1275"
+    },
+    {
+      "targetValue": "1993",
+      "utterance": "which years did the album \"changes\" not make it on the us dance list?",
+      "id": "nt-3709"
+    },
+    {
+      "targetValue": "1995",
+      "utterance": "what is the last year listed?",
+      "id": "nt-6917"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many christopher williams' songs made it into at least 2 of the 3 charts?",
+      "id": "nt-6951"
+    },
+    {
+      "targetValue": "Changes",
+      "utterance": "which album was the next one to end up on the us dance list after \"new jack city?\"",
+      "id": "nt-7366"
+    },
+    {
+      "targetValue": "1995",
+      "utterance": "what year was the last time christopher williams had a song in the top 25 in any chart?",
+      "id": "nt-11108"
+    }
+  ],
+  "metadata": {
+    "title": "Christopher Williams (singer)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1961201&oldid=598986169",
+    "tableIndex": 0,
+    "hashcode": "9f6d7930f60e448b826576f46fca0a2406bc91fd",
+    "id": 1961201,
+    "revision": 598986169
+  }
+}

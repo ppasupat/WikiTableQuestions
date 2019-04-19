@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "12",
+      "utterance": "what is the total number of established dioceses?",
+      "id": "nt-3445"
+    },
+    {
+      "targetValue": "San Juan de la Maguana",
+      "utterance": "which diocese has the largest area under its jurisdiction?",
+      "id": "nt-4246"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many dioceses were established before 1978?",
+      "id": "nt-4498"
+    },
+    {
+      "targetValue": "Santo Domingo",
+      "utterance": "what was the first dioceses established?",
+      "id": "nt-5688"
+    },
+    {
+      "targetValue": "Santo Domingo",
+      "utterance": "which was the first diocese to be formed?",
+      "id": "nt-9225"
+    },
+    {
+      "targetValue": "Santo Domingo",
+      "utterance": "which was the only diocese established before 1900?",
+      "id": "nt-11760"
+    },
+    {
+      "targetValue": "38 years",
+      "utterance": "how long has the barahona diocese been established?",
+      "id": "nt-12213"
+    },
+    {
+      "targetValue": "San Pedro de Macorís",
+      "utterance": "what diocese has the least area?",
+      "id": "nt-12684"
+    },
+    {
+      "targetValue": "Diocese",
+      "utterance": "which type of dioceses appears most often?",
+      "id": "nt-12834"
+    }
+  ],
+  "metadata": {
+    "title": "List of Roman Catholic dioceses in the Dominican Republic by name",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30914602&oldid=592136871",
+    "tableIndex": 0,
+    "hashcode": "e96a6a110a608964af126b5cc7fa155d1d2eb56a",
+    "id": 30914602,
+    "revision": 592136871
+  }
+}

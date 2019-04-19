@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "0",
+      "utterance": "how many were scrapped at immingham rft before the year 2002?",
+      "id": "nt-2616"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many years were between the dates the train phoenix was withdrawn and when it was scrapped?",
+      "id": "nt-4746"
+    },
+    {
+      "targetValue": "30",
+      "utterance": "how many were withdrawn during the year 2002?",
+      "id": "nt-6178"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "what is the number of trains that are still in service?",
+      "id": "nt-10322"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many are still in service?",
+      "id": "nt-12033"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many locomotives were operated by ews?",
+      "id": "nt-12448"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many were written-off because of accidents?",
+      "id": "nt-13404"
+    }
+  ],
+  "metadata": {
+    "title": "British Rail Class 86",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=978170&oldid=595596124",
+    "tableIndex": 2,
+    "hashcode": "6a2b4d52f25baace3e3553c1176fbe216c54ea71",
+    "id": 978170,
+    "revision": 595596124
+  }
+}

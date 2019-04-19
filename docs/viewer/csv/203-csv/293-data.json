@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "NBC",
+        "ABC"
+      ],
+      "utterance": "which network aired more shows about characters with hiv than cbs?",
+      "id": "nt-366"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many shows aired before 1992?",
+      "id": "nt-1245"
+    },
+    {
+      "targetValue": "Mark Fowler",
+      "utterance": "who was the last character on bbc to be hiv positive?",
+      "id": "nt-1373"
+    },
+    {
+      "targetValue": "An Early Frost",
+      "utterance": "television movie to openly discuss aids.",
+      "id": "nt-2416"
+    },
+    {
+      "targetValue": "An Early Frost",
+      "utterance": "what was the first made for television film to address people with aids?",
+      "id": "nt-5094"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "collectively, how many shows did hbo and mtv air?",
+      "id": "nt-7538"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of television programs aired by cbs involving charachters with hiv?",
+      "id": "nt-8587"
+    },
+    {
+      "targetValue": "Ryan White",
+      "utterance": "who was the first character on abc to be hiv positive?",
+      "id": "nt-9910"
+    },
+    {
+      "targetValue": "Murder One",
+      "utterance": "what was the last show aired by abc?",
+      "id": "nt-12348"
+    }
+  ],
+  "metadata": {
+    "title": "List of HIV-positive television characters",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1884605&oldid=594457764",
+    "tableIndex": 0,
+    "hashcode": "e0f93674104a5858e0957076be9bf4289d92380c",
+    "id": 1884605,
+    "revision": 594457764
+  }
+}

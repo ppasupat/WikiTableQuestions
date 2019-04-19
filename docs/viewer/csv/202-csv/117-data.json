@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "United Kingdom",
+      "utterance": "who was sunk the most?",
+      "id": "nt-13676"
+    }
+  ],
+  "metadata": {
+    "title": "German submarine U-559",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=256201&oldid=593060955",
+    "tableIndex": 0,
+    "hashcode": "44027b222d7e6fdf25ca44179ed0005bc7eeab44",
+    "id": 256201,
+    "revision": 593060955
+  }
+}

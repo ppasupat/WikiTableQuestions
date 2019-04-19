@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Wayne Gretzky",
+      "utterance": "who is the only player who had their number retired by the nhl for all teams?",
+      "id": "nt-325"
+    },
+    {
+      "targetValue": "35",
+      "utterance": "what was the next number to be retired after february 6, 2000?",
+      "id": "nt-338"
+    },
+    {
+      "targetValue": "Eddie Giacomin",
+      "utterance": "the only player that started his career in 1965",
+      "id": "nt-2251"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what numbers were retired before 1989?",
+      "id": "nt-3634"
+    },
+    {
+      "targetValue": "3 years",
+      "utterance": "how long was gretzky's career?",
+      "id": "nt-4414"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the difference, in years, between the length of eddie giacomin's career and mark messier?",
+      "id": "nt-4956"
+    },
+    {
+      "targetValue": "Rod Gilbert",
+      "utterance": "who's a top player in the rw position?",
+      "id": "nt-5580"
+    },
+    {
+      "targetValue": "Rod Gilbert",
+      "utterance": "harry howell is before who",
+      "id": "nt-10049"
+    },
+    {
+      "targetValue": "Mark Messier",
+      "utterance": "who's the only player with a 2-phase career?",
+      "id": "nt-10684"
+    },
+    {
+      "targetValue": "Rod Gilbert",
+      "utterance": "of these players, who had the longest career?",
+      "id": "nt-10813"
+    }
+  ],
+  "metadata": {
+    "title": "New York Rangers",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=66881&oldid=602443398",
+    "tableIndex": 1,
+    "hashcode": "b66e76157fa7960b6ca1c1769fe9f5dda09baeb7",
+    "id": 66881,
+    "revision": 602443398
+  }
+}

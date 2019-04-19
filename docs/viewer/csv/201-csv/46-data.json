@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "Ilse",
+      "utterance": "which river is positioned right, with a drainage area for 11.8",
+      "id": "nt-5621"
+    },
+    {
+      "targetValue": "Banfe",
+      "utterance": "which lahn that exceeds 300 m also has a length that exceeds 10 km?",
+      "id": "nt-11159"
+    },
+    {
+      "targetValue": "Weil",
+      "utterance": "which tributary has their position to the left with a length of 46.6 km?",
+      "id": "nt-11682"
+    }
+  ],
+  "metadata": {
+    "title": "Lahn",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=390960&oldid=602200095",
+    "tableIndex": 0,
+    "hashcode": "5217b20ca06046dcaf2d48a33be40d3ef0dd9b07",
+    "id": 390960,
+    "revision": 602200095
+  }
+}

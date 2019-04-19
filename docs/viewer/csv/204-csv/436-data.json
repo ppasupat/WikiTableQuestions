@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "8 games",
+      "utterance": "how long (in number of contests) was the teams longest losing streak?",
+      "id": "nt-852"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many games did the 201213 austin peay state governors basketball team win?",
+      "id": "nt-4143"
+    },
+    {
+      "targetValue": "vs. Gardner-Webb",
+      "utterance": "which contest was held in the same site as the game versus western carolina?",
+      "id": "nt-5923"
+    },
+    {
+      "targetValue": "2,023",
+      "utterance": "what were the number of people that attended the game on 11/28/2012?",
+      "id": "nt-7884"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what was the number of wins for the 201213 austin peay state governors basketball team?",
+      "id": "nt-8526"
+    },
+    {
+      "targetValue": "DePaul",
+      "utterance": "who is the opponent listed after wku?",
+      "id": "nt-8555"
+    },
+    {
+      "targetValue": "12/08/2012*",
+      "utterance": "which game had more in attendance, 11/28 or 12/08?",
+      "id": "nt-14013"
+    }
+  ],
+  "metadata": {
+    "title": "2012–13 Austin Peay State Governors basketball team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=37300061&oldid=569436071",
+    "tableIndex": 0,
+    "hashcode": "01e5d342df3e9283788803489ef3ebb87fbab768",
+    "id": 37300061,
+    "revision": 569436071
+  }
+}

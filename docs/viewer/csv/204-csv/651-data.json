@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "1100",
+      "utterance": "how many more previous points does the australian open have than the qatar total open?",
+      "id": "nt-1354"
+    },
+    {
+      "targetValue": "Western and Southern Open",
+      "utterance": "what championship was played just before the us open?",
+      "id": "nt-1380"
+    },
+    {
+      "targetValue": "US Open",
+      "utterance": "what was the latest championship to be played in the grand slam category?",
+      "id": "nt-1400"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "what was the total number of points scored in this player's first two games of this season?",
+      "id": "nt-1859"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what is the number of games played on hard surfaces this season?",
+      "id": "nt-4055"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what number of championships had hard surfaces?",
+      "id": "nt-9115"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many championships had at most 900 previous points.",
+      "id": "nt-9867"
+    },
+    {
+      "targetValue": "780",
+      "utterance": "what is the total of new points that have been given?",
+      "id": "nt-9971"
+    },
+    {
+      "targetValue": "Serena Williams",
+      "utterance": "who did this player lose her first game to this season?",
+      "id": "nt-10284"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "on how many dates were there at least 100 prev. points?",
+      "id": "nt-10297"
+    },
+    {
+      "targetValue": "Wimbledon",
+      "utterance": "which was the first location to uses a grass surface?",
+      "id": "nt-12522"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many total championships are included?",
+      "id": "nt-12699"
+    },
+    {
+      "targetValue": "105",
+      "utterance": "what is the difference between the new points and previous points in the brisbane international?",
+      "id": "nt-13444"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many games did this player withdraw from due to injuries?",
+      "id": "nt-13456"
+    }
+  ],
+  "metadata": {
+    "title": "2014 Victoria Azarenka tennis season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=40984220&oldid=601090551",
+    "tableIndex": 1,
+    "hashcode": "80b5a41db6e7c0cbdd2533a4b33a0d37c2facdef",
+    "id": 40984220,
+    "revision": 601090551
+  }
+}

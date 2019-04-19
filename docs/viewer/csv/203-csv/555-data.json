@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "69",
+      "utterance": "what was dan pohl's first round score?",
+      "id": "nt-2941"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many strokes was isao aoki behind larry nelson?",
+      "id": "nt-3396"
+    },
+    {
+      "targetValue": "Larry Nelson",
+      "utterance": "who won the most money?",
+      "id": "nt-4635"
+    },
+    {
+      "targetValue": "Greg Norman",
+      "utterance": "who was the only player from australia?",
+      "id": "nt-6791"
+    },
+    {
+      "targetValue": "Larry Nelson",
+      "utterance": "what golfer received the most money in the 1981 pga championship?",
+      "id": "nt-7697"
+    },
+    {
+      "targetValue": "Bob Gilder",
+      "utterance": "who shot the highest single round?",
+      "id": "nt-8834"
+    },
+    {
+      "targetValue": "Larry Nelson",
+      "utterance": "which player came in first place?",
+      "id": "nt-9661"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what were the total number of players?",
+      "id": "nt-10696"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what was the difference in score between fuzzy zoeller and larry nelson?",
+      "id": "nt-11099"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many players placed 4th?",
+      "id": "nt-12323"
+    }
+  ],
+  "metadata": {
+    "title": "1981 PGA Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18168735&oldid=588326368",
+    "tableIndex": 2,
+    "hashcode": "4bb2824cb80c7db33a9282d9f5d975011820747d",
+    "id": 18168735,
+    "revision": 588326368
+  }
+}

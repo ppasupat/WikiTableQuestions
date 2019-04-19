@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Pulse",
+      "utterance": "\"niji-iro no sneaker\" was released on march 5, 1991; which single was released the previous year?",
+      "id": "nt-1534"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many albums were released in the month of november?",
+      "id": "nt-1709"
+    },
+    {
+      "targetValue": "Niji-iro no Sneaker",
+      "utterance": "pulse was the first album what was the second?",
+      "id": "nt-2824"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "how many albums/singles were released after the year 2000?",
+      "id": "nt-2978"
+    },
+    {
+      "targetValue": "Yume wo dakishimete",
+      "utterance": "the album whatever came before what album?",
+      "id": "nt-3077"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of times that \"pulse\" had been released?",
+      "id": "nt-3083"
+    },
+    {
+      "targetValue": "92",
+      "utterance": "what was the number of pulse chart position?",
+      "id": "nt-7657"
+    },
+    {
+      "targetValue": "VINTAGE White",
+      "utterance": "what is the title of the last album?",
+      "id": "nt-9013"
+    },
+    {
+      "targetValue": "Pulse",
+      "utterance": "what was the name of the first album released?",
+      "id": "nt-10566"
+    },
+    {
+      "targetValue": "28",
+      "utterance": "how many albums held a chart position of at least 10 or less?",
+      "id": "nt-11708"
+    }
+  ],
+  "metadata": {
+    "title": "Megumi Hayashibara",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=248548&oldid=600593201",
+    "tableIndex": 0,
+    "hashcode": "376536a77ffe51b648def24ef2c86fe2137c36b9",
+    "id": 248548,
+    "revision": 600593201
+  }
+}

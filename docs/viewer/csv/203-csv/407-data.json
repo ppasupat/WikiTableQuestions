@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Liberal",
+      "utterance": "which party has the most membership?",
+      "id": "nt-2151"
+    },
+    {
+      "targetValue": "Ian Pratt",
+      "utterance": "hame the last member listed whose last name begins with \"p\".",
+      "id": "nt-3624"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the total number of members whose term expires in 1989?",
+      "id": "nt-5291"
+    },
+    {
+      "targetValue": "William Atkinson",
+      "utterance": "who has had the shortest term in office",
+      "id": "nt-5337"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "what is the number of people in the liberal party?",
+      "id": "nt-5458"
+    },
+    {
+      "targetValue": "Liberal",
+      "utterance": "what was phil lockyer's party?",
+      "id": "nt-5969"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many members were party of lower west province?",
+      "id": "nt-8777"
+    }
+  ],
+  "metadata": {
+    "title": "Members of the Western Australian Legislative Council, 1983–1986",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19143800&oldid=551354908",
+    "tableIndex": 0,
+    "hashcode": "d68200d3ab245e5a582a9e014b9a900f92bdbf72",
+    "id": 19143800,
+    "revision": 551354908
+  }
+}

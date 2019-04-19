@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "Yes",
+      "utterance": "is tripoli still considered a municipality in arcadia since its 2011 reformation?",
+      "id": "nt-414"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many old municipalities were in tripoli?",
+      "id": "nt-5752"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "when arcadia was reformed in 2011, how many municipalities were created?",
+      "id": "nt-9505"
+    },
+    {
+      "targetValue": "South Kynouria",
+      "utterance": "what is the new municipality of tyros?",
+      "id": "nt-12888"
+    }
+  ],
+  "metadata": {
+    "title": "Arcadia",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=58227&oldid=601255791",
+    "tableIndex": 0,
+    "hashcode": "6150f88b5655e4b955b94d7ef1fc63000b789def",
+    "id": 58227,
+    "revision": 601255791
+  }
+}

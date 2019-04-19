@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "17 weeks",
+      "utterance": "how long were employees of nynex on strike?",
+      "id": "nt-318"
+    },
+    {
+      "targetValue": [
+        "1986",
+        "1989"
+      ],
+      "utterance": "at & t had consectutive strikes on the data table in what years",
+      "id": "nt-644"
+    },
+    {
+      "targetValue": "50,000",
+      "utterance": "how many total people were impacted by the southern bell telephone co. strike in 1955?",
+      "id": "nt-1698"
+    },
+    {
+      "targetValue": "1983",
+      "utterance": "in what year were the the most workers affected by a strike?",
+      "id": "nt-2162"
+    },
+    {
+      "targetValue": "1983",
+      "utterance": "did the bell system strike last longer in 1971 or 1983?",
+      "id": "nt-3025"
+    },
+    {
+      "targetValue": "1 week",
+      "utterance": "how long was the strike in 1971",
+      "id": "nt-4156"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many strikes had above 200,000 members affected?",
+      "id": "nt-4851"
+    },
+    {
+      "targetValue": "125,000",
+      "utterance": "what is the total number of verizon workers affected by a strike?",
+      "id": "nt-7690"
+    },
+    {
+      "targetValue": "2 Days",
+      "utterance": "how long did the at&t strike of 2012 last?",
+      "id": "nt-8688"
+    },
+    {
+      "targetValue": "45",
+      "utterance": "how many total days was at&t on strike?",
+      "id": "nt-8771"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "before 1989 how many strikes were there?",
+      "id": "nt-8982"
+    },
+    {
+      "targetValue": "Southern Bell Telephone Co.",
+      "utterance": "the company with the most days on strike",
+      "id": "nt-9507"
+    }
+  ],
+  "metadata": {
+    "title": "Communications Workers of America",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=591645&oldid=541559498",
+    "tableIndex": 0,
+    "hashcode": "0fbe07246a8b2e46336a0164adad82319d13928f",
+    "id": 591645,
+    "revision": 541559498
+  }
+}

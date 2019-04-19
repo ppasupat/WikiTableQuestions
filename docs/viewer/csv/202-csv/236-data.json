@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "Credit Agricole",
+      "utterance": "which bank has four times as many assets at taib yatirim bank?",
+      "id": "nt-9771"
+    }
+  ],
+  "metadata": {
+    "title": "List of banks in Turkey",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3678519&oldid=596004414",
+    "tableIndex": 0,
+    "hashcode": "0b3e541cfe082a7e69158711c6c0fec1a98448c5",
+    "id": 3678519,
+    "revision": 596004414
+  }
+}

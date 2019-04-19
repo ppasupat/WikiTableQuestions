@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "United States",
+      "utterance": "which country laughed the first ship in 1878?",
+      "id": "nt-2292"
+    },
+    {
+      "targetValue": "68",
+      "utterance": "how many days apart were the launches of the rio de janeiro and the bayern?",
+      "id": "nt-3661"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "give the number of ships that were launched in 1878.",
+      "id": "nt-4194"
+    },
+    {
+      "targetValue": "Passenger ship",
+      "utterance": "the united states launched the first ship, but what type was it?",
+      "id": "nt-5524"
+    },
+    {
+      "targetValue": "Gannet",
+      "utterance": "what was the next ship launch after the pegasus?",
+      "id": "nt-5755"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "count how many different classes of ships were launched.",
+      "id": "nt-5934"
+    },
+    {
+      "targetValue": "City of Rio de Janeiro",
+      "utterance": "which was the first ship to be launched in 1878?",
+      "id": "nt-8544"
+    },
+    {
+      "targetValue": "A. G. Vulcan",
+      "utterance": "who built the last ship on the table?",
+      "id": "nt-9462"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many ships did germany launch in 1878?",
+      "id": "nt-12600"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many donterel-class sloops were there in 1878?",
+      "id": "nt-12839"
+    },
+    {
+      "targetValue": "Brage",
+      "utterance": "which boat had the same class as the nor?",
+      "id": "nt-13197"
+    }
+  ],
+  "metadata": {
+    "title": "List of ship launches in 1878",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18548768&oldid=550325606",
+    "tableIndex": 0,
+    "hashcode": "c34fa0ad68e4582e1059527cba7215627c6fb163",
+    "id": 18548768,
+    "revision": 550325606
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "10",
+      "utterance": "how many have a weight over 120 grams?",
+      "id": "nt-471"
+    },
+    {
+      "targetValue": "S01",
+      "utterance": "does the s01 model have vibration reduction or does the s30 model?",
+      "id": "nt-1872"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many were released in 2012?",
+      "id": "nt-2014"
+    },
+    {
+      "targetValue": "S30",
+      "utterance": "other than the s3300, name one that has a 2.7 inch screen.",
+      "id": "nt-2508"
+    },
+    {
+      "targetValue": "S9300",
+      "utterance": "which model with a screen size of 3 inches did not weigh less than 210 g?",
+      "id": "nt-3882"
+    },
+    {
+      "targetValue": "S800c",
+      "utterance": "which model has the largest screen size?",
+      "id": "nt-4030"
+    },
+    {
+      "targetValue": "S01",
+      "utterance": "which model released in august 1012 had the least kpixels?",
+      "id": "nt-4507"
+    },
+    {
+      "targetValue": "S9300",
+      "utterance": "which model weighs the most?",
+      "id": "nt-8199"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many models weighed between 100 and 200 grams?",
+      "id": "nt-9848"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many models had a screen size less than 3 inches?",
+      "id": "nt-11198"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what is the total number of different models?",
+      "id": "nt-12006"
+    }
+  ],
+  "metadata": {
+    "title": "Nikon Coolpix series",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1017391&oldid=600403032",
+    "tableIndex": 4,
+    "hashcode": "bd23de88f54ad07ce67c88af3e31267448738279",
+    "id": 1017391,
+    "revision": 600403032
+  }
+}

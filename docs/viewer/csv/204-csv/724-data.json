@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Santiago Gonzalez",
+      "utterance": "who was this player's next partner after playing with marc lopez in may 2011?",
+      "id": "nt-988"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the number of winning outcomes?",
+      "id": "nt-3116"
+    },
+    {
+      "targetValue": "Fernando Verdasco",
+      "utterance": "who won both the st.petersburg open and the atp world tour finals?",
+      "id": "nt-3840"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the number of times a hard surface was used?",
+      "id": "nt-4958"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many runner-ups at most are listed?",
+      "id": "nt-6181"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the total number of runner-ups listed on the chart?",
+      "id": "nt-6441"
+    },
+    {
+      "targetValue": "Copa Claro, Buenos Aires, Argentina",
+      "utterance": "what tournament was played after the kremlin cup?",
+      "id": "nt-6965"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many winners are there?",
+      "id": "nt-7667"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many partners from spain are listed?",
+      "id": "nt-8393"
+    },
+    {
+      "targetValue": "ATP World Tour Finals",
+      "utterance": "which tournament has the largest number?",
+      "id": "nt-8497"
+    },
+    {
+      "targetValue": "Abierto Mexicano TELCEL, Acapulco, Mexico",
+      "utterance": "what tournament was before the estoril open?",
+      "id": "nt-11687"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many tournaments has this player won in his career so far?",
+      "id": "nt-11955"
+    }
+  ],
+  "metadata": {
+    "title": "David Marrero",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17666765&oldid=601633151",
+    "tableIndex": 4,
+    "hashcode": "4af2e4a4a22444ca093430a91efb68b558180fbe",
+    "id": 17666765,
+    "revision": 601633151
+  }
+}

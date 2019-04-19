@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Large Professor",
+      "utterance": "who is the first producer with the least amount of time?",
+      "id": "nt-897"
+    },
+    {
+      "targetValue": "\"Reality Check\"",
+      "utterance": "what is the name of the title after number 9?",
+      "id": "nt-3489"
+    },
+    {
+      "targetValue": "\"Same Old Drama\"",
+      "utterance": "which is the shortest song?",
+      "id": "nt-3772"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what were the number of performers on \"the joint right here (remix)\"",
+      "id": "nt-9640"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total number of tracks produced by phd?",
+      "id": "nt-10427"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what is total number of title?",
+      "id": "nt-10694"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many tracks last for more than three minutes?",
+      "id": "nt-10710"
+    },
+    {
+      "targetValue": "\"Good To Go\"",
+      "utterance": "what is the only song q-tip performs?",
+      "id": "nt-10779"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many tracks have at least two performers?",
+      "id": "nt-10788"
+    },
+    {
+      "targetValue": "\"I See Dead People\"",
+      "utterance": "who is the only title to get 4:26?",
+      "id": "nt-11247"
+    }
+  ],
+  "metadata": {
+    "title": "Retroactive (album)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=24721560&oldid=550404023",
+    "tableIndex": 1,
+    "hashcode": "7b0c5b02ebebf74943f9a9daf99f4f3dac93fdc7",
+    "id": 24721560,
+    "revision": 550404023
+  }
+}

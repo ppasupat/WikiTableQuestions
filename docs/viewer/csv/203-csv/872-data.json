@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Falun",
+      "utterance": "which competition had the top number of contestants?",
+      "id": "nt-1179"
+    },
+    {
+      "targetValue": "1965",
+      "utterance": "what year had the least number of contestants?",
+      "id": "nt-4146"
+    },
+    {
+      "targetValue": "1965",
+      "utterance": "which year were there less than 672 contestants?",
+      "id": "nt-4291"
+    },
+    {
+      "targetValue": "Skåne, Blekinge, Denmark",
+      "utterance": "what is the name of the location listed first on this list?",
+      "id": "nt-6815"
+    },
+    {
+      "targetValue": "8253",
+      "utterance": "what is the total number of contestants that participated in 1972?",
+      "id": "nt-7375"
+    },
+    {
+      "targetValue": "45",
+      "utterance": "how many locations had at least 5,000 or more contestants?",
+      "id": "nt-7481"
+    },
+    {
+      "targetValue": "39",
+      "utterance": "what are the number of times there were more than 10,000 contestants?",
+      "id": "nt-7790"
+    },
+    {
+      "targetValue": "Sweden Nils Bohman",
+      "utterance": "who was the first winner men's winner, in 1965?",
+      "id": "nt-10256"
+    },
+    {
+      "targetValue": "1985",
+      "utterance": "which year had the top number of contestants competing for the title?",
+      "id": "nt-11059"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many years were there more than 156 contestants but less than 1,000?",
+      "id": "nt-12434"
+    },
+    {
+      "targetValue": "Lars Lönnkvist",
+      "utterance": "who's name was listed the most under male winner's.",
+      "id": "nt-13947"
+    }
+  ],
+  "metadata": {
+    "title": "O-Ringen",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3634830&oldid=593179044",
+    "tableIndex": 0,
+    "hashcode": "8a1bc0030c1ca7b6bc0b8887f5aa72d741875fd3",
+    "id": 3634830,
+    "revision": 593179044
+  }
+}

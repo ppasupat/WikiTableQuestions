@@ -1,0 +1,69 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "keiji had how many number of reigns?",
+      "id": "nt-3893"
+    },
+    {
+      "targetValue": "25",
+      "utterance": "how long is the combined days reigned for genichiro tenryu?",
+      "id": "nt-5247"
+    },
+    {
+      "targetValue": [
+        "Shinya Hashimoto",
+        "Kazuyuki Fujita",
+        "Big Van Vader",
+        "Shinsuke Nakamura",
+        "Riki Chōshū"
+      ],
+      "utterance": "each of these wrestlers came from a reign of 3",
+      "id": "nt-5925"
+    },
+    {
+      "targetValue": "Kensuke Sasaki",
+      "utterance": "who is the only wrestler with 5 number of reigns?",
+      "id": "nt-8674"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how combined defenses does yuji nagata have?",
+      "id": "nt-8723"
+    },
+    {
+      "targetValue": [
+        "Brock Lesnar",
+        "Yoshihiro Takayama",
+        "Togi Makabe",
+        "Nobuhiko Takada",
+        "Bob Sapp",
+        "Salman Hashimikov",
+        "Tadao Yasuda",
+        "Manabu Nakanishi",
+        "Masahiro Chono",
+        "Genichiro Tenryu"
+      ],
+      "utterance": "antonio inoki came from reign 1 and so did ___",
+      "id": "nt-10963"
+    },
+    {
+      "targetValue": "1,219",
+      "utterance": "the difference between the 1 rank defenses and days",
+      "id": "nt-13028"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "what is the difference in combined defenses between hiroshi tanahashi and kensuke sasaki?",
+      "id": "nt-13884"
+    }
+  ],
+  "metadata": {
+    "title": "IWGP Heavyweight Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2143192&oldid=601363841",
+    "tableIndex": 3,
+    "hashcode": "32c93f9dcb43e2a2919a7538cba2a4be912a9a82",
+    "id": 2143192,
+    "revision": 601363841
+  }
+}

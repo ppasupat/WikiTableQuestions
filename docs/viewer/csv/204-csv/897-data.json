@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many consecutive weeks did the the gators win until the had their first lost in the 2010 season?",
+      "id": "nt-514"
+    },
+    {
+      "targetValue": "13 points",
+      "utterance": "what was the difference between the two scores of the last game?",
+      "id": "nt-5715"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many games did the university of florida win by at least 10 points?",
+      "id": "nt-6215"
+    },
+    {
+      "targetValue": "41 points",
+      "utterance": "what was the most the university of florida won by?",
+      "id": "nt-6810"
+    },
+    {
+      "targetValue": "Gators",
+      "utterance": "the gators won the game on september 25, 2010. who won the previous game?",
+      "id": "nt-7779"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many games were played at the ben hill griffin stadium during the 2010-2011 season?",
+      "id": "nt-9162"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what is the number of games played in teh 2010-2011 season",
+      "id": "nt-10667"
+    },
+    {
+      "targetValue": "ESPN",
+      "utterance": "what tv network showed the largest number of games during the 2010/2011 season?",
+      "id": "nt-13711"
+    }
+  ],
+  "metadata": {
+    "title": "2010 Florida Gators football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=25244849&oldid=598474128",
+    "tableIndex": 0,
+    "hashcode": "1e7bb9cf91be54fd111fb8864f960991d21d2ded",
+    "id": 25244849,
+    "revision": 598474128
+  }
+}

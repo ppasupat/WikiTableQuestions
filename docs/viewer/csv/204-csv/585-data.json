@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "purdue had how many consecutive in the 1960s?",
+      "id": "nt-1912"
+    },
+    {
+      "targetValue": "Bud Brown",
+      "utterance": "who the only player who went to georgetown?",
+      "id": "nt-2974"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what was the difference, in years, between the year when damon bailey won the award and the year he was drafted by the pacers?",
+      "id": "nt-5161"
+    },
+    {
+      "targetValue": "Zak Irvin",
+      "utterance": "who won the last one?",
+      "id": "nt-5355"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many award winners came from purdue during the years 1950-60?",
+      "id": "nt-6270"
+    },
+    {
+      "targetValue": "Milwaukee Bucks",
+      "utterance": "kent benson and glenn robinson were both award winners to be drafted by which nba team?",
+      "id": "nt-7907"
+    },
+    {
+      "targetValue": "George Crowe",
+      "utterance": "who won an award before ed schienbein in 1940?",
+      "id": "nt-9018"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many went to cincinnati?",
+      "id": "nt-9078"
+    },
+    {
+      "targetValue": "Cody Zeller",
+      "utterance": "who was the last player who went to indiana to win an award?",
+      "id": "nt-12844"
+    },
+    {
+      "targetValue": "26",
+      "utterance": "how many players went to indiana",
+      "id": "nt-13966"
+    },
+    {
+      "targetValue": "George Crowe",
+      "utterance": "who won the first one?",
+      "id": "nt-14045"
+    }
+  ],
+  "metadata": {
+    "title": "Indiana Mr. Basketball",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17104986&oldid=592434172",
+    "tableIndex": 0,
+    "hashcode": "47f6b03f5e29a250b84903e4855e1f8ab13fa7d3",
+    "id": 17104986,
+    "revision": 592434172
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "what was the average number of years served by a coach?",
+      "id": "nt-30"
+    },
+    {
+      "targetValue": "1 year",
+      "utterance": "how long was joseph black a coach?",
+      "id": "nt-70"
+    },
+    {
+      "targetValue": "F. C. Owen",
+      "utterance": "which coach served previous to ardis smith?",
+      "id": "nt-1263"
+    },
+    {
+      "targetValue": "5 years",
+      "utterance": "how long was thomas stouch coach?",
+      "id": "nt-2573"
+    },
+    {
+      "targetValue": "Gordon W. Lewis",
+      "utterance": "who was coach after b.l. noojin?",
+      "id": "nt-3232"
+    },
+    {
+      "targetValue": "Joe Sewell",
+      "utterance": "what was the only coach to serve for only six years?",
+      "id": "nt-3431"
+    },
+    {
+      "targetValue": "Dixie Howell",
+      "utterance": "who was coach before tilden campbell?",
+      "id": "nt-4344"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what were the total number of years wallace wade was a coach?",
+      "id": "nt-5447"
+    },
+    {
+      "targetValue": "Tilden Campbell",
+      "utterance": "which coach had the most years as a coach?",
+      "id": "nt-5762"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what's the total combined years for thomas stouch and schwartz?",
+      "id": "nt-6163"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what number of years did d.v. graves serve?",
+      "id": "nt-7798"
+    },
+    {
+      "targetValue": "Jess Neely",
+      "utterance": "what is the name of the next coach after hank crisp?",
+      "id": "nt-10934"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many more years did d. v. graves serve compared to j. f. jenkins?",
+      "id": "nt-11874"
+    },
+    {
+      "targetValue": "Schwartz",
+      "utterance": "which coach served next after thomas stouch?",
+      "id": "nt-13881"
+    }
+  ],
+  "metadata": {
+    "title": "Alabama Crimson Tide baseball",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17526783&oldid=602303887",
+    "tableIndex": 0,
+    "hashcode": "0cea906513f599a146045d2d23a7e789d5749c18",
+    "id": 17526783,
+    "revision": 602303887
+  }
+}

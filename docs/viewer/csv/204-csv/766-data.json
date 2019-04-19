@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many times did yusuf win?",
+      "id": "nt-3141"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many total athletes were from the us?",
+      "id": "nt-3162"
+    },
+    {
+      "targetValue": "100 m",
+      "utterance": "christine aaron at the meeting gaz de france paris and veronica campbell at the weltklasse zurich both won at what event?",
+      "id": "nt-4263"
+    },
+    {
+      "targetValue": "High jump",
+      "utterance": "what event is listed previous to the pole vault?",
+      "id": "nt-6236"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many athletes show up on this chart at least 5 times?",
+      "id": "nt-7352"
+    },
+    {
+      "targetValue": "8:28.87",
+      "utterance": "how long did it take maryam yusuf jamal to finish the 3000 meter at the bislett games oslo?",
+      "id": "nt-13038"
+    }
+  ],
+  "metadata": {
+    "title": "2005 IAAF Golden League",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=24170916&oldid=482444620",
+    "tableIndex": 3,
+    "hashcode": "62a6c46327affaa56922a21405349518762c9087",
+    "id": 24170916,
+    "revision": 482444620
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "10",
+      "utterance": "how many matches were held in the netherlands?",
+      "id": "nt-277"
+    },
+    {
+      "targetValue": "Alessandro Campagna",
+      "utterance": "was the match against allesandro campagna or andy souwer shorter?",
+      "id": "nt-910"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "how many wins are there in total?",
+      "id": "nt-2357"
+    },
+    {
+      "targetValue": "It's Showtime 2009 Lommel",
+      "utterance": "which event lasted the longest time?",
+      "id": "nt-4859"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive losses took place?",
+      "id": "nt-4884"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many events lasted 3 rounds?",
+      "id": "nt-5591"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many rounds did the fight against ibrahim benazza last?",
+      "id": "nt-9130"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many events did grigorian attend in 2010?",
+      "id": "nt-10117"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many times did grigorian have a match in belgium?",
+      "id": "nt-12916"
+    },
+    {
+      "targetValue": "It's Showtime 2009 Lommel",
+      "utterance": "which event ended with the longest time?",
+      "id": "nt-13257"
+    }
+  ],
+  "metadata": {
+    "title": "Harut Grigorian",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=35274907&oldid=599112871",
+    "tableIndex": 0,
+    "hashcode": "bb2071032c9d471e487d0b7f4b10add952e80680",
+    "id": 35274907,
+    "revision": 599112871
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Ireland",
+      "utterance": "where is dublin?",
+      "id": "nt-1097"
+    },
+    {
+      "targetValue": "Bulgaria",
+      "utterance": "what team did spain play before they played portugal?",
+      "id": "nt-1695"
+    },
+    {
+      "targetValue": "Dublin, Ireland",
+      "utterance": "what was the next venue after the game on the 22nd of june 1930?",
+      "id": "nt-2676"
+    },
+    {
+      "targetValue": "Italy",
+      "utterance": "in what country is bologna?",
+      "id": "nt-5679"
+    },
+    {
+      "targetValue": "Madrid, Spain",
+      "utterance": "which venue hosted the largest amount of events within this table?",
+      "id": "nt-6065"
+    },
+    {
+      "targetValue": "Amsterdam",
+      "utterance": "where is olympic stadium in the netherlands?",
+      "id": "nt-6155"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many times was the madrid, spain venue used?",
+      "id": "nt-8374"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what was the most number of points scored in a game?",
+      "id": "nt-9427"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many consecutive 'friendly' games did spain have?",
+      "id": "nt-10472"
+    },
+    {
+      "targetValue": "Italy",
+      "utterance": "according to this table, did mexico or italy have more 'friendly' competitions against spain?",
+      "id": "nt-12732"
+    }
+  ],
+  "metadata": {
+    "title": "Luis Regueiro",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7294998&oldid=540576331",
+    "tableIndex": 0,
+    "hashcode": "5ad4eb838ab2acedf3375a3e919db951254aef5b",
+    "id": 7294998,
+    "revision": 540576331
+  }
+}

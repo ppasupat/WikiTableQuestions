@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "Mount Whitney",
+      "utterance": "which mountain peak has a prominence more than 10,000 ft?",
+      "id": "nt-158"
+    },
+    {
+      "targetValue": "Mount Ritter",
+      "utterance": "which mountain peak is no higher than 13,149 ft?",
+      "id": "nt-349"
+    },
+    {
+      "targetValue": "397 ft",
+      "utterance": "how much taller is the mountain peak of mount williamson than that of mount keith?",
+      "id": "nt-951"
+    },
+    {
+      "targetValue": "below",
+      "utterance": "is the peak of mount keith above or below the peak of north palisade?",
+      "id": "nt-1910"
+    },
+    {
+      "targetValue": "Mount Whitney",
+      "utterance": "which mountain peak has the most isolation?",
+      "id": "nt-5195"
+    },
+    {
+      "targetValue": "14,505 ft",
+      "utterance": "what is the total elevation (in ft) of mount whitney?",
+      "id": "nt-5917"
+    },
+    {
+      "targetValue": "Mount Shasta",
+      "utterance": "what is the next highest mountain peak after north palisade?",
+      "id": "nt-6818"
+    },
+    {
+      "targetValue": "698 ft",
+      "utterance": "in feet, what is the difference between the tallest peak and the 9th tallest peak in california?",
+      "id": "nt-7633"
+    },
+    {
+      "targetValue": "Mount Humphreys",
+      "utterance": "which is taller, mount humphreys or mount kaweah.",
+      "id": "nt-9050"
+    },
+    {
+      "targetValue": "Mount Shasta",
+      "utterance": "which mountain peak is the only mountain peak in the cascade range?",
+      "id": "nt-11326"
+    },
+    {
+      "targetValue": "Mount Keith",
+      "utterance": "which mountain peak has the least isolation?",
+      "id": "nt-11790"
+    },
+    {
+      "targetValue": "Mount Whitney",
+      "utterance": "what is the tallest peak in the sierra nevadas?",
+      "id": "nt-12082"
+    },
+    {
+      "targetValue": "Mount Shasta",
+      "utterance": "what is the only mountain peak listed for the cascade range?",
+      "id": "nt-13389"
+    }
+  ],
+  "metadata": {
+    "title": "Highest mountain peaks of California",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19265746&oldid=596836018",
+    "tableIndex": 0,
+    "hashcode": "c81bcf1c443d921b5bff623c4eaff979895216b2",
+    "id": 19265746,
+    "revision": 596836018
+  }
+}

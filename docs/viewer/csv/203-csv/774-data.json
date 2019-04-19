@@ -1,0 +1,30 @@
+{
+  "examples": [
+    {
+      "targetValue": "Manawanui i",
+      "utterance": "which ship in auckland had the fastest speed in knots?",
+      "id": "nt-22"
+    },
+    {
+      "targetValue": "Meola",
+      "utterance": "which is the only ship used as a work boat?",
+      "id": "nt-10640"
+    },
+    {
+      "targetValue": [
+        "Hipi",
+        "Meola"
+      ],
+      "utterance": "which ships have a propulsion speed below 10 knots?",
+      "id": "nt-12085"
+    }
+  ],
+  "metadata": {
+    "title": "Port vessels of the Royal New Zealand Navy",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15905663&oldid=493618720",
+    "tableIndex": 3,
+    "hashcode": "cea88168b3cad419eac70b46d019e2cf6b83cb84",
+    "id": 15905663,
+    "revision": 493618720
+  }
+}

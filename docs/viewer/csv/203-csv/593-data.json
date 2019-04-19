@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "Tom Slater",
+      "utterance": "who was the next coach of the auburn tigers baseball team after steve renfroe?",
+      "id": "nt-866"
+    },
+    {
+      "targetValue": "Paul Nix",
+      "utterance": "who was the first coach to reach the ncaa tournament?",
+      "id": "nt-1228"
+    },
+    {
+      "targetValue": "Hal Baird",
+      "utterance": "what paul nix or hal baird coach in 1986?",
+      "id": "nt-4321"
+    },
+    {
+      "targetValue": [
+        "Joe Connally",
+        "Sunny Golloway"
+      ],
+      "utterance": "which head coach had the top win percentage?",
+      "id": "nt-6840"
+    },
+    {
+      "targetValue": "Paul Nix",
+      "utterance": "which head coach had the most losses?",
+      "id": "nt-9936"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "what was the total number of years hal baird coached?",
+      "id": "nt-9986"
+    },
+    {
+      "targetValue": "Del Morgan",
+      "utterance": "who was coach before porter grant?",
+      "id": "nt-10524"
+    },
+    {
+      "targetValue": "Dick McGowen",
+      "utterance": "was johnny williamson or dick mcgowen the coach in 1952?",
+      "id": "nt-11462"
+    },
+    {
+      "targetValue": ".126",
+      "utterance": "what was the difference in win percentage between john pawlowski and porter grant?",
+      "id": "nt-11992"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "did porter grant coach more years than danny doyle?",
+      "id": "nt-12782"
+    },
+    {
+      "targetValue": "Erk Russell",
+      "utterance": "who was the coach after joe connally?",
+      "id": "nt-13406"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the average number of ncaa tournaments reached by a single coach from 1963-2013?",
+      "id": "nt-13557"
+    }
+  ],
+  "metadata": {
+    "title": "Auburn Tigers baseball",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17527153&oldid=601321775",
+    "tableIndex": 0,
+    "hashcode": "114eccfda82e6fb2dbb4017ff7af1875673a093a",
+    "id": 17527153,
+    "revision": 601321775
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Barrie Aitchison",
+      "utterance": "name the player whose fee was not free.",
+      "id": "nt-1312"
+    },
+    {
+      "targetValue": "Norwich City",
+      "utterance": "which team was ray price on before he started for this team?",
+      "id": "nt-3004"
+    },
+    {
+      "targetValue": "Older",
+      "utterance": "is arthur kaye older or younger than brian hill?",
+      "id": "nt-3537"
+    },
+    {
+      "targetValue": "Arthur Kaye",
+      "utterance": "which player is the oldest?",
+      "id": "nt-4991"
+    },
+    {
+      "targetValue": "20 August 1955",
+      "utterance": "what is the date of the lst player that joined?",
+      "id": "nt-11664"
+    },
+    {
+      "targetValue": "£750",
+      "utterance": "what is the other fee listed, besides free?",
+      "id": "nt-12803"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many players are listed as df?",
+      "id": "nt-13299"
+    }
+  ],
+  "metadata": {
+    "title": "1965–66 Colchester United F.C. season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=31630571&oldid=595262248",
+    "tableIndex": 0,
+    "hashcode": "f2ee6dc893ae9df1597a427eb8053692dfc873c2",
+    "id": 31630571,
+    "revision": 595262248
+  }
+}

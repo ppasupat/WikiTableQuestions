@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Avanti Lebbeke",
+      "utterance": "which was the only team to score 5 points in the 1st match?",
+      "id": "nt-2370"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "in total , how many teams are there?",
+      "id": "nt-4889"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "what is the total number of teams in the chart?",
+      "id": "nt-6489"
+    },
+    {
+      "targetValue": "Bakony Vegyész",
+      "utterance": "who was the first team to score over 30 points in the first match?",
+      "id": "nt-7860"
+    },
+    {
+      "targetValue": "42",
+      "utterance": "what was the total amount of points scored between topolniky and union landhaus in the 1st match?",
+      "id": "nt-8260"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "who many matches were won by at least 12?",
+      "id": "nt-8447"
+    },
+    {
+      "targetValue": "1st match",
+      "utterance": "during which match did tresnjevka score the same amount of points as sekuli&#263; sombor?",
+      "id": "nt-8943"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "was the 1st match score combined between empor rostock and conflans at least 40?",
+      "id": "nt-11619"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "was the score in the 1st match between svendborg and goteborgs kvinnliga the same as the score in the secon match?",
+      "id": "nt-12858"
+    }
+  ],
+  "metadata": {
+    "title": "1982–83 Women's IHF Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36005688&oldid=569101281",
+    "tableIndex": 1,
+    "hashcode": "3067f47f954e8013ddaa5de7f0b6039d2e2d0e56",
+    "id": 36005688,
+    "revision": 569101281
+  }
+}

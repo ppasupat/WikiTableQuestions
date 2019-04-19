@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Black Reel Awards",
+      "utterance": "what was the first award he was nominated for?",
+      "id": "nt-140"
+    },
+    {
+      "targetValue": "Teen Choice Awards",
+      "utterance": "which award has wentworth miller been nominated for the most?",
+      "id": "nt-663"
+    },
+    {
+      "targetValue": "Teen Choice Awards",
+      "utterance": "which award has he been nominated most for?",
+      "id": "nt-2211"
+    },
+    {
+      "targetValue": "6 years",
+      "utterance": "how long is his longest gap between awards nominations?",
+      "id": "nt-2420"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many teen choice awards has he been nominated for?",
+      "id": "nt-3283"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many times has he been nominated in total?",
+      "id": "nt-10082"
+    }
+  ],
+  "metadata": {
+    "title": "Wentworth Miller",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2130104&oldid=602094164",
+    "tableIndex": 4,
+    "hashcode": "72a40b6c062f884fde0d9c1f7519ffd03467062a",
+    "id": 2130104,
+    "revision": 602094164
+  }
+}

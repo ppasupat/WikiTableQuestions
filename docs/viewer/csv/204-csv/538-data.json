@@ -1,0 +1,87 @@
+{
+  "examples": [
+    {
+      "targetValue": "Peugeot 207 S2000",
+      "utterance": "what was the fastest car?",
+      "id": "nt-740"
+    },
+    {
+      "targetValue": "Rui Conceição",
+      "utterance": "which driver had the slowest time in finishing this race?",
+      "id": "nt-767"
+    },
+    {
+      "targetValue": "Lorenzo Granai",
+      "utterance": "who was the co-driver of the first place driver?",
+      "id": "nt-1926"
+    },
+    {
+      "targetValue": "José Camacho",
+      "utterance": "which driver drove the same car as luis serrado?",
+      "id": "nt-2985"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many drivers were italian?",
+      "id": "nt-4084"
+    },
+    {
+      "targetValue": "Peugeot 206 S1600",
+      "utterance": "luis serrado and jose camacho both drove what time of car in the race?",
+      "id": "nt-4247"
+    },
+    {
+      "targetValue": [
+        "Giandomenico Basso",
+        "Bruno Magalhães",
+        "Luís Serrado",
+        "José Camacho"
+      ],
+      "utterance": "name each driver that drove a peugeot vehicle",
+      "id": "nt-5278"
+    },
+    {
+      "targetValue": "Giandomenico Basso",
+      "utterance": "who was the only italian driver in the top 10 of the 2013 rali vinho da madeira?",
+      "id": "nt-6104"
+    },
+    {
+      "targetValue": "2h28m50.8s",
+      "utterance": "how long did it take giandomenico basso to finish the 2013 rali vinho da madeira?",
+      "id": "nt-6309"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many japanese-made cars finished in the top 10 of the 2013 rali vinho da madeira?",
+      "id": "nt-7446"
+    },
+    {
+      "targetValue": "Filipe Freitas",
+      "utterance": "who finished sooner, freitas or camacho?",
+      "id": "nt-7644"
+    },
+    {
+      "targetValue": "Duarte Coelho",
+      "utterance": "who was the last co-driver from portugal?",
+      "id": "nt-8901"
+    },
+    {
+      "targetValue": "Rui Conceição",
+      "utterance": "which racer finished after jose camacho?",
+      "id": "nt-10886"
+    },
+    {
+      "targetValue": "+4m04.1s",
+      "utterance": "how many minutes below giandomenico basso did luca betti finish?",
+      "id": "nt-11436"
+    }
+  ],
+  "metadata": {
+    "title": "2013 Rali Vinho da Madeira",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=40410022&oldid=570959861",
+    "tableIndex": 0,
+    "hashcode": "7cd5904366a266cf566afb60b4ec4d132769a1e0",
+    "id": 40410022,
+    "revision": 570959861
+  }
+}

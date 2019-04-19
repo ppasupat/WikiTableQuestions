@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "false",
+      "utterance": "true or false. the television show \"the two ronnies\" featured more than 10 episodes in a season.",
+      "id": "nt-312"
+    },
+    {
+      "targetValue": "Complete Series 9",
+      "utterance": "what is previous to complete series 10?",
+      "id": "nt-986"
+    },
+    {
+      "targetValue": "57",
+      "utterance": "what is the total of all dics listed in the table?",
+      "id": "nt-1184"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "the complete collection has 96 episodes, but the christmas specials only has how many episodes?",
+      "id": "nt-5630"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "the television show \"the two ronnies\" ran for a total of how many seasons?",
+      "id": "nt-7531"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many series had 8 episodes?",
+      "id": "nt-8438"
+    },
+    {
+      "targetValue": "The Christmas Specials",
+      "utterance": "dvd shorter than 5 episodes",
+      "id": "nt-9672"
+    },
+    {
+      "targetValue": "Complete Series 12",
+      "utterance": "what comes immediately after complete series 11?",
+      "id": "nt-11996"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many \"best of\" volumes compile the top episodes of the television show \"the two ronnies\".",
+      "id": "nt-12791"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "total number of episodes released in region 2 in 2007",
+      "id": "nt-13010"
+    }
+  ],
+  "metadata": {
+    "title": "The Two Ronnies",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=407376&oldid=601975590",
+    "tableIndex": 0,
+    "hashcode": "148aec317fb14b993ab1b1ec0d18962dbe57dac2",
+    "id": 407376,
+    "revision": 601975590
+  }
+}

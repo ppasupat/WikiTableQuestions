@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "Zoo Story",
+      "utterance": "which was the only title where he was a narrator?",
+      "id": "nt-1033"
+    },
+    {
+      "targetValue": "The Answer Lies in the Soil",
+      "utterance": "what is the name of the first title?",
+      "id": "nt-7330"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive years did loose women run?",
+      "id": "nt-12173"
+    },
+    {
+      "targetValue": "Loose Women",
+      "utterance": "which ran longer, zoo story or loose women?",
+      "id": "nt-13384"
+    },
+    {
+      "targetValue": "Zoo Story",
+      "utterance": "what title came directly after this morning?",
+      "id": "nt-13996"
+    }
+  ],
+  "metadata": {
+    "title": "Ruth Langsford",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4068372&oldid=602267039",
+    "tableIndex": 0,
+    "hashcode": "54b6366fbd868b499fe04a66bdbd992fd23924c1",
+    "id": 4068372,
+    "revision": 602267039
+  }
+}

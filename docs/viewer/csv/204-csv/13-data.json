@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Celtic Warrior",
+      "utterance": "name a horse that placed after hello and was owned by more than one person.",
+      "id": "nt-2422"
+    },
+    {
+      "targetValue": "Crimson Classic",
+      "utterance": "name a horse that did not place in the top ten of the 1997 kentucky derby",
+      "id": "nt-2743"
+    },
+    {
+      "targetValue": "Deeds Not Words",
+      "utterance": "name of horse that came in last in the 1997 kentucky derby",
+      "id": "nt-2854"
+    },
+    {
+      "targetValue": "Bob Baffert",
+      "utterance": "what is the name of the top horse's trainer?",
+      "id": "nt-4149"
+    },
+    {
+      "targetValue": "Bob Baffert",
+      "utterance": "name of trainer of the horse that came in first in the 1997 kentucky derby",
+      "id": "nt-5970"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what is the number of post for 3rd finished",
+      "id": "nt-6654"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what is the total number of jockeys listed here?",
+      "id": "nt-9716"
+    },
+    {
+      "targetValue": "Silver Charm",
+      "utterance": "name of horse that finished first in the 1997 kentucky derby",
+      "id": "nt-9836"
+    },
+    {
+      "targetValue": "Bob Baffert",
+      "utterance": "what is the name of the trainer of the first place horse?",
+      "id": "nt-11836"
+    }
+  ],
+  "metadata": {
+    "title": "1997 Kentucky Derby",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=27562819&oldid=563185629",
+    "tableIndex": 1,
+    "hashcode": "1e6b1ae664efe584664c42a7684f647c31fad5e4",
+    "id": 27562819,
+    "revision": 563185629
+  }
+}

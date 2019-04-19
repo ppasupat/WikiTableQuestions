@@ -1,0 +1,41 @@
+{
+  "examples": [
+    {
+      "targetValue": "She's the Boss",
+      "utterance": "what album was \"hard woman\" from?",
+      "id": "nt-3178"
+    },
+    {
+      "targetValue": [
+        "Sweet Thing",
+        "Wired All Night",
+        "Out of Focus"
+      ],
+      "utterance": "name three singles from the album \"wandering spirit.\"",
+      "id": "nt-9605"
+    },
+    {
+      "targetValue": "2008",
+      "utterance": "what year was mick jagger's best of album released?",
+      "id": "nt-12952"
+    },
+    {
+      "targetValue": "Alfie (soundtrack)",
+      "utterance": "on what album did the single \"old habits die hard\" appear?",
+      "id": "nt-13376"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what chart position did the single with david bowie reach in the us?",
+      "id": "nt-13480"
+    }
+  ],
+  "metadata": {
+    "title": "Mick Jagger",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=57187&oldid=602161452",
+    "tableIndex": 3,
+    "hashcode": "a50de3d176815bb15fec46806e5a0fb8a0b20399",
+    "id": 57187,
+    "revision": 602161452
+  }
+}

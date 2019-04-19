@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "4 years",
+      "utterance": "what is the difference in year of borth between vachon and vaid?",
+      "id": "nt-670"
+    },
+    {
+      "targetValue": "Van Vechten",
+      "utterance": "who lived longer, van vechten or variacoes?",
+      "id": "nt-3847"
+    },
+    {
+      "targetValue": "American",
+      "utterance": "which nationality has the most people associated with it?",
+      "id": "nt-5267"
+    },
+    {
+      "targetValue": "Valiquette",
+      "utterance": "who was canadian, van amstel or valiquette?",
+      "id": "nt-8342"
+    },
+    {
+      "targetValue": "American",
+      "utterance": "which nationality had the larger amount of names listed?",
+      "id": "nt-8881"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of individuals in this group who were indian?",
+      "id": "nt-10235"
+    },
+    {
+      "targetValue": "Actor",
+      "utterance": "patricia velasquez and ron vawter both had what career?",
+      "id": "nt-10617"
+    },
+    {
+      "targetValue": "Urvashi Vaid",
+      "utterance": "which is the previous name from lupe valdez",
+      "id": "nt-11950"
+    },
+    {
+      "targetValue": "French",
+      "utterance": "which nationality had the most notable poets?",
+      "id": "nt-12185"
+    },
+    {
+      "targetValue": "60",
+      "utterance": "how old was pierre vallieres before he died?",
+      "id": "nt-13382"
+    }
+  ],
+  "metadata": {
+    "title": "List of gay, lesbian or bisexual people: T–V",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3663132&oldid=597088067",
+    "tableIndex": 2,
+    "hashcode": "6ab626f1994e26fd65d855267c46a58a7b66cd56",
+    "id": 3663132,
+    "revision": 597088067
+  }
+}

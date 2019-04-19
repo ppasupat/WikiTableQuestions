@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "South Africa",
+      "utterance": "more beetles came from which country, spain or south africa?",
+      "id": "nt-895"
+    },
+    {
+      "targetValue": "Onitis caffer Boheman",
+      "utterance": "which species of beetle was first released after geotrupes spinger marsham?",
+      "id": "nt-1684"
+    },
+    {
+      "targetValue": "Onthophagus gazella Fabricius",
+      "utterance": "which beetle had the largest amount released?",
+      "id": "nt-2464"
+    },
+    {
+      "targetValue": "70,450",
+      "utterance": "what is the total number of liatongus militaris castelanu released?",
+      "id": "nt-2485"
+    },
+    {
+      "targetValue": "1319",
+      "utterance": "how many more bubas bison were released than copris hispanus linnaeus?",
+      "id": "nt-8623"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many different species were released in 1971?",
+      "id": "nt-9764"
+    },
+    {
+      "targetValue": "76633",
+      "utterance": "what is the difference between the number of onthophagus obliquus species released and the number of sisyphus rubrus paschalidis released?",
+      "id": "nt-11524"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many different species were released in south africa?",
+      "id": "nt-12821"
+    },
+    {
+      "targetValue": "Bubas bison",
+      "utterance": "were more bubas bison or copris hispanus linnaeus released?",
+      "id": "nt-14034"
+    }
+  ],
+  "metadata": {
+    "title": "Australian Dung Beetle Project",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=23934077&oldid=594286477",
+    "tableIndex": 0,
+    "hashcode": "bd5697b07969dae2c1c131dc4ec2834615c6fc45",
+    "id": 23934077,
+    "revision": 594286477
+  }
+}

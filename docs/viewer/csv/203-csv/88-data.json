@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Romanian",
+      "utterance": "the least amount of females",
+      "id": "nt-1772"
+    },
+    {
+      "targetValue": "Romanian",
+      "utterance": "which language had the least female speakers?",
+      "id": "nt-3155"
+    },
+    {
+      "targetValue": "Romanian",
+      "utterance": "which language had the smallest number of females speaking it.",
+      "id": "nt-4436"
+    },
+    {
+      "targetValue": "below",
+      "utterance": "is german above or below russia in the number of people who speak that language?",
+      "id": "nt-7569"
+    },
+    {
+      "targetValue": "13 551",
+      "utterance": "number of male russian speakers",
+      "id": "nt-9363"
+    },
+    {
+      "targetValue": "Romanian",
+      "utterance": "what was the top language from the one's whose percentage was >0.01",
+      "id": "nt-10542"
+    },
+    {
+      "targetValue": "German",
+      "utterance": "what was the next most commonly spoken language in poland after russian?",
+      "id": "nt-11390"
+    },
+    {
+      "targetValue": "Yiddish",
+      "utterance": "what is the highest percentage of speakers other than polish?",
+      "id": "nt-11748"
+    },
+    {
+      "targetValue": "Polish",
+      "utterance": "which language had the most number of people speaking it.",
+      "id": "nt-11933"
+    }
+  ],
+  "metadata": {
+    "title": "Warsaw Governorate",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12334051&oldid=541342738",
+    "tableIndex": 0,
+    "hashcode": "0c30e3e91919faed8431a097abf237e654f53e50",
+    "id": 12334051,
+    "revision": 541342738
+  }
+}

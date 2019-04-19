@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "12",
+      "utterance": "how many years after \"i can't get no... edelweiss\" did the single \"bring me edelweiss\" (remix) appear?",
+      "id": "nt-13952"
+    }
+  ],
+  "metadata": {
+    "title": "Edelweiss (band)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1019314&oldid=587403869",
+    "tableIndex": 0,
+    "hashcode": "7dee97a052bc8e80114118c88ea661d6c7eb369b",
+    "id": 1019314,
+    "revision": 587403869
+  }
+}

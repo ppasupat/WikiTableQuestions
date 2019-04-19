@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "Less",
+      "utterance": "has frits pirard won more or less than bert oosterbosch?",
+      "id": "nt-3181"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "what was the number of stages in the 1983 tour de france?",
+      "id": "nt-12748"
+    },
+    {
+      "targetValue": "23",
+      "utterance": "what was the total number of days for the tour?",
+      "id": "nt-13894"
+    }
+  ],
+  "metadata": {
+    "title": "1983 Tour de France",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2286703&oldid=596419651",
+    "tableIndex": 0,
+    "hashcode": "78d4a9801a22f774b7a205c620b825444ef477b2",
+    "id": 2286703,
+    "revision": 596419651
+  }
+}

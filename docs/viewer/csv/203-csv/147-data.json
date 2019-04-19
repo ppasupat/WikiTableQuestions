@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "37",
+      "utterance": "how many subdivisions are there in camarines sur?",
+      "id": "nt-854"
+    },
+    {
+      "targetValue": "Gainza",
+      "utterance": "what is the least populated municipality in camarines sur?",
+      "id": "nt-3240"
+    },
+    {
+      "targetValue": "Naga City",
+      "utterance": "which city has the largest number of people in camarines sur?",
+      "id": "nt-3420"
+    },
+    {
+      "targetValue": "Ragay",
+      "utterance": "what is the largest city/municipality by area?",
+      "id": "nt-3499"
+    },
+    {
+      "targetValue": "Marilou Marquez-Hirose",
+      "utterance": "who is the mayor with the least city area to govern over?",
+      "id": "nt-3820"
+    },
+    {
+      "targetValue": "46",
+      "utterance": "how many barangays are there in sipocot?",
+      "id": "nt-5059"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many cities in camarines sur have at least 50,000 people?",
+      "id": "nt-5365"
+    },
+    {
+      "targetValue": "37",
+      "utterance": "how many total municipalities are there in camarines sur?",
+      "id": "nt-6015"
+    },
+    {
+      "targetValue": "Naga City",
+      "utterance": "what is the most populated city in camarines sur?",
+      "id": "nt-7403"
+    },
+    {
+      "targetValue": "Ragay",
+      "utterance": "what is the only city to start with the letter r?",
+      "id": "nt-8162"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the number of mayors during 2010-2013 who were part of the 1st class?",
+      "id": "nt-9189"
+    },
+    {
+      "targetValue": "35",
+      "utterance": "how many municipalities are in camarines sur?",
+      "id": "nt-12056"
+    }
+  ],
+  "metadata": {
+    "title": "Camarines Sur",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=255883&oldid=601317105",
+    "tableIndex": 0,
+    "hashcode": "8a620706fd02a44826ea623d3a04beb1c989d061",
+    "id": 255883,
+    "revision": 601317105
+  }
+}

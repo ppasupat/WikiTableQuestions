@@ -1,0 +1,61 @@
+{
+  "examples": [
+    {
+      "targetValue": "\"Perestroika\"",
+      "utterance": "the last episode of season one",
+      "id": "nt-1120"
+    },
+    {
+      "targetValue": "Allan Kroeker",
+      "utterance": "who directed the first episode of psi factor: chronicles of the paranormal?",
+      "id": "nt-3689"
+    },
+    {
+      "targetValue": [
+        "October",
+        "November",
+        "February"
+      ],
+      "utterance": "which month(s) aired at least four titles or more?",
+      "id": "nt-4261"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "after the first episode, when was will dixon's next written episode?",
+      "id": "nt-4716"
+    },
+    {
+      "targetValue": "Will Dixon",
+      "utterance": "who is the only writer to write an episode by themselves?",
+      "id": "nt-6271"
+    },
+    {
+      "targetValue": "September 28, 1996",
+      "utterance": "what was the first air date of season 1?",
+      "id": "nt-8379"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many episodes of psi factor: chronicles of the paranormal originally aired in 1996?",
+      "id": "nt-10134"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what were the total number of titles aired in november?",
+      "id": "nt-10497"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "number of episodes in the first season",
+      "id": "nt-12408"
+    }
+  ],
+  "metadata": {
+    "title": "List of Psi Factor: Chronicles of the Paranormal episodes",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16471432&oldid=582955991",
+    "tableIndex": 1,
+    "hashcode": "4a752b01a4059b6737c9537f8f199ea9339e1e9d",
+    "id": 16471432,
+    "revision": 582955991
+  }
+}

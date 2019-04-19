@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "Helen Oxenbury",
+      "utterance": "which illustrator was responsible for the last award winner?",
+      "id": "nt-260"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what are the number of kurt maschler awards helen oxenbury has won?",
+      "id": "nt-1488"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many total titles were published by walker?",
+      "id": "nt-2281"
+    },
+    {
+      "targetValue": "Alice's Adventures in Wonderland",
+      "utterance": "which book won the award a total of 2 times?",
+      "id": "nt-2919"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many titles did walker publish?",
+      "id": "nt-3657"
+    },
+    {
+      "targetValue": "Anthony Browne",
+      "utterance": "which other author, besides lewis carroll, has won the kurt maschler award twice?",
+      "id": "nt-4572"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times has anthony browne won an kurt maschler award for illustration?",
+      "id": "nt-5668"
+    },
+    {
+      "targetValue": "The Man",
+      "utterance": "which title was after the year 1991 but before the year 1993?",
+      "id": "nt-5912"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what's the difference in years between angela carter's title and anthony browne's?",
+      "id": "nt-8785"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many number of titles are listed for the year 1991?",
+      "id": "nt-9951"
+    },
+    {
+      "targetValue": "Angela Carter",
+      "utterance": "which author wrote the first award winner?",
+      "id": "nt-11312"
+    },
+    {
+      "targetValue": "Alice's Adventures in Wonderland",
+      "utterance": "what is the only title listed for 1999?",
+      "id": "nt-13116"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many titles had the same author listed as the illustrator?",
+      "id": "nt-13794"
+    }
+  ],
+  "metadata": {
+    "title": "Kurt Maschler Award",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15641996&oldid=526123445",
+    "tableIndex": 0,
+    "hashcode": "6c4118fdfaf4e90eb9067b225e5d39dade8167e1",
+    "id": 15641996,
+    "revision": 526123445
+  }
+}

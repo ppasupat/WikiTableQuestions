@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "28 February 2012",
+      "utterance": "what was the first playstation 3 release date?",
+      "id": "nt-268"
+    },
+    {
+      "targetValue": "19-21",
+      "utterance": "which drop(s) had the most spec ops mission(s)?",
+      "id": "nt-3520"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "tell me the number of face off maps.",
+      "id": "nt-4224"
+    },
+    {
+      "targetValue": "Vertigo",
+      "utterance": "what was the name of the next spec ops mission release after arctic recon?",
+      "id": "nt-4252"
+    },
+    {
+      "targetValue": "9-12",
+      "utterance": "what drop(s) included both the multiplayer map oasis and two spec ops missions?",
+      "id": "nt-6347"
+    },
+    {
+      "targetValue": "19 July 2012",
+      "utterance": "what was the last release date in july?",
+      "id": "nt-6793"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "were drops 4-6 released on xbox 360 after they were released on playstation 3?",
+      "id": "nt-7372"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what is the total number of multiplayer maps released during this time?",
+      "id": "nt-7400"
+    },
+    {
+      "targetValue": "Black Ice & Negotiator",
+      "utterance": "what is the first spec ops mission not counting any none spaces?",
+      "id": "nt-7563"
+    },
+    {
+      "targetValue": "13-15",
+      "utterance": "other than oasis, tell me a drop that has both a special ops mission and a face off map.",
+      "id": "nt-9199"
+    },
+    {
+      "targetValue": "5 September 2012",
+      "utterance": "what is the last xbox 360 release date?",
+      "id": "nt-12598"
+    },
+    {
+      "targetValue": "Multiplayer Maps",
+      "utterance": "which category of downloadable content had the most releases?",
+      "id": "nt-12951"
+    },
+    {
+      "targetValue": "37 days",
+      "utterance": "how long was the release date gap between the xbox 360 release of overwatch and the playstation 3 release?",
+      "id": "nt-13872"
+    }
+  ],
+  "metadata": {
+    "title": "Call of Duty: Modern Warfare 3 downloadable content",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=35623170&oldid=582338226",
+    "tableIndex": 0,
+    "hashcode": "bf9d7ea53c0d00bc59a724096f747dbef5475423",
+    "id": 35623170,
+    "revision": 582338226
+  }
+}

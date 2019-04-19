@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Rubberneck",
+      "utterance": "which album had the most chart-reaching singles?",
+      "id": "nt-695"
+    },
+    {
+      "targetValue": "\"Away\"",
+      "utterance": "what is the other single of the toadies which ranked 23rd in the us main chart in 1995?",
+      "id": "nt-943"
+    },
+    {
+      "targetValue": "22 years",
+      "utterance": "how long have they been active?",
+      "id": "nt-1805"
+    },
+    {
+      "targetValue": "Summer of the Strange",
+      "utterance": "which single was released after \"song i hate\"?",
+      "id": "nt-2613"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many singles were released as part of an album?",
+      "id": "nt-5488"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the total number of albums that were released?",
+      "id": "nt-8003"
+    },
+    {
+      "targetValue": "\"Possum Kingdom\"",
+      "utterance": "which toadies' song ranked highest in the us main chart in 1995?",
+      "id": "nt-8076"
+    },
+    {
+      "targetValue": "\"Dig a Hole\"",
+      "utterance": "what is the first single of the toadies?",
+      "id": "nt-9718"
+    },
+    {
+      "targetValue": "Velvet",
+      "utterance": "in what album did the toadies' song mister love appear?",
+      "id": "nt-10023"
+    },
+    {
+      "targetValue": "Dig a Hole",
+      "utterance": "which song was the toadies first single?",
+      "id": "nt-11420"
+    },
+    {
+      "targetValue": "Tyler",
+      "utterance": "which single was released before \"backslider\"?",
+      "id": "nt-11872"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many songs reached the us main charts?",
+      "id": "nt-13684"
+    }
+  ],
+  "metadata": {
+    "title": "Toadies",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=559261&oldid=590710753",
+    "tableIndex": 2,
+    "hashcode": "7f410ffcea910049e40f37c2d5f4347bded39e2c",
+    "id": 559261,
+    "revision": 590710753
+  }
+}

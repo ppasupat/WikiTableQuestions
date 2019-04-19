@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Spain - Palma de Mallorca",
+      "utterance": "which airport has no more than 30,000 passengers handled among the 10 busiest routes to and from london southend airport in 2012?",
+      "id": "nt-1653"
+    },
+    {
+      "targetValue": "77,631",
+      "utterance": "between the topped ranked airport, netherlands - amsterdam, & spain - palma de mallorca, what is the difference in the amount of passengers handled?",
+      "id": "nt-2245"
+    },
+    {
+      "targetValue": "217,548",
+      "utterance": "how many passengers are going to or coming from spain?",
+      "id": "nt-2596"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many airports are listed?",
+      "id": "nt-4053"
+    },
+    {
+      "targetValue": "Netherlands - Amsterdam",
+      "utterance": "where is the most popular destination for passengers leaving london southend airport?",
+      "id": "nt-5207"
+    },
+    {
+      "targetValue": "Spain - Palma de Mallorca",
+      "utterance": "which airport has the least amount of passengers going through london southend airport?",
+      "id": "nt-6112"
+    },
+    {
+      "targetValue": "58,967.5",
+      "utterance": "looking at the top 10 busiest routes to and from london southend airport what is the average number of passengers handled?",
+      "id": "nt-6116"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many airports in spain are among the 10 busiest routes to and from london southend airport in 2012?",
+      "id": "nt-9512"
+    },
+    {
+      "targetValue": "Netherlands - Amsterdam",
+      "utterance": "which airport had more passengers handled than the united kingdom?",
+      "id": "nt-9837"
+    },
+    {
+      "targetValue": "217,548",
+      "utterance": "how many passengers were handled in an airport in spain?",
+      "id": "nt-13062"
+    },
+    {
+      "targetValue": "Portugal - Faro",
+      "utterance": "what is the name of the only airport in portugal that is among the 10 busiest routes to and from london southend airport in 2012?",
+      "id": "nt-13559"
+    }
+  ],
+  "metadata": {
+    "title": "London Southend Airport",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=384873&oldid=602487397",
+    "tableIndex": 1,
+    "hashcode": "a83785064d1da1a47d757e1ab70c4b686dc609d6",
+    "id": 384873,
+    "revision": 602487397
+  }
+}

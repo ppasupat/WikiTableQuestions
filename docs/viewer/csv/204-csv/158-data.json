@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "how many municipalities have areas that are below 50 square kilometers?",
+      "id": "nt-4139"
+    },
+    {
+      "targetValue": "Port Elgin",
+      "utterance": "which city has the least area",
+      "id": "nt-6390"
+    },
+    {
+      "targetValue": "Moncton",
+      "utterance": "which city has the largest population?",
+      "id": "nt-6478"
+    },
+    {
+      "targetValue": "Beaubassin East",
+      "utterance": "the only rural community on the list",
+      "id": "nt-6733"
+    },
+    {
+      "targetValue": "Dieppe",
+      "utterance": "city in the same parish of moncton",
+      "id": "nt-7906"
+    },
+    {
+      "targetValue": "Moncton",
+      "utterance": "which municipality has the most number of people who reside in it?",
+      "id": "nt-8468"
+    }
+  ],
+  "metadata": {
+    "title": "Westmorland County, New Brunswick",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=176529&oldid=602197546",
+    "tableIndex": 0,
+    "hashcode": "9eb88f310f95b00c119c67feff013a18858ce0e5",
+    "id": 176529,
+    "revision": 602197546
+  }
+}

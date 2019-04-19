@@ -1,0 +1,86 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Pan troglodytes",
+        "Nomascus leucogenys"
+      ],
+      "utterance": "what are the only species with 99% sequence identity?",
+      "id": "nt-154"
+    },
+    {
+      "targetValue": "94.4",
+      "utterance": "how many years has it been since the cow has diverged from human?",
+      "id": "nt-1144"
+    },
+    {
+      "targetValue": "Albugo laibachii",
+      "utterance": "name the species that has the longest years since divergence from human.",
+      "id": "nt-2190"
+    },
+    {
+      "targetValue": "Albugo laibachii",
+      "utterance": "which species has the most years since divergence from human?",
+      "id": "nt-2902"
+    },
+    {
+      "targetValue": [
+        "1572 aa",
+        "1602 aa",
+        "1591 aa",
+        "1593 aa",
+        "1570 aa",
+        "1522 aa",
+        "1592 aa",
+        "1592 aa",
+        "1572 aa",
+        "1574 aa",
+        "1590 aa",
+        "1577 aa",
+        "1608 aa",
+        "1471 aa",
+        "1538 aa",
+        "1640 aa",
+        "1359 aa",
+        "1867 aa",
+        "1584 aa",
+        "1591 aa"
+      ],
+      "utterance": "what is the length of each species listed?",
+      "id": "nt-3589"
+    },
+    {
+      "targetValue": "4%",
+      "utterance": "whats the percentage of difference between the frog and zebra fish?",
+      "id": "nt-4076"
+    },
+    {
+      "targetValue": "301.7",
+      "utterance": "how long has it been since the zebra finch diverged from humans?",
+      "id": "nt-9727"
+    },
+    {
+      "targetValue": [
+        "Pan troglodytes",
+        "Nomascus leucogenys",
+        "Mus musculus",
+        "Bos Taurus",
+        "Sorex araneus",
+        "Monodelphis domestica",
+        "Gallus gallus",
+        "Meleagris gallopavo",
+        "Taeniopygia guttata"
+      ],
+      "utterance": "which species have at least 87% sequence identity?",
+      "id": "nt-13104"
+    }
+  ],
+  "metadata": {
+    "title": "DEPDC5",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=35665789&oldid=590978633",
+    "tableIndex": 0,
+    "hashcode": "f2aefce4fcf71a59e8e4093813d9bf8634ff4fe5",
+    "id": 35665789,
+    "revision": 590978633
+  }
+}

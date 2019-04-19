@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": "less",
+      "utterance": "has the dominican republic won more or less medals than china?",
+      "id": "nt-80"
+    },
+    {
+      "targetValue": [
+        "France",
+        "Ethiopia"
+      ],
+      "utterance": "which countries had the same number of gold medals as belarus?",
+      "id": "nt-970"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "who has had only 7 gold medals?",
+      "id": "nt-1943"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "how many total medals did russia win?",
+      "id": "nt-7047"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what was the difference in rank between the u.s. and canada?",
+      "id": "nt-7224"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "did the united states win above 10 medals?",
+      "id": "nt-10967"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the total amount of medals spain has won?",
+      "id": "nt-12509"
+    },
+    {
+      "targetValue": "35",
+      "utterance": "how many total medals were won by the u.s. and russia?",
+      "id": "nt-13192"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many medals did france and cuba win?",
+      "id": "nt-13464"
+    }
+  ],
+  "metadata": {
+    "title": "2003 World Championships in Athletics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=307313&oldid=593593563",
+    "tableIndex": 4,
+    "hashcode": "1088633dfdeb2ca640d921d22b91d3a466e7f61c",
+    "id": 307313,
+    "revision": 593593563
+  }
+}

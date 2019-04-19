@@ -1,0 +1,87 @@
+{
+  "examples": [
+    {
+      "targetValue": "Sofia Akhmeteli",
+      "utterance": "which female athlete has been the flag bearer for georgia in the olympics twice?",
+      "id": "nt-2239"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "after 1994 how may individuals with the first name giorgi bear the flag for georgia in the olympics?",
+      "id": "nt-3623"
+    },
+    {
+      "targetValue": "Sofia Akhmeteli",
+      "utterance": "who has been the flag bearer for georgia the most from 1998-2012?",
+      "id": "nt-3787"
+    },
+    {
+      "targetValue": "Giorgi K'andelak'i",
+      "utterance": "other than giorgi asanidze, name a bearer with the first name giorgi.",
+      "id": "nt-3949"
+    },
+    {
+      "targetValue": "Sofia Akhmeteli",
+      "utterance": "who was the first female flag bearer for georgia in the olympics?",
+      "id": "nt-5203"
+    },
+    {
+      "targetValue": "Nino Salukvadze",
+      "utterance": "who was the last flag bearer?",
+      "id": "nt-5258"
+    },
+    {
+      "targetValue": "Sofia Akhmeteli",
+      "utterance": "name the flag bearer directly before zviadauri.",
+      "id": "nt-6742"
+    },
+    {
+      "targetValue": "Iason Abramashvili",
+      "utterance": "who was the flag bearer after ramaz nozadze?",
+      "id": "nt-7360"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the number of flag bearers?",
+      "id": "nt-7524"
+    },
+    {
+      "targetValue": "Nino Salukvadze",
+      "utterance": "who was the last flag bearer for georgia?",
+      "id": "nt-7868"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many summer flag bearers have there been?",
+      "id": "nt-8092"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many consecutive winter olympics did sofia akhmeteli act as flag bearer for georgia from 1994-2012?",
+      "id": "nt-8792"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "tell me the number of summer olympics on the list.",
+      "id": "nt-9118"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many olympics has sofia akhmeteli represented georgia in the olympics?",
+      "id": "nt-9283"
+    },
+    {
+      "targetValue": "Zurab Dzhidzhishvili",
+      "utterance": "who was the first flag bearer?",
+      "id": "nt-10150"
+    }
+  ],
+  "metadata": {
+    "title": "List of flag bearers for Georgia at the Olympics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33528012&oldid=504574996",
+    "tableIndex": 0,
+    "hashcode": "eb90b5f3bbf78937851eb699848cae4444957ef7",
+    "id": 33528012,
+    "revision": 504574996
+  }
+}

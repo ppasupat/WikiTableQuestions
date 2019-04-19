@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "10",
+      "utterance": "what is the total number of teams that played 1919 brazilian football?",
+      "id": "nt-1031"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many teams played more than 16 games?",
+      "id": "nt-2726"
+    },
+    {
+      "targetValue": "AA São Bento",
+      "utterance": "what is the only team to have scored 16 points?",
+      "id": "nt-3555"
+    },
+    {
+      "targetValue": "Mackenzie",
+      "utterance": "who scored the least amount of points?",
+      "id": "nt-5256"
+    },
+    {
+      "targetValue": "Mackenzie",
+      "utterance": "which point did not accumulate more than 5 points?",
+      "id": "nt-7277"
+    },
+    {
+      "targetValue": "Mackenzie",
+      "utterance": "which team had the largest goal difference?",
+      "id": "nt-7638"
+    },
+    {
+      "targetValue": "Mackenzie",
+      "utterance": "what 1919 brazilian football team won the least points?",
+      "id": "nt-8377"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "list the number of teams who have more than 20 points.",
+      "id": "nt-10930"
+    },
+    {
+      "targetValue": "Paulistano",
+      "utterance": "who finished first?",
+      "id": "nt-11875"
+    },
+    {
+      "targetValue": "Paulistano",
+      "utterance": "which team had the fewest lost games?",
+      "id": "nt-13019"
+    },
+    {
+      "targetValue": "Paulistano",
+      "utterance": "what 1919 brazilian football team had the most points?",
+      "id": "nt-13579"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many teams played 18 games?",
+      "id": "nt-13865"
+    }
+  ],
+  "metadata": {
+    "title": "1919 in Brazilian football",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15401676&oldid=547591857",
+    "tableIndex": 0,
+    "hashcode": "2a136b272e8213a10f3e2101036542c0eabbbbbc",
+    "id": 15401676,
+    "revision": 547591857
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Toyota Grand Prix of Long Beach",
+      "utterance": "what race came after the slick 50 200?",
+      "id": "nt-2887"
+    },
+    {
+      "targetValue": "Marlboro Grand Prix of Miami Presented by Toyota",
+      "utterance": "what was the name of the race that took place before the australian indycar grand prix on march 19th?",
+      "id": "nt-2948"
+    },
+    {
+      "targetValue": "Miami, Florida",
+      "utterance": "in what city was the first race?",
+      "id": "nt-6432"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many circuits did were run?",
+      "id": "nt-6986"
+    },
+    {
+      "targetValue": "Marlboro Grand Prix of Miami Presented by Toyota",
+      "utterance": "what was the first race?",
+      "id": "nt-7257"
+    },
+    {
+      "targetValue": "Surfers Paradise, Australia",
+      "utterance": "the race on march 5 took place in miami, florida. where did the next race take place?",
+      "id": "nt-8483"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "which country has the most fastest lap winners?",
+      "id": "nt-8609"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "in how many races did michael andretti come in pole position?",
+      "id": "nt-8640"
+    },
+    {
+      "targetValue": "Brazil",
+      "utterance": "which country has the least amount of winning drivers?",
+      "id": "nt-13562"
+    }
+  ],
+  "metadata": {
+    "title": "1995 IndyCar season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16732659&oldid=598446515",
+    "tableIndex": 1,
+    "hashcode": "af7b8ed98b63d582510014ccdcf11e572f08b8b3",
+    "id": 16732659,
+    "revision": 598446515
+  }
+}

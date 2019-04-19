@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "Ron Turcotte",
+      "utterance": "who rode secretariat in 1973?",
+      "id": "nt-8599"
+    },
+    {
+      "targetValue": "Calumet Farm",
+      "utterance": "who was the breeder of the 1941 triple crown winner?",
+      "id": "nt-10068"
+    },
+    {
+      "targetValue": "Steve Cauthen",
+      "utterance": "what jockey won the triple crown in 1978?",
+      "id": "nt-11425"
+    },
+    {
+      "targetValue": "1919",
+      "utterance": "what is the first year there was a triple crown winner?",
+      "id": "nt-12683"
+    },
+    {
+      "targetValue": "1977",
+      "utterance": "in which year did seattle slew win the triple crown?",
+      "id": "nt-13241"
+    }
+  ],
+  "metadata": {
+    "title": "Triple Crown of Thoroughbred Racing",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=58596&oldid=602483764",
+    "tableIndex": 0,
+    "hashcode": "00ebb131e1a6d01a108628ca2553f1b5d7aa85c9",
+    "id": 58596,
+    "revision": 602483764
+  }
+}

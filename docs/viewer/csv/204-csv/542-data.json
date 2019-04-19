@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Motherwell",
+      "utterance": "what is the first club listed for the 2010-11 season?",
+      "id": "nt-384"
+    },
+    {
+      "targetValue": "UEFA Europa League",
+      "utterance": "which competition comes above uefa europa league",
+      "id": "nt-772"
+    },
+    {
+      "targetValue": "Tirana",
+      "utterance": "who won by the most points at home?",
+      "id": "nt-2928"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many countries participated?",
+      "id": "nt-3215"
+    },
+    {
+      "targetValue": "Q2",
+      "utterance": "what was the only round that hungary participated in?",
+      "id": "nt-7682"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of countries that played during the 2011-12 uefa europa league?",
+      "id": "nt-10169"
+    },
+    {
+      "targetValue": "Tirana",
+      "utterance": "what club is listed after az?",
+      "id": "nt-10596"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many countries other than hungary participate?",
+      "id": "nt-14052"
+    }
+  ],
+  "metadata": {
+    "title": "Aalesunds FK",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1149273&oldid=601311553",
+    "tableIndex": 1,
+    "hashcode": "470bdbcbb6ae67fe6c7aa272adb1a60b7951adfa",
+    "id": 1149273,
+    "revision": 601311553
+  }
+}

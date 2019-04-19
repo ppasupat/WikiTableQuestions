@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "Asia",
+      "utterance": "what was the world's most populous continent in 1965?",
+      "id": "nt-1566"
+    },
+    {
+      "targetValue": "Asia",
+      "utterance": "what continent had the highest population in 1970?",
+      "id": "nt-4282"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many areas achieved more than 250,000,000 people in 1970?",
+      "id": "nt-4860"
+    }
+  ],
+  "metadata": {
+    "title": "1965",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=34750&oldid=602304252",
+    "tableIndex": 0,
+    "hashcode": "ca0e8d502006b5d91cc3f95bb923603aff86caeb",
+    "id": 34750,
+    "revision": 602304252
+  }
+}

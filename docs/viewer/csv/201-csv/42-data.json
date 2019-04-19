@@ -1,0 +1,50 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many titles include \"jeff daniels\" as their episode title?",
+      "id": "nt-1215"
+    },
+    {
+      "targetValue": "The Newsroom",
+      "utterance": "in what program was daniels in after planet sheen?",
+      "id": "nt-2283"
+    },
+    {
+      "targetValue": "The Newsroom",
+      "utterance": "for which television show was jeff daniels nominated for both an emmy and golden globe award?",
+      "id": "nt-3492"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did daniels host saturday night live?",
+      "id": "nt-4762"
+    },
+    {
+      "targetValue": "Saturday Night Live",
+      "utterance": "list the titles that include \"host\" as the role.",
+      "id": "nt-6627"
+    },
+    {
+      "targetValue": "The Newsroom",
+      "utterance": "jeff daniels has appeared in several television shows. for which show has he appeared in the most number of episodes?",
+      "id": "nt-12432"
+    },
+    {
+      "targetValue": [
+        "2013",
+        "2014"
+      ],
+      "utterance": "in which year was jeff daniels nominated for both the satellite award for best actor in a tv series drama and for a screen actors guild award for outstanding performance by a male actor in a drama series?",
+      "id": "nt-13541"
+    }
+  ],
+  "metadata": {
+    "title": "Jeff Daniels",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=737807&oldid=602149933",
+    "tableIndex": 1,
+    "hashcode": "8534d5853d73880a0d4290fd24851572b34469a8",
+    "id": 737807,
+    "revision": 602149933
+  }
+}

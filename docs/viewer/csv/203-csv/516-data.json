@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "0",
+      "utterance": "in 2010 he had at least how many punt returns?",
+      "id": "nt-2908"
+    },
+    {
+      "targetValue": "2008",
+      "utterance": "what year was eddie royal first in the leauge",
+      "id": "nt-2944"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what are the number of times punts were returned for a touchdown?",
+      "id": "nt-5972"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "of the total number of pro football games played by eddie royal between the two years 2011 and 2012, what was the average number of games played during those two years by him?",
+      "id": "nt-6341"
+    },
+    {
+      "targetValue": "2012",
+      "utterance": "the next year he only had 7 punt return attempts, which year was prior to that",
+      "id": "nt-6581"
+    },
+    {
+      "targetValue": "13.6",
+      "utterance": "the average number of games he played from 2008- 2013",
+      "id": "nt-6786"
+    },
+    {
+      "targetValue": "23",
+      "utterance": "what are the number of kickoff attempts in 2008?",
+      "id": "nt-10532"
+    },
+    {
+      "targetValue": "36",
+      "utterance": "how long was denver bronco player eddie royal's longest punt return in 2008, a year when he made a total of 140 yards in punt returns?",
+      "id": "nt-11405"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "in 2013, professional football player eddie royal had zero kickoff attempts; how many kickoff attempts did he have during the previous year?",
+      "id": "nt-12492"
+    }
+  ],
+  "metadata": {
+    "title": "Eddie Royal",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15020056&oldid=593791557",
+    "tableIndex": 1,
+    "hashcode": "65c74f60cd35fdca47c76c4b2628dd01e824b9e9",
+    "id": 15020056,
+    "revision": 593791557
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "Iryna Shpylova",
+      "utterance": "who was the top ranked competitor in this race?",
+      "id": "nt-34"
+    },
+    {
+      "targetValue": "Ukraine",
+      "utterance": "what team is listed previous to belgium?",
+      "id": "nt-1004"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number rank of belgium?",
+      "id": "nt-4416"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many cyclist do not have -1 laps down?",
+      "id": "nt-6740"
+    },
+    {
+      "targetValue": "Dulce Pliego",
+      "utterance": "who was the competitor that finished above jessie maclean?",
+      "id": "nt-7521"
+    },
+    {
+      "targetValue": [
+        "Iryna Shpylova",
+        "Jessie Daams"
+      ],
+      "utterance": "what two cyclists come from teams with no laps down?",
+      "id": "nt-8981"
+    },
+    {
+      "targetValue": "Yekatsiryna Barazna",
+      "utterance": "who is the last cyclist listed?",
+      "id": "nt-9702"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many consecutive notes are there?",
+      "id": "nt-11768"
+    },
+    {
+      "targetValue": "Eunmi Park",
+      "utterance": "who was the first competitor to finish the race a lap behind?",
+      "id": "nt-12823"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many cyclist are not listed with a country team?",
+      "id": "nt-14076"
+    }
+  ],
+  "metadata": {
+    "title": "2009–10 UCI Track Cycling World Cup Classics – Round 2 – Women's scratch race",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=39647654&oldid=601406649",
+    "tableIndex": 1,
+    "hashcode": "4a0462899ea8d53eaf4614c7be69789d75f2d3de",
+    "id": 39647654,
+    "revision": 601406649
+  }
+}

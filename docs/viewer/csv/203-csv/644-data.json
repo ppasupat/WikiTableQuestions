@@ -1,0 +1,48 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "António Borges",
+        "Miguel Sottomayor"
+      ],
+      "utterance": "which driver and co-driver came in last place?",
+      "id": "nt-739"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many points earned by bob neyret?",
+      "id": "nt-7468"
+    },
+    {
+      "targetValue": [
+        "Raffaele Pinto",
+        "Arnaldo Bernacchini"
+      ],
+      "utterance": "which driver and co-driver have the most points?",
+      "id": "nt-10308"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what were the number of drivers that finished with times under 7 minutes?",
+      "id": "nt-11271"
+    },
+    {
+      "targetValue": "Raffaele Pinto",
+      "utterance": "who finished with the least time?",
+      "id": "nt-13466"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times was the fiat abarth 124 rallye car used?",
+      "id": "nt-13592"
+    }
+  ],
+  "metadata": {
+    "title": "1974 Rallye de Portugal",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17294230&oldid=551576311",
+    "tableIndex": 0,
+    "hashcode": "81a419647c322bb0985406d16a501fe5667a36fc",
+    "id": 17294230,
+    "revision": 551576311
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "9",
+      "utterance": "what is the number of tv shows that charmaine sheh has appeared on?",
+      "id": "nt-67"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the number of other guests in the 2002 show \"a trio delights\"?",
+      "id": "nt-1901"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "how many episodes was charmaine sheh on in the variety show super trio 2: movie buff champions",
+      "id": "nt-4027"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "what year was the only year were a tie occurred?",
+      "id": "nt-5905"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what was the total number of trio series shows were charmaine sheh on?",
+      "id": "nt-7279"
+    },
+    {
+      "targetValue": "17 years",
+      "utterance": "how long has it been since chermaine sheh first appeared on a variety show?",
+      "id": "nt-8758"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many of shows had at least 5 episodes?",
+      "id": "nt-9366"
+    },
+    {
+      "targetValue": "34",
+      "utterance": "how many consecutive trio shows did charmaine sheh do before being on another variety program?",
+      "id": "nt-13056"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many times has charmaine sheh won on a variety show?",
+      "id": "nt-13574"
+    }
+  ],
+  "metadata": {
+    "title": "Charmaine Sheh",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2455458&oldid=601840092",
+    "tableIndex": 1,
+    "hashcode": "3fd85c3ae38e3e5b39cd582a22b8877b89c24619",
+    "id": 2455458,
+    "revision": 601840092
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many chevrolets finished in the top ten?",
+      "id": "nt-1309"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "the number of cars finishing in the top ten for braun racing.",
+      "id": "nt-5413"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many chevrolets were in the top 10?",
+      "id": "nt-6106"
+    },
+    {
+      "targetValue": "30",
+      "utterance": "the percent of toyotas in the top ten.",
+      "id": "nt-7587"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many toyotas were there in the top 10 finishes?",
+      "id": "nt-8588"
+    },
+    {
+      "targetValue": "Carl Edwards",
+      "utterance": "which driver earned 4th place?",
+      "id": "nt-8921"
+    },
+    {
+      "targetValue": "Jason Leffler",
+      "utterance": "who placed first in the race?",
+      "id": "nt-9668"
+    },
+    {
+      "targetValue": "after",
+      "utterance": "did scott wimmer place before or after carl edwards?",
+      "id": "nt-11083"
+    },
+    {
+      "targetValue": "Jason Leffler",
+      "utterance": "who was the first driver to finish?",
+      "id": "nt-11189"
+    },
+    {
+      "targetValue": "Braun Racing",
+      "utterance": "did jason leffler race for braun racing or michael waltrip racing?",
+      "id": "nt-12909"
+    }
+  ],
+  "metadata": {
+    "title": "2007 NASCAR Busch Series",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6458834&oldid=581107512",
+    "tableIndex": 23,
+    "hashcode": "645d5b4bfeb10809d00c9f284a73f5b285ae0485",
+    "id": 6458834,
+    "revision": 581107512
+  }
+}

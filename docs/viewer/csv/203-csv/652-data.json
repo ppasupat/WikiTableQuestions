@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many competitions had a score of 1-0 at most?",
+      "id": "nt-51"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total number times panama was the opponent?",
+      "id": "nt-1355"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what are the number of times the venue was located in el salvador?",
+      "id": "nt-2735"
+    },
+    {
+      "targetValue": "2010 FIFA World Cup qualification",
+      "utterance": "which type of competition was listed the most?",
+      "id": "nt-3800"
+    },
+    {
+      "targetValue": "2011 CONCACAF Gold Cup",
+      "utterance": "what type of competition was played the least?",
+      "id": "nt-6463"
+    }
+  ],
+  "metadata": {
+    "title": "Eliseo Quintanilla",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1013185&oldid=596839393",
+    "tableIndex": 0,
+    "hashcode": "4552eec567e49f2f2bdcba98e9aed5d2ffcc0450",
+    "id": 1013185,
+    "revision": 596839393
+  }
+}

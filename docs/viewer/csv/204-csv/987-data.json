@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Rodriguez",
+      "utterance": "what is the largest city in rizal in terms of area?",
+      "id": "nt-429"
+    },
+    {
+      "targetValue": "Binangonan",
+      "utterance": "what city has the most barangays?",
+      "id": "nt-2363"
+    },
+    {
+      "targetValue": "Pililla",
+      "utterance": "which city has the same number of barangays as teresa?",
+      "id": "nt-2526"
+    },
+    {
+      "targetValue": "Rodriguez",
+      "utterance": "which municipality has the largest area?",
+      "id": "nt-3402"
+    },
+    {
+      "targetValue": "Rodriguez",
+      "utterance": "which other city has the same number of barangays as jalajala",
+      "id": "nt-4934"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many barangays does the city of angono have?",
+      "id": "nt-5422"
+    },
+    {
+      "targetValue": "Taytay",
+      "utterance": "which city has only 5 barangays?",
+      "id": "nt-8070"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many cities have at least 10 barangays",
+      "id": "nt-9655"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many cities are there in rizal?",
+      "id": "nt-11383"
+    },
+    {
+      "targetValue": "Tanay",
+      "utterance": "the number of barangays in morong and rodriguez equals the number in which other municipality?",
+      "id": "nt-12031"
+    }
+  ],
+  "metadata": {
+    "title": "Rizal",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=232458&oldid=602174501",
+    "tableIndex": 0,
+    "hashcode": "6846fabd2cf664a7a9e4db4e1217dd8ef3c91cc1",
+    "id": 232458,
+    "revision": 602174501
+  }
+}

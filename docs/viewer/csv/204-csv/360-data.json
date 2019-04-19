@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "1976",
+      "utterance": "in what year did the fiba south america under-17 championship for women first begin?",
+      "id": "nt-196"
+    },
+    {
+      "targetValue": "Argentina",
+      "utterance": "what country has won at least eight silvers?",
+      "id": "nt-698"
+    },
+    {
+      "targetValue": "Argentina",
+      "utterance": "which country has the highest number of bronze wins?",
+      "id": "nt-3768"
+    },
+    {
+      "targetValue": "Paraguay (Asunción)",
+      "utterance": "who hosted the tournament before 1981?",
+      "id": "nt-3936"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many gold's has brazil won?",
+      "id": "nt-4040"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total number of times brazil and argentina did not win gold?",
+      "id": "nt-4767"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many countries took home the gold the same year they hosted fiba?",
+      "id": "nt-8621"
+    },
+    {
+      "targetValue": "Brazil",
+      "utterance": "which country has brought home the most gold?",
+      "id": "nt-9042"
+    },
+    {
+      "targetValue": [
+        "1987",
+        "2002",
+        "2009",
+        "2013"
+      ],
+      "utterance": "which years did chile place silver or bronze?",
+      "id": "nt-10496"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many gold medals did brazil win before 2000?",
+      "id": "nt-10848"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many times is the host country the same country that won silver?",
+      "id": "nt-12653"
+    }
+  ],
+  "metadata": {
+    "title": "FIBA South America Under-17 Championship for Women",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=35576176&oldid=596080599",
+    "tableIndex": 0,
+    "hashcode": "26af2f76bf5a929f23cd3ac4f735831ecfd84bb5",
+    "id": 35576176,
+    "revision": 596080599
+  }
+}

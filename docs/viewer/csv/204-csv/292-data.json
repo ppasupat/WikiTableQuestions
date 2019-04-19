@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "193",
+      "utterance": "total number of assists and turnovers combined",
+      "id": "nt-1702"
+    },
+    {
+      "targetValue": "Katie Hill",
+      "utterance": "who is the last player on the list to not attempt a 3 point shot?",
+      "id": "nt-2926"
+    },
+    {
+      "targetValue": "Amber Merritt",
+      "utterance": "which player had the most total points?",
+      "id": "nt-3210"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "number of 3 points attempted",
+      "id": "nt-3463"
+    },
+    {
+      "targetValue": "Cobi Crispin",
+      "utterance": "next to merritt, who was the top scorer?",
+      "id": "nt-4209"
+    },
+    {
+      "targetValue": "83",
+      "utterance": "what is the difference between the highest scoring player's points and the lowest scoring player's points?",
+      "id": "nt-4677"
+    },
+    {
+      "targetValue": "Bridie Kean",
+      "utterance": "who had more steals than any other player?",
+      "id": "nt-8080"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "after playing seven games, how many players individual points were above 30?",
+      "id": "nt-9644"
+    },
+    {
+      "targetValue": "Tina McKenzie",
+      "utterance": "which player played in the least games?",
+      "id": "nt-12025"
+    },
+    {
+      "targetValue": "Tina McKenzie",
+      "utterance": "who is the first person on the list to play less than 20 minutes?",
+      "id": "nt-13127"
+    }
+  ],
+  "metadata": {
+    "title": "Australia women's national wheelchair basketball team at the 2012 Summer Paralympics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=38371899&oldid=598737396",
+    "tableIndex": 8,
+    "hashcode": "10e72d9bb0eab06d68e13eb20167185cfd5b9d38",
+    "id": 38371899,
+    "revision": 598737396
+  }
+}

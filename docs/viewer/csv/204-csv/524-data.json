@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "what the tier before 2006/7?",
+      "id": "nt-596"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total amount of 5 tier season after 2005/06?",
+      "id": "nt-1621"
+    },
+    {
+      "targetValue": "2006/07",
+      "utterance": "the only two teir 4 years were 2008/09 and what other year?",
+      "id": "nt-2053"
+    },
+    {
+      "targetValue": "1ª Aut. Pref.",
+      "utterance": "in the 2005/2006 and 2010/2011 season, this team was a part of which tier?",
+      "id": "nt-3209"
+    },
+    {
+      "targetValue": "2nd",
+      "utterance": "what was the top place the team achieved?",
+      "id": "nt-4811"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the lowest tier season to season?",
+      "id": "nt-5311"
+    },
+    {
+      "targetValue": "2006/07",
+      "utterance": "what is the only season they were in 19th place?",
+      "id": "nt-5312"
+    },
+    {
+      "targetValue": "1ª Aut. Pref.",
+      "utterance": "which division were they in the most?",
+      "id": "nt-5710"
+    },
+    {
+      "targetValue": "2006/07",
+      "utterance": "what is the better season, 2005/06 or 2006/07?",
+      "id": "nt-5964"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "is 3rd place listed above 18th place?",
+      "id": "nt-6223"
+    },
+    {
+      "targetValue": "2011/12",
+      "utterance": "when was the only 8th place?",
+      "id": "nt-9785"
+    },
+    {
+      "targetValue": "2009/10",
+      "utterance": "what was the last year that this team placed 5th or better?",
+      "id": "nt-12324"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many years has this team been a part of the 1s aut. pref. division?",
+      "id": "nt-12787"
+    }
+  ],
+  "metadata": {
+    "title": "AD Torpedo 66",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20596277&oldid=596474633",
+    "tableIndex": 1,
+    "hashcode": "8b3e3a9b21f2396aec8c68f7c9dbc60acc770b68",
+    "id": 20596277,
+    "revision": 596474633
+  }
+}

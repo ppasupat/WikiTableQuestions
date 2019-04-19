@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Belgium",
+        "Hungary",
+        "Netherlands",
+        "Spain",
+        "Czechoslovakia",
+        "Italy",
+        "Denmark"
+      ],
+      "utterance": "name the countries with the least amount if silver medals?",
+      "id": "nt-101"
+    },
+    {
+      "targetValue": "England",
+      "utterance": "name one nation that earned at least two silver medals.",
+      "id": "nt-3487"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many nations received at least 3 medals total?",
+      "id": "nt-3669"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many gold medals did italy, belgium and ireland have altogether.",
+      "id": "nt-9425"
+    },
+    {
+      "targetValue": "Denmark",
+      "utterance": "what country is listed last on this list?",
+      "id": "nt-9670"
+    },
+    {
+      "targetValue": "England",
+      "utterance": "after france, who has the next highest amount of silver medals?",
+      "id": "nt-10444"
+    },
+    {
+      "targetValue": "France",
+      "utterance": "name one nation that did not earn a bronze medal.",
+      "id": "nt-10673"
+    },
+    {
+      "targetValue": "24",
+      "utterance": "what is the total number of medals given?",
+      "id": "nt-13067"
+    }
+  ],
+  "metadata": {
+    "title": "1947 European Amateur Boxing Championships",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14129554&oldid=601550787",
+    "tableIndex": 1,
+    "hashcode": "eedb1c7a52fc07c89b9d0458d7108503c788cc3b",
+    "id": 14129554,
+    "revision": 601550787
+  }
+}

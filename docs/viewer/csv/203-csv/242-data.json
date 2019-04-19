@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many times has fc shakhtyor salihorsk played in the uefa europa league competition?",
+      "id": "nt-3133"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the total number of seasons fc shakhtyor salihorsk had played in europe?",
+      "id": "nt-6583"
+    },
+    {
+      "targetValue": "14 years",
+      "utterance": "how long has fc shakhtyor salihorsk been playing in europe?",
+      "id": "nt-11552"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the number of ties?",
+      "id": "nt-12883"
+    }
+  ],
+  "metadata": {
+    "title": "FC Shakhtyor Salihorsk",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=833935&oldid=601809026",
+    "tableIndex": 1,
+    "hashcode": "435c669e84e1691415e1d459963a5176fa543296",
+    "id": 833935,
+    "revision": 601809026
+  }
+}

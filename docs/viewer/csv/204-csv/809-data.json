@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "119",
+      "utterance": "how many total points did russia win in this competition?",
+      "id": "nt-109"
+    },
+    {
+      "targetValue": "Portugal",
+      "utterance": "what country is in draw 17?",
+      "id": "nt-6291"
+    },
+    {
+      "targetValue": "Sweden",
+      "utterance": "what is the top placed country?",
+      "id": "nt-6405"
+    },
+    {
+      "targetValue": "Malta",
+      "utterance": "which country went first in this competition?",
+      "id": "nt-10191"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many of the songs in the 2008 ogae second chance contest were in english?",
+      "id": "nt-11361"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many countries other than spain placed 2nd in the national final category?",
+      "id": "nt-11611"
+    },
+    {
+      "targetValue": "Estonia",
+      "utterance": "which country received the least amount of points in the 2008 ogae second chance contest?",
+      "id": "nt-11736"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many participants sang english language songs?",
+      "id": "nt-12092"
+    },
+    {
+      "targetValue": "Finland",
+      "utterance": "what was the first country on the list to not place in the national finals?",
+      "id": "nt-12974"
+    }
+  ],
+  "metadata": {
+    "title": "OGAE Second Chance Contest 2008",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17846192&oldid=561770305",
+    "tableIndex": 0,
+    "hashcode": "192d5c614cf724c4fbc0cb3a3c6a707a732db16d",
+    "id": 17846192,
+    "revision": 561770305
+  }
+}

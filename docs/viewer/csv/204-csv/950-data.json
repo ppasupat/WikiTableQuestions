@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "what is the total number of medalists from the united states for bronze?",
+      "id": "nt-2890"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many medalist had at least 35.00 time in silver?",
+      "id": "nt-2979"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the number of times tucker fredricks finished?",
+      "id": "nt-6804"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many gold medals have been won by racers from japan?",
+      "id": "nt-7710"
+    },
+    {
+      "targetValue": "Japan",
+      "utterance": "what country has the most bronze?",
+      "id": "nt-9509"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many gold medalists were from japan?",
+      "id": "nt-11178"
+    },
+    {
+      "targetValue": "Dmitry Lobkov Russia",
+      "utterance": "who was the top performer from russia?",
+      "id": "nt-11644"
+    }
+  ],
+  "metadata": {
+    "title": "2011–12 ISU Speed Skating World Cup – Men's 500 metres",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33800288&oldid=595793698",
+    "tableIndex": 1,
+    "hashcode": "3ee949d442d72ca5b0db284901e70e7ada61b3aa",
+    "id": 33800288,
+    "revision": 595793698
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "examples": [
+    {
+      "targetValue": "Freeman",
+      "utterance": "which has the most land area in miles?",
+      "id": "nt-1817"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many townships in pope county, arkansas have populations of more than 1000?",
+      "id": "nt-1917"
+    },
+    {
+      "targetValue": "2871",
+      "utterance": "how much greater is the population of clark township than freeman township?",
+      "id": "nt-10906"
+    },
+    {
+      "targetValue": [
+        "Freeman",
+        "Phoenix"
+      ],
+      "utterance": "which township in pope county, arkansas has the least amount of water area?",
+      "id": "nt-11297"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "which townships in pope county, arkansas have larger land area than smyrna township?",
+      "id": "nt-11927"
+    },
+    {
+      "targetValue": "Griffin",
+      "utterance": "what town's population density is roughly the same as pheonix township?",
+      "id": "nt-12210"
+    },
+    {
+      "targetValue": [
+        "Freeman",
+        "Phoenix"
+      ],
+      "utterance": "which township has the least water area in miles?",
+      "id": "nt-12358"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "how many townships are there in pope county?",
+      "id": "nt-12958"
+    },
+    {
+      "targetValue": "452",
+      "utterance": "what is the total population of burnett township?",
+      "id": "nt-13098"
+    },
+    {
+      "targetValue": "Illinois",
+      "utterance": "which township has the largest population?",
+      "id": "nt-13817"
+    },
+    {
+      "targetValue": "Freeman",
+      "utterance": "which township in pope county, arkansas has the smallest population?",
+      "id": "nt-13886"
+    }
+  ],
+  "metadata": {
+    "title": "Pope County, Arkansas",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=97440&oldid=594730100",
+    "tableIndex": 0,
+    "hashcode": "b9e02bf455569a07e1f00a71f7ae5759582349c5",
+    "id": 97440,
+    "revision": 594730100
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "No",
+      "utterance": "are any of the lanes in consecutive order?",
+      "id": "nt-3413"
+    },
+    {
+      "targetValue": "Niamh Whelan",
+      "utterance": "which player is from ireland?",
+      "id": "nt-3763"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what number of last names start with \"b\"?",
+      "id": "nt-4558"
+    },
+    {
+      "targetValue": "Yelizaveta Bryzhina",
+      "utterance": "the first person to finish in heat 1?",
+      "id": "nt-9263"
+    },
+    {
+      "targetValue": "Yelizaveta Bryzhina",
+      "utterance": "who is the first ranking player?",
+      "id": "nt-9326"
+    },
+    {
+      "targetValue": "24.13",
+      "utterance": "how long did it take elin backman to finish the race?",
+      "id": "nt-11607"
+    },
+    {
+      "targetValue": "Yelizaveta Bryzhina",
+      "utterance": "name of athlete who came in first in heat 1 of the women's 200 metres",
+      "id": "nt-11922"
+    },
+    {
+      "targetValue": "0.65",
+      "utterance": "the difference between yelizaveta bryzhina's time and ksenija balta's time?",
+      "id": "nt-12562"
+    },
+    {
+      "targetValue": "Elin Backman",
+      "utterance": "whose time is more than. 24.00?",
+      "id": "nt-12973"
+    },
+    {
+      "targetValue": "Elin Backman",
+      "utterance": "who finished after sabina veit?",
+      "id": "nt-13029"
+    }
+  ],
+  "metadata": {
+    "title": "2010 European Athletics Championships – Women's 200 metres",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=26997345&oldid=599022062",
+    "tableIndex": 3,
+    "hashcode": "a9d4864370eada1e57cee739945e086a44e2dbcc",
+    "id": 26997345,
+    "revision": 599022062
+  }
+}

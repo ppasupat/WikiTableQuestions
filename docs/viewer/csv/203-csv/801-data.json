@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "19",
+      "utterance": "how long does this table cover in years?",
+      "id": "nt-11082"
+    }
+  ],
+  "metadata": {
+    "title": "FC Bayern Munich II",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9796637&oldid=602335633",
+    "tableIndex": 1,
+    "hashcode": "61722394de8e2e2cae6f02dc7c4bffd49d90aa1d",
+    "id": 9796637,
+    "revision": 602335633
+  }
+}

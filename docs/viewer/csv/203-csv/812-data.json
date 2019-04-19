@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Sweden",
+      "utterance": "who ranked right after turkey?",
+      "id": "nt-24"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "japan and france each won how many gold medals?",
+      "id": "nt-1075"
+    },
+    {
+      "targetValue": "Germany",
+      "utterance": "which nation was not in the top 10 iran or germany?",
+      "id": "nt-1484"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "which country had the highest number of medals?",
+      "id": "nt-1636"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many combined gold medals did japan and france win?",
+      "id": "nt-6248"
+    },
+    {
+      "targetValue": "Uzbekistan",
+      "utterance": "which country won only one medal, a bronze medal?",
+      "id": "nt-8266"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the total amount of nations with more than 5 bronze medals?",
+      "id": "nt-9061"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "who won more gold medals than the united states?",
+      "id": "nt-9498"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many silver medals did turkey win?",
+      "id": "nt-9556"
+    },
+    {
+      "targetValue": "Austria",
+      "utterance": "which nation has one gold medal but zero in both silver and bronze?",
+      "id": "nt-12363"
+    }
+  ],
+  "metadata": {
+    "title": "1995 World Wrestling Championships",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15379441&oldid=578052996",
+    "tableIndex": 0,
+    "hashcode": "08207329d0d6da1f3a608805b6f99136705e68f4",
+    "id": 15379441,
+    "revision": 578052996
+  }
+}

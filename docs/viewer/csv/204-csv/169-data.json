@@ -1,0 +1,76 @@
+{
+  "examples": [
+    {
+      "targetValue": "Lyubomir Popov",
+      "utterance": "which athlete finished the first race but did not finish the second race?",
+      "id": "nt-1458"
+    },
+    {
+      "targetValue": "1:10.73",
+      "utterance": "how long did it take for lyubomir popov to finish the giant slalom in race 1?",
+      "id": "nt-3136"
+    },
+    {
+      "targetValue": "Borislav Dimitrachkov",
+      "utterance": "who was the other athlete who tied in rank with lyubomir popov?",
+      "id": "nt-3665"
+    },
+    {
+      "targetValue": [
+        "Lyubomir Popov",
+        "Borislav Dimitrachkov",
+        "Petar Popangelov"
+      ],
+      "utterance": "which athletes had consecutive times under 58 for both races?",
+      "id": "nt-3887"
+    },
+    {
+      "targetValue": "23",
+      "utterance": "what is the rank number of stefan shalamanov in the slalom event",
+      "id": "nt-4182"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of athletes to finish race one in the giant slalom?",
+      "id": "nt-4825"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many athletes are there total?",
+      "id": "nt-6787"
+    },
+    {
+      "targetValue": "Petar Popangelov",
+      "utterance": "who came after borislav dimitrachkov and it's time for slalom",
+      "id": "nt-8631"
+    },
+    {
+      "targetValue": "Lyubomir Popov",
+      "utterance": "which athlete had a race time above 1:00?",
+      "id": "nt-8635"
+    },
+    {
+      "targetValue": "Stefan Shalamanov",
+      "utterance": "who was last in the slalom overall?",
+      "id": "nt-11119"
+    },
+    {
+      "targetValue": "Petar Popangelov",
+      "utterance": "who has the highest rank?",
+      "id": "nt-11791"
+    },
+    {
+      "targetValue": "3.94",
+      "utterance": "what is the difference in time for petar popangelov in race 1and 2",
+      "id": "nt-12004"
+    }
+  ],
+  "metadata": {
+    "title": "Bulgaria at the 1988 Winter Olympics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7700784&oldid=570018184",
+    "tableIndex": 0,
+    "hashcode": "c52367a501bd2ced6aded131f0da5fb581d4ff99",
+    "id": 7700784,
+    "revision": 570018184
+  }
+}

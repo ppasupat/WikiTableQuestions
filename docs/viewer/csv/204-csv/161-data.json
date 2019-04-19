@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Avro Anson",
+      "utterance": "which aircraft has the top number of aircraft in service?",
+      "id": "nt-2264"
+    },
+    {
+      "targetValue": "Bristol F.2B Fighter",
+      "utterance": "name one other aircrat besides the fairchild argus that only had 2 in service.",
+      "id": "nt-5680"
+    },
+    {
+      "targetValue": "4413",
+      "utterance": "how many avro ansons were used from 1940-1947?",
+      "id": "nt-5758"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "number of models manufactured in france",
+      "id": "nt-7760"
+    },
+    {
+      "targetValue": "100",
+      "utterance": "at lease how many bell griffons are in service.",
+      "id": "nt-9155"
+    },
+    {
+      "targetValue": "Avro 504",
+      "utterance": "where there more avro 504s or douglas digbys?",
+      "id": "nt-9485"
+    },
+    {
+      "targetValue": "US",
+      "utterance": "did the uk or the us manufacture the most canadian air forces planes?",
+      "id": "nt-9758"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many airco dh.4's did the uk use in their period of service?",
+      "id": "nt-12759"
+    },
+    {
+      "targetValue": "27 years",
+      "utterance": "how long was the canadair sabre in service?",
+      "id": "nt-13860"
+    },
+    {
+      "targetValue": "Hawker Hind",
+      "utterance": "which hawker had more in service. the hawker hart or the hawker hind?",
+      "id": "nt-13895"
+    }
+  ],
+  "metadata": {
+    "title": "List of aircraft of Canada's air forces",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=483548&oldid=595349885",
+    "tableIndex": 0,
+    "hashcode": "baaa813cf03ccd7edc1f1730674c3a5a998bffc6",
+    "id": 483548,
+    "revision": 595349885
+  }
+}

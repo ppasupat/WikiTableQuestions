@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Shane Carwin",
+      "utterance": "who has the most and best score?",
+      "id": "nt-47"
+    },
+    {
+      "targetValue": "UFC 81",
+      "utterance": "which event comes before dynamite!! usa?",
+      "id": "nt-511"
+    },
+    {
+      "targetValue": "July 3, 2010",
+      "utterance": "what was the last date that lesnar successfully defended the ufc heavyweight belt?",
+      "id": "nt-2075"
+    },
+    {
+      "targetValue": "UFC 116",
+      "utterance": "what event comes after ufc 121?",
+      "id": "nt-4383"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many fights lasted at least 2 rounds?",
+      "id": "nt-4853"
+    },
+    {
+      "targetValue": "Dynamite!! USA",
+      "utterance": "lesnar beat herring in ufc 87, in what event was his previous win?",
+      "id": "nt-4894"
+    },
+    {
+      "targetValue": "Shane Carwin",
+      "utterance": "after his second fight with frank mir who did he fight next?",
+      "id": "nt-6718"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what are the total number of fights he has been in?",
+      "id": "nt-9770"
+    },
+    {
+      "targetValue": "Frank Mir",
+      "utterance": "to whom did brock lesnar lose his first fight?",
+      "id": "nt-12049"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what was the total number of wins?",
+      "id": "nt-13873"
+    }
+  ],
+  "metadata": {
+    "title": "Brock Lesnar",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=316592&oldid=601139712",
+    "tableIndex": 1,
+    "hashcode": "0193fccc5c233d3c9970fc4c6487e93e71b714d5",
+    "id": 316592,
+    "revision": 601139712
+  }
+}

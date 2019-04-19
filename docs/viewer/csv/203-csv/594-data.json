@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many canals are longer than thirty miles?",
+      "id": "nt-632"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many more locks does caledonian canal have compared to aberdeenshire canal?",
+      "id": "nt-1960"
+    },
+    {
+      "targetValue": "Aberdeenshire Canal",
+      "utterance": "crinan canal is only half of what other canal",
+      "id": "nt-2779"
+    },
+    {
+      "targetValue": "2002",
+      "utterance": "the year forth and clyde was restored",
+      "id": "nt-5005"
+    },
+    {
+      "targetValue": "1.1",
+      "utterance": "how many miles long was the dingwall canal?",
+      "id": "nt-5122"
+    },
+    {
+      "targetValue": [
+        "Caledonian Canal",
+        "Union Canal"
+      ],
+      "utterance": "which was the last canal opened in scotland?",
+      "id": "nt-7575"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many canals are there in scotland?",
+      "id": "nt-7880"
+    },
+    {
+      "targetValue": "Stevenston Canal",
+      "utterance": "which was the first canal opened in scotland?",
+      "id": "nt-9446"
+    }
+  ],
+  "metadata": {
+    "title": "List of canals of the United Kingdom",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19893225&oldid=602017232",
+    "tableIndex": 2,
+    "hashcode": "f00904472ba0bc96a273b2b7f42bf3336d43d80e",
+    "id": 19893225,
+    "revision": 602017232
+  }
+}

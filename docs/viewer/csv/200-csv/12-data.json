@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "Twelfth Night",
+      "utterance": "what play was wanamaker nominated for best actress in a revival in 1984?",
+      "id": "nt-3751"
+    },
+    {
+      "targetValue": "Best Actress in a Revival",
+      "utterance": "what award did once in a lifetime win?",
+      "id": "nt-5331"
+    },
+    {
+      "targetValue": "1992",
+      "utterance": "what year was prime suspects nominated for the bafta tv award?",
+      "id": "nt-7999"
+    },
+    {
+      "targetValue": "Piaf!",
+      "utterance": "what play was wanamaker nominated for best featured in a play in 1981?",
+      "id": "nt-11216"
+    }
+  ],
+  "metadata": {
+    "title": "Zoë Wanamaker",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=65446&oldid=601797427",
+    "tableIndex": 0,
+    "hashcode": "8a90dd58e26314ba304d4f2ce5e209942062ce48",
+    "id": 65446,
+    "revision": 601797427
+  }
+}

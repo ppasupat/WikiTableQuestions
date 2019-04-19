@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Dominican Republic",
+      "utterance": "what country had the most receipts per capita in 2005?",
+      "id": "nt-680"
+    },
+    {
+      "targetValue": "22,395",
+      "utterance": "how many international tourism arrivals in 2010(x1000) did mexico have?",
+      "id": "nt-892"
+    },
+    {
+      "targetValue": "18,8",
+      "utterance": "tourism income in latin american countries in 2003 was at most what percentage of gdp?",
+      "id": "nt-1264"
+    },
+    {
+      "targetValue": "Brazil",
+      "utterance": "what country had the least arrivals per 1000 inhabitants in 2007(estimated)?",
+      "id": "nt-2212"
+    },
+    {
+      "targetValue": "Mexico",
+      "utterance": "what is the name of the country that had the most international tourism arrivals in 2010?",
+      "id": "nt-4467"
+    },
+    {
+      "targetValue": "1,147",
+      "utterance": "how many dollars on average did brazil receive per tourist in 2009?",
+      "id": "nt-6086"
+    },
+    {
+      "targetValue": "Brazil",
+      "utterance": "which country had the least amount of tourism income in 2003?",
+      "id": "nt-6327"
+    },
+    {
+      "targetValue": "Dominican Republic",
+      "utterance": "what country ranks the best in most categories?",
+      "id": "nt-7143"
+    },
+    {
+      "targetValue": "Mexico",
+      "utterance": "which latin american country had the largest number of tourism arrivals in 2010?",
+      "id": "nt-8867"
+    },
+    {
+      "targetValue": "1,147",
+      "utterance": "how does brazil rank in average receipts per visitor in 2009?",
+      "id": "nt-9465"
+    },
+    {
+      "targetValue": "Uruguay",
+      "utterance": "what is the last country listed on this chart?",
+      "id": "nt-10708"
+    },
+    {
+      "targetValue": "Dominican Republic",
+      "utterance": "what country makes the most tourist income?",
+      "id": "nt-12802"
+    }
+  ],
+  "metadata": {
+    "title": "Tourism in Brazil",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8794264&oldid=602114449",
+    "tableIndex": 1,
+    "hashcode": "96d10982be964ba480866728c80b6aed0cb163f5",
+    "id": 8794264,
+    "revision": 602114449
+  }
+}

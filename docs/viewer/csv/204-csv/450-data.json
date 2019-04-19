@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "12",
+      "utterance": "how many races was she above the top 10?",
+      "id": "nt-376"
+    },
+    {
+      "targetValue": "Grandma's Marathon",
+      "utterance": "what was the name of the competition listed before the boston marathon in 1984?",
+      "id": "nt-759"
+    },
+    {
+      "targetValue": "1984",
+      "utterance": "what year was the first olympics in which lorraine moller competed?",
+      "id": "nt-3731"
+    },
+    {
+      "targetValue": "1988 Olympic Games",
+      "utterance": "what was the only raced she placed in 33rd?",
+      "id": "nt-8755"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what were the total number of times the venue was located in the united states?",
+      "id": "nt-9243"
+    },
+    {
+      "targetValue": "2:28:17",
+      "utterance": "lorraine moller's top time overall was",
+      "id": "nt-10631"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what was the total number of marathons in japan that lorraine moller competed in?",
+      "id": "nt-12000"
+    },
+    {
+      "targetValue": "1st",
+      "utterance": "which position is listed the most on this chart?",
+      "id": "nt-12508"
+    },
+    {
+      "targetValue": "Seoul, South Korea",
+      "utterance": "what was the name of the venue after rome, italy?",
+      "id": "nt-12723"
+    }
+  ],
+  "metadata": {
+    "title": "Lorraine Moller",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6825109&oldid=598284053",
+    "tableIndex": 1,
+    "hashcode": "51bce56b18eeaf97a8cf43e67816f38e91c50828",
+    "id": 6825109,
+    "revision": 598284053
+  }
+}

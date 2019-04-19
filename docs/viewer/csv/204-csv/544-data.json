@@ -1,0 +1,76 @@
+{
+  "examples": [
+    {
+      "targetValue": "9",
+      "utterance": "in the 2002 pan pacific swimming championships women's 100 metre backstroke, how many competitors took at least 1:02.50 to finish?",
+      "id": "nt-679"
+    },
+    {
+      "targetValue": [
+        "13",
+        "14",
+        "15"
+      ],
+      "utterance": "in the 2002 pan pacific swimming championships women's 100 metre backstroke, canadian athletes claimed three consecutive finishes. what three finishes were they?",
+      "id": "nt-2915"
+    },
+    {
+      "targetValue": "Erin Gammel",
+      "utterance": "who was the first canadian player to finish?",
+      "id": "nt-4610"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many swimmers were there from the united states in the top five in the semifinals?",
+      "id": "nt-5945"
+    },
+    {
+      "targetValue": "Noriko Inada",
+      "utterance": "who was the last japanese player to finish?",
+      "id": "nt-6590"
+    },
+    {
+      "targetValue": "Aya Terakawa",
+      "utterance": "did aya terakawa or erin gammel rank higher?",
+      "id": "nt-7217"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many australians were in the top 10?",
+      "id": "nt-7670"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "in the 2002 pan pacific swimming championships women's 100 metre backstroke, which nation placed the most swimmers in the top eight?",
+      "id": "nt-8123"
+    },
+    {
+      "targetValue": "Dyana Calub",
+      "utterance": "who was the top ranked swimmer in the semifinals?",
+      "id": "nt-9309"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "in the 2002 pan pacific swimming championships women's 100 metre backstroke, how many swimmers finished above japan's aya terakawa in the ranking?",
+      "id": "nt-10988"
+    },
+    {
+      "targetValue": "Dyana Calub",
+      "utterance": "who was the only australian in the top five in the semifinals?",
+      "id": "nt-11013"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many finished the race in less than 1:02?",
+      "id": "nt-11476"
+    }
+  ],
+  "metadata": {
+    "title": "2002 Pan Pacific Swimming Championships – Women's 100 metre backstroke",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=42082198&oldid=597941385",
+    "tableIndex": 3,
+    "hashcode": "7b9564035a40dcac204e9c4f21f4f0f9c59eec04",
+    "id": 42082198,
+    "revision": 597941385
+  }
+}

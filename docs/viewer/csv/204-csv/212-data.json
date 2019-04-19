@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "how many people where in the match between psycho clown and supercrazy?",
+      "id": "nt-2201"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of times hair has been a wager?",
+      "id": "nt-2684"
+    },
+    {
+      "targetValue": "August 28, 2011",
+      "utterance": "which date was the wager not hair?",
+      "id": "nt-2866"
+    },
+    {
+      "targetValue": "Psycho Clown",
+      "utterance": "who won at least two times?",
+      "id": "nt-3044"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many consecutive times has hair been a wager?",
+      "id": "nt-4952"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many matches were in 2011?",
+      "id": "nt-5791"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many matches were held in mexico city?",
+      "id": "nt-8690"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times is \"psycho clown\" the winner?",
+      "id": "nt-9926"
+    },
+    {
+      "targetValue": "Psycho Clown vs Super Crazy",
+      "utterance": "which match was earlier, psycho clown vs super crazy or psycho clown vs x-fly?",
+      "id": "nt-10336"
+    },
+    {
+      "targetValue": "Title",
+      "utterance": "what is the only wager that is not \"hair\"?",
+      "id": "nt-10359"
+    },
+    {
+      "targetValue": "Hair",
+      "utterance": "what is the last wager on the chart?",
+      "id": "nt-11115"
+    },
+    {
+      "targetValue": "Damián 666",
+      "utterance": "which winner has numbers in his/her name?",
+      "id": "nt-11793"
+    }
+  ],
+  "metadata": {
+    "title": "Los Perros del Mal",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5068168&oldid=596645077",
+    "tableIndex": 0,
+    "hashcode": "057993f77a183ca1d94f95a81a69070258613e04",
+    "id": 5068168,
+    "revision": 596645077
+  }
+}

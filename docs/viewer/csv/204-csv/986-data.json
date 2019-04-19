@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "how many total different people have born the glad for samoa at the olympics?",
+      "id": "nt-1044"
+    },
+    {
+      "targetValue": "Apelu Ioane",
+      "utterance": "who was the first samoan flag bearer at the olympic games?",
+      "id": "nt-2066"
+    },
+    {
+      "targetValue": "Apelu Ioane",
+      "utterance": "who was the first flag bearer?",
+      "id": "nt-3186"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many years were held in summer?",
+      "id": "nt-3943"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the number or times samoa has been represented at the summer olympics?",
+      "id": "nt-3945"
+    },
+    {
+      "targetValue": "Ele Opeloge",
+      "utterance": "who was the latest athlete to bear the samoan flag at the olympic games?",
+      "id": "nt-4197"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total number of years ele opeloge was the samoa flag bearer at the olympics?",
+      "id": "nt-4854"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many athletes have been flag bearers for samoa at the olympic games?",
+      "id": "nt-5109"
+    },
+    {
+      "targetValue": "Bob Gasio",
+      "utterance": "who bore the flag the olympics after henry smith bore the flag?",
+      "id": "nt-8605"
+    },
+    {
+      "targetValue": "Ele Opeloge",
+      "utterance": "who bore the flag for samoa at consecutive summer olympic games?",
+      "id": "nt-10157"
+    },
+    {
+      "targetValue": [
+        "2008",
+        "2012"
+      ],
+      "utterance": "what two years had the same flag bearer?",
+      "id": "nt-12471"
+    }
+  ],
+  "metadata": {
+    "title": "List of flag bearers for Samoa at the Olympics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33535047&oldid=546246798",
+    "tableIndex": 0,
+    "hashcode": "7599cdfe39e10e3109a4b0a4c8dfec80a6009dfc",
+    "id": 33535047,
+    "revision": 546246798
+  }
+}

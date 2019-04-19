@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "what was the total number of wins in the season?",
+      "id": "nt-1299"
+    },
+    {
+      "targetValue": "New York",
+      "utterance": "last opponent that the utah starzz defeated in the season",
+      "id": "nt-2012"
+    },
+    {
+      "targetValue": "102",
+      "utterance": "what was their highest points scored in a game?",
+      "id": "nt-3120"
+    },
+    {
+      "targetValue": "June 23",
+      "utterance": "when was their first win of the season?",
+      "id": "nt-7206"
+    },
+    {
+      "targetValue": "52",
+      "utterance": "what is the least the starzzs have scored at a home game?",
+      "id": "nt-9635"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "number of games in which the starzz scored at most 59 points",
+      "id": "nt-12010"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many total wins did they have in july?",
+      "id": "nt-12096"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many home games did they play?",
+      "id": "nt-13791"
+    }
+  ],
+  "metadata": {
+    "title": "1997 Utah Starzz season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19775579&oldid=545466246",
+    "tableIndex": 3,
+    "hashcode": "32fee66e16b04c660c91f4034d976803ad5097ca",
+    "id": 19775579,
+    "revision": 545466246
+  }
+}

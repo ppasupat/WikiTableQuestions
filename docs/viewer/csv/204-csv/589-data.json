@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "ASOBAL",
+      "utterance": "which division is listed only once?",
+      "id": "nt-3295"
+    },
+    {
+      "targetValue": "Honor B",
+      "utterance": "does honor b or asobal have the larger tier?",
+      "id": "nt-6266"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times total was the team promoted?",
+      "id": "nt-9216"
+    },
+    {
+      "targetValue": "2011-12",
+      "utterance": "which season did they finish the highest?",
+      "id": "nt-9643"
+    },
+    {
+      "targetValue": "27",
+      "utterance": "what is the total of all of the tiers added together?",
+      "id": "nt-10014"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many were in the first tier?",
+      "id": "nt-10194"
+    },
+    {
+      "targetValue": "2012-13",
+      "utterance": "what was the only year the team was relegated?",
+      "id": "nt-10782"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many were in the 2nd pos.?",
+      "id": "nt-12300"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many seasons did the team score at least third?",
+      "id": "nt-12993"
+    },
+    {
+      "targetValue": "2011-12",
+      "utterance": "which season was more successful, 2012-13 or 2011-12.",
+      "id": "nt-13120"
+    },
+    {
+      "targetValue": "2003-04",
+      "utterance": "did the team place higher in the 2002-03 season or the 2003-04 season?",
+      "id": "nt-13737"
+    }
+  ],
+  "metadata": {
+    "title": "ARS Palma del Río",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=39210338&oldid=580605502",
+    "tableIndex": 1,
+    "hashcode": "1e6b3bb9a6909af9d413aca3476b8f780575c6af",
+    "id": 39210338,
+    "revision": 580605502
+  }
+}

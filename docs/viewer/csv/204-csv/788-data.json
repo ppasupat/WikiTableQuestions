@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Nigel Mansell",
+      "utterance": "which driver did not score less than 7 points?",
+      "id": "nt-474"
+    },
+    {
+      "targetValue": "Andrea Chiesa",
+      "utterance": "who is the only driver from switzerland?",
+      "id": "nt-1231"
+    },
+    {
+      "targetValue": "Ayrton Senna",
+      "utterance": "wendlinger finished 8th. who finished next?",
+      "id": "nt-2175"
+    },
+    {
+      "targetValue": "26",
+      "utterance": "what is the total of points in all?",
+      "id": "nt-4406"
+    },
+    {
+      "targetValue": "Christian Fittipaldi",
+      "utterance": "who finished the same amount of laps as belmondo?",
+      "id": "nt-6100"
+    },
+    {
+      "targetValue": "Nigel Mansell",
+      "utterance": "who is the first driver on the list?",
+      "id": "nt-6662"
+    },
+    {
+      "targetValue": "Moda-Judd",
+      "utterance": "who is the last constructor?",
+      "id": "nt-7037"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many drivers were from italy?",
+      "id": "nt-7050"
+    }
+  ],
+  "metadata": {
+    "title": "1992 Spanish Grand Prix",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1123136&oldid=554799863",
+    "tableIndex": 0,
+    "hashcode": "f3557e83ba9f06b5b8630bae53ca486611c26657",
+    "id": 1123136,
+    "revision": 554799863
+  }
+}

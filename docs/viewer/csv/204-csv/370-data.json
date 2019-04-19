@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "Panhellenic Socialist Movement",
+      "utterance": "in which party did the minister belong that held the longest term in office?",
+      "id": "nt-1435"
+    },
+    {
+      "targetValue": "Nikos Christodoulakis",
+      "utterance": "who was the first minister to take office in 2000?",
+      "id": "nt-1689"
+    },
+    {
+      "targetValue": "Nikos Christodoulakis",
+      "utterance": "who took office in 2000?",
+      "id": "nt-1742"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many ministers were in office less than a year?",
+      "id": "nt-1964"
+    },
+    {
+      "targetValue": "2007",
+      "utterance": "what year did christos folias take office?",
+      "id": "nt-2501"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many greek ministers of development were there before 2010?",
+      "id": "nt-3320"
+    },
+    {
+      "targetValue": "Dimitris Sioufas",
+      "utterance": "who was in office longer, venizelos or sioufas?",
+      "id": "nt-3816"
+    },
+    {
+      "targetValue": "Vasso Papandreou",
+      "utterance": "who was the first greek minister of development?",
+      "id": "nt-4886"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of greek ministers of development that were members of the new democracy party?",
+      "id": "nt-6524"
+    },
+    {
+      "targetValue": "New Democracy",
+      "utterance": "what party did dimitris sioufas belong to?",
+      "id": "nt-6761"
+    },
+    {
+      "targetValue": "Dimitris Sioufas",
+      "utterance": "who has held the position of greek minister of development the longest?",
+      "id": "nt-9330"
+    },
+    {
+      "targetValue": "Akis Tsochatzopoulos",
+      "utterance": "who was minister previous to sioufas?",
+      "id": "nt-11722"
+    },
+    {
+      "targetValue": "Christos Folias",
+      "utterance": "who was the previous minister of the new democracy party from 2007?",
+      "id": "nt-11973"
+    },
+    {
+      "targetValue": "Dimitris Sioufas",
+      "utterance": "who was the first new democracy member to hold this office?",
+      "id": "nt-13216"
+    }
+  ],
+  "metadata": {
+    "title": "Ministry of Development (Greece)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4025336&oldid=575669037",
+    "tableIndex": 0,
+    "hashcode": "65d0f672b3e4d0d7b789c88171c2a8ab33e8d3a8",
+    "id": 4025336,
+    "revision": 575669037
+  }
+}

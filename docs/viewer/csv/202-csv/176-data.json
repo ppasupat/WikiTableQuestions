@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "S Castro Shuttle",
+      "utterance": "on game days, which line do you want to use?",
+      "id": "nt-10056"
+    }
+  ],
+  "metadata": {
+    "title": "Muni Metro",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1451848&oldid=602040307",
+    "tableIndex": 0,
+    "hashcode": "3e62a6ff09743b29258f2f15a517332452c3c79b",
+    "id": 1451848,
+    "revision": 602040307
+  }
+}

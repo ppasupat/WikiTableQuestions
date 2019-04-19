@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many german women won medals?",
+      "id": "nt-13812"
+    }
+  ],
+  "metadata": {
+    "title": "1994 European Athletics Indoor Championships",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2343224&oldid=594176314",
+    "tableIndex": 1,
+    "hashcode": "5f968119087ac56f1c11164747d1652510b15cf3",
+    "id": 2343224,
+    "revision": 594176314
+  }
+}

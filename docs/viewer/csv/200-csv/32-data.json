@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "how many years did earl ball coach the muncie flyers?",
+      "id": "nt-730"
+    },
+    {
+      "targetValue": "1910",
+      "utterance": "in what year did the muncie flyers have an undefeated record?",
+      "id": "nt-1015"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many years did cooney checkaye coach the muncie flyers?",
+      "id": "nt-3994"
+    },
+    {
+      "targetValue": "1918",
+      "utterance": "the muncie flyers played from 1910 to 1925 in all but one of those years. which year did the flyers not play?",
+      "id": "nt-8088"
+    },
+    {
+      "targetValue": "Earl Ball",
+      "utterance": "who coached the muncie flyers to an indiana state championship?",
+      "id": "nt-9608"
+    }
+  ],
+  "metadata": {
+    "title": "Muncie Flyers",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=239750&oldid=583736136",
+    "tableIndex": 0,
+    "hashcode": "03049c14b0db4c276529e3d15d65520c3a9ff733",
+    "id": 239750,
+    "revision": 583736136
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Bergamo",
+      "utterance": "which has the most surface?",
+      "id": "nt-3073"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "does albino have more or less people than stezzano?",
+      "id": "nt-3470"
+    },
+    {
+      "targetValue": "Albino",
+      "utterance": "what is the highest city in terms of altitude?",
+      "id": "nt-3510"
+    },
+    {
+      "targetValue": "Osio Sotto",
+      "utterance": "which city had the least amount of surface area?",
+      "id": "nt-3740"
+    },
+    {
+      "targetValue": "25.036",
+      "utterance": "what was the total population of seriate?",
+      "id": "nt-4028"
+    },
+    {
+      "targetValue": "1622",
+      "utterance": "what is the density of the last city?",
+      "id": "nt-6552"
+    },
+    {
+      "targetValue": "Bergamo",
+      "utterance": "which city has the most people?",
+      "id": "nt-6566"
+    },
+    {
+      "targetValue": "Albino",
+      "utterance": "what city ranks first in altitude?",
+      "id": "nt-7652"
+    },
+    {
+      "targetValue": "Bergamo",
+      "utterance": "what city is the largest by surface area?",
+      "id": "nt-10394"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many cities appear on this chart?",
+      "id": "nt-11218"
+    },
+    {
+      "targetValue": "Osio Sotto",
+      "utterance": "what is the last city on this chart?",
+      "id": "nt-13232"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many cities are listed?",
+      "id": "nt-14032"
+    }
+  ],
+  "metadata": {
+    "title": "Province of Bergamo",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=987207&oldid=595517632",
+    "tableIndex": 0,
+    "hashcode": "c8b2e32397f6c745128aa44e60a2a7b849cc51d1",
+    "id": 987207,
+    "revision": 595517632
+  }
+}

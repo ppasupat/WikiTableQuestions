@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "what was the difference in the first and second leg for belgium?",
+      "id": "nt-5158"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many teams were in the play-offs?",
+      "id": "nt-7266"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many different countries participated?",
+      "id": "nt-7898"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the number of countries in each team?",
+      "id": "nt-11703"
+    }
+  ],
+  "metadata": {
+    "title": "2006 UEFA European Under-21 Championship qualification",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5267791&oldid=601895027",
+    "tableIndex": 9,
+    "hashcode": "4c7e8caee49a54384b9821087590bbfd7bd5f842",
+    "id": 5267791,
+    "revision": 601895027
+  }
+}

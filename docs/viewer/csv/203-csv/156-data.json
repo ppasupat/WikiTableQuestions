@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Resigned (hired by Leicester City)",
+      "utterance": "when ian holloway left plymouth argyle, what was his/her manner of departure?",
+      "id": "nt-1357"
+    },
+    {
+      "targetValue": "Leicester City",
+      "utterance": "what is the name of the team listed before burnley?",
+      "id": "nt-1600"
+    },
+    {
+      "targetValue": "mutual consent",
+      "utterance": "of the managerial changes in the 2007-08 football league championship season, of which were there more: managers who were fired or managers who left through mutual consent?",
+      "id": "nt-5290"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many managers were fired before november 2007?",
+      "id": "nt-5731"
+    },
+    {
+      "targetValue": "Luigi De Canio",
+      "utterance": "who is the last manager shown to have been appointed?",
+      "id": "nt-5777"
+    },
+    {
+      "targetValue": "Martin Allen",
+      "utterance": "which manager has the earliest date of appointment?",
+      "id": "nt-6332"
+    },
+    {
+      "targetValue": "3 days",
+      "utterance": "how long was there a vacancy at crystal palace?",
+      "id": "nt-6400"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what are the number of times the date of vacancy was in october?",
+      "id": "nt-10592"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times was the date of appointment in the month of november?",
+      "id": "nt-10840"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many managerial changes were there in the 2007-08 football league championship season?",
+      "id": "nt-11746"
+    },
+    {
+      "targetValue": "0 days",
+      "utterance": "what is the least number of days between vacancy and appointment dates?",
+      "id": "nt-12127"
+    }
+  ],
+  "metadata": {
+    "title": "2007–08 Football League Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19359427&oldid=583506382",
+    "tableIndex": 5,
+    "hashcode": "c9aa25bc724c6f0cfc57b65679dc971cebb1b2ba",
+    "id": 19359427,
+    "revision": 583506382
+  }
+}

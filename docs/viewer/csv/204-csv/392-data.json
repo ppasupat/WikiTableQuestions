@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "15,000",
+      "utterance": "how many more seats does at&t stadium have than ford field?",
+      "id": "nt-689"
+    },
+    {
+      "targetValue": "BC Place",
+      "utterance": "which stadium has the second largest capacity in canada?",
+      "id": "nt-1021"
+    },
+    {
+      "targetValue": "Milwaukee, Wisconsin",
+      "utterance": "what city is the miller park stadium located in?",
+      "id": "nt-1387"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many stadiums have a capacity of more than 70,000?",
+      "id": "nt-3726"
+    },
+    {
+      "targetValue": "Wembley Stadium",
+      "utterance": "is wembley stadium or att stadium larger?",
+      "id": "nt-5546"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "which country has the most stadiums with a capacity of more than 70,000?",
+      "id": "nt-7004"
+    },
+    {
+      "targetValue": "Astana Arena",
+      "utterance": "which is the only stadium on the list that is in kazakhstan?",
+      "id": "nt-8388"
+    },
+    {
+      "targetValue": "Wembley Stadium",
+      "utterance": "which stadium has the highest capacity?",
+      "id": "nt-8992"
+    },
+    {
+      "targetValue": "Wembley Stadium",
+      "utterance": "which stadium holds the most people?",
+      "id": "nt-9854"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many stadiums are above 60,000 people?",
+      "id": "nt-11858"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "which country has the smallest capacity stadium?",
+      "id": "nt-12585"
+    }
+  ],
+  "metadata": {
+    "title": "List of covered stadiums by capacity",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19032060&oldid=601241432",
+    "tableIndex": 0,
+    "hashcode": "692bb0eadceb6d46572a14ba905059333a33c261",
+    "id": 19032060,
+    "revision": 601241432
+  }
+}

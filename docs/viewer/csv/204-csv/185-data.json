@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "there is at least how many locations?",
+      "id": "nt-877"
+    },
+    {
+      "targetValue": "North County Complex",
+      "utterance": "which project location has the lowest outupt?",
+      "id": "nt-938"
+    },
+    {
+      "targetValue": "Brentwood",
+      "utterance": "what is the next town after riverside?",
+      "id": "nt-3075"
+    },
+    {
+      "targetValue": "Hauppauge",
+      "utterance": "what was the only town with two project locations?",
+      "id": "nt-5387"
+    },
+    {
+      "targetValue": "31",
+      "utterance": "what was the number of arrays of the riverhead county center project location?",
+      "id": "nt-6763"
+    },
+    {
+      "targetValue": "152",
+      "utterance": "how many arrays are not in hauppauge?",
+      "id": "nt-9185"
+    },
+    {
+      "targetValue": "Brentwood LIRR Parking Lot",
+      "utterance": "what is the only location with an output of 1?",
+      "id": "nt-10987"
+    },
+    {
+      "targetValue": "Deer Park LIRR Parking Lot",
+      "utterance": "which project location has a higher number of arrays, north county or deer park?",
+      "id": "nt-13423"
+    }
+  ],
+  "metadata": {
+    "title": "Long Island Solar Farm",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=34833550&oldid=600788316",
+    "tableIndex": 1,
+    "hashcode": "4b65f73a2c542a2546d2fd753c19bf2183c0cbea",
+    "id": 34833550,
+    "revision": 600788316
+  }
+}

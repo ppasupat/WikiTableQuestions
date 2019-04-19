@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "9",
+      "utterance": "how many total replacements happened in this session?",
+      "id": "nt-6366"
+    },
+    {
+      "targetValue": "Stuart Symington (D)",
+      "utterance": "who resigned the same day as roman hruska?",
+      "id": "nt-8035"
+    },
+    {
+      "targetValue": "Donald W. Riegle, Jr. (D)",
+      "utterance": "who is the only member of the 94th united states congress to gain a senate seat because of his predecessor's death?",
+      "id": "nt-12376"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many senators resigned in 1976?",
+      "id": "nt-12444"
+    },
+    {
+      "targetValue": "Walter Mondale (DFL)",
+      "utterance": "who resigned his senate seat after being elected vice-president of the united states?",
+      "id": "nt-13091"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many senators were replaced between december 25, 1976, and january 2, 1977?",
+      "id": "nt-14143"
+    }
+  ],
+  "metadata": {
+    "title": "94th United States Congress",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=681127&oldid=593203889",
+    "tableIndex": 1,
+    "hashcode": "e0564720bf999ae2a91a135582ced3bbef670f29",
+    "id": 681127,
+    "revision": 593203889
+  }
+}

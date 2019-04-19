@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "1,400 tons",
+      "utterance": "how many tons does the te-class displace?",
+      "id": "nt-2585"
+    },
+    {
+      "targetValue": "940 tons",
+      "utterance": "how many tons of displacement does type b have?",
+      "id": "nt-4393"
+    },
+    {
+      "targetValue": "28 knots",
+      "utterance": "in 1968 italy used alpino-class frigate. what was its top speed?",
+      "id": "nt-5300"
+    },
+    {
+      "targetValue": "2 knots",
+      "utterance": "what is the difference in speed for the gmt-class and the te-class?",
+      "id": "nt-7464"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many consecutive escorts were in 1943?",
+      "id": "nt-9967"
+    },
+    {
+      "targetValue": "Alvand-class frigate",
+      "utterance": "which of the boats listed is the fastest?",
+      "id": "nt-10022"
+    },
+    {
+      "targetValue": "40 knots",
+      "utterance": "what is the top speed?",
+      "id": "nt-11430"
+    },
+    {
+      "targetValue": "Knox-class",
+      "utterance": "which name has the largest displacement?",
+      "id": "nt-12580"
+    }
+  ],
+  "metadata": {
+    "title": "Destroyer escort",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=609309&oldid=602026227",
+    "tableIndex": 0,
+    "hashcode": "3003120ecb4e314fa11d6c98a278b39ef4fe2802",
+    "id": 609309,
+    "revision": 602026227
+  }
+}

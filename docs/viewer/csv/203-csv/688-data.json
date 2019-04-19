@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "4,510",
+      "utterance": "what was the top speed in miles per hour?",
+      "id": "nt-983"
+    },
+    {
+      "targetValue": "William J. Knight",
+      "utterance": "who was the pilot for the north american x-15?",
+      "id": "nt-1603"
+    },
+    {
+      "targetValue": "Frank Scarabino",
+      "utterance": "who was the pilot of the mit monarch b?",
+      "id": "nt-2285"
+    },
+    {
+      "targetValue": "Helicopter",
+      "utterance": "what category does the westland lynx 800 g-l ynx fall under?",
+      "id": "nt-2454"
+    },
+    {
+      "targetValue": "Propeller-driven aircraft",
+      "utterance": "name one aircraft that can travel at least 500.00 mph.",
+      "id": "nt-9460"
+    },
+    {
+      "targetValue": "Human-powered aircraft",
+      "utterance": "what is the least fastest aircraft?",
+      "id": "nt-11810"
+    },
+    {
+      "targetValue": "Manned air-breathing craft",
+      "utterance": "what is the next fastest after the rocket-powered aircraft?",
+      "id": "nt-12357"
+    }
+  ],
+  "metadata": {
+    "title": "List of vehicle speed records",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16343705&oldid=597744534",
+    "tableIndex": 2,
+    "hashcode": "4f952c800afd470b02baaf691ce66220da3cd92a",
+    "id": 16343705,
+    "revision": 597744534
+  }
+}

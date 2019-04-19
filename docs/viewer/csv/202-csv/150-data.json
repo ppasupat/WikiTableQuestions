@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "35",
+      "utterance": "how many years after sir carne rasch's election was john macnamara elected?",
+      "id": "nt-5682"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many members identified with the liberal party?",
+      "id": "nt-8291"
+    }
+  ],
+  "metadata": {
+    "title": "Chelmsford (UK Parliament constituency)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3508427&oldid=596528174",
+    "tableIndex": 0,
+    "hashcode": "b3874be575059f61192c2595c7d6d7361d623d58",
+    "id": 3508427,
+    "revision": 596528174
+  }
+}

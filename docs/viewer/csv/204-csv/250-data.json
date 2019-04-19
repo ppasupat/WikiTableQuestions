@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "76,290",
+      "utterance": "what's the number of people who attended the oregon state game?",
+      "id": "nt-3533"
+    },
+    {
+      "targetValue": "Memorial Stadium • Lincoln, Nebraska",
+      "utterance": "what is the next site listed after lewis field?",
+      "id": "nt-3566"
+    },
+    {
+      "targetValue": "January",
+      "utterance": "which month is listed the least on this chart?",
+      "id": "nt-3789"
+    },
+    {
+      "targetValue": "September 9",
+      "utterance": "when is the first game?",
+      "id": "nt-7583"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "on average how many times was w listed as the result?",
+      "id": "nt-8177"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many games was their ranking not lower than #5?",
+      "id": "nt-10030"
+    },
+    {
+      "targetValue": "Memorial Stadium • Lincoln, Nebraska",
+      "utterance": "what site at most is taken place?",
+      "id": "nt-10523"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many games did they win by more than 7?",
+      "id": "nt-13963"
+    }
+  ],
+  "metadata": {
+    "title": "1989 Nebraska Cornhuskers football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=23007226&oldid=580022833",
+    "tableIndex": 0,
+    "hashcode": "429a05ac0e322c5e26cbbfe33bd788bb9a58dab7",
+    "id": 23007226,
+    "revision": 580022833
+  }
+}

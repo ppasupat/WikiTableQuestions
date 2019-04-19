@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Tomoyoshi Koyama",
+      "utterance": "out of all the people who have points, who has the least?",
+      "id": "nt-1614"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many racers did not use an aprilia or a honda?",
+      "id": "nt-2348"
+    },
+    {
+      "targetValue": "Mattia Pasini",
+      "utterance": "name a racer that had at least 20 points.",
+      "id": "nt-5183"
+    },
+    {
+      "targetValue": "Mattia Pasini",
+      "utterance": "which rider came in first with 25 points?",
+      "id": "nt-5693"
+    },
+    {
+      "targetValue": "43",
+      "utterance": "what was the total number of positions in the 125cc classification?",
+      "id": "nt-9378"
+    },
+    {
+      "targetValue": "Sergio Gadea",
+      "utterance": "who placed higher, bradl or gadea?",
+      "id": "nt-11483"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many german racers finished the race?",
+      "id": "nt-11639"
+    }
+  ],
+  "metadata": {
+    "title": "2006 German motorcycle Grand Prix",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5986196&oldid=573538369",
+    "tableIndex": 4,
+    "hashcode": "c61d621552ab9c9a57764996fd6122733b5f8218",
+    "id": 5986196,
+    "revision": 573538369
+  }
+}

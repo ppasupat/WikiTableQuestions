@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "92",
+      "utterance": "what is the total number of priests that have held the job in resita?",
+      "id": "nt-2059"
+    },
+    {
+      "targetValue": "4 years",
+      "utterance": "how long was pilzbach's period of service?",
+      "id": "nt-5403"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "how many priests were in service between 1845 and 1912?",
+      "id": "nt-8964"
+    },
+    {
+      "targetValue": "84",
+      "utterance": "how many priests did not begin service until after 1880?",
+      "id": "nt-9182"
+    },
+    {
+      "targetValue": "Fritsch",
+      "utterance": "what first name is just previous to kempf?",
+      "id": "nt-9984"
+    },
+    {
+      "targetValue": "74 years",
+      "utterance": "what is the difference between the year seitz died and the year aizele died?",
+      "id": "nt-10032"
+    },
+    {
+      "targetValue": "9 years",
+      "utterance": "how long did bottka paul serve?",
+      "id": "nt-10787"
+    },
+    {
+      "targetValue": "Amschlinger Franz",
+      "utterance": "who was the next priest after seitz michael?",
+      "id": "nt-11392"
+    }
+  ],
+  "metadata": {
+    "title": "Saint Mary of the Snows Church, Reșița",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41425624&oldid=602476587",
+    "tableIndex": 0,
+    "hashcode": "1598183fd518e81895bedc0dc26052cda4de3044",
+    "id": 41425624,
+    "revision": 602476587
+  }
+}

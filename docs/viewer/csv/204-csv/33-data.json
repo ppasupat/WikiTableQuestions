@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Williams & Nixon, Deganwy",
+      "utterance": "what boat builder created the hie after the hirondelle?",
+      "id": "nt-4354"
+    },
+    {
+      "targetValue": "Highlea",
+      "utterance": "what is the oldest ship of these three: highlea, hijack or hi-falutin?",
+      "id": "nt-5018"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many boat builders are listed?",
+      "id": "nt-7389"
+    },
+    {
+      "targetValue": "1961",
+      "utterance": "which year saw the most ships produced?",
+      "id": "nt-7771"
+    },
+    {
+      "targetValue": "51",
+      "utterance": "what is the number of keelboats built between 1958-1962?",
+      "id": "nt-8406"
+    },
+    {
+      "targetValue": "10 years",
+      "utterance": "how long has the highlander been lying in heswall boat yard according to the table?",
+      "id": "nt-9766"
+    },
+    {
+      "targetValue": "Hilbre",
+      "utterance": "which of highlight, hilary and hilbre was not built in 1959?",
+      "id": "nt-12480"
+    },
+    {
+      "targetValue": "Enterprise Boat Company, Rock Ferry",
+      "utterance": "which boat builder is the most popular?",
+      "id": "nt-13619"
+    }
+  ],
+  "metadata": {
+    "title": "Hilbre One Design",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14207144&oldid=566077042",
+    "tableIndex": 0,
+    "hashcode": "cb2878d090507055976fb6145e857ff932bfc94a",
+    "id": 14207144,
+    "revision": 566077042
+  }
+}

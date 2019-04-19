@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Asian Championships",
+      "utterance": "which competition was in tokyo, japan but came in 2nd position?",
+      "id": "nt-343"
+    },
+    {
+      "targetValue": "1981",
+      "utterance": "what year was itoh's only victory at the 10,000m distance.",
+      "id": "nt-827"
+    },
+    {
+      "targetValue": "Before",
+      "utterance": "did ito take 1st in the 10,000m before or after he took 28th in the 10,000m?",
+      "id": "nt-2716"
+    },
+    {
+      "targetValue": "World Championships",
+      "utterance": "which competition came in last position out of all of the competitions shown?",
+      "id": "nt-3375"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "list the number of fukuoka marathons.",
+      "id": "nt-3806"
+    },
+    {
+      "targetValue": "28th",
+      "utterance": "what was the least position won?",
+      "id": "nt-8023"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times did japan place in the top 2?",
+      "id": "nt-8083"
+    },
+    {
+      "targetValue": "Helsinki, Finland",
+      "utterance": "what was the only venue not in an asian country where japan placed?",
+      "id": "nt-9492"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the number of achievements listed for ito?",
+      "id": "nt-13079"
+    },
+    {
+      "targetValue": "29:49.04",
+      "utterance": "what is the most time it too for itoh to complete an event?",
+      "id": "nt-13446"
+    }
+  ],
+  "metadata": {
+    "title": "Kunimitsu Itō",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15168493&oldid=545099018",
+    "tableIndex": 0,
+    "hashcode": "e5d5bb126c9f1ac389c76e83ce45b5293646cf42",
+    "id": 15168493,
+    "revision": 545099018
+  }
+}

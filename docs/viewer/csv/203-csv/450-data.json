@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Chelsea",
+      "utterance": "what was the only team to place 5th called?",
+      "id": "nt-1279"
+    },
+    {
+      "targetValue": "Manchester City",
+      "utterance": "what was the top team according to position in table called?",
+      "id": "nt-1529"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "avram grant was with chelsea for at least how many years?",
+      "id": "nt-4474"
+    },
+    {
+      "targetValue": "Mark Hughes",
+      "utterance": "which new manager was purchased for the most money in the 2007-08 premier league season?",
+      "id": "nt-5807"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many teams had a manner of departure due to there contract being terminated?",
+      "id": "nt-6331"
+    },
+    {
+      "targetValue": "Sven-Göran Eriksson",
+      "utterance": "who was manager of manchester city after stuart pearce left in 2007?",
+      "id": "nt-6778"
+    },
+    {
+      "targetValue": "Chelsea",
+      "utterance": "what team is listed after manchester city?",
+      "id": "nt-10113"
+    },
+    {
+      "targetValue": "Mark Hughes",
+      "utterance": "which outgoing manager was appointed the last?",
+      "id": "nt-11901"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many outgoing managers were appointed in november 2007?",
+      "id": "nt-12584"
+    }
+  ],
+  "metadata": {
+    "title": "2007–08 Premier League",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10592536&oldid=602244760",
+    "tableIndex": 7,
+    "hashcode": "c4396af38ec8b31a37b6c98c1f360ea68873214b",
+    "id": 10592536,
+    "revision": 602244760
+  }
+}

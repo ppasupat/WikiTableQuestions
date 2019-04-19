@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "10",
+      "utterance": "how many gold medals did this country win during these olympics?",
+      "id": "nt-160"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many medals were won after august 3?",
+      "id": "nt-1583"
+    },
+    {
+      "targetValue": "Cycling",
+      "utterance": "what sport did louis challiot win the same medal as paul chocque in?",
+      "id": "nt-2345"
+    },
+    {
+      "targetValue": "Individual dressage",
+      "utterance": "what event is listed right before team dressage?",
+      "id": "nt-2733"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many total gold medals were won by weightlifting?",
+      "id": "nt-5790"
+    },
+    {
+      "targetValue": "Cycling",
+      "utterance": "which event won the most medals?",
+      "id": "nt-6520"
+    },
+    {
+      "targetValue": "Cycling",
+      "utterance": "louis chaillot won a gold medal for cycling and a silver medal for what sport?",
+      "id": "nt-6941"
+    },
+    {
+      "targetValue": "August 1",
+      "utterance": "what is next date that is listed after august 7th?",
+      "id": "nt-7770"
+    },
+    {
+      "targetValue": "Cycling",
+      "utterance": "what sport is listed first?",
+      "id": "nt-11310"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "was there more gold medals won than silver?",
+      "id": "nt-14011"
+    }
+  ],
+  "metadata": {
+    "title": "France at the 1932 Summer Olympics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4552621&oldid=549421708",
+    "tableIndex": 0,
+    "hashcode": "12319fb5ad64486017b5d5f922755f0f9040b26b",
+    "id": 4552621,
+    "revision": 549421708
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "Zimbabwe",
+      "utterance": "what country had the least gdp growth from 2007-2011?",
+      "id": "nt-137"
+    },
+    {
+      "targetValue": "Egypt",
+      "utterance": "what is the only country to have a gdp per capita of 6,324?",
+      "id": "nt-1593"
+    },
+    {
+      "targetValue": "South Africa",
+      "utterance": "which is the top african nation that earns the most gdp in billions?",
+      "id": "nt-2734"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "there are how many countries with a total gdp greater than 100?",
+      "id": "nt-6636"
+    },
+    {
+      "targetValue": "Zimbabwe",
+      "utterance": "which country is the only country to have 0.6% in gdp growth?",
+      "id": "nt-6952"
+    },
+    {
+      "targetValue": "Chad",
+      "utterance": "which country has their total gdp as 9.5 billion and their gdp per capita as 1,531?",
+      "id": "nt-7286"
+    },
+    {
+      "targetValue": "Mali",
+      "utterance": "which countries have same gdp growth as mauritius",
+      "id": "nt-8641"
+    },
+    {
+      "targetValue": "1.0",
+      "utterance": "seychelles and guinea-bissau have the same total gdp (nominal) of ?",
+      "id": "nt-8856"
+    },
+    {
+      "targetValue": "Ivory Coast",
+      "utterance": "which country has the least gdp growth where gdp nominal is more than 5 and gdp per capita is less than 5000",
+      "id": "nt-9142"
+    },
+    {
+      "targetValue": "Zimbabwe",
+      "utterance": "which is the last african nation in the list?",
+      "id": "nt-9817"
+    },
+    {
+      "targetValue": "Ethiopia",
+      "utterance": "who has the larger gdp growth angola or ethiopia?",
+      "id": "nt-10608"
+    },
+    {
+      "targetValue": "South Africa",
+      "utterance": "which country has the most in total gdp?",
+      "id": "nt-11600"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many countries have their total gdp as 2.2 billion dollars?",
+      "id": "nt-11945"
+    }
+  ],
+  "metadata": {
+    "title": "Economy of Africa",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1055517&oldid=599696692",
+    "tableIndex": 0,
+    "hashcode": "57ff97ddcbe73e88ef8cf6b1ec0ea8a39df163e4",
+    "id": 1055517,
+    "revision": 599696692
+  }
+}

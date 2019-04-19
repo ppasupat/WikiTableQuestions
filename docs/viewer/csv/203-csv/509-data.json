@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "9",
+      "utterance": "how many times does philanthropist appear in the position column on this chart?",
+      "id": "nt-2097"
+    },
+    {
+      "targetValue": "I.A. O'Shaughnessy",
+      "utterance": "who won the medal after thomas e. murray in 1952?",
+      "id": "nt-5210"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many lawyers have won the award between 1883 and 2014?",
+      "id": "nt-5521"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many laetare medalists were philantrohpists?",
+      "id": "nt-6004"
+    },
+    {
+      "targetValue": "Dr. Joseph E. Murray",
+      "utterance": "who has won this medal and the nobel prize as well?",
+      "id": "nt-7687"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what are the total number of times soldier is listed as the position on this chart?",
+      "id": "nt-8021"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many are or were journalists?",
+      "id": "nt-11337"
+    },
+    {
+      "targetValue": "General Joseph L. Collins",
+      "utterance": "who was the previous winner before john henry phelan in 1951?",
+      "id": "nt-12936"
+    },
+    {
+      "targetValue": "General John Newton",
+      "utterance": "what is the name of the laetare medalist listed before edward preuss?",
+      "id": "nt-13529"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what are the number of laetare medalist that held a diplomat position?",
+      "id": "nt-13537"
+    }
+  ],
+  "metadata": {
+    "title": "Laetare Medal",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14811260&oldid=601962794",
+    "tableIndex": 0,
+    "hashcode": "9c8f1edc09635f15e5682e91d9261e30ec3649de",
+    "id": 14811260,
+    "revision": 601962794
+  }
+}

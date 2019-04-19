@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Ultimo Gladiador and Ultimo Vampiro",
+      "utterance": "other than scorpio, jr. and super crazy, name a championship that took place at iwl oktoberfest.",
+      "id": "nt-838"
+    },
+    {
+      "targetValue": "145",
+      "utterance": "how many days did ultimo gladiador and ultimo vampiro hold the title?",
+      "id": "nt-1333"
+    },
+    {
+      "targetValue": "IWL Oktoberfest",
+      "utterance": "which event was the longest amount of days held?",
+      "id": "nt-1346"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many events were held in 2011",
+      "id": "nt-6171"
+    },
+    {
+      "targetValue": "Scorpio, Jr. and Super Crazy",
+      "utterance": "who held the championship title longest?",
+      "id": "nt-9357"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "did los perros del mal hold the championship title before ultimo gladiador and ultimo vampiro?",
+      "id": "nt-9393"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many tag teams held the title for more than 300 days?",
+      "id": "nt-11114"
+    },
+    {
+      "targetValue": "Live event",
+      "utterance": "what was the last event to be held?",
+      "id": "nt-12670"
+    },
+    {
+      "targetValue": "Tlalnepantla, State of Mexico",
+      "utterance": "what location saw the most matches?",
+      "id": "nt-13293"
+    }
+  ],
+  "metadata": {
+    "title": "International Wrestling League",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=32287867&oldid=588431321",
+    "tableIndex": 6,
+    "hashcode": "e061f98bf0386e0ae38cfd3645c44a86e81d9d92",
+    "id": 32287867,
+    "revision": 588431321
+  }
+}

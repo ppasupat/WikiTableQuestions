@@ -1,0 +1,56 @@
+{
+  "examples": [
+    {
+      "targetValue": "Marisela Moreno Montero",
+      "utterance": "who is the other person who is 24 years old besides reyna royo?",
+      "id": "nt-35"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many contestants are 20 years old?",
+      "id": "nt-2028"
+    },
+    {
+      "targetValue": "0.11 mts",
+      "utterance": "what is the height difference between contestant reyna royo and michelle krisko sugasti?",
+      "id": "nt-6193"
+    },
+    {
+      "targetValue": "Mildred Kincaid Adames",
+      "utterance": "who is the first person that is being represented?",
+      "id": "nt-6944"
+    },
+    {
+      "targetValue": "Karol Guevara",
+      "utterance": "which contestant is older, karol guevara or patricia de leon?",
+      "id": "nt-7457"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many contestants are at least 21 years old?",
+      "id": "nt-10834"
+    },
+    {
+      "targetValue": [
+        "Giovanna Alida Loaiza",
+        "Betsy Milena Batista",
+        "Lourdes Rodriguez"
+      ],
+      "utterance": "name each contestant whose age is 21?",
+      "id": "nt-12774"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many contestants were below 1.75 mts?",
+      "id": "nt-13970"
+    }
+  ],
+  "metadata": {
+    "title": "Señorita Panamá 1995",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=34442281&oldid=546931501",
+    "tableIndex": 2,
+    "hashcode": "5492c6e100600838dabdd255f0e2b7c9883eb586",
+    "id": 34442281,
+    "revision": 546931501
+  }
+}

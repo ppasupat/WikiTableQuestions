@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Indonesia",
+      "utterance": "which country has the highest 2017 gdp?",
+      "id": "nt-2551"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the total number of countries with names beginning with the letter 'b'?",
+      "id": "nt-3851"
+    },
+    {
+      "targetValue": "Comoros",
+      "utterance": "which country had the least amount of per capita usd in 2012?",
+      "id": "nt-3898"
+    },
+    {
+      "targetValue": "Qatar",
+      "utterance": "which country has the highest per capita (usd) for 2017?",
+      "id": "nt-5455"
+    },
+    {
+      "targetValue": "194.16",
+      "utterance": "what is the difference in 2012 gdp between albania and algeria?",
+      "id": "nt-5853"
+    },
+    {
+      "targetValue": "21.91",
+      "utterance": "what is the sum of the gdp (usd ppp bin, 2012) between niger and sierra?",
+      "id": "nt-6321"
+    },
+    {
+      "targetValue": "39",
+      "utterance": "how many countries had at least a gdp (usd bin) of eight or greater in 2012?",
+      "id": "nt-7065"
+    },
+    {
+      "targetValue": "Comoros",
+      "utterance": "which country has the lowest 2012 gdp at ppp in 2012?",
+      "id": "nt-7275"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many countries have a name that begins with a vowel?",
+      "id": "nt-9447"
+    },
+    {
+      "targetValue": "205.95",
+      "utterance": "what is the difference in the gdp (usd bin) in 2012 between algeria and comoros?",
+      "id": "nt-10386"
+    }
+  ],
+  "metadata": {
+    "title": "List of Organisation of Islamic Cooperation member states by GDP (PPP)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8322861&oldid=546605816",
+    "tableIndex": 0,
+    "hashcode": "7681f73eaebee13c4d5c0c0ece0b747c1ebb058f",
+    "id": 8322861,
+    "revision": 546605816
+  }
+}

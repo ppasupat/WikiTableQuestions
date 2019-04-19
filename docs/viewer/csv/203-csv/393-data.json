@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Vijayendra Prasad",
+      "utterance": "who directed the film rajanna?",
+      "id": "nt-62"
+    },
+    {
+      "targetValue": "Rajanna",
+      "utterance": "which film won the most awards?",
+      "id": "nt-1837"
+    },
+    {
+      "targetValue": "Dasari Narayana Rao",
+      "utterance": "what director has credit for directing the most films?",
+      "id": "nt-2629"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what was the number of awards won by prema katha?",
+      "id": "nt-4457"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many films were directed by suresh krishna?",
+      "id": "nt-8392"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "prema katha won more than how many awards compared to aaha?",
+      "id": "nt-10882"
+    },
+    {
+      "targetValue": "Seetharama Raju",
+      "utterance": "which film came directly after aaha?",
+      "id": "nt-11783"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the number of films produced in the 2000s?",
+      "id": "nt-13172"
+    }
+  ],
+  "metadata": {
+    "title": "Annapurna Studios",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6891148&oldid=599598411",
+    "tableIndex": 0,
+    "hashcode": "306a5ee8f5ccbea1033633a490d174192b3f381d",
+    "id": 6891148,
+    "revision": 599598411
+  }
+}

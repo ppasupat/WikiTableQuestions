@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "2 years",
+      "utterance": "how long was w.b. kingsmill club president?",
+      "id": "nt-2682"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many club presidents held their position in the 19th century?",
+      "id": "nt-3586"
+    },
+    {
+      "targetValue": "94",
+      "utterance": "count how many people were club president and give the total.",
+      "id": "nt-7793"
+    },
+    {
+      "targetValue": "W.B. Kingsmill",
+      "utterance": "which club president kept his position for the longest amount of time?",
+      "id": "nt-9291"
+    },
+    {
+      "targetValue": "Robert Cartwright",
+      "utterance": "who as the first rmc club president of the 20th century?",
+      "id": "nt-10234"
+    },
+    {
+      "targetValue": "128",
+      "utterance": "how many years does the table cover in total?",
+      "id": "nt-10941"
+    }
+  ],
+  "metadata": {
+    "title": "List of Royal Military College of Canada people",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10589218&oldid=594071086",
+    "tableIndex": 9,
+    "hashcode": "cb18bc4a2fa7a877c41fd1bab27dbd56cd8e81ee",
+    "id": 10589218,
+    "revision": 594071086
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Park and Missoula",
+      "utterance": "which two counties have the larger populations when combined - park and missoula or judith basin and madison?",
+      "id": "nt-201"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many counties have a median household income of at least $50,000?",
+      "id": "nt-896"
+    },
+    {
+      "targetValue": "McCone",
+      "utterance": "which county has only 774 households?",
+      "id": "nt-1345"
+    },
+    {
+      "targetValue": "Jefferson",
+      "utterance": "when ranking the counties from first to last in terms of median family income, the first would be...?",
+      "id": "nt-3123"
+    },
+    {
+      "targetValue": "Phillips",
+      "utterance": "who has more households between fallon and phillips?",
+      "id": "nt-7017"
+    },
+    {
+      "targetValue": "McCone",
+      "utterance": "what is the first county listed?",
+      "id": "nt-7060"
+    },
+    {
+      "targetValue": "McCone",
+      "utterance": "which is the first county on the chart",
+      "id": "nt-8549"
+    },
+    {
+      "targetValue": "351",
+      "utterance": "what is the difference between the per capita income in richland county and in sheridan county?",
+      "id": "nt-9275"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "are there less than 10,000 people in richland?",
+      "id": "nt-12660"
+    }
+  ],
+  "metadata": {
+    "title": "Montana locations by per capita income",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1828044&oldid=587194732",
+    "tableIndex": 0,
+    "hashcode": "8533b1b5f68d2437ddd75be4fcb632b94cd0aa98",
+    "id": 1828044,
+    "revision": 587194732
+  }
+}

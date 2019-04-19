@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many episodes of sailor moon did not have an english air date?",
+      "id": "nt-598"
+    },
+    {
+      "targetValue": "\"Who Is That Masked Man?\" / \"Usagi is Thrilled! Tuxedo Mask's Love Letter\" \"Usagi kangeki! Takishīdo Kamen no rabu retā\" (うさぎ感激!タキシード仮面の恋文)",
+      "utterance": "what was the first sailor moon episode to have an english air date in october, 1995?",
+      "id": "nt-1141"
+    },
+    {
+      "targetValue": "\"So You Want to Be a Superstar\" / \"Usagi Learns a Lesson! The Road to Stardom is Tough\" \"Usagi hansei! Sutā no michi wa kibishii\" (うさぎ反省!スターの道はきびしい)",
+      "utterance": "what is the name of the episode previous to computer school blues?",
+      "id": "nt-4229"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "how many episodes aired in english in the month of october?",
+      "id": "nt-5273"
+    },
+    {
+      "targetValue": "\"Who Is That Masked Man?\" / \"Usagi is Thrilled! Tuxedo Mask's Love Letter\"",
+      "utterance": "what is the english dubbed title of the first episode to air in english in october of 1995?",
+      "id": "nt-5451"
+    },
+    {
+      "targetValue": "41",
+      "utterance": "how many episodes had both an original air date and an english air date?",
+      "id": "nt-5462"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many episodes aired originally but not in english?",
+      "id": "nt-6084"
+    },
+    {
+      "targetValue": "46",
+      "utterance": "what is the number of sailor moon episodes?",
+      "id": "nt-6102"
+    },
+    {
+      "targetValue": "40",
+      "utterance": "episodes have been dubbed?",
+      "id": "nt-10589"
+    },
+    {
+      "targetValue": "11 months",
+      "utterance": "how long did sailor moon air for during season one originally?",
+      "id": "nt-11551"
+    },
+    {
+      "targetValue": "\"Dangerous Dollies\" / \"Shingo's Innocent Love! A Sorrowful French Doll\" \"Shingo no junjō! Kanashimi no Furansu ningyō\" (進悟の純情!哀しみのフランス人形)",
+      "utterance": "what was the name of the last episode to come out in september 1995?",
+      "id": "nt-11739"
+    }
+  ],
+  "metadata": {
+    "title": "List of Sailor Moon episodes",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3697600&oldid=600392201",
+    "tableIndex": 0,
+    "hashcode": "adec03133a8ca56cd4fd9b688bd51f909900f6a1",
+    "id": 3697600,
+    "revision": 600392201
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "what are the number of times antonov is listed as the manufacturer?",
+      "id": "nt-79"
+    },
+    {
+      "targetValue": "2007",
+      "utterance": "what year did the first model have its first flight?",
+      "id": "nt-926"
+    },
+    {
+      "targetValue": [
+        "Airbus",
+        "Alenia",
+        "Antonov",
+        "AVIC",
+        "CASA/Indonesian Aerospace",
+        "CASA",
+        "Embraer",
+        "Kawasaki",
+        "Lockheed"
+      ],
+      "utterance": "which manufacturer built a model that had a max range over 5,000 km?",
+      "id": "nt-1444"
+    },
+    {
+      "targetValue": "912",
+      "utterance": "what is the top cruise speed listed?",
+      "id": "nt-7069"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "is the max range of the c-5 galaxy greater than the max range of the c-1 trader?",
+      "id": "nt-9287"
+    },
+    {
+      "targetValue": "UAC/HAL Multirole Transport Aircraft",
+      "utterance": "what is the name of the last model listed on this chart?",
+      "id": "nt-10955"
+    }
+  ],
+  "metadata": {
+    "title": "Military transport aircraft",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6603263&oldid=589495097",
+    "tableIndex": 0,
+    "hashcode": "0a08c7f91b0ce2a5784e117b8346097cd29cffb6",
+    "id": 6603263,
+    "revision": 589495097
+  }
+}

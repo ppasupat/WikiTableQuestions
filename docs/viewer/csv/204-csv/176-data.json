@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "11",
+      "utterance": "what is the total number of markers that start with the letter b?",
+      "id": "nt-777"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the number of markers listed in highkand, new york ?",
+      "id": "nt-1547"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "is there a difference between marker name 2 and 4?",
+      "id": "nt-4452"
+    },
+    {
+      "targetValue": "Highland, New York",
+      "utterance": "brant's crossing is not in callicoon, new york but where?",
+      "id": "nt-4998"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the number of markers in highland, new york?",
+      "id": "nt-7781"
+    },
+    {
+      "targetValue": "180 years",
+      "utterance": "how long has early sawmill been standing ?",
+      "id": "nt-9011"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many churches are listed ?",
+      "id": "nt-9094"
+    },
+    {
+      "targetValue": "Early Sawmill",
+      "utterance": "what is the marker name after clark tannery?",
+      "id": "nt-10214"
+    },
+    {
+      "targetValue": "On W. Side NYS 52 At Southern End of Youngsville",
+      "utterance": "what is the only location of early sawmill?",
+      "id": "nt-10920"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "total number of markers from in callicoon, new york and forestburg, new york, combined.",
+      "id": "nt-13167"
+    }
+  ],
+  "metadata": {
+    "title": "List of New York State Historic Markers in Sullivan County, New York",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=22736121&oldid=559652778",
+    "tableIndex": 0,
+    "hashcode": "179385c4e8d27fd6fae86133f907bd989f259618",
+    "id": 22736121,
+    "revision": 559652778
+  }
+}

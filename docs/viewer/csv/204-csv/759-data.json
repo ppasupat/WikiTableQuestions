@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "European Junior Championships",
+      "utterance": "which one is the least in notes",
+      "id": "nt-723"
+    },
+    {
+      "targetValue": "2001",
+      "utterance": "in what year did laurens vault higher than in 2006?",
+      "id": "nt-2437"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many competitions did he finish in at least 10th place?",
+      "id": "nt-9077"
+    },
+    {
+      "targetValue": "World Junior Championships",
+      "utterance": "what competition was the only one where this competitor achieved 1st place?",
+      "id": "nt-10093"
+    },
+    {
+      "targetValue": "European Championships",
+      "utterance": "what was the last competition this competitor competed in?",
+      "id": "nt-11640"
+    }
+  ],
+  "metadata": {
+    "title": "Laurens Looije",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7165088&oldid=594429296",
+    "tableIndex": 0,
+    "hashcode": "14d4ed45f91fb2b669e805ed28eb01b6cef813fa",
+    "id": 7165088,
+    "revision": 594429296
+  }
+}

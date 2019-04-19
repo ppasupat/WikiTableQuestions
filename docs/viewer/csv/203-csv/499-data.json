@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Payne Stewart",
+        "Bob Tway"
+      ],
+      "utterance": "which other player scored the same as the player from japan?",
+      "id": "nt-1452"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what was the number of people in the t* category of the 1986 masters tournament?",
+      "id": "nt-1825"
+    },
+    {
+      "targetValue": "Nick Price",
+      "utterance": "who came next after seve ballesteros?",
+      "id": "nt-3199"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many golfers made at least $40,000?",
+      "id": "nt-3270"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the score difference between 6th place and 2nd place?",
+      "id": "nt-3749"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "number of golfers from the united states?",
+      "id": "nt-5896"
+    },
+    {
+      "targetValue": "282",
+      "utterance": "what is the average score of the players from the united states?",
+      "id": "nt-6586"
+    },
+    {
+      "targetValue": "Seve Ballesteros",
+      "utterance": "who is the only one in 4th place in the 1986 masters tournament?",
+      "id": "nt-6705"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many players received a score below 283?",
+      "id": "nt-6875"
+    },
+    {
+      "targetValue": "Greg Norman",
+      "utterance": "who is the first golfer not from the united states to finish in the top 10?",
+      "id": "nt-7022"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the difference in score between first place and eighth place?",
+      "id": "nt-7494"
+    }
+  ],
+  "metadata": {
+    "title": "1986 Masters Tournament",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12913985&oldid=599665792",
+    "tableIndex": 6,
+    "hashcode": "d0dcf0fb2a15dce5cdb43b76b110bfb8aba60495",
+    "id": 12913985,
+    "revision": 599665792
+  }
+}

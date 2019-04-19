@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "Nett",
+      "utterance": "which municipality has the most registered items?",
+      "id": "nt-8034"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many sites on the register are cemeteries?",
+      "id": "nt-9473"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many years are spanned from the earliest listing to the latest listing?",
+      "id": "nt-13964"
+    }
+  ],
+  "metadata": {
+    "title": "National Register of Historic Places listings in the Federated States of Micronesia",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3540757&oldid=583346617",
+    "tableIndex": 2,
+    "hashcode": "c7156c502e94f3c520c148a92c10d98dfc7247eb",
+    "id": 3540757,
+    "revision": 583346617
+  }
+}

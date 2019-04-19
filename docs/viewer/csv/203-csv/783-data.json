@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how long has internacional de madrid cf been playing in the 3ª division?",
+      "id": "nt-283"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many years was the team in the 3 a division?",
+      "id": "nt-1434"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many seasons did internacional de madrid cf play in the preferente division?",
+      "id": "nt-2279"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did internacional de madrid cf end the season at the top of their division?",
+      "id": "nt-2846"
+    },
+    {
+      "targetValue": "Preferente",
+      "utterance": "which division has the largest number of ranks?",
+      "id": "nt-3011"
+    },
+    {
+      "targetValue": "2 years",
+      "utterance": "how long did the team stay in first place?",
+      "id": "nt-4171"
+    },
+    {
+      "targetValue": "1st",
+      "utterance": "what place was 1a aficio and 3a aficio?",
+      "id": "nt-6624"
+    },
+    {
+      "targetValue": "2011/12",
+      "utterance": "in what year did the team achieve the same place as 2010/11?",
+      "id": "nt-8673"
+    },
+    {
+      "targetValue": "Preferente",
+      "utterance": "which division placed more than aficio 1a and 3a?",
+      "id": "nt-9046"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what was the number of wins for preferente?",
+      "id": "nt-10953"
+    }
+  ],
+  "metadata": {
+    "title": "Internacional de Madrid CF",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20393981&oldid=596202885",
+    "tableIndex": 0,
+    "hashcode": "d086d7ffe6484d925c7944c9eca3dc503c8b6679",
+    "id": 20393981,
+    "revision": 596202885
+  }
+}

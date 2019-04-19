@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "1995",
+      "utterance": "in what year did finland first face greece?",
+      "id": "nt-3339"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many losses did finland obtain?",
+      "id": "nt-4926"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many times was helsinki olympic stadium the venue?",
+      "id": "nt-5514"
+    },
+    {
+      "targetValue": "10 months",
+      "utterance": "how long (rounded to the nearest month), was it between jari litmanen's first international goal and second international goal?",
+      "id": "nt-6533"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "what were the number of times finland was the visiting team?",
+      "id": "nt-6800"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the total of games that were won in the helsinki olympic stadium?",
+      "id": "nt-7749"
+    },
+    {
+      "targetValue": "UEFA Euro 1992 qualifying",
+      "utterance": "what was the name of the first competition according to this chart?",
+      "id": "nt-9587"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "are the wins for finland more/less than their losses at home?",
+      "id": "nt-11078"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many games were won by more than 3 points?",
+      "id": "nt-12851"
+    }
+  ],
+  "metadata": {
+    "title": "Jari Litmanen",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=539123&oldid=597719201",
+    "tableIndex": 0,
+    "hashcode": "f65739748f3276c3cae2b8bcde784e7baeef2b2f",
+    "id": 539123,
+    "revision": 597719201
+  }
+}

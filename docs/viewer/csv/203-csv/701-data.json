@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "\"Son Of Niah\"",
+      "utterance": "what is the last track on the album?",
+      "id": "nt-495"
+    },
+    {
+      "targetValue": "\"Terra Firma Anthum (Skit)\"",
+      "utterance": "what track came after \"our time\"?",
+      "id": "nt-2976"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many songs are longer than 3:00?",
+      "id": "nt-4227"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many tracks were at least 3 minutes or more in length?",
+      "id": "nt-8442"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "\"the sagas of...\" contains this number of songs?",
+      "id": "nt-8613"
+    },
+    {
+      "targetValue": "\"Black Rose\"",
+      "utterance": "what track was next after \"all i got\"?",
+      "id": "nt-8941"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many titles are on the album?",
+      "id": "nt-9832"
+    },
+    {
+      "targetValue": "Zero",
+      "utterance": "what is the title of the first song in the album?",
+      "id": "nt-9996"
+    },
+    {
+      "targetValue": "\"It's Murda\"",
+      "utterance": "what song is longer in terms of time, \"it's murda\" or \"son of niah\"?",
+      "id": "nt-12240"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many songs have kyza and skriblah as the featured guests?",
+      "id": "nt-12804"
+    },
+    {
+      "targetValue": "\"Son Of Niah\"",
+      "utterance": "what is the title to the last song?",
+      "id": "nt-13298"
+    },
+    {
+      "targetValue": "\"It's Murda\"",
+      "utterance": "what is the title of the song before track #4",
+      "id": "nt-13727"
+    }
+  ],
+  "metadata": {
+    "title": "The Sagas Of...",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8594526&oldid=574092464",
+    "tableIndex": 1,
+    "hashcode": "e1664855522a2e6e6eb270c941027f33d8efcb90",
+    "id": 8594526,
+    "revision": 574092464
+  }
+}

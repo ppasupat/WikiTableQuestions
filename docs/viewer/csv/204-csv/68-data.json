@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Joseph L. Parker Jr.",
+      "utterance": "other than william stuart price, which other businessman was born in tulsa?",
+      "id": "nt-1133"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of state regents who are attorneys?",
+      "id": "nt-2670"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "total number of members from lawton and oklahoma city",
+      "id": "nt-5048"
+    },
+    {
+      "targetValue": "John Massey",
+      "utterance": "which state regent's term will last the longest?",
+      "id": "nt-5705"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total amount of current state regents who are bankers?",
+      "id": "nt-6760"
+    },
+    {
+      "targetValue": "Mike Turpen",
+      "utterance": "which state regent is from the same hometown as ronald h. white, m.d.?",
+      "id": "nt-11672"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many members had businessman listed as their profession?",
+      "id": "nt-11754"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many of the current state regents have a listed office title?",
+      "id": "nt-12462"
+    },
+    {
+      "targetValue": "William Stuart Price",
+      "utterance": "other members of the state regents from tulsa besides joseph l. parker jr.",
+      "id": "nt-12929"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many of the current state regents will be in office until at least 2016?",
+      "id": "nt-13633"
+    }
+  ],
+  "metadata": {
+    "title": "Oklahoma State Regents for Higher Education",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15269572&oldid=583254230",
+    "tableIndex": 0,
+    "hashcode": "2ea70ff7cd61bb0aea89dbe6238be042b3587ddd",
+    "id": 15269572,
+    "revision": 583254230
+  }
+}

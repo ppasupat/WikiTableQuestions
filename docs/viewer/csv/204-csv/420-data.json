@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many songs have aggregate points of more than 150,000,000?",
+      "id": "nt-1003"
+    },
+    {
+      "targetValue": "\"Lovey-Dovey\"",
+      "utterance": "which song is at the top for downloads?",
+      "id": "nt-3449"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "number of songs that earned at least 140 million aggregate points",
+      "id": "nt-4565"
+    },
+    {
+      "targetValue": "Big Bang",
+      "utterance": "what artist previous to july made blue?",
+      "id": "nt-8190"
+    },
+    {
+      "targetValue": "Busker Busker",
+      "utterance": "other artist to end in the top two on the year-end chart besides psy",
+      "id": "nt-9379"
+    },
+    {
+      "targetValue": "\"Return\"",
+      "utterance": "last song of the year to chart in the top ten",
+      "id": "nt-9383"
+    },
+    {
+      "targetValue": "October",
+      "utterance": "was there more downloads in may or october?",
+      "id": "nt-9422"
+    },
+    {
+      "targetValue": "\"Lovey-Dovey\"",
+      "utterance": "which song has the most downloads?",
+      "id": "nt-11968"
+    }
+  ],
+  "metadata": {
+    "title": "List of number-one hits of 2012 (South Korea)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=34355341&oldid=592847056",
+    "tableIndex": 1,
+    "hashcode": "f208dd3f9e4dca8465bc019992efe20ba0c7d70a",
+    "id": 34355341,
+    "revision": 592847056
+  }
+}

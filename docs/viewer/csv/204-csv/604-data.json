@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "251",
+      "utterance": "how many laps did matt kenset complete on february 26, 2006.",
+      "id": "nt-3020"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many drivers had an average speed faster than 135 mph?",
+      "id": "nt-5435"
+    },
+    {
+      "targetValue": "129",
+      "utterance": "how many laps did tony stewart race in 2012?",
+      "id": "nt-5538"
+    },
+    {
+      "targetValue": "3:38:33",
+      "utterance": "what was the race time in 2004?",
+      "id": "nt-5815"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many total cars did chevrolet manufacture?",
+      "id": "nt-6237"
+    },
+    {
+      "targetValue": "Jeff Gordon",
+      "utterance": "did jeff gordon or jeremy mayfield record the highest average speed?",
+      "id": "nt-6353"
+    },
+    {
+      "targetValue": "Ford",
+      "utterance": "which manufacturer has the most number of wins at the auto club 400 between 1997 and 2014?",
+      "id": "nt-7998"
+    },
+    {
+      "targetValue": "Kyle Busch",
+      "utterance": "who won the race in 2014?",
+      "id": "nt-11293"
+    },
+    {
+      "targetValue": "Jeremy Mayfield",
+      "utterance": "other than kurt busch, name a driver who won a race in april.",
+      "id": "nt-11447"
+    }
+  ],
+  "metadata": {
+    "title": "Auto Club 400",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2226343&oldid=601389393",
+    "tableIndex": 0,
+    "hashcode": "bc41ec5fa19798e33c3bf51ecb7ebff818a2e788",
+    "id": 2226343,
+    "revision": 601389393
+  }
+}

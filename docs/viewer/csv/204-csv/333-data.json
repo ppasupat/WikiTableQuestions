@@ -1,0 +1,87 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many times does bruce springsteen perform?",
+      "id": "nt-374"
+    },
+    {
+      "targetValue": "\"Timber\"",
+      "utterance": "what was the first number one song of 2014?",
+      "id": "nt-387"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the total number of weeks ed sheeran was number 1?",
+      "id": "nt-597"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what were the total number of songs released in january?",
+      "id": "nt-2511"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many times was ed sheeran listed as the performer?",
+      "id": "nt-2586"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many weeks was \"i see fire\" at number one?",
+      "id": "nt-3152"
+    },
+    {
+      "targetValue": "Together We Stand Alone",
+      "utterance": "what is the name of the last album title on this chart?",
+      "id": "nt-3557"
+    },
+    {
+      "targetValue": "Ed Sheeran",
+      "utterance": "who has more number one singles, ed sheeran or ace wilder?",
+      "id": "nt-4101"
+    },
+    {
+      "targetValue": "Ed Sheeran",
+      "utterance": "who has more number ones in 2014, ed sheeran or pitbull?",
+      "id": "nt-7628"
+    },
+    {
+      "targetValue": "7 weeks",
+      "utterance": "how long was the song \"i see fire\" on the charts (in weeks)?",
+      "id": "nt-7873"
+    },
+    {
+      "targetValue": "Timber",
+      "utterance": "what is the name of the first song title on this chart?",
+      "id": "nt-8735"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many different albums does the song \"i see fire\" appear on?",
+      "id": "nt-9397"
+    },
+    {
+      "targetValue": "17 January 2014",
+      "utterance": "when did ed sheeran get his first number one of the year?",
+      "id": "nt-9620"
+    },
+    {
+      "targetValue": "Pitbull feat. Ke$ha",
+      "utterance": "who has the least number on hits?",
+      "id": "nt-10368"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many weeks was timber on the list?",
+      "id": "nt-14088"
+    }
+  ],
+  "metadata": {
+    "title": "List of number-one singles and albums in Sweden",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17988473&oldid=601701307",
+    "tableIndex": 8,
+    "hashcode": "d10feecf1b01a702939a3e993d6fb64b445644c0",
+    "id": 17988473,
+    "revision": 601701307
+  }
+}

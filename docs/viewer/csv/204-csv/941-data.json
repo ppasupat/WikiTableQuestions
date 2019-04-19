@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "no",
+      "utterance": "was the result of the game on the 2nd the same as the game on the 23rd?",
+      "id": "nt-385"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many consecutive times did the atlanta hawks win?",
+      "id": "nt-933"
+    },
+    {
+      "targetValue": "San Antonio Spurs",
+      "utterance": "which team won in the game in which the highest number of points was scored?",
+      "id": "nt-4270"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "which number did the san antonio spurs have the same number of points as the washington bullets?",
+      "id": "nt-4325"
+    },
+    {
+      "targetValue": "San Antonio Spurs",
+      "utterance": "who was the home team on december 11, 1976",
+      "id": "nt-5136"
+    },
+    {
+      "targetValue": "December",
+      "utterance": "each game took place in what month.",
+      "id": "nt-7101"
+    },
+    {
+      "targetValue": "San Antonio Spurs",
+      "utterance": "who played the most consecutive home games",
+      "id": "nt-7611"
+    },
+    {
+      "targetValue": "December 28, 1976",
+      "utterance": "if a relative attended his/her first san antonio spurs game at the end of 1976 which date would they be referring to?",
+      "id": "nt-8527"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many times were the san antonio spurs at home in december of 1976?",
+      "id": "nt-8675"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "in how many games did one of the teams score below 100 points?",
+      "id": "nt-11494"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many games total are listed?",
+      "id": "nt-11752"
+    },
+    {
+      "targetValue": "Milwaukee Bucks",
+      "utterance": "who was the opponent in the first game the san antonio spurs won in december 1976?",
+      "id": "nt-12870"
+    }
+  ],
+  "metadata": {
+    "title": "1976–77 San Antonio Spurs season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16386910&oldid=596977497",
+    "tableIndex": 3,
+    "hashcode": "f7658191f8c27804764de96570c512e192c2ab01",
+    "id": 16386910,
+    "revision": 596977497
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "what is the difference in the number of temples between imabari and matsuyama?",
+      "id": "nt-12"
+    },
+    {
+      "targetValue": "Sanuki",
+      "utterance": "what is the last city/town/village listed in the table?",
+      "id": "nt-202"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "tell me the number of temples with kochi prefecture.",
+      "id": "nt-967"
+    },
+    {
+      "targetValue": "88",
+      "utterance": "how many temples are listed in the table?",
+      "id": "nt-5624"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what are the total number of temples in itano?",
+      "id": "nt-5684"
+    },
+    {
+      "targetValue": "Naruto",
+      "utterance": "what is the first city/town/village listed in the table?",
+      "id": "nt-6095"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many temples are in the city of muroto?",
+      "id": "nt-7038"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many temples are in takamatsu?",
+      "id": "nt-8045"
+    },
+    {
+      "targetValue": "Tokushima Prefecture",
+      "utterance": "the ido-ji and joraku-ji temples are a part of what prefecture?",
+      "id": "nt-8114"
+    },
+    {
+      "targetValue": [
+        "Ryōzen-ji (霊山寺)",
+        "Gokuraku-ji (極楽寺)"
+      ],
+      "utterance": "what are the names of each temple in the city of naruto?",
+      "id": "nt-9868"
+    },
+    {
+      "targetValue": "Ryōzen-ji (霊山寺)",
+      "utterance": "the gokuraku-ji temple is in the same city as what other temple?",
+      "id": "nt-9997"
+    }
+  ],
+  "metadata": {
+    "title": "Shikoku Pilgrimage",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1706438&oldid=551579012",
+    "tableIndex": 0,
+    "hashcode": "80dfa321bdac709de282b2a3313dd803b9c038a9",
+    "id": 1706438,
+    "revision": 551579012
+  }
+}

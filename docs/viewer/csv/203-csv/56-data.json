@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "14",
+      "utterance": "how many stars have a magnitude greater than zero?",
+      "id": "nt-332"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many stars have a current magnitude of at least 1.0?",
+      "id": "nt-1883"
+    },
+    {
+      "targetValue": "26",
+      "utterance": "how much farther (in ly) is epsilon canis majoris than zeta sagittarii?",
+      "id": "nt-1939"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many stars have a distance at maximum of 30 light years or higher?",
+      "id": "nt-7830"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "is capella's current magnitude more than vega's current magnitude?",
+      "id": "nt-8961"
+    },
+    {
+      "targetValue": "491.4",
+      "utterance": "what is the difference in the nearest current distance and farthest current distance?",
+      "id": "nt-9313"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many stars do not have a current magnitude greater than zero?",
+      "id": "nt-10860"
+    },
+    {
+      "targetValue": "Canopus (fourth time)",
+      "utterance": "which star has the highest distance at maximum?",
+      "id": "nt-11053"
+    },
+    {
+      "targetValue": "Beta Cygni",
+      "utterance": "what is the only star with a distance at maximum of 80?",
+      "id": "nt-12149"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the number of stars that have a maximum magnitude less than zero?",
+      "id": "nt-13956"
+    }
+  ],
+  "metadata": {
+    "title": "Historical brightest stars",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20002878&oldid=596613618",
+    "tableIndex": 0,
+    "hashcode": "1e07011ae22f60f4779ab1e76862a3a3d5eb14ed",
+    "id": 20002878,
+    "revision": 596613618
+  }
+}

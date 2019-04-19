@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many countries have earned over a hundred medals in total?",
+      "id": "nt-2469"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "does guam have a larger amount of bronze medals than palau?",
+      "id": "nt-3325"
+    },
+    {
+      "targetValue": "110",
+      "utterance": "what is the difference in medals for fiji and tonga?",
+      "id": "nt-4397"
+    },
+    {
+      "targetValue": "New Caledonia",
+      "utterance": "which country has the largest number of total medals?",
+      "id": "nt-5076"
+    },
+    {
+      "targetValue": "New Caledonia",
+      "utterance": "which country has the most silver medals?",
+      "id": "nt-5197"
+    },
+    {
+      "targetValue": [
+        "Vanuatu",
+        "Kiribati",
+        "Northern Mariana Islands",
+        "Guam",
+        "Solomon Islands",
+        "Niue",
+        "Tuvalu",
+        "Palau",
+        "American Samoa",
+        "Marshall Islands",
+        "Norfolk Island",
+        "Tokelau"
+      ],
+      "utterance": "which countries have earned no more than one gold medal?",
+      "id": "nt-7881"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many nations have at least 20 gold medals?",
+      "id": "nt-10058"
+    },
+    {
+      "targetValue": "New Caledonia",
+      "utterance": "which country had the top bronze metal count?",
+      "id": "nt-10825"
+    },
+    {
+      "targetValue": "New Caledonia",
+      "utterance": "which country holds the top gold metals?",
+      "id": "nt-12187"
+    },
+    {
+      "targetValue": "Fiji",
+      "utterance": "which nations have a larger amount of silvers won than golds?",
+      "id": "nt-13413"
+    }
+  ],
+  "metadata": {
+    "title": "2011 Pacific Games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16777236&oldid=552773027",
+    "tableIndex": 0,
+    "hashcode": "df401d83bc403dbfcfd12924a03ef10e6e027db1",
+    "id": 16777236,
+    "revision": 552773027
+  }
+}

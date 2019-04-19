@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "Nîmes / Garons",
+      "utterance": "what cities are served by the nîmes-alès-camargue-cévennes airport?",
+      "id": "nt-8748"
+    }
+  ],
+  "metadata": {
+    "title": "List of airports in France",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=167959&oldid=597437603",
+    "tableIndex": 0,
+    "hashcode": "146add15f20e2437210d7044ce7fdc3559035f70",
+    "id": 167959,
+    "revision": 597437603
+  }
+}

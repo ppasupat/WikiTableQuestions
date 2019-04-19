@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "11",
+      "utterance": "what is the total number of songs that are listed in the table?",
+      "id": "nt-1363"
+    },
+    {
+      "targetValue": "Das tut unheimlich weh",
+      "utterance": "which song did not have more than 15% of the votes and was not unknown?",
+      "id": "nt-4595"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many songs are on the list?",
+      "id": "nt-5497"
+    },
+    {
+      "targetValue": "Itsy Bitsy Spider",
+      "utterance": "what song took last place?",
+      "id": "nt-6634"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "are there at least 10 songs in the table?",
+      "id": "nt-6805"
+    },
+    {
+      "targetValue": "Hör den Kindern einfach zu",
+      "utterance": "what was the top song in the competition?",
+      "id": "nt-9097"
+    },
+    {
+      "targetValue": "Das tut unheimlich weh",
+      "utterance": "what is the top song title?",
+      "id": "nt-11208"
+    }
+  ],
+  "metadata": {
+    "title": "Germany in the Eurovision Song Contest 1999",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11681598&oldid=544831098",
+    "tableIndex": 0,
+    "hashcode": "c7b2811514b287d3718bc2ff8dd1e502321c9c05",
+    "id": 11681598,
+    "revision": 544831098
+  }
+}

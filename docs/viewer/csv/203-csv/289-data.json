@@ -1,0 +1,56 @@
+{
+  "examples": [
+    {
+      "targetValue": "7:24",
+      "utterance": "how long was the axwell remix version?",
+      "id": "nt-2579"
+    },
+    {
+      "targetValue": "Philip Larsen and Chris Smith",
+      "utterance": "did philip larsen and chris smith or philip larsen and stephan clark do the most remixes?",
+      "id": "nt-2776"
+    },
+    {
+      "targetValue": "Enzo Mori & Stephan Clark Remix",
+      "utterance": "which version was around 7 minutes in length but remixed by enzo mori and stephan clark?",
+      "id": "nt-3685"
+    },
+    {
+      "targetValue": [
+        "Axwell Remix",
+        "Enzo Mori & Stephan Clark Remix",
+        "MHC club Remix"
+      ],
+      "utterance": "what versions are at least 7 minutes long?",
+      "id": "nt-4618"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many of the versions are over 6 minutes?",
+      "id": "nt-5838"
+    },
+    {
+      "targetValue": "7:24",
+      "utterance": "how long is the remix that was used in the movie 21?",
+      "id": "nt-10211"
+    },
+    {
+      "targetValue": "Axwell Remix",
+      "utterance": "what version is the only one to appear in a movie scene?",
+      "id": "nt-12922"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the total amount of remix versions?",
+      "id": "nt-13551"
+    }
+  ],
+  "metadata": {
+    "title": "Slipping Away (Moby song)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3884593&oldid=574846748",
+    "tableIndex": 0,
+    "hashcode": "44fb0a180b96a9c3baabede3c04a9ae63443bd7e",
+    "id": 3884593,
+    "revision": 574846748
+  }
+}

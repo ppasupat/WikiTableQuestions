@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Spain",
+      "utterance": "what team came in last, not counting teams disqualified or teams that did not finish?",
+      "id": "nt-3814"
+    },
+    {
+      "targetValue": "Spain",
+      "utterance": "which country took the most time?",
+      "id": "nt-5346"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many teams finished below 3 minutes and 3 seconds?",
+      "id": "nt-5988"
+    },
+    {
+      "targetValue": "France",
+      "utterance": "which nation came before spain?",
+      "id": "nt-8985"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many athletes only took 3:02 minutes to complete the heat?",
+      "id": "nt-9742"
+    },
+    {
+      "targetValue": "3:04.39",
+      "utterance": "what was the total time by france?",
+      "id": "nt-10543"
+    },
+    {
+      "targetValue": "Botswana",
+      "utterance": "which nation placed above russia?",
+      "id": "nt-11287"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "which country took the least amount of time?",
+      "id": "nt-11473"
+    },
+    {
+      "targetValue": "3:02.77",
+      "utterance": "how long did it take the german team to finish the race?",
+      "id": "nt-12388"
+    }
+  ],
+  "metadata": {
+    "title": "Athletics at the 2004 Summer Olympics – Men's 4 × 400 metres relay",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=913301&oldid=554016626",
+    "tableIndex": 2,
+    "hashcode": "7c4b52908e352065ee09a251336baa68b55198e4",
+    "id": 913301,
+    "revision": 554016626
+  }
+}

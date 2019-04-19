@@ -1,0 +1,59 @@
+{
+  "examples": [
+    {
+      "targetValue": "New Model Pocket Revolver",
+      "utterance": "which model is the only model to have the lowest caliber?",
+      "id": "nt-906"
+    },
+    {
+      "targetValue": "1861-1862",
+      "utterance": "what year was the frst .36 calliber revolver manufactured?",
+      "id": "nt-1151"
+    },
+    {
+      "targetValue": "Remington-Beals Army Model Revolver",
+      "utterance": "which had a longer barrel, the remington-beals army or navy model revolver in 1861?",
+      "id": "nt-1759"
+    },
+    {
+      "targetValue": [
+        "1861 Navy Revolver",
+        "New Model Navy Revolver"
+      ],
+      "utterance": "name the models that had the same caliber as the remington-beals navy model revolver.",
+      "id": "nt-3807"
+    },
+    {
+      "targetValue": "New Model Army Revolver",
+      "utterance": "which model had the most production during the years of manufacture?",
+      "id": "nt-8996"
+    },
+    {
+      "targetValue": "1875",
+      "utterance": "what was the last year of manufacture for these revolvers?",
+      "id": "nt-9947"
+    },
+    {
+      "targetValue": "Remington-Beals Army Model Revolver",
+      "utterance": "what model revolver had the least number of revolvers produced?",
+      "id": "nt-10730"
+    },
+    {
+      "targetValue": [
+        "Remington-Beals Army Model Revolver",
+        "1861 Army Revolver (Old Model Army)",
+        "New Model Army Revolver"
+      ],
+      "utterance": "which models have the largest barrels?",
+      "id": "nt-10926"
+    }
+  ],
+  "metadata": {
+    "title": "Remington Model 1858",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8641175&oldid=601940726",
+    "tableIndex": 0,
+    "hashcode": "64900f4ab41ff6dfe90315e5a13478edd72d36bf",
+    "id": 8641175,
+    "revision": 601940726
+  }
+}

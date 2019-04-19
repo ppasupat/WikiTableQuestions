@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "9",
+      "utterance": "how many towns have a population higher than 1000?",
+      "id": "nt-96"
+    },
+    {
+      "targetValue": "Funningur",
+      "utterance": "funningsfjørður and fuglafjørður are located on the same island as...?",
+      "id": "nt-150"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many towns or villages have a population of at least 5 but less than 10?",
+      "id": "nt-1447"
+    },
+    {
+      "targetValue": "Suðuroy",
+      "utterance": "fámjin and froðba are located on which island?",
+      "id": "nt-4999"
+    },
+    {
+      "targetValue": "Tórshavn",
+      "utterance": "which town/village has the highest number of people?",
+      "id": "nt-6287"
+    },
+    {
+      "targetValue": "Tórshavn",
+      "utterance": "where is there a population larger than klaksvik?",
+      "id": "nt-6456"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "what is the population size difference between akrar and dalur?",
+      "id": "nt-7543"
+    },
+    {
+      "targetValue": "Argir",
+      "utterance": "which town or village is listed after akar?",
+      "id": "nt-7849"
+    },
+    {
+      "targetValue": "Akrar",
+      "utterance": "which island is listed before the town/village of argir?",
+      "id": "nt-8594"
+    },
+    {
+      "targetValue": "Akrar",
+      "utterance": "which town would come first in alphabetical order, of all the towns in the faroe islands?",
+      "id": "nt-9149"
+    },
+    {
+      "targetValue": "1486",
+      "utterance": "how much greater is the population of argir than glyvrar?",
+      "id": "nt-9569"
+    },
+    {
+      "targetValue": "FO",
+      "utterance": "what are the two letters that come before each postal code in the faroe islands?",
+      "id": "nt-12235"
+    },
+    {
+      "targetValue": "1907",
+      "utterance": "how many people does argir have?",
+      "id": "nt-13331"
+    }
+  ],
+  "metadata": {
+    "title": "List of towns in the Faroe Islands",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=716931&oldid=574576310",
+    "tableIndex": 0,
+    "hashcode": "068d1fdc4dc965034acfd9b5b10c4adb4784e060",
+    "id": 716931,
+    "revision": 574576310
+  }
+}

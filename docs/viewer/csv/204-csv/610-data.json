@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many top selling brands target dermatology?",
+      "id": "nt-82"
+    },
+    {
+      "targetValue": "Dobupal",
+      "utterance": "what is the name of the next highest selling brand after opiren?",
+      "id": "nt-648"
+    },
+    {
+      "targetValue": "Parapres",
+      "utterance": "other than ebastel, what other brand focuses on the cardiovascular system?",
+      "id": "nt-1088"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many brands are for the dermatology area?",
+      "id": "nt-2167"
+    },
+    {
+      "targetValue": "Respiratory",
+      "utterance": "ebastel and plusvent treat which therapeutic area?",
+      "id": "nt-3585"
+    },
+    {
+      "targetValue": "Airtal and others",
+      "utterance": "what is the name of the only brand which targets the osteomuscular therapeutic area?",
+      "id": "nt-3593"
+    },
+    {
+      "targetValue": "Opiren",
+      "utterance": "which brand is the only one to have digestive as its therapeutic area.",
+      "id": "nt-5851"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many brands are for depression?",
+      "id": "nt-6585"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many brands treat the central nervous system?",
+      "id": "nt-8421"
+    },
+    {
+      "targetValue": "Respiratory",
+      "utterance": "plusvent and ebastel both target which therapeutic area?",
+      "id": "nt-10561"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total of brands affecting dermatology therapeutic area?",
+      "id": "nt-12944"
+    },
+    {
+      "targetValue": "Dobupal",
+      "utterance": "what brand comes next after opiren?",
+      "id": "nt-13725"
+    }
+  ],
+  "metadata": {
+    "title": "Almirall",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6840218&oldid=578219393",
+    "tableIndex": 0,
+    "hashcode": "794f7f63c03f36ab4e7cd68b8905323b15a7180f",
+    "id": 6840218,
+    "revision": 578219393
+  }
+}

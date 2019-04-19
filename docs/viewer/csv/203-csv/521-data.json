@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "2004",
+      "utterance": "what is the only year that did not qualify appears under the playoffs column?",
+      "id": "nt-1168"
+    },
+    {
+      "targetValue": "2006",
+      "utterance": "what was the first year they qualified after 2004?",
+      "id": "nt-1560"
+    },
+    {
+      "targetValue": [
+        "National Final",
+        "Conference Finals"
+      ],
+      "utterance": "which results were listed the most under the playoffs column?",
+      "id": "nt-2137"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what was the most consecutive regular season 1st place finishes?",
+      "id": "nt-2438"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times did this team lose in the conference finals?",
+      "id": "nt-5769"
+    },
+    {
+      "targetValue": "1st",
+      "utterance": "what was the average regular season place from years 2009-2012?",
+      "id": "nt-7883"
+    },
+    {
+      "targetValue": "2011",
+      "utterance": "last year not to make the open cup",
+      "id": "nt-7988"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many total times has this team finished 1st in mid south?",
+      "id": "nt-10257"
+    },
+    {
+      "targetValue": "National Final",
+      "utterance": "what was the team's playoff result in the year after being champions?",
+      "id": "nt-11340"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many first place regular season finishes did the team have from 2004-2013",
+      "id": "nt-12353"
+    },
+    {
+      "targetValue": "Conference Finals",
+      "utterance": "what was the result of the last playoffs?",
+      "id": "nt-13484"
+    }
+  ],
+  "metadata": {
+    "title": "Laredo Heat",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2361788&oldid=594166360",
+    "tableIndex": 0,
+    "hashcode": "74c1dfcbcd887101720ac5ac36331ddd16debe5a",
+    "id": 2361788,
+    "revision": 594166360
+  }
+}

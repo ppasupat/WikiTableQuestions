@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "2013",
+      "utterance": "what year did togo get beyond round 1?",
+      "id": "nt-445"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many nations withdrew from 1990 to 2012?",
+      "id": "nt-4587"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the total amount that a team did not enter?",
+      "id": "nt-5973"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of nations that made it to round 1 but not past that round from 1957 to 2013?",
+      "id": "nt-6472"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "between 1972 and 2013, how many withdraws did togo have?",
+      "id": "nt-6481"
+    },
+    {
+      "targetValue": "Did not qualify",
+      "utterance": "what was their position the year after the year they withdrew due to rebel attacks?",
+      "id": "nt-7683"
+    },
+    {
+      "targetValue": "2012",
+      "utterance": "what was the last year they did not qualify?",
+      "id": "nt-10646"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many times did togo at least make it to the africa cup, also counting withdraws?",
+      "id": "nt-11280"
+    },
+    {
+      "targetValue": "12 years",
+      "utterance": "how long after their round 1 finish did it take to reach round 1 again?",
+      "id": "nt-13111"
+    }
+  ],
+  "metadata": {
+    "title": "Togo national football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1080720&oldid=594304654",
+    "tableIndex": 1,
+    "hashcode": "b43fc287249a0b790f938eb5a5210da86749b804",
+    "id": 1080720,
+    "revision": 594304654
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many television channels in nambour, queensland are in hd?",
+      "id": "nt-2367"
+    },
+    {
+      "targetValue": "SD",
+      "utterance": "what is the definition of the last channel?",
+      "id": "nt-4625"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what number of organisations have private ownership?",
+      "id": "nt-4871"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many private owned channels are there?",
+      "id": "nt-4923"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many channels are in hd?",
+      "id": "nt-5703"
+    },
+    {
+      "targetValue": "Australian Broadcasting Corporation",
+      "utterance": "which organization has more television channels in nambour, queensland, nine network or australian broadcasting commission?",
+      "id": "nt-7964"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many channels are not an abc channel?",
+      "id": "nt-8024"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what are the number of channels owned by the government?",
+      "id": "nt-9226"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "whats is the number of channel's that broadcast in hd?",
+      "id": "nt-11344"
+    },
+    {
+      "targetValue": [
+        "ABC2",
+        "ABC3",
+        "ABC News 24"
+      ],
+      "utterance": "which television channels in nambour, queensland are owned by the same organization as abc1?",
+      "id": "nt-11479"
+    }
+  ],
+  "metadata": {
+    "title": "Nambour, Queensland",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=646917&oldid=599521243",
+    "tableIndex": 1,
+    "hashcode": "cf8f46e08496f81480af1fcb8e03662a6ba45747",
+    "id": 646917,
+    "revision": 599521243
+  }
+}

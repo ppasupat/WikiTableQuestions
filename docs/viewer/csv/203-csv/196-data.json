@@ -1,0 +1,49 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "what are the number of times hit is listed as the operator?",
+      "id": "nt-1423"
+    },
+    {
+      "targetValue": "Terminal 9 South (CT9S)",
+      "utterance": "which terminal was longer (quay length) than terminal 8 west?",
+      "id": "nt-4286"
+    },
+    {
+      "targetValue": [
+        "Terminal 7 (CT7)",
+        "Terminal 9 South (CT9S)"
+      ],
+      "utterance": "which terminal had more quay cranes than terminal 6?",
+      "id": "nt-4814"
+    },
+    {
+      "targetValue": "MTL",
+      "utterance": "who is the operator of the first terminal listed on this chart?",
+      "id": "nt-10096"
+    },
+    {
+      "targetValue": [
+        "Terminal 2 (CT2)",
+        "Terminal 3 (CT3)",
+        "Terminal 5 (CT5)"
+      ],
+      "utterance": "which terminal had the same depth as terminal 1?",
+      "id": "nt-12612"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many terminals had at least 8 or more quay cranes?",
+      "id": "nt-13687"
+    }
+  ],
+  "metadata": {
+    "title": "Port of Hong Kong",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1230098&oldid=601819563",
+    "tableIndex": 0,
+    "hashcode": "6bf3de781dc1def6c99c88bdeee6edd9275bfaa3",
+    "id": 1230098,
+    "revision": 601819563
+  }
+}

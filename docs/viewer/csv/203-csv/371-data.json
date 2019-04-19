@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Penrith Panthers",
+      "utterance": "who won by the least?",
+      "id": "nt-882"
+    },
+    {
+      "targetValue": "Mt Smart Stadium",
+      "utterance": "what stadium other than anz stadium did the auckland warriors play in?",
+      "id": "nt-1251"
+    },
+    {
+      "targetValue": "20 games",
+      "utterance": "what was the total number of games played?",
+      "id": "nt-2702"
+    },
+    {
+      "targetValue": "5 games",
+      "utterance": "in how many games was the crowd above 20,000 people?",
+      "id": "nt-3401"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "the round after round 3",
+      "id": "nt-5320"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "number of opponents faced?",
+      "id": "nt-6547"
+    },
+    {
+      "targetValue": "16 games",
+      "utterance": "how many games did the broncos win?",
+      "id": "nt-7382"
+    },
+    {
+      "targetValue": "9 teams",
+      "utterance": "how many different teams did the broncos play against?",
+      "id": "nt-10323"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "at least how many wins did they have?",
+      "id": "nt-10509"
+    }
+  ],
+  "metadata": {
+    "title": "1997 Brisbane Broncos season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7232353&oldid=594569678",
+    "tableIndex": 0,
+    "hashcode": "b14efe8db78d9f26ade6cd436e02c6d44212232c",
+    "id": 7232353,
+    "revision": 594569678
+  }
+}

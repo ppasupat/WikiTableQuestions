@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "13",
+      "utterance": "how many of his operettas were 3 acts?",
+      "id": "nt-962"
+    },
+    {
+      "targetValue": "Vienna",
+      "utterance": "in which city did the most operettas premiere?",
+      "id": "nt-1167"
+    },
+    {
+      "targetValue": "Der Liebeswalzer",
+      "utterance": "does der liebeswalzer or manöverkinder contain more acts?",
+      "id": "nt-1623"
+    },
+    {
+      "targetValue": "1958",
+      "utterance": "all the dates are no later than what year?",
+      "id": "nt-1889"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what are the number of titles that premiered in the month of september?",
+      "id": "nt-4612"
+    },
+    {
+      "targetValue": "1958",
+      "utterance": "what was the year of the last title?",
+      "id": "nt-7348"
+    },
+    {
+      "targetValue": "1930",
+      "utterance": "which year did he release his last operetta?",
+      "id": "nt-10237"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many number of 1 acts were there?",
+      "id": "nt-11632"
+    },
+    {
+      "targetValue": "Operette",
+      "utterance": "which genre is featured the most in this chart?",
+      "id": "nt-13235"
+    }
+  ],
+  "metadata": {
+    "title": "List of operettas by Ziehrer",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20063335&oldid=584595672",
+    "tableIndex": 0,
+    "hashcode": "03931ec7e02a4fdcbf0f16b18cd3cf9591cb8726",
+    "id": 20063335,
+    "revision": 584595672
+  }
+}

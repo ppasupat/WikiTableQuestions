@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of formula one series races that cochet has been in?",
+      "id": "nt-72"
+    },
+    {
+      "targetValue": "World Series by Nissan",
+      "utterance": "which series was held for 3 consecutive years?",
+      "id": "nt-1749"
+    },
+    {
+      "targetValue": "Formula one",
+      "utterance": "what was the first series in 2001?",
+      "id": "nt-2161"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "has cochet raced for gd racing and renault?",
+      "id": "nt-2412"
+    },
+    {
+      "targetValue": "2001",
+      "utterance": "which season held the most series?",
+      "id": "nt-4836"
+    },
+    {
+      "targetValue": "A1 Grand Prix",
+      "utterance": "what is the only series listed in 2007-2008?",
+      "id": "nt-13278"
+    }
+  ],
+  "metadata": {
+    "title": "Jonathan Cochet",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12734682&oldid=596373350",
+    "tableIndex": 0,
+    "hashcode": "b4b9c06c068d953f34fb6f0d30814b53e45800a1",
+    "id": 12734682,
+    "revision": 596373350
+  }
+}

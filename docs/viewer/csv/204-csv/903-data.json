@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Channel 4",
+      "utterance": "which broadcaster hosted 3 titles but they had only 1 episode?",
+      "id": "nt-793"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the total number of shows sophie colguhoun appeared in?",
+      "id": "nt-1760"
+    },
+    {
+      "targetValue": "Heidi Hall",
+      "utterance": "what was the previous role this actress played before playing cynthia in plebs?",
+      "id": "nt-1843"
+    },
+    {
+      "targetValue": "BBC",
+      "utterance": "blandings and death in paradise both aired on which broadcaster?",
+      "id": "nt-9607"
+    },
+    {
+      "targetValue": "Cynthia",
+      "utterance": "what is the only role she played with broadcaster itv2?",
+      "id": "nt-9822"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many titles only had one episode?",
+      "id": "nt-10160"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many titles have at least 5 episodes?",
+      "id": "nt-11665"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many television credits does this actress have?",
+      "id": "nt-13506"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "were there more than four episodes that featured cynthia?",
+      "id": "nt-13877"
+    }
+  ],
+  "metadata": {
+    "title": "Sophie Colquhoun",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=37754195&oldid=601046724",
+    "tableIndex": 0,
+    "hashcode": "df099e801ae0fa00092a72925cec4706919dc7f0",
+    "id": 37754195,
+    "revision": 601046724
+  }
+}

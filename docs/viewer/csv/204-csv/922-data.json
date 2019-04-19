@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Colombia",
+      "utterance": "what nation had the most silver medals?",
+      "id": "nt-1453"
+    },
+    {
+      "targetValue": "Colombia",
+      "utterance": "who was ranked next after venezuela?",
+      "id": "nt-1778"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many total medals did colombia win?",
+      "id": "nt-2352"
+    },
+    {
+      "targetValue": "Colombia",
+      "utterance": "what country scored the top number of bronze medals in taekwondo at the 2013 bolivarian games?",
+      "id": "nt-2673"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "did panama receive more gold medals than peru in taekwondo at the 2013 bolivarian games?",
+      "id": "nt-6077"
+    },
+    {
+      "targetValue": "Venezuela",
+      "utterance": "which country scored the most gold medals at this event?",
+      "id": "nt-7159"
+    },
+    {
+      "targetValue": [
+        "Chile",
+        "Panama",
+        "Bolivia",
+        "Paraguay"
+      ],
+      "utterance": "name all the nations that did not win any gold medals.",
+      "id": "nt-7380"
+    },
+    {
+      "targetValue": "above",
+      "utterance": "did chile rank above or below bolivia taekwondo at the 2013 bolivarian games?",
+      "id": "nt-8680"
+    },
+    {
+      "targetValue": "Venezuela",
+      "utterance": "who was the only nation with 5 gold medals?",
+      "id": "nt-8702"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many nations won at least three silver medals?",
+      "id": "nt-8926"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many countries scored no gold medals at this event?",
+      "id": "nt-11728"
+    }
+  ],
+  "metadata": {
+    "title": "Taekwondo at the 2013 Bolivarian Games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41068182&oldid=584992369",
+    "tableIndex": 0,
+    "hashcode": "e97b192b171cf34aaf5b62a631ab7bd769d58711",
+    "id": 41068182,
+    "revision": 584992369
+  }
+}

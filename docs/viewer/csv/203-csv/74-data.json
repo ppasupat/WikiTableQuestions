@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "No",
+      "utterance": "yes or no: dundee is ranked in the top third of this for population.",
+      "id": "nt-1329"
+    },
+    {
+      "targetValue": "Livingston",
+      "utterance": "which urban area has the least people per square kilometer?",
+      "id": "nt-1392"
+    },
+    {
+      "targetValue": "120.11",
+      "utterance": "what is the total area of edinburg?",
+      "id": "nt-2645"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many urban areas have a density below 2,500?",
+      "id": "nt-5805"
+    },
+    {
+      "targetValue": "Edinburgh",
+      "utterance": "which urban area ranks first in population density?",
+      "id": "nt-7983"
+    },
+    {
+      "targetValue": "Greater Glasgow",
+      "utterance": "which has a higher population density, greater glasgow or falkirk?",
+      "id": "nt-8811"
+    },
+    {
+      "targetValue": "Greater Glasgow",
+      "utterance": "which urban area is ranked first overall?",
+      "id": "nt-9268"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many urban areas have a population above 90,000?",
+      "id": "nt-11064"
+    },
+    {
+      "targetValue": "Greater Glasgow",
+      "utterance": "which urban area has the largest population?",
+      "id": "nt-11199"
+    }
+  ],
+  "metadata": {
+    "title": "List of urban areas in the United Kingdom",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=675264&oldid=597610058",
+    "tableIndex": 1,
+    "hashcode": "137a10cf039dfb2ba45bab08bad483e81c331c66",
+    "id": 675264,
+    "revision": 597610058
+  }
+}

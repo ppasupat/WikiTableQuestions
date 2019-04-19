@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many consecutive years did pavel loskutov run in the joongang seoul marathon?",
+      "id": "nt-1719"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total amount of times the frankfurt marathon occurred?",
+      "id": "nt-1826"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many marathons was the result a first place finish?",
+      "id": "nt-1898"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "number of races not finished",
+      "id": "nt-6175"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what was the number of summer olympics that were competed in?",
+      "id": "nt-6849"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the most marathons that pavel loskutov ran in any year?",
+      "id": "nt-10147"
+    },
+    {
+      "targetValue": "Frankfurt Marathon",
+      "utterance": "prior to helsinki marathon what previous race did the runner place first?",
+      "id": "nt-10452"
+    },
+    {
+      "targetValue": [
+        "World Cross Country Championships",
+        "Helsinki Marathon",
+        "Fukuoka Marathon",
+        "Beppu-Ōita Marathon"
+      ],
+      "utterance": "which four competitions are the only competitions that occurred once?",
+      "id": "nt-10711"
+    },
+    {
+      "targetValue": "1999",
+      "utterance": "what year was first time to win an event",
+      "id": "nt-12150"
+    }
+  ],
+  "metadata": {
+    "title": "Pavel Loskutov",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9104873&oldid=580885418",
+    "tableIndex": 0,
+    "hashcode": "929ff4ebd7b9f7db499a7e90b08dacd127c1d717",
+    "id": 9104873,
+    "revision": 580885418
+  }
+}

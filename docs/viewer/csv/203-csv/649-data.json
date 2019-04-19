@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Arnold Trail to Quebec",
+      "utterance": "which was listed first, arnold trail to quebec or coplin plantation schoolhouse?",
+      "id": "nt-1294"
+    },
+    {
+      "targetValue": "Arnold Trail to Quebec",
+      "utterance": "what is the only historic place in coburn gore?",
+      "id": "nt-2980"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many years difference is there between the listings for bass boarding house and ora blanchard house?",
+      "id": "nt-4071"
+    },
+    {
+      "targetValue": "Arnold Trail to Quebec",
+      "utterance": "the name of the register who is on top of the data table",
+      "id": "nt-4180"
+    },
+    {
+      "targetValue": "Arnold Trail to Quebec",
+      "utterance": "what is the only name on the register with the date october 1, 1969?",
+      "id": "nt-5525"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many churches are on the list?",
+      "id": "nt-5803"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many listings are in farmington?",
+      "id": "nt-8407"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many sites were added to the list before 1970?",
+      "id": "nt-8973"
+    },
+    {
+      "targetValue": "Nordica Homestead",
+      "utterance": "which was added to the list first, the mccleary farm or the nordica homestead?",
+      "id": "nt-9870"
+    },
+    {
+      "targetValue": "Amos G. Winter House",
+      "utterance": "the name at the last of the list",
+      "id": "nt-10412"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many historic places were listed in the 1980's?",
+      "id": "nt-13939"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many historic places are in new sharon?",
+      "id": "nt-13942"
+    }
+  ],
+  "metadata": {
+    "title": "National Register of Historic Places listings in Franklin County, Maine",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21621543&oldid=599918262",
+    "tableIndex": 0,
+    "hashcode": "3322ff1d46fc1693a6d44af1f277a36811924722",
+    "id": 21621543,
+    "revision": 599918262
+  }
+}

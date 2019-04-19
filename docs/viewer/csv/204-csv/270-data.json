@@ -1,0 +1,68 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Haltwhistle",
+        "Ireshopeburn",
+        "Staithes",
+        "Sunderland",
+        "Wall"
+      ],
+      "utterance": "which transmitters do not have an a.g. value containing the letter k?",
+      "id": "nt-1507"
+    },
+    {
+      "targetValue": "Ireshopeburn",
+      "utterance": "name the only relay with a bbcb over 55?",
+      "id": "nt-2215"
+    },
+    {
+      "targetValue": "Haydon Bridge",
+      "utterance": "which transmitter has a higher bbca, alston or haydon bridge?",
+      "id": "nt-3148"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many transmitters have a kw value more then 0.1?",
+      "id": "nt-3973"
+    },
+    {
+      "targetValue": "Shotleyfield",
+      "utterance": "which transmitter is previous to staithes",
+      "id": "nt-6906"
+    },
+    {
+      "targetValue": "0.057",
+      "utterance": "which is the difference between kw for allenheads and seaham",
+      "id": "nt-7615"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the number of columns in the table?",
+      "id": "nt-8890"
+    },
+    {
+      "targetValue": "25",
+      "utterance": "what is the total number of transmitters listed in the table?",
+      "id": "nt-9063"
+    },
+    {
+      "targetValue": "Seaham",
+      "utterance": "tell me the transmitter directly above the one with a kw of 0.04 and a bbca of 22.",
+      "id": "nt-12087"
+    },
+    {
+      "targetValue": "Kielder",
+      "utterance": "which is the next bbca with the number 26 and its transmitter",
+      "id": "nt-13085"
+    }
+  ],
+  "metadata": {
+    "title": "Pontop Pike transmitting station",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1840753&oldid=602191399",
+    "tableIndex": 6,
+    "hashcode": "89b9f186ca6f633016580ca28ae44ee948ad3978",
+    "id": 1840753,
+    "revision": 602191399
+  }
+}

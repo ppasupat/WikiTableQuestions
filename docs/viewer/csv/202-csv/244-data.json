@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "Smokey and the Bandit",
+      "utterance": "besides heroes, which 1977 film also featured sally field?",
+      "id": "nt-2492"
+    },
+    {
+      "targetValue": "Smokey and the Bandit",
+      "utterance": "name the second highest grossing film of 1977.",
+      "id": "nt-3932"
+    },
+    {
+      "targetValue": "Annie Hall",
+      "utterance": "which diane keaton film ranked higher?",
+      "id": "nt-7145"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "of the 26 top-grossing films of 1977, how many were released by 20th century fox?",
+      "id": "nt-12345"
+    }
+  ],
+  "metadata": {
+    "title": "1977 in film",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=171659&oldid=600475904",
+    "tableIndex": 0,
+    "hashcode": "ae9738263f7360cf6b3298a2d3daf56e8c95df11",
+    "id": 171659,
+    "revision": 600475904
+  }
+}

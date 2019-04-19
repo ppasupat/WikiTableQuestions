@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "yes",
+      "utterance": "is the are of saint helena more than that of nightingale island?",
+      "id": "nt-63"
+    },
+    {
+      "targetValue": "1526",
+      "utterance": "what is the difference in population between ascension island and gough island?",
+      "id": "nt-5081"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many administrative areas have a population below 500?",
+      "id": "nt-5527"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times is edinburgh of the seven seas on the list?",
+      "id": "nt-6494"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many administrative areas have a population of at least 500?",
+      "id": "nt-7469"
+    },
+    {
+      "targetValue": "Inaccessible Island",
+      "utterance": "what administrative area comes before nightingale island?",
+      "id": "nt-10752"
+    },
+    {
+      "targetValue": "Nightingale Island",
+      "utterance": "which administrative area has the least square mileage and lowest population?",
+      "id": "nt-12546"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many administrative centre is there?",
+      "id": "nt-13223"
+    },
+    {
+      "targetValue": "5,809",
+      "utterance": "what is the total of the first population?",
+      "id": "nt-14036"
+    }
+  ],
+  "metadata": {
+    "title": "Saint Helena, Ascension and Tristan da Cunha",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=24481846&oldid=601256938",
+    "tableIndex": 0,
+    "hashcode": "04dc32299fda36c563b6b48ec73fb74eb8a6a928",
+    "id": 24481846,
+    "revision": 601256938
+  }
+}

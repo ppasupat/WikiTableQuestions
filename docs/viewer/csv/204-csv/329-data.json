@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Garfield Sobers",
+      "utterance": "who has the most score?",
+      "id": "nt-2077"
+    },
+    {
+      "targetValue": "West Indies",
+      "utterance": "which country is listed the most under the opposing team column?",
+      "id": "nt-2305"
+    },
+    {
+      "targetValue": "YES",
+      "utterance": "are the dates in a consecutive order?",
+      "id": "nt-4159"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times were new zealand the opposing team?",
+      "id": "nt-8109"
+    },
+    {
+      "targetValue": "Vijay Manjrekar",
+      "utterance": "what player is below pankaj roy?",
+      "id": "nt-9303"
+    },
+    {
+      "targetValue": "Won",
+      "utterance": "what was the result of the next game after the date of january 15, 1954?",
+      "id": "nt-10749"
+    },
+    {
+      "targetValue": "88",
+      "utterance": "what is the total number of players listed in the table?",
+      "id": "nt-11815"
+    }
+  ],
+  "metadata": {
+    "title": "List of international cricket centuries at Sabina Park",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30215422&oldid=593298706",
+    "tableIndex": 0,
+    "hashcode": "469a4afc5ddb16c0ed672b893da290d6012f07fe",
+    "id": 30215422,
+    "revision": 593298706
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "Joe Daniel",
+      "utterance": "which candidate had the most votes?",
+      "id": "nt-10621"
+    }
+  ],
+  "metadata": {
+    "title": "Don Valley East",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1578204&oldid=570461455",
+    "tableIndex": 0,
+    "hashcode": "834d023da6942c6ba005ce4a75426ac1bb578add",
+    "id": 1578204,
+    "revision": 570461455
+  }
+}

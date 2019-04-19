@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "DNA Baser",
+      "utterance": "what is the newest presentation or updated?",
+      "id": "nt-3351"
+    },
+    {
+      "targetValue": "2009",
+      "utterance": "when was the velvet last updated?",
+      "id": "nt-3788"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the total number of assemblers supporting medium genomes type technologies?",
+      "id": "nt-4550"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the total number of assemblers supporting small genomes type technologies?",
+      "id": "nt-6135"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the total number of times sahi, m. & shilbuya, t. listed as co-authors?",
+      "id": "nt-7049"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many are listed as \"all\" technologies?",
+      "id": "nt-8476"
+    },
+    {
+      "targetValue": "OS",
+      "utterance": "which license is listed more, os or c?",
+      "id": "nt-11455"
+    }
+  ],
+  "metadata": {
+    "title": "Sequence assembly",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=477989&oldid=601636932",
+    "tableIndex": 0,
+    "hashcode": "d2f9a7c4e0f8cb2aff10e2865c432e0814659969",
+    "id": 477989,
+    "revision": 601636932
+  }
+}

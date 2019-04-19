@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "previous title: 长寿镇 - Chang Shou Zhen",
+      "utterance": "what is the other previous title of design of death?",
+      "id": "nt-743"
+    },
+    {
+      "targetValue": "5 years",
+      "utterance": "how long was the longest time between alec su being in a film?",
+      "id": "nt-5160"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total number of movies he made in 2010?",
+      "id": "nt-6923"
+    },
+    {
+      "targetValue": "above",
+      "utterance": "has this actor been in above or below 15 films?",
+      "id": "nt-7298"
+    },
+    {
+      "targetValue": "27",
+      "utterance": "what is the total number of english titles?",
+      "id": "nt-7553"
+    },
+    {
+      "targetValue": "aka \"Sound of the Wind\"",
+      "utterance": "in the 2009 movie \"the message\" he is also known as what?",
+      "id": "nt-7712"
+    },
+    {
+      "targetValue": "2009",
+      "utterance": "was alec su in more films in 2009 or 2011?",
+      "id": "nt-10844"
+    }
+  ],
+  "metadata": {
+    "title": "Alec Su",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1104189&oldid=601859302",
+    "tableIndex": 1,
+    "hashcode": "b10913bd0756164e7edbd8bc4e724d36d3074938",
+    "id": 1104189,
+    "revision": 601859302
+  }
+}

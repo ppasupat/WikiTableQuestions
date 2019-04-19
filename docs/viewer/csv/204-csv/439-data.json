@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "United States",
+      "utterance": "who finished before canada in the first run?",
+      "id": "nt-603"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "which countries had 3 teams competing?",
+      "id": "nt-992"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many two-woman bobsled teams represented russia in the 2014 winter olympics?",
+      "id": "nt-3741"
+    },
+    {
+      "targetValue": "Germany",
+      "utterance": "which team was faster: germany or russia?",
+      "id": "nt-13436"
+    }
+  ],
+  "metadata": {
+    "title": "Bobsleigh at the 2014 Winter Olympics – Two-woman",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41567423&oldid=596399336",
+    "tableIndex": 0,
+    "hashcode": "3e8cc02960f1c79e90f704a3988a802bf04377d3",
+    "id": 41567423,
+    "revision": 596399336
+  }
+}

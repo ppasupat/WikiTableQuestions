@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Rod Kerr (Morwell) (30)",
+      "utterance": "who is the only medal winner of 1985?",
+      "id": "nt-572"
+    },
+    {
+      "targetValue": "31",
+      "utterance": "what is the total of years on this chart",
+      "id": "nt-5890"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many different people were reserves before tom hart?",
+      "id": "nt-6978"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "what is the number of rex hartley medal for bob mason 1955",
+      "id": "nt-7493"
+    },
+    {
+      "targetValue": "1955",
+      "utterance": "what is the other year bob won the rex hartley medal beside 1954",
+      "id": "nt-8706"
+    },
+    {
+      "targetValue": "26",
+      "utterance": "tell me the number of votes that szabo got in 1965.",
+      "id": "nt-9656"
+    },
+    {
+      "targetValue": "1961",
+      "utterance": "tell me the only year vinall appears on the list.",
+      "id": "nt-10557"
+    },
+    {
+      "targetValue": "M.James (Morwell) (19)",
+      "utterance": "who is the first under 18 bruce wilkinson medal winner?",
+      "id": "nt-13586"
+    }
+  ],
+  "metadata": {
+    "title": "List of Gippsland Football League best and fairest winners",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=31218424&oldid=513835375",
+    "tableIndex": 0,
+    "hashcode": "66b8950a5a96504448f7019252ec437a76bb641d",
+    "id": 31218424,
+    "revision": 513835375
+  }
+}

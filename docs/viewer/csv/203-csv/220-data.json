@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of times player outcome was runner-up?",
+      "id": "nt-357"
+    },
+    {
+      "targetValue": "Gorizia",
+      "utterance": "what tournament was played before rimini on august 2002?",
+      "id": "nt-1084"
+    },
+    {
+      "targetValue": "Yvonne Meusburger",
+      "utterance": "who was her opponent in the april 2009 mestre tournament?",
+      "id": "nt-3081"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many singles games did she win before 2003?",
+      "id": "nt-6244"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many games did she play in 2002?",
+      "id": "nt-8593"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many times was the surface clay?",
+      "id": "nt-9344"
+    },
+    {
+      "targetValue": "Mostar",
+      "utterance": "what was the only tournament that karolina sprem was runner-up in 2001?",
+      "id": "nt-10175"
+    },
+    {
+      "targetValue": "Biberach",
+      "utterance": "which tournament has the same score outcome as the bergamo tournament?",
+      "id": "nt-12106"
+    },
+    {
+      "targetValue": "Sophie Lefèvre",
+      "utterance": "karolina sprem beat laurence andretto in 2002 but what other french player did she beat in 2003?",
+      "id": "nt-12445"
+    }
+  ],
+  "metadata": {
+    "title": "Karolina Šprem",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2442146&oldid=600923640",
+    "tableIndex": 4,
+    "hashcode": "0e6fcedd25b0e9b49ace4b777b3e1a842c59cd6c",
+    "id": 2442146,
+    "revision": 600923640
+  }
+}

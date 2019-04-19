@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "1988-1989",
+      "utterance": "in what consecutive years did kevin grimes, unc serve as a defender?",
+      "id": "nt-323"
+    },
+    {
+      "targetValue": "Jovan Bubonja",
+      "utterance": "who was named first team all american goalkeeper the year after stefan frei?",
+      "id": "nt-1064"
+    },
+    {
+      "targetValue": "Tony Meola",
+      "utterance": "who was named first team all american as the top goalkeeper in 1988?",
+      "id": "nt-2197"
+    },
+    {
+      "targetValue": "North Carolina",
+      "utterance": "what college had the most first team all americans in 2011?",
+      "id": "nt-4865"
+    },
+    {
+      "targetValue": "1 year",
+      "utterance": "how long did jamie swanner play as goal keeper?",
+      "id": "nt-6707"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many named defenders played in 1988?",
+      "id": "nt-9041"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many named midfielders did the 1983 team have?",
+      "id": "nt-9260"
+    },
+    {
+      "targetValue": "Dema Kovalenko",
+      "utterance": "which player went to the same university as lazo alavanja in 1998?",
+      "id": "nt-11202"
+    },
+    {
+      "targetValue": "Miguel Ibarra, UC Irvine Enzo Martinez, North Carolina Luis Silva, UCSB",
+      "utterance": "name each of the midfielders in 2011",
+      "id": "nt-13786"
+    }
+  ],
+  "metadata": {
+    "title": "List of NCAA Division I men's soccer First-Team All-America teams",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1107493&oldid=599887222",
+    "tableIndex": 1,
+    "hashcode": "22eb8ed93eefb1698c858c8bdbd6bd5f11af9137",
+    "id": 1107493,
+    "revision": 599887222
+  }
+}

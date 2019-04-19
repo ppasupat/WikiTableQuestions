@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Mercedes-Benz E320 Bluetec",
+      "utterance": "what was the first mercedez to win world green car?",
+      "id": "nt-272"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many total world performance cars are there for 2007?",
+      "id": "nt-1106"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of cars entered for 2007 in the green car category?",
+      "id": "nt-5114"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the average number of winners each year?",
+      "id": "nt-5297"
+    },
+    {
+      "targetValue": "Audi R8",
+      "utterance": "who was the top car design of the year in 2008?",
+      "id": "nt-5711"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many world green cars are there before 2007?",
+      "id": "nt-6312"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total number of categories on the chart?",
+      "id": "nt-9633"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many world performance cars were entered in 2009?",
+      "id": "nt-10599"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many years were there only three world green cars?",
+      "id": "nt-10879"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive years did a volkswagen win world car of the year?",
+      "id": "nt-13024"
+    }
+  ],
+  "metadata": {
+    "title": "World Car of the Year",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1462671&oldid=598091386",
+    "tableIndex": 1,
+    "hashcode": "218e4af6d90f3535f10701331bb1b1a3fc332fa1",
+    "id": 1462671,
+    "revision": 598091386
+  }
+}

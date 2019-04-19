@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "14",
+      "utterance": "what is difference in points between c.d. aguila and chalatenango?",
+      "id": "nt-294"
+    },
+    {
+      "targetValue": "25",
+      "utterance": "what is the difference between the number of goals scored from the highest scoring team and the lowest scoring team?",
+      "id": "nt-921"
+    },
+    {
+      "targetValue": "Chalatenango",
+      "utterance": "besides c.d. arcense which other team has 17 points?",
+      "id": "nt-2906"
+    },
+    {
+      "targetValue": "180",
+      "utterance": "how many games were played?",
+      "id": "nt-5191"
+    },
+    {
+      "targetValue": "C.D. FAS",
+      "utterance": "which team scored the most points?",
+      "id": "nt-5608"
+    },
+    {
+      "targetValue": "C.D. FAS",
+      "utterance": "which team conceded the least goals?",
+      "id": "nt-5697"
+    },
+    {
+      "targetValue": "C.D. Águila",
+      "utterance": "which team earned more than 30 points besides c.d. fas?",
+      "id": "nt-5784"
+    },
+    {
+      "targetValue": "C.D. Águila",
+      "utterance": "which team scored the most goals?",
+      "id": "nt-6512"
+    },
+    {
+      "targetValue": "28",
+      "utterance": "how many points did alianza f.c. receive?",
+      "id": "nt-7473"
+    },
+    {
+      "targetValue": "C.D. FAS",
+      "utterance": "who was the top team of the apertura 2003 standings?",
+      "id": "nt-10360"
+    },
+    {
+      "targetValue": [
+        "San Salvador F.C.",
+        "Alianza F.C."
+      ],
+      "utterance": "what two teams ended the season with the same record of wins/loses/draws?",
+      "id": "nt-12579"
+    },
+    {
+      "targetValue": "C.D. Atlético Balboa",
+      "utterance": "which team earned the least amount of points in the apertura 2003 standings?",
+      "id": "nt-14141"
+    }
+  ],
+  "metadata": {
+    "title": "Primera División de Fútbol Profesional Apertura 2003",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13014350&oldid=579011319",
+    "tableIndex": 0,
+    "hashcode": "d177b78d234ca75bd6b6f681a5d88d8629292db6",
+    "id": 13014350,
+    "revision": 579011319
+  }
+}

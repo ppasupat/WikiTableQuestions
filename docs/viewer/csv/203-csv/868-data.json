@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "what is the first band number listed on this chart?",
+      "id": "nt-6794"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what are the total number of times the status is listed as roaming?",
+      "id": "nt-12102"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times is in service listed as the status?",
+      "id": "nt-12355"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what are the number of times 4g is listed as the generation?",
+      "id": "nt-13821"
+    }
+  ],
+  "metadata": {
+    "title": "T-Mobile US",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20563054&oldid=602498943",
+    "tableIndex": 0,
+    "hashcode": "efef67421d69d1f17826740cbcfe90c6ce3265e0",
+    "id": 20563054,
+    "revision": 602498943
+  }
+}

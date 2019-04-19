@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "how may years did coil release titles ?",
+      "id": "nt-1202"
+    },
+    {
+      "targetValue": "1998",
+      "utterance": "what year had the most titles released?",
+      "id": "nt-2456"
+    },
+    {
+      "targetValue": "1994",
+      "utterance": "the release dates are no earlier than what year?",
+      "id": "nt-3627"
+    },
+    {
+      "targetValue": "Plastic Spider Thing",
+      "utterance": "what was the only release title for the artist black sun productions?",
+      "id": "nt-5501"
+    },
+    {
+      "targetValue": "Love Uncut",
+      "utterance": "what was the first release title from coh?",
+      "id": "nt-5644"
+    },
+    {
+      "targetValue": "Black Sun Productions",
+      "utterance": "which artist only had 1 release?",
+      "id": "nt-7181"
+    },
+    {
+      "targetValue": "CD",
+      "utterance": "which format had the most releases?",
+      "id": "nt-9135"
+    },
+    {
+      "targetValue": "2000",
+      "utterance": "what was the first year that there were no titles released on vinyl?",
+      "id": "nt-11533"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the total number of titles coil released on 7' vinyl?",
+      "id": "nt-11841"
+    },
+    {
+      "targetValue": "1998",
+      "utterance": "which year had the most vinyls released",
+      "id": "nt-12520"
+    },
+    {
+      "targetValue": "Coil",
+      "utterance": "which artists had more then 6 release titles",
+      "id": "nt-13182"
+    }
+  ],
+  "metadata": {
+    "title": "Eskaton",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7495189&oldid=591450163",
+    "tableIndex": 0,
+    "hashcode": "4f70fef4eed7afb085e031cfea70fb7419839f41",
+    "id": 7495189,
+    "revision": 591450163
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many times did the single \"butterfly\" rank as 1 in the chart?",
+      "id": "nt-1344"
+    },
+    {
+      "targetValue": "\"Butterfly\"",
+      "utterance": "which single ranks 1 in us and 1 in us alt?",
+      "id": "nt-2419"
+    },
+    {
+      "targetValue": "27",
+      "utterance": "by how many chart positions higher did \"revolving door\" peak in the uk compared to the peak position of \"drowning\" in the uk?",
+      "id": "nt-4200"
+    },
+    {
+      "targetValue": "2002",
+      "utterance": "when did \"drowning\" peak at 24 in the us alternate group?",
+      "id": "nt-8289"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many singles have a ranking of 1 under ger?",
+      "id": "nt-9888"
+    }
+  ],
+  "metadata": {
+    "title": "Crazy Town",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=215081&oldid=602234608",
+    "tableIndex": 1,
+    "hashcode": "ef45725f1ac1cc8fb583b239dfd0e1571a69471b",
+    "id": 215081,
+    "revision": 602234608
+  }
+}

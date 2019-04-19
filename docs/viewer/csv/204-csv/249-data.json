@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Emerson",
+      "utterance": "what is the first intersecting highway town heading east on pr 243?",
+      "id": "nt-1840"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "how many cities are represented in the intersecting highway category?",
+      "id": "nt-1972"
+    },
+    {
+      "targetValue": "Rosenfeld",
+      "utterance": "what is the last location?",
+      "id": "nt-2697"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many notes are there?",
+      "id": "nt-3541"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total of location?",
+      "id": "nt-3928"
+    },
+    {
+      "targetValue": "Rosenfeld",
+      "utterance": "what is the next location after altona?",
+      "id": "nt-5822"
+    },
+    {
+      "targetValue": "Altona",
+      "utterance": "what location comes after gretna?",
+      "id": "nt-7289"
+    },
+    {
+      "targetValue": "Brown",
+      "utterance": "what city is before windygates on 201 wesr?",
+      "id": "nt-8223"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many intersecting highways are there total?",
+      "id": "nt-8979"
+    },
+    {
+      "targetValue": "Rosenfeld",
+      "utterance": "where is the only intersecting highway over 20 km?",
+      "id": "nt-11738"
+    },
+    {
+      "targetValue": "75",
+      "utterance": "including each municipality how many km total are there?",
+      "id": "nt-11799"
+    },
+    {
+      "targetValue": "R.M. of Rhineland",
+      "utterance": "what municipality is on average 25 km away?",
+      "id": "nt-12783"
+    }
+  ],
+  "metadata": {
+    "title": "Manitoba Highway 30",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3343127&oldid=578486419",
+    "tableIndex": 0,
+    "hashcode": "0ad34bd5575ea72fbe616da2daa558c6dd834c4d",
+    "id": 3343127,
+    "revision": 578486419
+  }
+}

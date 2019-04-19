@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "Sweden Democrats",
+      "utterance": "which party finished last in the election?",
+      "id": "nt-214"
+    },
+    {
+      "targetValue": "Swedish Social Democratic Party",
+      "utterance": "which party has the most seats in parliament?",
+      "id": "nt-4633"
+    }
+  ],
+  "metadata": {
+    "title": "Swedish general election, 1998",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=506244&oldid=597815321",
+    "tableIndex": 0,
+    "hashcode": "1e6aaabcfeb34c117bc4bded83be4bcde1d6cf6f",
+    "id": 506244,
+    "revision": 597815321
+  }
+}

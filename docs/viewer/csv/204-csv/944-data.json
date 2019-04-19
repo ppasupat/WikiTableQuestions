@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "10",
+      "utterance": "how many mines were in temagami?",
+      "id": "nt-159"
+    },
+    {
+      "targetValue": "Ontario",
+      "utterance": "what province is the town of temagami?",
+      "id": "nt-534"
+    },
+    {
+      "targetValue": "Temagami",
+      "utterance": "what town is listed the most?",
+      "id": "nt-1394"
+    },
+    {
+      "targetValue": "Golden Giant Mine",
+      "utterance": "which mine was open longer, golden giant or beanland mine?",
+      "id": "nt-1477"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "tell me the number of mines that also produced arsenic.",
+      "id": "nt-2940"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many times is temagami listedon the list?",
+      "id": "nt-3567"
+    },
+    {
+      "targetValue": "Barton Mine",
+      "utterance": "in what mine could you find bismuth?",
+      "id": "nt-7863"
+    },
+    {
+      "targetValue": "Barton Mine",
+      "utterance": "name a gold mine that was open at least 10 years.",
+      "id": "nt-10371"
+    },
+    {
+      "targetValue": "Dome Mine",
+      "utterance": "what mine is in the town of timmins?",
+      "id": "nt-12772"
+    }
+  ],
+  "metadata": {
+    "title": "List of gold mines in Canada",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=35131885&oldid=600104326",
+    "tableIndex": 4,
+    "hashcode": "35ce91459161e3f7e4bca6420f118cb6eead93ea",
+    "id": 35131885,
+    "revision": 600104326
+  }
+}

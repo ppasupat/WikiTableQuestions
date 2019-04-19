@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "Kamaal Dhamaal Malamaal",
+      "utterance": "what was the only movie madhurima play in during the year 2012?",
+      "id": "nt-980"
+    },
+    {
+      "targetValue": "2013",
+      "utterance": "what was madhurima's biggest year in terms of number of roles?",
+      "id": "nt-2820"
+    },
+    {
+      "targetValue": "Telugu",
+      "utterance": "has she been in more films in telugu or hindi?",
+      "id": "nt-2939"
+    },
+    {
+      "targetValue": "Telugu",
+      "utterance": "which language has madhurima spoken more often in films: malayalam or telugu?",
+      "id": "nt-5286"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many movies did madhurima take part in total?",
+      "id": "nt-5657"
+    },
+    {
+      "targetValue": "Black Coffee",
+      "utterance": "what other film is in malayalam besides koothara?",
+      "id": "nt-5783"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of films in tamil?",
+      "id": "nt-6089"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many films have no notes?",
+      "id": "nt-6412"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of films she did in 2010?",
+      "id": "nt-6633"
+    },
+    {
+      "targetValue": "Kamaal Dhamaal Malamaal",
+      "utterance": "what film was her last film in hindi?",
+      "id": "nt-9375"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many films was madhurima in during 2012?",
+      "id": "nt-9592"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "in how many years has madhurima been in at least 3 films?",
+      "id": "nt-11263"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many films is she currently filming?",
+      "id": "nt-12968"
+    }
+  ],
+  "metadata": {
+    "title": "Madhurima",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=35890838&oldid=599607954",
+    "tableIndex": 0,
+    "hashcode": "d75f44c37d8a55a83c8ae163caa3f642b600f85a",
+    "id": 35890838,
+    "revision": 599607954
+  }
+}

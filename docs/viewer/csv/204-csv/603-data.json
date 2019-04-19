@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "22",
+      "utterance": "how many laps were required to successfully complete the 125cc classification of the 2010 catalan motorcycle grand prix?",
+      "id": "nt-1161"
+    },
+    {
+      "targetValue": "Marc Márquez",
+      "utterance": "who had the lowest lap time?",
+      "id": "nt-5174"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many points did jonas folger score?",
+      "id": "nt-7606"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many racers did not start?",
+      "id": "nt-7661"
+    },
+    {
+      "targetValue": "Marc Márquez",
+      "utterance": "which rider finished first?",
+      "id": "nt-11626"
+    },
+    {
+      "targetValue": "Danny Webb",
+      "utterance": "what rider finished next after jonas folger?",
+      "id": "nt-13455"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "bradley smith lost the 2010 catalan motorcycle grand prix 125cc by more/less than 4 seconds?",
+      "id": "nt-14069"
+    }
+  ],
+  "metadata": {
+    "title": "2010 Catalan motorcycle Grand Prix",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=26551979&oldid=573614233",
+    "tableIndex": 2,
+    "hashcode": "4aeb6012094f6a4acf9683d7f3e6df6f0c9a1126",
+    "id": 26551979,
+    "revision": 573614233
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many dates are in 1972?",
+      "id": "nt-858"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many images are listed?",
+      "id": "nt-3374"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many locations are bird sanctuaries.",
+      "id": "nt-3828"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what are the total number of landmarks located in maui?",
+      "id": "nt-5176"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of bird sanctuary landmarks?",
+      "id": "nt-5627"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many names do not have a description?",
+      "id": "nt-6851"
+    },
+    {
+      "targetValue": "Makalawena Marsh",
+      "utterance": "other than mauna kea, name a place in hawaii.",
+      "id": "nt-6985"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total number of state monuments?",
+      "id": "nt-7869"
+    },
+    {
+      "targetValue": "Maui",
+      "utterance": "which county is featured the most on the chart?",
+      "id": "nt-8386"
+    },
+    {
+      "targetValue": "Koʻolau Range Pali",
+      "utterance": "what is the only name listed without a location?",
+      "id": "nt-9274"
+    },
+    {
+      "targetValue": "Bird Sanctuary",
+      "utterance": "is kanaha pond a state monument or a bird sanctuary?",
+      "id": "nt-10043"
+    },
+    {
+      "targetValue": "Mauna Kea",
+      "utterance": "what is the name of the only landmark that is also a u.s. state high point?",
+      "id": "nt-13933"
+    }
+  ],
+  "metadata": {
+    "title": "List of National Natural Landmarks in Hawaii",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20675807&oldid=546870555",
+    "tableIndex": 0,
+    "hashcode": "c5b5ece9e18570870dba3a739db3c4abd49e6ae5",
+    "id": 20675807,
+    "revision": 546870555
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "total games played against the white sox in july?",
+      "id": "nt-434"
+    },
+    {
+      "targetValue": "2192",
+      "utterance": "what was the difference in attendance between july 7 and july 8?",
+      "id": "nt-463"
+    },
+    {
+      "targetValue": "July 31",
+      "utterance": "when was their lowest scoring win?",
+      "id": "nt-1697"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many wins did stieb have in july?",
+      "id": "nt-2720"
+    },
+    {
+      "targetValue": "July 9",
+      "utterance": "after july 6 when was the next time murray scored a win?",
+      "id": "nt-6557"
+    },
+    {
+      "targetValue": "July 20",
+      "utterance": "leal won on july 23, but when was the blue jays previous win?",
+      "id": "nt-6789"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many days did the attendance not reach 10,000?",
+      "id": "nt-6976"
+    },
+    {
+      "targetValue": "27",
+      "utterance": "how many games did the blue jays play in july?",
+      "id": "nt-10291"
+    }
+  ],
+  "metadata": {
+    "title": "1982 Toronto Blue Jays season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12207717&oldid=601120916",
+    "tableIndex": 4,
+    "hashcode": "ece31a163305d99afa75fc946c56d81a73576547",
+    "id": 12207717,
+    "revision": 601120916
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Roberto Rolfo",
+      "utterance": "which rider earned first position with 25 points?",
+      "id": "nt-1752"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the difference in points scored between erwan nigon and dirk heidolf?",
+      "id": "nt-3443"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many riders do not have points?",
+      "id": "nt-6288"
+    },
+    {
+      "targetValue": "Hugo Marchand",
+      "utterance": "which rider earned only 2 points?",
+      "id": "nt-8648"
+    },
+    {
+      "targetValue": "Alex Debón",
+      "utterance": "who received more points, alex debon or toni elias?",
+      "id": "nt-9757"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many riders earned at lease 20 points?",
+      "id": "nt-11242"
+    },
+    {
+      "targetValue": "Chaz Davies",
+      "utterance": "which rider in the top 15 positions scored no more than 1 point?",
+      "id": "nt-13453"
+    }
+  ],
+  "metadata": {
+    "title": "2003 Australian motorcycle Grand Prix",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17064290&oldid=541445937",
+    "tableIndex": 1,
+    "hashcode": "3928026c21abdfd214c5154871d62db124ed5393",
+    "id": 17064290,
+    "revision": 541445937
+  }
+}

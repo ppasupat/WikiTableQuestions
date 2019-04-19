@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "what is the total number dallara chassis listed in the table?",
+      "id": "nt-668"
+    },
+    {
+      "targetValue": "Newman/Haas Racing",
+      "utterance": "which team won the champ car world series the year before rusport?",
+      "id": "nt-1456"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did sébastien bourdais win the champ car world series between 2005 and 2007?",
+      "id": "nt-3237"
+    },
+    {
+      "targetValue": "below",
+      "utterance": "was the average speed in the year 2011 of the indycar series above or below the average speed of the year before?",
+      "id": "nt-4221"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many different teams are represented in the table?",
+      "id": "nt-6057"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many flags other than france (the first flag) are represented?",
+      "id": "nt-7857"
+    },
+    {
+      "targetValue": "75",
+      "utterance": "what is the least amount of laps completed?",
+      "id": "nt-9163"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many total honda engines were there?",
+      "id": "nt-13002"
+    }
+  ],
+  "metadata": {
+    "title": "Edmonton Indy",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2735939&oldid=565888428",
+    "tableIndex": 0,
+    "hashcode": "eba1ac558a36de191baf1f779ab23c4d945a5d4d",
+    "id": 2735939,
+    "revision": 565888428
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Tonganoxie",
+      "utterance": "what township has the most land area?",
+      "id": "nt-651"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of townships with a population larger than 2,000?",
+      "id": "nt-1010"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many townships are in leavenworth county?",
+      "id": "nt-1682"
+    },
+    {
+      "targetValue": "Delaware",
+      "utterance": "which township has the least land area?",
+      "id": "nt-1893"
+    },
+    {
+      "targetValue": "Fairmount",
+      "utterance": "what township has the largest population?",
+      "id": "nt-2967"
+    },
+    {
+      "targetValue": "lower",
+      "utterance": "does alexandria county have a higher or lower population than delaware county?",
+      "id": "nt-4627"
+    },
+    {
+      "targetValue": "102",
+      "utterance": "what is the difference of population in easton and reno?",
+      "id": "nt-8306"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many townships have populations over 2,000?",
+      "id": "nt-9577"
+    },
+    {
+      "targetValue": "above",
+      "utterance": "was delaware's land area above or below 45 square miles?",
+      "id": "nt-12611"
+    }
+  ],
+  "metadata": {
+    "title": "Leavenworth County, Kansas",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=95698&oldid=600643407",
+    "tableIndex": 0,
+    "hashcode": "81027a48d61bcf88aae3cfb338ce90c0a446818a",
+    "id": 95698,
+    "revision": 600643407
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "examples": [
+    {
+      "targetValue": "Belarus",
+      "utterance": "baranov has played from 2004 to the present. what is his nationality?",
+      "id": "nt-727"
+    },
+    {
+      "targetValue": "56",
+      "utterance": "how many players had at least 20 league goals scored?",
+      "id": "nt-2815"
+    },
+    {
+      "targetValue": [
+        "Dmitri Alenichev",
+        "Vyacheslav Ambartsumyan"
+      ],
+      "utterance": "name two players with goals above 15.",
+      "id": "nt-2934"
+    },
+    {
+      "targetValue": "Fyodor Cherenkov",
+      "utterance": "which player has the most appearances with the club?",
+      "id": "nt-10932"
+    },
+    {
+      "targetValue": "Fyodor Cherenkov",
+      "utterance": "who had the highest number of appearances?",
+      "id": "nt-10989"
+    },
+    {
+      "targetValue": "Nikita Simonyan",
+      "utterance": "which player has the highest number of goals?",
+      "id": "nt-11654"
+    },
+    {
+      "targetValue": "199",
+      "utterance": "vladimir bukiyevskiy had how many appearances?",
+      "id": "nt-12570"
+    }
+  ],
+  "metadata": {
+    "title": "List of FC Spartak Moscow players",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=25701410&oldid=569863841",
+    "tableIndex": 0,
+    "hashcode": "6a857b75fbbe6a0ac1a0da6dafb7d75fb104f85e",
+    "id": 25701410,
+    "revision": 569863841
+  }
+}

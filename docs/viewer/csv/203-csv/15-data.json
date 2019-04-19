@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "2006",
+      "utterance": "which year saw the greatest final point total in the women's tournament finals?",
+      "id": "nt-2556"
+    },
+    {
+      "targetValue": "Western",
+      "utterance": "which team won the most games in london after 2005?",
+      "id": "nt-4023"
+    },
+    {
+      "targetValue": "2008",
+      "utterance": "what was the only year a men's runner-up was from toronto?",
+      "id": "nt-7530"
+    },
+    {
+      "targetValue": "Western",
+      "utterance": "what school was the top winner in the women's tournament in 2003?",
+      "id": "nt-8539"
+    },
+    {
+      "targetValue": "Toronto",
+      "utterance": "of mcgill, western, and toronto, who won the least final matches between 2003-13?",
+      "id": "nt-8750"
+    },
+    {
+      "targetValue": "McGill",
+      "utterance": "after western men's team win in 2007, who won the men's game next?",
+      "id": "nt-9899"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many total times was the location in montreal?",
+      "id": "nt-10252"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the greatest number of consecutive wins of the women's tournament between 2003 and 2013?",
+      "id": "nt-11662"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive wins did western's men's team have?",
+      "id": "nt-12310"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of times queen's was runner-up in men's?",
+      "id": "nt-12841"
+    }
+  ],
+  "metadata": {
+    "title": "Old Four",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4061740&oldid=572761719",
+    "tableIndex": 1,
+    "hashcode": "7618c06e0b988e62c3fca8419a59267b0742234e",
+    "id": 4061740,
+    "revision": 572761719
+  }
+}

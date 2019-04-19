@@ -1,0 +1,79 @@
+{
+  "examples": [
+    {
+      "targetValue": "before",
+      "utterance": "was kevin rudd prime minister before or after tony abbott?",
+      "id": "nt-2172"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many prime ministers were born before 1850?",
+      "id": "nt-3065"
+    },
+    {
+      "targetValue": [
+        "Alfred Deakin",
+        "Andrew Fisher",
+        "Billy Hughes",
+        "Stanley Bruce",
+        "Joseph Lyons",
+        "Robert Menzies",
+        "Ben Chifley",
+        "Malcolm Fraser",
+        "Bob Hawke",
+        "Paul Keating",
+        "John Howard"
+      ],
+      "utterance": "which prime ministers spent more than 1,500 days in the office?",
+      "id": "nt-3446"
+    },
+    {
+      "targetValue": "Alfred Deakin",
+      "utterance": "was edmund barton or alfred deakin younger at the beginning of his first term?",
+      "id": "nt-5672"
+    },
+    {
+      "targetValue": "2,648 days",
+      "utterance": "how long was joseph lyons in office?",
+      "id": "nt-7851"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "how many australian prime ministers were older than 50 at the time they began their first term?",
+      "id": "nt-8923"
+    },
+    {
+      "targetValue": "6,735 days",
+      "utterance": "the most number of days an australian prime minister was in office was how many days?",
+      "id": "nt-9376"
+    },
+    {
+      "targetValue": "Frank Forde",
+      "utterance": "which prime minister spent the shortest total time in office?",
+      "id": "nt-9538"
+    },
+    {
+      "targetValue": "Edmund Barton",
+      "utterance": "who was the first prime minister?",
+      "id": "nt-10143"
+    },
+    {
+      "targetValue": "113 days",
+      "utterance": "howl ong was chris watson prime minister?",
+      "id": "nt-10275"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "did john howard serve as prime minister for more or less time than julia gillard?",
+      "id": "nt-13747"
+    }
+  ],
+  "metadata": {
+    "title": "List of Australian Prime Ministers by age",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14613036&oldid=596450755",
+    "tableIndex": 0,
+    "hashcode": "070cf760585b78d5c58d3f5d96840ff108d22317",
+    "id": 14613036,
+    "revision": 596450755
+  }
+}

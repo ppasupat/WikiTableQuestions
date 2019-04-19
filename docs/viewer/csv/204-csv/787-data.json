@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Douglas Hines",
+      "utterance": "who was the only nominee for the episode \"the triangle\"?",
+      "id": "nt-602"
+    },
+    {
+      "targetValue": "Outstanding Individual Achievement in Editing for a Series (Multi-Camera Production)",
+      "utterance": "what was the last award to be won by this show?",
+      "id": "nt-5842"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many wins were after 1987?",
+      "id": "nt-7727"
+    },
+    {
+      "targetValue": "1987",
+      "utterance": "which year was he nominated for \"cheers: the motion picture.\"",
+      "id": "nt-7895"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many nominees were there in 1985?",
+      "id": "nt-8397"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what number of episodes won outstanding film editing for a series?",
+      "id": "nt-10846"
+    }
+  ],
+  "metadata": {
+    "title": "List of awards and nominations received by Cheers",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36373506&oldid=559821006",
+    "tableIndex": 3,
+    "hashcode": "28fbe7ed3149c74ccf5989e69e7296021434e13a",
+    "id": 36373506,
+    "revision": 559821006
+  }
+}

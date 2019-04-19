@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "32",
+      "utterance": "what is the difference between the edmonton hundred and the elthorne hundred in 1801?",
+      "id": "nt-5479"
+    },
+    {
+      "targetValue": "1881",
+      "utterance": "which year saw the largest population of tower division during this time?",
+      "id": "nt-6064"
+    },
+    {
+      "targetValue": "Tower Division",
+      "utterance": "in 1881, the most people lived in which division of middlesex?",
+      "id": "nt-7695"
+    },
+    {
+      "targetValue": "1821",
+      "utterance": "what was the last year that the gore hundred was below 10,000?",
+      "id": "nt-7825"
+    },
+    {
+      "targetValue": "818,129",
+      "utterance": "what was the total population in 1801?",
+      "id": "nt-8929"
+    },
+    {
+      "targetValue": "15661",
+      "utterance": "what is the difference between the elthorne hundred and the gore hundred in 1831?",
+      "id": "nt-9113"
+    },
+    {
+      "targetValue": "54,550",
+      "utterance": "in 1821, the population of middlesex in the kensington division was 70,808. what was it ten years earlier, at the time of the previous census?",
+      "id": "nt-10758"
+    }
+  ],
+  "metadata": {
+    "title": "Population of Middlesex (1801–81)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16677738&oldid=567787843",
+    "tableIndex": 0,
+    "hashcode": "d063d1bea9dfff68056dae5998420289ffc921cd",
+    "id": 16677738,
+    "revision": 567787843
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "1 January 1926",
+      "utterance": "when did pier ruggero piccio's term start?",
+      "id": "nt-3507"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many people had terms in the 1970s?",
+      "id": "nt-7253"
+    },
+    {
+      "targetValue": "13 October 1928",
+      "utterance": "when did armando armani's term end?",
+      "id": "nt-9327"
+    }
+  ],
+  "metadata": {
+    "title": "Italian Air Force",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=244318&oldid=601195155",
+    "tableIndex": 1,
+    "hashcode": "d54fc58092815feb2facd29b875476970d2c3c02",
+    "id": 244318,
+    "revision": 601195155
+  }
+}

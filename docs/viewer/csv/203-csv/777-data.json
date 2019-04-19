@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "First Canadian Place",
+      "utterance": "what is the only building in canada to have more than 60 floors?",
+      "id": "nt-240"
+    },
+    {
+      "targetValue": "Toronto-Dominion Centre",
+      "utterance": "which building in canada was the first to be taller than 200m?",
+      "id": "nt-1408"
+    },
+    {
+      "targetValue": "First Canadian Place",
+      "utterance": "name one building that is at least 600 feet tall.",
+      "id": "nt-2610"
+    },
+    {
+      "targetValue": "Commerce Court West",
+      "utterance": "what is the last tallest building in canada to have the word court in its building name?",
+      "id": "nt-2648"
+    },
+    {
+      "targetValue": "Tour CIBC",
+      "utterance": "which is the only to hold the record for a year?",
+      "id": "nt-4525"
+    },
+    {
+      "targetValue": "Commerce Court West",
+      "utterance": "what was the tallest building in canada after the toronto-dominion centre?",
+      "id": "nt-4830"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many tallest building in canada have been built in toronto?",
+      "id": "nt-7723"
+    },
+    {
+      "targetValue": "Commerce Court West",
+      "utterance": "which building held the record before the current holder?",
+      "id": "nt-9543"
+    },
+    {
+      "targetValue": "72",
+      "utterance": "how many floors are there in the tallest building in canada?",
+      "id": "nt-10748"
+    },
+    {
+      "targetValue": "Toronto",
+      "utterance": "what cities are first canadian place and commerce court west",
+      "id": "nt-13623"
+    }
+  ],
+  "metadata": {
+    "title": "List of tallest buildings in Canada",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4668401&oldid=598220268",
+    "tableIndex": 1,
+    "hashcode": "81b2ae3ec16cd25cc655557aa596c9b107d2c7ac",
+    "id": 4668401,
+    "revision": 598220268
+  }
+}

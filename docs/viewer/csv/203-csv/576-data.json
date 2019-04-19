@@ -1,0 +1,80 @@
+{
+  "examples": [
+    {
+      "targetValue": "China",
+      "utterance": "which country won the most medals?",
+      "id": "nt-503"
+    },
+    {
+      "targetValue": "Thailand",
+      "utterance": "which nation earned the most bronze medals, thailand or south korea?",
+      "id": "nt-2128"
+    },
+    {
+      "targetValue": "China",
+      "utterance": "who won more total medals? japan or china?",
+      "id": "nt-2575"
+    },
+    {
+      "targetValue": "Japan",
+      "utterance": "who won the most gold medals?",
+      "id": "nt-4431"
+    },
+    {
+      "targetValue": "China",
+      "utterance": "which country got at least one of each medal?",
+      "id": "nt-4786"
+    },
+    {
+      "targetValue": "27",
+      "utterance": "how many total medals were given out?",
+      "id": "nt-5997"
+    },
+    {
+      "targetValue": "North Korea",
+      "utterance": "which nation earned only one silver medal?",
+      "id": "nt-6038"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many gold medals did japan win?",
+      "id": "nt-6372"
+    },
+    {
+      "targetValue": "North Korea",
+      "utterance": "which country won the least medals?",
+      "id": "nt-6410"
+    },
+    {
+      "targetValue": "North Korea",
+      "utterance": "which country won the least number of medals?",
+      "id": "nt-8319"
+    },
+    {
+      "targetValue": [
+        "Japan",
+        "North Korea"
+      ],
+      "utterance": "what countries did not win bronze?",
+      "id": "nt-10979"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the difference in silver medals between china and chinese taipei?",
+      "id": "nt-13245"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many countries won more silver medals than japan?",
+      "id": "nt-14025"
+    }
+  ],
+  "metadata": {
+    "title": "Asian Youth Volleyball Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16744545&oldid=596486950",
+    "tableIndex": 4,
+    "hashcode": "8674d6e42d1734e0c3a2d920dd194f3744b8f785",
+    "id": 16744545,
+    "revision": 596486950
+  }
+}

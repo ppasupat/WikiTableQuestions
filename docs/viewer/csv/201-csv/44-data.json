@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "Any Given Sunday",
+      "utterance": "which film is under the year of 1999 and has the role of mandy murphy?",
+      "id": "nt-2777"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many of the films listed were a television movie?",
+      "id": "nt-5316"
+    },
+    {
+      "targetValue": "Showgirls",
+      "utterance": "which of elizabeth berkley's films got her the most award nominations?",
+      "id": "nt-13694"
+    }
+  ],
+  "metadata": {
+    "title": "Elizabeth Berkley",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=235473&oldid=599778429",
+    "tableIndex": 0,
+    "hashcode": "1d13056700d48c6c823e72193010892195f2146b",
+    "id": 235473,
+    "revision": 599778429
+  }
+}

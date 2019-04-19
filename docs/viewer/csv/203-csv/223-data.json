@@ -1,0 +1,68 @@
+{
+  "examples": [
+    {
+      "targetValue": "No.774",
+      "utterance": "which locomotive was built after 1915?",
+      "id": "nt-149"
+    },
+    {
+      "targetValue": "George Henry",
+      "utterance": "based on the table, which locomotive was built first?",
+      "id": "nt-6255"
+    },
+    {
+      "targetValue": [
+        "No.774",
+        "Dundee Gasworks No.2"
+      ],
+      "utterance": "what are the names of the locomotives produced after 1900?",
+      "id": "nt-6821"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the number of locomotives built in the 1800s?",
+      "id": "nt-7792"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many total locomotives are at the museum?",
+      "id": "nt-9201"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many locomotives are on display at the narrow gauge railway museum?",
+      "id": "nt-9281"
+    },
+    {
+      "targetValue": "George Henry",
+      "utterance": "of the locomotives at the museum, what is the name of the first one produced?",
+      "id": "nt-10580"
+    },
+    {
+      "targetValue": "Dot",
+      "utterance": "what is the next name after no.774?",
+      "id": "nt-11112"
+    },
+    {
+      "targetValue": [
+        "1919",
+        "1887",
+        "1891",
+        "1895",
+        "1877",
+        "1897",
+        "1907"
+      ],
+      "utterance": "list each date represented by locomotives at the museum.",
+      "id": "nt-11406"
+    }
+  ],
+  "metadata": {
+    "title": "Narrow Gauge Railway Museum",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=250051&oldid=592614467",
+    "tableIndex": 0,
+    "hashcode": "48d363304ffd921e2967f492fbf2eb642d3f2d74",
+    "id": 250051,
+    "revision": 592614467
+  }
+}

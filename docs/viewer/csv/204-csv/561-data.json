@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "Willie Robinson",
+      "utterance": "which jockey is before tm jones",
+      "id": "nt-236"
+    },
+    {
+      "targetValue": "Paul Kelleway",
+      "utterance": "who was the jockey of the only horse with a starting price of below 20/1?",
+      "id": "nt-1586"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many non-finishers fates were unseated riders?",
+      "id": "nt-4043"
+    },
+    {
+      "targetValue": "Irish Day",
+      "utterance": "which horse is older, greek scholar or irish day?",
+      "id": "nt-4475"
+    },
+    {
+      "targetValue": "Paddy Broderick",
+      "utterance": "which jockey rode his horse named major hitch?",
+      "id": "nt-4521"
+    },
+    {
+      "targetValue": "Bold Biri",
+      "utterance": "who is the last horse on the list that was \"pulled up\"?",
+      "id": "nt-5536"
+    },
+    {
+      "targetValue": "Paul Kelleway",
+      "utterance": "which is the first jockey on the chart",
+      "id": "nt-5782"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many horses were more than 10 years of age?",
+      "id": "nt-6519"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "what is the first fence listed in the chart?",
+      "id": "nt-7472"
+    },
+    {
+      "targetValue": "TM Jones",
+      "utterance": "which jockey is on top in age",
+      "id": "nt-8340"
+    },
+    {
+      "targetValue": "Brown Diamond",
+      "utterance": "which horse was older, brown diamond or flamecap?",
+      "id": "nt-8354"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "what is the total age of \"what a myth\" and \"rough tweed\"?",
+      "id": "nt-10476"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "tell me the number of horses with a 10-0 handicap.",
+      "id": "nt-14105"
+    }
+  ],
+  "metadata": {
+    "title": "1966 Grand National",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33703726&oldid=592485850",
+    "tableIndex": 1,
+    "hashcode": "6bc8715b62fb61dceee33cb8617a37b3793cf9d1",
+    "id": 33703726,
+    "revision": 592485850
+  }
+}

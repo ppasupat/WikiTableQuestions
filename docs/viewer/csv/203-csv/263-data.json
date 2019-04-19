@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Eta Alpha",
+      "utterance": "between eta zeta and eta alpha, who has been active for the longest?",
+      "id": "nt-703"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many chapters were founded in ohio?",
+      "id": "nt-4738"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what are the number of alumni chapters and clubs that are eta?",
+      "id": "nt-5828"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many chapters or clubs were founded in or before 1950?",
+      "id": "nt-8141"
+    },
+    {
+      "targetValue": "Zeta Alpha",
+      "utterance": "which delta omicron chapter was founded before zeta beta?",
+      "id": "nt-8262"
+    },
+    {
+      "targetValue": "87 years",
+      "utterance": "how long has the zeta delta been active for?",
+      "id": "nt-8846"
+    },
+    {
+      "targetValue": "Zeta Eta",
+      "utterance": "which chapter was founded first, zeta eta or zeta omega?",
+      "id": "nt-13669"
+    }
+  ],
+  "metadata": {
+    "title": "List of Delta Omicron chapters",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13709293&oldid=594550878",
+    "tableIndex": 1,
+    "hashcode": "a71f21a3722102827b7208a816cd58b634c246e2",
+    "id": 13709293,
+    "revision": 594550878
+  }
+}

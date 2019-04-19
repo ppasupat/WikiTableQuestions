@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "El Salvador",
+      "utterance": "who was his first opponent in the 2006 fifa world cup qualification round?",
+      "id": "nt-7014"
+    },
+    {
+      "targetValue": "El Salvador",
+      "utterance": "what opponent is listed in the top of the table?",
+      "id": "nt-9724"
+    },
+    {
+      "targetValue": "Columbus Crew Stadium, Columbus, United States",
+      "utterance": "in which venue did he last compete in?",
+      "id": "nt-9787"
+    },
+    {
+      "targetValue": "Columbus Crew Stadium, Columbus, United States",
+      "utterance": "the date september 10th is next to which venue?",
+      "id": "nt-12504"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times has he played against honduras?",
+      "id": "nt-12972"
+    }
+  ],
+  "metadata": {
+    "title": "Eddie Johnson (American soccer)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1115761&oldid=599204917",
+    "tableIndex": 2,
+    "hashcode": "8261ab9d421912ca5bb8fa6ec0d348bb2f9f5310",
+    "id": 1115761,
+    "revision": 599204917
+  }
+}

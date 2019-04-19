@@ -1,0 +1,87 @@
+{
+  "examples": [
+    {
+      "targetValue": "Mario Rondón",
+      "utterance": "who was the next transfer after silvestre varela?",
+      "id": "nt-1424"
+    },
+    {
+      "targetValue": "Tiago Pinto",
+      "utterance": "who was the last player to be transferred this season?",
+      "id": "nt-4082"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the number of players transferred who were colombian nationals?",
+      "id": "nt-4471"
+    },
+    {
+      "targetValue": "Estrela da Amadora",
+      "utterance": "what team was silvestre varela a member of before moving to porto?",
+      "id": "nt-5213"
+    },
+    {
+      "targetValue": "3 March 2009",
+      "utterance": "the first date is?",
+      "id": "nt-5718"
+    },
+    {
+      "targetValue": "Vitória de Guimarães",
+      "utterance": "kamani hill was the first person to be transferred to which team?",
+      "id": "nt-5756"
+    },
+    {
+      "targetValue": "24,000,000",
+      "utterance": "what is the most fee charged?",
+      "id": "nt-6613"
+    },
+    {
+      "targetValue": "8 May 2009",
+      "utterance": "when did the first transfer occur in may 2009?",
+      "id": "nt-7265"
+    },
+    {
+      "targetValue": "Lisandro López",
+      "utterance": "who was the only player to be transferred for a fee of 24,000,000?",
+      "id": "nt-8574"
+    },
+    {
+      "targetValue": "7,500,000[8]",
+      "utterance": "what was the total fee for ramires' transfer?",
+      "id": "nt-9278"
+    },
+    {
+      "targetValue": "David Mendieta",
+      "utterance": "who was the next transfer after maico on may 30, 2009?",
+      "id": "nt-11352"
+    },
+    {
+      "targetValue": "Patric",
+      "utterance": "what is the previous name to orlando sá?",
+      "id": "nt-13662"
+    },
+    {
+      "targetValue": "Lisandro López",
+      "utterance": "who had the most or highest transfer fee?",
+      "id": "nt-13818"
+    },
+    {
+      "targetValue": "Patric",
+      "utterance": "who was the only brazilian to transfer in april 2009?",
+      "id": "nt-13840"
+    },
+    {
+      "targetValue": "61",
+      "utterance": "how many dates are listed as \"free\"?",
+      "id": "nt-14048"
+    }
+  ],
+  "metadata": {
+    "title": "List of Portuguese football transfers summer 2009",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=39300056&oldid=588530567",
+    "tableIndex": 0,
+    "hashcode": "a532c09b90089c9a4400796b2bc6083e1c744fbb",
+    "id": 39300056,
+    "revision": 588530567
+  }
+}

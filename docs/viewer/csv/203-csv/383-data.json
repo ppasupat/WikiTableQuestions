@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "what number of games were lost at home?",
+      "id": "nt-449"
+    },
+    {
+      "targetValue": "Jacksonville Jaguars",
+      "utterance": "who was the next opponent after san francisco 49ers?",
+      "id": "nt-737"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "what was the least number of points scored in a win?",
+      "id": "nt-2291"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what are the number of times that the result in a loss game was 31-14?",
+      "id": "nt-4919"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many games have a winning result (w) before november 25, 2007?",
+      "id": "nt-5866"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many games started after 4:00 pm edt?",
+      "id": "nt-7241"
+    },
+    {
+      "targetValue": "October 14, 2007",
+      "utterance": "what was the first game listed as having a winning result (w)?",
+      "id": "nt-7989"
+    },
+    {
+      "targetValue": "Chicago Bears",
+      "utterance": "against which opponent was the last game of the season?",
+      "id": "nt-9385"
+    },
+    {
+      "targetValue": "Chicago Bears",
+      "utterance": "which opponent was the last opponent to play at the soldier field?",
+      "id": "nt-9849"
+    },
+    {
+      "targetValue": "December 10, 2007",
+      "utterance": "what was the date of the last contest with the atlanta falcons?",
+      "id": "nt-12500"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many games have a losing result (l)?",
+      "id": "nt-12826"
+    }
+  ],
+  "metadata": {
+    "title": "2007 New Orleans Saints season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10122095&oldid=589365811",
+    "tableIndex": 2,
+    "hashcode": "1303a5a19620b20d665c71f22f4df8dc07358be2",
+    "id": 10122095,
+    "revision": 589365811
+  }
+}

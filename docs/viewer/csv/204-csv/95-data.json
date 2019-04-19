@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many consecutive years did biff jones work at nebraska?",
+      "id": "nt-947"
+    },
+    {
+      "targetValue": "Ed Weir",
+      "utterance": "which coach was the first to coach before all others?",
+      "id": "nt-1460"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many coaches have nebraska as their alma mater?",
+      "id": "nt-3700"
+    },
+    {
+      "targetValue": [
+        "Biff Jones",
+        "Adolph J. Lewandowski"
+      ],
+      "utterance": "which coach started in the same year as charles armstrong?",
+      "id": "nt-6878"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many consecutive years did biff jones coach?",
+      "id": "nt-9180"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many consecutive years did w. harold browne coach",
+      "id": "nt-9448"
+    },
+    {
+      "targetValue": "Henry Schulte",
+      "utterance": "which coach held his position for the most years?",
+      "id": "nt-10047"
+    },
+    {
+      "targetValue": "Ed Weir",
+      "utterance": "which coach listed started first?",
+      "id": "nt-13051"
+    }
+  ],
+  "metadata": {
+    "title": "1937 Nebraska Cornhuskers football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=25803896&oldid=594205411",
+    "tableIndex": 1,
+    "hashcode": "76017e1583c5a758bac63ce66470991c09058190",
+    "id": 25803896,
+    "revision": 594205411
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "The Maltese Falcon",
+        "Malaya"
+      ],
+      "utterance": "what were the first and last movies greenstreet acted in?",
+      "id": "nt-635"
+    },
+    {
+      "targetValue": [
+        "Three Strangers",
+        "Devotion",
+        "The Verdict"
+      ],
+      "utterance": "what movies did greenstreet act for in 1946?",
+      "id": "nt-1028"
+    },
+    {
+      "targetValue": "9 years",
+      "utterance": "how long did sydney greenstreet's acting career last?",
+      "id": "nt-2074"
+    },
+    {
+      "targetValue": "The Maltese Falcon",
+      "utterance": "which movie did he get nominated for an oscar for?",
+      "id": "nt-2742"
+    },
+    {
+      "targetValue": "23",
+      "utterance": "how many movies has he been from 1941-1949.",
+      "id": "nt-5924"
+    }
+  ],
+  "metadata": {
+    "title": "Sydney Greenstreet",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=244829&oldid=595442098",
+    "tableIndex": 0,
+    "hashcode": "0671e9eba2a95aecbbabbadeeef8bf9315bf706d",
+    "id": 244829,
+    "revision": 595442098
+  }
+}

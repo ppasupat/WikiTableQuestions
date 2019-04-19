@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "how many times did a can-i-bus album reach the top 10 on the us charts?",
+      "id": "nt-2240"
+    },
+    {
+      "targetValue": "Can-I-Bus",
+      "utterance": "what albume peaked higher on the us charts can-i-bus or 2000 b.c.?",
+      "id": "nt-2636"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many albums had a higher position on either chart than 50?",
+      "id": "nt-3093"
+    },
+    {
+      "targetValue": "Lyrical Law",
+      "utterance": "which was the last album to be produced?",
+      "id": "nt-7311"
+    },
+    {
+      "targetValue": "Mind Control",
+      "utterance": "which album came after the album that was in 194th position for a us chart?",
+      "id": "nt-8570"
+    },
+    {
+      "targetValue": "Can-I-Bus",
+      "utterance": "what canibus album was released before the album titled 2000 b.c?",
+      "id": "nt-8864"
+    },
+    {
+      "targetValue": "Hip-Hop for Sale",
+      "utterance": "what album was released the same year as mind control?",
+      "id": "nt-12177"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what is the total number of albums can-i-bus has released?",
+      "id": "nt-13760"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the top position an album reached on either chart?",
+      "id": "nt-13842"
+    }
+  ],
+  "metadata": {
+    "title": "Canibus discography",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11288555&oldid=602204424",
+    "tableIndex": 0,
+    "hashcode": "be50a089ead21d651aadb23af323d75f9958d7a5",
+    "id": 11288555,
+    "revision": 602204424
+  }
+}

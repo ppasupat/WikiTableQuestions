@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many counties are smaller than 10,000 km2?",
+      "id": "nt-3101"
+    },
+    {
+      "targetValue": "Tana River",
+      "utterance": "which county has the most area?",
+      "id": "nt-3143"
+    },
+    {
+      "targetValue": "Kilifi",
+      "utterance": "which county has the largest population?",
+      "id": "nt-4201"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many counties have larger areas than kilifi?",
+      "id": "nt-4244"
+    },
+    {
+      "targetValue": "Tana River",
+      "utterance": "which is the top county in terms of area?",
+      "id": "nt-4843"
+    },
+    {
+      "targetValue": "Mombasa",
+      "utterance": "did mombasa or tana river have a larger population in 2009?",
+      "id": "nt-5049"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many counties have a population greater than 500,000?",
+      "id": "nt-6195"
+    },
+    {
+      "targetValue": [
+        "Tana River",
+        "Taita-Taveta"
+      ],
+      "utterance": "name all the counties with an area larger than kilifi.",
+      "id": "nt-6199"
+    },
+    {
+      "targetValue": "Mombasa",
+      "utterance": "which county is the only one to have an area less than 1,000 square kilometers?",
+      "id": "nt-8557"
+    },
+    {
+      "targetValue": "3,325,307",
+      "utterance": "what was the total population of all 6 counties combined in 2009?",
+      "id": "nt-11710"
+    },
+    {
+      "targetValue": "3,325,307",
+      "utterance": "what is the total population of all the counties combined?",
+      "id": "nt-13017"
+    },
+    {
+      "targetValue": "1,109,735",
+      "utterance": "how many people live in kilifi?",
+      "id": "nt-13109"
+    }
+  ],
+  "metadata": {
+    "title": "Coast Province",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1404456&oldid=598564502",
+    "tableIndex": 0,
+    "hashcode": "bd86a9281ca5421bf574a61e630ea45114392559",
+    "id": 1404456,
+    "revision": 598564502
+  }
+}

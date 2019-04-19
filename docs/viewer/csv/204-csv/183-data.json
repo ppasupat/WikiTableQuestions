@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "37",
+      "utterance": "what is the total number of silver awards given?",
+      "id": "nt-853"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many nations have received at least 1 gold medal?",
+      "id": "nt-1401"
+    },
+    {
+      "targetValue": "Thailand",
+      "utterance": "besides iraq and pakistan, what other nation did not receive a bronze medal?",
+      "id": "nt-2679"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "did taiwan receive more or less bronze medals than singapore?",
+      "id": "nt-3147"
+    },
+    {
+      "targetValue": [
+        "Iran",
+        "Malaysia"
+      ],
+      "utterance": "which country/countries has the same number of total metals as thailand?",
+      "id": "nt-5463"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many countries won more than 3 bronze metals?",
+      "id": "nt-6825"
+    },
+    {
+      "targetValue": "37",
+      "utterance": "how many total gold medals were awarded?",
+      "id": "nt-7068"
+    },
+    {
+      "targetValue": "Japan",
+      "utterance": "who is the top ranked nation?",
+      "id": "nt-9478"
+    },
+    {
+      "targetValue": "Japan",
+      "utterance": "top gold medal earner?",
+      "id": "nt-12470"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "japan finished below how many countries?",
+      "id": "nt-14149"
+    }
+  ],
+  "metadata": {
+    "title": "1973 Asian Athletics Championships",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9971939&oldid=597733398",
+    "tableIndex": 2,
+    "hashcode": "32dc26a1b6c8bdbc16c7832c04b671d3bb1f20fe",
+    "id": 9971939,
+    "revision": 597733398
+  }
+}

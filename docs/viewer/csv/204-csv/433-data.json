@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "what is the total number of names on the chart?",
+      "id": "nt-940"
+    },
+    {
+      "targetValue": "Gustavo Borges",
+      "utterance": "other than costa, name a swimmer from brazil.",
+      "id": "nt-2884"
+    },
+    {
+      "targetValue": "Brazil",
+      "utterance": "which nation was the only one with two top 3 finishers?",
+      "id": "nt-3792"
+    },
+    {
+      "targetValue": "Mexico",
+      "utterance": "name the country that had two swimmers that placed in consecutive spots.",
+      "id": "nt-4300"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many swimmers were in 3rd position in the race?",
+      "id": "nt-5595"
+    },
+    {
+      "targetValue": "Mark Johnston",
+      "utterance": "who finished before nate boyle for the united states?",
+      "id": "nt-9345"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many swimmers clocked less than 1:53 mins to complete the race?",
+      "id": "nt-9857"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "does scott tucker have the same nationality as yannick lupine?",
+      "id": "nt-10489"
+    },
+    {
+      "targetValue": "Gustavo Borges",
+      "utterance": "who is ranked first?",
+      "id": "nt-13350"
+    },
+    {
+      "targetValue": "1.88",
+      "utterance": "what was the time difference between the rank 1 swimmer and the rank 3 swimmers?",
+      "id": "nt-13531"
+    },
+    {
+      "targetValue": "Javier Díaz",
+      "utterance": "who came in last?",
+      "id": "nt-14147"
+    }
+  ],
+  "metadata": {
+    "title": "Swimming at the 1999 Pan American Games – Men's 200 metre freestyle",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41014577&oldid=600673328",
+    "tableIndex": 3,
+    "hashcode": "fb02f0860f84c3d48ddcb18a8634c0094615287d",
+    "id": 41014577,
+    "revision": 600673328
+  }
+}

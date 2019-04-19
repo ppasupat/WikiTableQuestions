@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "August 7",
+      "utterance": "on what date did ken hill achieve his win?",
+      "id": "nt-372"
+    },
+    {
+      "targetValue": "4-6",
+      "utterance": "what was the score in the last game between the phillies and the expos?",
+      "id": "nt-401"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "for how many games was attendance above 40,000?",
+      "id": "nt-3901"
+    },
+    {
+      "targetValue": "Pirates",
+      "utterance": "who played previous to the pirates on august 4?",
+      "id": "nt-6843"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "did august 3rd and august 4th have the same saves as august 11?",
+      "id": "nt-6989"
+    },
+    {
+      "targetValue": "John Franco",
+      "utterance": "who is the only pitcher to have more than one save during this period?",
+      "id": "nt-8454"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many games during this period did the phillies not win?",
+      "id": "nt-9698"
+    },
+    {
+      "targetValue": "Mets",
+      "utterance": "what team did the phillies play after august 7?",
+      "id": "nt-12275"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many different opponents were played after august 4?",
+      "id": "nt-12375"
+    }
+  ],
+  "metadata": {
+    "title": "1994 Philadelphia Phillies season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14096308&oldid=593456985",
+    "tableIndex": 8,
+    "hashcode": "51f4d1f6d9c992ecd358dd3c4892dfacf6157f2c",
+    "id": 14096308,
+    "revision": 593456985
+  }
+}

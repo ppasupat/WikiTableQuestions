@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Bonnyrigg Rose Athletic",
+      "utterance": "what team is after the 2006 to 2008 season in the east superleague column?",
+      "id": "nt-786"
+    },
+    {
+      "targetValue": "2009-10",
+      "utterance": "which year was the last time broxburn athletic topped the east region south division tables?",
+      "id": "nt-1225"
+    },
+    {
+      "targetValue": "Fauldhouse United",
+      "utterance": "which team has made the roll of honour more times in the east region south division: fauldhouse united or newtongrange star?",
+      "id": "nt-3096"
+    },
+    {
+      "targetValue": "2010-11",
+      "utterance": "when was the last year bo'ness united made the roll of honour for east superleague?",
+      "id": "nt-8451"
+    },
+    {
+      "targetValue": "East Superleague",
+      "utterance": "which league has at least one set of the same participants?",
+      "id": "nt-12624"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many years are there in a season?",
+      "id": "nt-13035"
+    },
+    {
+      "targetValue": "2008-09",
+      "utterance": "what season was previous to the tayport participant in the east premier league?",
+      "id": "nt-14114"
+    }
+  ],
+  "metadata": {
+    "title": "Scottish Junior Football Association, East Region",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=432733&oldid=563850361",
+    "tableIndex": 1,
+    "hashcode": "a35dd1c3e63e962b5f29a1f69256ce7fd626140a",
+    "id": 432733,
+    "revision": 563850361
+  }
+}

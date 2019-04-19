@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of delegates under the judiciary committee?",
+      "id": "nt-971"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many delegates are under the ways and means committee and represented washington county?",
+      "id": "nt-2560"
+    },
+    {
+      "targetValue": "16 years",
+      "utterance": "how much later as wendell beitzel elected than john donoghue?",
+      "id": "nt-3132"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many delegates are under the democratic party who represented the frederick county?",
+      "id": "nt-5004"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many delegates represented allegany?",
+      "id": "nt-6595"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the total amount of times the judiciary committee appears for delegates in the republican party?",
+      "id": "nt-7284"
+    },
+    {
+      "targetValue": "Republican",
+      "utterance": "what is weldell r. beitzel's party?",
+      "id": "nt-8604"
+    },
+    {
+      "targetValue": "2002",
+      "utterance": "in what year was galen r. clagett first elected into the western maryland delegation?",
+      "id": "nt-9815"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many total different committes are listed?",
+      "id": "nt-14026"
+    }
+  ],
+  "metadata": {
+    "title": "Western Maryland Delegation",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12789255&oldid=582885163",
+    "tableIndex": 0,
+    "hashcode": "fd7707d4155ff33d4394ccb4e887d501638c1e51",
+    "id": 12789255,
+    "revision": 582885163
+  }
+}

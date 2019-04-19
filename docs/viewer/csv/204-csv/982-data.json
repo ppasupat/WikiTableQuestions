@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Socialist",
+      "utterance": "which party is last on the chart",
+      "id": "nt-3309"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "total number of parties who lost seats in the argentine chamber of deputies in the legislative election of 1930",
+      "id": "nt-4069"
+    },
+    {
+      "targetValue": "Radical Civic Union",
+      "utterance": "which party hold the most number of seats?",
+      "id": "nt-7104"
+    },
+    {
+      "targetValue": "Unified UCR",
+      "utterance": "which one is the previous party before liberal",
+      "id": "nt-8895"
+    },
+    {
+      "targetValue": "Autonomist Party of Corrientes",
+      "utterance": "name a party that got, at most, 2% of the votes.",
+      "id": "nt-10112"
+    },
+    {
+      "targetValue": "Radical Civic Union (UCR)",
+      "utterance": "which one has the most vote",
+      "id": "nt-10591"
+    },
+    {
+      "targetValue": "Radical Civic Union",
+      "utterance": "which party gained more seats: the radical civic union or the democratic progressive party?",
+      "id": "nt-10942"
+    },
+    {
+      "targetValue": "Autonomist Party of Corrientes",
+      "utterance": "which one has the least vote",
+      "id": "nt-12692"
+    }
+  ],
+  "metadata": {
+    "title": "Argentine legislative election, 1930",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30552680&oldid=599382804",
+    "tableIndex": 0,
+    "hashcode": "fa1ddf3a7282dc9806bd01bdb924ffae1fce6d55",
+    "id": 30552680,
+    "revision": 599382804
+  }
+}

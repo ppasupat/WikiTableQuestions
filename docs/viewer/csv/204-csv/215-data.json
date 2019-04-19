@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "Las Vegas",
+      "utterance": "does allegiant air fly to dallas or las vegas?",
+      "id": "nt-1339"
+    },
+    {
+      "targetValue": "Atlanta, Cincinnati",
+      "utterance": "what other destination does atlantic southeast airlines fly to?",
+      "id": "nt-1608"
+    },
+    {
+      "targetValue": "Dallas/Fort Worth",
+      "utterance": "what is the only destination served by american eagle airlines?",
+      "id": "nt-2136"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "does air florida have more or less than four aircrafts scheduled?",
+      "id": "nt-3380"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many destinations does air florida have at this airport?",
+      "id": "nt-6010"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many airlines have at least three service dates?",
+      "id": "nt-6572"
+    },
+    {
+      "targetValue": "TransMeridian Airlines",
+      "utterance": "what is the only airline that has \"filed for bankruptcy\" as a comment?",
+      "id": "nt-7854"
+    },
+    {
+      "targetValue": "America West Express",
+      "utterance": "what is the first airline listed that has no service date listed?",
+      "id": "nt-7973"
+    },
+    {
+      "targetValue": "America West Express",
+      "utterance": "which airline has more listed destinations, continental express or america west express?",
+      "id": "nt-9407"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many destinations does america west express serve?",
+      "id": "nt-9919"
+    },
+    {
+      "targetValue": "Capital Airlines",
+      "utterance": "which airline has the most listed destinations?",
+      "id": "nt-11133"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many times is detroit listed as a destination?",
+      "id": "nt-13054"
+    },
+    {
+      "targetValue": "Trans Midwest Airlines",
+      "utterance": "what airline has the same scheduled aircraft as beaver aviation/bas airlines?",
+      "id": "nt-13533"
+    }
+  ],
+  "metadata": {
+    "title": "Toledo Express Airport",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2154751&oldid=601403917",
+    "tableIndex": 3,
+    "hashcode": "7792e076f33686e88464c8159b40cb801bc73fc7",
+    "id": 2154751,
+    "revision": 601403917
+  }
+}

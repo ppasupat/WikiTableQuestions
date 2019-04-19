@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "BL26",
+      "utterance": "which is the oldest locomotive?",
+      "id": "nt-167"
+    },
+    {
+      "targetValue": "1983",
+      "utterance": "what is the first year entered service year?",
+      "id": "nt-3298"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the total number of standard and broad gauges?",
+      "id": "nt-3372"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many locomotives entered service after the bl31?",
+      "id": "nt-7691"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the most consecutive gauges that were standard?",
+      "id": "nt-9116"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many locomotives are not standard gauge?",
+      "id": "nt-10949"
+    },
+    {
+      "targetValue": "BL28",
+      "utterance": "what locomotive is just previous to bl29?",
+      "id": "nt-11763"
+    }
+  ],
+  "metadata": {
+    "title": "Australian National BL class",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11373937&oldid=594652294",
+    "tableIndex": 0,
+    "hashcode": "644b85fc6d1513f145bf1dfdbaefcf4be37e50a0",
+    "id": 11373937,
+    "revision": 594652294
+  }
+}

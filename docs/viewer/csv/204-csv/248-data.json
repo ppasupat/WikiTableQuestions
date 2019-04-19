@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "36",
+      "utterance": "what was the total medal count?",
+      "id": "nt-1095"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the difference in number between the total number of gold medals and the total number of bronze medals?",
+      "id": "nt-2342"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the number of gold medals won by vietnam during the 2013 competition?",
+      "id": "nt-2451"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many gold medals where won in total?",
+      "id": "nt-3733"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the number of countries that had no gold medals?",
+      "id": "nt-4025"
+    },
+    {
+      "targetValue": "Vietnam",
+      "utterance": "which nation won the most gold medals?",
+      "id": "nt-11279"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many medals does iraq have in total?",
+      "id": "nt-13308"
+    },
+    {
+      "targetValue": "South Korea",
+      "utterance": "did vietnam or south korea had the more silver medals?",
+      "id": "nt-13824"
+    }
+  ],
+  "metadata": {
+    "title": "Kickboxing at the 2013 Asian Indoor and Martial Arts Games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=39631116&oldid=586138149",
+    "tableIndex": 3,
+    "hashcode": "a83e1a9c08a3f02b3bd337f12c8ede09088533d2",
+    "id": 39631116,
+    "revision": 586138149
+  }
+}

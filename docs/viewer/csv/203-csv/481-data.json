@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Marcus Popp",
+      "utterance": "which person is the only german native?",
+      "id": "nt-1377"
+    },
+    {
+      "targetValue": "Czech Republic",
+      "utterance": "david kone&#269;ný and kamil baránek are of which nationality?",
+      "id": "nt-1474"
+    },
+    {
+      "targetValue": "Soané Falafala",
+      "utterance": "which player is younger, soané falafala or david smith?",
+      "id": "nt-1691"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many total names are listed as having french nationality?",
+      "id": "nt-3248"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many had position s?",
+      "id": "nt-3376"
+    },
+    {
+      "targetValue": "Stanislav Šimin",
+      "utterance": "who is the only serbian player?",
+      "id": "nt-6069"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many players are older than cyril guittet?",
+      "id": "nt-6355"
+    },
+    {
+      "targetValue": "France",
+      "utterance": "which country as the most people on average?",
+      "id": "nt-6445"
+    },
+    {
+      "targetValue": "Guillaume Di Betta",
+      "utterance": "what other player was born in the same year as victor le guennec?",
+      "id": "nt-10753"
+    },
+    {
+      "targetValue": "France",
+      "utterance": "which country has the most people?",
+      "id": "nt-12294"
+    },
+    {
+      "targetValue": "Victor Le Guennec",
+      "utterance": "which player was born last?",
+      "id": "nt-12994"
+    }
+  ],
+  "metadata": {
+    "title": "Tours VB",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7161261&oldid=592302712",
+    "tableIndex": 0,
+    "hashcode": "0d586d349549a13abf6d3d7d1f693b380cc013d3",
+    "id": 7161261,
+    "revision": 592302712
+  }
+}

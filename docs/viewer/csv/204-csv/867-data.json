@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "how many women were above the age of 45 when executed?",
+      "id": "nt-2391"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many women in total were executed since 1976?",
+      "id": "nt-3095"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many women were not executed by lethal injection?",
+      "id": "nt-9653"
+    },
+    {
+      "targetValue": "Aileen Carol Wuornos",
+      "utterance": "who was the next consecutive woman to be executed after lynda lyon block?",
+      "id": "nt-9701"
+    },
+    {
+      "targetValue": [
+        "Marilyn Kay Plantz",
+        "Wanda Jean Allen"
+      ],
+      "utterance": "name all women who were executed in the same year as lois nadean smith.",
+      "id": "nt-9978"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many total women have been executed by lethal injection?",
+      "id": "nt-10357"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of women that have been executed in oklahoma?",
+      "id": "nt-10868"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the total number of women executed between 2000 and 2010?",
+      "id": "nt-13004"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the largest number of women that have been consecutively executed by lethal injection?",
+      "id": "nt-13225"
+    }
+  ],
+  "metadata": {
+    "title": "List of women executed in the United States since 1976",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=29022558&oldid=601889684",
+    "tableIndex": 0,
+    "hashcode": "68e111c0d06234ced5b4a58a4f386e84edf12408",
+    "id": 29022558,
+    "revision": 601889684
+  }
+}

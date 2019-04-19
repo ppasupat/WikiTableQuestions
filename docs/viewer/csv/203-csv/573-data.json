@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "García",
+        "Rodríguez"
+      ],
+      "utterance": "which are they only two names that have spain as their country of origin?",
+      "id": "nt-266"
+    },
+    {
+      "targetValue": "Smith",
+      "utterance": "which name had the highest number?",
+      "id": "nt-2072"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the number of last names listed that have an english origin?",
+      "id": "nt-2719"
+    },
+    {
+      "targetValue": "Wilson",
+      "utterance": "which surname on the list belongs to the smallest number of people?",
+      "id": "nt-4389"
+    },
+    {
+      "targetValue": "Wilson",
+      "utterance": "which surname originated in england, but belongs to fewer than one million people?",
+      "id": "nt-5330"
+    },
+    {
+      "targetValue": "Brown",
+      "utterance": "which had a higher number? brown or jones?",
+      "id": "nt-6239"
+    },
+    {
+      "targetValue": "Miller",
+      "utterance": "what name is listed before davis?",
+      "id": "nt-8974"
+    },
+    {
+      "targetValue": "Smith",
+      "utterance": "what is the english american name that the most people have?",
+      "id": "nt-11238"
+    },
+    {
+      "targetValue": "Smith",
+      "utterance": "which name had a higher number? smith or johnson?",
+      "id": "nt-12369"
+    }
+  ],
+  "metadata": {
+    "title": "English American",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20557093&oldid=602062645",
+    "tableIndex": 4,
+    "hashcode": "415bd8610fa573fff9520bdfab04f2a445f21714",
+    "id": 20557093,
+    "revision": 602062645
+  }
+}

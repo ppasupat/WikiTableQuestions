@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "NC State",
+      "utterance": "which team, ranked first, also finished as winner in the 1985 acc women's basketball tournament?",
+      "id": "nt-472"
+    },
+    {
+      "targetValue": "Maryland",
+      "utterance": "who was the first team to be champion of the tournament?",
+      "id": "nt-1341"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many times did duke place first?",
+      "id": "nt-5440"
+    },
+    {
+      "targetValue": "2,000",
+      "utterance": "what is the difference in attendees for maryland on february 10, 1979 to february 11, 1978?",
+      "id": "nt-6284"
+    },
+    {
+      "targetValue": "500",
+      "utterance": "what is the number of attendance for date 2/28/1982",
+      "id": "nt-7559"
+    },
+    {
+      "targetValue": "Clemson, South Carolina",
+      "utterance": "who had the least amount of attendees?",
+      "id": "nt-7616"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many times has maryland won the acc women's basketball tournament?",
+      "id": "nt-13239"
+    }
+  ],
+  "metadata": {
+    "title": "ACC Women's Basketball Tournament",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21034822&oldid=599890081",
+    "tableIndex": 0,
+    "hashcode": "8863e5d0d5bdc78d6dc39c5c3729869e97cb2779",
+    "id": 21034822,
+    "revision": 599890081
+  }
+}

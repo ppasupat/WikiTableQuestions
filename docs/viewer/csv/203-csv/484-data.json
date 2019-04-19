@@ -1,0 +1,35 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "ALP",
+        "Liberal"
+      ],
+      "utterance": "which parties does laurie failes not belong to?",
+      "id": "nt-2847"
+    },
+    {
+      "targetValue": "Rt Hon Sir Earle Page",
+      "utterance": "who was the only member of the country party to be elected in 1919?",
+      "id": "nt-9573"
+    },
+    {
+      "targetValue": "ALP",
+      "utterance": "alan bird and billy davies were both elected to the house of representatives as members of which party?",
+      "id": "nt-10851"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "allan fraser was elected how many years before frank crean?",
+      "id": "nt-11355"
+    }
+  ],
+  "metadata": {
+    "title": "Members of the Australian House of Representatives, 1951–1954",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20038777&oldid=575838609",
+    "tableIndex": 1,
+    "hashcode": "340ea0c149eb9c8705d55d188cf94366485aa11b",
+    "id": 20038777,
+    "revision": 575838609
+  }
+}

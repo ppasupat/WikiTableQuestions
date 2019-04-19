@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "count how many of these members were unionists.",
+      "id": "nt-93"
+    },
+    {
+      "targetValue": "4 years",
+      "utterance": "how long did bernard pilon serve in the canadian army?",
+      "id": "nt-1457"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many members of the canadian house of commons served in the militia?",
+      "id": "nt-3421"
+    },
+    {
+      "targetValue": "30 years",
+      "utterance": "how long was the longest military career for a canadian house of commons member?",
+      "id": "nt-4125"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many of these members were elected in october?",
+      "id": "nt-5226"
+    },
+    {
+      "targetValue": "Liberal",
+      "utterance": "which party had the most elected from it, liberal or unionist?",
+      "id": "nt-7679"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the number of members that served in the royal canadian air force?",
+      "id": "nt-8759"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "how many people served in the canadian army?",
+      "id": "nt-13972"
+    }
+  ],
+  "metadata": {
+    "title": "List of Members of the Canadian House of Commons with military service (P)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6122968&oldid=524718284",
+    "tableIndex": 0,
+    "hashcode": "894c174a4878d96955be797fb09189fe04038c4a",
+    "id": 6122968,
+    "revision": 524718284
+  }
+}

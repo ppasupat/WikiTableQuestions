@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Charlton Athletic",
+      "utterance": "what team spent the least amount of time in the administration?",
+      "id": "nt-814"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many clubs have more than -10pts?",
+      "id": "nt-2365"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many clubs at most don't have leagues?",
+      "id": "nt-2390"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what was the number of clubs that entered administration in 1992?",
+      "id": "nt-5140"
+    },
+    {
+      "targetValue": "24",
+      "utterance": "how many teams have received deductions thus far?",
+      "id": "nt-7378"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many clubs exited administration in 2003?",
+      "id": "nt-7658"
+    },
+    {
+      "targetValue": "1 month",
+      "utterance": "how long was charlton athletic in administration?",
+      "id": "nt-8413"
+    },
+    {
+      "targetValue": "Aldershot Town",
+      "utterance": "what is the last club listed?",
+      "id": "nt-8962"
+    },
+    {
+      "targetValue": "32",
+      "utterance": "how many teams entered adminstration before 2004?",
+      "id": "nt-9882"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "did hull city enter administration before january 1, 2001?",
+      "id": "nt-10104"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total number of teams that entered administration in 1992?",
+      "id": "nt-12147"
+    },
+    {
+      "targetValue": "2 1/2 months",
+      "utterance": "how long was bradford city in the administration?",
+      "id": "nt-14078"
+    }
+  ],
+  "metadata": {
+    "title": "Administration (British football)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=26351207&oldid=599719724",
+    "tableIndex": 0,
+    "hashcode": "db915a82562f4deaf135e70542bafacbf06fc6b3",
+    "id": 26351207,
+    "revision": 599719724
+  }
+}

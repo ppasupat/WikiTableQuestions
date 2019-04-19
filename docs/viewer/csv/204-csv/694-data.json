@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "3,668.97 km",
+      "utterance": "what was the largest distance traveled for the marlboro tour?",
+      "id": "nt-4671"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many stages was the 1982 marlboro tour?",
+      "id": "nt-5241"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "what was the total number of winners before the tour was canceled?",
+      "id": "nt-6459"
+    },
+    {
+      "targetValue": "Ruben Carino (PHI)",
+      "utterance": "who is listed below romeo bonzo?",
+      "id": "nt-7547"
+    },
+    {
+      "targetValue": "Carlo Guieb",
+      "utterance": "who won the most marlboro tours?",
+      "id": "nt-7966"
+    },
+    {
+      "targetValue": "64:58:57",
+      "utterance": "how long did it take warren davadilla to complete the 1998 marlboro centennial tour?",
+      "id": "nt-8669"
+    },
+    {
+      "targetValue": "Jacinto Sicam",
+      "utterance": "who was the only winner to have their time below 61:45:00?",
+      "id": "nt-12285"
+    },
+    {
+      "targetValue": "Victor Espiritu (PHI)",
+      "utterance": "who is listed before wong kam-po?",
+      "id": "nt-12770"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many marlboro tours did carlo guieb win?",
+      "id": "nt-12947"
+    }
+  ],
+  "metadata": {
+    "title": "Le Tour de Filipinas",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10694950&oldid=586786761",
+    "tableIndex": 2,
+    "hashcode": "3b1307ba2305d342922d8882e3834ac65705774b",
+    "id": 10694950,
+    "revision": 586786761
+  }
+}

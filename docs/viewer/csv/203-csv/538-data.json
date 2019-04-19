@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "F8",
+      "utterance": "which flight was the least successful of the h-ii flights?",
+      "id": "nt-719"
+    },
+    {
+      "targetValue": "1994",
+      "utterance": "in what year did the first h-ii flight take place?",
+      "id": "nt-3997"
+    },
+    {
+      "targetValue": "F6",
+      "utterance": "the only flight on november 27th",
+      "id": "nt-4495"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many partial failures of h-ii flights were there?",
+      "id": "nt-8310"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many at most flights were canceled according to the chart?",
+      "id": "nt-8740"
+    },
+    {
+      "targetValue": "February 4, 1994",
+      "utterance": "what was the earliest date of a flight?",
+      "id": "nt-9003"
+    },
+    {
+      "targetValue": "F7",
+      "utterance": "no flight other than what flight was canceled?",
+      "id": "nt-9256"
+    },
+    {
+      "targetValue": "F7",
+      "utterance": "what was the only flight to be cancelled?",
+      "id": "nt-9611"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many years passed between flight tf2 and flight f8?",
+      "id": "nt-10383"
+    },
+    {
+      "targetValue": "F8",
+      "utterance": "what h-ii flight took place last?",
+      "id": "nt-13259"
+    }
+  ],
+  "metadata": {
+    "title": "H-II",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8519352&oldid=580312966",
+    "tableIndex": 0,
+    "hashcode": "eec49eac3092a9cbd6800822525a849ce293e501",
+    "id": 8519352,
+    "revision": 580312966
+  }
+}

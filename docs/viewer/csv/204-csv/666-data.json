@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "2010/11",
+      "utterance": "which year had the largest agricultural volume?",
+      "id": "nt-255"
+    },
+    {
+      "targetValue": "3,729.7",
+      "utterance": "what is the total agricultural value in 2008/09?",
+      "id": "nt-708"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many consecutive year did the grand total value grow in iran?",
+      "id": "nt-3812"
+    },
+    {
+      "targetValue": "2011/12",
+      "utterance": "what year saw the greatest value for manufacturing and metal in iran?",
+      "id": "nt-6485"
+    },
+    {
+      "targetValue": "2011/12",
+      "utterance": "did 2010/11 or 2011/12 make more in grand total value?",
+      "id": "nt-7390"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "in how many years was the value of agriculture, in billion rials, greater than 500 in iran?",
+      "id": "nt-13309"
+    }
+  ],
+  "metadata": {
+    "title": "Iran Mercantile Exchange",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=28578233&oldid=592950854",
+    "tableIndex": 0,
+    "hashcode": "54cf90297001e9d6d2a7f4e4c98b0987f5c949e8",
+    "id": 28578233,
+    "revision": 592950854
+  }
+}

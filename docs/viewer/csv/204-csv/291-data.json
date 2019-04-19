@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of american skaters?",
+      "id": "nt-438"
+    },
+    {
+      "targetValue": "Elena Alexandrova",
+      "utterance": "who received the lowest number of points?",
+      "id": "nt-2406"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "which country had the most competitors?",
+      "id": "nt-3754"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many skaters had points greater than 2600?",
+      "id": "nt-6166"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many skaters have at most 2600 points?",
+      "id": "nt-7309"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times does the unites states appear in the nations column?",
+      "id": "nt-10837"
+    },
+    {
+      "targetValue": "Cinzia Frosio",
+      "utterance": "which woman finished last in the 1971 world figured skating championships?",
+      "id": "nt-10841"
+    },
+    {
+      "targetValue": "Beatrix Schuba",
+      "utterance": "which woman finished first in the 1971 world figured skating championships?",
+      "id": "nt-11474"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many women from the united states competed in the 1971 world figure skating championships?",
+      "id": "nt-12242"
+    },
+    {
+      "targetValue": "Karen Magnussen",
+      "utterance": "name a competitor that scored more that 2600 points and was from canada.",
+      "id": "nt-13793"
+    }
+  ],
+  "metadata": {
+    "title": "1971 World Figure Skating Championships",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21987382&oldid=579112842",
+    "tableIndex": 2,
+    "hashcode": "bd6555263f84c7e35d2ee8df366a805e92596f8c",
+    "id": 21987382,
+    "revision": 579112842
+  }
+}

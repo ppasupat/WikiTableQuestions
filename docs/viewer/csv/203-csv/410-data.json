@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "February 8, 2009",
+      "utterance": "which game date had a higher attendance? february 8, 2009 or april 4, 2009?",
+      "id": "nt-2999"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "other than games against the boston blazers how many did they win?",
+      "id": "nt-3212"
+    },
+    {
+      "targetValue": "lose",
+      "utterance": "did the new york titans win or lose game number 13?",
+      "id": "nt-4856"
+    },
+    {
+      "targetValue": "5,713",
+      "utterance": "what was the number of people who attended game number six?",
+      "id": "nt-4912"
+    },
+    {
+      "targetValue": "22.4",
+      "utterance": "what was the average combined score in february, 2009?",
+      "id": "nt-6591"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many games had at least 5,000 attendees?",
+      "id": "nt-7030"
+    },
+    {
+      "targetValue": "March",
+      "utterance": "which month had the least amount of games?",
+      "id": "nt-8866"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many games were played at the prudential center?",
+      "id": "nt-10388"
+    },
+    {
+      "targetValue": "Boston Blazers",
+      "utterance": "who was the opponent after the toronto rock?",
+      "id": "nt-11186"
+    }
+  ],
+  "metadata": {
+    "title": "2009 New York Titans season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19265783&oldid=575777524",
+    "tableIndex": 2,
+    "hashcode": "823177f42294139b5d82e064656c14f89cf52e83",
+    "id": 19265783,
+    "revision": 575777524
+  }
+}

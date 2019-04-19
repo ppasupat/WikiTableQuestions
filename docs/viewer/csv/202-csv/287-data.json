@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "EW58",
+      "utterance": "which parameter has the most number of doors per car per side?",
+      "id": "nt-1349"
+    },
+    {
+      "targetValue": "740",
+      "utterance": "how many more kw of power does the en71 use than the en57?",
+      "id": "nt-3191"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many cars in a unit will the en71 accommodate?",
+      "id": "nt-5699"
+    }
+  ],
+  "metadata": {
+    "title": "Szybka Kolej Miejska (Tricity)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3352856&oldid=592399909",
+    "tableIndex": 0,
+    "hashcode": "9407a744ba223379ab61cb0d597b159e64943320",
+    "id": 3352856,
+    "revision": 592399909
+  }
+}

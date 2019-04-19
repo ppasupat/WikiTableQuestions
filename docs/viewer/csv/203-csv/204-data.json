@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "48",
+      "utterance": "how many films were directed by sridhar after the year 1961?",
+      "id": "nt-276"
+    },
+    {
+      "targetValue": "Thanthu Vitten Ennai",
+      "utterance": "what was the last film directed by c. v. sridhar?",
+      "id": "nt-731"
+    },
+    {
+      "targetValue": "Bhaai Bhaai",
+      "utterance": "what was the first movie directed by c.v. sridhar that was filmed in the hindi language?",
+      "id": "nt-3429"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many films were directed in the year 1961 by sridhar?",
+      "id": "nt-3632"
+    },
+    {
+      "targetValue": "M. S. Viswanathan",
+      "utterance": "who wrote the most music for c.v. sridhars movies ?",
+      "id": "nt-4454"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the total about of movies venus pictures produced for film director c.v. sridhar?",
+      "id": "nt-5284"
+    },
+    {
+      "targetValue": "Ratha Paasam",
+      "utterance": "which film was the first to be directed by sridhar?",
+      "id": "nt-6362"
+    },
+    {
+      "targetValue": "24",
+      "utterance": "how many movies did c.v. sridhar direct between 1960 to 1970?",
+      "id": "nt-7237"
+    },
+    {
+      "targetValue": "1991",
+      "utterance": "what year was the last movie sridhar directed?",
+      "id": "nt-8302"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many total movies did m.s. viswanathan do the music for?",
+      "id": "nt-12337"
+    }
+  ],
+  "metadata": {
+    "title": "C. V. Sridhar",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4012985&oldid=599746730",
+    "tableIndex": 0,
+    "hashcode": "535f1f7c515b3164c712c006ec0183488641ad25",
+    "id": 4012985,
+    "revision": 599746730
+  }
+}

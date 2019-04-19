@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "November 10",
+      "utterance": "the game on what date had the most attendance?",
+      "id": "nt-2168"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the highest number of consecutive wins by the 1990 southern miss golden eagles football team?",
+      "id": "nt-4841"
+    },
+    {
+      "targetValue": "Alabama",
+      "utterance": "did the 1990 southern miss golden eagles football team play more games in alabama or louisiana?",
+      "id": "nt-5315"
+    },
+    {
+      "targetValue": "September 22",
+      "utterance": "on what date did the eagles score the least points?",
+      "id": "nt-5587"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "in how many games did they score at least 20 points?",
+      "id": "nt-6498"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many losses did the southern miss golden eagles football team have in 1990?",
+      "id": "nt-7815"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "number of wins in the season.",
+      "id": "nt-10689"
+    },
+    {
+      "targetValue": "Alabama",
+      "utterance": "did the eagles play against virginia tech or alabama on september 8?",
+      "id": "nt-10693"
+    },
+    {
+      "targetValue": "November 10",
+      "utterance": "which 1990 southern miss golden eagles football game had the most people in attendance?",
+      "id": "nt-12486"
+    },
+    {
+      "targetValue": "Golden Eagles",
+      "utterance": "did the golden eagles or delta state win the first game?",
+      "id": "nt-13833"
+    }
+  ],
+  "metadata": {
+    "title": "1990 Southern Miss Golden Eagles football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20903595&oldid=516568469",
+    "tableIndex": 0,
+    "hashcode": "b85dc4fb38b94f3d4a8691fd7ea7d1d2f0431ce6",
+    "id": 20903595,
+    "revision": 516568469
+  }
+}

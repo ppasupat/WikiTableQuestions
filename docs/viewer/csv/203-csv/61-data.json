@@ -1,0 +1,85 @@
+{
+  "examples": [
+    {
+      "targetValue": "South Africa",
+      "utterance": "nigeria has the most gold medals, but who has the most medals overall?",
+      "id": "nt-993"
+    },
+    {
+      "targetValue": "30",
+      "utterance": "the total number of medals won by south africa was how many?",
+      "id": "nt-1587"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many gold medals has kenya won?",
+      "id": "nt-4765"
+    },
+    {
+      "targetValue": "Algeria",
+      "utterance": "which african country had 8 silver medal wins, but no gold medals?",
+      "id": "nt-4929"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the difference of silver medals between south africa and kenya?",
+      "id": "nt-5306"
+    },
+    {
+      "targetValue": "South Africa",
+      "utterance": "which african country had more total medal wins then nigeria?",
+      "id": "nt-6227"
+    },
+    {
+      "targetValue": [
+        "Senegal",
+        "Tunisia"
+      ],
+      "utterance": "which nation won the same amount og golds as ghana?",
+      "id": "nt-7391"
+    },
+    {
+      "targetValue": "Nigeria",
+      "utterance": "which nation won more gold medals than south africa?",
+      "id": "nt-7813"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the total number of medals won by madagascar?",
+      "id": "nt-11006"
+    },
+    {
+      "targetValue": "Nigeria",
+      "utterance": "which nation won the most gold medals?",
+      "id": "nt-11794"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many gold medals did the ivory coast and namibia win combined?",
+      "id": "nt-12394"
+    },
+    {
+      "targetValue": [
+        "Central African Republic",
+        "Uganda",
+        "Namibia",
+        "Ivory Coast"
+      ],
+      "utterance": "which 4 countries were scored last, with only 1 bronze medal each?",
+      "id": "nt-12786"
+    },
+    {
+      "targetValue": "Nigeria",
+      "utterance": "which country was ranked as the top in the 1999 all-africa games?",
+      "id": "nt-13778"
+    }
+  ],
+  "metadata": {
+    "title": "Athletics at the 1999 All-Africa Games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9293180&oldid=592587984",
+    "tableIndex": 2,
+    "hashcode": "ebeeab8a6d511a23ab479866cfc80f93687a13b0",
+    "id": 9293180,
+    "revision": 592587984
+  }
+}

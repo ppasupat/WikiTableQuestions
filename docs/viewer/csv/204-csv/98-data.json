@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "1998",
+      "utterance": "what is the first year?",
+      "id": "nt-564"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many many competitions were held in 2006?",
+      "id": "nt-2738"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many years after the turin marathon did the berlin marathon occur?",
+      "id": "nt-4534"
+    },
+    {
+      "targetValue": "2004",
+      "utterance": "which other year than 1998 was 3rd position?",
+      "id": "nt-5073"
+    },
+    {
+      "targetValue": "2:08:55",
+      "utterance": "what was luis jesus' quickest finish time?",
+      "id": "nt-5958"
+    },
+    {
+      "targetValue": "World Championships",
+      "utterance": "what is the last competition?",
+      "id": "nt-8110"
+    },
+    {
+      "targetValue": "2:12:59",
+      "utterance": "how long did luis jesus take to finish in turin,italy in 1998?",
+      "id": "nt-12591"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did luis jesus finish before 3rd place?",
+      "id": "nt-13705"
+    }
+  ],
+  "metadata": {
+    "title": "Luís Jesus",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9686228&oldid=544703780",
+    "tableIndex": 0,
+    "hashcode": "6e2909392a71211b10ea5e5757048354deb5c8ac",
+    "id": 9686228,
+    "revision": 544703780
+  }
+}

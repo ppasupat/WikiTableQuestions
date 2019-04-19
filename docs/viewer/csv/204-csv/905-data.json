@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many teams won at least 85 games?",
+      "id": "nt-1852"
+    },
+    {
+      "targetValue": "Detroit Tigers",
+      "utterance": "which team was the only one to have triple digit wins?",
+      "id": "nt-1968"
+    },
+    {
+      "targetValue": "Milwaukee Brewers",
+      "utterance": "which team has the most losses?",
+      "id": "nt-3655"
+    },
+    {
+      "targetValue": "Detroit Tigers",
+      "utterance": "what was the only team to win more than 100 games?",
+      "id": "nt-4362"
+    },
+    {
+      "targetValue": "Detroit Tigers",
+      "utterance": "which team has at least 100 wins?",
+      "id": "nt-6666"
+    },
+    {
+      "targetValue": "Milwaukee Brewers",
+      "utterance": "what team won the least games?",
+      "id": "nt-7081"
+    },
+    {
+      "targetValue": "Cleveland Indians",
+      "utterance": "which team had the same number of losses as the new york yankees' wins?",
+      "id": "nt-7125"
+    },
+    {
+      "targetValue": "37",
+      "utterance": "how many games back were the brewers?",
+      "id": "nt-7752"
+    },
+    {
+      "targetValue": "Milwaukee Brewers",
+      "utterance": "which team has the least win percentage?",
+      "id": "nt-8040"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many teams won at most 50% of their games?",
+      "id": "nt-8522"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many teams won 75 games or less?",
+      "id": "nt-9340"
+    },
+    {
+      "targetValue": "Detroit Tigers",
+      "utterance": "which team came in first?",
+      "id": "nt-10192"
+    },
+    {
+      "targetValue": "Baltimore Orioles",
+      "utterance": "which team came in right after the boston red sox?",
+      "id": "nt-12412"
+    }
+  ],
+  "metadata": {
+    "title": "1984 Boston Red Sox season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12202677&oldid=586800591",
+    "tableIndex": 1,
+    "hashcode": "a213614900012713047f8952aca3ce7b58ae7e98",
+    "id": 12202677,
+    "revision": 586800591
+  }
+}

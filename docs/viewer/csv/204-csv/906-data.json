@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of tracks that have no songwriters?",
+      "id": "nt-569"
+    },
+    {
+      "targetValue": "\"Shalom a Leck\"",
+      "utterance": "what was the opening song on his album?",
+      "id": "nt-1193"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the number of songs produced by k-def on the album?",
+      "id": "nt-1403"
+    },
+    {
+      "targetValue": "\"Funk Mode\"",
+      "utterance": "which song came before grand groove on the album?",
+      "id": "nt-3678"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "what is the total number of titles listed?",
+      "id": "nt-7191"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of interludes on the list?",
+      "id": "nt-8096"
+    },
+    {
+      "targetValue": "\"Mad Brothas Know His Name\"",
+      "utterance": "which title has the longest name?",
+      "id": "nt-9121"
+    },
+    {
+      "targetValue": "\"Funky Roll Outro\"",
+      "utterance": "which performance was last on this album?",
+      "id": "nt-9752"
+    },
+    {
+      "targetValue": "\"Funky Roll Outro\"",
+      "utterance": "what is the last track on the list?",
+      "id": "nt-10468"
+    },
+    {
+      "targetValue": "\"Pass the Teck\"",
+      "utterance": "what is the first track to have two performers?",
+      "id": "nt-11464"
+    }
+  ],
+  "metadata": {
+    "title": "Tragedy: Saga of a Hoodlum",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4950064&oldid=555448244",
+    "tableIndex": 1,
+    "hashcode": "ba931a04407915682444b3eaf4fe6e6955104217",
+    "id": 4950064,
+    "revision": 555448244
+  }
+}

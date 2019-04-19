@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many songs did ishaan dev create for the movies kai thunindavan and thaazhvaarakaatu?",
+      "id": "nt-237"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many films used the kannada language?",
+      "id": "nt-893"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many total languages were there?",
+      "id": "nt-2277"
+    },
+    {
+      "targetValue": "Malayalam",
+      "utterance": "which of the languages mentioned was used in the most films?",
+      "id": "nt-2605"
+    },
+    {
+      "targetValue": "Tamil",
+      "utterance": "what language was used in only one film?",
+      "id": "nt-5047"
+    },
+    {
+      "targetValue": "Shyloo",
+      "utterance": "which was the first film in kannada?",
+      "id": "nt-6269"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many songs did ishaan dev provide for movies made between 2007 and 2009?",
+      "id": "nt-6777"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many films were there in 2010 and 2012?",
+      "id": "nt-10556"
+    },
+    {
+      "targetValue": "The Tiger",
+      "utterance": "what was the first movie ishaan dev created a song for?",
+      "id": "nt-13003"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "what is the number of films that ishaan dev has given music to?",
+      "id": "nt-13629"
+    }
+  ],
+  "metadata": {
+    "title": "Ishaan Dev",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=39314748&oldid=586626596",
+    "tableIndex": 0,
+    "hashcode": "2e1404d7e5afe884e27c19b7e515d14f0e060dc1",
+    "id": 39314748,
+    "revision": 586626596
+  }
+}

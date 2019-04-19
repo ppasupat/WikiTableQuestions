@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Matthew",
+      "utterance": "who discused the largest amount of topics?",
+      "id": "nt-547"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "the number of events that occur after the crucifixion of jesus",
+      "id": "nt-1777"
+    },
+    {
+      "targetValue": "160",
+      "utterance": "what is the total number of events?",
+      "id": "nt-2398"
+    },
+    {
+      "targetValue": "34",
+      "utterance": "how many events does john describe?",
+      "id": "nt-3385"
+    },
+    {
+      "targetValue": "Matthew",
+      "utterance": "who discussed a larger amount of events between matthew and mark?",
+      "id": "nt-4037"
+    },
+    {
+      "targetValue": "Birth of John the Baptist",
+      "utterance": "what event comes before luke 1:26-38?",
+      "id": "nt-6433"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what is the longest consecutive amount of topics that luke write about?",
+      "id": "nt-6803"
+    },
+    {
+      "targetValue": "Genealogy of Jesus",
+      "utterance": "what event happened previous to the birth of john the baptist?",
+      "id": "nt-9098"
+    },
+    {
+      "targetValue": "John",
+      "utterance": "who was the only person to discuss the pre-existence of christ?",
+      "id": "nt-13251"
+    }
+  ],
+  "metadata": {
+    "title": "Gospel harmony",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17580754&oldid=589296243",
+    "tableIndex": 1,
+    "hashcode": "6d167818eb69358b4fb12603dd4a16ac56ff8879",
+    "id": 17580754,
+    "revision": 589296243
+  }
+}

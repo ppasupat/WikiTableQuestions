@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "how many channels had more shows listed than star plus?",
+      "id": "nt-1542"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "was mtv used more than mtv india?",
+      "id": "nt-4679"
+    },
+    {
+      "targetValue": "Extra Innings T20 for Indian Premier League Season 3",
+      "utterance": "what is the next show after 2009",
+      "id": "nt-5566"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of show for 2010",
+      "id": "nt-5632"
+    },
+    {
+      "targetValue": "Pepsi MTV Wassup, The Voice of Youngistaan",
+      "utterance": "the two video jockey shows were fantastic 5 and which other show?",
+      "id": "nt-5880"
+    },
+    {
+      "targetValue": "Just Dance",
+      "utterance": "what is the last show listed?",
+      "id": "nt-6333"
+    },
+    {
+      "targetValue": "Contestant",
+      "utterance": "what was this actor's first television role?",
+      "id": "nt-7140"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what is the number of \"anchor\" roles this actor has had?",
+      "id": "nt-8056"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many roles did this actor have before 2010?",
+      "id": "nt-13302"
+    }
+  ],
+  "metadata": {
+    "title": "Ayushmann Khurrana",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=25833639&oldid=602301815",
+    "tableIndex": 1,
+    "hashcode": "ea6b3006b0500b07f41276ee940d7aef5e45d77f",
+    "id": 25833639,
+    "revision": 602301815
+  }
+}

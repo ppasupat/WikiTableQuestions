@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "T.V. SivaraoPantulu",
+      "utterance": "who held the position longer, t.v sivaraopantulu or l. suryalingam?",
+      "id": "nt-229"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "how many total chairpersons have their been in this municipality?",
+      "id": "nt-934"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many total chairpersons were there between 1905 and 1921?",
+      "id": "nt-1060"
+    },
+    {
+      "targetValue": "L. Suryalingam",
+      "utterance": "who served after maturi ramaro?",
+      "id": "nt-3103"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "tell me the total number of chairpersons.",
+      "id": "nt-5814"
+    },
+    {
+      "targetValue": "5 years",
+      "utterance": "how long was paidsetti jayanthi the chairperson of this municipality?",
+      "id": "nt-6542"
+    },
+    {
+      "targetValue": "T.V. SivaraoPantulu",
+      "utterance": "who was earlier, t.v. sivaraopantulu or gynatevenkatarao?",
+      "id": "nt-8515"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many years did shilpa bendi serve?",
+      "id": "nt-10177"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "for how many consecutive years was challa narasimha naidu the chairperson?",
+      "id": "nt-11773"
+    }
+  ],
+  "metadata": {
+    "title": "Srikakulam",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=711152&oldid=599660931",
+    "tableIndex": 0,
+    "hashcode": "0edadbf6155a5802037126e7717de3c440990e82",
+    "id": 711152,
+    "revision": 599660931
+  }
+}

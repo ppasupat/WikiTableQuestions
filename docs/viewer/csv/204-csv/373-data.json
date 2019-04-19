@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many consecutive fights did mocho cota win?",
+      "id": "nt-2372"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many times did mocho cota lose to chamaco valaguez?",
+      "id": "nt-2638"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many total fights took place in mexico city, mexico?",
+      "id": "nt-4533"
+    },
+    {
+      "targetValue": "Satánico",
+      "utterance": "first opponent to defeat mocho cota in mexico city",
+      "id": "nt-4710"
+    },
+    {
+      "targetValue": "Negro Casas",
+      "utterance": "only opponent to defeat mocho cota in 1994",
+      "id": "nt-5014"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many fights did mocho cota win after 1983?",
+      "id": "nt-7288"
+    },
+    {
+      "targetValue": "Chamaco Valaguez",
+      "utterance": "who is the first loser listed on this chart?",
+      "id": "nt-7783"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "number of mocho cota matches held in mexico city in 1983 or 1984",
+      "id": "nt-10582"
+    },
+    {
+      "targetValue": "Chamaco Valaguez",
+      "utterance": "other wrestler to win a match in cuernavaca besides mocho cota",
+      "id": "nt-10688"
+    }
+  ],
+  "metadata": {
+    "title": "Mocho Cota",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=24770918&oldid=600603904",
+    "tableIndex": 0,
+    "hashcode": "6073091891e4a184dabf565390eac712162eddd1",
+    "id": 24770918,
+    "revision": 600603904
+  }
+}

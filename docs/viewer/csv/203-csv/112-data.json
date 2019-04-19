@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "Cylinder",
+      "utterance": "which choke has the least constriction?",
+      "id": "nt-480"
+    },
+    {
+      "targetValue": "Skeet 1",
+      "utterance": "the choke with at least 0.005 inches of constriction",
+      "id": "nt-1532"
+    },
+    {
+      "targetValue": "Turkey",
+      "utterance": "which of the 1 notch barrels has the highest constriction?",
+      "id": "nt-6124"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many different chokes are there that start with an s",
+      "id": "nt-6922"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the difference in percentage of lead shot at 25 yards between cylinder and skeet 1 barrels?",
+      "id": "nt-10721"
+    }
+  ],
+  "metadata": {
+    "title": "Choke (firearms)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11491013&oldid=601395503",
+    "tableIndex": 0,
+    "hashcode": "cae3bc9062e95bd79f77518d83ce3d400ceba2e2",
+    "id": 11491013,
+    "revision": 601395503
+  }
+}

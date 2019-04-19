@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "1964",
+      "utterance": "when was the last time kansas state lost with 0 points in manhattan?",
+      "id": "nt-69"
+    },
+    {
+      "targetValue": "1926",
+      "utterance": "when was the first game that kansas state won by double digits?",
+      "id": "nt-1239"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what was the number of wins kansas state had in manhattan?",
+      "id": "nt-4382"
+    },
+    {
+      "targetValue": "66",
+      "utterance": "what is the total number of games played?",
+      "id": "nt-6129"
+    },
+    {
+      "targetValue": "34",
+      "utterance": "how many times did kansas and kansas state play in lawrence from 1902-1968?",
+      "id": "nt-9177"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many times did kansas beat kansas state before 1910?",
+      "id": "nt-9711"
+    },
+    {
+      "targetValue": "55",
+      "utterance": "before 1950 what was the most points kansas scored?",
+      "id": "nt-10053"
+    },
+    {
+      "targetValue": "Kansas",
+      "utterance": "who had the most wins in the 1950's: kansas or kansas state?",
+      "id": "nt-12346"
+    },
+    {
+      "targetValue": "23",
+      "utterance": "how many times did kansas state not score at all against kansas from 1902-1968?",
+      "id": "nt-13924"
+    }
+  ],
+  "metadata": {
+    "title": "Kansas–Kansas State football rivalry",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3248400&oldid=593969492",
+    "tableIndex": 1,
+    "hashcode": "ed58c0a0d071f98e585b98e1460d920beed61905",
+    "id": 3248400,
+    "revision": 593969492
+  }
+}

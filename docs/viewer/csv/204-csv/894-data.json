@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "what number of times was the venue manny ramjohn stadium?",
+      "id": "nt-2027"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many times was w connection the winner?",
+      "id": "nt-2079"
+    },
+    {
+      "targetValue": "Manny Ramjohn Stadium",
+      "utterance": "name a venue that hosted at least five times.",
+      "id": "nt-2250"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "tell me the total number of goals scored in the 2010 match.",
+      "id": "nt-4678"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the difference between the number of games played at manny ramjohn stadium and the number of games played at marvin lee stadium?",
+      "id": "nt-8048"
+    },
+    {
+      "targetValue": "W Connection",
+      "utterance": "who has won the most league cups ?",
+      "id": "nt-10069"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "in what year did joe public win the trinidad and tobago league cup after losing the prior year?",
+      "id": "nt-10856"
+    },
+    {
+      "targetValue": "W Connection",
+      "utterance": "who won the trinidad and tobago league cup the most times between 2000 and 2012?",
+      "id": "nt-11919"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many more points did w connection score than san juan jabloteh in 2005?",
+      "id": "nt-12315"
+    },
+    {
+      "targetValue": "W Connection",
+      "utterance": "which team was the winner the most times?",
+      "id": "nt-14113"
+    }
+  ],
+  "metadata": {
+    "title": "Trinidad and Tobago League Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9655805&oldid=602220741",
+    "tableIndex": 2,
+    "hashcode": "cdedeb4c0c17ea1a55387c8d289c6ac6e094e324",
+    "id": 9655805,
+    "revision": 602220741
+  }
+}

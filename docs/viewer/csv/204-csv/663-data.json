@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "England",
+      "utterance": "which nation is the most represented by the 20 scorers?",
+      "id": "nt-612"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many scorers from england scored above 15 points?",
+      "id": "nt-984"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many players were from england?",
+      "id": "nt-1041"
+    },
+    {
+      "targetValue": "Karen Andrew",
+      "utterance": "who has scored the most points this in the 2007 women's six nations championship?",
+      "id": "nt-1686"
+    },
+    {
+      "targetValue": "Georgia Stevens",
+      "utterance": "mel berry scored the same amount of points as which other english competitor?",
+      "id": "nt-2130"
+    },
+    {
+      "targetValue": "Scotland",
+      "utterance": "lucy millard and lynsey harley were both from which nation?",
+      "id": "nt-2834"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many of the top ten women from the 2007 women's six nations championship played for england",
+      "id": "nt-6696"
+    },
+    {
+      "targetValue": "Mel Berry",
+      "utterance": "who was ranked number 20 in the women's 2007 women's six nations championship?",
+      "id": "nt-8784"
+    },
+    {
+      "targetValue": "75",
+      "utterance": "how many points did the france 2007 women's six nations championship have all together in the top 20 players?",
+      "id": "nt-10791"
+    }
+  ],
+  "metadata": {
+    "title": "2007 Women's Six Nations Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12005179&oldid=553426203",
+    "tableIndex": 1,
+    "hashcode": "4127641126b7cc8a5d7b178909a853105856b5cb",
+    "id": 12005179,
+    "revision": 553426203
+  }
+}

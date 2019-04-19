@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "1998",
+      "utterance": "which year had the most competitions?",
+      "id": "nt-1077"
+    },
+    {
+      "targetValue": "4x400 m relay",
+      "utterance": "how long was the relay at the 1997 world championships that ken harden ran",
+      "id": "nt-1668"
+    },
+    {
+      "targetValue": "1998",
+      "utterance": "in what year did ken harnden participate in more than one competition?",
+      "id": "nt-2838"
+    },
+    {
+      "targetValue": "Kuala Lumpur, Malaysia",
+      "utterance": "where was the next venue after athens, greece?",
+      "id": "nt-3254"
+    },
+    {
+      "targetValue": "Kuala Lumpur, Malaysia",
+      "utterance": "what was the venue before dakar, senegal?",
+      "id": "nt-3743"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of competitions on this chart?",
+      "id": "nt-3975"
+    },
+    {
+      "targetValue": "All-Africa Games",
+      "utterance": "what is the name of the last competition?",
+      "id": "nt-6862"
+    },
+    {
+      "targetValue": [
+        "1998",
+        "1999"
+      ],
+      "utterance": "in what years did ken harnden do better that 5th place?",
+      "id": "nt-7662"
+    },
+    {
+      "targetValue": "1998",
+      "utterance": "other than 1999, what year did ken harnden win second place?",
+      "id": "nt-7840"
+    },
+    {
+      "targetValue": "All-Africa Games",
+      "utterance": "what is the last competition on the chart?",
+      "id": "nt-8710"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the number of titles ken harden has one",
+      "id": "nt-10461"
+    },
+    {
+      "targetValue": "Victoria, Canada",
+      "utterance": "what venue came before gothenburg, sweden?",
+      "id": "nt-10972"
+    }
+  ],
+  "metadata": {
+    "title": "Ken Harnden",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8312536&oldid=597762092",
+    "tableIndex": 0,
+    "hashcode": "5cd3546c61380431624d28400265f988ef830c95",
+    "id": 8312536,
+    "revision": 597762092
+  }
+}

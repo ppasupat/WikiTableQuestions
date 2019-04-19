@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "video",
+      "utterance": "other than audio, what type of payload types are there?",
+      "id": "nt-1866"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "the rtp/avp audio and video payload types include an audio type called qcelp and its frame size is how many ms?",
+      "id": "nt-2471"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the average number of channels?",
+      "id": "nt-10597"
+    }
+  ],
+  "metadata": {
+    "title": "RTP audio video profile",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16540520&oldid=595880800",
+    "tableIndex": 0,
+    "hashcode": "f8b76c1d8a5f593e86c4893c5d7ffd8394810e73",
+    "id": 16540520,
+    "revision": 595880800
+  }
+}

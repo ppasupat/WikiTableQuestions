@@ -1,0 +1,39 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "1",
+        "010",
+        "011",
+        "00100",
+        "00101"
+      ],
+      "utterance": "list the encoding binaries for the first five integers in elias gamma encoding.",
+      "id": "nt-975"
+    },
+    {
+      "targetValue": "1/128",
+      "utterance": "what is the implied probability of 8 = 23 + 0?",
+      "id": "nt-8084"
+    },
+    {
+      "targetValue": [
+        "1/2",
+        "1/8",
+        "1/8",
+        "1/32",
+        "1/32"
+      ],
+      "utterance": "the first five implied probabilities of elias gamma coding.",
+      "id": "nt-9513"
+    }
+  ],
+  "metadata": {
+    "title": "Elias gamma coding",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=51761&oldid=591181650",
+    "tableIndex": 0,
+    "hashcode": "f9c95f86b0719562087bfaa275e97ad2560e9cb8",
+    "id": 51761,
+    "revision": 591181650
+  }
+}

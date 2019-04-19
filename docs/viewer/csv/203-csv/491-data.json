@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many singles reached the us mainstream rock chart?",
+      "id": "nt-1713"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "calculate the number of songs listed between 1994 and 2005.",
+      "id": "nt-3273"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many singles were released in total?",
+      "id": "nt-3865"
+    },
+    {
+      "targetValue": "\"Molly (16 Candles Down the Drain)\"",
+      "utterance": "which single rated highest on the us mainstream rock chart?",
+      "id": "nt-4972"
+    },
+    {
+      "targetValue": "\"Come in From the Rain\"",
+      "utterance": "what is the only single from 2009?",
+      "id": "nt-6749"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "what is the total number of singles released since 1994?",
+      "id": "nt-7876"
+    },
+    {
+      "targetValue": "\"Neenah Menasha\"",
+      "utterance": "what is the first single listed?",
+      "id": "nt-8360"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many singles were released after 2010?",
+      "id": "nt-10742"
+    },
+    {
+      "targetValue": "\"Lifes Bitter Pills\"",
+      "utterance": "what is the last song listed on the table?",
+      "id": "nt-11529"
+    },
+    {
+      "targetValue": "\"Live Here Without You\"",
+      "utterance": "before \"1000 times\", what song is listed in 1999?",
+      "id": "nt-12553"
+    },
+    {
+      "targetValue": "Rotting Piñata",
+      "utterance": "which album had the most singles releases?",
+      "id": "nt-13910"
+    }
+  ],
+  "metadata": {
+    "title": "Sponge (band)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=205060&oldid=578502257",
+    "tableIndex": 1,
+    "hashcode": "b6ac0ea147bf69bd28f1f08a093a9849a76062ab",
+    "id": 205060,
+    "revision": 578502257
+  }
+}

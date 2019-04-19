@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "6 July 2013",
+      "utterance": "what is the date above 19 october 2013?",
+      "id": "nt-3177"
+    },
+    {
+      "targetValue": "Bank",
+      "utterance": "who is the opponent listed after japan?",
+      "id": "nt-4374"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many took place at 2013 asian indoor-martial arts games competition?",
+      "id": "nt-5654"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many consecutive times is china represented?",
+      "id": "nt-6017"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the total number of opponents?",
+      "id": "nt-8449"
+    },
+    {
+      "targetValue": "1 - 0",
+      "utterance": "what is the first score listed?",
+      "id": "nt-8987"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "who is the first opponent listed on this chart?",
+      "id": "nt-10299"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times is the venue located in brazil?",
+      "id": "nt-11071"
+    },
+    {
+      "targetValue": "Maringa's Futsal Stadium, Brazil",
+      "utterance": "what venue is previous to ginásio chico neto, maringá?",
+      "id": "nt-12447"
+    },
+    {
+      "targetValue": "23 October 2013",
+      "utterance": "what is the last date?",
+      "id": "nt-12638"
+    }
+  ],
+  "metadata": {
+    "title": "Vahid Shafiei",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=39727362&oldid=580346312",
+    "tableIndex": 0,
+    "hashcode": "60a2b7cebc0c9d36d75f1a361668462b1569496b",
+    "id": 39727362,
+    "revision": 580346312
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "Richard B. Russell",
+      "utterance": "who was the first american to enter their respective office?",
+      "id": "nt-834"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "what is the total number of states listed on the chart?",
+      "id": "nt-1243"
+    },
+    {
+      "targetValue": "Barbados",
+      "utterance": "sir stanley robinson and sir theodore brancker both served for which state?",
+      "id": "nt-1918"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many people entered office in 1970?",
+      "id": "nt-12644"
+    },
+    {
+      "targetValue": "Bolivia",
+      "utterance": "find the country of the first speaker whose name is unknown.",
+      "id": "nt-12946"
+    }
+  ],
+  "metadata": {
+    "title": "List of Parliamentary Speakers in the Americas in 1970",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=31227607&oldid=601846501",
+    "tableIndex": 0,
+    "hashcode": "3176641c42e5d153c6a2c9c2b49a4abf67a97e7f",
+    "id": 31227607,
+    "revision": 601846501
+  }
+}

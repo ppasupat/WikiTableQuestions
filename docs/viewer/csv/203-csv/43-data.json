@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "November 2009",
+      "utterance": "what was the month and year when the rutgers-eagleton poll first showed 50 percent in favor of same-sex marriage in new jersey?",
+      "id": "nt-155"
+    },
+    {
+      "targetValue": "February 2012",
+      "utterance": "did february 2012 or july 2006 have more total votes?",
+      "id": "nt-317"
+    },
+    {
+      "targetValue": "64",
+      "utterance": "how many in favor votes did rutgers eagleton give in march 2014?",
+      "id": "nt-4663"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "did the polling firm quinnipiac have the same number of in favor votes as rutgers-eagleton in march a year apart?",
+      "id": "nt-7385"
+    },
+    {
+      "targetValue": "Zogby International",
+      "utterance": "which polling firm was the only poll done in 2008?",
+      "id": "nt-9031"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many zogby international polls took place in the month of august?",
+      "id": "nt-9440"
+    },
+    {
+      "targetValue": "Zogby International",
+      "utterance": "which was the only polling firm to show more than 50 percent in favor of same-sex marriage in 2006?",
+      "id": "nt-12745"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many months had more than 55 favor votes?",
+      "id": "nt-13714"
+    }
+  ],
+  "metadata": {
+    "title": "Same-sex marriage in New Jersey",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1605434&oldid=600769871",
+    "tableIndex": 0,
+    "hashcode": "4022670e59baf169233e5cc864ed3f28a7500eb7",
+    "id": 1605434,
+    "revision": 600769871
+  }
+}

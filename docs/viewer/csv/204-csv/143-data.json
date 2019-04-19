@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "12,000",
+      "utterance": "what was the number of visitors in 2009 at hiidenportti?",
+      "id": "nt-2260"
+    },
+    {
+      "targetValue": "23",
+      "utterance": "what is the number of national parks that have a landmass of under 50 square km?",
+      "id": "nt-2527"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many national parks were established after 1990?",
+      "id": "nt-4852"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "is koli larger than lemmenjoki?",
+      "id": "nt-5180"
+    },
+    {
+      "targetValue": "Perämeri",
+      "utterance": "which park has the least land area?",
+      "id": "nt-5208"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many of finland's national parks were established after the year 2000?",
+      "id": "nt-7915"
+    },
+    {
+      "targetValue": "Kauhaneva-Pohjankangas",
+      "utterance": "which of finland's national parks has the least number of yearly visitors?",
+      "id": "nt-7936"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many parks were established after the year 2000?",
+      "id": "nt-8954"
+    },
+    {
+      "targetValue": "37",
+      "utterance": "how many national parks are in finland?",
+      "id": "nt-10705"
+    },
+    {
+      "targetValue": "37",
+      "utterance": "how many parks are listed?",
+      "id": "nt-11179"
+    },
+    {
+      "targetValue": "Kauhaneva-Pohjankangas",
+      "utterance": "which national park has the least visitation?",
+      "id": "nt-11797"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many of finland's national parks are more than 100 square kilometers in size?",
+      "id": "nt-11961"
+    },
+    {
+      "targetValue": "Sipoonkorpi",
+      "utterance": "last finnish national park to be established",
+      "id": "nt-13258"
+    }
+  ],
+  "metadata": {
+    "title": "List of national parks of Finland",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=894791&oldid=569186963",
+    "tableIndex": 0,
+    "hashcode": "b236d523e092e378e863f566c8bd96ba78357986",
+    "id": 894791,
+    "revision": 569186963
+  }
+}

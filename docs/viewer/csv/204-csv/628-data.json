@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "Scareoke",
+      "utterance": "what is the last name of trial on the list?",
+      "id": "nt-3153"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the total number of stars given for the \"thunderball\" challenge?",
+      "id": "nt-3497"
+    },
+    {
+      "targetValue": "Jan",
+      "utterance": "name a person that participated in at least three trials.",
+      "id": "nt-3957"
+    },
+    {
+      "targetValue": "Scott",
+      "utterance": "who won the trial before phina?",
+      "id": "nt-4827"
+    },
+    {
+      "targetValue": "Tomb of Torment",
+      "utterance": "what challenge came next after \"jungle falls\"?",
+      "id": "nt-5216"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "how many trials were in november 2006?",
+      "id": "nt-7113"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times is jan scott listed under celebrity/ies taking part?",
+      "id": "nt-7377"
+    },
+    {
+      "targetValue": "Scott",
+      "utterance": "who won after jan in week 9?",
+      "id": "nt-10042"
+    },
+    {
+      "targetValue": [
+        "Jan",
+        "Scott"
+      ],
+      "utterance": "jan and scott took part in trial number 10. who took part in the previous trial?",
+      "id": "nt-11022"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "did matt win more stars overall than myleene?",
+      "id": "nt-13123"
+    }
+  ],
+  "metadata": {
+    "title": "I'm a Celebrity...Get Me Out of Here! (UK series 6)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20427256&oldid=587775057",
+    "tableIndex": 2,
+    "hashcode": "595e23724c4c90a806453fb28ac914b90c6b98de",
+    "id": 20427256,
+    "revision": 587775057
+  }
+}

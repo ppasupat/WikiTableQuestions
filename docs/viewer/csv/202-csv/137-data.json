@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "1983",
+      "utterance": "when was morgenstern's film debut?",
+      "id": "nt-5064"
+    },
+    {
+      "targetValue": "Romanian",
+      "utterance": "what language has the most films?",
+      "id": "nt-6037"
+    },
+    {
+      "targetValue": "32",
+      "utterance": "how many films were filmed in romanian?",
+      "id": "nt-6298"
+    }
+  ],
+  "metadata": {
+    "title": "Maia Morgenstern",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=488081&oldid=591604740",
+    "tableIndex": 0,
+    "hashcode": "e7ff2f539ef38eee99624beb40589a5ca372bb4b",
+    "id": 488081,
+    "revision": 591604740
+  }
+}

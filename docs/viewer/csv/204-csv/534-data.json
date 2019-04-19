@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many players come from alabama?",
+      "id": "nt-327"
+    },
+    {
+      "targetValue": "Ovie Soko",
+      "utterance": "who weighs more, dexter fields or ovie soko?",
+      "id": "nt-378"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many total forwards are on the team?",
+      "id": "nt-3638"
+    },
+    {
+      "targetValue": "210",
+      "utterance": "what is the average weight of jamarr sanders and robert williams?",
+      "id": "nt-4255"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "what is the difference in weight between dexter fields and quincy taylor?",
+      "id": "nt-7118"
+    },
+    {
+      "targetValue": "Beas Hamga",
+      "utterance": "other than soko, tell me a player who is not from the us.",
+      "id": "nt-7161"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many players were on the 2010-11 uab blazers men's basketball team?",
+      "id": "nt-7487"
+    },
+    {
+      "targetValue": "Aaron Johnson",
+      "utterance": "who is first on the roster?",
+      "id": "nt-7814"
+    },
+    {
+      "targetValue": "Beas Hamga",
+      "utterance": "who is the tallest player on the team?",
+      "id": "nt-8932"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "tell me the number of juniors on the team.",
+      "id": "nt-9594"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of seniors on the team?",
+      "id": "nt-10319"
+    }
+  ],
+  "metadata": {
+    "title": "2010–11 UAB Blazers men's basketball team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30527365&oldid=569753630",
+    "tableIndex": 0,
+    "hashcode": "472039d44ea1b729b6ae6f867fed5653a120e6be",
+    "id": 30527365,
+    "revision": 569753630
+  }
+}

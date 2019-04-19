@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Mobile phones",
+      "utterance": "swat force was the only game to be played on what?",
+      "id": "nt-402"
+    },
+    {
+      "targetValue": "1 year",
+      "utterance": "what is the difference (in years) between the time \"swat 4\" was released and the time \"swat force\" was released?",
+      "id": "nt-3161"
+    },
+    {
+      "targetValue": "SWAT: Global Strike Team",
+      "utterance": "swat 4 was released in 2005... which game in the series preceded it?",
+      "id": "nt-8554"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many swat games were there before 2006?",
+      "id": "nt-9134"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what was the number of games available on playstation portable?",
+      "id": "nt-11864"
+    },
+    {
+      "targetValue": "SWAT 4: The Stetchkov Syndicate",
+      "utterance": "the title \"swat 4\" shared the same developer as what other title?",
+      "id": "nt-12232"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive games were released in 2006?",
+      "id": "nt-12481"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what number of swat games were made for microsoft windows?",
+      "id": "nt-12629"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the total number of games in the swat series?",
+      "id": "nt-13730"
+    }
+  ],
+  "metadata": {
+    "title": "SWAT (series)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1326801&oldid=575416673",
+    "tableIndex": 1,
+    "hashcode": "235433139f195dbec47a661a18dbe640a9264cb8",
+    "id": 1326801,
+    "revision": 575416673
+  }
+}

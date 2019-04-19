@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Jain",
+      "utterance": "what religious group is the only one with at least 90% literacy %?",
+      "id": "nt-973"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many of these religious groups have a literacy rate of above 60%?",
+      "id": "nt-2630"
+    },
+    {
+      "targetValue": "10 years",
+      "utterance": "how long was the timespan in which growth was measured?",
+      "id": "nt-3608"
+    },
+    {
+      "targetValue": "Jain",
+      "utterance": "what has the least percentage in india?",
+      "id": "nt-4756"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "the number of religious groups with a sex ratio of more than 1000 is how many?",
+      "id": "nt-5674"
+    },
+    {
+      "targetValue": "Jain",
+      "utterance": "which is the only religious group to have a literacy rate above 90%?",
+      "id": "nt-7163"
+    },
+    {
+      "targetValue": "Hindu",
+      "utterance": "which religion has the highest percentage represented in india?",
+      "id": "nt-7806"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many religious groups have a leteracy rate of 70% at most?",
+      "id": "nt-10636"
+    },
+    {
+      "targetValue": "Hindu",
+      "utterance": "which religious group has the highest population %?",
+      "id": "nt-12704"
+    }
+  ],
+  "metadata": {
+    "title": "Religion in India",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10710364&oldid=602480985",
+    "tableIndex": 1,
+    "hashcode": "bbf0605b6dda607fc7b83e1cae5ed96263e6b9a9",
+    "id": 10710364,
+    "revision": 602480985
+  }
+}

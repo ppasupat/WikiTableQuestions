@@ -1,0 +1,50 @@
+{
+  "examples": [
+    {
+      "targetValue": "19",
+      "utterance": "what is the number of winners from kenya?",
+      "id": "nt-2790"
+    },
+    {
+      "targetValue": [
+        "Yemane Tsegay (ETH)",
+        "Ruth Wanjiru (KEN)"
+      ],
+      "utterance": "name the male and female winners for 2013.",
+      "id": "nt-6606"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did philip singoei win?",
+      "id": "nt-7397"
+    },
+    {
+      "targetValue": "Fritz Schöning (FRG)",
+      "utterance": "who was the first recorded winner of the eindhoven marathon?",
+      "id": "nt-7451"
+    },
+    {
+      "targetValue": "Agnes Hijman (NED)",
+      "utterance": "who was the last european woman to win the eindhoven marathon?",
+      "id": "nt-9865"
+    },
+    {
+      "targetValue": "30",
+      "utterance": "what is the number of times the eindhoven marathon has been held since 1959",
+      "id": "nt-10570"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the number of times that mieke hombergen won?",
+      "id": "nt-11434"
+    }
+  ],
+  "metadata": {
+    "title": "Eindhoven Marathon",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8031462&oldid=577101199",
+    "tableIndex": 0,
+    "hashcode": "d97770bc53d53a93710312475a86805414604014",
+    "id": 8031462,
+    "revision": 577101199
+  }
+}

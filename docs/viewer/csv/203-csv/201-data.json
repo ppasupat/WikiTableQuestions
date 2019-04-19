@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many of the classes are type salvage tug?",
+      "id": "nt-551"
+    },
+    {
+      "targetValue": "Malabar class",
+      "utterance": "which class has the least displacement in tonnes?",
+      "id": "nt-2356"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many total tugboats are pictures?",
+      "id": "nt-5798"
+    },
+    {
+      "targetValue": "UT515 class",
+      "utterance": "which class has the most displacement in tonnes?",
+      "id": "nt-10650"
+    },
+    {
+      "targetValue": "1,450 tonnes",
+      "utterance": "what is the number of displacement tonnes for a rari class tugboat?",
+      "id": "nt-11290"
+    },
+    {
+      "targetValue": "UT710 class",
+      "utterance": "which tug is the only one configured to accommodate nato?",
+      "id": "nt-11416"
+    },
+    {
+      "targetValue": "60",
+      "utterance": "what is the difference in tonnes between the malabar class and the ut507 class?",
+      "id": "nt-11888"
+    },
+    {
+      "targetValue": "UT515 Salvage tug",
+      "utterance": "which weights more a ut507 salvage tug or a ut515 salvage tug?",
+      "id": "nt-13013"
+    }
+  ],
+  "metadata": {
+    "title": "List of active French Navy ships",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2219885&oldid=596625421",
+    "tableIndex": 12,
+    "hashcode": "fa2f71d9b7cbdf3438629e4417e716e9deeec9de",
+    "id": 2219885,
+    "revision": 596625421
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "1984",
+      "utterance": "in what year did the runner participate in the most marathons?",
+      "id": "nt-2992"
+    },
+    {
+      "targetValue": "1982 African Championships",
+      "utterance": "what was the first marathon juma ikangaa won?",
+      "id": "nt-3275"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what are the total number of times the position of 1st place was earned?",
+      "id": "nt-3687"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what were the number of times the venue was located in the united states?",
+      "id": "nt-3761"
+    },
+    {
+      "targetValue": "Beijing Marathon",
+      "utterance": "which was the only competition to occur in china?",
+      "id": "nt-9796"
+    },
+    {
+      "targetValue": "World Championships",
+      "utterance": "which competition is listed the most in this chart?",
+      "id": "nt-10095"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times in total did ikangaa run the marathon in the olympic games?",
+      "id": "nt-11498"
+    }
+  ],
+  "metadata": {
+    "title": "Juma Ikangaa",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3205835&oldid=559568644",
+    "tableIndex": 0,
+    "hashcode": "df9e2b6537562ba42b14a8016594cd66c7793e2d",
+    "id": 3205835,
+    "revision": 559568644
+  }
+}

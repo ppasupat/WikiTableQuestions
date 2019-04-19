@@ -1,0 +1,50 @@
+{
+  "examples": [
+    {
+      "targetValue": "42,634",
+      "utterance": "what was the attendance for the august 26 and august 30 1933 combined?",
+      "id": "nt-911"
+    },
+    {
+      "targetValue": [
+        "Lincoln City",
+        "Nottingham Forest"
+      ],
+      "utterance": "who did manchester tie with before they tied bradford city?",
+      "id": "nt-2230"
+    },
+    {
+      "targetValue": "December 2",
+      "utterance": "which game had more scorers, november 18 or december 2?",
+      "id": "nt-3793"
+    },
+    {
+      "targetValue": "5 May 1934",
+      "utterance": "what was the date of the last game of the 1933-1934 season?",
+      "id": "nt-5329"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the difference in score between the two teams for the last game?",
+      "id": "nt-7745"
+    },
+    {
+      "targetValue": "22,736",
+      "utterance": "22,303 people attende the game on october 7. how many were at the previous game?",
+      "id": "nt-9159"
+    },
+    {
+      "targetValue": "Plymouth Argyle",
+      "utterance": "what was manchester's first defeat on the list?",
+      "id": "nt-10510"
+    }
+  ],
+  "metadata": {
+    "title": "1933–34 Manchester United F.C. season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=34302219&oldid=571716499",
+    "tableIndex": 0,
+    "hashcode": "20b21adec2a14dcef8035c3ea8c8e675abf25a76",
+    "id": 34302219,
+    "revision": 571716499
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "5th",
+      "utterance": "what is the lowest place they came in",
+      "id": "nt-655"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "what was the last year they were 5th?",
+      "id": "nt-5170"
+    },
+    {
+      "targetValue": "2010-11",
+      "utterance": "what is the only year that is n/a?",
+      "id": "nt-5706"
+    },
+    {
+      "targetValue": "2010-11",
+      "utterance": "in what year only did they compete in division 5",
+      "id": "nt-6343"
+    },
+    {
+      "targetValue": "3rd",
+      "utterance": "how did they place the year after they were 4th in the regular season?",
+      "id": "nt-7997"
+    },
+    {
+      "targetValue": "2014",
+      "utterance": "using the data, what should be the next year they will play?",
+      "id": "nt-8988"
+    },
+    {
+      "targetValue": "CSL I",
+      "utterance": "other than npsl, what league has ny mens soccer team played in?",
+      "id": "nt-9133"
+    },
+    {
+      "targetValue": "2013",
+      "utterance": "what was the last year they came in 3rd place",
+      "id": "nt-10486"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many 3rd place finishes has npsl had?",
+      "id": "nt-10659"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many years did they not qualify for the playoffs?",
+      "id": "nt-12476"
+    },
+    {
+      "targetValue": "2013",
+      "utterance": "which year was more successful, 2010 or 2013?",
+      "id": "nt-13938"
+    }
+  ],
+  "metadata": {
+    "title": "New York Athletic Club men's soccer team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16636344&oldid=599346925",
+    "tableIndex": 0,
+    "hashcode": "28f76caeb91d787799c0d5da564b89da69dfde33",
+    "id": 16636344,
+    "revision": 599346925
+  }
+}

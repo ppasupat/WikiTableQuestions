@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Luna 15",
+      "utterance": "what was the name of the mission previous to cosmos 300?",
+      "id": "nt-616"
+    },
+    {
+      "targetValue": "1970",
+      "utterance": "what year was the first success?",
+      "id": "nt-2158"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what was the average amount of missions that were successful?",
+      "id": "nt-2435"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many missions have returned samples?",
+      "id": "nt-3524"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many missions had launch failures?",
+      "id": "nt-11098"
+    },
+    {
+      "targetValue": "Cosmos 305",
+      "utterance": "other than cosmos 300, name a mission that failed to leave earth's orbit.",
+      "id": "nt-12067"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many mission failures were there for the cosmos 305?",
+      "id": "nt-13868"
+    }
+  ],
+  "metadata": {
+    "title": "Sample return mission",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2680305&oldid=602090868",
+    "tableIndex": 1,
+    "hashcode": "a8c5da551b746fe0a7757330f2467480f6f23ac9",
+    "id": 2680305,
+    "revision": 602090868
+  }
+}

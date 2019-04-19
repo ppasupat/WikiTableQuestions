@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Harvard Mark I - IBM ASCC",
+      "utterance": "what was the first computer to use a decimal numeral system?",
+      "id": "nt-207"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what is the number of names listed?",
+      "id": "nt-1696"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "is the zuse z3 computing system the same as the zuse z4?",
+      "id": "nt-2795"
+    },
+    {
+      "targetValue": "Colossus Mark 1 (UK)",
+      "utterance": "what name is above may 1944",
+      "id": "nt-3223"
+    },
+    {
+      "targetValue": "ENIAC (US)",
+      "utterance": "what is next after zuse z4",
+      "id": "nt-3474"
+    },
+    {
+      "targetValue": "May 1941",
+      "utterance": "what operational date is next to zuse z3?",
+      "id": "nt-4151"
+    },
+    {
+      "targetValue": "Manchester Mark 1",
+      "utterance": "what was the next operational computer after the modified eniac?",
+      "id": "nt-5062"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of computers first operational in 1944?",
+      "id": "nt-5974"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many dates are listed?",
+      "id": "nt-10571"
+    },
+    {
+      "targetValue": "Electronic",
+      "utterance": "the edsac and the manchester mark 1 both had what type of computing mechanism?",
+      "id": "nt-12174"
+    }
+  ],
+  "metadata": {
+    "title": "History of computing hardware",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13636&oldid=602068017",
+    "tableIndex": 0,
+    "hashcode": "4026e9f99a556d012df68650e7c5dd3beaadcb38",
+    "id": 13636,
+    "revision": 602068017
+  }
+}

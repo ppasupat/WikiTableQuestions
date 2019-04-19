@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "0",
+      "utterance": "how many super bowls did dan reeves win?",
+      "id": "nt-10624"
+    }
+  ],
+  "metadata": {
+    "title": "Dan Reeves",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1331635&oldid=595329079",
+    "tableIndex": 0,
+    "hashcode": "cfc9c9c3b8dda507556efa9d158e5db3068fc3ed",
+    "id": 1331635,
+    "revision": 595329079
+  }
+}

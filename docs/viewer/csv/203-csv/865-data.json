@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Tamara Press",
+      "utterance": "which athlete had the best mark before renate culmberger?",
+      "id": "nt-4245"
+    },
+    {
+      "targetValue": "Earlene Brown",
+      "utterance": "which athlete consecutively scored the lowest?",
+      "id": "nt-4757"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many athletes were from the soviet union in this competition?",
+      "id": "nt-5072"
+    },
+    {
+      "targetValue": "Earlene Brown",
+      "utterance": "which athlete has the least number of metres?",
+      "id": "nt-5439"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what was the total number of athletes?",
+      "id": "nt-6330"
+    },
+    {
+      "targetValue": "Valerie Young",
+      "utterance": "which athlete am in next with the best mark after galina zybina?",
+      "id": "nt-8716"
+    },
+    {
+      "targetValue": "Tamara Press",
+      "utterance": "who was the only athlete to throw more than 18 meters?",
+      "id": "nt-9006"
+    },
+    {
+      "targetValue": "17.23",
+      "utterance": "what was the last recorded throw for valerie young?",
+      "id": "nt-9602"
+    },
+    {
+      "targetValue": "Tamara Press",
+      "utterance": "which athlete placed top?",
+      "id": "nt-11502"
+    }
+  ],
+  "metadata": {
+    "title": "Athletics at the 1964 Summer Olympics – Women's shot put",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3725169&oldid=551303118",
+    "tableIndex": 1,
+    "hashcode": "f53d370f2f25e3f9db3e9571f9415003e9fc8884",
+    "id": 3725169,
+    "revision": 551303118
+  }
+}

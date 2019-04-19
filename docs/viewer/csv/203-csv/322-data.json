@@ -1,0 +1,68 @@
+{
+  "examples": [
+    {
+      "targetValue": "RC Toulonnais",
+      "utterance": "which club had the most losses?",
+      "id": "nt-52"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the difference of the number of won games between stade toulousain and ca brive?",
+      "id": "nt-2036"
+    },
+    {
+      "targetValue": "SU Agen",
+      "utterance": "besides montpellier rc, which other club received 10 bonus points?",
+      "id": "nt-3579"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many clubs had no drawn results?",
+      "id": "nt-3864"
+    },
+    {
+      "targetValue": [
+        "RC Narbonne",
+        "Montpellier RC",
+        "Aviron Bayonnais",
+        "Section Paloise",
+        "RC Toulonnais"
+      ],
+      "utterance": "which clubs did not score more than 50 points?",
+      "id": "nt-9082"
+    },
+    {
+      "targetValue": "RC Toulonnais",
+      "utterance": "who had more losses, su agen or rc toulonnais?",
+      "id": "nt-9089"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "what is the difference in the total points for the club biarritz olympique and su agen?",
+      "id": "nt-9107"
+    },
+    {
+      "targetValue": "SU Agen",
+      "utterance": "which team out of su agen and castres olympique had the most scored points?",
+      "id": "nt-11487"
+    },
+    {
+      "targetValue": "RC Toulonnais",
+      "utterance": "which club had the least amount of points?",
+      "id": "nt-12054"
+    },
+    {
+      "targetValue": "CS Bourgoin-Jallieu",
+      "utterance": "which club had the same number of wins as asm clermont?",
+      "id": "nt-14083"
+    }
+  ],
+  "metadata": {
+    "title": "2005–06 Top 14 season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5324256&oldid=551298233",
+    "tableIndex": 0,
+    "hashcode": "7edbb4d76aaa4fc7b88e7e7317ae69d8a0927f80",
+    "id": 5324256,
+    "revision": 551298233
+  }
+}

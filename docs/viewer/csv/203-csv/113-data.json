@@ -1,0 +1,51 @@
+{
+  "examples": [
+    {
+      "targetValue": "Soviet Union",
+      "utterance": "what country won the most medals in shooting at the 1988 summer olympics?",
+      "id": "nt-1045"
+    },
+    {
+      "targetValue": "Chile (CHI)",
+      "utterance": "which country was in the top of the 11 rank group?",
+      "id": "nt-2512"
+    },
+    {
+      "targetValue": [
+        "Soviet Union (URS)",
+        "Yugoslavia (YUG)",
+        "West Germany (FRG)"
+      ],
+      "utterance": "who were the top ranked countries in medal rank?",
+      "id": "nt-3863"
+    },
+    {
+      "targetValue": "Soviet Union (URS)",
+      "utterance": "which of these countries is ranked first?",
+      "id": "nt-4410"
+    },
+    {
+      "targetValue": "No one",
+      "utterance": "who had more gold medals than the soviet union?",
+      "id": "nt-5027"
+    },
+    {
+      "targetValue": "West Germany (FRG)",
+      "utterance": "which of these countries was ranked next after yugoslavia?",
+      "id": "nt-8331"
+    },
+    {
+      "targetValue": "Soviet Union (URS)",
+      "utterance": "which country earned the most gold medals?",
+      "id": "nt-13922"
+    }
+  ],
+  "metadata": {
+    "title": "Shooting at the 1988 Summer Olympics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2774936&oldid=540758743",
+    "tableIndex": 0,
+    "hashcode": "45870f79fb4a87fd33591a39c8dc2dc1ea8a515d",
+    "id": 2774936,
+    "revision": 540758743
+  }
+}

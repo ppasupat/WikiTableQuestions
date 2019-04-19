@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "what are the number of times died appears as the reason for change?",
+      "id": "nt-539"
+    },
+    {
+      "targetValue": "3 changes",
+      "utterance": "how many of the changes happened before june of 1986?",
+      "id": "nt-606"
+    },
+    {
+      "targetValue": "Louisiana's 8th",
+      "utterance": "which district has the earliest date that a successor was seated?",
+      "id": "nt-2463"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many republicans are listed as representatives?",
+      "id": "nt-4203"
+    },
+    {
+      "targetValue": "Republican",
+      "utterance": "which party is the least represented in the vacator column?",
+      "id": "nt-6401"
+    },
+    {
+      "targetValue": "Louisiana's 8th",
+      "utterance": "which district was first to have a successor seated?",
+      "id": "nt-6407"
+    },
+    {
+      "targetValue": "North Carolina's 3rd",
+      "utterance": "which district is listed last on this chart?",
+      "id": "nt-8950"
+    },
+    {
+      "targetValue": "Gillis W. Long",
+      "utterance": "who was catherine s. long's previous representative?",
+      "id": "nt-12552"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what are the total number of successors that are listed as being a democrat(d)?",
+      "id": "nt-12796"
+    }
+  ],
+  "metadata": {
+    "title": "99th United States Congress",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=488965&oldid=594325780",
+    "tableIndex": 3,
+    "hashcode": "6c064880811e00ac1fbf47ae07add6ed53411bcf",
+    "id": 488965,
+    "revision": 594325780
+  }
+}

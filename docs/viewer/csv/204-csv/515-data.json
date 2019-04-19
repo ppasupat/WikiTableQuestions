@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many were held in the us?",
+      "id": "nt-736"
+    },
+    {
+      "targetValue": "Canada",
+      "utterance": "where was it held the year before it was in the dominican republic?",
+      "id": "nt-2606"
+    },
+    {
+      "targetValue": "243",
+      "utterance": "what was the number of athletes in sherbrooke in 2004?",
+      "id": "nt-3550"
+    },
+    {
+      "targetValue": "427",
+      "utterance": "how many athletes were there in monterrey in 2000 and sherbrooke in 2004 combined?",
+      "id": "nt-6603"
+    },
+    {
+      "targetValue": "Estadio Félix Sánchez",
+      "utterance": "what was the venue for the only edition to take place in the dominican republic?",
+      "id": "nt-9515"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many events were held in canada?",
+      "id": "nt-9663"
+    },
+    {
+      "targetValue": "2006",
+      "utterance": "in what year were there the most athletes?",
+      "id": "nt-11080"
+    },
+    {
+      "targetValue": "42",
+      "utterance": "how many events were in the next edition after the 2002 edition in san antonio?",
+      "id": "nt-11330"
+    }
+  ],
+  "metadata": {
+    "title": "NACAC Under-23 Championships in Athletics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33488878&oldid=587931277",
+    "tableIndex": 0,
+    "hashcode": "6c38972d5ac1aa528a6f2cebb9fe2caacaa8c32b",
+    "id": 33488878,
+    "revision": 587931277
+  }
+}

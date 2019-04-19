@@ -1,0 +1,81 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "R.C. Haas",
+        "Gordon Otto"
+      ],
+      "utterance": "after george halas, which two players are tied for lowest number of points?",
+      "id": "nt-1098"
+    },
+    {
+      "targetValue": [
+        "Ralf Woods",
+        "Ray Woods"
+      ],
+      "utterance": "_____ and _______ both played 16 games.",
+      "id": "nt-1306"
+    },
+    {
+      "targetValue": "Ralf Woods",
+      "utterance": "who had the most points scored for the 191617 illinois fighting illini men's basketball team?",
+      "id": "nt-2332"
+    },
+    {
+      "targetValue": "Clyde Alwood",
+      "utterance": "who had more field goals alwood or woods?",
+      "id": "nt-2766"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many players on the 191617 illinois fighting illini men's basketball team had more than 100 points scored?",
+      "id": "nt-2982"
+    },
+    {
+      "targetValue": "70",
+      "utterance": "what is the total amount of free throws by ralf woods?",
+      "id": "nt-4927"
+    },
+    {
+      "targetValue": "Ralf Woods",
+      "utterance": "who had the most free throws?",
+      "id": "nt-5112"
+    },
+    {
+      "targetValue": "Ernest McKay",
+      "utterance": "which player only scored 3 free throws?",
+      "id": "nt-6111"
+    },
+    {
+      "targetValue": "R.C. Haas",
+      "utterance": "who got two points in the leas amount of games played?",
+      "id": "nt-6553"
+    },
+    {
+      "targetValue": [
+        "R.C. Haas",
+        "Gordon Otto"
+      ],
+      "utterance": "who scored the least number of points on the 191617 illinois fighting illini men's basketball team?",
+      "id": "nt-6762"
+    },
+    {
+      "targetValue": "Clyde Alwood",
+      "utterance": "which player played more games, r.c hass or clyde alwood?",
+      "id": "nt-6919"
+    },
+    {
+      "targetValue": "178",
+      "utterance": "what was the total amount of points earned by ralf woods?",
+      "id": "nt-11757"
+    }
+  ],
+  "metadata": {
+    "title": "1916–17 Illinois Fighting Illini men's basketball team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=31602308&oldid=594261474",
+    "tableIndex": 2,
+    "hashcode": "57f9f9dfc4a13190e9371f7884ca58efefbac901",
+    "id": 31602308,
+    "revision": 594261474
+  }
+}

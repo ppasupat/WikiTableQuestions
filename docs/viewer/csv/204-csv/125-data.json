@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "10",
+      "utterance": "how many states are on the chart?",
+      "id": "nt-1143"
+    },
+    {
+      "targetValue": "Min",
+      "utterance": "which ruler came first, si jun or min?",
+      "id": "nt-1717"
+    },
+    {
+      "targetValue": "Zhaoxiang",
+      "utterance": "which king ruled the longest?",
+      "id": "nt-2351"
+    },
+    {
+      "targetValue": "Zhaoxiang",
+      "utterance": "who ruled longer, zhao or zhaoxiang?",
+      "id": "nt-3734"
+    },
+    {
+      "targetValue": "Wen II",
+      "utterance": "which ruler is not king or marquis?",
+      "id": "nt-3856"
+    },
+    {
+      "targetValue": "Duke",
+      "utterance": "was the title for the ruler of the chinese vassal state lu king, marquis, or duke?",
+      "id": "nt-5038"
+    },
+    {
+      "targetValue": "Zhaoxiang",
+      "utterance": "who was king right before kang?",
+      "id": "nt-5717"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the total number of known vassal states in which their reigning years are known?",
+      "id": "nt-6652"
+    },
+    {
+      "targetValue": "Xiang",
+      "utterance": "who is the other marquis ruler besides si jun?",
+      "id": "nt-9066"
+    },
+    {
+      "targetValue": "Huai",
+      "utterance": "which king ruled the chinese vassal state chu after the year 329 bc?",
+      "id": "nt-13587"
+    }
+  ],
+  "metadata": {
+    "title": "List of state leaders in 300 BC",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1580963&oldid=543971229",
+    "tableIndex": 12,
+    "hashcode": "fbceb437b4209b0c33212a073ed7bfd02ccb8b8d",
+    "id": 1580963,
+    "revision": 543971229
+  }
+}

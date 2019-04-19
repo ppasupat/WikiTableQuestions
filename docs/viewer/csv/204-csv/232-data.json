@@ -1,0 +1,86 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "total number of medals earned by the 8th place finishers",
+      "id": "nt-824"
+    },
+    {
+      "targetValue": [
+        "Peru",
+        "Paraguay"
+      ],
+      "utterance": "which countries won the least amount of medals?",
+      "id": "nt-2047"
+    },
+    {
+      "targetValue": [
+        "Peru",
+        "Paraguay"
+      ],
+      "utterance": "which country scored the least medals?",
+      "id": "nt-2253"
+    },
+    {
+      "targetValue": "Uruguay",
+      "utterance": "other nation to earn no bronze medals besides peru",
+      "id": "nt-3544"
+    },
+    {
+      "targetValue": [
+        "Uruguay",
+        "Peru"
+      ],
+      "utterance": "which other nation had the lowest in bronze",
+      "id": "nt-4451"
+    },
+    {
+      "targetValue": "above",
+      "utterance": "was chile below or above the gold medal count for panama?",
+      "id": "nt-5936"
+    },
+    {
+      "targetValue": "Venezuela",
+      "utterance": "nation to earn the most gold medals after colombia",
+      "id": "nt-5940"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what was the difference between the gold medal count of brazil and argentina?",
+      "id": "nt-9528"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what's the number of silver medals did chile win?",
+      "id": "nt-9935"
+    },
+    {
+      "targetValue": "Peru",
+      "utterance": "nation to earn the same number of silver medals as uruguay",
+      "id": "nt-10000"
+    },
+    {
+      "targetValue": "Uruguay",
+      "utterance": "which nation is before peru",
+      "id": "nt-10832"
+    },
+    {
+      "targetValue": "Venezuela",
+      "utterance": "which country has more medals, colombia or venezuela?",
+      "id": "nt-11270"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many gold medals did brazil win?",
+      "id": "nt-13052"
+    }
+  ],
+  "metadata": {
+    "title": "1979 South American Championships in Athletics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13393885&oldid=544971662",
+    "tableIndex": 2,
+    "hashcode": "655cd91102cb12e1ce9e1aa2e9cc752ddee7f74a",
+    "id": 13393885,
+    "revision": 544971662
+  }
+}

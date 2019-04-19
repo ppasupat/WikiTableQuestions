@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "name the number of teams in the 6th heat.",
+      "id": "nt-765"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many cyclists finished in under 44 seconds?",
+      "id": "nt-2288"
+    },
+    {
+      "targetValue": "France",
+      "utterance": "what country finished after great britain?",
+      "id": "nt-3426"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "name the team that finished directly after josiah ng's.",
+      "id": "nt-4778"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many of the results were not higher than the united states?",
+      "id": "nt-5971"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "was germany listed before malaysia?",
+      "id": "nt-6896"
+    },
+    {
+      "targetValue": "Great Britain",
+      "utterance": "which team had the fastest time?",
+      "id": "nt-8854"
+    },
+    {
+      "targetValue": "Great Britain",
+      "utterance": "which country took the least amount of time?",
+      "id": "nt-9988"
+    },
+    {
+      "targetValue": "45.266",
+      "utterance": "all of the cyclists finished in at least how many seconds?",
+      "id": "nt-12806"
+    },
+    {
+      "targetValue": "France",
+      "utterance": "was australia or france higher ranked?",
+      "id": "nt-12832"
+    },
+    {
+      "targetValue": "0.591",
+      "utterance": "what is the difference in time between the first place and second place cyclist?",
+      "id": "nt-12835"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many results were at least 45?",
+      "id": "nt-12895"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many teams finished in less than 45?",
+      "id": "nt-13208"
+    }
+  ],
+  "metadata": {
+    "title": "Cycling at the 2008 Summer Olympics – Men's team sprint",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18666537&oldid=577384169",
+    "tableIndex": 1,
+    "hashcode": "e4948168b878423d695f55fef7e4d511c110e117",
+    "id": 18666537,
+    "revision": 577384169
+  }
+}

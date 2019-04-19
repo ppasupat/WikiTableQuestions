@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "Albany Conquest",
+      "utterance": "who was the opponent in the last game played?",
+      "id": "nt-2417"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "which game did they score more, week 10 or 12?",
+      "id": "nt-5581"
+    },
+    {
+      "targetValue": "Albany Conquest",
+      "utterance": "who was the opponent previous to the south georgia wildcats?",
+      "id": "nt-7107"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the largest number of consecutive wins?",
+      "id": "nt-8286"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "which game had a larger gap in score between the two teams, week 9 or week 11?",
+      "id": "nt-13200"
+    }
+  ],
+  "metadata": {
+    "title": "2006 Wilkes-Barre/Scranton Pioneers season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17584390&oldid=566018594",
+    "tableIndex": 0,
+    "hashcode": "9ae4526ae26312149134f4b37ad0bae730e4e12a",
+    "id": 17584390,
+    "revision": 566018594
+  }
+}

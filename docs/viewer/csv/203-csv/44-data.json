@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "Freiburg - Besançon",
+      "utterance": "which route had plain stage terrain and was used on the 27th of june?",
+      "id": "nt-4874"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many different countries won at least one stage in the 1964 tour de france?",
+      "id": "nt-10036"
+    }
+  ],
+  "metadata": {
+    "title": "1964 Tour de France",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5871469&oldid=596405736",
+    "tableIndex": 0,
+    "hashcode": "12ab5090c356328e95a22f804dbbce8a6f3a5a8c",
+    "id": 5871469,
+    "revision": 596405736
+  }
+}

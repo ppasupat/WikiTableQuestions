@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Duke of Abrantes",
+      "utterance": "which dukedom did not have red in the coat of arms?",
+      "id": "nt-2562"
+    },
+    {
+      "targetValue": "29",
+      "utterance": "how many total dukedoms are in portugal?",
+      "id": "nt-4606"
+    },
+    {
+      "targetValue": "Duke of Viseu",
+      "utterance": "which duke has the same date of creation as the duke of coimbra?",
+      "id": "nt-8100"
+    },
+    {
+      "targetValue": "Lorena",
+      "utterance": "which surname is listed above the duke of albuquerque?",
+      "id": "nt-9136"
+    },
+    {
+      "targetValue": "Duke of Albuquerque",
+      "utterance": "what duke has the newest date of creation?",
+      "id": "nt-9619"
+    },
+    {
+      "targetValue": "Ávila",
+      "utterance": "who is listed first, bragança or ávila?",
+      "id": "nt-10061"
+    },
+    {
+      "targetValue": "29",
+      "utterance": "how many dukedoms are listed?",
+      "id": "nt-11450"
+    },
+    {
+      "targetValue": "Duke of Ávila and Bolama",
+      "utterance": "after the duke of barcelos, what was the next dukedom to be created?",
+      "id": "nt-12701"
+    }
+  ],
+  "metadata": {
+    "title": "Dukedoms in Portugal",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3663133&oldid=592799045",
+    "tableIndex": 0,
+    "hashcode": "c3b662f5ef8b658fc756d8cc00b88c334692653d",
+    "id": 3663133,
+    "revision": 592799045
+  }
+}

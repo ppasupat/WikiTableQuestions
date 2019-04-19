@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many regions had a release date after march 10, 2011?",
+      "id": "nt-977"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many regions was the album released in?",
+      "id": "nt-3783"
+    }
+  ],
+  "metadata": {
+    "title": "Lasers (album)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=365014&oldid=595406965",
+    "tableIndex": 2,
+    "hashcode": "3922d6f4a06044cd9d10a9768dd18b2bf000ce23",
+    "id": 365014,
+    "revision": 595406965
+  }
+}

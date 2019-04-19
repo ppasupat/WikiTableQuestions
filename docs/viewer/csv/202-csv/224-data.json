@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "SNP",
+      "utterance": "did the snp or the conservative party get a greater percentage of the vote in the 2001 general election in ochil?",
+      "id": "nt-2004"
+    },
+    {
+      "targetValue": [
+        "Martin O'Neill",
+        "Keith Brown",
+        "Alasdair Campbell",
+        "Paul Edie"
+      ],
+      "utterance": "please list the candidates that received over one thousand votes.",
+      "id": "nt-9985"
+    },
+    {
+      "targetValue": "Monster Raving Loony",
+      "utterance": "a candidate with the name of flash gordon approaching of what satirical political party came in last place in the 2001 general election in ochil?",
+      "id": "nt-13355"
+    }
+  ],
+  "metadata": {
+    "title": "Ochil (UK Parliament constituency)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4038500&oldid=542713410",
+    "tableIndex": 1,
+    "hashcode": "d4f1a2f737a46f297356360fe39bdba260142478",
+    "id": 4038500,
+    "revision": 542713410
+  }
+}

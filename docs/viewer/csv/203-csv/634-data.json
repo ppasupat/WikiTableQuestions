@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "what number of games did new zealand win in 2010?",
+      "id": "nt-49"
+    },
+    {
+      "targetValue": "1987",
+      "utterance": "new zealand and wales played rugby union matches in the rugby world cup against in each other in 2003 and which other year?",
+      "id": "nt-436"
+    },
+    {
+      "targetValue": "23",
+      "utterance": "how many points did new zealand score than wales in the 2012 autumn international match?",
+      "id": "nt-3062"
+    },
+    {
+      "targetValue": "New Zealand",
+      "utterance": "who won the highest amount of rugby matches between new zealand and wales for the last 100 years?",
+      "id": "nt-6483"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many matches were played at ballymore, brisbane?",
+      "id": "nt-7592"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "in which year did rugby union matches between new zealand and wales occur most frequently?",
+      "id": "nt-8074"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "were there any rugby union matches between new zealand and wales in which new zealand scored no points?",
+      "id": "nt-11268"
+    },
+    {
+      "targetValue": "1905",
+      "utterance": "what year was the first union match between new zealand and wales played?",
+      "id": "nt-12126"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many matches have been won by wales?",
+      "id": "nt-12963"
+    }
+  ],
+  "metadata": {
+    "title": "History of rugby union matches between New Zealand and Wales",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18929749&oldid=592130198",
+    "tableIndex": 1,
+    "hashcode": "02235d98bb6dab16f50ebbdf548d93f8722f1b22",
+    "id": 18929749,
+    "revision": 592130198
+  }
+}

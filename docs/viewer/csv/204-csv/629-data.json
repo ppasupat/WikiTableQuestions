@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "44",
+      "utterance": "how many first tops class numbers are less than 200?",
+      "id": "nt-2051"
+    },
+    {
+      "targetValue": "Second TOPS",
+      "utterance": "which group was the only group to get 101 &111?",
+      "id": "nt-4163"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many second tops were under 200?",
+      "id": "nt-4567"
+    },
+    {
+      "targetValue": "261",
+      "utterance": "what is the largest first tops class number?",
+      "id": "nt-5571"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of second tops listed in the column header?",
+      "id": "nt-8283"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many tops have listed two numbers within the same cell?",
+      "id": "nt-13391"
+    }
+  ],
+  "metadata": {
+    "title": "British Rail TOPS first arrangement",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1197847&oldid=593503906",
+    "tableIndex": 0,
+    "hashcode": "8c07583d95af9e362ed9033e586f16d50de555da",
+    "id": 1197847,
+    "revision": 593503906
+  }
+}

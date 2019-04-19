@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "South Asian Association for Regional Cooperation",
+      "utterance": "what is the only proposed community in the south asia region?",
+      "id": "nt-3804"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the number of communities with no target date listed?",
+      "id": "nt-4130"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many currency does the region of africa have",
+      "id": "nt-7314"
+    },
+    {
+      "targetValue": "African Economic Community",
+      "utterance": "which one has the latest target date?",
+      "id": "nt-8989"
+    },
+    {
+      "targetValue": "Africa",
+      "utterance": "what is the first region on the chart",
+      "id": "nt-9037"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many communities are based in africa?",
+      "id": "nt-9736"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many proposed communities have no target date?",
+      "id": "nt-9949"
+    },
+    {
+      "targetValue": "South Asian Association for Regional Cooperation",
+      "utterance": "what is the only community in south asia?",
+      "id": "nt-11319"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of communities with a target date of 2015?",
+      "id": "nt-11906"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many proposed communities would use the arab dinar currency?",
+      "id": "nt-12651"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what number of proposed communities would use the east african shilling currency?",
+      "id": "nt-13704"
+    }
+  ],
+  "metadata": {
+    "title": "Economic and monetary union",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9643&oldid=572992362",
+    "tableIndex": 0,
+    "hashcode": "d996739e238b9bcb7c4eef120a42c0c6e9ae5bdd",
+    "id": 9643,
+    "revision": 572992362
+  }
+}

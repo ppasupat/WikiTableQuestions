@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "34",
+      "utterance": "how many rebounds were there by all miami heat players?",
+      "id": "nt-280"
+    },
+    {
+      "targetValue": "60",
+      "utterance": "how many rebounds were there total, according to this table, in 1978?",
+      "id": "nt-490"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "what is the number of blocks made by moses malone?",
+      "id": "nt-1092"
+    },
+    {
+      "targetValue": "1979",
+      "utterance": "were more records set in 1978 or 1979?",
+      "id": "nt-1649"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "number of records set by dennis rodman",
+      "id": "nt-8179"
+    },
+    {
+      "targetValue": "Charles Oakley",
+      "utterance": "the only player to set a record while playing for the chicago bulls",
+      "id": "nt-8898"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many players tied for last place with a total of 30 rebounds?",
+      "id": "nt-9458"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "did charles oakley play more minutes than robert parish?",
+      "id": "nt-10547"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what is the difference between dennis rodman's offensive rebounds and robert parish offensive rebounds?",
+      "id": "nt-13149"
+    }
+  ],
+  "metadata": {
+    "title": "List of National Basketball Association players with most rebounds in a game",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10090161&oldid=584591511",
+    "tableIndex": 2,
+    "hashcode": "afe64c1581efb577199c690445084c0cf3df161c",
+    "id": 10090161,
+    "revision": 584591511
+  }
+}

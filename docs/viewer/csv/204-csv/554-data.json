@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Vilija Sereikaite",
+      "utterance": "who finished before ellen van dijk?",
+      "id": "nt-1229"
+    },
+    {
+      "targetValue": "Vilija Sereikaite",
+      "utterance": "who is ranked first?",
+      "id": "nt-2180"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many cyclists finished with the speed of at least 47.000?",
+      "id": "nt-3504"
+    },
+    {
+      "targetValue": "Viktoriya Kondel",
+      "utterance": "which is the last russian to be ranked?",
+      "id": "nt-3694"
+    },
+    {
+      "targetValue": "Svitlana Halyuk",
+      "utterance": "name an athlete that finished in less than 3:43 but more than 3:34.",
+      "id": "nt-7917"
+    },
+    {
+      "targetValue": "Oxana Kozonchuk",
+      "utterance": "who is the first finisher from russia?",
+      "id": "nt-8767"
+    },
+    {
+      "targetValue": "Lithuania",
+      "utterance": "which country is top ranking?",
+      "id": "nt-13428"
+    },
+    {
+      "targetValue": "Poland",
+      "utterance": "which country rank last?",
+      "id": "nt-13584"
+    },
+    {
+      "targetValue": "Belarus",
+      "utterance": "which country had more athletes, belarus or lithuania?",
+      "id": "nt-13724"
+    }
+  ],
+  "metadata": {
+    "title": "2008 UEC European Track Championships – Women's under-23 individual pursuit",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=35738587&oldid=601852964",
+    "tableIndex": 0,
+    "hashcode": "c0dd45fdacf726f0ed83b25104dfca881f4f5c4b",
+    "id": 35738587,
+    "revision": 601852964
+  }
+}

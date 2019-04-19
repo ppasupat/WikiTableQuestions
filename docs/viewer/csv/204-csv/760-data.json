@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Central American and Caribbean Games",
+      "utterance": "the central american championships and what other competition occurred in 2010?",
+      "id": "nt-762"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many times has the position of 1st been achieved?",
+      "id": "nt-2334"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "tell me the number of times they competed in guatamala.",
+      "id": "nt-3211"
+    },
+    {
+      "targetValue": "Athens, Greece",
+      "utterance": "where was the only 64th position held?",
+      "id": "nt-7497"
+    },
+    {
+      "targetValue": "Pan American Games",
+      "utterance": "which of each game in 2007 was in the 2nd position?",
+      "id": "nt-8683"
+    },
+    {
+      "targetValue": "Central American Championships",
+      "utterance": "what competition did this competitor compete at after participating in the central american games in 2001?",
+      "id": "nt-8728"
+    },
+    {
+      "targetValue": "Pan American Games",
+      "utterance": "what was the last competition in which a position of \"2nd\" was achieved?",
+      "id": "nt-10593"
+    },
+    {
+      "targetValue": "Central American Games",
+      "utterance": "what was the first competition this competitor competed in?",
+      "id": "nt-12014"
+    },
+    {
+      "targetValue": "10,000 m",
+      "utterance": "which event is listed more between the 10,000m and the 5000m?",
+      "id": "nt-12477"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many times has this athlete not finished in a competition?",
+      "id": "nt-12990"
+    }
+  ],
+  "metadata": {
+    "title": "José Amado García",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=35788717&oldid=597557304",
+    "tableIndex": 0,
+    "hashcode": "8f0f8ced7108adecf9f4584b3bdcaa52d5763efb",
+    "id": 35788717,
+    "revision": 597557304
+  }
+}

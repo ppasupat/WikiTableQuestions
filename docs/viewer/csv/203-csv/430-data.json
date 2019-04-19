@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "the drawwith the larges total",
+      "id": "nt-282"
+    },
+    {
+      "targetValue": "\"I say my body\"",
+      "utterance": "what is the title of queen's song on the chart?",
+      "id": "nt-714"
+    },
+    {
+      "targetValue": "Izabela Kopeć",
+      "utterance": "other then edi ann who else sang a song who's title had love in it?",
+      "id": "nt-3247"
+    },
+    {
+      "targetValue": "Queens",
+      "utterance": "which artist got the same number of jury votes as kasia nova?",
+      "id": "nt-3753"
+    },
+    {
+      "targetValue": "Kasia Nova",
+      "utterance": "the artist with the first letter k",
+      "id": "nt-4313"
+    },
+    {
+      "targetValue": "\"It's not a game\"",
+      "utterance": "state a song that received no televotes.",
+      "id": "nt-4715"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many songs were juried about eight?",
+      "id": "nt-6186"
+    },
+    {
+      "targetValue": "Isis Gee",
+      "utterance": "who had the most televotes on the eurovision song contest 2008?",
+      "id": "nt-7859"
+    },
+    {
+      "targetValue": "Song",
+      "utterance": "the column next to artist",
+      "id": "nt-11206"
+    },
+    {
+      "targetValue": "\"For life\"",
+      "utterance": "what was the first place eurovision song contest 2008 song?",
+      "id": "nt-12715"
+    }
+  ],
+  "metadata": {
+    "title": "Poland in the Eurovision Song Contest 2008",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15499156&oldid=575022819",
+    "tableIndex": 0,
+    "hashcode": "5acfd30ba1cd1afc78f143c5258e3bb22cd25c98",
+    "id": 15499156,
+    "revision": 575022819
+  }
+}

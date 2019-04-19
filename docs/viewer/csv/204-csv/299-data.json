@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "Abbott",
+      "utterance": "which is the first city listed alphabetically?",
+      "id": "nt-17"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many total towns on the list are in montgomery county?",
+      "id": "nt-185"
+    },
+    {
+      "targetValue": "Ada",
+      "utterance": "which city name has the least number of unique letters?",
+      "id": "nt-11284"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "does pulaski county have more cities beginning with the letter \"a\" than montgomery county?",
+      "id": "nt-11531"
+    },
+    {
+      "targetValue": "Azor",
+      "utterance": "which is the last city listed alphabetically?",
+      "id": "nt-13447"
+    }
+  ],
+  "metadata": {
+    "title": "List of places in Arkansas: A",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3074704&oldid=427609986",
+    "tableIndex": 0,
+    "hashcode": "123d4521c4d3258f886e6de34640143a85f95eb8",
+    "id": 3074704,
+    "revision": 427609986
+  }
+}

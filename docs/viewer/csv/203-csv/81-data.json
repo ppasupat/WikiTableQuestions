@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "before 10 march 1965, how many seats were won through death of a relative?",
+      "id": "nt-2039"
+    },
+    {
+      "targetValue": "Fine Gael",
+      "utterance": "what was the first gain on may 30th, 1963?",
+      "id": "nt-3604"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times is fine gael listed for gain?",
+      "id": "nt-3841"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many dates are listed?",
+      "id": "nt-3972"
+    },
+    {
+      "targetValue": "Paddy Belton",
+      "utterance": "who holds the seat vacated by the death of his brother?",
+      "id": "nt-4907"
+    },
+    {
+      "targetValue": "John Donnellan",
+      "utterance": "who held the seat after the death of his father?",
+      "id": "nt-5068"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what's the total number of dates listed for 1964?",
+      "id": "nt-6370"
+    },
+    {
+      "targetValue": "Labour Party",
+      "utterance": "which party had a seat in their party taken by sean dunne?",
+      "id": "nt-8960"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what are the number of times national progressive democrats lost?",
+      "id": "nt-11210"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "for loss, what's the number of times labour party is listed?",
+      "id": "nt-11379"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "were the gains and losses the same on july 8th, 1964 and may 30, 1963?",
+      "id": "nt-13837"
+    }
+  ],
+  "metadata": {
+    "title": "Members of the 17th Dáil",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1954117&oldid=583838018",
+    "tableIndex": 2,
+    "hashcode": "35305012a45a04ae4aa92dc5641f7c5f8c21752e",
+    "id": 1954117,
+    "revision": 583838018
+  }
+}

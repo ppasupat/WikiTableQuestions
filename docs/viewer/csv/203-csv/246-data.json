@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "27",
+      "utterance": "how many matches took place in the first premier?",
+      "id": "nt-73"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many years did they compete in the v premier?",
+      "id": "nt-5040"
+    },
+    {
+      "targetValue": "28",
+      "utterance": "how many matches were played in the 2009-10 season?",
+      "id": "nt-7753"
+    },
+    {
+      "targetValue": "2007-08",
+      "utterance": "which year was the number of wins the highest?",
+      "id": "nt-9877"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "at most how many championships were won consecutively?",
+      "id": "nt-12370"
+    }
+  ],
+  "metadata": {
+    "title": "Toray Arrows (women's volleyball team)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7872719&oldid=583465481",
+    "tableIndex": 0,
+    "hashcode": "082aa8275b7f94cb346cce79d30d13df94c85305",
+    "id": 7872719,
+    "revision": 583465481
+  }
+}

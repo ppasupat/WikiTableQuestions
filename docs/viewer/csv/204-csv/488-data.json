@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Risto Ryti",
+      "utterance": "who served a term before mannerheim?",
+      "id": "nt-1746"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many presidents use initials?",
+      "id": "nt-2482"
+    },
+    {
+      "targetValue": "Mauno Koivisto",
+      "utterance": "who served more terms in office, mauno koivisto or martti ahtisaari?",
+      "id": "nt-2864"
+    },
+    {
+      "targetValue": "25 years, 332 days",
+      "utterance": "how long was the longest presidential action by any president of finland?",
+      "id": "nt-4253"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "each president of the republic that served for 5 years served how many terms?",
+      "id": "nt-10709"
+    },
+    {
+      "targetValue": "Risto Ryti",
+      "utterance": "who was the only president to resign due to agreements with nazi germany?",
+      "id": "nt-11068"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of presidents who resigned?",
+      "id": "nt-13612"
+    }
+  ],
+  "metadata": {
+    "title": "List of Presidents of Finland by time in office",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30699102&oldid=570348586",
+    "tableIndex": 0,
+    "hashcode": "fdabd7f26113d062412641ed373bc88dcbb103ec",
+    "id": 30699102,
+    "revision": 570348586
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "2006",
+      "utterance": "what was the last year that yelena slesarenko had a 1st place finish at the world indoor championships?",
+      "id": "nt-368"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what were the total number of times 4th was listed as a result in this chart?",
+      "id": "nt-1295"
+    },
+    {
+      "targetValue": "2006",
+      "utterance": "which year held the most tournaments?",
+      "id": "nt-1729"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of times yelena slesarenko placed 1st, 2nd or 3rd during 2002 to 2011?",
+      "id": "nt-2011"
+    },
+    {
+      "targetValue": "2004",
+      "utterance": "when did she first win first place?",
+      "id": "nt-5044"
+    },
+    {
+      "targetValue": "2006",
+      "utterance": "in what year did yelena slesarenko accumulate the most 'top 5' finishes?",
+      "id": "nt-6205"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total number of tournaments in the year 2006?",
+      "id": "nt-7688"
+    },
+    {
+      "targetValue": "2004",
+      "utterance": "what was the first year in which the result was 1st place?",
+      "id": "nt-8736"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "was there a result of 1st place after the year 2006?",
+      "id": "nt-8776"
+    },
+    {
+      "targetValue": "2006",
+      "utterance": "when was the last time she won first place?",
+      "id": "nt-9900"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times was the venue in greece?",
+      "id": "nt-10698"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many summer olympics has yelena slesarenko participated in?",
+      "id": "nt-12539"
+    }
+  ],
+  "metadata": {
+    "title": "Yelena Slesarenko",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3520464&oldid=592069931",
+    "tableIndex": 0,
+    "hashcode": "568ba59bd56e0d95b71fd5247cb108bf61e47090",
+    "id": 3520464,
+    "revision": 592069931
+  }
+}

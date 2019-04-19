@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Sweden",
+      "utterance": "what nation came after spain?",
+      "id": "nt-1862"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many countries have ranks in the double digits?",
+      "id": "nt-6136"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "which nation is first ranking?",
+      "id": "nt-7084"
+    },
+    {
+      "targetValue": "Italy",
+      "utterance": "what nation is ranked after russia?",
+      "id": "nt-9825"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the total number of medals for all the countries ranked fourth?",
+      "id": "nt-10669"
+    },
+    {
+      "targetValue": "Poland",
+      "utterance": "country with the most bronze medals.",
+      "id": "nt-11400"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many more golds did russia have than germany?",
+      "id": "nt-11574"
+    }
+  ],
+  "metadata": {
+    "title": "Jujutsu at the 2013 World Combat Games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=40877414&oldid=584911927",
+    "tableIndex": 0,
+    "hashcode": "82e96f67a5d75533632785dfedfc6edae9c8924b",
+    "id": 40877414,
+    "revision": 584911927
+  }
+}

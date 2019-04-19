@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "how many constituencies were not created in the 1900s?",
+      "id": "nt-1948"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many constituencies are older than carlow-kilkenny?",
+      "id": "nt-4903"
+    },
+    {
+      "targetValue": "Carlow-Kilkenny",
+      "utterance": "which constituency is listed on top?",
+      "id": "nt-13174"
+    }
+  ],
+  "metadata": {
+    "title": "Electoral (Amendment) Act 2005",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4228629&oldid=587003674",
+    "tableIndex": 1,
+    "hashcode": "820c38f6b7487f4883d09f331f20e669d10a0b3b",
+    "id": 4228629,
+    "revision": 587003674
+  }
+}

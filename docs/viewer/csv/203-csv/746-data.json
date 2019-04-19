@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "6,662",
+      "utterance": "how many people attended the game on june 24?",
+      "id": "nt-3614"
+    },
+    {
+      "targetValue": "July 23",
+      "utterance": "what date had the largest attendance?",
+      "id": "nt-5028"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many games had attendance with at least 10,000 people?",
+      "id": "nt-6671"
+    },
+    {
+      "targetValue": "53-64",
+      "utterance": "what was the score after the season opener?",
+      "id": "nt-12134"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "number of victories",
+      "id": "nt-12312"
+    },
+    {
+      "targetValue": "76",
+      "utterance": "how many points did the washington mystics score against sacramento on june 11?",
+      "id": "nt-12485"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what was the least amount of points scored by a leading scorer?",
+      "id": "nt-13799"
+    }
+  ],
+  "metadata": {
+    "title": "2008 Washington Mystics season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17121667&oldid=545313430",
+    "tableIndex": 5,
+    "hashcode": "9505a09b22c3f026533aaf7d5a0c86ba541dc6ff",
+    "id": 17121667,
+    "revision": 545313430
+  }
+}

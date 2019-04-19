@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "CM",
+      "utterance": "marc kalenga and gavin rae each played which position (p)?",
+      "id": "nt-960"
+    },
+    {
+      "targetValue": "Gavin Rae",
+      "utterance": "who had a larger transfer fee? gavin rae or bajram fetai?",
+      "id": "nt-1738"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many players had a free transfer fee?",
+      "id": "nt-1815"
+    },
+    {
+      "targetValue": "Summer",
+      "utterance": "what season has the most transfer windows?",
+      "id": "nt-4818"
+    },
+    {
+      "targetValue": "Nuno Capucho",
+      "utterance": "what player had the most transfer fee?",
+      "id": "nt-7833"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many players are age 21 or 33?",
+      "id": "nt-8466"
+    },
+    {
+      "targetValue": "Blackburn Rovers",
+      "utterance": "where did henning berg move from?",
+      "id": "nt-9359"
+    },
+    {
+      "targetValue": "12 years",
+      "utterance": "what is the difference in age between palo vanoli and marc kalenga?",
+      "id": "nt-12073"
+    },
+    {
+      "targetValue": "Egil Østenstad",
+      "utterance": "henning berg and what other player transferred in the summer of 2004?",
+      "id": "nt-12682"
+    },
+    {
+      "targetValue": "Nuno Capucho",
+      "utterance": "how was the only player to have a transfer fee of 0.67m?",
+      "id": "nt-13092"
+    }
+  ],
+  "metadata": {
+    "title": "2003–04 Rangers F.C. season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1630554&oldid=551262053",
+    "tableIndex": 0,
+    "hashcode": "aa90c072904b46676d67402cdb8ec185c4898794",
+    "id": 1630554,
+    "revision": 551262053
+  }
+}

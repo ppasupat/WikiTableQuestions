@@ -1,0 +1,69 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many miss northern ireland winners have made it to the top 30 placement at miss world since 2000?",
+      "id": "nt-57"
+    },
+    {
+      "targetValue": "Catherine Jean Milligan",
+      "utterance": "did catherine jean milligan or lori moore get a higher placement in miss world?",
+      "id": "nt-654"
+    },
+    {
+      "targetValue": "Lucy Evangelista",
+      "utterance": "who was the only titleholder to reach the top 15 at miss world?",
+      "id": "nt-1974"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of miss northern irelands that were from belfast?",
+      "id": "nt-3330"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many contestants call belfast their hometown?",
+      "id": "nt-5574"
+    },
+    {
+      "targetValue": "Lucy Evangelista",
+      "utterance": "what contestant was the only titleholder to place in the top 15 at miss world?",
+      "id": "nt-6955"
+    },
+    {
+      "targetValue": "Lucy Evangelista",
+      "utterance": "who was miss uk 2005 and miss universe 2005 2nd runner up?",
+      "id": "nt-7332"
+    },
+    {
+      "targetValue": "Tiffany Brien",
+      "utterance": "who was the last woman to win the title of miss northern ireland to achieve a top 30 placement at miss world?",
+      "id": "nt-9777"
+    },
+    {
+      "targetValue": "Belfast",
+      "utterance": "which town in ireland is home to the most amount of miss northern ireland winners since 2000?",
+      "id": "nt-12842"
+    },
+    {
+      "targetValue": [
+        "Cherie Gardiner",
+        "Melissa Patton",
+        "Kirsty Anne Gabriel Stewart",
+        "Diana Sayers",
+        "Angela McCarthy",
+        "Julie Lee-Ann Martin"
+      ],
+      "utterance": "which contestants won no future titles?",
+      "id": "nt-13647"
+    }
+  ],
+  "metadata": {
+    "title": "Miss Northern Ireland",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4536574&oldid=582097658",
+    "tableIndex": 0,
+    "hashcode": "995962a88bd480c46b1b239832996d55502bf2f6",
+    "id": 4536574,
+    "revision": 582097658
+  }
+}

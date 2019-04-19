@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "1870",
+      "utterance": "what is the earliest year that a film was released?",
+      "id": "nt-6893"
+    },
+    {
+      "targetValue": "2010s",
+      "utterance": "which decade is the only one to have fewer years in its row than the others?",
+      "id": "nt-8530"
+    },
+    {
+      "targetValue": "2019",
+      "utterance": "what year is after 2018, but does not have a place on the table?",
+      "id": "nt-8738"
+    },
+    {
+      "targetValue": "103",
+      "utterance": "mathematically speaking, what is the difference between 2015 and 1912?",
+      "id": "nt-11988"
+    },
+    {
+      "targetValue": "true",
+      "utterance": "true/false: all years go in consecutive order?",
+      "id": "nt-13173"
+    }
+  ],
+  "metadata": {
+    "title": "List of film lists",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2006447&oldid=600814120",
+    "tableIndex": 1,
+    "hashcode": "4b225900f9edc0e4cb5fd0f870b21fcfcce752ee",
+    "id": 2006447,
+    "revision": 600814120
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many states were of the same type as stuhlingen?",
+      "id": "nt-6589"
+    },
+    {
+      "targetValue": "Saarwerden and Lahr",
+      "utterance": "what is the state above \"sagan\"?",
+      "id": "nt-10442"
+    },
+    {
+      "targetValue": "PR",
+      "utterance": "which bench is represented the most?",
+      "id": "nt-13462"
+    }
+  ],
+  "metadata": {
+    "title": "List of states in the Holy Roman Empire (S)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8392130&oldid=602473120",
+    "tableIndex": 0,
+    "hashcode": "d67d3febbf14edfc0e3c198710d603bf7e8b2088",
+    "id": 8392130,
+    "revision": 602473120
+  }
+}

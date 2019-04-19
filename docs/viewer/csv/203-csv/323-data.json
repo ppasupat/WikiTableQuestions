@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "Haugesund",
+      "utterance": "according to the table, which destination was the last to become available?",
+      "id": "nt-797"
+    },
+    {
+      "targetValue": "50",
+      "utterance": "how many destinations were still available after the year 2010?",
+      "id": "nt-2179"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "total destinations that been ended as of 2009",
+      "id": "nt-2873"
+    },
+    {
+      "targetValue": [
+        "Hemavan",
+        "Umeå"
+      ],
+      "utterance": "which two destinations were available for less than one year?",
+      "id": "nt-4752"
+    },
+    {
+      "targetValue": "Florø",
+      "utterance": "name a destination that began in 1971 that is not kristiansund?",
+      "id": "nt-4974"
+    },
+    {
+      "targetValue": "Aberdeen",
+      "utterance": "what is the top city listed on the table?",
+      "id": "nt-6245"
+    },
+    {
+      "targetValue": "United Kingdom",
+      "utterance": "name a country listed other than norway?",
+      "id": "nt-7923"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many years, at most, did hemavan, sweden have winderoe destinations?",
+      "id": "nt-8612"
+    },
+    {
+      "targetValue": "Newcastle",
+      "utterance": "which destination city became available the same year as edinburgh, uk?",
+      "id": "nt-9054"
+    },
+    {
+      "targetValue": "1991",
+      "utterance": "after 1990, what is the next year there is a new destination for winderoe?",
+      "id": "nt-12160"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total number of winderoe destinations that begin in 1999?",
+      "id": "nt-13568"
+    }
+  ],
+  "metadata": {
+    "title": "List of Widerøe destinations",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4456740&oldid=592938579",
+    "tableIndex": 1,
+    "hashcode": "e3b7406fc770bbfaffab274f95cb05a8f53e93e4",
+    "id": 4456740,
+    "revision": 592938579
+  }
+}

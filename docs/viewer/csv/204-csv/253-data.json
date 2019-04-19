@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "how many times did an italian cyclist win a round?",
+      "id": "nt-10"
+    },
+    {
+      "targetValue": "Jerez",
+      "utterance": "what is the name of the first circuit?",
+      "id": "nt-688"
+    },
+    {
+      "targetValue": "France",
+      "utterance": "what country had more winning riders than italy?",
+      "id": "nt-4150"
+    },
+    {
+      "targetValue": "Raymond Roche",
+      "utterance": "did raymond roche win more or less rounds than fabrizio pirovano?",
+      "id": "nt-8073"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what were the total number of circuits that took place in june?",
+      "id": "nt-8840"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many games had a british person at the pole position?",
+      "id": "nt-9535"
+    },
+    {
+      "targetValue": "Raymond Roche",
+      "utterance": "campbell won the hungaroring circuit. who won the next circuit?",
+      "id": "nt-12503"
+    },
+    {
+      "targetValue": "Raymond Roche",
+      "utterance": "name a racer that was the winning rider in two consecutive races.",
+      "id": "nt-13405"
+    }
+  ],
+  "metadata": {
+    "title": "1990 Superbike World Championship season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13328108&oldid=572979184",
+    "tableIndex": 0,
+    "hashcode": "32b7dc5eb0a68eeedae39dd4c6eca4031acd0d71",
+    "id": 13328108,
+    "revision": 572979184
+  }
+}

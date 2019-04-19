@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Great Britain (GBR)",
+      "utterance": "what country won the most medals?",
+      "id": "nt-1366"
+    },
+    {
+      "targetValue": "Israel",
+      "utterance": "what country won the same number of bronze as great britain, yet did not win a gold medal?",
+      "id": "nt-1706"
+    },
+    {
+      "targetValue": "South Africa",
+      "utterance": "which country won the second-highest number of silver medals?",
+      "id": "nt-2252"
+    },
+    {
+      "targetValue": "South Africa",
+      "utterance": "what country received the same number of gold medals as bronze medals?",
+      "id": "nt-5251"
+    },
+    {
+      "targetValue": "Great Britain",
+      "utterance": "what country won the largest number of gold medals?",
+      "id": "nt-8269"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many medals were won by the top three teams?",
+      "id": "nt-9125"
+    },
+    {
+      "targetValue": "Great Britain",
+      "utterance": "did great britain or hong kong have a higher ratio of silver to bronze medals?",
+      "id": "nt-9487"
+    },
+    {
+      "targetValue": "Great Britain",
+      "utterance": "which country won the most silver medals?",
+      "id": "nt-11339"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the difference between the number of total medals the first place nation won and the total number of medals the second place nation won?",
+      "id": "nt-11907"
+    }
+  ],
+  "metadata": {
+    "title": "Lawn bowls at the 1996 Summer Paralympics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19194640&oldid=543106264",
+    "tableIndex": 0,
+    "hashcode": "bbb5900877ce66c20b1c51d6df6753c67819e3b5",
+    "id": 19194640,
+    "revision": 543106264
+  }
+}

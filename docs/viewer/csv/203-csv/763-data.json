@@ -1,0 +1,69 @@
+{
+  "examples": [
+    {
+      "targetValue": "80.84 m",
+      "utterance": "what is the higher number of meters listed in the notes section of the table?",
+      "id": "nt-1951"
+    },
+    {
+      "targetValue": "16th",
+      "utterance": "what was the lowest position ramon gonzalez came in?",
+      "id": "nt-4132"
+    },
+    {
+      "targetValue": "78.34 m",
+      "utterance": "how long did gonzelz throw for in 1983?",
+      "id": "nt-4463"
+    },
+    {
+      "targetValue": "1990 Goodwill Games",
+      "utterance": "in which competition did he throw the most?",
+      "id": "nt-5489"
+    },
+    {
+      "targetValue": "1.3",
+      "utterance": "what is the difference in the meters for the 1985 competition and the 1987 competition?",
+      "id": "nt-6868"
+    },
+    {
+      "targetValue": [
+        "1986",
+        "1990",
+        "1991"
+      ],
+      "utterance": "in what years did ramon gonzalez come in first place?",
+      "id": "nt-6889"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many of the competitions that took place were based in a venue in the united states?",
+      "id": "nt-8783"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "before 1990, how many second places were obtained?",
+      "id": "nt-9776"
+    },
+    {
+      "targetValue": "Pan American Games",
+      "utterance": "which competition appears the most on the table?",
+      "id": "nt-10382"
+    },
+    {
+      "targetValue": [
+        "Central American and Caribbean Games",
+        "Pan American Games"
+      ],
+      "utterance": "name the competitions in which ramon gonzales came in 1st position.",
+      "id": "nt-10679"
+    }
+  ],
+  "metadata": {
+    "title": "Ramón González (athlete)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14836550&oldid=560705998",
+    "tableIndex": 0,
+    "hashcode": "b4c593aca3829650b40bf5a576ecc7e30d657771",
+    "id": 14836550,
+    "revision": 560705998
+  }
+}

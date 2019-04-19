@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "1965",
+      "utterance": "what year did he have the same number car as 1964?",
+      "id": "nt-1667"
+    },
+    {
+      "targetValue": "2 years",
+      "utterance": "how long did bob veith have the number 54 car at the indy 500?",
+      "id": "nt-1864"
+    },
+    {
+      "targetValue": "1968",
+      "utterance": "which year is the last qual on the chart",
+      "id": "nt-4373"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what was its best starting position?",
+      "id": "nt-4795"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times did he finish all 200 laps?",
+      "id": "nt-7260"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "tell me the number of times he finished above 10th place.",
+      "id": "nt-7281"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times was bob veith ranked higher than 10 at an indy 500?",
+      "id": "nt-8337"
+    },
+    {
+      "targetValue": "1960s",
+      "utterance": "did bob veith drive more indy 500 laps in the 1950s or 1960s?",
+      "id": "nt-8467"
+    },
+    {
+      "targetValue": "1968",
+      "utterance": "what was the last year that it finished the race?",
+      "id": "nt-10838"
+    },
+    {
+      "targetValue": "1968",
+      "utterance": "what is the larger laps between 1963 or 1968",
+      "id": "nt-10849"
+    }
+  ],
+  "metadata": {
+    "title": "Bob Veith",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1251975&oldid=582462177",
+    "tableIndex": 0,
+    "hashcode": "ac74a4dec0bf9a1acbea99a9a257df2b314412bf",
+    "id": 1251975,
+    "revision": 582462177
+  }
+}

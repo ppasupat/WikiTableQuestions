@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Samantha Smith",
+      "utterance": "what is the name of the first presenter on this chart?",
+      "id": "nt-342"
+    },
+    {
+      "targetValue": "Chris Jackson",
+      "utterance": "name the presenter after the presenter who presented the epping forest as a seventh wonder.",
+      "id": "nt-3088"
+    },
+    {
+      "targetValue": "50",
+      "utterance": "how many days are between the first and last program dates?",
+      "id": "nt-3730"
+    },
+    {
+      "targetValue": "South West",
+      "utterance": "what is the first area covered?",
+      "id": "nt-5453"
+    },
+    {
+      "targetValue": "South East",
+      "utterance": "what is the name of the last area listed on this chart?",
+      "id": "nt-5685"
+    },
+    {
+      "targetValue": "The Midlands",
+      "utterance": "which area was featured after the south?",
+      "id": "nt-5725"
+    },
+    {
+      "targetValue": "South East",
+      "utterance": "which area of england was the last to be featured on the program?",
+      "id": "nt-8991"
+    },
+    {
+      "targetValue": "Bill Oddie",
+      "utterance": "who is the presenter listed before chris jackson?",
+      "id": "nt-11935"
+    },
+    {
+      "targetValue": "The West Country",
+      "utterance": "which area has the river severn and the exmoor as two of the seven wonders?",
+      "id": "nt-12260"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many areas were featured?",
+      "id": "nt-12513"
+    }
+  ],
+  "metadata": {
+    "title": "Seven Natural Wonders",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2071938&oldid=546517245",
+    "tableIndex": 0,
+    "hashcode": "b429f1db09d58a11de6fd967822e2575cb89c78f",
+    "id": 2071938,
+    "revision": 546517245
+  }
+}

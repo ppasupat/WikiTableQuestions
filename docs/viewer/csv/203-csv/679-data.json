@@ -1,0 +1,61 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many parts had a release date in 2003?",
+      "id": "nt-2306"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many parts where first released to the public in 2003?",
+      "id": "nt-2353"
+    },
+    {
+      "targetValue": "Part 12",
+      "utterance": "which part was published latest?",
+      "id": "nt-2545"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many parts were published in 2005?",
+      "id": "nt-2862"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is number of parts that received their latest amendment before 2010?",
+      "id": "nt-3118"
+    },
+    {
+      "targetValue": "2008",
+      "utterance": "which year had the least amount of parts published?",
+      "id": "nt-9885"
+    },
+    {
+      "targetValue": [
+        "Part 2",
+        "Part 10",
+        "Part 11"
+      ],
+      "utterance": "which parts have not been amended since it's creation?",
+      "id": "nt-11532"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many parts were published in 2002?",
+      "id": "nt-11686"
+    },
+    {
+      "targetValue": "ISO/IEC 15938-12",
+      "utterance": "what is the only part to be first released in 2008?",
+      "id": "nt-12862"
+    }
+  ],
+  "metadata": {
+    "title": "MPEG-7",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=185224&oldid=594047108",
+    "tableIndex": 0,
+    "hashcode": "894ef736780c5969d77a414a57925333d71a43b1",
+    "id": 185224,
+    "revision": 594047108
+  }
+}

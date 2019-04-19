@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "what is the total amount of times porsche is a constructor?",
+      "id": "nt-2146"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many drivers drove all the rounds?",
+      "id": "nt-2695"
+    },
+    {
+      "targetValue": "V6",
+      "utterance": "was the ferrari engine used by scuderia ferrari a v6 or v8?",
+      "id": "nt-3505"
+    },
+    {
+      "targetValue": [
+        "Entrant",
+        "Constructor",
+        "Chassis",
+        "Engine",
+        "Tyre",
+        "Driver",
+        "Rounds"
+      ],
+      "utterance": "what are the categories at the top of the table?",
+      "id": "nt-6029"
+    },
+    {
+      "targetValue": "D",
+      "utterance": "what was the average tyre used in the race?",
+      "id": "nt-10946"
+    },
+    {
+      "targetValue": "Lotus-Climax",
+      "utterance": "what brand has been constructor the most?",
+      "id": "nt-11135"
+    },
+    {
+      "targetValue": "John Dalton",
+      "utterance": "what entrant is listed after ecurie excelsior?",
+      "id": "nt-11360"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many v6 engines are on this list?",
+      "id": "nt-12863"
+    }
+  ],
+  "metadata": {
+    "title": "1962 Formula One season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1140104&oldid=594286887",
+    "tableIndex": 1,
+    "hashcode": "7aefe18c13aa17cd2c9202110bea9adb13268494",
+    "id": 1140104,
+    "revision": 594286887
+  }
+}

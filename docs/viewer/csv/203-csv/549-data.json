@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "Tony Lazzeri",
+      "utterance": "who is the first major league hitter to hit two grand slams in one game?",
+      "id": "nt-1244"
+    },
+    {
+      "targetValue": "Nomar Garciaparra",
+      "utterance": "what was the name of the player who accomplished this in 1999 but played for the boston red sox?",
+      "id": "nt-4292"
+    },
+    {
+      "targetValue": [
+        "Washington Nationals",
+        "Milwaukee Brewers"
+      ],
+      "utterance": "which teams faced off at miller park?",
+      "id": "nt-5159"
+    },
+    {
+      "targetValue": "June 24, 1968",
+      "utterance": "on what date did the detroit tigers play the cleveland indians?",
+      "id": "nt-6830"
+    },
+    {
+      "targetValue": "Josh Willingham",
+      "utterance": "what was the name of the last person to accomplish this up to date?",
+      "id": "nt-7589"
+    },
+    {
+      "targetValue": "Tony Lazzeri",
+      "utterance": "what is the name of the player for the new york yankees in 1936?",
+      "id": "nt-10800"
+    },
+    {
+      "targetValue": "St. Louis Browns",
+      "utterance": "who was the opponent for the boston red sox on july 27, 1946?",
+      "id": "nt-13751"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of times a boston red sox player has had two grand slams in one game?",
+      "id": "nt-13879"
+    }
+  ],
+  "metadata": {
+    "title": "List of Major League Baseball home run records",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13669614&oldid=593639811",
+    "tableIndex": 18,
+    "hashcode": "7ee377ded9b5ae25516df17dc86db3e86285af38",
+    "id": 13669614,
+    "revision": 593639811
+  }
+}

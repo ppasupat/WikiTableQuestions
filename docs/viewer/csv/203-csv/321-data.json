@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "what is the number of sheriff's with the last name smith?",
+      "id": "nt-2330"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "did robert petty serve before josiah reeve?",
+      "id": "nt-2518"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "what is the total number of sheriffs that were in office in suffolk county between 1903 and 1957?",
+      "id": "nt-2747"
+    },
+    {
+      "targetValue": "James Muirson",
+      "utterance": "which sheriff came before thomas wickes?",
+      "id": "nt-2991"
+    },
+    {
+      "targetValue": "1683",
+      "utterance": "when did the first sheriff's term start?",
+      "id": "nt-4809"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many sheriff's have the last name biggs?",
+      "id": "nt-8637"
+    },
+    {
+      "targetValue": "76",
+      "utterance": "how sheriffs has suffolk county had in total?",
+      "id": "nt-9541"
+    },
+    {
+      "targetValue": "1812",
+      "utterance": "when did benjamin brewster serve his second term?",
+      "id": "nt-10343"
+    },
+    {
+      "targetValue": "Charles O'Dell",
+      "utterance": "who was the sheriff in suffolk county before amza biggs first term there as sheriff?",
+      "id": "nt-12286"
+    }
+  ],
+  "metadata": {
+    "title": "Suffolk County Sheriff's Office",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19353517&oldid=571706382",
+    "tableIndex": 1,
+    "hashcode": "5fdb762a0ae85b6bd89f69ed5eb4da7b3b66cdea",
+    "id": 19353517,
+    "revision": 571706382
+  }
+}

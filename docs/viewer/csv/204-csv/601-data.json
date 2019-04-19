@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "how many of these missouri tv stations are actually licensed in a city in illinois (il)?",
+      "id": "nt-518"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many areas have at least 5 stations?",
+      "id": "nt-1502"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many are on the cbs network?",
+      "id": "nt-3127"
+    },
+    {
+      "targetValue": "ABC",
+      "utterance": "kode-tv and wsil-tv both are a part of which network?",
+      "id": "nt-4392"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many television stations serve the cape girardeau area?",
+      "id": "nt-6350"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the total number of stations serving the the cape girardeau area?",
+      "id": "nt-6394"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the total number of cbs stations?",
+      "id": "nt-8968"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the total number of stations under the cbs network?",
+      "id": "nt-9769"
+    },
+    {
+      "targetValue": "KFJX",
+      "utterance": "which station is licensed in the same city as koam-tv?",
+      "id": "nt-10757"
+    }
+  ],
+  "metadata": {
+    "title": "List of television stations in Missouri",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=351041&oldid=587389835",
+    "tableIndex": 0,
+    "hashcode": "2197a297d682e4350610fe00ae250eb949f791c5",
+    "id": 351041,
+    "revision": 587389835
+  }
+}

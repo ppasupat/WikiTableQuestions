@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "3616",
+      "utterance": "if the number of parishes were equal in each country, how many parishes would each country have?",
+      "id": "nt-1632"
+    },
+    {
+      "targetValue": "23,700,000",
+      "utterance": "total number of adherents in romania, cyprus, and greece",
+      "id": "nt-1810"
+    },
+    {
+      "targetValue": "4500000",
+      "utterance": "how many more adherents does constantinople have compared to jerusalem?",
+      "id": "nt-2457"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "which country has the top amount of adherents?",
+      "id": "nt-2764"
+    },
+    {
+      "targetValue": "54,382",
+      "utterance": "priests",
+      "id": "nt-2957"
+    },
+    {
+      "targetValue": "Cyprus",
+      "utterance": "which country has the same amount of adherents as jerusalem?",
+      "id": "nt-4548"
+    },
+    {
+      "targetValue": "101",
+      "utterance": "how many bishops does greece have?",
+      "id": "nt-5865"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many jurisdictions are listed in the chart?",
+      "id": "nt-6147"
+    },
+    {
+      "targetValue": "41",
+      "utterance": "bishops in alexandria",
+      "id": "nt-7129"
+    },
+    {
+      "targetValue": "0.000004",
+      "utterance": "how many bishops per adherent in serbia?",
+      "id": "nt-8455"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "only jurisdiction with more than 550 monasteries",
+      "id": "nt-10915"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "larger parish",
+      "id": "nt-11811"
+    }
+  ],
+  "metadata": {
+    "title": "Eastern Orthodox Church by country",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=39840613&oldid=579038046",
+    "tableIndex": 1,
+    "hashcode": "a94e8270a29174d11da863679a5e17e86604f5c5",
+    "id": 39840613,
+    "revision": 579038046
+  }
+}

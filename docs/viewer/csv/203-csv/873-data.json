@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "Surf's Up",
+      "utterance": "what is the next model listed after disk'o?",
+      "id": "nt-59"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "total number of models created.",
+      "id": "nt-932"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many rides are portable?",
+      "id": "nt-3084"
+    },
+    {
+      "targetValue": "Skater",
+      "utterance": "which model has the higher capacity, skater or surf's up?",
+      "id": "nt-6561"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many models have a capacity other than 600?",
+      "id": "nt-7228"
+    },
+    {
+      "targetValue": "1000",
+      "utterance": "what is the number of capacity that mega disk'o is able to hold?",
+      "id": "nt-8203"
+    },
+    {
+      "targetValue": [
+        "Mega Disk'O",
+        "Disk'O Coaster"
+      ],
+      "utterance": "which model was the tallest?",
+      "id": "nt-9086"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "how many riders on the surf's up?",
+      "id": "nt-10218"
+    },
+    {
+      "targetValue": "24",
+      "utterance": "how many riders does the skater model include?",
+      "id": "nt-10491"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many rides have a max capacity of 600?",
+      "id": "nt-10514"
+    },
+    {
+      "targetValue": "Disk'O Coaster",
+      "utterance": "what model has the same height as the mega disk'o?",
+      "id": "nt-12145"
+    }
+  ],
+  "metadata": {
+    "title": "Disk'O",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7184741&oldid=599154457",
+    "tableIndex": 0,
+    "hashcode": "8912044eada8d38ed2c90ad2903f6ea4dc8156ab",
+    "id": 7184741,
+    "revision": 599154457
+  }
+}

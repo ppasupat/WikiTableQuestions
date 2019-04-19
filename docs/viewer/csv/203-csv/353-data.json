@@ -1,0 +1,68 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many songs are at most 3 minutes long?",
+      "id": "nt-492"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many tracks have their producer as mike \"punch\" harper?",
+      "id": "nt-691"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many songs are less than 4 minutes in length?",
+      "id": "nt-1659"
+    },
+    {
+      "targetValue": [
+        "\"Shock Therapy\" (interlude)",
+        "\"Horsemen\""
+      ],
+      "utterance": "which songs does not have a producer listed.",
+      "id": "nt-1676"
+    },
+    {
+      "targetValue": "4:00",
+      "utterance": "how long is die slow in terms of time?",
+      "id": "nt-4086"
+    },
+    {
+      "targetValue": "1:22",
+      "utterance": "how long is the horsemen track?",
+      "id": "nt-6771"
+    },
+    {
+      "targetValue": "\"Horsementality\"",
+      "utterance": "what is the longest track in terms of time?",
+      "id": "nt-12487"
+    },
+    {
+      "targetValue": [
+        "\"The C-Quel\"",
+        "\"Life Liquid\""
+      ],
+      "utterance": "which songs are produced by pillo jamel or juju.",
+      "id": "nt-12743"
+    },
+    {
+      "targetValue": "\"Lost @ \"C\"\"",
+      "utterance": "what song is before \"phuk u\"?",
+      "id": "nt-13283"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many songs were produced by chaos?",
+      "id": "nt-13928"
+    }
+  ],
+  "metadata": {
+    "title": "2000 B.C. (Before Can-I-Bus)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2620693&oldid=544118062",
+    "tableIndex": 1,
+    "hashcode": "3c5e43b6c8e4b34888840747b0227dd1c137f86c",
+    "id": 2620693,
+    "revision": 544118062
+  }
+}

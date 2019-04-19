@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Equipe Matra Sports",
+      "utterance": "name one team that completed less than 160 laps.",
+      "id": "nt-2369"
+    },
+    {
+      "targetValue": "Ford France S.A.",
+      "utterance": "what other team only completed 183 laps with holman & moody?",
+      "id": "nt-5721"
+    },
+    {
+      "targetValue": "\"Franc\"",
+      "utterance": "which team completed only two laps?",
+      "id": "nt-6044"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what is the number of teams that used a ford engine?",
+      "id": "nt-6090"
+    },
+    {
+      "targetValue": "271",
+      "utterance": "how many laps did ronnie bucknum complete?",
+      "id": "nt-8616"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what were the total number times ferrari was listed as an engine according to this chart?",
+      "id": "nt-8653"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many teams completed 200 laps but didn't complete 220 laps?",
+      "id": "nt-9221"
+    },
+    {
+      "targetValue": "371",
+      "utterance": "what was the total number of laps for ecurie savin-calberson and dana chevrolet inc.?",
+      "id": "nt-10458"
+    },
+    {
+      "targetValue": "SpA Ferrari SEFAC",
+      "utterance": "which team completed the most laps?",
+      "id": "nt-12089"
+    },
+    {
+      "targetValue": "Shelby-American Inc.",
+      "utterance": "which team from the united states completed the most laps?",
+      "id": "nt-12713"
+    },
+    {
+      "targetValue": "SpA Ferrari SEFAC",
+      "utterance": "which team did the most laps according to this chart?",
+      "id": "nt-12776"
+    },
+    {
+      "targetValue": "Phil Hill",
+      "utterance": "who completed more laps, phil hill or richard attwood?",
+      "id": "nt-13913"
+    }
+  ],
+  "metadata": {
+    "title": "1967 24 Hours of Le Mans",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4862350&oldid=601644717",
+    "tableIndex": 1,
+    "hashcode": "d566e057a948ce3d7ce9b233d5f5ba62c213f74c",
+    "id": 4862350,
+    "revision": 601644717
+  }
+}

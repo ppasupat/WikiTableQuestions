@@ -1,0 +1,83 @@
+{
+  "examples": [
+    {
+      "targetValue": "Lord Finesse",
+      "utterance": "did lord finesse or buckwild produce ga head?",
+      "id": "nt-915"
+    },
+    {
+      "targetValue": "DJ Ogee/O.Gee",
+      "utterance": "who produced the track \"no main topic\"?",
+      "id": "nt-1018"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many tracks in word...life were produced by buckwild?",
+      "id": "nt-1828"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "total number of performers other than o.credle:",
+      "id": "nt-2273"
+    },
+    {
+      "targetValue": [
+        "Prince Po",
+        "Pharoahe Monch"
+      ],
+      "utterance": "who performed with o.c.?",
+      "id": "nt-3960"
+    },
+    {
+      "targetValue": "O. Credle",
+      "utterance": "which songwriter is credited with the largest number of songs?",
+      "id": "nt-7558"
+    },
+    {
+      "targetValue": "A. Best",
+      "utterance": "who wrote with o.c. the most?",
+      "id": "nt-8304"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many tracks in word...life have at most two songwriters?",
+      "id": "nt-8505"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "number of times buckwild produced a song:",
+      "id": "nt-9784"
+    },
+    {
+      "targetValue": "Buckwild",
+      "utterance": "who produced the most tracks?",
+      "id": "nt-9801"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many tracks in word...life have only lord finesse as a producer?",
+      "id": "nt-11458"
+    },
+    {
+      "targetValue": "\"Born 2 Live (Remix)\"",
+      "utterance": "what is the last track listed on the record?",
+      "id": "nt-12572"
+    },
+    {
+      "targetValue": [
+        "D. Vanderpool",
+        "R. Hall"
+      ],
+      "utterance": "which songwriters are credited with the least songs?",
+      "id": "nt-13171"
+    }
+  ],
+  "metadata": {
+    "title": "Word...Life",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4978910&oldid=580254614",
+    "tableIndex": 1,
+    "hashcode": "6e36a6e64bbbc6b9e34e1a6a735c766394e1c8ae",
+    "id": 4978910,
+    "revision": 580254614
+  }
+}

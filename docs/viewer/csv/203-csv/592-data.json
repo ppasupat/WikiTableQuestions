@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Brown University",
+      "utterance": "which university has the least in endowment?",
+      "id": "nt-113"
+    },
+    {
+      "targetValue": "Cornell University",
+      "utterance": "which institution has the most undergraduate enrollment?",
+      "id": "nt-224"
+    },
+    {
+      "targetValue": "University of Pennsylvania",
+      "utterance": "which university has the most in undergraduate enrollment after cornell university?",
+      "id": "nt-1727"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the number of universities with more than 1,000 in academic staff?",
+      "id": "nt-1786"
+    },
+    {
+      "targetValue": "Dartmouth College",
+      "utterance": "which has the least number or academic staff?",
+      "id": "nt-2234"
+    },
+    {
+      "targetValue": "Columbia University",
+      "utterance": "which has a higher enrollment? brown or columbia?",
+      "id": "nt-2793"
+    },
+    {
+      "targetValue": "21,225",
+      "utterance": "how many students are enrolled at harvard university according to this chart?",
+      "id": "nt-4955"
+    },
+    {
+      "targetValue": "Harvard University",
+      "utterance": "colombia has the highest graduate enrollment at 15,760. what school has the next highest?",
+      "id": "nt-5391"
+    },
+    {
+      "targetValue": "Yale University",
+      "utterance": "which university had more than 10,000 in enrollment and their athletic nickname is bulldogs?",
+      "id": "nt-6252"
+    },
+    {
+      "targetValue": "16,779",
+      "utterance": "what is the difference in enrollment numbers (total graduate and undergraduate) between the highest attend and lowest attended ivy league school?",
+      "id": "nt-8134"
+    },
+    {
+      "targetValue": "6,391",
+      "utterance": "how many graduate students does yale have?",
+      "id": "nt-12457"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many ivy league schools are in new york?",
+      "id": "nt-12867"
+    }
+  ],
+  "metadata": {
+    "title": "Ivy League",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14975&oldid=601850727",
+    "tableIndex": 0,
+    "hashcode": "019e883fd3cb55bcbe8de0b6f179ac7289e6c54e",
+    "id": 14975,
+    "revision": 601850727
+  }
+}

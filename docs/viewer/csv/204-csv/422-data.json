@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "2:37.70",
+      "utterance": "at the women's 200 meter individual medley sm10 event at the 2012 summer paralympics, how long did it take aurelie rivard to finish?",
+      "id": "nt-103"
+    },
+    {
+      "targetValue": "Sophie Pascoe",
+      "utterance": "who was the fastest swimmer?",
+      "id": "nt-1289"
+    },
+    {
+      "targetValue": "Sophie Pascoe",
+      "utterance": "who is the only swimmer with a time under 2:30?",
+      "id": "nt-1915"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "at the women's 200 meter individual medley sm10 event at the 2012 summer paralympics, how many people participated in total?",
+      "id": "nt-2807"
+    },
+    {
+      "targetValue": "Sophie Pascoe",
+      "utterance": "at the women's 200 meter individual medley sm10 event at the 2012 summer paralympics, who finished first?",
+      "id": "nt-4173"
+    },
+    {
+      "targetValue": "Gemma Almond",
+      "utterance": "lee was one of two swimmers from great britain. who was the second?",
+      "id": "nt-4638"
+    },
+    {
+      "targetValue": "Katherine Downie",
+      "utterance": "who finished directly above ryabova?",
+      "id": "nt-5272"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many swimmers from china participated in the race?",
+      "id": "nt-5888"
+    },
+    {
+      "targetValue": "Great Britain",
+      "utterance": "other than canada, name a country that had two athletes representing them.",
+      "id": "nt-9883"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many participants have a time between 2:30 and 2:40?",
+      "id": "nt-11776"
+    }
+  ],
+  "metadata": {
+    "title": "Swimming at the 2012 Summer Paralympics – Women's 200 metre individual medley SM10",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=37068667&oldid=573372676",
+    "tableIndex": 2,
+    "hashcode": "4ab2c6a05cd13884125b7e4bf8ed7100048aae1f",
+    "id": 37068667,
+    "revision": 573372676
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "United States",
+      "utterance": "what country has more aircraft listed than any other?",
+      "id": "nt-1656"
+    },
+    {
+      "targetValue": "North American T-28 Trojan",
+      "utterance": "which model is above 6 texan",
+      "id": "nt-2542"
+    },
+    {
+      "targetValue": "France",
+      "utterance": "what country has the last listed aircraft?",
+      "id": "nt-4123"
+    },
+    {
+      "targetValue": "de Havilland Canada DHC-2 Beaver",
+      "utterance": "what is the only model of these aircraft to originate in canada?",
+      "id": "nt-4880"
+    },
+    {
+      "targetValue": "Replaced by the C-130",
+      "utterance": "the douglas c-47 skytrain and the de haviland canada dhc-2 beaver were both replaced by which model?",
+      "id": "nt-5202"
+    },
+    {
+      "targetValue": "Fighter",
+      "utterance": "what type of aircraft has the longest listed service record?",
+      "id": "nt-6693"
+    },
+    {
+      "targetValue": "70",
+      "utterance": "tell me the number of f-86 sabres in service.",
+      "id": "nt-8931"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many aircraft does the united states have listed?",
+      "id": "nt-10255"
+    },
+    {
+      "targetValue": "SA 330L",
+      "utterance": "which is the last versions on the chart",
+      "id": "nt-11704"
+    }
+  ],
+  "metadata": {
+    "title": "List of former aircraft of the Philippine Air Force",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=39855681&oldid=593093640",
+    "tableIndex": 0,
+    "hashcode": "ccabdd7f7f9464666bcc4d30324bd6a930d51d3f",
+    "id": 39855681,
+    "revision": 593093640
+  }
+}

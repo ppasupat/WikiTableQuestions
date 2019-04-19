@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Russia",
+      "utterance": "did austria or russia rank higher?",
+      "id": "nt-2193"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "which country had the most medals in the competition?",
+      "id": "nt-4705"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many swimmers finished in less than 1:55?",
+      "id": "nt-5948"
+    },
+    {
+      "targetValue": "Gregor Tait",
+      "utterance": "which competitor was the last to place?",
+      "id": "nt-6070"
+    },
+    {
+      "targetValue": "1:55.72",
+      "utterance": "how long did it take ryosuke irie to finish?",
+      "id": "nt-7203"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many swimmers were from the us?",
+      "id": "nt-7336"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many names are listed?",
+      "id": "nt-9073"
+    },
+    {
+      "targetValue": "Japan",
+      "utterance": "does russia or japan have the longer time?",
+      "id": "nt-13190"
+    }
+  ],
+  "metadata": {
+    "title": "Swimming at the 2008 Summer Olympics – Men's 200 metre backstroke",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18624740&oldid=563343007",
+    "tableIndex": 6,
+    "hashcode": "82c0476590c4f5b67546e1653a8315a245c54c79",
+    "id": 18624740,
+    "revision": 563343007
+  }
+}

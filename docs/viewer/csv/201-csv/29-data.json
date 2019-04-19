@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "Fred Ramdat Misier",
+      "utterance": "which president who was an independent also had the longest reign for an independent?",
+      "id": "nt-3112"
+    },
+    {
+      "targetValue": "Johan Kraag",
+      "utterance": "which president had the shortest term without being deposed?",
+      "id": "nt-6729"
+    }
+  ],
+  "metadata": {
+    "title": "President of Suriname",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=489602&oldid=592106996",
+    "tableIndex": 0,
+    "hashcode": "30fb7fbbd88db67c665a4d77651206e2f97d3005",
+    "id": 489602,
+    "revision": 592106996
+  }
+}

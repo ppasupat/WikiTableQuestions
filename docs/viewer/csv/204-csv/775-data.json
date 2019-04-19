@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "South Korea",
+      "utterance": "which country came in first with 7 gold medals?",
+      "id": "nt-1554"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many teams won at least three bronze medals in this event?",
+      "id": "nt-1708"
+    },
+    {
+      "targetValue": "false",
+      "utterance": "true or false, south korea has the least amount of gold medals.",
+      "id": "nt-3996"
+    },
+    {
+      "targetValue": "South Korea",
+      "utterance": "which country has the largest amount of total medals?",
+      "id": "nt-7176"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many gold and silver medals in total did china receive?",
+      "id": "nt-7376"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what number of bronze medals did iran receive?",
+      "id": "nt-7564"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many more medals does hong kong have than chinese taipei?",
+      "id": "nt-7601"
+    },
+    {
+      "targetValue": "South Korea",
+      "utterance": "who is the top ranking nation with the most medals received?",
+      "id": "nt-11050"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many medals were awarded to japan in total?",
+      "id": "nt-11979"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many teams did not win any gold medals in this event?",
+      "id": "nt-12603"
+    },
+    {
+      "targetValue": "Japan",
+      "utterance": "what is the only nation to receive three gold medals?",
+      "id": "nt-13218"
+    }
+  ],
+  "metadata": {
+    "title": "2011 Asian Cycling Championships",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30768912&oldid=591214861",
+    "tableIndex": 4,
+    "hashcode": "ffb2891ab887a8e2d2632d9290c7a4c9d7de2d09",
+    "id": 30768912,
+    "revision": 591214861
+  }
+}

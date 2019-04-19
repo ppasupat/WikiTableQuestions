@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "number of goals scored in los angeles",
+      "id": "nt-2226"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many games played where the combined score of both teams is at least 3?",
+      "id": "nt-6368"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "number of games in los angeles",
+      "id": "nt-6656"
+    },
+    {
+      "targetValue": "more than 1 point",
+      "utterance": "in the games against haiti, was the game won with more than 1 point or more than 3 points?",
+      "id": "nt-7467"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total number of games played in february 2000?",
+      "id": "nt-7855"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many points did the team score against panama and colombia combined?",
+      "id": "nt-9960"
+    },
+    {
+      "targetValue": "Qualcomm Stadium, San Diego, United States",
+      "utterance": "where was the last venue before the opponent colombia?",
+      "id": "nt-10668"
+    },
+    {
+      "targetValue": "Bridgetown, Barbados",
+      "utterance": "what venue was the latest match played at?",
+      "id": "nt-10858"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "he scored at least how many points on haiti",
+      "id": "nt-11957"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive games were played on october 10, 1999?",
+      "id": "nt-12694"
+    }
+  ],
+  "metadata": {
+    "title": "Carlo Corazzin",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5861960&oldid=594709200",
+    "tableIndex": 0,
+    "hashcode": "ad1c8145a1dfca5af0fcbe1b2e15e8db0287af2f",
+    "id": 5861960,
+    "revision": 594709200
+  }
+}

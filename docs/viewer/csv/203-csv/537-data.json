@@ -1,0 +1,66 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many euro 2000 qualifying competitions are listed?",
+      "id": "nt-2706"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many games took place in ostrava?",
+      "id": "nt-5227"
+    },
+    {
+      "targetValue": "Germany",
+      "utterance": "what opponent is listed last on the table?",
+      "id": "nt-5486"
+    },
+    {
+      "targetValue": [
+        "Finland",
+        "Belarus",
+        "Germany"
+      ],
+      "utterance": "list the opponents which are under the friendly competition.",
+      "id": "nt-6219"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many total games took place in 1999?",
+      "id": "nt-6637"
+    },
+    {
+      "targetValue": "Letná Stadium, Prague",
+      "utterance": "what venue is listed above wembley stadium, london?",
+      "id": "nt-7218"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the number of times czech republic played against germany?",
+      "id": "nt-9298"
+    },
+    {
+      "targetValue": "Germany",
+      "utterance": "list the opponent in which the result was the least out of all the results.",
+      "id": "nt-9617"
+    },
+    {
+      "targetValue": "Na Stínadlech, Teplice",
+      "utterance": "bazaly, ostrava was used on 6 september 1004, but what venue was used on 18 september 1996?",
+      "id": "nt-12001"
+    },
+    {
+      "targetValue": "Malta",
+      "utterance": "which team did czech republic score the most goals against?",
+      "id": "nt-12319"
+    }
+  ],
+  "metadata": {
+    "title": "Patrik Berger",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=990613&oldid=594506036",
+    "tableIndex": 3,
+    "hashcode": "759c590ae23c6b10ea57e6f0f9fcfbf1401beb63",
+    "id": 990613,
+    "revision": 594506036
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "22",
+      "utterance": "how many competitors scored above 5,000 points?",
+      "id": "nt-5065"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "how many athletes earned more than 5,000 total points?",
+      "id": "nt-6280"
+    },
+    {
+      "targetValue": "Eric Walther",
+      "utterance": "who had the most points in running, sergio salazar or eric walther?",
+      "id": "nt-6418"
+    },
+    {
+      "targetValue": "Poland",
+      "utterance": "which country had the competitor with the least amount of points?",
+      "id": "nt-8412"
+    },
+    {
+      "targetValue": "1092",
+      "utterance": "what is the difference between andrey moiseev's total score and marcin horbacz's total score?",
+      "id": "nt-10419"
+    },
+    {
+      "targetValue": "Andrey Moiseev (RUS)",
+      "utterance": "which athlete scored the most points?",
+      "id": "nt-11824"
+    },
+    {
+      "targetValue": "Marcin Horbacz (POL)",
+      "utterance": "which athlete had the most penalties in riding?",
+      "id": "nt-12830"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many athletes earned more than 1,100 points in the riding competition?",
+      "id": "nt-12943"
+    },
+    {
+      "targetValue": "Deniss Čerkovskis (LAT)",
+      "utterance": "who was the next ranked athlete after the bronze medalist?",
+      "id": "nt-13250"
+    }
+  ],
+  "metadata": {
+    "title": "Modern pentathlon at the 2004 Summer Olympics – Men's",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1102341&oldid=551254737",
+    "tableIndex": 1,
+    "hashcode": "7566e64729217ea4ffc13e511cff019f408ead46",
+    "id": 1102341,
+    "revision": 551254737
+  }
+}

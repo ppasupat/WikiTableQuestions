@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "New York Jets",
+      "utterance": "opponent for highest attended home game",
+      "id": "nt-289"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the only week with more than 80,000 attendance",
+      "id": "nt-2081"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what was their total number of wins at home?",
+      "id": "nt-2204"
+    },
+    {
+      "targetValue": "September 29, 1991",
+      "utterance": "what is the only game that had an attendance over 80,000?",
+      "id": "nt-2678"
+    },
+    {
+      "targetValue": "December 14, 1991",
+      "utterance": "on what date did the bears win by a difference of 27 points?",
+      "id": "nt-4113"
+    },
+    {
+      "targetValue": "Minnesota Vikings",
+      "utterance": "what was the next opponent after the detroit lions?",
+      "id": "nt-6030"
+    },
+    {
+      "targetValue": "63",
+      "utterance": "number of points the bears scored against the green bay packers and detroit lions in the season",
+      "id": "nt-9652"
+    },
+    {
+      "targetValue": "Tampa Bay Buccaneers",
+      "utterance": "last home opponent of the season",
+      "id": "nt-11914"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what week was the first bye opponent?",
+      "id": "nt-12151"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the greatest number of consecutive wins that the bears had against any opponent?",
+      "id": "nt-13125"
+    }
+  ],
+  "metadata": {
+    "title": "1991 Chicago Bears season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8799464&oldid=588715942",
+    "tableIndex": 1,
+    "hashcode": "39693197d9692321531a238d163c0f6c868493e1",
+    "id": 8799464,
+    "revision": 588715942
+  }
+}

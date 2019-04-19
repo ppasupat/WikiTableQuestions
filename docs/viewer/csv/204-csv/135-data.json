@@ -1,0 +1,92 @@
+{
+  "examples": [
+    {
+      "targetValue": "Córdoba CF",
+      "utterance": "which team took first place?",
+      "id": "nt-2829"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "were there any clubs that had no losses?",
+      "id": "nt-3032"
+    },
+    {
+      "targetValue": "28",
+      "utterance": "how many points did the top team finish ahead of the bottom team?",
+      "id": "nt-3642"
+    },
+    {
+      "targetValue": "CD Mestalla",
+      "utterance": "which club had 27 point and a goal difference of +1?",
+      "id": "nt-4709"
+    },
+    {
+      "targetValue": "28",
+      "utterance": "what are the point differences between the first and last team?",
+      "id": "nt-5052"
+    },
+    {
+      "targetValue": "Recreativo de Huelva",
+      "utterance": "which other club had 13 wins, but more points than cd cartagena?",
+      "id": "nt-7126"
+    },
+    {
+      "targetValue": "CD Málaga",
+      "utterance": "which team finished after cordoba cf?",
+      "id": "nt-7586"
+    },
+    {
+      "targetValue": "55",
+      "utterance": "what were the number of goals for listed for the hercules cf club?",
+      "id": "nt-9035"
+    },
+    {
+      "targetValue": "CD Villarrobledo",
+      "utterance": "which club had a total of only four wins?",
+      "id": "nt-9466"
+    },
+    {
+      "targetValue": "Córdoba CF",
+      "utterance": "which club scored the most points?",
+      "id": "nt-9671"
+    },
+    {
+      "targetValue": "40",
+      "utterance": "what are the total number of points scored by the first place team?",
+      "id": "nt-11467"
+    },
+    {
+      "targetValue": "CD Villarrobledo",
+      "utterance": "what team had the worst goal difference in the league?",
+      "id": "nt-11507"
+    },
+    {
+      "targetValue": "CD Villarrobledo",
+      "utterance": "which is the only team that had more than 21 losses?",
+      "id": "nt-11649"
+    },
+    {
+      "targetValue": "Córdoba CF",
+      "utterance": "which team finished top of the league?",
+      "id": "nt-11822"
+    },
+    {
+      "targetValue": "Atlético Ceuta",
+      "utterance": "what club had the same goals against as granada cf had goals for?",
+      "id": "nt-12805"
+    },
+    {
+      "targetValue": "28",
+      "utterance": "what is the difference between the points earned by cordoba and the points earned by cd villarrobledo?",
+      "id": "nt-13772"
+    }
+  ],
+  "metadata": {
+    "title": "1961–62 Segunda División",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17716320&oldid=551357354",
+    "tableIndex": 3,
+    "hashcode": "64320dc4065a9f477553215a36495a09a80fb0cd",
+    "id": 17716320,
+    "revision": 551357354
+  }
+}

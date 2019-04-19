@@ -1,0 +1,53 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many schools have a larger intake than sacred heart?",
+      "id": "nt-400"
+    },
+    {
+      "targetValue": "VC",
+      "utterance": "what is the first gov on the list?",
+      "id": "nt-2309"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "count the number of schools with \"cy\" governments.",
+      "id": "nt-3316"
+    },
+    {
+      "targetValue": [
+        "Ashfield",
+        "Bushey Manor",
+        "Falconer",
+        "Meadow Wood",
+        "Merry Hill"
+      ],
+      "utterance": "which schools are not primary schools?",
+      "id": "nt-7700"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the total number of primary schools in bushey that have no religious affiliation?",
+      "id": "nt-8373"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "at least how many types are there?",
+      "id": "nt-8681"
+    },
+    {
+      "targetValue": "Ashfield",
+      "utterance": "which was opened first?",
+      "id": "nt-10560"
+    }
+  ],
+  "metadata": {
+    "title": "Primary schools in Hertsmere",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21491457&oldid=559084925",
+    "tableIndex": 0,
+    "hashcode": "0c25feeac3a0181553130da97ac33060ceaa14cf",
+    "id": 21491457,
+    "revision": 559084925
+  }
+}

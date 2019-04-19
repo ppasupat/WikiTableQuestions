@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "what are the number of times tokyu is listed as a manufacturer on this chart?",
+      "id": "nt-5938"
+    },
+    {
+      "targetValue": "1967",
+      "utterance": "what year was the first unit built according to this chart?",
+      "id": "nt-7796"
+    },
+    {
+      "targetValue": "RTS",
+      "utterance": "which type has the lowest max speed?",
+      "id": "nt-8376"
+    },
+    {
+      "targetValue": "RTS",
+      "utterance": "which train has the least speed?",
+      "id": "nt-9725"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many types of trains have a top speed of more than 100 km/h?",
+      "id": "nt-10260"
+    }
+  ],
+  "metadata": {
+    "title": "State Railway of Thailand",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1527960&oldid=601458717",
+    "tableIndex": 2,
+    "hashcode": "92711acfda01cc5a063f74cb16f42e85c96adbe5",
+    "id": 1527960,
+    "revision": 601458717
+  }
+}

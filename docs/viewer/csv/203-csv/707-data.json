@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "39",
+      "utterance": "how many total medals did the netherlands win?",
+      "id": "nt-504"
+    },
+    {
+      "targetValue": "85",
+      "utterance": "the total number of medals won by australia was how many?",
+      "id": "nt-4057"
+    },
+    {
+      "targetValue": "44",
+      "utterance": "how many gold and silver medals did germany win?",
+      "id": "nt-4352"
+    },
+    {
+      "targetValue": "Brazil (BRA)",
+      "utterance": "which country won the least amount of bronze medals?",
+      "id": "nt-6448"
+    },
+    {
+      "targetValue": "59",
+      "utterance": "what was the difference in gold medals between russia and china?",
+      "id": "nt-6508"
+    },
+    {
+      "targetValue": "85",
+      "utterance": "what is the total number of medals won by australia?",
+      "id": "nt-7772"
+    },
+    {
+      "targetValue": "136",
+      "utterance": "what is the difference between the gold medals won by china and its total medal winnings?",
+      "id": "nt-7893"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many silver medals did poland win?",
+      "id": "nt-8115"
+    },
+    {
+      "targetValue": "Netherlands (NED)",
+      "utterance": "what country won the least amount of gold medals?",
+      "id": "nt-8328"
+    },
+    {
+      "targetValue": "China (CHN)",
+      "utterance": "which country won the most gold medals?",
+      "id": "nt-12359"
+    },
+    {
+      "targetValue": "China (CHN)",
+      "utterance": "which country had the highest total amount of medals?",
+      "id": "nt-13853"
+    }
+  ],
+  "metadata": {
+    "title": "2012 Summer Paralympics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=497457&oldid=600767784",
+    "tableIndex": 4,
+    "hashcode": "4dbfc63c48b72bd0b57c2c0bf093975355cf96c3",
+    "id": 497457,
+    "revision": 600767784
+  }
+}

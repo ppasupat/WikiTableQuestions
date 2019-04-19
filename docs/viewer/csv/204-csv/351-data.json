@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many spanish champions have there been?",
+      "id": "nt-258"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "of all the countries that have them, which country has the least champions",
+      "id": "nt-778"
+    },
+    {
+      "targetValue": "Sébastien Lareau",
+      "utterance": "who is the only canadian in the tournaments?",
+      "id": "nt-1313"
+    },
+    {
+      "targetValue": "7 November",
+      "utterance": "what is the first week of the tournament?",
+      "id": "nt-3618"
+    },
+    {
+      "targetValue": "Pete Sampras",
+      "utterance": "who was the first american to become a champion?",
+      "id": "nt-8566"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of americans in the tournaments?",
+      "id": "nt-10598"
+    }
+  ],
+  "metadata": {
+    "title": "1994 ATP Tour",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14811640&oldid=602241544",
+    "tableIndex": 11,
+    "hashcode": "170bd39b4a84b41d467428a9506cff3f3e1f92e3",
+    "id": 14811640,
+    "revision": 602241544
+  }
+}

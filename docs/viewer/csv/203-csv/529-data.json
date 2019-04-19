@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Jeff Gordon",
+      "utterance": "who got the most bonus points?",
+      "id": "nt-1040"
+    },
+    {
+      "targetValue": "$251,736",
+      "utterance": "what was jimmie johnson's winnings?",
+      "id": "nt-2577"
+    },
+    {
+      "targetValue": "Chevrolet",
+      "utterance": "which make had the most consecutive finishes at the aarons 499?",
+      "id": "nt-2680"
+    },
+    {
+      "targetValue": "Paul Menard *",
+      "utterance": "what driver earned the least amount of winnings?",
+      "id": "nt-2717"
+    },
+    {
+      "targetValue": "Chevrolet",
+      "utterance": "what was the make of both jeff gordon's and jimmie johnson's race car?",
+      "id": "nt-4953"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many drivers placed below tony stewart?",
+      "id": "nt-7986"
+    },
+    {
+      "targetValue": "Dodge",
+      "utterance": "what make did kurt busch drive?",
+      "id": "nt-8536"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "how many drivers earned 5 bonus each in the race?",
+      "id": "nt-8627"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many race car drivers out of the 43 listed drove toyotas?",
+      "id": "nt-10485"
+    },
+    {
+      "targetValue": "Jeff Gordon",
+      "utterance": "who is first in number of winnings on this list?",
+      "id": "nt-11151"
+    },
+    {
+      "targetValue": "23",
+      "utterance": "how many drivers earned no bonus for this race?",
+      "id": "nt-13912"
+    }
+  ],
+  "metadata": {
+    "title": "2007 Aaron's 499",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10781986&oldid=561026617",
+    "tableIndex": 0,
+    "hashcode": "d0ebc3114f823715126a62edda061570561ce435",
+    "id": 10781986,
+    "revision": 561026617
+  }
+}

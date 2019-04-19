@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "2011",
+      "utterance": "what is the other year slovakia played besides 2010?",
+      "id": "nt-1478"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "did they beat canada in more or less than 3 matches?",
+      "id": "nt-1881"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "was the game versus canada later than the game versus belgium?",
+      "id": "nt-7369"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "number of games in the match against dominika cibulkova?",
+      "id": "nt-13693"
+    },
+    {
+      "targetValue": "World Group Playoffs",
+      "utterance": "what was the next game listed after the world group ii rounds?",
+      "id": "nt-13735"
+    }
+  ],
+  "metadata": {
+    "title": "Bojana Jovanovski",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18183850&oldid=602264370",
+    "tableIndex": 11,
+    "hashcode": "98818356b62a13509453e742db079a9ff9a1417c",
+    "id": 18183850,
+    "revision": 602264370
+  }
+}

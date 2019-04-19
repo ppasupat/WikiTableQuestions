@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "in how many consecutive races did he get a 7th place finish?",
+      "id": "nt-1994"
+    },
+    {
+      "targetValue": "2001",
+      "utterance": "in what year did he first race?",
+      "id": "nt-4724"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "what is nico rosberg's total number of wins throughout his career?",
+      "id": "nt-6409"
+    },
+    {
+      "targetValue": "13 years",
+      "utterance": "how long has nico rosberg competed in the formula one series?",
+      "id": "nt-7440"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times was the position listed as 1st?",
+      "id": "nt-9059"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "in how many races did he not place in the top 10?",
+      "id": "nt-9081"
+    },
+    {
+      "targetValue": "8th",
+      "utterance": "what was the highest position achieved in 2003?",
+      "id": "nt-11065"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times was 1st position achieved?",
+      "id": "nt-12431"
+    }
+  ],
+  "metadata": {
+    "title": "Nico Rosberg",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1628331&oldid=602302910",
+    "tableIndex": 0,
+    "hashcode": "9bf6d58da7ae38fc79765ea2d6954bf66be92718",
+    "id": 1628331,
+    "revision": 602302910
+  }
+}

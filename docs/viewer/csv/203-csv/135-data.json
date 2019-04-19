@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Savannah College of Art and Design at Atlanta",
+      "utterance": "what is the last school to be founded in the aac?",
+      "id": "nt-1861"
+    },
+    {
+      "targetValue": "Union College",
+      "utterance": "what is the only conference school located in kentucky?",
+      "id": "nt-2266"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many institutions have at least 1000 listed for enrollment?",
+      "id": "nt-2780"
+    },
+    {
+      "targetValue": "Savannah College of Art and Design at Atlanta",
+      "utterance": "which institution began with the most enrollment?",
+      "id": "nt-3695"
+    },
+    {
+      "targetValue": "Savannah College of Art and Design at Atlanta",
+      "utterance": "which aac school has the most students?",
+      "id": "nt-7177"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many conference schools were founded before 1900?",
+      "id": "nt-7874"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many institutions were founded before 1950?",
+      "id": "nt-9033"
+    },
+    {
+      "targetValue": "Montreat College",
+      "utterance": "which conference school was founded earlier: bryan college or montreat college?",
+      "id": "nt-9990"
+    },
+    {
+      "targetValue": "Kentucky",
+      "utterance": "is union college located in tennesse or kentucky?",
+      "id": "nt-10771"
+    }
+  ],
+  "metadata": {
+    "title": "Appalachian Athletic Conference",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3472832&oldid=600453477",
+    "tableIndex": 1,
+    "hashcode": "16db9fdb7397efed2a1842e804842c28bff6dc7c",
+    "id": 3472832,
+    "revision": 600453477
+  }
+}

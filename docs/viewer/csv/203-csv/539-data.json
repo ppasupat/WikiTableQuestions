@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "17",
+      "utterance": "how many 110 m hurdles did china compete in?",
+      "id": "nt-1172"
+    },
+    {
+      "targetValue": "110 m hurdles",
+      "utterance": "what distance hurdles was run the most?",
+      "id": "nt-3810"
+    },
+    {
+      "targetValue": "Asian Championships",
+      "utterance": "other than asian junior championships, what other time did they place 1st?",
+      "id": "nt-6836"
+    },
+    {
+      "targetValue": "Asian Junior Championships",
+      "utterance": "which competition was shi dongpeng in before the world junior championships?",
+      "id": "nt-9957"
+    }
+  ],
+  "metadata": {
+    "title": "Shi Dongpeng",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8641173&oldid=575759418",
+    "tableIndex": 0,
+    "hashcode": "f8a60f85084a640908548da8e0373da28374a206",
+    "id": 8641173,
+    "revision": 575759418
+  }
+}

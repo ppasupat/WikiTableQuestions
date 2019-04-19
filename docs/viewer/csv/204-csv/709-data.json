@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "yes",
+      "utterance": "was opera dom sebastien of opera la favorite published in 1844?",
+      "id": "nt-3111"
+    },
+    {
+      "targetValue": "1833",
+      "utterance": "in what year was the first original work published?",
+      "id": "nt-3156"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many total original works have been published?",
+      "id": "nt-4236"
+    },
+    {
+      "targetValue": "Duettino",
+      "utterance": "name an opera that does not have a known date.",
+      "id": "nt-5954"
+    },
+    {
+      "targetValue": "Lucrezia Borgia",
+      "utterance": "which was earlier, lucia di lammermoor or lucrezia borgia?",
+      "id": "nt-8063"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many were lost?",
+      "id": "nt-8509"
+    },
+    {
+      "targetValue": "Opera Lucia di Lammermoor (1835)",
+      "utterance": "which original work from gaetano donizetti did liszt adapt after adapting opera lucrezia borgia?",
+      "id": "nt-9349"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many total works did liszt adapt from gaetano donizetti?",
+      "id": "nt-12267"
+    },
+    {
+      "targetValue": "piano",
+      "utterance": "what was the only force liszt used to adapt gaetano donizetti's work?",
+      "id": "nt-12635"
+    },
+    {
+      "targetValue": "piano",
+      "utterance": "which is the only forces in the chart",
+      "id": "nt-12847"
+    }
+  ],
+  "metadata": {
+    "title": "Franz Liszt's treatments of the works of other composers",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36547309&oldid=593871621",
+    "tableIndex": 29,
+    "hashcode": "2954035024463722d70a22223a2b5e2f16db1004",
+    "id": 36547309,
+    "revision": 593871621
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many did alain prost have the fastest lap?",
+      "id": "nt-963"
+    },
+    {
+      "targetValue": "Ayrton Senna",
+      "utterance": "prost won the drivers title, who was his teammate?",
+      "id": "nt-1085"
+    },
+    {
+      "targetValue": "Ayrton Senna",
+      "utterance": "who had the fastest lap at the german grand prix?",
+      "id": "nt-6927"
+    },
+    {
+      "targetValue": "Japanese Grand Prix",
+      "utterance": "what was the only grand prix to be won by benneton-ford?",
+      "id": "nt-7807"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many times was ayrton senna in pole position?",
+      "id": "nt-9127"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many races occurred before alain prost won a pole position?",
+      "id": "nt-10428"
+    },
+    {
+      "targetValue": "Brazilian Grand Prix",
+      "utterance": "what grand prix was before the san marino grand prix?",
+      "id": "nt-13891"
+    }
+  ],
+  "metadata": {
+    "title": "1989 Formula One season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1137718&oldid=601524759",
+    "tableIndex": 1,
+    "hashcode": "b9e8ffa33dc8ef00ed6566e235abf40ed628b6c1",
+    "id": 1137718,
+    "revision": 601524759
+  }
+}

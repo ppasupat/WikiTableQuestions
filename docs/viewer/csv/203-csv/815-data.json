@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "Gordon Dahlgren",
+      "utterance": "what players was drafted after al guepe?",
+      "id": "nt-477"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many total players were selected in round nine?",
+      "id": "nt-4644"
+    },
+    {
+      "targetValue": "Paul Fanning",
+      "utterance": "who was the only player from kansas state?",
+      "id": "nt-5932"
+    },
+    {
+      "targetValue": [
+        "End",
+        "Tackle"
+      ],
+      "utterance": "which position had the least number of players in round nine?",
+      "id": "nt-7659"
+    },
+    {
+      "targetValue": "Ed Nowogrowski",
+      "utterance": "who was the pick chosen after paul fanning?",
+      "id": "nt-8296"
+    },
+    {
+      "targetValue": "Ray Johnson",
+      "utterance": "who was the last player selected in round nine?",
+      "id": "nt-8665"
+    },
+    {
+      "targetValue": "Chicago Bears",
+      "utterance": "which other team besides the new york giants drafted an end in round nine?",
+      "id": "nt-8930"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many guards were picked?",
+      "id": "nt-9150"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many players selected in round nine were guards?",
+      "id": "nt-11433"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the number of guards picked in the ninth round of the 1937 nfl draft?",
+      "id": "nt-13618"
+    },
+    {
+      "targetValue": "Matt Patanelli",
+      "utterance": "dwight scheyer was the player drafter previous to who?",
+      "id": "nt-14066"
+    }
+  ],
+  "metadata": {
+    "title": "1937 NFL Draft",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6306119&oldid=593068290",
+    "tableIndex": 8,
+    "hashcode": "78df13585e40fc12672b83e911cd157a37768d1d",
+    "id": 6306119,
+    "revision": 593068290
+  }
+}

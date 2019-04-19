@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "how many games did this team win this season?",
+      "id": "nt-2496"
+    },
+    {
+      "targetValue": "Denver Broncos",
+      "utterance": "which opponent was the first one they won against?",
+      "id": "nt-3884"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "in how many games was the opponent the green bay packers?",
+      "id": "nt-3926"
+    },
+    {
+      "targetValue": "November 26, 1978",
+      "utterance": "which game is the only one where it went into overtime?",
+      "id": "nt-4954"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times did they play an opponent in november?",
+      "id": "nt-5848"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many wins were before their win on october 26?",
+      "id": "nt-7567"
+    },
+    {
+      "targetValue": "week 1",
+      "utterance": "which was a higher scoring game, week 1 or week 12?",
+      "id": "nt-7926"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the number of games played against the buccaneers this season?",
+      "id": "nt-9830"
+    },
+    {
+      "targetValue": "at Oakland Raiders",
+      "utterance": "which team was the last team that this team faced in the regular season?",
+      "id": "nt-11659"
+    },
+    {
+      "targetValue": "Philadelphia Eagles",
+      "utterance": "who was the opponent in the least attended game?",
+      "id": "nt-13122"
+    },
+    {
+      "targetValue": "at Green Bay Packers",
+      "utterance": "who did this team face in the only game that ended in a tie this season?",
+      "id": "nt-13729"
+    }
+  ],
+  "metadata": {
+    "title": "1978 Minnesota Vikings season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10361637&oldid=588693012",
+    "tableIndex": 1,
+    "hashcode": "8f2d9c4226a76f005e8728c63986f91b1aeeaaee",
+    "id": 10361637,
+    "revision": 588693012
+  }
+}

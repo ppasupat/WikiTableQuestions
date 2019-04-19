@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "5/32",
+      "utterance": "what is the next whitworth size (in) below 1/8?",
+      "id": "nt-560"
+    },
+    {
+      "targetValue": "0.1162",
+      "utterance": "what core diameter (in) comes after 0.0930?",
+      "id": "nt-837"
+    },
+    {
+      "targetValue": "3/16",
+      "utterance": "does any whitworth size have the same core diameter as the number drill 26?",
+      "id": "nt-1360"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "how many more threads per inch does the 1/16th whitworth size have over the 1/8th whitworth size?",
+      "id": "nt-3289"
+    },
+    {
+      "targetValue": "60",
+      "utterance": "what is the top amount of threads per inch?",
+      "id": "nt-3682"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many threads per inch does a 9/16 have?",
+      "id": "nt-8009"
+    },
+    {
+      "targetValue": "0.1083",
+      "utterance": "what is the total of the first two core diameters?",
+      "id": "nt-8207"
+    },
+    {
+      "targetValue": "0.0930",
+      "utterance": "what is the core diameter of the first 1/8 whitworth size (in)?",
+      "id": "nt-8590"
+    },
+    {
+      "targetValue": "1 3/4",
+      "utterance": "which whitworth size is the only one with 5 threads per inch?",
+      "id": "nt-10162"
+    },
+    {
+      "targetValue": "7/32",
+      "utterance": "which whitworth size has the same number of threads per inch as 3/16?",
+      "id": "nt-10411"
+    },
+    {
+      "targetValue": "2.180",
+      "utterance": "what is the core diameter of the last whitworth thread size?",
+      "id": "nt-12301"
+    },
+    {
+      "targetValue": "0.0411",
+      "utterance": "what is the least core diameter (in)?",
+      "id": "nt-12461"
+    }
+  ],
+  "metadata": {
+    "title": "British Standard Whitworth",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2349541&oldid=599227502",
+    "tableIndex": 0,
+    "hashcode": "b8d9d9fbd193ea49866862e6173854daf7f49e9b",
+    "id": 2349541,
+    "revision": 599227502
+  }
+}

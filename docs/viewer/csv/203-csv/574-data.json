@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "See You Later (Do Svidaniya)",
+      "utterance": "what is the last track on the album smile! ?",
+      "id": "nt-455"
+    },
+    {
+      "targetValue": "Vitas",
+      "utterance": "which lyricist has the largest amount of tracks?",
+      "id": "nt-1127"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many tracks are on smile! ?",
+      "id": "nt-1985"
+    },
+    {
+      "targetValue": "Wax Figures",
+      "utterance": "the russian title of track 03 is &#1042;&#1086;&#1089;&#1082;&#1086;&#1074;&#1099;&#1077; &#1092;&#1080;&#1075;&#1091;&#1088;&#1099;, but what is the the english title?",
+      "id": "nt-5357"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many songs are not performed by vitas on the album smile! ?",
+      "id": "nt-8231"
+    },
+    {
+      "targetValue": "Smile!",
+      "utterance": "what is the song title of the first track on the album smile! ?",
+      "id": "nt-8826"
+    },
+    {
+      "targetValue": "Chrysanthemums Have Faded Out",
+      "utterance": "what it the english title of the only song done with lyrics by v. shumsky?",
+      "id": "nt-9364"
+    }
+  ],
+  "metadata": {
+    "title": "Smile! (Vitas album)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7796288&oldid=586441445",
+    "tableIndex": 0,
+    "hashcode": "c66c1bcc38c582e9e3ef2302b424a78bb39408d2",
+    "id": 7796288,
+    "revision": 586441445
+  }
+}

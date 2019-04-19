@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "12",
+      "utterance": "indicate how many of the buildings in oakland which stand at least 200 ft tall have more than 20 floors.",
+      "id": "nt-1145"
+    },
+    {
+      "targetValue": "19 ft",
+      "utterance": "what is the difference in height between the tallest building constructed in the 1960s and the tallest building constructed in the 1980's?",
+      "id": "nt-3017"
+    },
+    {
+      "targetValue": "28",
+      "utterance": "how many total floors is the ordway building?",
+      "id": "nt-3388"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many of the tallest buildings in oakland were built before 1950?",
+      "id": "nt-4882"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "what is the number of buildings taller than 200 feet?",
+      "id": "nt-5825"
+    },
+    {
+      "targetValue": "Oakland City Hall",
+      "utterance": "of the ten tallest buildings in oakland, which was not built in the last 75 years?",
+      "id": "nt-7200"
+    },
+    {
+      "targetValue": "Central Building",
+      "utterance": "of the 21 tallest buildings in oakland, which other building was constructed in the same decade as the financial center building?",
+      "id": "nt-10702"
+    },
+    {
+      "targetValue": "Kaiser Center",
+      "utterance": "after the ordway building which is the tallest?",
+      "id": "nt-13500"
+    }
+  ],
+  "metadata": {
+    "title": "List of tallest buildings in Oakland, California",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13044131&oldid=593955035",
+    "tableIndex": 0,
+    "hashcode": "a314e29a8b7a119da8d03665733b33a05691c6ad",
+    "id": 13044131,
+    "revision": 593955035
+  }
+}

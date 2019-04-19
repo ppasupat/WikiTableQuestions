@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "how many v8 engines competed in the 1982 british formula one season?",
+      "id": "nt-1751"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many entrants have names that contain the word \"team\"?",
+      "id": "nt-4154"
+    },
+    {
+      "targetValue": "John Jordan",
+      "utterance": "name an entrant with no cosworth engines.",
+      "id": "nt-4420"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many drivers use v8 engines?",
+      "id": "nt-5862"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the total number of drivers listed?",
+      "id": "nt-5918"
+    },
+    {
+      "targetValue": "John Jordan",
+      "utterance": "who is the only driver to use a v12 engine?",
+      "id": "nt-7588"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "are there any other engines listed besides cosworth or brm?",
+      "id": "nt-7959"
+    },
+    {
+      "targetValue": "David Williams",
+      "utterance": "which is the only driver whose vehicle used a brm 202 v12 engine?",
+      "id": "nt-12514"
+    },
+    {
+      "targetValue": "FW07",
+      "utterance": "what is the last chassis listed?",
+      "id": "nt-12666"
+    }
+  ],
+  "metadata": {
+    "title": "1982 British Formula One season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10663439&oldid=544768250",
+    "tableIndex": 0,
+    "hashcode": "695fd2676f7a012abd8c9f07297ba3255b094cd2",
+    "id": 10663439,
+    "revision": 544768250
+  }
+}

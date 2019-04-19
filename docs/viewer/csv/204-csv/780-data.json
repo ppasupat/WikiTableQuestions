@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "9",
+      "utterance": "what was the total amount of competitions participated in?",
+      "id": "nt-1155"
+    },
+    {
+      "targetValue": "European Championships",
+      "utterance": "in what competition did this competitor place the same as he did at the 1984 olympic games?",
+      "id": "nt-1814"
+    },
+    {
+      "targetValue": "1982",
+      "utterance": "other than 1984, what year did he place first?",
+      "id": "nt-1930"
+    },
+    {
+      "targetValue": "6th",
+      "utterance": "the 1990 european championships and the 1988 olympic games both resulted in what position for this competitor?",
+      "id": "nt-6058"
+    },
+    {
+      "targetValue": "Los Angeles, United States",
+      "utterance": "what venue was the first olympic games held in 1984?",
+      "id": "nt-6539"
+    },
+    {
+      "targetValue": "1992 Olympic Games",
+      "utterance": "which competition was there not a position?",
+      "id": "nt-8104"
+    },
+    {
+      "targetValue": "4th",
+      "utterance": "which position was held the most number of times?",
+      "id": "nt-8418"
+    },
+    {
+      "targetValue": "1992",
+      "utterance": "what year was his last race?",
+      "id": "nt-8730"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "in how many games did this competitor place 5th or better?",
+      "id": "nt-9213"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times did he compete in the european championships?",
+      "id": "nt-11150"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "tell me the number of times he placed 4th.",
+      "id": "nt-11380"
+    },
+    {
+      "targetValue": ".04",
+      "utterance": "what is the difference between notes in 1990 and 1989?",
+      "id": "nt-13975"
+    }
+  ],
+  "metadata": {
+    "title": "Dietmar Mögenburg",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4579137&oldid=560907974",
+    "tableIndex": 0,
+    "hashcode": "2667d6eb526043f44daf5c182edae0af0d6fec16",
+    "id": 4579137,
+    "revision": 560907974
+  }
+}

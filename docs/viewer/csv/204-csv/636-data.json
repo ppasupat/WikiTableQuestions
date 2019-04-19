@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "what tier was this team placed into next after their 2011-2012 season?",
+      "id": "nt-3068"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "which tier appears the most?",
+      "id": "nt-3220"
+    },
+    {
+      "targetValue": "Primera Nacional",
+      "utterance": "which division comes after división de honor?",
+      "id": "nt-4305"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many years did this team become league champion?",
+      "id": "nt-7356"
+    },
+    {
+      "targetValue": "2012-13",
+      "utterance": "what was the last season they finished first?",
+      "id": "nt-7512"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many seasons did someone get 3rd place?",
+      "id": "nt-11215"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "tell me the number of times they were in the division of honor.",
+      "id": "nt-11918"
+    },
+    {
+      "targetValue": "2007-08",
+      "utterance": "which season was more successful, 2007-2008 or 2005-2006?",
+      "id": "nt-12997"
+    },
+    {
+      "targetValue": "Division de Honor",
+      "utterance": "which division played most: division de honor or primera nacional?",
+      "id": "nt-13519"
+    },
+    {
+      "targetValue": "2011-12",
+      "utterance": "what was the least successful season?",
+      "id": "nt-13601"
+    }
+  ],
+  "metadata": {
+    "title": "CBF Elda",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=31778853&oldid=576745814",
+    "tableIndex": 1,
+    "hashcode": "072c9978f28fb3a912aa3c2aed02f831ee16b0e0",
+    "id": 31778853,
+    "revision": 576745814
+  }
+}

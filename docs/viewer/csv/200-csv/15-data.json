@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "Andrew J. Lansing III",
+      "utterance": "what was the name of paul reubens's character in the popular t.v. show \"murphy brown?\"",
+      "id": "nt-4333"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many years did pee-wee's playhouse run on television?",
+      "id": "nt-7315"
+    }
+  ],
+  "metadata": {
+    "title": "Paul Reubens",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=23916&oldid=598113351",
+    "tableIndex": 1,
+    "hashcode": "0876770abb243bb1307d115dc53949bb5aee720c",
+    "id": 23916,
+    "revision": 598113351
+  }
+}

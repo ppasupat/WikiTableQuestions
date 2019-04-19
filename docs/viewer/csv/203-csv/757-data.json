@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Golmaal 3",
+      "utterance": "what show/film were both the 2011 filmfare awards and the 2011 screen awards on?",
+      "id": "nt-2318"
+    },
+    {
+      "targetValue": "Jaane Tu Ya Jaane Na",
+      "utterance": "which film/show is listed the least on this chart?",
+      "id": "nt-4694"
+    },
+    {
+      "targetValue": "Sarabhai vs Sarabhai",
+      "utterance": "which show was the winningest?",
+      "id": "nt-5364"
+    },
+    {
+      "targetValue": "Golmaal 3",
+      "utterance": "which film/show had the most award ceremonies?",
+      "id": "nt-6685"
+    },
+    {
+      "targetValue": "Jaane Tu Ya Jaane Na",
+      "utterance": "which film/show only had two award ceremonies?",
+      "id": "nt-8733"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what were the total number of times filmfare awards can be seen listed on this chart as the award ceremony?",
+      "id": "nt-11627"
+    },
+    {
+      "targetValue": "2006",
+      "utterance": "in which year did she have the least amount of awards or nominations?",
+      "id": "nt-13061"
+    },
+    {
+      "targetValue": "Indian Television Academy Awards",
+      "utterance": "what was the last award ceremony on the film/show sarabhai vs sarabhi?",
+      "id": "nt-13909"
+    }
+  ],
+  "metadata": {
+    "title": "Ratna Pathak",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10608307&oldid=600508503",
+    "tableIndex": 2,
+    "hashcode": "7249b4b0dcfac5e91973ee344783092e4ff5bf4e",
+    "id": 10608307,
+    "revision": 600508503
+  }
+}

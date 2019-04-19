@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "1974",
+      "utterance": "which year is the year with the most titles?",
+      "id": "nt-2214"
+    },
+    {
+      "targetValue": "Mesa Trouble",
+      "utterance": "what was the last title that sid marcus directed?",
+      "id": "nt-2582"
+    },
+    {
+      "targetValue": "Gerry Chiniquy",
+      "utterance": "which person has directed most of the titles?",
+      "id": "nt-2767"
+    },
+    {
+      "targetValue": "Gerry Chiniquy",
+      "utterance": "who directed the most cartoons?",
+      "id": "nt-3530"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many titles did bob balsar direct?",
+      "id": "nt-5658"
+    }
+  ],
+  "metadata": {
+    "title": "Hoot Kloot",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=395657&oldid=590103496",
+    "tableIndex": 0,
+    "hashcode": "0df6cdaefbb31e87d7f467b8eb8e02dbd9539bbb",
+    "id": 395657,
+    "revision": 590103496
+  }
+}

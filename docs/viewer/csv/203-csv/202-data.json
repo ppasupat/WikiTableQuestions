@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "if a man has a phone on qb's network, how many different mobile prefixes could his phone have?",
+      "id": "nt-1301"
+    },
+    {
+      "targetValue": [
+        "Mobitel",
+        "Excell",
+        "Metfone",
+        "qb"
+      ],
+      "utterance": "there are no landline prefixes for what 4 companies?",
+      "id": "nt-2584"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what is the difference in the number of mobile prefixes between the company with the most and the company with the least?",
+      "id": "nt-4545"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many consecutive companies had no notes listed?",
+      "id": "nt-4797"
+    },
+    {
+      "targetValue": "031",
+      "utterance": "what is the first mobile prefix for sotelco ltd.",
+      "id": "nt-6673"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many mobile prefixes are assigned for mobitel?",
+      "id": "nt-10002"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many mobile prefixes did the smart company have?",
+      "id": "nt-10385"
+    },
+    {
+      "targetValue": "Mobitel",
+      "utterance": "whic network is the only one also known as \"cellcard\"?",
+      "id": "nt-11617"
+    },
+    {
+      "targetValue": "Excell",
+      "utterance": "which network comes after cootel in alphabetical order?",
+      "id": "nt-12098"
+    }
+  ],
+  "metadata": {
+    "title": "Telecommunications in Cambodia",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5433&oldid=592213283",
+    "tableIndex": 0,
+    "hashcode": "0ed6a48644d8946808b8563b6d3e4f2fbb9da49d",
+    "id": 5433,
+    "revision": 592213283
+  }
+}

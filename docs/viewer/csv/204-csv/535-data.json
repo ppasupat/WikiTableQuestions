@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many riders scored at least 20 points?",
+      "id": "nt-2222"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what is the total number whose manufacturer is honda?",
+      "id": "nt-6588"
+    },
+    {
+      "targetValue": "Manuel Poggiali",
+      "utterance": "which rider is on top in points",
+      "id": "nt-7535"
+    },
+    {
+      "targetValue": "Masao Azuma",
+      "utterance": "of those in the top 15 positions, who earned the least number of points?",
+      "id": "nt-8345"
+    },
+    {
+      "targetValue": "Youichi Ui",
+      "utterance": "which is the only rider with number 6 grid on the chart",
+      "id": "nt-8906"
+    },
+    {
+      "targetValue": "Stefano Bianco",
+      "utterance": "what is next after joan o.",
+      "id": "nt-11265"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "how many riders had no points?",
+      "id": "nt-12133"
+    }
+  ],
+  "metadata": {
+    "title": "2002 Catalan motorcycle Grand Prix",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17038035&oldid=573521536",
+    "tableIndex": 2,
+    "hashcode": "f248164c43248932d95283ebed6db9adf1fb4ce8",
+    "id": 17038035,
+    "revision": 573521536
+  }
+}

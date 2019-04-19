@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many cities have a land area of 92 km^2?",
+      "id": "nt-3765"
+    },
+    {
+      "targetValue": "Pleasant",
+      "utterance": "what townships have the same water area as lake township?",
+      "id": "nt-5615"
+    },
+    {
+      "targetValue": "Emma",
+      "utterance": "which township has the most residents?",
+      "id": "nt-6505"
+    },
+    {
+      "targetValue": "Emma",
+      "utterance": "which township has the highest average population density",
+      "id": "nt-7334"
+    },
+    {
+      "targetValue": "Lake",
+      "utterance": "what township has the lowest population?",
+      "id": "nt-7948"
+    },
+    {
+      "targetValue": "24",
+      "utterance": "what is the difference in land area between alta and newton?",
+      "id": "nt-10675"
+    },
+    {
+      "targetValue": "Emma",
+      "utterance": "what city has the largest population?",
+      "id": "nt-10755"
+    },
+    {
+      "targetValue": "Emma",
+      "utterance": "what township has the highest population?",
+      "id": "nt-12231"
+    }
+  ],
+  "metadata": {
+    "title": "Harvey County, Kansas",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=95710&oldid=598045154",
+    "tableIndex": 0,
+    "hashcode": "221181cdf58bf7a89bd22ba8bdb44ce871c326a5",
+    "id": 95710,
+    "revision": 598045154
+  }
+}

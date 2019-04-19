@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Columbia",
+      "utterance": "where was the only site that both team ever tied the game in?",
+      "id": "nt-198"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many times did missouri win after 2000?",
+      "id": "nt-754"
+    },
+    {
+      "targetValue": "1960",
+      "utterance": "when was the score higher for the winning team, 1959 or 1960?",
+      "id": "nt-1213"
+    },
+    {
+      "targetValue": "Missouri",
+      "utterance": "between missouri and iowa state who won the most games?",
+      "id": "nt-4412"
+    },
+    {
+      "targetValue": "30",
+      "utterance": "what was the point difference between the two teams in 1975?",
+      "id": "nt-6465"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times did iowa state win in the 21st century?",
+      "id": "nt-8221"
+    }
+  ],
+  "metadata": {
+    "title": "Iowa State–Missouri football rivalry",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18681760&oldid=579706423",
+    "tableIndex": 1,
+    "hashcode": "f81a4bc99df8e846da77d271a8de7ac8e1d33220",
+    "id": 18681760,
+    "revision": 579706423
+  }
+}

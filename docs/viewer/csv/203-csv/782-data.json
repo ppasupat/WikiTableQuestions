@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Maggie Roswell",
+      "utterance": "who was the first person to be nominated but not win?",
+      "id": "nt-576"
+    },
+    {
+      "targetValue": "2006",
+      "utterance": "what is the last year in which kelsey grammer won an award for outstanding voice performance for a role on the simpsons?",
+      "id": "nt-1639"
+    },
+    {
+      "targetValue": "1992",
+      "utterance": "what year scored the most nominations?",
+      "id": "nt-2844"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "number of nominations in 2009",
+      "id": "nt-3738"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of wins for hank azaria?",
+      "id": "nt-3927"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many actors were nominated but didn't win?",
+      "id": "nt-5067"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what was the number of nominations in the 1990s?",
+      "id": "nt-5151"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the number of awards received by nancy cartwright for her voice work on the simpsons between 1992 and 2011.",
+      "id": "nt-5201"
+    },
+    {
+      "targetValue": "2009",
+      "utterance": "in 2010, actors dan castellaneta and hank azaria both received primetime emmy awards for their outstanding vocie-over performances on the simpsons cartoon television show; in what previous year during the same decade did the same two actors both receive the same type of primetime emmy award for their work on that television show during the same year?",
+      "id": "nt-6492"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many annie awards were won before 2009?",
+      "id": "nt-6972"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many major voice over performance awards in total did actor dan castellaneta recieve between 1992 and 2011 (inclusive) for his voice-over performances portraying characters on the simpsons cartoon televisions show?",
+      "id": "nt-11801"
+    }
+  ],
+  "metadata": {
+    "title": "List of The Simpsons cast members",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2956866&oldid=597790199",
+    "tableIndex": 4,
+    "hashcode": "ac9974a9076bba7dab4ef78ac6b793265fbdea61",
+    "id": 2956866,
+    "revision": 597790199
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Runner-up",
+      "utterance": "what was the outcome after the october 8 game in phoenix?",
+      "id": "nt-361"
+    },
+    {
+      "targetValue": "Oklahoma City",
+      "utterance": "which city did she play her last game?",
+      "id": "nt-3319"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "did anne smith win more than five doubles finals on clay?",
+      "id": "nt-3410"
+    },
+    {
+      "targetValue": "Brighton",
+      "utterance": "in what city was the outcome \"winner\" the most?",
+      "id": "nt-8038"
+    },
+    {
+      "targetValue": "Hard",
+      "utterance": "the match on november 12, 1978 was on a hard surface. what was the surface of the previous match?",
+      "id": "nt-9179"
+    },
+    {
+      "targetValue": "Oklahoma City",
+      "utterance": "where was the only tournament in 1991 held?",
+      "id": "nt-10076"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "tell me the number of grass courts.",
+      "id": "nt-11118"
+    },
+    {
+      "targetValue": "Kathy Jordan",
+      "utterance": "which parter did she have the most?",
+      "id": "nt-11765"
+    },
+    {
+      "targetValue": "Los Angeles",
+      "utterance": "which location had more tournaments, oldsmar or los angeles?",
+      "id": "nt-12781"
+    }
+  ],
+  "metadata": {
+    "title": "Anne Smith",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5503894&oldid=601406224",
+    "tableIndex": 6,
+    "hashcode": "9af339f61ceb1355f03e9a80bfd66366ea7d8735",
+    "id": 5503894,
+    "revision": 601406224
+  }
+}

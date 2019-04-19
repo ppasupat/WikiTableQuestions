@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "The Sound Of Trees",
+      "utterance": "which album released by the band schnell fenster produced the most singles appearing on the australian peak chart?",
+      "id": "nt-20"
+    },
+    {
+      "targetValue": "\"Whisper\"",
+      "utterance": "which single by schnell fenster reached the band's highest position on the new zealand peak chart?",
+      "id": "nt-8749"
+    }
+  ],
+  "metadata": {
+    "title": "Schnell Fenster",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=904523&oldid=575942415",
+    "tableIndex": 1,
+    "hashcode": "d64bcca29dcacce212bde5b544a40f2054d673b2",
+    "id": 904523,
+    "revision": 575942415
+  }
+}

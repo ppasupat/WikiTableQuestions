@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "International GT Open",
+      "utterance": "which race was last in 2008",
+      "id": "nt-2662"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "total number of wins from 2011-2014?",
+      "id": "nt-3827"
+    },
+    {
+      "targetValue": "97",
+      "utterance": "how many points total did pastor maldonado earn in races in 2008?",
+      "id": "nt-5956"
+    },
+    {
+      "targetValue": "2009",
+      "utterance": "did pastor maldonado compete in more races in 2009 or in 2006?",
+      "id": "nt-6549"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "total races in 2003 season",
+      "id": "nt-10685"
+    },
+    {
+      "targetValue": "Cram Competition",
+      "utterance": "with which team has pastor maldonado competed with the most?",
+      "id": "nt-12491"
+    }
+  ],
+  "metadata": {
+    "title": "Pastor Maldonado",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9255765&oldid=602073769",
+    "tableIndex": 0,
+    "hashcode": "580b3a38098e8ddda7739c27d737d631e76fb01b",
+    "id": 9255765,
+    "revision": 602073769
+  }
+}

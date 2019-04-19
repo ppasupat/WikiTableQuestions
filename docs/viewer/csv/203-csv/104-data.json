@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Kim Yu-na",
+      "utterance": "which athlete was from south korea after the year 2010?",
+      "id": "nt-14"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many total medals has the united states won in women's figure skating?",
+      "id": "nt-284"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many silver medals did evgeni plushenko get?",
+      "id": "nt-3169"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the greatest number of gold medals won by a single athlete?",
+      "id": "nt-3261"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many more silver medals did gillis grafström have compared to sonja henie?",
+      "id": "nt-7018"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many medals have sweden and norway won combined?",
+      "id": "nt-8573"
+    },
+    {
+      "targetValue": "Sweden",
+      "utterance": "which nation was the first to win three gold medals for olympic figure skating?",
+      "id": "nt-13431"
+    }
+  ],
+  "metadata": {
+    "title": "List of Olympic medalists in figure skating",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4520234&oldid=600897923",
+    "tableIndex": 6,
+    "hashcode": "b739b5b34551f6722d72b0e160d096ebabdcf1e3",
+    "id": 4520234,
+    "revision": 600897923
+  }
+}

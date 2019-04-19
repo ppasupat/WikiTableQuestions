@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Draco",
+      "utterance": "what is the last constellation featured on this table?",
+      "id": "nt-33"
+    },
+    {
+      "targetValue": "M66",
+      "utterance": "what designation comes after the m65 designation?",
+      "id": "nt-3417"
+    },
+    {
+      "targetValue": "Sunflower Galaxy",
+      "utterance": "what is the long name for m63?",
+      "id": "nt-5796"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of galaxies in the pisces constellation?",
+      "id": "nt-6402"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many listed spiral galaxies are located in the constellation virgo?",
+      "id": "nt-9625"
+    },
+    {
+      "targetValue": "higher",
+      "utterance": "does m90 have a higher or lower apparent magnitude than m63?",
+      "id": "nt-10182"
+    },
+    {
+      "targetValue": "Draco",
+      "utterance": "what constellation appears last on this table?",
+      "id": "nt-10789"
+    },
+    {
+      "targetValue": "1.94",
+      "utterance": "what is the difference in apparent magnitude between m31 and m33?",
+      "id": "nt-13252"
+    }
+  ],
+  "metadata": {
+    "title": "List of spiral galaxies",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8633658&oldid=601665214",
+    "tableIndex": 0,
+    "hashcode": "f190128b02e506c05dc5ecfb297812864c7bc920",
+    "id": 8633658,
+    "revision": 601665214
+  }
+}

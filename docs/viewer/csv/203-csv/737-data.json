@@ -1,0 +1,81 @@
+{
+  "examples": [
+    {
+      "targetValue": "Medline",
+      "utterance": "which employer has the largest number of employees?",
+      "id": "nt-586"
+    },
+    {
+      "targetValue": "74",
+      "utterance": "what is the difference between the number of employees at mundelein elementary school district 75 and fremon school district 79?",
+      "id": "nt-1288"
+    },
+    {
+      "targetValue": "211",
+      "utterance": "how many employees does mundelein high school have?",
+      "id": "nt-1505"
+    },
+    {
+      "targetValue": "Medline",
+      "utterance": "which employer has the most employees?",
+      "id": "nt-3583"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "is the number of employees for the village of mundelein more than the mundelien elementary school district 75?",
+      "id": "nt-5016"
+    },
+    {
+      "targetValue": "Washburn Guitars",
+      "utterance": "which employer had the least number of employees?",
+      "id": "nt-7495"
+    },
+    {
+      "targetValue": "1,972",
+      "utterance": "how many employees does the first three employers have combined?",
+      "id": "nt-10349"
+    },
+    {
+      "targetValue": "180",
+      "utterance": "how many employees did the last listed employer have?",
+      "id": "nt-11956"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many employers have at least 300 employees?",
+      "id": "nt-12551"
+    },
+    {
+      "targetValue": "Amcor",
+      "utterance": "which employers had at most 375 employees?",
+      "id": "nt-12556"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many employers have under 300 employees?",
+      "id": "nt-12979"
+    },
+    {
+      "targetValue": [
+        "Medline",
+        "Mundelein Park District",
+        "Amcor"
+      ],
+      "utterance": "which employers have at least 300 employees?",
+      "id": "nt-13717"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many employers listed have less than 250 employees?",
+      "id": "nt-13732"
+    }
+  ],
+  "metadata": {
+    "title": "Mundelein, Illinois",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=111481&oldid=591912029",
+    "tableIndex": 0,
+    "hashcode": "f8d4f7ac67a6ad449e9108cf09f12d9029511989",
+    "id": 111481,
+    "revision": 591912029
+  }
+}

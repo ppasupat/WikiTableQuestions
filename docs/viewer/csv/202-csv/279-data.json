@@ -1,0 +1,39 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Music and Lyrics",
+        "Dan in Real Life",
+        "I Think I Love My Wife"
+      ],
+      "utterance": "what movies was morrison involved with in 2007?",
+      "id": "nt-448"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many movies has morrison acted in after 2010?",
+      "id": "nt-1836"
+    },
+    {
+      "targetValue": "2007",
+      "utterance": "which year had the most matthew j. morrison films released?",
+      "id": "nt-2943"
+    },
+    {
+      "targetValue": [
+        "Dan in Real Life",
+        "2007"
+      ],
+      "utterance": "which movie did matthew j. morrison play a policeman and what year was it released?",
+      "id": "nt-11324"
+    }
+  ],
+  "metadata": {
+    "title": "Matthew Morrison",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2383637&oldid=601637756",
+    "tableIndex": 3,
+    "hashcode": "02078c8e19afb11f4a913763df836f6cf2478581",
+    "id": 2383637,
+    "revision": 601637756
+  }
+}

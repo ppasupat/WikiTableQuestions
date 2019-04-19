@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "France",
+      "utterance": "which country had a release with the same label as germany?",
+      "id": "nt-1374"
+    },
+    {
+      "targetValue": "Germany",
+      "utterance": "name a country that had no bluelight remix released in it?",
+      "id": "nt-3551"
+    },
+    {
+      "targetValue": "7 days",
+      "utterance": "how long after the song was released in france was it released in the united states?",
+      "id": "nt-4148"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "did the cd single come out before the digital ep?",
+      "id": "nt-4193"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "which region appears more on this list, france or united states?",
+      "id": "nt-5471"
+    },
+    {
+      "targetValue": "France",
+      "utterance": "what was the first country to get the radio ad?",
+      "id": "nt-5523"
+    },
+    {
+      "targetValue": "United Kingdom",
+      "utterance": "which country did not have the sony music label?",
+      "id": "nt-8318"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "what the last country to issue a release?",
+      "id": "nt-11795"
+    }
+  ],
+  "metadata": {
+    "title": "Girl on Fire (song)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36933514&oldid=601951347",
+    "tableIndex": 3,
+    "hashcode": "5bdad1e41098a23164fc1f6681a4e37cda4b42d3",
+    "id": 36933514,
+    "revision": 601951347
+  }
+}

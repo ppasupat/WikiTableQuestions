@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "Granada",
+      "utterance": "which was the only tribunal to have more than 40 executions in effigie?",
+      "id": "nt-1325"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the number difference between the total amount of executions in persona vs. executions in effigie?",
+      "id": "nt-4056"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many tribunals penanced at least 100 people?",
+      "id": "nt-4492"
+    },
+    {
+      "targetValue": "Las Palmas",
+      "utterance": "what tribunal had the least number of autos da fe?",
+      "id": "nt-4734"
+    },
+    {
+      "targetValue": "Las Palmas",
+      "utterance": "which tribunal pronounced the least number of sentences between 1701 and 1746?",
+      "id": "nt-6384"
+    },
+    {
+      "targetValue": "Las Palmas",
+      "utterance": "what was the only tribunal to pronounce zero sentences?",
+      "id": "nt-6605"
+    },
+    {
+      "targetValue": "Granada",
+      "utterance": "what tribunal had the most executions in effigie?",
+      "id": "nt-6909"
+    },
+    {
+      "targetValue": "Granada",
+      "utterance": "which tribunal sentenced the largest number of executions?",
+      "id": "nt-7841"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many tribunals had more than 5 executions in persona?",
+      "id": "nt-10025"
+    },
+    {
+      "targetValue": "Granada",
+      "utterance": "which spanish tribunal had 36 executions in persona and 47 executions in effigie during this time period?",
+      "id": "nt-10166"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "does barcelona have more or less penanced than madrid?",
+      "id": "nt-10981"
+    },
+    {
+      "targetValue": "Toledo",
+      "utterance": "during this time period, which spanish tribunal had the most autos da fe?",
+      "id": "nt-12561"
+    },
+    {
+      "targetValue": "Las Palmas",
+      "utterance": "which spanish tribunal was the only one to not have any autos da fe during this time period?",
+      "id": "nt-12928"
+    }
+  ],
+  "metadata": {
+    "title": "Spanish Inquisition",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5980301&oldid=601222728",
+    "tableIndex": 2,
+    "hashcode": "685ed60fe5818f706cb335b200399b8509cf3d97",
+    "id": 5980301,
+    "revision": 601222728
+  }
+}

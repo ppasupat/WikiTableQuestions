@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "KEYZ",
+      "utterance": "what is the first listed news talk information station?",
+      "id": "nt-1466"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many radio stations are under the licensee simmons broadcasting?",
+      "id": "nt-1469"
+    },
+    {
+      "targetValue": "KBFR",
+      "utterance": "what call sign is listed directly before kbmk?",
+      "id": "nt-1963"
+    },
+    {
+      "targetValue": "KABU",
+      "utterance": "which frequency is listed first?",
+      "id": "nt-5640"
+    },
+    {
+      "targetValue": "KABU",
+      "utterance": "what station is on top of the list?",
+      "id": "nt-9153"
+    },
+    {
+      "targetValue": "Bismarck",
+      "utterance": "kbmk and kbyz call signs both have a city of license listed as what city?",
+      "id": "nt-11503"
+    }
+  ],
+  "metadata": {
+    "title": "List of radio stations in North Dakota",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4771346&oldid=601874772",
+    "tableIndex": 0,
+    "hashcode": "0842f121a91f0b82423470fe8dd2755eac2dd687",
+    "id": 4771346,
+    "revision": 601874772
+  }
+}

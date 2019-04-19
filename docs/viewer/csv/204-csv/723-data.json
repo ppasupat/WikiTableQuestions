@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "1990",
+      "utterance": "tell me a year that did not have anything listed in the \"role\" spot.",
+      "id": "nt-682"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "the number of films govinda appeared in during his debut year.",
+      "id": "nt-2154"
+    },
+    {
+      "targetValue": "Halaal Ki Kamai",
+      "utterance": "which film came first, halaal ki kamai or dariya dil?",
+      "id": "nt-5555"
+    },
+    {
+      "targetValue": "1990",
+      "utterance": "tell me the only year with a critically acclaimed role.",
+      "id": "nt-6036"
+    },
+    {
+      "targetValue": "Hum Tum Pe Marte Hain",
+      "utterance": "what is the last film govinda appeared in before the new millenium?",
+      "id": "nt-6203"
+    },
+    {
+      "targetValue": "Six Roles",
+      "utterance": "what is the number of roles that this actor had in the movie hadh kar di aapne?",
+      "id": "nt-6464"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "through the eighties, govinda appeared in at least how many films per year?",
+      "id": "nt-6806"
+    },
+    {
+      "targetValue": "Sadaa Suhagan",
+      "utterance": "which other 1986 film came after love 86?",
+      "id": "nt-8689"
+    },
+    {
+      "targetValue": "Marte Dam Tak",
+      "utterance": "what role did this actor play after he starred in the movie dadagiri?",
+      "id": "nt-9324"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many films were made 1992?",
+      "id": "nt-12484"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many total times is the character named raj?",
+      "id": "nt-13925"
+    }
+  ],
+  "metadata": {
+    "title": "Govinda filmography",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41837917&oldid=601642857",
+    "tableIndex": 1,
+    "hashcode": "55d33d39dfa94c4ed4a61732bfae505f259a683e",
+    "id": 41837917,
+    "revision": 601642857
+  }
+}

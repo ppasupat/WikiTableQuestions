@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "10-13",
+      "utterance": "which is older, 10-13 or 18-21?",
+      "id": "nt-3821"
+    },
+    {
+      "targetValue": "1834",
+      "utterance": "14-17 was published in 1836. when was the previous one published?",
+      "id": "nt-4588"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many pieces were published in the 1830's?",
+      "id": "nt-5196"
+    },
+    {
+      "targetValue": "49",
+      "utterance": "what is the series number of the piece called \"chopin's last composition\"?",
+      "id": "nt-6551"
+    },
+    {
+      "targetValue": "2 years",
+      "utterance": "how long was there between when 1-4 was composed and when it was published?",
+      "id": "nt-7300"
+    },
+    {
+      "targetValue": "1855",
+      "utterance": "what was the top publishing year?",
+      "id": "nt-10690"
+    }
+  ],
+  "metadata": {
+    "title": "Mazurkas (Chopin)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=25326465&oldid=594899671",
+    "tableIndex": 0,
+    "hashcode": "791fabd1db307b49185664843a8144d81cc20bca",
+    "id": 25326465,
+    "revision": 594899671
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "France",
+      "utterance": "which country ranked after austria?",
+      "id": "nt-4058"
+    },
+    {
+      "targetValue": "57 seconds",
+      "utterance": "how much time difference was there between france and the united states",
+      "id": "nt-5345"
+    },
+    {
+      "targetValue": "Germany",
+      "utterance": "which country has the athlete with the most distance?",
+      "id": "nt-6230"
+    },
+    {
+      "targetValue": "Czech Republic",
+      "utterance": "give the country with the next farthest distance from norway",
+      "id": "nt-8065"
+    },
+    {
+      "targetValue": "Estonia",
+      "utterance": "which country's teammates had the same total distances",
+      "id": "nt-9922"
+    }
+  ],
+  "metadata": {
+    "title": "FIS Nordic World Ski Championships 2013 – Team sprint large hill/2 × 7,5 km",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=38680328&oldid=572810943",
+    "tableIndex": 0,
+    "hashcode": "783645d4b62e77776109940bbcde37d7e274ec1c",
+    "id": 38680328,
+    "revision": 572810943
+  }
+}

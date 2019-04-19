@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "1988 Winter Paralympics",
+      "utterance": "which paralymics year had the largest number of medals overall?",
+      "id": "nt-1254"
+    },
+    {
+      "targetValue": "1992",
+      "utterance": "which year did switzerland not win 10 gold metals in the winter paralympics? 1976, 1992, or 1998?",
+      "id": "nt-1773"
+    },
+    {
+      "targetValue": "1994",
+      "utterance": "only year in which switzerland earned 9 silver medals",
+      "id": "nt-1924"
+    },
+    {
+      "targetValue": "1976",
+      "utterance": "which year was their highest ranking?",
+      "id": "nt-2951"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the difference of medals from 1976 and 2010?",
+      "id": "nt-3345"
+    },
+    {
+      "targetValue": "41",
+      "utterance": "how many medals has switzerland won in the gold category?",
+      "id": "nt-4643"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "switzerland won at least 8 bronze metals in how many winter paralympics?",
+      "id": "nt-10479"
+    },
+    {
+      "targetValue": "1976 Winter Paralympics",
+      "utterance": "the 1984 paralympics had a total ranking of 5th, in what other year did the ranking fall above 6th?",
+      "id": "nt-10895"
+    },
+    {
+      "targetValue": "1984 Winter Paralympics",
+      "utterance": "the amount of silver metals won by switzerland in the 2010 winter paralympics is the same as was won in what year?",
+      "id": "nt-11193"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many paralymics had at most 9 medals?",
+      "id": "nt-11453"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "number of silver medals earned the year switzerland earned no gold medals",
+      "id": "nt-13189"
+    }
+  ],
+  "metadata": {
+    "title": "Switzerland at the Paralympics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=31238718&oldid=535846688",
+    "tableIndex": 1,
+    "hashcode": "976980ec8af2a0deb011003c0f59f6181238bff3",
+    "id": 31238718,
+    "revision": 535846688
+  }
+}

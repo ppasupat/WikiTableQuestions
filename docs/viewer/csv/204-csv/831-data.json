@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "John and Eliza Barr Patterson House",
+      "utterance": "greek revival and peony plantings are most commonly associated with what house in canton?",
+      "id": "nt-288"
+    },
+    {
+      "targetValue": "Henry W. Baker House",
+      "utterance": "which is the oldest, henry w. baker house or annapolis park historic district?",
+      "id": "nt-618"
+    },
+    {
+      "targetValue": "Greenmead Farms",
+      "utterance": "what was the first barn built in livonia?",
+      "id": "nt-4959"
+    },
+    {
+      "targetValue": "Annapolis Park Historic District",
+      "utterance": "what spot was listed immediately after the russell a. alger, jr. house?",
+      "id": "nt-7396"
+    },
+    {
+      "targetValue": "74",
+      "utterance": "how many were listed no later than 2010?",
+      "id": "nt-9331"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "was the academy of the sacred heart school established before 1900?",
+      "id": "nt-10229"
+    },
+    {
+      "targetValue": "Russell A. Alger, Jr. House",
+      "utterance": "the academy of the sacred heart is from the same city as what other home that was dedicated to veterans and soldiers?",
+      "id": "nt-13919"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "was the sheldon inn previously used as a single-family home and a travelers' inn?",
+      "id": "nt-13982"
+    }
+  ],
+  "metadata": {
+    "title": "National Register of Historic Places listings in Wayne County, Michigan",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4161548&oldid=599926268",
+    "tableIndex": 1,
+    "hashcode": "8025d36ddabb2a90dfdb6a701c862de61c31dcd1",
+    "id": 4161548,
+    "revision": 599926268
+  }
+}

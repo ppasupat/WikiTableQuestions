@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "what is the total number of players who tied for fourth, seventh, and tenth combined?",
+      "id": "nt-757"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many golfers shot at least 2 under par at the 2010 us open?",
+      "id": "nt-1471"
+    },
+    {
+      "targetValue": "Dustin Johnson",
+      "utterance": "who was the top player?",
+      "id": "nt-5652"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many americans were in the top 10?",
+      "id": "nt-5750"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what was the total number of players?",
+      "id": "nt-6769"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many golfers in the third round are from the united states?",
+      "id": "nt-7388"
+    },
+    {
+      "targetValue": "Dustin Johnson",
+      "utterance": "who had the least number of strokes at the 2010 us open?",
+      "id": "nt-8227"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many players tied for fourth place?",
+      "id": "nt-10163"
+    },
+    {
+      "targetValue": "Phil Mickelson",
+      "utterance": "who was the only player to place 6th?",
+      "id": "nt-10477"
+    },
+    {
+      "targetValue": [
+        "Alex Cejka",
+        "Ryo Ishikawa"
+      ],
+      "utterance": "which golfers other than tim clark shot 3 over par at the 2010 us open?",
+      "id": "nt-11867"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many golfers shot 4 over par at the 2010 us open?",
+      "id": "nt-13930"
+    },
+    {
+      "targetValue": "Graeme McDowell",
+      "utterance": "what player placed nest after dustin johnson?",
+      "id": "nt-14044"
+    }
+  ],
+  "metadata": {
+    "title": "2010 U.S. Open (golf)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21325552&oldid=597028509",
+    "tableIndex": 5,
+    "hashcode": "e01ec9aacd920b728549b2e0de541b56776a50b8",
+    "id": 21325552,
+    "revision": 597028509
+  }
+}

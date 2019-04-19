@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "9",
+      "utterance": "what is the least number of concerts given in a season",
+      "id": "nt-100"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many finalist were in season af3?",
+      "id": "nt-3411"
+    },
+    {
+      "targetValue": "12 (24)",
+      "utterance": "how many contestants were there on june 3, 2012?",
+      "id": "nt-3536"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what was the total number of concerts in season one?",
+      "id": "nt-5763"
+    },
+    {
+      "targetValue": "AF6",
+      "utterance": "what is only season that zani(v6) won?",
+      "id": "nt-5800"
+    },
+    {
+      "targetValue": "June 23, 2013",
+      "utterance": "when was the last premier date of academy fantasia?",
+      "id": "nt-8492"
+    },
+    {
+      "targetValue": "AF8",
+      "utterance": "what is the last season that ton won?",
+      "id": "nt-9005"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what was the number of finalist in the first season?",
+      "id": "nt-12753"
+    }
+  ],
+  "metadata": {
+    "title": "Academy Fantasia",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9868533&oldid=590095945",
+    "tableIndex": 0,
+    "hashcode": "dab1c64efda2ff138175892285e3425589ab6754",
+    "id": 9868533,
+    "revision": 590095945
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "what is total number of bronze medals for slovakia?",
+      "id": "nt-779"
+    },
+    {
+      "targetValue": "China",
+      "utterance": "who won the largest amount of bronze medals?",
+      "id": "nt-1100"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many more silver medals did russian win than denmark?",
+      "id": "nt-2753"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "the average silver medal count of the first five ranked nations?",
+      "id": "nt-2918"
+    },
+    {
+      "targetValue": "Netherlands",
+      "utterance": "which nation had the same total number of gold medals as japan?",
+      "id": "nt-4686"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "which nation ranked first in gold medals?",
+      "id": "nt-5603"
+    },
+    {
+      "targetValue": [
+        "Japan",
+        "Netherlands"
+      ],
+      "utterance": "which countries each won 3 gold medals?",
+      "id": "nt-7556"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many more silver medals did the united states win compared to russia?",
+      "id": "nt-10009"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "what country with more than 20 total medals has the least amount of silver medals?",
+      "id": "nt-11537"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "what countries have the same amount of bronze medals as germany?",
+      "id": "nt-12626"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the total medal count for ukraine?",
+      "id": "nt-13117"
+    },
+    {
+      "targetValue": "Tunisia",
+      "utterance": "which country is last on the table?",
+      "id": "nt-14022"
+    }
+  ],
+  "metadata": {
+    "title": "2003 World Aquatics Championships",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2301552&oldid=593192360",
+    "tableIndex": 7,
+    "hashcode": "4caf8668aea89a554cc908d4e66776ced50da632",
+    "id": 2301552,
+    "revision": 593192360
+  }
+}

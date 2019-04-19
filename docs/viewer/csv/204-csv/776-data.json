@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Atwater Library of the Mechanics' Institute of Montreal",
+      "utterance": "what was the first historical site on the list?",
+      "id": "nt-706"
+    },
+    {
+      "targetValue": "Atwater Library of the Mechanics' Institute of Montreal",
+      "utterance": "name the only library on the list.",
+      "id": "nt-4557"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many sites do not have images?",
+      "id": "nt-7580"
+    },
+    {
+      "targetValue": "Bank of Montreal",
+      "utterance": "which site was designated first, bank of montreal or bonsecours market?",
+      "id": "nt-7977"
+    },
+    {
+      "targetValue": "1920",
+      "utterance": "which year was the first site on this list, completed?",
+      "id": "nt-8646"
+    },
+    {
+      "targetValue": "208",
+      "utterance": "what is the differece in years from date to designated to for grey nuns' hospital?",
+      "id": "nt-12245"
+    },
+    {
+      "targetValue": "Atwater Library of the Mechanics' Institute of Montreal",
+      "utterance": "which site is the top on the chart",
+      "id": "nt-12730"
+    }
+  ],
+  "metadata": {
+    "title": "List of National Historic Sites of Canada in Montreal",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=32572614&oldid=583029727",
+    "tableIndex": 0,
+    "hashcode": "c64cd4b790420c657d61de2dd321592cefc3fbdd",
+    "id": 32572614,
+    "revision": 583029727
+  }
+}

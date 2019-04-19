@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Cole Harbour 30",
+        "Millbrook 27"
+      ],
+      "utterance": "which communities have at least 100 people?",
+      "id": "nt-1267"
+    },
+    {
+      "targetValue": "847",
+      "utterance": "total population of millbrook first nation",
+      "id": "nt-1688"
+    },
+    {
+      "targetValue": "Millbrook 27",
+      "utterance": "what community has the largest area in acres?",
+      "id": "nt-1803"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of communities established after 1900?",
+      "id": "nt-2452"
+    },
+    {
+      "targetValue": "Truro 27C",
+      "utterance": "what is the only community to be less then 30 acres?",
+      "id": "nt-4370"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many communities have a population of zero?",
+      "id": "nt-5110"
+    },
+    {
+      "targetValue": "Millbrook 27",
+      "utterance": "which community has the most population?",
+      "id": "nt-6110"
+    },
+    {
+      "targetValue": "827",
+      "utterance": "combined land area (in acres) of millbrook 27 and sheet harbour 36",
+      "id": "nt-7358"
+    },
+    {
+      "targetValue": "Truro 27C",
+      "utterance": "which community has the least number of acres?",
+      "id": "nt-9412"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "what is the total population of sheet harbour 36?",
+      "id": "nt-13993"
+    }
+  ],
+  "metadata": {
+    "title": "Millbrook First Nation",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=22432486&oldid=595477839",
+    "tableIndex": 0,
+    "hashcode": "ec408c221fc1517b007a92f5225ae1e2698b8f7b",
+    "id": 22432486,
+    "revision": 595477839
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "2005",
+      "utterance": "in what year did they win them?",
+      "id": "nt-3323"
+    }
+  ],
+  "metadata": {
+    "title": "Wilco",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=78598&oldid=598605906",
+    "tableIndex": 0,
+    "hashcode": "9f3ecd9531a2fb1c73aaa8bcd595565a1ebe573e",
+    "id": 78598,
+    "revision": 598605906
+  }
+}

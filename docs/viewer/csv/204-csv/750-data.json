@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Paulton Rovers",
+      "utterance": "besides merthyr town, which other team had the highest number of capacity?",
+      "id": "nt-2338"
+    },
+    {
+      "targetValue": "Hand Stadium",
+      "utterance": "which is bigger, yate town's stadium or hand stadium?",
+      "id": "nt-5031"
+    },
+    {
+      "targetValue": "2,000",
+      "utterance": "what is the total number of seating for the yate town?",
+      "id": "nt-8361"
+    },
+    {
+      "targetValue": "Penydarren Park",
+      "utterance": "which football stadium holds the most people?",
+      "id": "nt-9200"
+    },
+    {
+      "targetValue": "Swindon Supermarine",
+      "utterance": "which other team's stadium has the same capacity as didcot town's stadium?",
+      "id": "nt-9621"
+    },
+    {
+      "targetValue": "2,500",
+      "utterance": "what the number of seats that are in fairfax park?",
+      "id": "nt-11188"
+    },
+    {
+      "targetValue": "Sholing",
+      "utterance": "which stadium seats the least number of people?",
+      "id": "nt-11446"
+    },
+    {
+      "targetValue": "6500",
+      "utterance": "what is the difference in the capacity between penydarren park and hand stadium?",
+      "id": "nt-12733"
+    },
+    {
+      "targetValue": "VT Group Sports Ground",
+      "utterance": "which stadium has the smallest capacity?",
+      "id": "nt-13059"
+    },
+    {
+      "targetValue": "Ladysmead",
+      "utterance": "which allows for more seated, ladysmead or cossham street?",
+      "id": "nt-13742"
+    },
+    {
+      "targetValue": "Merthyr Town",
+      "utterance": "which of the teams had the top number of capacity?",
+      "id": "nt-14122"
+    }
+  ],
+  "metadata": {
+    "title": "2012–13 Southern Football League",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=35649714&oldid=601158043",
+    "tableIndex": 6,
+    "hashcode": "ccb210ea14b6c48b055cc38a085f5e89ec296283",
+    "id": 35649714,
+    "revision": 601158043
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "94",
+      "utterance": "what is the total of conservatives",
+      "id": "nt-105"
+    },
+    {
+      "targetValue": "Conservatives",
+      "utterance": "what is the first party listed on this chart?",
+      "id": "nt-118"
+    },
+    {
+      "targetValue": "Conservatives",
+      "utterance": "which new council is above labour",
+      "id": "nt-863"
+    },
+    {
+      "targetValue": "Conservatives",
+      "utterance": "which party had the greatest number of new seats in this election?",
+      "id": "nt-1353"
+    },
+    {
+      "targetValue": "6.75",
+      "utterance": "what is the average number of previou council?",
+      "id": "nt-3160"
+    },
+    {
+      "targetValue": "54",
+      "utterance": "what was the total of previous council?",
+      "id": "nt-3502"
+    },
+    {
+      "targetValue": "Socialist Alternative",
+      "utterance": "which is the only one with 2 new council",
+      "id": "nt-4100"
+    },
+    {
+      "targetValue": "Conservatives",
+      "utterance": "which party had the most previous council?",
+      "id": "nt-6822"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what are the number of staying councillors that the labour party had?",
+      "id": "nt-9943"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many parties had zero councils?",
+      "id": "nt-10977"
+    },
+    {
+      "targetValue": "Seats up for election",
+      "utterance": "which category has the same total number as election result?",
+      "id": "nt-13105"
+    },
+    {
+      "targetValue": "Conservatives",
+      "utterance": "which party had more staying councilors?",
+      "id": "nt-13150"
+    }
+  ],
+  "metadata": {
+    "title": "Coventry Council election, 2007",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11051308&oldid=583182229",
+    "tableIndex": 0,
+    "hashcode": "8b9e38f8feee1d180ff1da125c17dbd09be88e98",
+    "id": 11051308,
+    "revision": 583182229
+  }
+}

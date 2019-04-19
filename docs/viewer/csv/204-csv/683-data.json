@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "76265",
+      "utterance": "how many votes did deodar receive?",
+      "id": "nt-322"
+    },
+    {
+      "targetValue": "Tarachand Jagashi Chheda",
+      "utterance": "what is the previous winner candidate of dr. nimaben aacharya?",
+      "id": "nt-981"
+    },
+    {
+      "targetValue": "73751",
+      "utterance": "how many votes were there for the constituency of danta?",
+      "id": "nt-1358"
+    },
+    {
+      "targetValue": "BJP",
+      "utterance": "which party had the most candidates win in this election?",
+      "id": "nt-4609"
+    },
+    {
+      "targetValue": "Vadgam",
+      "utterance": "what constituency comes immediately before palanpur?",
+      "id": "nt-4749"
+    },
+    {
+      "targetValue": "1280",
+      "utterance": "what was the difference in votes for the first and second elections?",
+      "id": "nt-8547"
+    },
+    {
+      "targetValue": "65,927.8",
+      "utterance": "what was the average number of votes for the first 5 elections?",
+      "id": "nt-8679"
+    },
+    {
+      "targetValue": "Maheshwari Ramesh Vachchhraj",
+      "utterance": "other than deesa, name a candidate that won by a margin of over 15,000.",
+      "id": "nt-11688"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "are there more or less inc party winners than there are bjp party winners?",
+      "id": "nt-13057"
+    }
+  ],
+  "metadata": {
+    "title": "Gujarat Legislative Assembly election, 2012",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=37203762&oldid=600905920",
+    "tableIndex": 10,
+    "hashcode": "048f393f08e22648cf0a7fe44074ee938960ddbf",
+    "id": 37203762,
+    "revision": 600905920
+  }
+}

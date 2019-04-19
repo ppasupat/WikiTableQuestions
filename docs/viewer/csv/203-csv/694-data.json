@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Derviş Eroğlu",
+      "utterance": "who was next to serve after nejat konuk?",
+      "id": "nt-1824"
+    },
+    {
+      "targetValue": "Sibel Siber",
+      "utterance": "who was the next prime minister from the republican turkish party after ferdi sabit soyer?",
+      "id": "nt-1925"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "at most how many people took office their second time",
+      "id": "nt-4506"
+    },
+    {
+      "targetValue": "Derviş Eroğlu",
+      "utterance": "who was the only prime minister to be in office three times?",
+      "id": "nt-6360"
+    },
+    {
+      "targetValue": "National Unity Party",
+      "utterance": "nejat konuk and dervi&#351; ero&#287;lu are from which party?",
+      "id": "nt-7039"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times has dervi&#351; ero&#287;lu been in office?",
+      "id": "nt-8808"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "at least how many parties have won?",
+      "id": "nt-8937"
+    },
+    {
+      "targetValue": "National Unity Party",
+      "utterance": "which party had the most prime ministers?",
+      "id": "nt-11036"
+    },
+    {
+      "targetValue": "Democratic Party",
+      "utterance": "can you name a party other than the national unity party?",
+      "id": "nt-12035"
+    }
+  ],
+  "metadata": {
+    "title": "List of Prime Ministers of Northern Cyprus",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15893599&oldid=571930375",
+    "tableIndex": 1,
+    "hashcode": "65fb4478620a232d2bb07d60dd90702960f79743",
+    "id": 15893599,
+    "revision": 571930375
+  }
+}

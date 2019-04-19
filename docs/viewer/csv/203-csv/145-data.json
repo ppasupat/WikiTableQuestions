@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "UE Lleida",
+      "utterance": "what is the name of the first club on this chart?",
+      "id": "nt-127"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many teams had at least 15 wins?",
+      "id": "nt-204"
+    },
+    {
+      "targetValue": "CE Sabadell FC",
+      "utterance": "which team had the highest number of losses?",
+      "id": "nt-1012"
+    },
+    {
+      "targetValue": "Real Madrid B",
+      "utterance": "what is the name of the next club after real betis?",
+      "id": "nt-1755"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "did any clubs have no losses?",
+      "id": "nt-3576"
+    },
+    {
+      "targetValue": "53.6",
+      "utterance": "what is the average number of \"goals for\" of the top 5 teams?",
+      "id": "nt-7693"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what are the number of times 13 or greater was listed in the wins column?",
+      "id": "nt-10079"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many teams had less than 10 wins?",
+      "id": "nt-11937"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many clubs had a positive goal difference?",
+      "id": "nt-12176"
+    },
+    {
+      "targetValue": "Athletic de Bilbao B",
+      "utterance": "which is the only team to have 9 wins?",
+      "id": "nt-12367"
+    },
+    {
+      "targetValue": "SD Eibar",
+      "utterance": "what team has the same amount of wins as sd compostela?",
+      "id": "nt-13219"
+    }
+  ],
+  "metadata": {
+    "title": "1992–93 Segunda División",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12097215&oldid=551305841",
+    "tableIndex": 1,
+    "hashcode": "18b5b37d068494b4c18733602c7f5471c9d415d1",
+    "id": 12097215,
+    "revision": 551305841
+  }
+}

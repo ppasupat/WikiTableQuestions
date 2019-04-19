@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "9,997",
+      "utterance": "what was the difference between the attendance in week two and the attendance in week one?",
+      "id": "nt-486"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many games did the eagles win after december 1, 1968?",
+      "id": "nt-628"
+    },
+    {
+      "targetValue": "29",
+      "utterance": "how many points did the eagles score in week 13?",
+      "id": "nt-1310"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many games had at least an 50,000 or more people in attendance?",
+      "id": "nt-6041"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "were there more or less than 15 points scored in week 7?",
+      "id": "nt-7496"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many games during the season were attended by at least 50,000 people?",
+      "id": "nt-7929"
+    },
+    {
+      "targetValue": "October 13, 1968",
+      "utterance": "which date has the most attendance?",
+      "id": "nt-8168"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "in what week was the eagles' first victory of the season?",
+      "id": "nt-8341"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many games did the eagles lose by more than 10 points?",
+      "id": "nt-9662"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times were the dallas cowboys listed as an opponent?",
+      "id": "nt-10167"
+    }
+  ],
+  "metadata": {
+    "title": "1968 Philadelphia Eagles season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21171334&oldid=589511469",
+    "tableIndex": 1,
+    "hashcode": "d1ed8b71d98f1f9f1f2d10185ecafa824bc738e3",
+    "id": 21171334,
+    "revision": 589511469
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Transport",
+      "utterance": "who is listed as the last responsible mister(s) on this chart?",
+      "id": "nt-1741"
+    },
+    {
+      "targetValue": "23",
+      "utterance": "how many crown entities in the table are crown agents but not monitored by the education department?",
+      "id": "nt-3194"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many years was it between the empowering legislation of the new zealand film commission and the empowering legislation of radio new zealand limited?",
+      "id": "nt-4574"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many entities have finance as a responsible minister?",
+      "id": "nt-4601"
+    },
+    {
+      "targetValue": "Culture and Heritage",
+      "utterance": "which monitoring department is listed the most?",
+      "id": "nt-5007"
+    },
+    {
+      "targetValue": "Health",
+      "utterance": "which responsible minister has the top number of empowering legislations?",
+      "id": "nt-7709"
+    },
+    {
+      "targetValue": "Standards Council",
+      "utterance": "what is the crown entity listed before the takeovers panel?",
+      "id": "nt-8913"
+    },
+    {
+      "targetValue": "Monitoring Department(s)",
+      "utterance": "what is the category/type listed after crown agent?",
+      "id": "nt-9070"
+    },
+    {
+      "targetValue": "Accident Compensation Corporation",
+      "utterance": "what is the only crown entity monitored by the department of labour?",
+      "id": "nt-9564"
+    },
+    {
+      "targetValue": "Broadcasting Act 1989 (Part 4 and Schedule 1)",
+      "utterance": "what is the empowering legislation where the responsible minister is broadcasting and the category is ace?",
+      "id": "nt-9823"
+    },
+    {
+      "targetValue": "Earthquake Commission",
+      "utterance": "has the earthquake commission or the charities commission been around longer?",
+      "id": "nt-11035"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "how many companies fall under the ace category",
+      "id": "nt-12890"
+    }
+  ],
+  "metadata": {
+    "title": "Crown entity",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=323726&oldid=599649507",
+    "tableIndex": 0,
+    "hashcode": "a3ddb63f18cb3e49c5b54c6838ae03d734589ada",
+    "id": 323726,
+    "revision": 599649507
+  }
+}

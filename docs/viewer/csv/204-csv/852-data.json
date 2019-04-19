@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Tahsildar",
+      "utterance": "which movie did this actress star in after krishna prema?",
+      "id": "nt-2084"
+    },
+    {
+      "targetValue": "21",
+      "utterance": "how many films were done before the 1950s?",
+      "id": "nt-3699"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many total different languages did the actress film movies in?",
+      "id": "nt-6887"
+    },
+    {
+      "targetValue": "Garuda Garvabhangam",
+      "utterance": "what was the first movie she stared in with the banner pratiba?",
+      "id": "nt-8473"
+    },
+    {
+      "targetValue": "Pelli Kanuka",
+      "utterance": "what was the name of the last movie the actress appeared in?",
+      "id": "nt-9576"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many films did the actress appear in 1941/",
+      "id": "nt-12726"
+    },
+    {
+      "targetValue": "1956",
+      "utterance": "which year did the actress star in the most movies?",
+      "id": "nt-13904"
+    }
+  ],
+  "metadata": {
+    "title": "Bhanumathi Ramakrishna",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4012746&oldid=602220445",
+    "tableIndex": 0,
+    "hashcode": "8dcfd6f66dca72af6d53d18666ba757d5ad77857",
+    "id": 4012746,
+    "revision": 602220445
+  }
+}

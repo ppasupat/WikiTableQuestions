@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "122",
+      "utterance": "in 1996 the sc house of representatives had a republican majority. how many years had passed since the last time this happened?",
+      "id": "nt-27"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "what is the number of democratic victories?",
+      "id": "nt-233"
+    },
+    {
+      "targetValue": "1865",
+      "utterance": "what is the only years without representatives from either the democratic or republican party.",
+      "id": "nt-1276"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many consecutive compositions did the republicans win from 1865 to 1874?",
+      "id": "nt-6256"
+    },
+    {
+      "targetValue": "1865",
+      "utterance": "the year with the most independen/other was what?",
+      "id": "nt-10312"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many years did the democratic party have the majority before 1876 in the south carolina house of representatives?",
+      "id": "nt-11461"
+    },
+    {
+      "targetValue": "34",
+      "utterance": "the 1865 majority is how much greater than in 1966?",
+      "id": "nt-11475"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many years did the south carolina house of representatives compose of only independence/other and no democrats or republicans?",
+      "id": "nt-12335"
+    },
+    {
+      "targetValue": "1876",
+      "utterance": "what year was the only year where the majority was 4?",
+      "id": "nt-13126"
+    },
+    {
+      "targetValue": "1865",
+      "utterance": "in what years did independent/other party have majority control in the south carolina house of representatives?",
+      "id": "nt-14042"
+    }
+  ],
+  "metadata": {
+    "title": "South Carolina House of Representatives",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=913490&oldid=583140238",
+    "tableIndex": 3,
+    "hashcode": "4c8b111023a37004f39cfc45773c220e7e5f7128",
+    "id": 913490,
+    "revision": 583140238
+  }
+}

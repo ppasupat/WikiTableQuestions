@@ -1,0 +1,50 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many points did blackpool score?",
+      "id": "nt-1637"
+    },
+    {
+      "targetValue": "9422",
+      "utterance": "what is the number of spectators in attendance in the hull city vs. oldham athletic game?",
+      "id": "nt-8655"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many teams played consecutive games due to getting a tie?",
+      "id": "nt-9351"
+    },
+    {
+      "targetValue": "Tranmere Rovers",
+      "utterance": "which team was the first team to score six goals?",
+      "id": "nt-10457"
+    },
+    {
+      "targetValue": [
+        "Southend United",
+        "Chesterfield"
+      ],
+      "utterance": "which teams were in the first replay match?",
+      "id": "nt-12123"
+    },
+    {
+      "targetValue": "Tranmere Rovers",
+      "utterance": "in this contest, which team was the top contender?",
+      "id": "nt-12250"
+    },
+    {
+      "targetValue": "More",
+      "utterance": "did the wycombe wanderers have more or less points than the plymouth argyle?",
+      "id": "nt-12773"
+    }
+  ],
+  "metadata": {
+    "title": "2001–02 FA Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16193703&oldid=595779160",
+    "tableIndex": 1,
+    "hashcode": "b9fd3082b9b5209de433344cba48126f65f15e9f",
+    "id": 16193703,
+    "revision": 595779160
+  }
+}

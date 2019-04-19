@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Pearl Air Services",
+        "United Airlines Limited"
+      ],
+      "utterance": "which airlines have not commenced operations as of 2013?",
+      "id": "nt-1774"
+    },
+    {
+      "targetValue": "Uganda Air Cargo",
+      "utterance": "what other airline commenced operations the same year as eagle air?",
+      "id": "nt-5104"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many years after uganda air cargo commenced operations did air uganda commence operations?",
+      "id": "nt-6012"
+    },
+    {
+      "targetValue": "4 years",
+      "utterance": "what is the difference between the time air uganda commenced operations and skyjet airlines commenced operations?",
+      "id": "nt-6701"
+    },
+    {
+      "targetValue": "Skyjet Airlines",
+      "utterance": "after 1994 which airline was the next to commence operations?",
+      "id": "nt-7326"
+    },
+    {
+      "targetValue": "Royal Daisy Airlines",
+      "utterance": "what was the name of the only airline that commenced operations in 2005?",
+      "id": "nt-8311"
+    },
+    {
+      "targetValue": "19 years",
+      "utterance": "how long between the operations first commenced and the last airline to commence operations?",
+      "id": "nt-9311"
+    },
+    {
+      "targetValue": "Skyjet Airlines",
+      "utterance": "what is the next airline to be listed after royal daisy airlines?",
+      "id": "nt-9510"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many airlines commenced operation after 2006?",
+      "id": "nt-11550"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what number of airlines use the first letter of their name in their icao?",
+      "id": "nt-11745"
+    }
+  ],
+  "metadata": {
+    "title": "List of airlines of Uganda",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=24098174&oldid=586761039",
+    "tableIndex": 0,
+    "hashcode": "f81bdb70af58e662ff697a6fcc3547df46f1fbb5",
+    "id": 24098174,
+    "revision": 586761039
+  }
+}

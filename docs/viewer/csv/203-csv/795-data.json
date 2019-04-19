@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "11",
+      "utterance": "what is the total number of times qormi won a game?",
+      "id": "nt-6165"
+    },
+    {
+      "targetValue": "Tarxien",
+      "utterance": "which team won the most number of games?",
+      "id": "nt-9084"
+    }
+  ],
+  "metadata": {
+    "title": "2007–08 Maltese First Division",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18300453&oldid=576500998",
+    "tableIndex": 3,
+    "hashcode": "fa9e45ed843fc31db444e166f9c46842bf66b81d",
+    "id": 18300453,
+    "revision": 576500998
+  }
+}

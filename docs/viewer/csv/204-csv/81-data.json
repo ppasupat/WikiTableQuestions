@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Iivo Niskanen",
+        "Daniel Richardsson",
+        "Johan Olsson",
+        "Dario Cologna"
+      ],
+      "utterance": "which players came in a place before lukas bauer?",
+      "id": "nt-230"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the total number of swiss athletes competing in the cross-country skiing at the 2014 winter olympics men's 15 kilometre classical?",
+      "id": "nt-360"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many german athletes competed in the cross-country skiing at the 2014 winter olympics men's 15 kilometre classical?",
+      "id": "nt-501"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many countries had a time lower than 39:00:00?",
+      "id": "nt-2650"
+    },
+    {
+      "targetValue": "+27:59.2",
+      "utterance": "what is the difference between the time of the fastest runner and the slowest?",
+      "id": "nt-3279"
+    },
+    {
+      "targetValue": "Alexander Bessmertnykh",
+      "utterance": "who came in next after chris jespersen of norway?",
+      "id": "nt-5980"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many skiers finished at least under the 39 minute mark?",
+      "id": "nt-7574"
+    },
+    {
+      "targetValue": "Dario Cologna",
+      "utterance": "who came in first place?",
+      "id": "nt-7839"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many skiers represented norway in the men's 15 kilometre classical?",
+      "id": "nt-11606"
+    },
+    {
+      "targetValue": "Sweden",
+      "utterance": "what country had the most top 10 finishers in the men's 15 kilometre classical?",
+      "id": "nt-12220"
+    }
+  ],
+  "metadata": {
+    "title": "Cross-country skiing at the 2014 Winter Olympics – Men's 15 kilometre classical",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41546835&oldid=596624156",
+    "tableIndex": 0,
+    "hashcode": "573994b3814cfeebcdeb49175eb8f6042300c962",
+    "id": 41546835,
+    "revision": 596624156
+  }
+}

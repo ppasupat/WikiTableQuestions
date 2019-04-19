@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Darren Jones",
+      "utterance": "other than parry, name an athlete from wales.",
+      "id": "nt-106"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many players with an assist did not play the position of mf or fw?",
+      "id": "nt-199"
+    },
+    {
+      "targetValue": "Tom Eaves",
+      "utterance": "who had the most assists after paul parry?",
+      "id": "nt-997"
+    },
+    {
+      "targetValue": "England",
+      "utterance": "which nation placed first but did not have a football league trophy?",
+      "id": "nt-1764"
+    },
+    {
+      "targetValue": "Luke Summerfield",
+      "utterance": "who had the most number of total assists?",
+      "id": "nt-4501"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many participants have a star next to their name?",
+      "id": "nt-7888"
+    },
+    {
+      "targetValue": "Tom Eaves",
+      "utterance": "who is listed before jon taylor?",
+      "id": "nt-8071"
+    },
+    {
+      "targetValue": "Luke Summerfield",
+      "utterance": "who is the only person to have more than 4 assists?",
+      "id": "nt-9396"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many assists did the top three have in total?",
+      "id": "nt-10008"
+    },
+    {
+      "targetValue": "Tom Eaves",
+      "utterance": "who was next in total assists after paul parry?",
+      "id": "nt-10250"
+    },
+    {
+      "targetValue": "Darren Jones",
+      "utterance": "what is the next name listed after jon taylor?",
+      "id": "nt-13516"
+    },
+    {
+      "targetValue": "1.75",
+      "utterance": "what was the average number of assists in league one?",
+      "id": "nt-14118"
+    }
+  ],
+  "metadata": {
+    "title": "2013–14 Shrewsbury Town F.C. season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=40313451&oldid=601264573",
+    "tableIndex": 7,
+    "hashcode": "1178eafd9c36a21981fc523cd0c534684386b1a6",
+    "id": 40313451,
+    "revision": 601264573
+  }
+}

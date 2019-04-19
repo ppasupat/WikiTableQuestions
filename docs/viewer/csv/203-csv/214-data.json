@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "1934",
+      "utterance": "when was joe clark first elected?",
+      "id": "nt-694"
+    },
+    {
+      "targetValue": "1937",
+      "utterance": "after tom burke was elected, what was the next year where another tom would be elected?",
+      "id": "nt-3910"
+    },
+    {
+      "targetValue": "Country",
+      "utterance": "which party was elected the least?",
+      "id": "nt-4793"
+    },
+    {
+      "targetValue": "Charles Adermann",
+      "utterance": "who was the first member to be elected?",
+      "id": "nt-4977"
+    },
+    {
+      "targetValue": "ALP",
+      "utterance": "did tom burke run as country or alp party?",
+      "id": "nt-6212"
+    },
+    {
+      "targetValue": "57",
+      "utterance": "what is the number of alp party members elected?",
+      "id": "nt-6949"
+    },
+    {
+      "targetValue": "Gordon Anderson",
+      "utterance": "previous to tom andrews who was elected?",
+      "id": "nt-10024"
+    }
+  ],
+  "metadata": {
+    "title": "Members of the Australian House of Representatives, 1954–1955",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20025050&oldid=575838666",
+    "tableIndex": 1,
+    "hashcode": "18073e7e9bd7a94a0923debda45cc13c62f0f33f",
+    "id": 20025050,
+    "revision": 575838666
+  }
+}

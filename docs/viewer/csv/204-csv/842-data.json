@@ -1,0 +1,58 @@
+{
+  "examples": [
+    {
+      "targetValue": "1,334",
+      "utterance": "what is the total number of people enrolled at the college of mount st. joseph?",
+      "id": "nt-2710"
+    },
+    {
+      "targetValue": [
+        "Augustana College",
+        "Benedictine University",
+        "Elmhurst College",
+        "Fontbonne University",
+        "North Central College"
+      ],
+      "utterance": "which institutions have higher enrollment than carthage college?",
+      "id": "nt-4045"
+    },
+    {
+      "targetValue": "Illinois",
+      "utterance": "which state is the most represented by the 11 institutions?",
+      "id": "nt-4908"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many of the schools have a creature mascot?",
+      "id": "nt-5894"
+    },
+    {
+      "targetValue": "Elmhurst College",
+      "utterance": "the school with the most students?",
+      "id": "nt-10478"
+    },
+    {
+      "targetValue": "Benedictine University",
+      "utterance": "which institution has the highest enrollment after elmhurst college?",
+      "id": "nt-11381"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many schools have at least 2,000 enrolled?",
+      "id": "nt-12142"
+    },
+    {
+      "targetValue": "Illinois",
+      "utterance": "which state has the most member schools?",
+      "id": "nt-13432"
+    }
+  ],
+  "metadata": {
+    "title": "Midwest Women's Lacrosse Conference",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=31508071&oldid=602207599",
+    "tableIndex": 0,
+    "hashcode": "583b4eb2ea68e9b14b67039cbdb3339bc4ce9f7e",
+    "id": 31508071,
+    "revision": 602207599
+  }
+}

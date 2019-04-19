@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "White",
+      "utterance": "which hispanic population had the greatest growth from 2000 to 2005?",
+      "id": "nt-290"
+    },
+    {
+      "targetValue": "0.72%",
+      "utterance": "what is the difference in percentage between whites in the 2000 population and whites in the 2005 population?",
+      "id": "nt-990"
+    },
+    {
+      "targetValue": "Black",
+      "utterance": "what race is listed after white?",
+      "id": "nt-1328"
+    },
+    {
+      "targetValue": "White",
+      "utterance": "which group had the most percent of total population in 2005?",
+      "id": "nt-3950"
+    },
+    {
+      "targetValue": "Black",
+      "utterance": "did the black population grow more or less than the white population (as a percent of total population)?",
+      "id": "nt-7555"
+    },
+    {
+      "targetValue": "AIAN",
+      "utterance": "who was a bigger portion of the population in 2005: aian or nhpi?",
+      "id": "nt-8584"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "was the asian population in 2005 more or less than it was in 2000?",
+      "id": "nt-8967"
+    },
+    {
+      "targetValue": "AIAN",
+      "utterance": "what race shares the highest population next to white?",
+      "id": "nt-9319"
+    },
+    {
+      "targetValue": "2005",
+      "utterance": "which year saw the greatest percentage of asian individuals?",
+      "id": "nt-12029"
+    },
+    {
+      "targetValue": "below",
+      "utterance": "was tht total population growth of amarican indians above or below that of native hawaiin or pacific islanders?",
+      "id": "nt-13180"
+    }
+  ],
+  "metadata": {
+    "title": "Demographics of Alaska",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11015706&oldid=598784767",
+    "tableIndex": 0,
+    "hashcode": "0e56074f5541f153f636dbe15d88fa12cf4c98b4",
+    "id": 11015706,
+    "revision": 598784767
+  }
+}

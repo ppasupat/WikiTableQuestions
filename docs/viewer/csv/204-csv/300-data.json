@@ -1,0 +1,50 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many players were dfs?",
+      "id": "nt-3475"
+    },
+    {
+      "targetValue": "Steve De Ridder",
+      "utterance": "name a player whose \"to\" date is in march and \"from\" date is in january.",
+      "id": "nt-6143"
+    },
+    {
+      "targetValue": [
+        "Benik Afobe",
+        "Robert Hall"
+      ],
+      "utterance": "which players on loan played neither mf or df?",
+      "id": "nt-7828"
+    },
+    {
+      "targetValue": "Benik Afobe",
+      "utterance": "who was the first loan?",
+      "id": "nt-9023"
+    },
+    {
+      "targetValue": "England",
+      "utterance": "what country had the most players loaned in?",
+      "id": "nt-12223"
+    },
+    {
+      "targetValue": "Stephen Warnock",
+      "utterance": "who was the previous loan before jacob butterfield?",
+      "id": "nt-13370"
+    },
+    {
+      "targetValue": "Danny Butterfield",
+      "utterance": "what player had the shortest time between their \"from\" and \"to\" date?",
+      "id": "nt-14109"
+    }
+  ],
+  "metadata": {
+    "title": "2012–13 Bolton Wanderers F.C. season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=35815321&oldid=598450108",
+    "tableIndex": 4,
+    "hashcode": "72f57a4259bfecb1f891ddb470b458140de9b2dc",
+    "id": 35815321,
+    "revision": 598450108
+  }
+}

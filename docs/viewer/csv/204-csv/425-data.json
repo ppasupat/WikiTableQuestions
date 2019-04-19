@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "0",
+      "utterance": "what is the total number of french lesbians?",
+      "id": "nt-3582"
+    },
+    {
+      "targetValue": "Tom Daley",
+      "utterance": "what is the previous name of matt dallas?",
+      "id": "nt-7248"
+    },
+    {
+      "targetValue": "Grover Dale",
+      "utterance": "name someone on the list from the united states that was born at least 60 years ago.",
+      "id": "nt-11117"
+    },
+    {
+      "targetValue": "Elana Dykewomon",
+      "utterance": "who name is listed last?",
+      "id": "nt-13161"
+    }
+  ],
+  "metadata": {
+    "title": "List of gay, lesbian or bisexual people: D–E",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13652052&oldid=601980121",
+    "tableIndex": 0,
+    "hashcode": "3187ad3ce29446c9e652cfc15c2b9b53f6f5d0e9",
+    "id": 13652052,
+    "revision": 601980121
+  }
+}

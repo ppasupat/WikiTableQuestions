@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Tulsa",
+      "utterance": "what was u.s. city that was founded before los vegas, nevada?",
+      "id": "nt-3378"
+    },
+    {
+      "targetValue": "50 years",
+      "utterance": "what is the difference in foundation date between cusco and motul?",
+      "id": "nt-3899"
+    },
+    {
+      "targetValue": "Peru",
+      "utterance": "aspero and caral are both cities that can be found in which country?",
+      "id": "nt-7310"
+    },
+    {
+      "targetValue": "San Juan",
+      "utterance": "what was the capital of puerto rico after caparra?",
+      "id": "nt-8634"
+    },
+    {
+      "targetValue": "Brazil",
+      "utterance": "what country had the most cities founded in the 1830's?",
+      "id": "nt-10217"
+    },
+    {
+      "targetValue": "46 years",
+      "utterance": "how long after the founding of panama city, panama was the city of rio de janeiro, brazil founded?",
+      "id": "nt-11953"
+    }
+  ],
+  "metadata": {
+    "title": "List of cities in the Americas by year of foundation",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15665592&oldid=593640101",
+    "tableIndex": 0,
+    "hashcode": "b17cab6c6066739bc88b63784102a139d6f14677",
+    "id": 15665592,
+    "revision": 593640101
+  }
+}

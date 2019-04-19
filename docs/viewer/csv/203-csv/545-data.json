@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "\"You & Me\"",
+      "utterance": "what is the single/ep listed after \"bleach\"?",
+      "id": "nt-559"
+    },
+    {
+      "targetValue": "2xCD, 7\"",
+      "utterance": "which format was used the most according to this chart?",
+      "id": "nt-968"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what are the number of times jive records is listed as the label?",
+      "id": "nt-1073"
+    },
+    {
+      "targetValue": "You & Me",
+      "utterance": "what single release came before \"junkies\"?",
+      "id": "nt-1650"
+    },
+    {
+      "targetValue": "\"2nd Amendment\"",
+      "utterance": "which has the earlier release date, \"till the day\" or \"2nd amendment\"?",
+      "id": "nt-3057"
+    },
+    {
+      "targetValue": "2002",
+      "utterance": "which year was \"try not to think\" and \"bleach\" released?",
+      "id": "nt-6311"
+    },
+    {
+      "targetValue": "19 February 2001",
+      "utterance": "what was the release date of the first single?",
+      "id": "nt-6692"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the difference in chart position between \"bleach\" and \"you & me\"?",
+      "id": "nt-8309"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many singles were on the uk singles chart?",
+      "id": "nt-10637"
+    },
+    {
+      "targetValue": "Jive Records",
+      "utterance": "what label was appears the most?",
+      "id": "nt-11683"
+    },
+    {
+      "targetValue": "Til the Day",
+      "utterance": "which song did better on the uk singles chart, \"til the day\" or \"bleach\"?",
+      "id": "nt-12884"
+    },
+    {
+      "targetValue": "\"How Did It Ever Come to This?\"",
+      "utterance": "what single/ep had more than one cd but did not have jive records as its label?",
+      "id": "nt-13697"
+    }
+  ],
+  "metadata": {
+    "title": "Easyworld",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14292273&oldid=564990651",
+    "tableIndex": 0,
+    "hashcode": "d8fd744604e94d45ad465e53a9e38c47581475b3",
+    "id": 14292273,
+    "revision": 564990651
+  }
+}

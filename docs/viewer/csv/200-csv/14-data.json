@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "2011",
+      "utterance": "what year did machine gun kelly sign with bad boy records?",
+      "id": "nt-1847"
+    },
+    {
+      "targetValue": "2006",
+      "utterance": "what year was cassie signed to bad boy?",
+      "id": "nt-3131"
+    },
+    {
+      "targetValue": "2011",
+      "utterance": "what year was machine gun kelly signed?",
+      "id": "nt-5035"
+    },
+    {
+      "targetValue": "1993",
+      "utterance": "what year did both diddy and the notorious b.i.g. sign with bad boy records?",
+      "id": "nt-8558"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many albums has diddy released under bad boy records?",
+      "id": "nt-10855"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many acts had no albums released under bad boy?",
+      "id": "nt-11367"
+    },
+    {
+      "targetValue": "1993",
+      "utterance": "when was the notorious b.i.g signed to bad boy?",
+      "id": "nt-11830"
+    },
+    {
+      "targetValue": "Diddy",
+      "utterance": "who has the most albums released under bad boy?",
+      "id": "nt-11884"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many albums did french montana release under bad boy?",
+      "id": "nt-13838"
+    }
+  ],
+  "metadata": {
+    "title": "Bad Boy Records",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=213878&oldid=601707000",
+    "tableIndex": 0,
+    "hashcode": "632267c63a835007b926870ca4e51b966415479a",
+    "id": 213878,
+    "revision": 601707000
+  }
+}

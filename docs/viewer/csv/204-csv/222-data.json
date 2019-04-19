@@ -1,0 +1,53 @@
+{
+  "examples": [
+    {
+      "targetValue": "06/05/91",
+      "utterance": "what is the next launch date after 04/28/91?",
+      "id": "nt-584"
+    },
+    {
+      "targetValue": "04/04/83",
+      "utterance": "which date is above 6/18/83",
+      "id": "nt-909"
+    },
+    {
+      "targetValue": "Shuttle Laser Altimeter-01 (SLA-01), NASA/GSFC",
+      "utterance": "name an experiment that occurred after 1995 but before 2000.",
+      "id": "nt-2145"
+    },
+    {
+      "targetValue": [
+        "03/22/82",
+        "GAS, FVP"
+      ],
+      "utterance": "when was the first launch and payload name",
+      "id": "nt-2841"
+    },
+    {
+      "targetValue": [
+        "G-221 G-775",
+        "Adapter Beam</tbody>"
+      ],
+      "utterance": "which is the last experiment name and payload carrier hardware",
+      "id": "nt-8277"
+    },
+    {
+      "targetValue": "108",
+      "utterance": "what is the number of sts number in total?",
+      "id": "nt-11837"
+    },
+    {
+      "targetValue": "April",
+      "utterance": "name a month that there were two consecutive experiments in the same month.",
+      "id": "nt-13119"
+    }
+  ],
+  "metadata": {
+    "title": "Getaway Special",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=561369&oldid=590597591",
+    "tableIndex": 1,
+    "hashcode": "9aeece8ba33534a8f9ce2771f23286b6db6b3108",
+    "id": 561369,
+    "revision": 590597591
+  }
+}

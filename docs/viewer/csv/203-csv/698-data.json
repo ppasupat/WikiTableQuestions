@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "630",
+      "utterance": "what is the current total number of seats in the federal parliament?",
+      "id": "nt-48"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many elections had at least a 0.2 percentage of constituency votes?",
+      "id": "nt-99"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many times were the % of constituency votes at least 1.0?",
+      "id": "nt-2185"
+    },
+    {
+      "targetValue": "1969",
+      "utterance": "what was the top year for party list votes?",
+      "id": "nt-2997"
+    },
+    {
+      "targetValue": "1980",
+      "utterance": "in the year ____, no constituency data was available.",
+      "id": "nt-3224"
+    },
+    {
+      "targetValue": [
+        "1980",
+        "1983"
+      ],
+      "utterance": "which election year had the least percentage of party list votes?",
+      "id": "nt-3564"
+    },
+    {
+      "targetValue": "1998",
+      "utterance": "after 1983 when is the next time the % of constituency was 0.1?",
+      "id": "nt-8058"
+    },
+    {
+      "targetValue": "2013",
+      "utterance": "what was the year of the last election according to this chart?",
+      "id": "nt-10521"
+    }
+  ],
+  "metadata": {
+    "title": "National Democratic Party of Germany",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=424675&oldid=601959535",
+    "tableIndex": 0,
+    "hashcode": "2e38a1132042d6334fd5a7326e1e8dffd6112d19",
+    "id": 424675,
+    "revision": 601959535
+  }
+}

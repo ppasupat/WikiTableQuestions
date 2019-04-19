@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Sun Hao",
+      "utterance": "who was the last noted ruler?",
+      "id": "nt-1119"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many total years did sun hao reign?",
+      "id": "nt-2589"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many eastern wu rules were there?",
+      "id": "nt-5352"
+    },
+    {
+      "targetValue": "Chiwu",
+      "utterance": "what era came after jiahe?",
+      "id": "nt-7571"
+    },
+    {
+      "targetValue": "Sun Ce",
+      "utterance": "which ruler came before sun quan?",
+      "id": "nt-10381"
+    },
+    {
+      "targetValue": "Wufeng",
+      "utterance": "what era came before taiping?",
+      "id": "nt-13513"
+    },
+    {
+      "targetValue": "Chiwu",
+      "utterance": "which era of the reign of sun quan was the longest?",
+      "id": "nt-14092"
+    }
+  ],
+  "metadata": {
+    "title": "Eastern Wu",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=278229&oldid=601495065",
+    "tableIndex": 1,
+    "hashcode": "6a17b684e54042b8288473915b91552f47e61705",
+    "id": 278229,
+    "revision": 601495065
+  }
+}

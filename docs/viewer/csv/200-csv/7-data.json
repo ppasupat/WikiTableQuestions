@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Praat jy Afrikaans?",
+      "utterance": "how do you say 'do you speak afrikaans?' in afrikaans?",
+      "id": "nt-1261"
+    },
+    {
+      "targetValue": "Ek is lief vir jou.",
+      "utterance": "how do you say 'i love you' in afrikaans?",
+      "id": "nt-1539"
+    },
+    {
+      "targetValue": "Die Kinder sprechen Afrikaans.",
+      "utterance": "translate the following into german: die kinders praat afrikaans.",
+      "id": "nt-1938"
+    },
+    {
+      "targetValue": "Ja.",
+      "utterance": "how do you say 'yes' in afrikaans?",
+      "id": "nt-1978"
+    },
+    {
+      "targetValue": "Praat jy Afrikaans?",
+      "utterance": "how do you say \"do you speak afrikaans?\" in afrikaans?",
+      "id": "nt-6829"
+    },
+    {
+      "targetValue": "A bit.",
+      "utterance": "translate the following into english: 'n bietjie.",
+      "id": "nt-8069"
+    }
+  ],
+  "metadata": {
+    "title": "Afrikaans",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2162&oldid=600861580",
+    "tableIndex": 10,
+    "hashcode": "cfb3d863b8e09208ac8443db6f16e7e65c77f38b",
+    "id": 2162,
+    "revision": 600861580
+  }
+}

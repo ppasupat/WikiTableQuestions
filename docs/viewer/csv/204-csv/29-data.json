@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many total competitors did canada have?",
+      "id": "nt-408"
+    },
+    {
+      "targetValue": "Charles Francis",
+      "utterance": "who comes before marco loughran?",
+      "id": "nt-1781"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "was marco loughran's time more or less than ashley delaney's time?",
+      "id": "nt-4279"
+    },
+    {
+      "targetValue": "Gareth Kean",
+      "utterance": "what is the previous name after james goddard?",
+      "id": "nt-6644"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many athletes finished after 2:00:00?",
+      "id": "nt-7102"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many nations participated?",
+      "id": "nt-7549"
+    },
+    {
+      "targetValue": "Ryan Bennett",
+      "utterance": "who was in last place?",
+      "id": "nt-8178"
+    },
+    {
+      "targetValue": "Ashley Delaney",
+      "utterance": "who is the only swimmer from australia to compete?",
+      "id": "nt-10643"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many swimmers swam at least a 1:59.99 race?",
+      "id": "nt-12198"
+    },
+    {
+      "targetValue": "James Goddard",
+      "utterance": "who performed better, goddard or francis?",
+      "id": "nt-12441"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the total number of names?",
+      "id": "nt-12646"
+    },
+    {
+      "targetValue": "Charles Francis",
+      "utterance": "who took longer to finish, ashley delaney or charles francis?",
+      "id": "nt-13188"
+    },
+    {
+      "targetValue": "2:00:24",
+      "utterance": "how long was the second longest time?",
+      "id": "nt-13539"
+    }
+  ],
+  "metadata": {
+    "title": "Swimming at the 2010 Commonwealth Games – Men's 200 metre backstroke",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=29078504&oldid=573363796",
+    "tableIndex": 3,
+    "hashcode": "cb5951a32b3784de457b7f79b96d5706858828cf",
+    "id": 29078504,
+    "revision": 573363796
+  }
+}

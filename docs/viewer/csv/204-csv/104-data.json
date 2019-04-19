@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Il Giustino",
+      "utterance": "which opera has at least 5 acts?",
+      "id": "nt-531"
+    },
+    {
+      "targetValue": "Diomede punito da Alcide",
+      "utterance": "l'inganno innocente premiered in 1701. what was the previous title released?",
+      "id": "nt-2580"
+    },
+    {
+      "targetValue": "51",
+      "utterance": "how many operas on this list has at least 3 acts?",
+      "id": "nt-4824"
+    },
+    {
+      "targetValue": "Candalide",
+      "utterance": "what is next after ardelinda?",
+      "id": "nt-7271"
+    },
+    {
+      "targetValue": "Astarto",
+      "utterance": "which opera has the most acts, la fortezza al cimento or astarto?",
+      "id": "nt-7902"
+    },
+    {
+      "targetValue": "52",
+      "utterance": "how many were released after zenone, imperator d'oriente?",
+      "id": "nt-9214"
+    },
+    {
+      "targetValue": "Artamene",
+      "utterance": "which title premiered directly after candalide?",
+      "id": "nt-9977"
+    },
+    {
+      "targetValue": "Merope",
+      "utterance": "which was released earlier, artamene or merope?",
+      "id": "nt-13699"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what number of acts does il giustino have?",
+      "id": "nt-13784"
+    }
+  ],
+  "metadata": {
+    "title": "List of compositions by Tomaso Albinoni",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21000135&oldid=596437052",
+    "tableIndex": 0,
+    "hashcode": "95369ea14ec5ce87d82937f7e9d0a1719172bcff",
+    "id": 21000135,
+    "revision": 596437052
+  }
+}

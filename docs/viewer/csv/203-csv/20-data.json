@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Above",
+      "utterance": "is dean winstanley listed above or below kyle anderson?",
+      "id": "nt-1037"
+    },
+    {
+      "targetValue": "Terry Jenkins",
+      "utterance": "other than kyle anderson, who else lost in 2014?",
+      "id": "nt-1707"
+    },
+    {
+      "targetValue": "Michael van Gerwen",
+      "utterance": "who was the last to win against his opponent?",
+      "id": "nt-1850"
+    },
+    {
+      "targetValue": "Per Laursen",
+      "utterance": "did terry jenkins or per laursen win in 2014?",
+      "id": "nt-3826"
+    },
+    {
+      "targetValue": "Adrian Lewis",
+      "utterance": "who are the only players listed that played in 2011?",
+      "id": "nt-9691"
+    },
+    {
+      "targetValue": "2013",
+      "utterance": "name a year with more than one game listed.",
+      "id": "nt-10943"
+    },
+    {
+      "targetValue": "Raymond van Barneveld",
+      "utterance": "who won the first world darts championship?",
+      "id": "nt-10959"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many champions were from norway?",
+      "id": "nt-13142"
+    }
+  ],
+  "metadata": {
+    "title": "PDC World Darts Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6920895&oldid=597208138",
+    "tableIndex": 2,
+    "hashcode": "84552752fbaf96f62f4d3f68a506b505daf21d7e",
+    "id": 6920895,
+    "revision": 597208138
+  }
+}

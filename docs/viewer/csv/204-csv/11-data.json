@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "11",
+      "utterance": "how many consecutive games did jay mills lose to fbs opponents?",
+      "id": "nt-904"
+    },
+    {
+      "targetValue": "South Florida Bulls",
+      "utterance": "the first fbs opponent faced was whom?",
+      "id": "nt-3163"
+    },
+    {
+      "targetValue": "170",
+      "utterance": "how many total points did the south florida bulls score in 2002, 2003, and 2009?",
+      "id": "nt-3242"
+    },
+    {
+      "targetValue": "2003",
+      "utterance": "what year was jay mills first year?",
+      "id": "nt-3900"
+    },
+    {
+      "targetValue": "UCF Knights",
+      "utterance": "who did they play after florida state seminoles?",
+      "id": "nt-4356"
+    },
+    {
+      "targetValue": "Jay Mills",
+      "utterance": "who was the longest head coach?",
+      "id": "nt-5567"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many consecutive losses for charleston southern against fbs opponents since 2002?",
+      "id": "nt-5874"
+    },
+    {
+      "targetValue": "Vanderbilt Commodores",
+      "utterance": "the fbs opponent faced before the georgia bulldogs?",
+      "id": "nt-10337"
+    },
+    {
+      "targetValue": "1 year",
+      "utterance": "how long was david dowd head coach?",
+      "id": "nt-10529"
+    },
+    {
+      "targetValue": "Miami Redhawks",
+      "utterance": "to which team did charleston southern give up at most 40 points?",
+      "id": "nt-11125"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many teams from the sec did charleston southern play from 2002-2013?",
+      "id": "nt-11976"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what is the number of losses for coach jay mills?",
+      "id": "nt-13542"
+    }
+  ],
+  "metadata": {
+    "title": "Charleston Southern Buccaneers",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=26240481&oldid=592196217",
+    "tableIndex": 0,
+    "hashcode": "ec8da6a27272108179ddfd46b48bd03448f6c553",
+    "id": 26240481,
+    "revision": 592196217
+  }
+}

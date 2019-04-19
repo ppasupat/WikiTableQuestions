@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Ögii nuur",
+      "utterance": "which sum is the only one listed with out an area or density given?",
+      "id": "nt-571"
+    },
+    {
+      "targetValue": "17,770",
+      "utterance": "what is the largest population of 2009?",
+      "id": "nt-1683"
+    },
+    {
+      "targetValue": "Erdenebulgan",
+      "utterance": "the most populated city",
+      "id": "nt-3003"
+    },
+    {
+      "targetValue": "Tsetserleg",
+      "utterance": "which sum had the greatest population change from 2005 to 2009?",
+      "id": "nt-3573"
+    },
+    {
+      "targetValue": "Erdenebulgan",
+      "utterance": "what city has the least amount of area recorded (not to include any city with n.a. recorded)?",
+      "id": "nt-6345"
+    },
+    {
+      "targetValue": "2,143",
+      "utterance": "what is the least population of 2009?",
+      "id": "nt-7463"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many sum's names start with \"t\"?",
+      "id": "nt-9454"
+    },
+    {
+      "targetValue": "Erdenebulgan",
+      "utterance": "what city has the largest density recorded?",
+      "id": "nt-9650"
+    },
+    {
+      "targetValue": "Erdenebulgan",
+      "utterance": "in 2005, what city had the most population recorded?",
+      "id": "nt-11110"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of cities with a population over 10,000 between 2005-2009?",
+      "id": "nt-12443"
+    }
+  ],
+  "metadata": {
+    "title": "Arkhangai Province",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=791099&oldid=580954839",
+    "tableIndex": 0,
+    "hashcode": "be1aeb86837f3ddf8e6e041a84af4670915f9bed",
+    "id": 791099,
+    "revision": 580954839
+  }
+}

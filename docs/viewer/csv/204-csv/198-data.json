@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "Redlegs",
+      "utterance": "four corners has 13 premierships listed, what was their nickname?",
+      "id": "nt-538"
+    },
+    {
+      "targetValue": "Redlegs",
+      "utterance": "was the nickname of four corners the kangaroos or the redlegs?",
+      "id": "nt-2578"
+    },
+    {
+      "targetValue": "Four Corners",
+      "utterance": "name a club that won consecutive premierships.",
+      "id": "nt-3659"
+    },
+    {
+      "targetValue": "Four Corners",
+      "utterance": "who has more premierships, four corners or west milby?",
+      "id": "nt-5350"
+    },
+    {
+      "targetValue": [
+        "Kikoira",
+        "West Milby"
+      ],
+      "utterance": "which two clubs have no nickname listed?",
+      "id": "nt-5409"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the total number of clubs listed?",
+      "id": "nt-5794"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what is the total number of premiership years of the four corners club?",
+      "id": "nt-8113"
+    },
+    {
+      "targetValue": "Parkes",
+      "utterance": "name a club that has the same number of premierships as lake cargelligo.",
+      "id": "nt-13202"
+    }
+  ],
+  "metadata": {
+    "title": "Northern Riverina Football League",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4901275&oldid=590587963",
+    "tableIndex": 2,
+    "hashcode": "a7017efd07dc8f3e170629d50f14c01c75f5a96a",
+    "id": 4901275,
+    "revision": 590587963
+  }
+}

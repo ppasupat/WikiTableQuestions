@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Western Michigan",
+        "North Dakota"
+      ],
+      "utterance": "what two teams only have two titles?",
+      "id": "nt-126"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what are the number of years maine has participated?",
+      "id": "nt-133"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many schools have more than one title?",
+      "id": "nt-1731"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many titles does the last team on this chart have?",
+      "id": "nt-3998"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "what is the number of titles michigan tech and michigan state have combined?",
+      "id": "nt-5910"
+    },
+    {
+      "targetValue": "Michigan Tech",
+      "utterance": "which school has participated the longest number of years?",
+      "id": "nt-6964"
+    },
+    {
+      "targetValue": "Michigan",
+      "utterance": "which team has the most titles at the great lakes invitational?",
+      "id": "nt-7482"
+    },
+    {
+      "targetValue": "Michigan Tech",
+      "utterance": "which school has placed fourth the most times?",
+      "id": "nt-9076"
+    },
+    {
+      "targetValue": "Michigan Tech",
+      "utterance": "which team had the most fourth place finishes?",
+      "id": "nt-9325"
+    },
+    {
+      "targetValue": "Michigan State",
+      "utterance": "which team had more titles, michigan state or colorado college?",
+      "id": "nt-9708"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many times has michigan state been runner-up?",
+      "id": "nt-10088"
+    },
+    {
+      "targetValue": "Michigan Tech",
+      "utterance": "who is above michigan in years of participation.",
+      "id": "nt-11588"
+    }
+  ],
+  "metadata": {
+    "title": "Great Lakes Invitational",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1571238&oldid=598171219",
+    "tableIndex": 1,
+    "hashcode": "94a6697684b0c83ae1c1e3ca278f89c569185235",
+    "id": 1571238,
+    "revision": 598171219
+  }
+}

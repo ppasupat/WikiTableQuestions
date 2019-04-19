@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "number of lines opened with no extensions listed",
+      "id": "nt-1909"
+    },
+    {
+      "targetValue": "20.6 km (12.8 mi)",
+      "utterance": "how long is the higashiyama line in length?",
+      "id": "nt-3612"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "what is the difference of stations available between the higashiyama line and the kamiida line?",
+      "id": "nt-6113"
+    },
+    {
+      "targetValue": "Higashiyama Line",
+      "utterance": "what is the name of the line with the most stations?",
+      "id": "nt-7598"
+    },
+    {
+      "targetValue": "Higashiyama Line",
+      "utterance": "line opened before 1960",
+      "id": "nt-10295"
+    },
+    {
+      "targetValue": "pink",
+      "utterance": "what was the color of the last line on this chart?",
+      "id": "nt-10816"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "is the higashiyama line longer than the meiko line?",
+      "id": "nt-11304"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many lines exist in total?",
+      "id": "nt-12254"
+    }
+  ],
+  "metadata": {
+    "title": "Nagoya Municipal Subway",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7997387&oldid=592474059",
+    "tableIndex": 0,
+    "hashcode": "cf5210c52c58f2294f2de628a6f723dff3f43431",
+    "id": 7997387,
+    "revision": 592474059
+  }
+}

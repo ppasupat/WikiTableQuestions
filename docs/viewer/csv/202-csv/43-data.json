@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "Rolling Stone",
+      "utterance": "from where did 'stayin' alive' receive the most accolades?",
+      "id": "nt-4234"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times has 'stayin' alive' been recognized as one of the rolling stone's \"500 greatest songs of all time\"?",
+      "id": "nt-7303"
+    }
+  ],
+  "metadata": {
+    "title": "Stayin' Alive",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2041434&oldid=601536844",
+    "tableIndex": 0,
+    "hashcode": "4cd3b9edd45f439e4c55b3de977fb347a4782220",
+    "id": 2041434,
+    "revision": 601536844
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "23 years",
+      "utterance": "how long has atari been manufacturing the the game off the wall?",
+      "id": "nt-1724"
+    },
+    {
+      "targetValue": "Fixed shooter",
+      "utterance": "what is the genre of the last title on this chart?",
+      "id": "nt-3056"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many arcade games were released in 1987?",
+      "id": "nt-3778"
+    },
+    {
+      "targetValue": "Taito",
+      "utterance": "which manufacturer has the most games on the list?",
+      "id": "nt-5537"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what are the number of times taito is listed as the manufacturer?",
+      "id": "nt-7886"
+    },
+    {
+      "targetValue": "One Shot One Kill",
+      "utterance": "what is the next title listed after omega race?",
+      "id": "nt-8560"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many games have a max player limit of at least 3?",
+      "id": "nt-10740"
+    },
+    {
+      "targetValue": "Outlaw",
+      "utterance": "what was the first video game to be released that starts with the letter o?",
+      "id": "nt-12066"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many arcade games were released before 1979?",
+      "id": "nt-12093"
+    },
+    {
+      "targetValue": "Ocean Hunter, The",
+      "utterance": "what is the name of the first title on this chart?",
+      "id": "nt-13305"
+    }
+  ],
+  "metadata": {
+    "title": "List of arcade video games: O",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=39659473&oldid=575603645",
+    "tableIndex": 0,
+    "hashcode": "48440b56eb2f498edb999e2d8f06fcb8bef89c90",
+    "id": 39659473,
+    "revision": 575603645
+  }
+}

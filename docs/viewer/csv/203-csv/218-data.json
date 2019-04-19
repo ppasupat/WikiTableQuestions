@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Nardi et Co.",
+      "utterance": "who only completed 7 laps?",
+      "id": "nt-568"
+    },
+    {
+      "targetValue": "Automobili O.S.C.A.",
+      "utterance": "did automobili osca or david brown make the most laps?",
+      "id": "nt-1126"
+    },
+    {
+      "targetValue": "Automobili O.S.C.A.",
+      "utterance": "which team had the most number of laps?",
+      "id": "nt-3620"
+    },
+    {
+      "targetValue": "Automobiles Panhard et Levassor",
+      "utterance": "what team did not complete a single lap?",
+      "id": "nt-6317"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many finished more than 150 laps?",
+      "id": "nt-6377"
+    },
+    {
+      "targetValue": "177",
+      "utterance": "how many laps did scuderia ferrari with driver robert manzon complete?",
+      "id": "nt-7216"
+    },
+    {
+      "targetValue": "Below",
+      "utterance": "was the team that had the most laps above or below 250?",
+      "id": "nt-7957"
+    },
+    {
+      "targetValue": "France",
+      "utterance": "which country has produced the most drivers?",
+      "id": "nt-11155"
+    },
+    {
+      "targetValue": "152",
+      "utterance": "what is the total number of laps completed by german teams?",
+      "id": "nt-13809"
+    }
+  ],
+  "metadata": {
+    "title": "1954 24 Hours of Le Mans",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5111259&oldid=583900515",
+    "tableIndex": 3,
+    "hashcode": "fc2f51c2d3753807a73d92e3db559a9cc7153be5",
+    "id": 5111259,
+    "revision": 583900515
+  }
+}

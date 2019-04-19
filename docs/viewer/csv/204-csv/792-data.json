@@ -1,0 +1,56 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "157",
+        "158",
+        "159"
+      ],
+      "utterance": "which games had an attendance of below 14,000?",
+      "id": "nt-1038"
+    },
+    {
+      "targetValue": "Reds",
+      "utterance": "which was the team the astros played next after the cardinals?",
+      "id": "nt-1716"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many of the five games the astros played against the chicago cubs in september, 2007 did the astros win?",
+      "id": "nt-1811"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "astros pitcher brad lidge had more/less than seven saves in september, 2007?",
+      "id": "nt-3924"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the difference in runs between the two teams on september 15?",
+      "id": "nt-6987"
+    },
+    {
+      "targetValue": "27",
+      "utterance": "what is the total number of dates?",
+      "id": "nt-8216"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "are the dates in consecutive order?",
+      "id": "nt-12246"
+    },
+    {
+      "targetValue": "Braves",
+      "utterance": "who did the astros play after the reds?",
+      "id": "nt-13686"
+    }
+  ],
+  "metadata": {
+    "title": "2007 Houston Astros season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9288192&oldid=581183916",
+    "tableIndex": 6,
+    "hashcode": "4190d2d45ce749ee69bee4c91c0a027e2c5333a2",
+    "id": 9288192,
+    "revision": 581183916
+  }
+}

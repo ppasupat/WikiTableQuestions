@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "300",
+      "utterance": "what's the number of people who attended the oklahoma game on 11/29/1985?",
+      "id": "nt-4838"
+    },
+    {
+      "targetValue": "17,128",
+      "utterance": "what was the highest number of fans in attendance?",
+      "id": "nt-5761"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "how many games did illinois win?",
+      "id": "nt-7412"
+    },
+    {
+      "targetValue": "12/7/1985",
+      "utterance": "whem was illinois' highest scoring game?",
+      "id": "nt-7978"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how long was illinois' longest winning streak in the 1985/1986 season?",
+      "id": "nt-8358"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "how many of the games were the illini ranked?",
+      "id": "nt-9255"
+    },
+    {
+      "targetValue": "13,143",
+      "utterance": "what was the total number of people who attended the first game of the season?",
+      "id": "nt-13482"
+    }
+  ],
+  "metadata": {
+    "title": "1985–86 Illinois Fighting Illini men's basketball team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=31196564&oldid=597475765",
+    "tableIndex": 1,
+    "hashcode": "d393fdab0f9d5ef7176d55011e40ba3fa2c6cc70",
+    "id": 31196564,
+    "revision": 597475765
+  }
+}

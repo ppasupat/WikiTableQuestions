@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Bbox Bouygues Telecom",
+      "utterance": "on which team was the cyclist who withdrew after injuring his shoulder in a crash during stage 6?",
+      "id": "nt-623"
+    },
+    {
+      "targetValue": "Anthony Charteau",
+      "utterance": "what cyclist is listed next after matteo?",
+      "id": "nt-1679"
+    },
+    {
+      "targetValue": "Illness",
+      "utterance": "daniel martin and joost posthuma both withdrew from the race because of what reason?",
+      "id": "nt-3255"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many people withdrew before the 5th stage?",
+      "id": "nt-4637"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "how many cyclists total had dnf withdrawals?",
+      "id": "nt-4675"
+    },
+    {
+      "targetValue": "Rémi Pauriol",
+      "utterance": "who was the first person to withdraw from the race?",
+      "id": "nt-6948"
+    },
+    {
+      "targetValue": "Stage 7",
+      "utterance": "which stage had the most cyclists withdraw?",
+      "id": "nt-7250"
+    },
+    {
+      "targetValue": "José Ángel Gómez Marchante",
+      "utterance": "which cyclist withdrew after breaking his arm in a crash during stage 2?",
+      "id": "nt-10180"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many cyclists withdrew before stage 6?",
+      "id": "nt-10945"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many people withdrew in the 4th stage?",
+      "id": "nt-12693"
+    }
+  ],
+  "metadata": {
+    "title": "2009 Paris–Nice",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21747429&oldid=574515242",
+    "tableIndex": 22,
+    "hashcode": "e661ddad81a0ba02e3ad3e75e795a2fcee4294c2",
+    "id": 21747429,
+    "revision": 574515242
+  }
+}

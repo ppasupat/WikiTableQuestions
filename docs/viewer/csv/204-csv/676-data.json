@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "what is the difference between the richmond futures kickers rank in 2003 and 2006?",
+      "id": "nt-678"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "each years the mid atlantic league sends a team to the playoffs. how many times has it been the richmond kickers future?",
+      "id": "nt-4560"
+    },
+    {
+      "targetValue": "2004",
+      "utterance": "what is the year previous to 2005?",
+      "id": "nt-4584"
+    },
+    {
+      "targetValue": "2005",
+      "utterance": "the richmond kickers future made the national semifinals only once. what year was it?",
+      "id": "nt-4901"
+    },
+    {
+      "targetValue": "2004",
+      "utterance": "is 2003 or 2004 did not qualify?",
+      "id": "nt-7019"
+    },
+    {
+      "targetValue": "3rd",
+      "utterance": "they placed 1st in 2003. how did they place the next year?",
+      "id": "nt-11261"
+    },
+    {
+      "targetValue": "2008",
+      "utterance": "what was the last year this team played in the league?",
+      "id": "nt-13077"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "tell me the number of times they qualified for the playoffs.",
+      "id": "nt-13277"
+    }
+  ],
+  "metadata": {
+    "title": "Richmond Kickers Future",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2177081&oldid=569606375",
+    "tableIndex": 0,
+    "hashcode": "a97cdac81f04a1861e50725a16a38cee0f83d03f",
+    "id": 2177081,
+    "revision": 569606375
+  }
+}

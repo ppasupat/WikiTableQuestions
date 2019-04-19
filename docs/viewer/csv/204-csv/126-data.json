@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": "Bobby Wadkins",
+      "utterance": "who had the same score as ben crenshaw?",
+      "id": "nt-920"
+    },
+    {
+      "targetValue": "Strange",
+      "utterance": "who scored better, strange or frost?",
+      "id": "nt-5130"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times was the number under the money column more than 30,000?",
+      "id": "nt-5236"
+    },
+    {
+      "targetValue": "Larry Nelson",
+      "utterance": "what is the name of the first player on this chart?",
+      "id": "nt-5692"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what was first place's difference to par?",
+      "id": "nt-6075"
+    },
+    {
+      "targetValue": [
+        "Larry Nelson",
+        "Lanny Wadkins"
+      ],
+      "utterance": "name each of the first place players",
+      "id": "nt-7151"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "which country had the most leaders?",
+      "id": "nt-11154"
+    },
+    {
+      "targetValue": "Bobby Wadkins",
+      "utterance": "whose score was the same as crenshaw's?",
+      "id": "nt-12252"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what are the number of times the united states is listed as the country?",
+      "id": "nt-12985"
+    }
+  ],
+  "metadata": {
+    "title": "1987 PGA Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18148559&oldid=588294986",
+    "tableIndex": 2,
+    "hashcode": "5fbc1741c9af60c7b7750c4a3a50cd4a18a09c3f",
+    "id": 18148559,
+    "revision": 588294986
+  }
+}

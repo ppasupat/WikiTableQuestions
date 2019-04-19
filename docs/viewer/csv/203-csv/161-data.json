@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "106",
+      "utterance": "how many laps did the last place finisher complete?",
+      "id": "nt-1087"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many teams are in the top five positions?",
+      "id": "nt-1762"
+    },
+    {
+      "targetValue": "Terry Finnigan",
+      "utterance": "name one team that placed before lusty engineering.",
+      "id": "nt-2736"
+    },
+    {
+      "targetValue": "Tomas Mezera",
+      "utterance": "larry perkins and what other driver is under the team perkins engineering?",
+      "id": "nt-3043"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "what was the difference in laps between position 1 and position 24?",
+      "id": "nt-4311"
+    },
+    {
+      "targetValue": "Toyota Dealer Team",
+      "utterance": "which team did falkner, smith and bates drive for?",
+      "id": "nt-9267"
+    },
+    {
+      "targetValue": "John Goss",
+      "utterance": "who was phil ward racing's other driver?",
+      "id": "nt-12131"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many teams had less than five qualifying positions?",
+      "id": "nt-13602"
+    }
+  ],
+  "metadata": {
+    "title": "1990 Nissan Sydney 500",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20725094&oldid=586502201",
+    "tableIndex": 0,
+    "hashcode": "3b8e6e395b4bb585c98b131d2d2986e691d6ce56",
+    "id": 20725094,
+    "revision": 586502201
+  }
+}

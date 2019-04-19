@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "how many awards did she win for muneca brava?",
+      "id": "nt-546"
+    },
+    {
+      "targetValue": "2013",
+      "utterance": "what was the last year the tv show lynch aired?",
+      "id": "nt-2358"
+    },
+    {
+      "targetValue": "1994",
+      "utterance": "what year was natalia oriero's first tv role?",
+      "id": "nt-2601"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many were released after 2004?",
+      "id": "nt-3480"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many tv shows has natalia oreiro starred in?",
+      "id": "nt-5542"
+    },
+    {
+      "targetValue": "Muñeca brava",
+      "utterance": "what was the television show that gave natalia oriero her first award?",
+      "id": "nt-5656"
+    },
+    {
+      "targetValue": "Victoria",
+      "utterance": "she played veronica iturbe montalban in 1995. what was her previous character?",
+      "id": "nt-5982"
+    },
+    {
+      "targetValue": "Recurso Natural",
+      "utterance": "what was the name of the show that natalia oriero hosted in 2008?",
+      "id": "nt-6476"
+    },
+    {
+      "targetValue": "2012-2013",
+      "utterance": "what years was natalia oriero on the show lynch?",
+      "id": "nt-7647"
+    },
+    {
+      "targetValue": "Muneca brava",
+      "utterance": "this actress won a story award and a viva 2000 israel award for her role in which tv show?",
+      "id": "nt-9062"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many tv shows did natalia oreiro between 1998 and 2002?",
+      "id": "nt-9580"
+    },
+    {
+      "targetValue": "Kachorra",
+      "utterance": "which is the oldest, kachorra or sos mi vida?",
+      "id": "nt-11136"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many canal 9 shows has this actress been on?",
+      "id": "nt-11720"
+    }
+  ],
+  "metadata": {
+    "title": "Natalia Oreiro",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2006997&oldid=597262732",
+    "tableIndex": 0,
+    "hashcode": "5b299e73004a1161b0edf2b2d8bf54a59add8db1",
+    "id": 2006997,
+    "revision": 597262732
+  }
+}

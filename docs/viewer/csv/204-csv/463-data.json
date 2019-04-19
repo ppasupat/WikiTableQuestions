@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "how many consecutive years did the seattle sounders not qualify for the open cup?",
+      "id": "nt-607"
+    },
+    {
+      "targetValue": "Did not qualify",
+      "utterance": "what playoff result occurred the most?",
+      "id": "nt-4249"
+    },
+    {
+      "targetValue": "4 years",
+      "utterance": "how long after 2008 did it take for division 4 to qualify for the playoffs once again?",
+      "id": "nt-5797"
+    },
+    {
+      "targetValue": "2013",
+      "utterance": "what is the only year that the seattle sounders qualified for the open cup?",
+      "id": "nt-7192"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what was the total amount of times the tacoma not qualify for the playoffs during the years of 2006 to 2013",
+      "id": "nt-11423"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times have the seattle sounders finished the regular season higher than 4th place?",
+      "id": "nt-12976"
+    },
+    {
+      "targetValue": "2013",
+      "utterance": "what was the only year that division 4 qualified 2nd round of the open cup?",
+      "id": "nt-13254"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of times the seattle sounders has reached the 2nd round of the open cup?",
+      "id": "nt-13260"
+    },
+    {
+      "targetValue": "2008",
+      "utterance": "the 2012 regular season results were the same as what other year?",
+      "id": "nt-13475"
+    }
+  ],
+  "metadata": {
+    "title": "Seattle Sounders FC U-23",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5174743&oldid=589818537",
+    "tableIndex": 0,
+    "hashcode": "609d20f43624d11fef60192130ee141574b8460c",
+    "id": 5174743,
+    "revision": 589818537
+  }
+}

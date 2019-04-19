@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "7 years",
+      "utterance": "how long has neha been acting?",
+      "id": "nt-247"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many years ago was her first film?",
+      "id": "nt-2739"
+    },
+    {
+      "targetValue": "Crook: It's Good To Be Bad",
+      "utterance": "what film game before ter meri kahaani?",
+      "id": "nt-4899"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many films has neha sharma been in?",
+      "id": "nt-7282"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many films has neha appeared in?",
+      "id": "nt-8701"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the number of films where the language was hindi?",
+      "id": "nt-9334"
+    },
+    {
+      "targetValue": "Youngistaan",
+      "utterance": "what was neha's last film?",
+      "id": "nt-11120"
+    },
+    {
+      "targetValue": "Crook: It's Good To Be Bad",
+      "utterance": "what was the next movie after kurradu?",
+      "id": "nt-13124"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many total films has she starred in?",
+      "id": "nt-13154"
+    },
+    {
+      "targetValue": "Kyaa Super Kool Hain Hum",
+      "utterance": "what film did she star in after her special appearance in teri meri kahaani?",
+      "id": "nt-13499"
+    }
+  ],
+  "metadata": {
+    "title": "Neha Sharma",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13923252&oldid=602236687",
+    "tableIndex": 0,
+    "hashcode": "fd35e4e1484e4b5b34e2461d6effe1fb331efcec",
+    "id": 13923252,
+    "revision": 602236687
+  }
+}

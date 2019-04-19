@@ -1,0 +1,61 @@
+{
+  "examples": [
+    {
+      "targetValue": "Palestra Itália-SP",
+      "utterance": "which brazilian team took the top spot in the 1926 brazilian football cup?",
+      "id": "nt-615"
+    },
+    {
+      "targetValue": "Corinthians",
+      "utterance": "which is the only team to score 13 points in 9 games?",
+      "id": "nt-1984"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many teams had more points than silex?",
+      "id": "nt-2825"
+    },
+    {
+      "targetValue": [
+        "Auto",
+        "Corinthians",
+        "Santos"
+      ],
+      "utterance": "in 1926 brazilian football,aside from the first place team, what other teams had winning records?",
+      "id": "nt-4074"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many points did the brazilian football team auto get in 1926?",
+      "id": "nt-5268"
+    },
+    {
+      "targetValue": "Palestra Itália-SP",
+      "utterance": "which team was the only team that was undefeated?",
+      "id": "nt-8395"
+    },
+    {
+      "targetValue": "Palestra Itália-SP",
+      "utterance": "which team was the top scoring team?",
+      "id": "nt-9517"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "in 1926 brazilian football, how many teams scored above 10 points in the season?",
+      "id": "nt-11929"
+    },
+    {
+      "targetValue": "90",
+      "utterance": "in 1926 brazilian football,what was the total number of points scored?",
+      "id": "nt-13313"
+    }
+  ],
+  "metadata": {
+    "title": "1926 in Brazilian football",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15385631&oldid=547592141",
+    "tableIndex": 0,
+    "hashcode": "aaec310c10d57c948cf9e1773d48a04c78f23566",
+    "id": 15385631,
+    "revision": 547592141
+  }
+}

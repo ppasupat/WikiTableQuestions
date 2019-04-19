@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "Portugal",
+      "utterance": "what team had the worst win/tie/loss record?",
+      "id": "nt-9723"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many points did portugal score in the 1994 europeans men's handball championship preliminary round?",
+      "id": "nt-10572"
+    },
+    {
+      "targetValue": "Sweden",
+      "utterance": "what team had the best gd?",
+      "id": "nt-10635"
+    },
+    {
+      "targetValue": "Sweden",
+      "utterance": "which country won the 1994 europeans men's handball championship's preliminary round?",
+      "id": "nt-12169"
+    }
+  ],
+  "metadata": {
+    "title": "1994 European Men's Handball Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=37577&oldid=591165461",
+    "tableIndex": 3,
+    "hashcode": "b562022a0d0ef0168b44383d35fe3018545edf12",
+    "id": 37577,
+    "revision": 591165461
+  }
+}

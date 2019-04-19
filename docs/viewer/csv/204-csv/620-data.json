@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Telugu",
+      "utterance": "what is the first language after hindi",
+      "id": "nt-1931"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "does maqbool have longer notes than shakti?",
+      "id": "nt-5530"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what is the total years on the chart",
+      "id": "nt-6932"
+    },
+    {
+      "targetValue": "36",
+      "utterance": "how many roles has this actor had?",
+      "id": "nt-8423"
+    },
+    {
+      "targetValue": "Karma Yodha",
+      "utterance": "what was the last malayalam film this actor starred in?",
+      "id": "nt-9628"
+    },
+    {
+      "targetValue": "Maqbool",
+      "utterance": "what movie did this actor star in after they starred in dil vil pyar vyar in 2002?",
+      "id": "nt-11124"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what are the number of titles listed in 2005?",
+      "id": "nt-12423"
+    },
+    {
+      "targetValue": "Dhamaal",
+      "utterance": "what title is before dhol in 2007?",
+      "id": "nt-14073"
+    }
+  ],
+  "metadata": {
+    "title": "Murali Sharma",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14313405&oldid=601762461",
+    "tableIndex": 1,
+    "hashcode": "8be300896802f1de61769283cfcce30fe3dc53f8",
+    "id": 14313405,
+    "revision": 601762461
+  }
+}

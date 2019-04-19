@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "United States International University",
+      "utterance": "where did steven smith go to college?",
+      "id": "nt-2548"
+    },
+    {
+      "targetValue": "Formula Shell Zoom Masters",
+      "utterance": "what team is first on the list?",
+      "id": "nt-2935"
+    },
+    {
+      "targetValue": "William Antonio",
+      "utterance": "what player was picked directly above calpito?",
+      "id": "nt-4052"
+    },
+    {
+      "targetValue": "Philippines",
+      "utterance": "what other country besides the united states had players picked?",
+      "id": "nt-5748"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "where there more or less than 5 players picked from the united states?",
+      "id": "nt-6153"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "was steven smith pick number 5 or number 8?",
+      "id": "nt-6500"
+    },
+    {
+      "targetValue": "Noy Castillo",
+      "utterance": "who was the top player selectedd from the citadel?",
+      "id": "nt-9241"
+    },
+    {
+      "targetValue": [
+        "Danilo Ildefonso",
+        "Brixter Encarnacion",
+        "Banjo Calpito",
+        "Henry Fernandez"
+      ],
+      "utterance": "which players are not part of the united states?",
+      "id": "nt-9252"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many from the philippines?",
+      "id": "nt-9392"
+    },
+    {
+      "targetValue": "Pop Cola 800s",
+      "utterance": "which team got more players, pop cola or gordon's?",
+      "id": "nt-12058"
+    }
+  ],
+  "metadata": {
+    "title": "1998 PBA draft",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15442945&oldid=587483902",
+    "tableIndex": 0,
+    "hashcode": "6de4ea2f0e439bf364f1d3edbfe0e8fac38fe637",
+    "id": 15442945,
+    "revision": 587483902
+  }
+}

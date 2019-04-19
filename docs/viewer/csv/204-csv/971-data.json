@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "13",
+      "utterance": "how many games were attended by at least 8,000 people?",
+      "id": "nt-681"
+    },
+    {
+      "targetValue": "94",
+      "utterance": "what is the total number of points scored by this team this season?",
+      "id": "nt-875"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many games did the club play in the month of july?",
+      "id": "nt-2970"
+    },
+    {
+      "targetValue": "1,000",
+      "utterance": "what was the total attendance in the month of february?",
+      "id": "nt-3106"
+    },
+    {
+      "targetValue": "Supercup",
+      "utterance": "which tournament was attended by more people, ucl on july 13th or supercup on july 17th?",
+      "id": "nt-4722"
+    },
+    {
+      "targetValue": "21,500",
+      "utterance": "how many people attended the club's games in the month of march?",
+      "id": "nt-5165"
+    },
+    {
+      "targetValue": "07 Aug",
+      "utterance": "which game was attended by more people, august 7 or september 22?",
+      "id": "nt-6609"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what is the number of games that had a score of 2-0?",
+      "id": "nt-7974"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many tournaments were attended by the same number of people as uel on the 19th of august?",
+      "id": "nt-8014"
+    },
+    {
+      "targetValue": "Koper",
+      "utterance": "which team did they play first during this season?",
+      "id": "nt-9215"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the difference between the number of points scored in the first game on july 13 and the 18th game on september 26?",
+      "id": "nt-11851"
+    },
+    {
+      "targetValue": "1,500",
+      "utterance": "how many people attended the september 22 game?",
+      "id": "nt-11885"
+    },
+    {
+      "targetValue": "11 Sep",
+      "utterance": "which game had the highest attendance?",
+      "id": "nt-13515"
+    }
+  ],
+  "metadata": {
+    "title": "2010–11 GNK Dinamo Zagreb season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=28248721&oldid=584814918",
+    "tableIndex": 8,
+    "hashcode": "d62ec1fe0a410635f790cf5790c1828c2ee3dbde",
+    "id": 28248721,
+    "revision": 584814918
+  }
+}

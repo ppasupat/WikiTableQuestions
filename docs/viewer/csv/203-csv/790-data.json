@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "November 15, 1959",
+      "utterance": "when was their last loss?",
+      "id": "nt-2256"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the total number of wins?",
+      "id": "nt-3886"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many games were played in the month of november",
+      "id": "nt-4338"
+    },
+    {
+      "targetValue": "week 4",
+      "utterance": "was attendance higher week 4 or week 8?",
+      "id": "nt-7619"
+    },
+    {
+      "targetValue": "December 13, 1959",
+      "utterance": "what was the date that had the least attendance?",
+      "id": "nt-10073"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many games had less than 30,000 people in attendance?",
+      "id": "nt-12269"
+    },
+    {
+      "targetValue": "September 26, 1959",
+      "utterance": "which week saw attendance of at least 70,000?",
+      "id": "nt-12502"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total number losses?",
+      "id": "nt-13395"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many games were won after their second loss of the season to the pittsburgh steelers?",
+      "id": "nt-13971"
+    }
+  ],
+  "metadata": {
+    "title": "1959 New York Giants season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16660896&oldid=583531615",
+    "tableIndex": 0,
+    "hashcode": "a9b768dbdf2b5493c9cfc0ceb58e86fd618fc2d1",
+    "id": 16660896,
+    "revision": 583531615
+  }
+}

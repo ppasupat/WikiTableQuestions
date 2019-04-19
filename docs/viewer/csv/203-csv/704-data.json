@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "200 mi (320 km)",
+      "utterance": "how long was the distance for the race at walt disney world speedway, florida?",
+      "id": "nt-636"
+    },
+    {
+      "targetValue": "Walt Disney World Speedway, Florida",
+      "utterance": "which location is listed previous to march 22?",
+      "id": "nt-1946"
+    },
+    {
+      "targetValue": [
+        "Phoenix International Raceway, Arizona",
+        "Indianapolis Motor Speedway, Indiana"
+      ],
+      "utterance": "which race, other than texas motor speedway, did tony stewart finish the fastest?",
+      "id": "nt-3959"
+    },
+    {
+      "targetValue": "Kenny Bräck",
+      "utterance": "which racer won the most races?",
+      "id": "nt-5132"
+    },
+    {
+      "targetValue": "Dover International Speedway, Delaware",
+      "utterance": "which location had the top laps?",
+      "id": "nt-5511"
+    },
+    {
+      "targetValue": "Kenny Bräck",
+      "utterance": "who won the most consecutive number of races during the year?",
+      "id": "nt-11227"
+    },
+    {
+      "targetValue": "101.74",
+      "utterance": "what was the difference between the fastest and slowest speed during the year?",
+      "id": "nt-12881"
+    },
+    {
+      "targetValue": "Arie Luyendyk",
+      "utterance": "who is the only frenchman to win during the year?",
+      "id": "nt-13614"
+    }
+  ],
+  "metadata": {
+    "title": "1998 Indy Racing League season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4482055&oldid=588598172",
+    "tableIndex": 0,
+    "hashcode": "01b435b778f0cf9c3afa0a471eed4ce6b49dcaf9",
+    "id": 4482055,
+    "revision": 588598172
+  }
+}

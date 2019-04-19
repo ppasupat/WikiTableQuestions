@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Re 4/4",
+      "utterance": "which locomotive weighs the least?",
+      "id": "nt-242"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "does the ae 8/8 weigh more or less than the re 6/6?",
+      "id": "nt-753"
+    },
+    {
+      "targetValue": "365 t",
+      "utterance": "what is the difference in weight between the 060-ea and the challenger?",
+      "id": "nt-942"
+    },
+    {
+      "targetValue": "H220",
+      "utterance": "which locomotive had the least amount of power?",
+      "id": "nt-3218"
+    },
+    {
+      "targetValue": "976 t",
+      "utterance": "what is the combined weight of the big boy and the m1?",
+      "id": "nt-3590"
+    },
+    {
+      "targetValue": "44",
+      "utterance": "how many locomotives make the list of the largest locomotives?",
+      "id": "nt-4962"
+    },
+    {
+      "targetValue": "36 t",
+      "utterance": "what is the difference in weight between the re 465 and the ae 6/6?",
+      "id": "nt-5376"
+    }
+  ],
+  "metadata": {
+    "title": "List of largest locomotives",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3800341&oldid=600448355",
+    "tableIndex": 0,
+    "hashcode": "db053553c7d2cfbeaed42d2e729273bf66d61413",
+    "id": 3800341,
+    "revision": 600448355
+  }
+}

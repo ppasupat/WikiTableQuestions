@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "10",
+      "utterance": "what is the total number of players from ohio state?",
+      "id": "nt-587"
+    },
+    {
+      "targetValue": "Ohio State",
+      "utterance": "which college was the most attended by players?",
+      "id": "nt-2626"
+    },
+    {
+      "targetValue": "Akise Teague",
+      "utterance": "which players played the same position as derek combs?",
+      "id": "nt-2751"
+    },
+    {
+      "targetValue": "Ryan Brewer",
+      "utterance": "who is next to tony fisher in ascending order?",
+      "id": "nt-8325"
+    },
+    {
+      "targetValue": "RB",
+      "utterance": "tony fisher and ryan brewer each played what position?",
+      "id": "nt-9551"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many wins came out of ohio state?",
+      "id": "nt-10606"
+    },
+    {
+      "targetValue": "Ray Williams",
+      "utterance": "who was player of the year after ben mauk?",
+      "id": "nt-11281"
+    },
+    {
+      "targetValue": "Buster Howe",
+      "utterance": "who was the player of the year before robert smith?",
+      "id": "nt-11705"
+    },
+    {
+      "targetValue": "Ray Williams",
+      "utterance": "who was the top player for 2003?",
+      "id": "nt-11813"
+    }
+  ],
+  "metadata": {
+    "title": "Mr. Football Award (Ohio)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8243206&oldid=584653899",
+    "tableIndex": 0,
+    "hashcode": "aede9b5f601b9496f6539816b7acde616ffe80a6",
+    "id": 8243206,
+    "revision": 584653899
+  }
+}

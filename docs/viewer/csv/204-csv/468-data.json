@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "16",
+      "utterance": "how many drivers did not complete 95 laps?",
+      "id": "nt-4106"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many drivers did team rahal have in the race?",
+      "id": "nt-5074"
+    },
+    {
+      "targetValue": "Tony Kanaan",
+      "utterance": "only one driver was retired due to a fire, who was that driver?",
+      "id": "nt-5349"
+    },
+    {
+      "targetValue": "Chip Ganassi Racing",
+      "utterance": "what is the name of the first team on this chart?",
+      "id": "nt-5599"
+    },
+    {
+      "targetValue": "Alex Barron",
+      "utterance": "which driver drove the least amount of laps?",
+      "id": "nt-5995"
+    },
+    {
+      "targetValue": "95",
+      "utterance": "what are the total number of laps driven by scott pruett?",
+      "id": "nt-8265"
+    },
+    {
+      "targetValue": "below",
+      "utterance": "did robby gordon place above or beloy bobby rahal?",
+      "id": "nt-8290"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what was richie hearn's race position?",
+      "id": "nt-9124"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "alex zanardi came in first place, what is his number?",
+      "id": "nt-9184"
+    },
+    {
+      "targetValue": "Maurício Gugelmin",
+      "utterance": "who is the only player to get one point in the race?",
+      "id": "nt-9891"
+    },
+    {
+      "targetValue": "Alex Barron",
+      "utterance": "who came in last place in the race, alex barron or gil de ferran?",
+      "id": "nt-10590"
+    }
+  ],
+  "metadata": {
+    "title": "1998 Molson Indy Toronto",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=28986765&oldid=564131629",
+    "tableIndex": 0,
+    "hashcode": "740b165b5006290b822a8dc35045151dd52a1fd4",
+    "id": 28986765,
+    "revision": 564131629
+  }
+}

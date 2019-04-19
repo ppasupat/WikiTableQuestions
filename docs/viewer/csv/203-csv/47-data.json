@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Xcel Energy Center",
+      "utterance": "what location had the most games?",
+      "id": "nt-4945"
+    },
+    {
+      "targetValue": "L 9-14",
+      "utterance": "what was the score for game 8?",
+      "id": "nt-6078"
+    },
+    {
+      "targetValue": "March 3, 2006",
+      "utterance": "which date had the most people in attendance?",
+      "id": "nt-6782"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the largest number of consecutive wins?",
+      "id": "nt-9687"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many games were won by the swarm by over 2 goals?",
+      "id": "nt-10751"
+    },
+    {
+      "targetValue": "Philadelphia Wings",
+      "utterance": "who was the opponent for game 2?",
+      "id": "nt-11460"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many home games were played?",
+      "id": "nt-12926"
+    }
+  ],
+  "metadata": {
+    "title": "2006 Minnesota Swarm season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17103711&oldid=552541615",
+    "tableIndex": 2,
+    "hashcode": "49348883326eacd51a6e84ca7850f564e5389ae1",
+    "id": 17103711,
+    "revision": 552541615
+  }
+}

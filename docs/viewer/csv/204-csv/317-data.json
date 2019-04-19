@@ -1,0 +1,56 @@
+{
+  "examples": [
+    {
+      "targetValue": "Tokyo",
+      "utterance": "what city was ranked first in 2003?",
+      "id": "nt-516"
+    },
+    {
+      "targetValue": "Chennai",
+      "utterance": "which area is listed above chicago?",
+      "id": "nt-1105"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many cities are in the united states?",
+      "id": "nt-3517"
+    },
+    {
+      "targetValue": "Ahmedabad",
+      "utterance": "name a city from the same country as bangalore.",
+      "id": "nt-5313"
+    },
+    {
+      "targetValue": [
+        "Buenos Aires",
+        "Dhaka",
+        "İstanbul",
+        "Kolkata",
+        "London",
+        "Los Angeles",
+        "Manila",
+        "Moscow",
+        "New York",
+        "Osaka-Kobe-Kyoto (Keihanshin)",
+        "Paris",
+        "Rio de Janeiro",
+        "São Paulo"
+      ],
+      "utterance": "which areas had a population of more than 10,000,000 but less than 20,000,000?",
+      "id": "nt-6183"
+    },
+    {
+      "targetValue": "8,728,906",
+      "utterance": "which population is listed before 5,357,422?",
+      "id": "nt-13517"
+    }
+  ],
+  "metadata": {
+    "title": "List of metropolitan areas by population",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=125279&oldid=601588791",
+    "tableIndex": 0,
+    "hashcode": "027b11263b9a933c8bfa649ff13b51cd901f17c6",
+    "id": 125279,
+    "revision": 601588791
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "yes",
+      "utterance": "is solon borland a representative?",
+      "id": "nt-856"
+    },
+    {
+      "targetValue": "Henry C. Hall",
+      "utterance": "which minister resident had the shortest appointment?",
+      "id": "nt-2516"
+    },
+    {
+      "targetValue": "Lisa Kubiske",
+      "utterance": "who was the last representative picked?",
+      "id": "nt-4000"
+    },
+    {
+      "targetValue": "March 17, 1860",
+      "utterance": "which date is below april 17, 1854",
+      "id": "nt-4409"
+    },
+    {
+      "targetValue": "Lisa Kubiske",
+      "utterance": "who is the only ambassadors to honduras appointed by barack obama?",
+      "id": "nt-4441"
+    },
+    {
+      "targetValue": "50",
+      "utterance": "how many total representatives have there been?",
+      "id": "nt-4951"
+    },
+    {
+      "targetValue": "Phillip V. Sanchez",
+      "utterance": "who became the ambassador after the completion of hewson ryan's mission?",
+      "id": "nt-5362"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many representatives were appointed by theodore roosevelt?",
+      "id": "nt-5648"
+    },
+    {
+      "targetValue": "Solon Borland",
+      "utterance": "which reps were only appointed by franklin pierce?",
+      "id": "nt-7504"
+    },
+    {
+      "targetValue": "John Ewing",
+      "utterance": "which envoy was the first appointed by woodrow wilson?",
+      "id": "nt-8293"
+    },
+    {
+      "targetValue": "4 years",
+      "utterance": "what was the length, in years, of leslie combs' term?",
+      "id": "nt-9362"
+    },
+    {
+      "targetValue": "Henry C. Hall",
+      "utterance": "which ambassador to honduras served the longest term?",
+      "id": "nt-11272"
+    }
+  ],
+  "metadata": {
+    "title": "United States Ambassador to Honduras",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6056735&oldid=569918799",
+    "tableIndex": 0,
+    "hashcode": "d818ae9e6811b9a7e443742aa1e91ad78648c5d7",
+    "id": 6056735,
+    "revision": 569918799
+  }
+}

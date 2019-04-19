@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "World Championships",
+      "utterance": "what tournament is at the top?",
+      "id": "nt-296"
+    },
+    {
+      "targetValue": "Sydney, Australia",
+      "utterance": "where was the last meeting in which kaseorg competed?",
+      "id": "nt-3471"
+    },
+    {
+      "targetValue": "Atlanta, USA",
+      "utterance": "in which city did kaseorg attempt but not complete the decathlon?",
+      "id": "nt-6184"
+    },
+    {
+      "targetValue": "Decathlon",
+      "utterance": "did kaseorg compete in the decathlon or the heptathlon in his first race?",
+      "id": "nt-7650"
+    },
+    {
+      "targetValue": "1996",
+      "utterance": "what was the first olympic games in which indrek kaseorg competed?",
+      "id": "nt-8756"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "are the years in consecutive order?",
+      "id": "nt-11764"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "in how many meetings did kaseorg place 10th or better?",
+      "id": "nt-13153"
+    }
+  ],
+  "metadata": {
+    "title": "Indrek Kaseorg",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6707198&oldid=468183627",
+    "tableIndex": 0,
+    "hashcode": "1203f364b490e3aaf4b3250ad0a787056108f4c1",
+    "id": 6707198,
+    "revision": 468183627
+  }
+}

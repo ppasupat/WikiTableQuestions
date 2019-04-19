@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Mercedes Mata",
+      "utterance": "who won the only gold medal in 1962?",
+      "id": "nt-1780"
+    },
+    {
+      "targetValue": "China",
+      "utterance": "which country has won more gold medals: china or mexico?",
+      "id": "nt-3256"
+    },
+    {
+      "targetValue": "Italy",
+      "utterance": "which country has the most bronze medals?",
+      "id": "nt-4230"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many gold did u.s.a win",
+      "id": "nt-8579"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the total amount of winnings for the united states in gold, silver and bronze?",
+      "id": "nt-11948"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "what is the total of silver for cairo",
+      "id": "nt-13808"
+    }
+  ],
+  "metadata": {
+    "title": "Olympic skeet",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3919664&oldid=552852982",
+    "tableIndex": 2,
+    "hashcode": "c8a8bc04cd401f2c7fc5c56558593fc896969c42",
+    "id": 3919664,
+    "revision": 552852982
+  }
+}

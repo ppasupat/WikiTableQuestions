@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "UEFA Europa League",
+      "utterance": "what is the last competition listed on the table?",
+      "id": "nt-4288"
+    },
+    {
+      "targetValue": "Club Brugge",
+      "utterance": "who scored more points in the second round of the uefa cup?",
+      "id": "nt-5249"
+    },
+    {
+      "targetValue": "Group A",
+      "utterance": "group a or group b in 2013-2014 uefa europa leauge",
+      "id": "nt-7243"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the number of competitions listed on the table?",
+      "id": "nt-9558"
+    },
+    {
+      "targetValue": "2007",
+      "utterance": "what is the season listed after 2002?",
+      "id": "nt-10240"
+    },
+    {
+      "targetValue": "UEFA Europa League",
+      "utterance": "what was the last competition they took place in?",
+      "id": "nt-10990"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many home games did st. gallen win?",
+      "id": "nt-11002"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "does each competition have an opponent listed?",
+      "id": "nt-12961"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times did they make it to the first round?",
+      "id": "nt-13673"
+    }
+  ],
+  "metadata": {
+    "title": "FC St. Gallen",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1607312&oldid=600971706",
+    "tableIndex": 0,
+    "hashcode": "0b606a5b653f11eae57459bc5c610d56729efa0f",
+    "id": 1607312,
+    "revision": 600971706
+  }
+}

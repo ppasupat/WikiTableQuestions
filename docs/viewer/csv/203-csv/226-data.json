@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Tim Bresnan",
+      "utterance": "who has a lower strike rate, anthony mcgrath or tim bresnan?",
+      "id": "nt-2092"
+    },
+    {
+      "targetValue": "David Wainwright",
+      "utterance": "adam lyth has the lowest strike rate listed, who has the next lowest strike rate listed?",
+      "id": "nt-4385"
+    },
+    {
+      "targetValue": "Anthony McGrath",
+      "utterance": "who has the highest average?",
+      "id": "nt-4966"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "does matthew hoggard have at least one inning?",
+      "id": "nt-5609"
+    },
+    {
+      "targetValue": "106",
+      "utterance": "how many runs does andrew gale have?",
+      "id": "nt-10506"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many innings and matches does richard pyrah have all together?",
+      "id": "nt-10954"
+    },
+    {
+      "targetValue": "207.15",
+      "utterance": "how high is the strike rate of craig white, richard pyrah, and adam lyth combined?",
+      "id": "nt-11844"
+    }
+  ],
+  "metadata": {
+    "title": "Yorkshire County Cricket Club in 2008",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15893020&oldid=560038027",
+    "tableIndex": 4,
+    "hashcode": "3745864b48e6ba7f2bc5f13a5d6016ca35ab5c0e",
+    "id": 15893020,
+    "revision": 560038027
+  }
+}

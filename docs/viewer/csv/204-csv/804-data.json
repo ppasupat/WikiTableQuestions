@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many audio versions are less than five minutes long?",
+      "id": "nt-162"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many songs were remixed by garraund?",
+      "id": "nt-1284"
+    },
+    {
+      "targetValue": "3:55",
+      "utterance": "how long is the radio edit of this song?",
+      "id": "nt-2110"
+    },
+    {
+      "targetValue": "5:20",
+      "utterance": "how long is the song remixed by y-front?",
+      "id": "nt-6329"
+    },
+    {
+      "targetValue": "Radio edit",
+      "utterance": "which version is the shortest?",
+      "id": "nt-6837"
+    },
+    {
+      "targetValue": "Music video",
+      "utterance": "what was the last version of this song to be created in 2005?",
+      "id": "nt-8925"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many audio versions are at least 6 minutes long?",
+      "id": "nt-9502"
+    },
+    {
+      "targetValue": "The martyr's remix",
+      "utterance": "which versino of the song is the only hard rock version?",
+      "id": "nt-11849"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many versions are at least 7 minutes long?",
+      "id": "nt-11855"
+    },
+    {
+      "targetValue": "Instrumental",
+      "utterance": "piano and guitars are added to what version of this song?",
+      "id": "nt-12298"
+    },
+    {
+      "targetValue": "Radio Edit",
+      "utterance": "what was the shortest song?",
+      "id": "nt-12674"
+    }
+  ],
+  "metadata": {
+    "title": "Fuck Them All",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14754771&oldid=601951069",
+    "tableIndex": 0,
+    "hashcode": "170b41dceabedb9ead3e6d1a2fd0a6752e539796",
+    "id": 14754771,
+    "revision": 601951069
+  }
+}

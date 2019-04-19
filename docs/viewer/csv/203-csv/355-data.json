@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "23.9%",
+      "utterance": "what is the number of hungarians in 1850?",
+      "id": "nt-3732"
+    },
+    {
+      "targetValue": "70.7%",
+      "utterance": "what percent of the population were romanians according to the last year on this chart?",
+      "id": "nt-5143"
+    },
+    {
+      "targetValue": "1977",
+      "utterance": "what year had the highest total number?",
+      "id": "nt-5628"
+    },
+    {
+      "targetValue": "1890",
+      "utterance": "in what year was there the largest percentage of hungarians?",
+      "id": "nt-6990"
+    },
+    {
+      "targetValue": "2002",
+      "utterance": "what year had the next highest percentage for roma after 2011?",
+      "id": "nt-8200"
+    },
+    {
+      "targetValue": "1977",
+      "utterance": "which year is previous to the year that had 74.1% in romanian population?",
+      "id": "nt-9333"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what were the total number of times the romanians had a population percentage above 70%?",
+      "id": "nt-10066"
+    },
+    {
+      "targetValue": "1966",
+      "utterance": "which year had the top percentage in romanian population?",
+      "id": "nt-10430"
+    },
+    {
+      "targetValue": "1941",
+      "utterance": "which year had a total of 6,981 and 19.4% hungarians?",
+      "id": "nt-12074"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the number of times the total population was 6,000 or more?",
+      "id": "nt-12521"
+    }
+  ],
+  "metadata": {
+    "title": "Unirea, Alba",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6387660&oldid=543185439",
+    "tableIndex": 0,
+    "hashcode": "1ae8d53429bc9e0f745b730553d1735e058eec1f",
+    "id": 6387660,
+    "revision": 543185439
+  }
+}

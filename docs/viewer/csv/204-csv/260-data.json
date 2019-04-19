@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many matches were in may 2010?",
+      "id": "nt-60"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many games did newton score multiple times?",
+      "id": "nt-6072"
+    },
+    {
+      "targetValue": "21 May 2010",
+      "utterance": "name a match where the difference in score is higher than 50.",
+      "id": "nt-6152"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many games were played at craven park?",
+      "id": "nt-6674"
+    },
+    {
+      "targetValue": "Craven Park",
+      "utterance": "where did netwon score at least 3 times?",
+      "id": "nt-8432"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of games played against the wakefield trinity wildcats?",
+      "id": "nt-10502"
+    },
+    {
+      "targetValue": "10 February 2008",
+      "utterance": "name a match that had a total score above 40 but less than 65.",
+      "id": "nt-12827"
+    }
+  ],
+  "metadata": {
+    "title": "Clint Newton",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3567310&oldid=600424659",
+    "tableIndex": 0,
+    "hashcode": "0c6cbd2542170c596c3d03fa5d26d912747df83f",
+    "id": 3567310,
+    "revision": 600424659
+  }
+}

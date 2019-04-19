@@ -1,0 +1,79 @@
+{
+  "examples": [
+    {
+      "targetValue": "Wimbledon",
+      "utterance": "which tournament has the largest total win record?",
+      "id": "nt-320"
+    },
+    {
+      "targetValue": "2011",
+      "utterance": "which year end ranking was higher, 2004 or 2011?",
+      "id": "nt-956"
+    },
+    {
+      "targetValue": "37",
+      "utterance": "what was the total number of matches played from 2001 to 2014?",
+      "id": "nt-1163"
+    },
+    {
+      "targetValue": "French Open",
+      "utterance": "what tournament has 5-5 as it's \"w-l\" record?",
+      "id": "nt-2552"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the difference in wins between wimbledon and the us open for this player?",
+      "id": "nt-4522"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many tournaments had 5 total losses?",
+      "id": "nt-5147"
+    },
+    {
+      "targetValue": "2011",
+      "utterance": "in what year was the best year end ranking achieved?",
+      "id": "nt-6264"
+    },
+    {
+      "targetValue": [
+        "2005",
+        "2006",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "utterance": "which years was a ranking below 200 achieved?",
+      "id": "nt-6630"
+    },
+    {
+      "targetValue": "125",
+      "utterance": "what was this players ranking after 2005?",
+      "id": "nt-9191"
+    },
+    {
+      "targetValue": "287",
+      "utterance": "what was this players average ranking between 2001 and 2006?",
+      "id": "nt-11789"
+    },
+    {
+      "targetValue": [
+        "2006",
+        "2009",
+        "2014"
+      ],
+      "utterance": "in which years were there only 1 loss?",
+      "id": "nt-12137"
+    }
+  ],
+  "metadata": {
+    "title": "Łukasz Kubot",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6804063&oldid=601410754",
+    "tableIndex": 6,
+    "hashcode": "f233be4530a234f92046123929a3a9435ab1abe2",
+    "id": 6804063,
+    "revision": 601410754
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many players named jeff were drafted?",
+      "id": "nt-310"
+    },
+    {
+      "targetValue": "Ben McDonald",
+      "utterance": "who is the only player in the top 26 picks that was from louisiana state university?",
+      "id": "nt-639"
+    },
+    {
+      "targetValue": "Scott Burrell",
+      "utterance": "who is the only player from hamden?",
+      "id": "nt-1209"
+    },
+    {
+      "targetValue": "Before",
+      "utterance": "was kiki jones picked before or after greg gohr?",
+      "id": "nt-2500"
+    },
+    {
+      "targetValue": "Ben McDonald",
+      "utterance": "who was the top pick of the 1989 major league baseball draft?",
+      "id": "nt-2837"
+    },
+    {
+      "targetValue": "Scott Burrell",
+      "utterance": "who was the last player selected in the first round of the 1989 major league baseball draft?",
+      "id": "nt-8630"
+    },
+    {
+      "targetValue": "Jeff Juden",
+      "utterance": "who was the only draft pick from salem high school?",
+      "id": "nt-9876"
+    },
+    {
+      "targetValue": "Baltimore Orioles",
+      "utterance": "which was a higher round pick for rhp, the pick from the seattle mariners, baltimore orioles, los angeles dodgers, or the houston astros?",
+      "id": "nt-9931"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many pitchers were chosen in the first round of the 1989 major league baseball draft?",
+      "id": "nt-10273"
+    },
+    {
+      "targetValue": "above",
+      "utterance": "steve hosey was picked above or below mo vaughn?",
+      "id": "nt-10298"
+    }
+  ],
+  "metadata": {
+    "title": "1989 Major League Baseball Draft",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20051473&oldid=589825176",
+    "tableIndex": 0,
+    "hashcode": "bb2cde1a4ed5834454ac427df679de74a3e3b601",
+    "id": 20051473,
+    "revision": 589825176
+  }
+}

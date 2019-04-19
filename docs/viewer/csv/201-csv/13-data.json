@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "Milwaukee",
+      "utterance": "which city in wisconsin is the most populous, based on the 2010 census?",
+      "id": "nt-4918"
+    },
+    {
+      "targetValue": "190",
+      "utterance": "how many cities are in wisconsin?",
+      "id": "nt-10654"
+    },
+    {
+      "targetValue": "Chippewa Falls",
+      "utterance": "what was the first city to be incorporated into wisconsin?",
+      "id": "nt-11724"
+    },
+    {
+      "targetValue": "Milwaukee",
+      "utterance": "which city has the most population in the 2010 census?",
+      "id": "nt-12171"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many cities have 1926 as their incorporation date?",
+      "id": "nt-12397"
+    },
+    {
+      "targetValue": "Eau Claire",
+      "utterance": "county has altoona and augusta?",
+      "id": "nt-12907"
+    }
+  ],
+  "metadata": {
+    "title": "List of cities in Wisconsin",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=538064&oldid=587435485",
+    "tableIndex": 0,
+    "hashcode": "b93ef8fe32a8dd5da3312c93b72869b6db8d5410",
+    "id": 538064,
+    "revision": 587435485
+  }
+}

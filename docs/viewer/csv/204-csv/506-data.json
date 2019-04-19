@@ -1,0 +1,71 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Basket Rimini Crabs",
+        "Aurora Basket Jesi",
+        "Andrea Costa Imola"
+      ],
+      "utterance": "which three teams have been playing for the most seasons?",
+      "id": "nt-437"
+    },
+    {
+      "targetValue": "New Basket Brindisi",
+      "utterance": "who had the most promotions, nuova sebastiani rieti or new basket brindisi?",
+      "id": "nt-1008"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many teams have the same amount of promotions as scafati basket?",
+      "id": "nt-4605"
+    },
+    {
+      "targetValue": "49",
+      "utterance": "how many teams are listed?",
+      "id": "nt-4729"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many relegations did andrea costa imola undergo?",
+      "id": "nt-7058"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many teams had the most seasons?",
+      "id": "nt-8602"
+    },
+    {
+      "targetValue": "Pallac. Reggiana Reggio Emilia",
+      "utterance": "what team is the only team with 2 wins?",
+      "id": "nt-8700"
+    },
+    {
+      "targetValue": "Pallac. Reggiana Reggio Emilia",
+      "utterance": "what team had the most ch. wins during season 8?",
+      "id": "nt-10005"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the difference between the number of wins pallac. reggiana reggio emilia has had and the number of wins progresso castelmaggiore has had?",
+      "id": "nt-10314"
+    },
+    {
+      "targetValue": "Nuova Pallacanestro Pavia",
+      "utterance": "other than scafati basket, who appeared in 9 seasons?",
+      "id": "nt-11670"
+    },
+    {
+      "targetValue": "Basket Rimini Crabs",
+      "utterance": "tell me one that did not have any wins, promotions, or relegations.",
+      "id": "nt-12138"
+    }
+  ],
+  "metadata": {
+    "title": "Legadue Basket",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12870321&oldid=584906790",
+    "tableIndex": 1,
+    "hashcode": "e6fa8f05891afce27407f3a654efd1c3b1c12e18",
+    "id": 12870321,
+    "revision": 584906790
+  }
+}

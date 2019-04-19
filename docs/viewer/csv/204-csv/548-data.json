@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "PUP-Taguig Pep Squad",
+      "utterance": "which team finished after the adamson pep squad",
+      "id": "nt-923"
+    },
+    {
+      "targetValue": "299.17",
+      "utterance": "what is the average total score for the first three teams?",
+      "id": "nt-3389"
+    },
+    {
+      "targetValue": "-71",
+      "utterance": "what was the number of deductions given to all the teams combined?",
+      "id": "nt-3907"
+    },
+    {
+      "targetValue": "UP Pep Squad",
+      "utterance": "which team had the most pyramids?",
+      "id": "nt-5441"
+    },
+    {
+      "targetValue": "UP Pep Squad",
+      "utterance": "other than ccp bobcats, who has \"basic elements\" over 60?",
+      "id": "nt-6326"
+    },
+    {
+      "targetValue": "306",
+      "utterance": "what was the total score of the runner-up?",
+      "id": "nt-6860"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many teams had more pyramids than the atlas perp squad?",
+      "id": "nt-6938"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many teams received a lower score in the pyramids category than the adamson pep squad?",
+      "id": "nt-8163"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many teams scored over 50 in every event?",
+      "id": "nt-10190"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many teams received 66 as a score in any category?",
+      "id": "nt-10835"
+    },
+    {
+      "targetValue": "-11",
+      "utterance": "what was the total number of deductions for the runner-up?",
+      "id": "nt-13674"
+    },
+    {
+      "targetValue": "PUP Stars",
+      "utterance": "who had more tosses, adamson or pup stars?",
+      "id": "nt-14142"
+    }
+  ],
+  "metadata": {
+    "title": "2007 National Cheerleading Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=22014431&oldid=583392914",
+    "tableIndex": 2,
+    "hashcode": "a5c3b70a208c8649f76e4836268d44ff5e1afe6a",
+    "id": 22014431,
+    "revision": 583392914
+  }
+}

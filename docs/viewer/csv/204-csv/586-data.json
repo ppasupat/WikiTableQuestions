@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Denver",
+      "utterance": "during the 2010 pre-season, who did the la clippers play after utah?",
+      "id": "nt-1928"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many games were in the 2010 pre-season schedule for the los angeles clippers?",
+      "id": "nt-3803"
+    },
+    {
+      "targetValue": "Rose Garden",
+      "utterance": "where was the first preseason game held?",
+      "id": "nt-4579"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of games in which chris kaman scored the high points?",
+      "id": "nt-4792"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the least number of high assists that were obtained in one 2010 pre-season clippers game?",
+      "id": "nt-5529"
+    },
+    {
+      "targetValue": "Baron Davis",
+      "utterance": "who had the highest number of assists in the october 19th game?",
+      "id": "nt-8238"
+    },
+    {
+      "targetValue": "14 days",
+      "utterance": "how long did the 2010 clippers pre-season last?",
+      "id": "nt-8313"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many loses did the clippers face in the pre-season before they finally won a game?",
+      "id": "nt-12211"
+    }
+  ],
+  "metadata": {
+    "title": "2010–11 Los Angeles Clippers season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=27756572&oldid=596576858",
+    "tableIndex": 1,
+    "hashcode": "627249b93dd675e3265936bcc442fa72641c59af",
+    "id": 27756572,
+    "revision": 596576858
+  }
+}

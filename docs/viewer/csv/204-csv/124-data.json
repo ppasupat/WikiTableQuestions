@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Ten Wood",
+      "utterance": "which woods has the same acreage as hardwick wood?",
+      "id": "nt-337"
+    },
+    {
+      "targetValue": "Bedford Purlieus NNR",
+      "utterance": "which ancient woods has the greatest number of acres?",
+      "id": "nt-4706"
+    },
+    {
+      "targetValue": "Carlton Wood",
+      "utterance": "which wood is above gamlingay wood and below buff wood?",
+      "id": "nt-4742"
+    },
+    {
+      "targetValue": "126",
+      "utterance": "what is the area (in acres) of the last table entry?",
+      "id": "nt-8419"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many ancient woods have public access?",
+      "id": "nt-9536"
+    },
+    {
+      "targetValue": "477",
+      "utterance": "how many acres do aversley wood and brampton wood have when added together?",
+      "id": "nt-9685"
+    },
+    {
+      "targetValue": "101 acres",
+      "utterance": "what is the difference between hayley wood and thorpe wood?",
+      "id": "nt-10406"
+    },
+    {
+      "targetValue": "188",
+      "utterance": "what is the acreage of langley and little paxton woods combined?",
+      "id": "nt-10793"
+    },
+    {
+      "targetValue": "91",
+      "utterance": "what is the acreage difference between madingley wood and hayley wood?",
+      "id": "nt-11157"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many total woods are public access?",
+      "id": "nt-12016"
+    },
+    {
+      "targetValue": "Thorpe Wood",
+      "utterance": "which ancient woods have the least number of acres and public access?",
+      "id": "nt-12712"
+    },
+    {
+      "targetValue": "Out and Plunder Woods",
+      "utterance": "what is the name of the entry previous to no. 16?",
+      "id": "nt-13408"
+    }
+  ],
+  "metadata": {
+    "title": "List of Ancient Woods in England",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=29062023&oldid=602230977",
+    "tableIndex": 2,
+    "hashcode": "b51273c8c143762cf3c0564a23180738c679c2d2",
+    "id": 29062023,
+    "revision": 602230977
+  }
+}

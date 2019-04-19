@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "£174,000",
+      "utterance": "what was the largest prize awarded to soviet song in 2004?",
+      "id": "nt-1794"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many races did soviet song compete in during 2004?",
+      "id": "nt-3611"
+    },
+    {
+      "targetValue": "£56,760.56",
+      "utterance": "previous to july 6, 2004 what is the highest prize money?",
+      "id": "nt-4745"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the longest number of consecutive first place wins for soviet song in 2004?",
+      "id": "nt-5296"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many races in 2004, did johnny murtagh not make more than 50,000 dollars in prize money?",
+      "id": "nt-13083"
+    }
+  ],
+  "metadata": {
+    "title": "Soviet Song",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7638944&oldid=594810663",
+    "tableIndex": 2,
+    "hashcode": "e94175f2556a525e36951426e02479d2280af8d1",
+    "id": 7638944,
+    "revision": 594810663
+  }
+}

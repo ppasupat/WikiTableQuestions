@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Paula Jean Myers-Pope (USA)",
+      "utterance": "which diver is listed before ninel krutova?",
+      "id": "nt-386"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many divers from usa ranked?",
+      "id": "nt-964"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total number of drivers that are from japan?",
+      "id": "nt-2504"
+    },
+    {
+      "targetValue": "Ingrid Krämer (EUA)",
+      "utterance": "who ranked first in the preliminary?",
+      "id": "nt-3839"
+    },
+    {
+      "targetValue": "34.98",
+      "utterance": "how many total points did ingrid krämer score in the final?",
+      "id": "nt-8713"
+    },
+    {
+      "targetValue": "Paula Jean Myers-Pope (USA)",
+      "utterance": "which diver score more final points than ingrid kramer?",
+      "id": "nt-9570"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many divers were involved in the preliminary round but not the final?",
+      "id": "nt-10294"
+    },
+    {
+      "targetValue": "1.34",
+      "utterance": "what is the difference in the total score between first and second place?",
+      "id": "nt-12825"
+    },
+    {
+      "targetValue": "Paula Jean Myers-Pope (USA)",
+      "utterance": "who has the same nationality as juno stover-irwin?",
+      "id": "nt-13448"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "how many drivers raced in the preliminary round?",
+      "id": "nt-13889"
+    }
+  ],
+  "metadata": {
+    "title": "Diving at the 1960 Summer Olympics – Women's 10 metre platform",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8731211&oldid=551327236",
+    "tableIndex": 0,
+    "hashcode": "1310501273f4d388319cfb43d6166e0012839c51",
+    "id": 8731211,
+    "revision": 551327236
+  }
+}

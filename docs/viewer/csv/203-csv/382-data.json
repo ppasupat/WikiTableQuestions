@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "how many losses did they suffer throughout the entire schedule?",
+      "id": "nt-2067"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many games were played in la?",
+      "id": "nt-4788"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what are the total number of games played in october?",
+      "id": "nt-6521"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many games did the tigers win?",
+      "id": "nt-6809"
+    },
+    {
+      "targetValue": "31",
+      "utterance": "on october 17th, what was the difference of the game's scores?",
+      "id": "nt-7149"
+    },
+    {
+      "targetValue": "September 12",
+      "utterance": "before the jackson state loss, when was their last loss?",
+      "id": "nt-7447"
+    },
+    {
+      "targetValue": "41",
+      "utterance": "how many points did the tigers score in november?",
+      "id": "nt-8196"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what were the number of wins in the month of october?",
+      "id": "nt-8387"
+    },
+    {
+      "targetValue": "Eddie Robinson Stadium • Grambling, LA",
+      "utterance": "which site held the most games?",
+      "id": "nt-10019"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many losses were there in the month of september?",
+      "id": "nt-11625"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "did the tigers win more or less than they lost during this season?",
+      "id": "nt-11877"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many consecutive wins occurred in october?",
+      "id": "nt-13936"
+    }
+  ],
+  "metadata": {
+    "title": "1987 Grambling State Tigers football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21091136&oldid=579960095",
+    "tableIndex": 0,
+    "hashcode": "8447dc3910499a545522f6995aaa1c7b14a59c11",
+    "id": 21091136,
+    "revision": 579960095
+  }
+}

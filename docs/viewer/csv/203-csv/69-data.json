@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "William Shaler",
+      "utterance": "who was the first ambassador the united states has sent to mexico?",
+      "id": "nt-5009"
+    },
+    {
+      "targetValue": "88",
+      "utterance": "how many years has does this table cover?",
+      "id": "nt-5277"
+    },
+    {
+      "targetValue": "50",
+      "utterance": "what is the total number of representatives?",
+      "id": "nt-8514"
+    },
+    {
+      "targetValue": "26",
+      "utterance": "at least what number of people have the title minister",
+      "id": "nt-8875"
+    },
+    {
+      "targetValue": "Powell Clayton",
+      "utterance": "who was the last person appointed on this table?",
+      "id": "nt-9542"
+    },
+    {
+      "targetValue": "James Buchanan",
+      "utterance": "which united states president appointed the most ambassador's to mexico",
+      "id": "nt-11468"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "count the number of special diplomatic agents and give that number.",
+      "id": "nt-12655"
+    }
+  ],
+  "metadata": {
+    "title": "United States Ambassador to Mexico",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3879642&oldid=564711826",
+    "tableIndex": 0,
+    "hashcode": "da2b48de9570848fd2e3672a272ae59608f807bc",
+    "id": 3879642,
+    "revision": 564711826
+  }
+}

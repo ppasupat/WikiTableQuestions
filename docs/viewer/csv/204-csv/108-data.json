@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": "K 5/13 PS",
+      "utterance": "which typ(s) had the longest construction times?",
+      "id": "nt-1578"
+    },
+    {
+      "targetValue": "4/8 PS",
+      "utterance": "which was built first? the 4/8 ps or the k 5/13 ps?",
+      "id": "nt-3643"
+    },
+    {
+      "targetValue": [
+        "4/8 PS",
+        "8/12 (8/14) PS"
+      ],
+      "utterance": "the 5/9 ps was constructed in 1907. name the previous 2 inline model that was released.",
+      "id": "nt-6828"
+    },
+    {
+      "targetValue": "Trumpf 1,5 AV",
+      "utterance": "which had the higher top speed, the prium 1.5 a or the trumpf 1.5 av?",
+      "id": "nt-8633"
+    },
+    {
+      "targetValue": "2 inline",
+      "utterance": "what is the number of cylinders that a 5/9 ps has?",
+      "id": "nt-8760"
+    },
+    {
+      "targetValue": "40",
+      "utterance": "how many typs have a top speed above 30 mph?",
+      "id": "nt-10310"
+    },
+    {
+      "targetValue": "2 Liter",
+      "utterance": "which one is the last in construction time",
+      "id": "nt-10662"
+    },
+    {
+      "targetValue": "35/80 PS",
+      "utterance": "which typ has the most capacity?",
+      "id": "nt-11899"
+    },
+    {
+      "targetValue": "8 inline",
+      "utterance": "number of cylinders the standard 8 have",
+      "id": "nt-12080"
+    }
+  ],
+  "metadata": {
+    "title": "Adler (automobile)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=850890&oldid=596918597",
+    "tableIndex": 0,
+    "hashcode": "f8b5e43460b7ab4ac971c62bbf179a6d0a766ddf",
+    "id": 850890,
+    "revision": 596918597
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many episodes aired in february?",
+      "id": "nt-4105"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many episodes are in series 7 (1983)?",
+      "id": "nt-6687"
+    },
+    {
+      "targetValue": "Clegg",
+      "utterance": "which character is mentioned the most in the episode summaries?",
+      "id": "nt-8543"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many episodes had their original airdate in february?",
+      "id": "nt-11305"
+    }
+  ],
+  "metadata": {
+    "title": "List of Last of the Summer Wine episodes",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=168334&oldid=600930634",
+    "tableIndex": 13,
+    "hashcode": "121eb6fce75f80fc636b43d162bc37457180f5b8",
+    "id": 168334,
+    "revision": 600930634
+  }
+}

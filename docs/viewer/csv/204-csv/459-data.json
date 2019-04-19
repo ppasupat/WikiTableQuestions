@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "what is the total number of games that started at 7:00?",
+      "id": "nt-303"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many games were won by at least 5 points?",
+      "id": "nt-699"
+    },
+    {
+      "targetValue": "369",
+      "utterance": "what was the total attendance of the 11/09/2013 game?",
+      "id": "nt-2691"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many games were played against grand canyon?",
+      "id": "nt-2851"
+    },
+    {
+      "targetValue": "12/20/2013",
+      "utterance": "which game had a higher attendance: 11/09/2013 or 12/20/2013?",
+      "id": "nt-8429"
+    },
+    {
+      "targetValue": "242",
+      "utterance": "how many people attended the game on 12/01/2013?",
+      "id": "nt-11553"
+    },
+    {
+      "targetValue": "551",
+      "utterance": "what was the total attendance at the wright state and loyola games?",
+      "id": "nt-13021"
+    },
+    {
+      "targetValue": "29",
+      "utterance": "how many games were played in the regular season?",
+      "id": "nt-13476"
+    }
+  ],
+  "metadata": {
+    "title": "2013–14 Chicago State Cougars women's basketball team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=40714819&oldid=597367957",
+    "tableIndex": 0,
+    "hashcode": "873293fdad3955083719f873dbe4c5bf3cdde185",
+    "id": 40714819,
+    "revision": 597367957
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many consecutive titles did bridgestone win?",
+      "id": "nt-1324"
+    },
+    {
+      "targetValue": "Japan",
+      "utterance": "which country has the most third place winnings?",
+      "id": "nt-1932"
+    },
+    {
+      "targetValue": "Nakhon Pathom",
+      "utterance": "gresik hosted in 2010. who hosted the previous year?",
+      "id": "nt-2430"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "number of consecutive championships won by federbrau",
+      "id": "nt-3477"
+    },
+    {
+      "targetValue": "Toray Arrows",
+      "utterance": "last team to finish in second place",
+      "id": "nt-4665"
+    },
+    {
+      "targetValue": "Toray Arrows",
+      "utterance": "previous third place finisher before jt marvelous",
+      "id": "nt-4969"
+    },
+    {
+      "targetValue": "Federbrau",
+      "utterance": "how won the avc championship after tiajin bridgestone's three year streak from 2006 to 2008?",
+      "id": "nt-5271"
+    },
+    {
+      "targetValue": "Tianjin Bridgestone",
+      "utterance": "who was the top player in 2012?",
+      "id": "nt-6626"
+    },
+    {
+      "targetValue": "Kazakhstan",
+      "utterance": "what country had at most four fourth place winnings?",
+      "id": "nt-13883"
+    }
+  ],
+  "metadata": {
+    "title": "Tianjin Volleyball",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=27974671&oldid=602409587",
+    "tableIndex": 0,
+    "hashcode": "0de6e736dfe1638551fa9cee2730c22fd7a592c6",
+    "id": 27974671,
+    "revision": 602409587
+  }
+}

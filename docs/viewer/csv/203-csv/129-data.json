@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "8 years",
+      "utterance": "simona armstrong is how much older than leanne dobinson?",
+      "id": "nt-1196"
+    },
+    {
+      "targetValue": "Simona Armstrong",
+      "utterance": "who is from outside of great britain?",
+      "id": "nt-1428"
+    },
+    {
+      "targetValue": "Leanne Dobinson",
+      "utterance": "belinda and simona were among the oldest finalists but who was the youngest?",
+      "id": "nt-3938"
+    },
+    {
+      "targetValue": "Simona Armstrong",
+      "utterance": "who got eliminated before leanne dobinson?",
+      "id": "nt-5747"
+    },
+    {
+      "targetValue": "Laura Sicurello",
+      "utterance": "the first person eliminated was who?",
+      "id": "nt-6471"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what was the total number of finalists?",
+      "id": "nt-7043"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many finalists are under the age of 25?",
+      "id": "nt-8540"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what was the number of finalist?",
+      "id": "nt-8865"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of finalists?",
+      "id": "nt-9778"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many finalist were 28 years old?",
+      "id": "nt-10245"
+    },
+    {
+      "targetValue": "Helena Blackman",
+      "utterance": "which contestant wore their dress only in the color pink?",
+      "id": "nt-12028"
+    }
+  ],
+  "metadata": {
+    "title": "How Do You Solve a Problem like Maria?",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6211125&oldid=595045805",
+    "tableIndex": 0,
+    "hashcode": "d52d6d0c820c3c7678d92bb0c260c15861a59f8f",
+    "id": 6211125,
+    "revision": 595045805
+  }
+}

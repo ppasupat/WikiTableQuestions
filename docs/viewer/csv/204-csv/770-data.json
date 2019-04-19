@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Tianhe Stadium, Guangzhou",
+      "utterance": "where was the match held immediately before 2014's at guizhou olympic stadium?",
+      "id": "nt-234"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many different people scored in the 1997 game?",
+      "id": "nt-751"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "did dalian shide ever lose again after winning on february 6,2003?",
+      "id": "nt-1253"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the number of times that dalian wanda/shide has won the tournament?",
+      "id": "nt-3794"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many championship games were held in the same stadium as the one on 4 march 2000?",
+      "id": "nt-4002"
+    },
+    {
+      "targetValue": "Dalian Shide",
+      "utterance": "which next club did shanghai shenhua face after the march 7,1999 match?",
+      "id": "nt-7480"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many games have been won by only one point?",
+      "id": "nt-7726"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many were held at hongkou stadium?",
+      "id": "nt-12013"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many had a total goals scored over 6?",
+      "id": "nt-12764"
+    }
+  ],
+  "metadata": {
+    "title": "Chinese FA Super Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=34749388&oldid=597047574",
+    "tableIndex": 0,
+    "hashcode": "21af33afb70ccb29b00835cf7ef18e0c80c82163",
+    "id": 34749388,
+    "revision": 597047574
+  }
+}

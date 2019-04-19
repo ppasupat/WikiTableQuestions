@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "in what week did the kansas city chiefs go into overtime in their 1997 season?",
+      "id": "nt-1450"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "what is the total number of games, excluding playoffs, they played in the season?",
+      "id": "nt-1617"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "which game had a bigger attendance, week four at carolina or week thirteen at seattle?",
+      "id": "nt-3560"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many games went into overtimes?",
+      "id": "nt-9610"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how long was their longest winning streak?",
+      "id": "nt-11829"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many losses did the tram incur?",
+      "id": "nt-13073"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many games were attended by more that 70,000 people?",
+      "id": "nt-13426"
+    },
+    {
+      "targetValue": "San Francisco 49ers",
+      "utterance": "the most points the kansas city chiefs scored in the 1997 season was in a game against which team?",
+      "id": "nt-13663"
+    },
+    {
+      "targetValue": "Jacksonville Jaguars",
+      "utterance": "what team was lost to after the miami dolphins in week 6?",
+      "id": "nt-13892"
+    }
+  ],
+  "metadata": {
+    "title": "1997 Kansas City Chiefs season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10996372&oldid=584051922",
+    "tableIndex": 0,
+    "hashcode": "4948d96302230ecc13404ebce5adacec377ead8e",
+    "id": 10996372,
+    "revision": 584051922
+  }
+}

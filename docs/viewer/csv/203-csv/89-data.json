@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Sir Patrick Duncan",
+      "utterance": "name one person in office that was not under the george v monarch.",
+      "id": "nt-2108"
+    },
+    {
+      "targetValue": "1 January 1946",
+      "utterance": "on what date did gideon brand van zyl begin his term?",
+      "id": "nt-2460"
+    },
+    {
+      "targetValue": "The Earl of Clarendon",
+      "utterance": "who took office after the earl of athlone?",
+      "id": "nt-5266"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many governors did the union of south africa go through during the reign of george v?",
+      "id": "nt-5820"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many consecutive years did ernest george jansen serve as governor-general of the union of south africa?",
+      "id": "nt-7821"
+    },
+    {
+      "targetValue": "73",
+      "utterance": "how old was gideon brand van zyl when he took office as governor?",
+      "id": "nt-8860"
+    },
+    {
+      "targetValue": "The Viscount Gladstone",
+      "utterance": "name one person that served under the same monarch as the viscount buxton.",
+      "id": "nt-10270"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many total governors-general of the union of south africa were there from 1910 to 1961?",
+      "id": "nt-10354"
+    },
+    {
+      "targetValue": "Lucas Cornelius Steyn",
+      "utterance": "which governor served for the least number of years?",
+      "id": "nt-10505"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the total number of monarchs?",
+      "id": "nt-10862"
+    },
+    {
+      "targetValue": "Ernest George Jansen (18811959)",
+      "utterance": "which governor-general served the longest term from 1910 to 1961?",
+      "id": "nt-12273"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many total years did sir patrick duncan serve in office?",
+      "id": "nt-13080"
+    }
+  ],
+  "metadata": {
+    "title": "Governor-General of the Union of South Africa",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=364728&oldid=587185182",
+    "tableIndex": 0,
+    "hashcode": "2e7a92063a2ea1e7df7df6c479745f6df64521f7",
+    "id": 364728,
+    "revision": 587185182
+  }
+}

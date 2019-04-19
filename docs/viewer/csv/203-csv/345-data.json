@@ -1,0 +1,71 @@
+{
+  "examples": [
+    {
+      "targetValue": "William Findlater",
+      "utterance": "name the representative who took office for 7 years and is in the liberal party.",
+      "id": "nt-2184"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many representatives were from conservative party?",
+      "id": "nt-2632"
+    },
+    {
+      "targetValue": "Arthur Berry",
+      "utterance": "which progressive party member took office after a liberal?",
+      "id": "nt-3097"
+    },
+    {
+      "targetValue": "10 years",
+      "utterance": "how long was arthur berry in officer for?",
+      "id": "nt-3693"
+    },
+    {
+      "targetValue": [
+        "Glenlyon Campbell",
+        "Duncan Cameron",
+        "Sam Hughes"
+      ],
+      "utterance": "list each representative from conservative party",
+      "id": "nt-4280"
+    },
+    {
+      "targetValue": "Liberal-Progressive",
+      "utterance": "what party was the last provincial representative of gilbert plains?",
+      "id": "nt-4330"
+    },
+    {
+      "targetValue": "Ray Mitchell",
+      "utterance": "who was the last representative to take office?",
+      "id": "nt-5248"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many conservative provincial representatives has gilbert plains had?",
+      "id": "nt-6488"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of conservative representatives listed?",
+      "id": "nt-8807"
+    },
+    {
+      "targetValue": "William Findlater",
+      "utterance": "who was the only liberal candidate to take office?",
+      "id": "nt-10704"
+    },
+    {
+      "targetValue": "1903",
+      "utterance": "when did the first provincial representative for gilbert plains take office?",
+      "id": "nt-11631"
+    }
+  ],
+  "metadata": {
+    "title": "Gilbert Plains (electoral district)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2827301&oldid=524857898",
+    "tableIndex": 0,
+    "hashcode": "9b20ed1275aa2635ee0ceebb5f7ff9161af138f0",
+    "id": 2827301,
+    "revision": 524857898
+  }
+}

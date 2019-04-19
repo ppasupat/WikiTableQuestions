@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many drivers scored below 175 points in the 2007 season?",
+      "id": "nt-5776"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "lit the total number of wins listed from the various drivers?",
+      "id": "nt-5957"
+    },
+    {
+      "targetValue": "106",
+      "utterance": "how many more points did jan hendrickx have than marco happich during the 2007 season?",
+      "id": "nt-6397"
+    },
+    {
+      "targetValue": "375",
+      "utterance": "the number of points daniel willemsen scored with his passenger",
+      "id": "nt-6510"
+    },
+    {
+      "targetValue": "184",
+      "utterance": "what is the number of points earned by maris rupeiks during the 2007 season?",
+      "id": "nt-10784"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "what was the number of races that daniel willemsen and reto grutter won?",
+      "id": "nt-11273"
+    },
+    {
+      "targetValue": "195",
+      "utterance": "how many more points did position 1 have than position 7?",
+      "id": "nt-13670"
+    }
+  ],
+  "metadata": {
+    "title": "2007 Sidecarcross World Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16746295&oldid=565359772",
+    "tableIndex": 3,
+    "hashcode": "1da5067a504ddc0a85655ada814fd01f4a88c523",
+    "id": 16746295,
+    "revision": 565359772
+  }
+}

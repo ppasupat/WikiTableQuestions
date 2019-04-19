@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "2003/04",
+      "utterance": "when was their best finish?",
+      "id": "nt-3639"
+    },
+    {
+      "targetValue": "2002/03",
+      "utterance": "the team finished in the same position in 2001/02 as what other year?",
+      "id": "nt-3891"
+    },
+    {
+      "targetValue": "8th",
+      "utterance": "in 1998 and 2004 they were in what place?",
+      "id": "nt-4877"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the difference between the team ranking of the 1998-99 season and the 2003-04 season?",
+      "id": "nt-4976"
+    },
+    {
+      "targetValue": "2nd",
+      "utterance": "what is the highest ranking the team has ever received?",
+      "id": "nt-5101"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many seasons in tier 4?",
+      "id": "nt-5141"
+    },
+    {
+      "targetValue": "2003/04",
+      "utterance": "what was the last year the team finished 2nd?",
+      "id": "nt-5407"
+    },
+    {
+      "targetValue": "2008/09",
+      "utterance": "what season did the team find themselves with the lowest ranking?",
+      "id": "nt-6005"
+    },
+    {
+      "targetValue": "below",
+      "utterance": "in 2001 were they above or below the place they received in 2000?",
+      "id": "nt-7070"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many seasons finishing better than 7th place?",
+      "id": "nt-11398"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times has the team finished 9th?",
+      "id": "nt-11834"
+    },
+    {
+      "targetValue": "2004/05",
+      "utterance": "which season did they finish in the same place as the 1998-1999 season?",
+      "id": "nt-12526"
+    }
+  ],
+  "metadata": {
+    "title": "CF Norma San Leonardo",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=21254116&oldid=556149829",
+    "tableIndex": 0,
+    "hashcode": "71967871ce968d72840bf553f59a083ff98281cd",
+    "id": 21254116,
+    "revision": 556149829
+  }
+}

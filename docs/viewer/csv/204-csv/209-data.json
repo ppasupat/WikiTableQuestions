@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "17 years",
+      "utterance": "how long between first and most recent albums released?",
+      "id": "nt-570"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many albums did pearl django release in 1999?",
+      "id": "nt-3473"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many releases are there in all months of june?",
+      "id": "nt-4875"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many compilation albums are there?",
+      "id": "nt-5012"
+    },
+    {
+      "targetValue": "Hotel New Yorker",
+      "utterance": "which album contains no original music?",
+      "id": "nt-5653"
+    },
+    {
+      "targetValue": "Swing 48",
+      "utterance": "which album was released before chasing shadows?",
+      "id": "nt-6686"
+    },
+    {
+      "targetValue": "Chasing Shadows",
+      "utterance": "what was the next album after swing 48?",
+      "id": "nt-7307"
+    },
+    {
+      "targetValue": "Swing 48",
+      "utterance": "avalon was released in the same month as which other record?",
+      "id": "nt-8572"
+    },
+    {
+      "targetValue": "Avalon",
+      "utterance": "what is the only album released in 2000?",
+      "id": "nt-13368"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many records came out in 1999?",
+      "id": "nt-13617"
+    }
+  ],
+  "metadata": {
+    "title": "Pearl Django",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=25708606&oldid=568581684",
+    "tableIndex": 0,
+    "hashcode": "4990df2c14382a21eafe52351eff475304929ee5",
+    "id": 25708606,
+    "revision": 568581684
+  }
+}

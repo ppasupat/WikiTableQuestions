@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Marcy Kaptur",
+      "utterance": "who was the only woman ranked in the top 50 representatives?",
+      "id": "nt-1514"
+    },
+    {
+      "targetValue": "448",
+      "utterance": "give the number of representatives listed in the table.",
+      "id": "nt-2194"
+    },
+    {
+      "targetValue": "Gregory Meeks",
+      "utterance": "who is listed next after rank number 218?",
+      "id": "nt-3002"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many representatives share a seniority date in 1977?",
+      "id": "nt-3092"
+    },
+    {
+      "targetValue": "John Dingell",
+      "utterance": "who is the congressman with the greatest seniority?",
+      "id": "nt-4816"
+    },
+    {
+      "targetValue": "Bill Young",
+      "utterance": "who was the first republican representative?",
+      "id": "nt-6506"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "does each congressman have a party listed?",
+      "id": "nt-6611"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "what is the difference in rank between nancy pelosi and john boehner?",
+      "id": "nt-7837"
+    },
+    {
+      "targetValue": "David Dreier",
+      "utterance": "which representative was after tom petri?",
+      "id": "nt-10425"
+    },
+    {
+      "targetValue": "Steve Scalise",
+      "utterance": "what is the last republican listed?",
+      "id": "nt-12927"
+    }
+  ],
+  "metadata": {
+    "title": "List of United States Representatives in the 110th Congress by seniority",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14183983&oldid=599791771",
+    "tableIndex": 0,
+    "hashcode": "33bf6fb43c6ddab5e90ab411b4f80862a3ed8af5",
+    "id": 14183983,
+    "revision": 599791771
+  }
+}

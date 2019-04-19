@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "what is the total number of polls published by the company gis xxi?",
+      "id": "nt-764"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many different poll companies are listed?",
+      "id": "nt-2199"
+    },
+    {
+      "targetValue": "Keller & Asociados",
+      "utterance": "which poll company has the most opposition?",
+      "id": "nt-3137"
+    },
+    {
+      "targetValue": "Hinterlaces El Universal",
+      "utterance": "what was the next publication after the june 2010 publication of radio nacional de venezuela?",
+      "id": "nt-8545"
+    },
+    {
+      "targetValue": "188",
+      "utterance": "how many total opposition votes were cast after august 2010?",
+      "id": "nt-9627"
+    },
+    {
+      "targetValue": "23",
+      "utterance": "what is the number of people in opposition in may 2010?",
+      "id": "nt-10808"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many different poll companies are represented?",
+      "id": "nt-11024"
+    },
+    {
+      "targetValue": "Radio Nacional de Venezuela",
+      "utterance": "which source was used before may 2010?",
+      "id": "nt-12473"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many consecutive times is the poll company gis xxi listed?",
+      "id": "nt-14125"
+    }
+  ],
+  "metadata": {
+    "title": "Venezuelan parliamentary election, 2010",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=23427206&oldid=596775868",
+    "tableIndex": 0,
+    "hashcode": "1b60a1bbc29d3da558dcff94c89faea63dd2337c",
+    "id": 23427206,
+    "revision": 596775868
+  }
+}

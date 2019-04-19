@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "14",
+      "utterance": "how many years did budivelnyk not win?",
+      "id": "nt-3644"
+    },
+    {
+      "targetValue": "Budivelnyk",
+      "utterance": "who has won the league the most?",
+      "id": "nt-4068"
+    },
+    {
+      "targetValue": "Kyiv",
+      "utterance": "who was the next winner after azovmash in 2004?",
+      "id": "nt-8775"
+    },
+    {
+      "targetValue": "Budivelnyk",
+      "utterance": "which team has the most championship wins?",
+      "id": "nt-9793"
+    },
+    {
+      "targetValue": "Azovmash",
+      "utterance": "who was the next winner after the 2005 year?",
+      "id": "nt-10818"
+    },
+    {
+      "targetValue": "Budivelnyk",
+      "utterance": "who was the winner in the first year of 1992?",
+      "id": "nt-12402"
+    },
+    {
+      "targetValue": "Budivelnyk",
+      "utterance": "which team has the most wins?",
+      "id": "nt-12474"
+    },
+    {
+      "targetValue": "Donetsk",
+      "utterance": "who was the only winner of the ukrainian basketball super league to win winner once?",
+      "id": "nt-13060"
+    }
+  ],
+  "metadata": {
+    "title": "Ukrainian Basketball SuperLeague",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4561773&oldid=600587816",
+    "tableIndex": 0,
+    "hashcode": "3f82da49c46a7478d227cf30d78cfc4e0641ea74",
+    "id": 4561773,
+    "revision": 600587816
+  }
+}

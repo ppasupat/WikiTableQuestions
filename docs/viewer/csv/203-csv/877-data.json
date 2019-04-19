@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "13",
+      "utterance": "what is the total number of singles released?",
+      "id": "nt-1372"
+    },
+    {
+      "targetValue": "\"Smokin' in the Boys Room\"",
+      "utterance": "what single ranked top on the us cashbox?",
+      "id": "nt-5500"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many songs charted on both the us cashbox and us hot 100 but not the uk singles?",
+      "id": "nt-6569"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what are the total number of singles in 1974?",
+      "id": "nt-8696"
+    },
+    {
+      "targetValue": "\"Smokin' in the Boys Room\"",
+      "utterance": "which single spent the least amount of time on the us hot 100?",
+      "id": "nt-10488"
+    },
+    {
+      "targetValue": "56",
+      "utterance": "what was the average number of weeks that \"let your yeah be yeah\" spent on all of the different charting systems?",
+      "id": "nt-11595"
+    }
+  ],
+  "metadata": {
+    "title": "Brownsville Station (band)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2228794&oldid=601239275",
+    "tableIndex": 1,
+    "hashcode": "b2e8843649e17cd513a33df72a647ea2376773ee",
+    "id": 2228794,
+    "revision": 601239275
+  }
+}

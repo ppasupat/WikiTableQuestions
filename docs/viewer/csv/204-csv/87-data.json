@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "Dan M. Russell Jr. Federal Bldg & U.S. Courthouse",
+      "utterance": "what is the name of the courthouse listed after federal building?",
+      "id": "nt-999"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many cities have more than one courthouse listed?",
+      "id": "nt-1482"
+    },
+    {
+      "targetValue": "S.D. Miss.",
+      "utterance": "which jurisdiction is listed the most?",
+      "id": "nt-4353"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many courthouses were in the n.d. miss jurisdiction?",
+      "id": "nt-4450"
+    },
+    {
+      "targetValue": "51 years",
+      "utterance": "what is the total number of years that the courthouse at 140 lameuse street in biloxi was used?",
+      "id": "nt-5895"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many courthouses were named after u.s. representitives?",
+      "id": "nt-7576"
+    },
+    {
+      "targetValue": "Dan M. Russell Jr. Federal Bldg & U.S. Courthouse",
+      "utterance": "what is the only courthouse listed for gulfport?",
+      "id": "nt-8751"
+    },
+    {
+      "targetValue": "Aberdeen",
+      "utterance": "what city has more courthouses, aberdeen or greenville?",
+      "id": "nt-9218"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what are the number of courthouses located in aberdeen?",
+      "id": "nt-10917"
+    },
+    {
+      "targetValue": "S.D. Miss.",
+      "utterance": "which jurisdiction has the most courthouses?",
+      "id": "nt-11896"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many courthouses were named for someone?",
+      "id": "nt-12608"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what are the total number of courthouses located in biloxi?",
+      "id": "nt-13655"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "how many total courthouses have there been in mississippi?",
+      "id": "nt-13748"
+    }
+  ],
+  "metadata": {
+    "title": "List of United States federal courthouses in Mississippi",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=27858534&oldid=598452827",
+    "tableIndex": 0,
+    "hashcode": "1985e4b2832023b91eed68b3fb0a79538e19a72d",
+    "id": 27858534,
+    "revision": 598452827
+  }
+}

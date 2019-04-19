@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "how many finished all 225 laps?",
+      "id": "nt-39"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many points did patrick carpentier earn during the 1999 miller lite 225?",
+      "id": "nt-3039"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "how many more points did paul tracy earn during the race than max papis?",
+      "id": "nt-5404"
+    },
+    {
+      "targetValue": "Shigeaki Hattori",
+      "utterance": "who is the only driver from japan",
+      "id": "nt-5809"
+    },
+    {
+      "targetValue": "50",
+      "utterance": "how many points did the top 3 finishers of the 1999 miller lite 225 earn?",
+      "id": "nt-5811"
+    },
+    {
+      "targetValue": "Hélio Castro-Neves",
+      "utterance": "who ran the least number of laps in the 1999 miller lite 225?",
+      "id": "nt-8051"
+    },
+    {
+      "targetValue": "Patrick Carpentier",
+      "utterance": "greg moore was from the same team as what other 9th place driver?",
+      "id": "nt-8408"
+    },
+    {
+      "targetValue": "Patrick Carpentier",
+      "utterance": "who was the next person to finish this race after mauricio gugelmin?",
+      "id": "nt-8959"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "the most points rewarded to drivers under 225 laps",
+      "id": "nt-13580"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many finished above frnchitti?",
+      "id": "nt-13640"
+    }
+  ],
+  "metadata": {
+    "title": "1999 Miller Lite 225",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=35030286&oldid=564133058",
+    "tableIndex": 0,
+    "hashcode": "9ba63cdebd22e5ae8abbf750f00eb1a585e81e57",
+    "id": 35030286,
+    "revision": 564133058
+  }
+}

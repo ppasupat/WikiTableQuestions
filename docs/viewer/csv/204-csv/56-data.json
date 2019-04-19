@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "\"Mistadobalina\"",
+      "utterance": "what song made it to the highest rank on the us rap charts?",
+      "id": "nt-701"
+    },
+    {
+      "targetValue": "48",
+      "utterance": "how many did \"wrong place\" have in us rap?",
+      "id": "nt-2618"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "the number of singles by del the funky homosapien released before the year 2000",
+      "id": "nt-2686"
+    },
+    {
+      "targetValue": "\"Catch a Bad One\"",
+      "utterance": "what single previous to \"workin' it\" did not chart at all?",
+      "id": "nt-3691"
+    },
+    {
+      "targetValue": "1991",
+      "utterance": "what year had the most singles?",
+      "id": "nt-5340"
+    },
+    {
+      "targetValue": "\"Catch a Bad One\"",
+      "utterance": "which song came first: \"workin' it\" or \"catch a bad one\"?",
+      "id": "nt-5981"
+    },
+    {
+      "targetValue": "\"Mistadobalina\"",
+      "utterance": "what was the only single to break the top 10 in us rap?",
+      "id": "nt-8918"
+    },
+    {
+      "targetValue": [
+        "\"Mistadobalina\"",
+        "\"If You Must\""
+      ],
+      "utterance": "songs by del the funky homosapien that were within the top 30 rap singles chart (us)",
+      "id": "nt-10713"
+    },
+    {
+      "targetValue": "\"If You Must\"",
+      "utterance": "which single was released after phoney phranchise?",
+      "id": "nt-10795"
+    },
+    {
+      "targetValue": "\"Catch a Bad One\"",
+      "utterance": "what was the only single released in 1993?",
+      "id": "nt-10976"
+    },
+    {
+      "targetValue": "\"Mistadobalina\"",
+      "utterance": "what was the only song to have 6 in us rap?",
+      "id": "nt-11590"
+    },
+    {
+      "targetValue": "\"Mistadobalina\"",
+      "utterance": "which song has the most in us r&b?",
+      "id": "nt-13553"
+    }
+  ],
+  "metadata": {
+    "title": "Del the Funky Homosapien discography",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33586671&oldid=597769837",
+    "tableIndex": 3,
+    "hashcode": "b6b638a75076733f408c301505ec3094ba04248e",
+    "id": 33586671,
+    "revision": 597769837
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "47",
+      "utterance": "what is the difference (in years) between when the royal blue began and the year the crusader began?",
+      "id": "nt-132"
+    },
+    {
+      "targetValue": "Royal Blue",
+      "utterance": "which train ran for the longest time?",
+      "id": "nt-4408"
+    },
+    {
+      "targetValue": "Crusader",
+      "utterance": "which other traine, other than wall street, had philadelphia as a destination?",
+      "id": "nt-4712"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the total of named trains?",
+      "id": "nt-4920"
+    },
+    {
+      "targetValue": "Royal Blue",
+      "utterance": "what was the first train to begin service?",
+      "id": "nt-4936"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many trains were discontinued in 1958?",
+      "id": "nt-9068"
+    },
+    {
+      "targetValue": "Chicago, Illinois via Washington, D.C. and Pittsburgh, Pennsylvania",
+      "utterance": "what destination is at the top of the list?",
+      "id": "nt-11090"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of year begun?",
+      "id": "nt-13745"
+    }
+  ],
+  "metadata": {
+    "title": "Central Railroad of New Jersey Terminal",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=4004350&oldid=596493684",
+    "tableIndex": 0,
+    "hashcode": "8f4ff27e12e8754f053458564ff83f89fd8c4895",
+    "id": 4004350,
+    "revision": 596493684
+  }
+}

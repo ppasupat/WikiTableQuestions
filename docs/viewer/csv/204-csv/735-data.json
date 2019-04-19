@@ -1,0 +1,92 @@
+{
+  "examples": [
+    {
+      "targetValue": "17",
+      "utterance": "how many consecutive rankings are listed?",
+      "id": "nt-1221"
+    },
+    {
+      "targetValue": "4:09.695",
+      "utterance": "how long did it take italy to finish in cycling at the 1996 summer olympics men's team pursuit?",
+      "id": "nt-2002"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "how many teams have at least a time of 4:00?",
+      "id": "nt-3185"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many states have no qualification?",
+      "id": "nt-3748"
+    },
+    {
+      "targetValue": "Colombia",
+      "utterance": "which team ranked below chile's?",
+      "id": "nt-3881"
+    },
+    {
+      "targetValue": "Colombia",
+      "utterance": "which is the only team that chile was faster than in cycling at the 1996 summer olympics men's team pursuit?",
+      "id": "nt-4109"
+    },
+    {
+      "targetValue": "France",
+      "utterance": "which country's team ranked first?",
+      "id": "nt-4850"
+    },
+    {
+      "targetValue": "12:29.015",
+      "utterance": "what is the total amount of time it took the first three teams to complete the qualifying round?",
+      "id": "nt-6752"
+    },
+    {
+      "targetValue": "Great Britain",
+      "utterance": "which team finished after germany in cycling at the 1996 summer olympics men's team pursuit?",
+      "id": "nt-9145"
+    },
+    {
+      "targetValue": "Great Britain",
+      "utterance": "which team ranked after germany while qualifying?",
+      "id": "nt-9418"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many teams finished faster than 4:10?",
+      "id": "nt-9603"
+    },
+    {
+      "targetValue": "Ukraine",
+      "utterance": "which team took a shorter amount of time, ukraine or united states?",
+      "id": "nt-9847"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many teams had at least five players?",
+      "id": "nt-9927"
+    },
+    {
+      "targetValue": "Colombia",
+      "utterance": "which country's team ranked last?",
+      "id": "nt-11449"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many teams finished better than spain in cycling at the 1996 summer olympics men's team pursuit?",
+      "id": "nt-12237"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many teams other than italy have qualifications?",
+      "id": "nt-12987"
+    }
+  ],
+  "metadata": {
+    "title": "Cycling at the 1996 Summer Olympics – Men's team pursuit",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41291848&oldid=592542888",
+    "tableIndex": 1,
+    "hashcode": "1d208615e83264250ae693e6c165d2f3b194d1d3",
+    "id": 41291848,
+    "revision": 592542888
+  }
+}

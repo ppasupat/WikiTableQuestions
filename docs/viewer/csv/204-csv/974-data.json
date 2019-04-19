@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many 2nd positions were there?",
+      "id": "nt-872"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times has this team been relegated?",
+      "id": "nt-1489"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "of the third division, how many were in section3?",
+      "id": "nt-1497"
+    },
+    {
+      "targetValue": "2009",
+      "utterance": "which was the only kolmonen whose movements were promoted?",
+      "id": "nt-1806"
+    },
+    {
+      "targetValue": "2008",
+      "utterance": "when was the last year they placed 2nd?",
+      "id": "nt-1933"
+    },
+    {
+      "targetValue": "2nd",
+      "utterance": "what position did this team get after getting 9th place in 1999?",
+      "id": "nt-3990"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times were they in tier 3?",
+      "id": "nt-6016"
+    },
+    {
+      "targetValue": "Helsinki & Uusimaa (SPL Helsinki)",
+      "utterance": "which administration has the least amount of division?",
+      "id": "nt-6224"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what division were they in the most, section 3 or 2?",
+      "id": "nt-7719"
+    },
+    {
+      "targetValue": "Tier 2",
+      "utterance": "what is the first tier listed?",
+      "id": "nt-7934"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many tiers had more than one relegated movement?",
+      "id": "nt-8863"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many consecutive times did they play in tier 4?",
+      "id": "nt-10923"
+    }
+  ],
+  "metadata": {
+    "title": "Jalkapalloseura Airport City",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=27254746&oldid=545913465",
+    "tableIndex": 0,
+    "hashcode": "9d96dbcc8db41b15180dcf1a3c08eddc6b68b8b5",
+    "id": 27254746,
+    "revision": 545913465
+  }
+}

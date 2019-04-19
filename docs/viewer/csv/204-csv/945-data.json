@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "how many people were sent home?",
+      "id": "nt-1123"
+    },
+    {
+      "targetValue": [
+        "5",
+        "6"
+      ],
+      "utterance": "what two episodes was adam the highest seller?",
+      "id": "nt-2131"
+    },
+    {
+      "targetValue": "Vegas or Bust",
+      "utterance": "what was the last episode with two people sent home?",
+      "id": "nt-2436"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the difference in the number of people sent home in episode one and two?",
+      "id": "nt-3549"
+    },
+    {
+      "targetValue": "Jan, Adam",
+      "utterance": "who was the last person to be sent home?",
+      "id": "nt-7542"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the average number of participants sent home every episode?",
+      "id": "nt-8503"
+    },
+    {
+      "targetValue": "Eric",
+      "utterance": "who was next to be sent home after patrick?",
+      "id": "nt-9442"
+    },
+    {
+      "targetValue": "Express: Impossible",
+      "utterance": "what was the only episode without a highest seller?",
+      "id": "nt-10018"
+    },
+    {
+      "targetValue": "Bianca",
+      "utterance": "who was sent home before patrick?",
+      "id": "nt-12891"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many episodes were there where nobody was sent home?",
+      "id": "nt-13023"
+    }
+  ],
+  "metadata": {
+    "title": "Restaurant Express",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41200696&oldid=595837025",
+    "tableIndex": 1,
+    "hashcode": "acb89d5f0c90393226f73819f52d99cb1c3ba64d",
+    "id": 41200696,
+    "revision": 595837025
+  }
+}

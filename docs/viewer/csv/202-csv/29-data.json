@@ -1,0 +1,20 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "1994",
+        "Sally Marr...and her escorts"
+      ],
+      "utterance": "which year was joan rivers nominated for a tony award and what was the nominated work?",
+      "id": "nt-7508"
+    }
+  ],
+  "metadata": {
+    "title": "Joan Rivers",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=265883&oldid=601854978",
+    "tableIndex": 3,
+    "hashcode": "db16974ec89f9aaa15ccc9cee57a4432124f4d22",
+    "id": 265883,
+    "revision": 601854978
+  }
+}

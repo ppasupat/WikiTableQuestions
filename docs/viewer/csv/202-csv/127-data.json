@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "Patrick Norris",
+      "utterance": "which director has the most titles accredited to them?",
+      "id": "nt-2872"
+    }
+  ],
+  "metadata": {
+    "title": "North Shore (TV series)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=750609&oldid=591526337",
+    "tableIndex": 0,
+    "hashcode": "cef7d22f71ff656c0c26c659c604c3de25efa6b6",
+    "id": 750609,
+    "revision": 591526337
+  }
+}

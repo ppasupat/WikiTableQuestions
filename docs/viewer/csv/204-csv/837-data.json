@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Amplistan",
+      "utterance": "what team scored the least opposition strength?",
+      "id": "nt-213"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the total of matches on the chart",
+      "id": "nt-1685"
+    },
+    {
+      "targetValue": "Amplistan vs. Bestrudia (friendly) Result: 1-1",
+      "utterance": "tell me a match that matchup was the same as the first one.",
+      "id": "nt-5467"
+    },
+    {
+      "targetValue": "Bestrudia",
+      "utterance": "which team scored the highest number of ranking points in games that were won on penalties?",
+      "id": "nt-6296"
+    },
+    {
+      "targetValue": "Conesto vs. Amplistan",
+      "utterance": "which match was the last of the world cup finals?",
+      "id": "nt-7261"
+    },
+    {
+      "targetValue": "Amplistan vs. Bestrudia (friendly) Result: 1-2",
+      "utterance": "tell me a match where each team had a reigonal strength of 0.94.",
+      "id": "nt-9093"
+    },
+    {
+      "targetValue": "1.48",
+      "utterance": "what is the difference of opposition strength for match amplistan vs. bestrudia",
+      "id": "nt-13545"
+    }
+  ],
+  "metadata": {
+    "title": "FIFA World Rankings",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=719095&oldid=602286465",
+    "tableIndex": 6,
+    "hashcode": "0bc71b6760068b5eaefde7d43f720cf882beb563",
+    "id": 719095,
+    "revision": 602286465
+  }
+}

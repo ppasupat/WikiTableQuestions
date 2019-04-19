@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "31 May",
+      "utterance": "what date was listed before june 28th?",
+      "id": "nt-4395"
+    },
+    {
+      "targetValue": "Fredrik Ekblom",
+      "utterance": "who won the next round after mats linden won the first round at mantorp park?",
+      "id": "nt-6759"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the total number of fastest laps that peggen andersson completed?",
+      "id": "nt-8338"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of dates listed?",
+      "id": "nt-9948"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many total wins did the flash engineering team have?",
+      "id": "nt-10518"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many circuits are listed?",
+      "id": "nt-11113"
+    },
+    {
+      "targetValue": "Jan Nilsson",
+      "utterance": "which driver was listed as the winning driver more than any other driver?",
+      "id": "nt-11152"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many races has jan nilsson won?",
+      "id": "nt-11393"
+    }
+  ],
+  "metadata": {
+    "title": "1998 Swedish Touring Car Championship season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=32936670&oldid=546211809",
+    "tableIndex": 2,
+    "hashcode": "5d3a90eca43b3d125ec1bbd22438d0dc1bca91ec",
+    "id": 32936670,
+    "revision": 546211809
+  }
+}

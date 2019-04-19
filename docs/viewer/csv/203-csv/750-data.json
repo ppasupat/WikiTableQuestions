@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "6-1",
+        "5-0",
+        "4-2",
+        "2-0"
+      ],
+      "utterance": "for each winning game, what was their score?",
+      "id": "nt-4426"
+    },
+    {
+      "targetValue": "false",
+      "utterance": "true or false? in comparison, the ethiopian national team has more draws than wins.",
+      "id": "nt-6289"
+    },
+    {
+      "targetValue": "8 September 2012",
+      "utterance": "what date gives was their only loss?",
+      "id": "nt-8794"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "number of different teams listed on the chart",
+      "id": "nt-10471"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how long in years down this table cover?",
+      "id": "nt-13785"
+    }
+  ],
+  "metadata": {
+    "title": "Adane Girma",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20080886&oldid=593887078",
+    "tableIndex": 0,
+    "hashcode": "07a9c9160c7d142e1556bf6697601b9b63cb7e44",
+    "id": 20080886,
+    "revision": 593887078
+  }
+}

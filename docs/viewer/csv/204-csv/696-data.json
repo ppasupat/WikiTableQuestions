@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "8",
+      "utterance": "how many were released after power man?",
+      "id": "nt-3469"
+    },
+    {
+      "targetValue": "Wolverine",
+      "utterance": "which has the largest volume number?",
+      "id": "nt-3556"
+    },
+    {
+      "targetValue": "Spider-Man",
+      "utterance": "what was the title of the publication after issue 1?",
+      "id": "nt-3822"
+    },
+    {
+      "targetValue": "The Avengers",
+      "utterance": "what was the first title to be released?",
+      "id": "nt-5856"
+    },
+    {
+      "targetValue": "55",
+      "utterance": "how many total wolverine volumes are there?",
+      "id": "nt-6305"
+    },
+    {
+      "targetValue": "Power Man",
+      "utterance": "what other publication was released in the same month as jean grey?",
+      "id": "nt-6563"
+    },
+    {
+      "targetValue": "The X-Men",
+      "utterance": "what was the name of the next publication after iron man?",
+      "id": "nt-6564"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many release dates were in april?",
+      "id": "nt-7280"
+    },
+    {
+      "targetValue": "The Avengers",
+      "utterance": "tell me the only one released in december 2013.",
+      "id": "nt-12707"
+    },
+    {
+      "targetValue": "The Avengers",
+      "utterance": "what is the only title being released in dec 27 2013?",
+      "id": "nt-13911"
+    }
+  ],
+  "metadata": {
+    "title": "The Official Marvel Graphic Novel Collection",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=34309628&oldid=602425092",
+    "tableIndex": 3,
+    "hashcode": "b4fbf4460d7230def5d9ce3dc743335e82980437",
+    "id": 34309628,
+    "revision": 602425092
+  }
+}

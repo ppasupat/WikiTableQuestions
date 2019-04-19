@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "2010",
+      "utterance": "what year had a total of 2 titles released?",
+      "id": "nt-239"
+    },
+    {
+      "targetValue": "American McGee's Grimm",
+      "utterance": "what is the first title on this chart?",
+      "id": "nt-3150"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many games did spicy horse develop in total?",
+      "id": "nt-4026"
+    },
+    {
+      "targetValue": "American McGee Presents Akaneiro",
+      "utterance": "which title is for ipad but not for iphone or ipod?",
+      "id": "nt-7767"
+    },
+    {
+      "targetValue": "Akaneiro: Demon Hunters",
+      "utterance": "what was the last game created by spicy horse",
+      "id": "nt-7776"
+    },
+    {
+      "targetValue": "Browsers, Tegra-powered tablets",
+      "utterance": "what platform was used for the last title on this chart?",
+      "id": "nt-9705"
+    },
+    {
+      "targetValue": "Alice: Madness Returns",
+      "utterance": "what was the only game published by electronic arts?",
+      "id": "nt-9946"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many platforms did american mcgee's grimm run on?",
+      "id": "nt-10102"
+    },
+    {
+      "targetValue": "iPad, iPhone, iPod",
+      "utterance": "spicy pony released a total of three games; their game, \"american mcgee's crooked house\" was released on which platforms?",
+      "id": "nt-11969"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what are the number of times an ipad was used as a platform?",
+      "id": "nt-13268"
+    },
+    {
+      "targetValue": "Akaneiro: Demon Hunters",
+      "utterance": "according to the table, what is the last title that spicy horse produced?",
+      "id": "nt-14135"
+    }
+  ],
+  "metadata": {
+    "title": "Spicy Horse",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17089493&oldid=601024910",
+    "tableIndex": 0,
+    "hashcode": "18e51d708d3be886d8d4eb5352f54b5067bfebb5",
+    "id": 17089493,
+    "revision": 601024910
+  }
+}

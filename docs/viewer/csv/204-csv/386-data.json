@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "3 years",
+      "utterance": "how long was gina carano active in the sport?",
+      "id": "nt-2374"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many total rounds did she fight in?",
+      "id": "nt-2700"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of fights won by decision?",
+      "id": "nt-3367"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "total number of wins",
+      "id": "nt-5235"
+    },
+    {
+      "targetValue": "Leiticia Pestova",
+      "utterance": "who was the first opponent she beat?",
+      "id": "nt-6146"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many wins does gina carano have in mma",
+      "id": "nt-8193"
+    },
+    {
+      "targetValue": "0:38",
+      "utterance": "what is the least amount of time it took to win a match?",
+      "id": "nt-9264"
+    },
+    {
+      "targetValue": "Cristiane Justino",
+      "utterance": "her first loss was against this opponent",
+      "id": "nt-11782"
+    }
+  ],
+  "metadata": {
+    "title": "Gina Carano",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9140525&oldid=602152159",
+    "tableIndex": 1,
+    "hashcode": "cc7e79ce37fa6f77045653e2fb21048d05032c06",
+    "id": 9140525,
+    "revision": 602152159
+  }
+}

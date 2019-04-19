@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "1988",
+      "utterance": "which year had more laps, 1988 or 1985?",
+      "id": "nt-1665"
+    },
+    {
+      "targetValue": "Team BMW Motorsport",
+      "utterance": "what was the last team he raced for?",
+      "id": "nt-4266"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many different teams have there been since 1985?",
+      "id": "nt-5092"
+    },
+    {
+      "targetValue": "1985",
+      "utterance": "what was the first race where he placed in the top 10?",
+      "id": "nt-8044"
+    },
+    {
+      "targetValue": "Ford Motor Company Deutschland",
+      "utterance": "previous to being on the bmw motorsport team, which team was he on?",
+      "id": "nt-13393"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "what is the total number of team ?",
+      "id": "nt-13766"
+    }
+  ],
+  "metadata": {
+    "title": "Hans-Joachim Stuck",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1217995&oldid=575116698",
+    "tableIndex": 2,
+    "hashcode": "f5134ac75113c2888eee6a5457b06c1dd8d9bcdc",
+    "id": 1217995,
+    "revision": 575116698
+  }
+}

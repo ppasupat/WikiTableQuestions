@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "1957-65 (odd years only)",
+        "1958-66 (even years only)"
+      ],
+      "utterance": "which plates used the serial format of 12345 in consecutive years?",
+      "id": "nt-1227"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many different passenger baseplates for vehicle registration have been used in vermont?",
+      "id": "nt-4187"
+    },
+    {
+      "targetValue": "Embossed white on forest green with uncolored border line; VERMONT embossed in plain block letters centered below numbers, with last two digits of registration year in similar font at bottom right",
+      "utterance": "what was the design of the first passenger baseplate for vehicle registration of vermont?",
+      "id": "nt-4992"
+    },
+    {
+      "targetValue": "1234 A-1234 1234-A",
+      "utterance": "the next design year after 1967 had what 3 serial formats?",
+      "id": "nt-5629"
+    },
+    {
+      "targetValue": "Embossed white on forest green with uncolored border line; VERMONT embossed in plain block letters centered below numbers, with last two digits of registration year in similar font at bottom right",
+      "utterance": "what was the design on the first issued plates?",
+      "id": "nt-7419"
+    },
+    {
+      "targetValue": "1985",
+      "utterance": "in what year was the last design of passenger baseplates for vehicle registration issued in vermont?",
+      "id": "nt-10831"
+    },
+    {
+      "targetValue": "green",
+      "utterance": "after passenger baseplates for vehicle registration in vermont were no longer issued with forest green as the color, what color was, and currently still is used?",
+      "id": "nt-11089"
+    },
+    {
+      "targetValue": "1967",
+      "utterance": "what was the only year there was no slogan?",
+      "id": "nt-11521"
+    },
+    {
+      "targetValue": "kelly green",
+      "utterance": "1967 and 1985 both had what color plates?",
+      "id": "nt-12283"
+    },
+    {
+      "targetValue": "Embossed white on green with beveled edge and white rectangular box around numbers; Vermont in white stylized font screened above white box, with white sugar maple in upper left corner; registration sticker at lower right corner",
+      "utterance": "what was the design on the last vehicle registration plates of vermont?",
+      "id": "nt-13927"
+    }
+  ],
+  "metadata": {
+    "title": "Vehicle registration plates of Vermont",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16798749&oldid=592387950",
+    "tableIndex": 0,
+    "hashcode": "0eb5c5f2e27665b99a3ff121311d57673f762664",
+    "id": 16798749,
+    "revision": 592387950
+  }
+}

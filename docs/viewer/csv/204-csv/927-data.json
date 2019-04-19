@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "\"Cheat on you\"",
+      "utterance": "what was the first song that this producer helped write?",
+      "id": "nt-259"
+    },
+    {
+      "targetValue": "\"Move (OVER XPSR official remix)\"",
+      "utterance": "what is eightysix's latest song?",
+      "id": "nt-3883"
+    },
+    {
+      "targetValue": "\"LoveLife (Kate Ryan song)\"",
+      "utterance": "what song did this producer help produce the same year he produced broken?",
+      "id": "nt-5492"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the total number of titles in 2011?",
+      "id": "nt-6352"
+    },
+    {
+      "targetValue": "Andras Vleminckx",
+      "utterance": "which producer had the most titles?",
+      "id": "nt-7485"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "has eightysix been credited for a song with no other writers?",
+      "id": "nt-8820"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "what is the total number of producing credits that this producer has?",
+      "id": "nt-10614"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "how many songs has eightysix been credited for?",
+      "id": "nt-11295"
+    },
+    {
+      "targetValue": "2008",
+      "utterance": "what year is next to the title cheat on you?",
+      "id": "nt-13805"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many songs did this producer work with taio cruz on?",
+      "id": "nt-13832"
+    }
+  ],
+  "metadata": {
+    "title": "Eightysix (Andras Vleminckx)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=40220294&oldid=587159660",
+    "tableIndex": 0,
+    "hashcode": "ae0bb4ca098b1656fbf6c6231b824f02542001c4",
+    "id": 40220294,
+    "revision": 587159660
+  }
+}

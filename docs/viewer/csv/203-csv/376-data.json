@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "what were the total number of years bob martinez served in office?",
+      "id": "nt-1991"
+    },
+    {
+      "targetValue": "2 years",
+      "utterance": "how long did bob martinez serve as director?",
+      "id": "nt-4543"
+    },
+    {
+      "targetValue": "2 years",
+      "utterance": "how long did lee p. brown serve for?",
+      "id": "nt-4642"
+    },
+    {
+      "targetValue": "Gil Kerlikowske",
+      "utterance": "who serves inder barack obama?",
+      "id": "nt-4646"
+    },
+    {
+      "targetValue": "2 years",
+      "utterance": "how long did the first director serve in office?",
+      "id": "nt-5230"
+    },
+    {
+      "targetValue": "Barry McCaffrey",
+      "utterance": "who was the next appointed director after lee p. brown?",
+      "id": "nt-6871"
+    },
+    {
+      "targetValue": "January 19, 2009",
+      "utterance": "when did john p. walters end his term?",
+      "id": "nt-6977"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what were the number of directors that stayed in office more than three years?",
+      "id": "nt-10202"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many directors served more than 3 years?",
+      "id": "nt-11031"
+    }
+  ],
+  "metadata": {
+    "title": "Office of National Drug Control Policy",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=595089&oldid=602400850",
+    "tableIndex": 0,
+    "hashcode": "22102b4f190041db331a039dba30c8e85877c28e",
+    "id": 595089,
+    "revision": 602400850
+  }
+}

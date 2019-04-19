@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Raphaël Ibañez",
+      "utterance": "only player to serve as captain from 1998-2007",
+      "id": "nt-771"
+    },
+    {
+      "targetValue": "122",
+      "utterance": "how many caps did jean-pierre rives and michel crauste accrue?",
+      "id": "nt-3233"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many captains played 11 capped matches?",
+      "id": "nt-5043"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many players have spans above three years?",
+      "id": "nt-5552"
+    },
+    {
+      "targetValue": "Daniel Dubroca",
+      "utterance": "which captain served the least amount of time?",
+      "id": "nt-8091"
+    },
+    {
+      "targetValue": "1961-1966",
+      "utterance": "how long did michel crauste serve as captain?",
+      "id": "nt-9933"
+    },
+    {
+      "targetValue": "9 years",
+      "utterance": "how long did fabien pelous serve as captain in the french national rugby team?",
+      "id": "nt-10512"
+    },
+    {
+      "targetValue": "Philippe Saint-André",
+      "utterance": "which player has the highest win percentage?",
+      "id": "nt-11628"
+    },
+    {
+      "targetValue": "Philippe Saint-André",
+      "utterance": "who had the largest win percentage?",
+      "id": "nt-12914"
+    },
+    {
+      "targetValue": "33",
+      "utterance": "how many caps did guy basquet accrue during his career?",
+      "id": "nt-13281"
+    }
+  ],
+  "metadata": {
+    "title": "List of France national rugby union team records",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=39612668&oldid=582442769",
+    "tableIndex": 5,
+    "hashcode": "623118dfd2852af482cd34b6ecfe2cba3c251f38",
+    "id": 39612668,
+    "revision": 582442769
+  }
+}

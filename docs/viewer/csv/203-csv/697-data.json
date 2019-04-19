@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Rogers Hornsby",
+      "utterance": "who was the first player to play for the st louis cardinals?",
+      "id": "nt-2362"
+    },
+    {
+      "targetValue": "Roberto Alomar",
+      "utterance": "who had the nickname robbie?",
+      "id": "nt-2843"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "hank aaron played at least what number of years",
+      "id": "nt-4503"
+    },
+    {
+      "targetValue": "Tom Seaver",
+      "utterance": "tom terrific and the franchise are nicknames of this same player",
+      "id": "nt-9657"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many players had nicknames starting with the letter w",
+      "id": "nt-12184"
+    },
+    {
+      "targetValue": "New York Yankees",
+      "utterance": "which team had the highest number of inductees?",
+      "id": "nt-12282"
+    },
+    {
+      "targetValue": "26 years",
+      "utterance": "how long did cap anson play?",
+      "id": "nt-12327"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many players were inducted as players of the philadelphia phillies?",
+      "id": "nt-12381"
+    }
+  ],
+  "metadata": {
+    "title": "List of baseball nicknames",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8412468&oldid=602305967",
+    "tableIndex": 0,
+    "hashcode": "e01202bcda786156b003e916ad6f411a7dccfbeb",
+    "id": 8412468,
+    "revision": 602305967
+  }
+}

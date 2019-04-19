@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "Lafayette High School",
+      "utterance": "does lafayette high school or benton high school have green and grey as their colors?",
+      "id": "nt-517"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many teams are named after birds?",
+      "id": "nt-2432"
+    },
+    {
+      "targetValue": "Bishop LeBlond High School",
+      "utterance": "which school has the least amount of student enrollment between 2010-2011 and 2011-2012?",
+      "id": "nt-2769"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of football classes lafayette high school has?",
+      "id": "nt-4771"
+    },
+    {
+      "targetValue": [
+        "Benton High School",
+        "Lafayette High School"
+      ],
+      "utterance": "which schools are in the same town as bishop leblond?",
+      "id": "nt-5977"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many of the schools had at least 500 students enrolled in the 2010-2011 and 2011-2012 season?",
+      "id": "nt-7246"
+    },
+    {
+      "targetValue": "St. Joseph",
+      "utterance": "benton high school and bishop leblond high school are both located in what town?",
+      "id": "nt-8531"
+    },
+    {
+      "targetValue": "Chillicothe High School (Missouri)",
+      "utterance": "what school has 3 football classes but only has 638 student enrollment?",
+      "id": "nt-10465"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many schools are there in this conference?",
+      "id": "nt-13527"
+    },
+    {
+      "targetValue": "Benton High School",
+      "utterance": "which school has the largest enrollment?",
+      "id": "nt-13869"
+    }
+  ],
+  "metadata": {
+    "title": "Midland Empire Conference",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5166493&oldid=555723164",
+    "tableIndex": 0,
+    "hashcode": "95c0a25cd0b1f96e96af1529a0c36f10f99dedf9",
+    "id": 5166493,
+    "revision": 555723164
+  }
+}

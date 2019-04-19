@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "Zob Ahan",
+      "utterance": "who has only 2 wins?",
+      "id": "nt-6173"
+    },
+    {
+      "targetValue": "Bahman",
+      "utterance": "who was the only winner in 1995?",
+      "id": "nt-6721"
+    },
+    {
+      "targetValue": "Malavan",
+      "utterance": "who has three wins? malavan or homa?",
+      "id": "nt-6796"
+    },
+    {
+      "targetValue": "Saba Qom (Saba Battery)",
+      "utterance": "what club is before saipa?",
+      "id": "nt-7053"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many different clubs have won?",
+      "id": "nt-9737"
+    }
+  ],
+  "metadata": {
+    "title": "Hazfi Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2593973&oldid=595691135",
+    "tableIndex": 0,
+    "hashcode": "3d7e8a52479f07dd95e8d4d8a2a5ec4e90393fcc",
+    "id": 2593973,
+    "revision": 595691135
+  }
+}

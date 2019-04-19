@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Arizona",
+        "Penn State",
+        "Western Michigan"
+      ],
+      "utterance": "list each of the schools that came in 2nd for cws best finish.",
+      "id": "nt-1314"
+    },
+    {
+      "targetValue": "Western Michigan",
+      "utterance": "does clemson or western michigan have more cws appearances?",
+      "id": "nt-1977"
+    },
+    {
+      "targetValue": [
+        "Clemson",
+        "Colorado State",
+        "Connecticut"
+      ],
+      "utterance": "list the schools that came in last place in the cws best finish.",
+      "id": "nt-2620"
+    },
+    {
+      "targetValue": "Penn State",
+      "utterance": "which was the only team with less than 20 wins?",
+      "id": "nt-2635"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what are the number of schools with more than 2 cws appearances?",
+      "id": "nt-4496"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "oklahoma state and penn state both have how many cws appearances?",
+      "id": "nt-6414"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many teams had their cws best finish in 1955?",
+      "id": "nt-6783"
+    },
+    {
+      "targetValue": "Fresno State",
+      "utterance": "which school has no cws appearances?",
+      "id": "nt-7537"
+    },
+    {
+      "targetValue": "Penn State",
+      "utterance": "which team did not have more than 16 wins?",
+      "id": "nt-11342"
+    }
+  ],
+  "metadata": {
+    "title": "1959 NCAA University Division Baseball Tournament",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10424731&oldid=581802351",
+    "tableIndex": 0,
+    "hashcode": "62e2e5342646c270775770f01eefbd18a8b3c288",
+    "id": 10424731,
+    "revision": 581802351
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "12",
+      "utterance": "how many tracks do not include the word \"jesus\"?",
+      "id": "nt-686"
+    },
+    {
+      "targetValue": "When I Think About Jesus",
+      "utterance": "what track from whatcha lookin' 4 lasts for only 1:38?",
+      "id": "nt-1224"
+    },
+    {
+      "targetValue": "When I Think About Jesus",
+      "utterance": "which song is the only one that is shorter than \"where the spirit is?\"",
+      "id": "nt-1793"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many tracks last more than 5:00?",
+      "id": "nt-1802"
+    },
+    {
+      "targetValue": "Whatcha Lookin' 4",
+      "utterance": "what is the track before \"melodies from heaven\"?",
+      "id": "nt-2068"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many tracks were over five minutes?",
+      "id": "nt-2388"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many different people are a part of the lead vocals on this album?",
+      "id": "nt-4324"
+    },
+    {
+      "targetValue": "7:25",
+      "utterance": "how long is the song \"i love you jesus?\"",
+      "id": "nt-5579"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what were the number of tracks that contained no lead vocals?",
+      "id": "nt-6275"
+    },
+    {
+      "targetValue": "Whatcha Lookin' 4 (remix)",
+      "utterance": "which song has the same people doing drum and synth programming as the skate remix to \"melodies from heaven?\"",
+      "id": "nt-10379"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many tracks does the album have?",
+      "id": "nt-11767"
+    }
+  ],
+  "metadata": {
+    "title": "Whatcha Lookin' 4",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13647836&oldid=584967052",
+    "tableIndex": 1,
+    "hashcode": "3a969dc914b50d983fa8a0ec79dfefccff605542",
+    "id": 13647836,
+    "revision": 584967052
+  }
+}

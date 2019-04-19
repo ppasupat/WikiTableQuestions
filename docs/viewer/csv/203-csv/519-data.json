@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Nelson Philippe",
+      "utterance": "which driver earned the least amount of points.",
+      "id": "nt-3964"
+    },
+    {
+      "targetValue": "Sebastien Bourdais",
+      "utterance": "what driver earned the most points?",
+      "id": "nt-6417"
+    },
+    {
+      "targetValue": "30",
+      "utterance": "what is the total point difference between the driver who received the most points and the driver who received the least?",
+      "id": "nt-6698"
+    },
+    {
+      "targetValue": "Paul Tracy",
+      "utterance": "which canadian driver finished first: alex tagliani or paul tracy?",
+      "id": "nt-6755"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many positions are held by canada?",
+      "id": "nt-8380"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many drivers were competing for brazil?",
+      "id": "nt-11723"
+    },
+    {
+      "targetValue": "Nelson Philippe",
+      "utterance": "which driver has the least amount of points?",
+      "id": "nt-11762"
+    },
+    {
+      "targetValue": "62",
+      "utterance": "what was the total points that canada earned together?",
+      "id": "nt-13474"
+    },
+    {
+      "targetValue": "Dan Clarke",
+      "utterance": "charles zwolsman acquired the same number of points as who?",
+      "id": "nt-13998"
+    }
+  ],
+  "metadata": {
+    "title": "2006 Tecate Grand Prix of Monterrey",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8562294&oldid=544631758",
+    "tableIndex": 1,
+    "hashcode": "00688da47d1be6ca17a83ef6d90324925f407611",
+    "id": 8562294,
+    "revision": 544631758
+  }
+}

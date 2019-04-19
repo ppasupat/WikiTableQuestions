@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "January",
+      "utterance": "which month had the most number of losses on the road?",
+      "id": "nt-3434"
+    },
+    {
+      "targetValue": "October",
+      "utterance": "which month had the least games played?",
+      "id": "nt-4009"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many games were won on the road between november and january?",
+      "id": "nt-4396"
+    },
+    {
+      "targetValue": "October",
+      "utterance": "which month only has a home record of 0-0-0?",
+      "id": "nt-4983"
+    },
+    {
+      "targetValue": "October",
+      "utterance": "what is the top month on the list?",
+      "id": "nt-7590"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "in february was there at least 1 road win?",
+      "id": "nt-8482"
+    },
+    {
+      "targetValue": "January",
+      "utterance": "is january or february first?",
+      "id": "nt-10365"
+    }
+  ],
+  "metadata": {
+    "title": "1942–43 New York Rangers season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20758469&oldid=601095222",
+    "tableIndex": 2,
+    "hashcode": "04b462ea0c61f5aa7a371f2244d649e700aa1bbb",
+    "id": 20758469,
+    "revision": 601095222
+  }
+}

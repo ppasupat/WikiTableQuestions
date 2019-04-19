@@ -1,0 +1,92 @@
+{
+  "examples": [
+    {
+      "targetValue": "Usain Bolt",
+      "utterance": "in 2008 in track and field events who broke more world records, usain bolt or haile gebrselassie?",
+      "id": "nt-128"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "in 2008 in track and field events how many world records did usain bolt break?",
+      "id": "nt-526"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "is the best time for the 100 m more or less than the time for the 110 m hurdles?",
+      "id": "nt-952"
+    },
+    {
+      "targetValue": "Marathon",
+      "utterance": "which record is faster, 50km race walk or marathon",
+      "id": "nt-1417"
+    },
+    {
+      "targetValue": "Jamaica",
+      "utterance": "what country's 200 m was the quickest?",
+      "id": "nt-2538"
+    },
+    {
+      "targetValue": "12.87",
+      "utterance": "in 2008 in track and field events how long did it take for dayron robles to run the 110 m hurdles when he broke the world record.",
+      "id": "nt-3983"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "in how many places were the records made?",
+      "id": "nt-4048"
+    },
+    {
+      "targetValue": "3:34:14",
+      "utterance": "what is the longest time on the table?",
+      "id": "nt-5638"
+    },
+    {
+      "targetValue": "Beijing, China",
+      "utterance": "what is last city in china to host world record",
+      "id": "nt-6091"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of countries listed in the table",
+      "id": "nt-7577"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many world records does ethiopia hold?",
+      "id": "nt-8036"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of world records that were recorded in august?",
+      "id": "nt-8529"
+    },
+    {
+      "targetValue": "Usain Bolt",
+      "utterance": "who set consecutive world records in the 100m?",
+      "id": "nt-9436"
+    },
+    {
+      "targetValue": "37.10",
+      "utterance": "what is the average speed on each runner in the 4 x 100 m relay?",
+      "id": "nt-9539"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many records were set in beijing?",
+      "id": "nt-10288"
+    },
+    {
+      "targetValue": "Usain Bolt",
+      "utterance": "which person set at least 2 world records?",
+      "id": "nt-12702"
+    }
+  ],
+  "metadata": {
+    "title": "2008 in athletics (track and field)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18942275&oldid=575899515",
+    "tableIndex": 0,
+    "hashcode": "36432d0022bb60d5d0040f0a9797555ebee9491f",
+    "id": 18942275,
+    "revision": 575899515
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "potatoes",
+      "utterance": "in equal sized portions, do potatoes or plantains contain more grams of protein?",
+      "id": "nt-925"
+    },
+    {
+      "targetValue": "Maize / Corn",
+      "utterance": "what food has the highest amount of magnesium?",
+      "id": "nt-1124"
+    },
+    {
+      "targetValue": "Sweet potato",
+      "utterance": "what staple has the least amount of fat?",
+      "id": "nt-4933"
+    },
+    {
+      "targetValue": "Rice",
+      "utterance": "which of the major staple foods contains the highest number of grams of carbohydrates in a 100 gram portion?",
+      "id": "nt-5013"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the difference in grams of water between 100g of wheat and 100g of rice?",
+      "id": "nt-9207"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many staples have more than 5 grams of fiber?",
+      "id": "nt-10759"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many staples have at least 1 mg of zinc?",
+      "id": "nt-11091"
+    },
+    {
+      "targetValue": "Yam",
+      "utterance": "what staple has the most potassium?",
+      "id": "nt-12744"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "at least how many grams of water do the staple foods have?",
+      "id": "nt-13651"
+    }
+  ],
+  "metadata": {
+    "title": "Staple food",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=392059&oldid=600525642",
+    "tableIndex": 1,
+    "hashcode": "d9ea5e8f54256bd95ff3e677591d376bb3c692ea",
+    "id": 392059,
+    "revision": 600525642
+  }
+}

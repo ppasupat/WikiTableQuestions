@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "11",
+      "utterance": "how many games did the mercury play in june?",
+      "id": "nt-774"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many consecutive wins did the team have in the regular season?",
+      "id": "nt-1072"
+    },
+    {
+      "targetValue": "Detroit",
+      "utterance": "who played phoenix after the game on june 20th?",
+      "id": "nt-2708"
+    },
+    {
+      "targetValue": "85",
+      "utterance": "what was the number of baskets houston scored on may 25th?",
+      "id": "nt-3513"
+    },
+    {
+      "targetValue": "67",
+      "utterance": "the least amount of points scored by phoenix during the season is...",
+      "id": "nt-4961"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how long was the biggest losing streak?",
+      "id": "nt-4967"
+    },
+    {
+      "targetValue": "30",
+      "utterance": "what was the total number of wins?",
+      "id": "nt-5324"
+    },
+    {
+      "targetValue": "43",
+      "utterance": "total number of games in the season, including playoff games?",
+      "id": "nt-5582"
+    },
+    {
+      "targetValue": "Phoenix",
+      "utterance": "who won on july 6th, phoenix or connecticut?",
+      "id": "nt-9144"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what was the total number of loses?",
+      "id": "nt-10993"
+    },
+    {
+      "targetValue": "Connecticut",
+      "utterance": "who did the mercury beat in their only 2ot game?",
+      "id": "nt-12383"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the most consecutive losses for the mercury in this season?",
+      "id": "nt-12894"
+    }
+  ],
+  "metadata": {
+    "title": "2007 Phoenix Mercury season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19732408&oldid=586020462",
+    "tableIndex": 5,
+    "hashcode": "735c0d75c571fd8099b81f872ba833a463cd9381",
+    "id": 19732408,
+    "revision": 586020462
+  }
+}

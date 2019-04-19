@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "targetValue": "no",
+      "utterance": "in masters 1000 tournament did the table show more losses than wins?",
+      "id": "nt-3308"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many locations were listed in total?",
+      "id": "nt-3720"
+    }
+  ],
+  "metadata": {
+    "title": "Kevin Ullyett",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3175067&oldid=588721284",
+    "tableIndex": 5,
+    "hashcode": "adbc34f740236bff7eed1a7b5199b9c786243239",
+    "id": 3175067,
+    "revision": 588721284
+  }
+}

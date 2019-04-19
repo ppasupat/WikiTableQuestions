@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Chinese Odyssey 2002",
+      "utterance": "after \"never say goodbye,\" what was the title of the next movie she was in chronologically?",
+      "id": "nt-1048"
+    },
+    {
+      "targetValue": "Taxi Hunter",
+      "utterance": "what film was done next after 'once a cop'?",
+      "id": "nt-7144"
+    },
+    {
+      "targetValue": "1998",
+      "utterance": "which year did she work on the most films?",
+      "id": "nt-8718"
+    },
+    {
+      "targetValue": "Lai Man-si",
+      "utterance": "what was athena chu's first role?",
+      "id": "nt-8870"
+    },
+    {
+      "targetValue": "Ah Fai the Dumb",
+      "utterance": "what was the next film chu did after hero of swallow?",
+      "id": "nt-9993"
+    },
+    {
+      "targetValue": "45",
+      "utterance": "how many films are listed in this filmography?",
+      "id": "nt-10132"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many films in 1995 did athen chu act in?",
+      "id": "nt-10474"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many movies was she in before \"vampire family\"?",
+      "id": "nt-10892"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many movies was she in in 1998?",
+      "id": "nt-13648"
+    },
+    {
+      "targetValue": "45",
+      "utterance": "what is the total number of films athena chu has acted in?",
+      "id": "nt-14050"
+    },
+    {
+      "targetValue": "1994",
+      "utterance": "did lantern come out in 1994 or 1997?",
+      "id": "nt-14085"
+    }
+  ],
+  "metadata": {
+    "title": "Athena Chu",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2462726&oldid=594072605",
+    "tableIndex": 0,
+    "hashcode": "79a96347b7103d5d9079cba9106dcc212cbf0de5",
+    "id": 2462726,
+    "revision": 594072605
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Ruben Calderon",
+      "utterance": "who was the only competitor from el salvador?",
+      "id": "nt-3306"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what was the number of competitors during the 1995 finals?",
+      "id": "nt-4529"
+    },
+    {
+      "targetValue": "56.04",
+      "utterance": "how long did the last place swimmer take to swim the 100 meter butterfly?",
+      "id": "nt-5743"
+    },
+    {
+      "targetValue": "José Meolans",
+      "utterance": "which competitor came after diego cuenca in the 1995 finals?",
+      "id": "nt-7285"
+    },
+    {
+      "targetValue": "Eduardo Piccinini",
+      "utterance": "did diego cuenca or eduardo piccinini perform better?",
+      "id": "nt-7316"
+    },
+    {
+      "targetValue": "Mark Henderson",
+      "utterance": "who achieved a time that was at least faster than 54.20?",
+      "id": "nt-8821"
+    },
+    {
+      "targetValue": "Ruben Calderon",
+      "utterance": "who ranked number 8 after jose meolans finished in 7th?",
+      "id": "nt-10911"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many swimmers swam the 100 meters in under 55 seconds?",
+      "id": "nt-11707"
+    },
+    {
+      "targetValue": "1.04",
+      "utterance": "how much shorter of a time did eduardo piccinini receive than diego cuenca?",
+      "id": "nt-12537"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many competitors were from the united states?",
+      "id": "nt-13418"
+    },
+    {
+      "targetValue": "Mark Henderson",
+      "utterance": "who finished before eduardo piccinini?",
+      "id": "nt-13624"
+    }
+  ],
+  "metadata": {
+    "title": "Swimming at the 1995 Pan American Games – Men's 100 metre butterfly",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=40964027&oldid=581603698",
+    "tableIndex": 1,
+    "hashcode": "47f6c311291492705dc8214dadf5657ba30abf41",
+    "id": 40964027,
+    "revision": 581603698
+  }
+}

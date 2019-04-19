@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many different languages are listed?",
+      "id": "nt-359"
+    },
+    {
+      "targetValue": "Theunissen",
+      "utterance": "which place is the largest in area and where afrikaans is spoken?",
+      "id": "nt-3880"
+    },
+    {
+      "targetValue": "8296",
+      "utterance": "what is the combined population of makeleketla and theunissen?",
+      "id": "nt-6323"
+    },
+    {
+      "targetValue": "Sotho",
+      "utterance": "what language is spoken in the place with the largest population?",
+      "id": "nt-7908"
+    },
+    {
+      "targetValue": [
+        "Afrikaans",
+        "Tswana"
+      ],
+      "utterance": "what other languages are listed in the table besides sotho?",
+      "id": "nt-8477"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many places speak sotho?",
+      "id": "nt-8691"
+    },
+    {
+      "targetValue": "14373",
+      "utterance": "what is the difference in population between fora and masilo",
+      "id": "nt-10861"
+    },
+    {
+      "targetValue": "151",
+      "utterance": "what is the least population listed in the table?",
+      "id": "nt-11161"
+    },
+    {
+      "targetValue": "Masilo",
+      "utterance": "which place had the largest population?",
+      "id": "nt-11385"
+    },
+    {
+      "targetValue": "2492",
+      "utterance": "how many people live in beatrix mine?",
+      "id": "nt-11756"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "is the population of brandfort the same as the population of boipatong?",
+      "id": "nt-13273"
+    },
+    {
+      "targetValue": "Winburg",
+      "utterance": "which place is larger (in area) than theunissen?",
+      "id": "nt-13380"
+    }
+  ],
+  "metadata": {
+    "title": "Masilonyana Local Municipality",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30254461&oldid=590599855",
+    "tableIndex": 0,
+    "hashcode": "8e370b8bf4023a5e397b4fa82a6663bc48a81fca",
+    "id": 30254461,
+    "revision": 590599855
+  }
+}

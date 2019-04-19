@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "22",
+      "utterance": "how many total games did they win?",
+      "id": "nt-697"
+    },
+    {
+      "targetValue": "50",
+      "utterance": "how many games total were played?",
+      "id": "nt-1217"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is was the difference in score in the december 19th win?",
+      "id": "nt-2591"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what was the total amount of points scored on november 4th?",
+      "id": "nt-3796"
+    },
+    {
+      "targetValue": "Boston Bruins",
+      "utterance": "on december 14 was the home team the chicago black hawks or the boston bruins?",
+      "id": "nt-6185"
+    },
+    {
+      "targetValue": "Chicago Black Hawks",
+      "utterance": "who was the next team that the boston bruins played after november 11?",
+      "id": "nt-7937"
+    },
+    {
+      "targetValue": "Toronto Maple Leafs",
+      "utterance": "which team was the first one the black hawks lost to?",
+      "id": "nt-8390"
+    },
+    {
+      "targetValue": "5 months",
+      "utterance": "how long is the duration of one season (from the first game to the last)?",
+      "id": "nt-10487"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the difference in pts between december 5th and november 11th?",
+      "id": "nt-10974"
+    },
+    {
+      "targetValue": "44",
+      "utterance": "tell me the number of points the blackhawks had on march 4.",
+      "id": "nt-12113"
+    }
+  ],
+  "metadata": {
+    "title": "1943–44 Chicago Black Hawks season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=13599969&oldid=577119656",
+    "tableIndex": 1,
+    "hashcode": "c453e1a6c5ef7c361cdec98effd3f9d7b02aef9d",
+    "id": 13599969,
+    "revision": 577119656
+  }
+}

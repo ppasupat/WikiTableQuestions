@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Detroit Waza",
+      "utterance": "which opponent is listed after cleveland freeze in the table?",
+      "id": "nt-491"
+    },
+    {
+      "targetValue": "5 games",
+      "utterance": "how long was the teams longest losing streak?",
+      "id": "nt-657"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many games did the harrisburg heat lose to the cleveland freeze in total.",
+      "id": "nt-3978"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many times did the team play at home but did not win?",
+      "id": "nt-5270"
+    },
+    {
+      "targetValue": "Farm Show Arena",
+      "utterance": "what was the location before tri-county soccerplex?",
+      "id": "nt-5773"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many games did the harrisburg heat win in which they scored eight or more goals?",
+      "id": "nt-6766"
+    },
+    {
+      "targetValue": "Detroit Waza",
+      "utterance": "which opponent is listed first in the table?",
+      "id": "nt-7001"
+    },
+    {
+      "targetValue": "Detroit Waza",
+      "utterance": "who was the first opponent on this list?",
+      "id": "nt-7943"
+    },
+    {
+      "targetValue": "December 28",
+      "utterance": "what is the date of the game after december 22?",
+      "id": "nt-9272"
+    }
+  ],
+  "metadata": {
+    "title": "2013–14 Harrisburg Heat season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=40339774&oldid=595829129",
+    "tableIndex": 1,
+    "hashcode": "8d8f006a9d4a14292636b5b947a59be763b57e52",
+    "id": 40339774,
+    "revision": 595829129
+  }
+}

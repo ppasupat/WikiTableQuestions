@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Italy",
+      "utterance": "the country with the most riders was",
+      "id": "nt-2321"
+    },
+    {
+      "targetValue": "Marco Simoncelli",
+      "utterance": "who perfomed the most number of laps, marco simoncelli or hiroshi aoyama?",
+      "id": "nt-4365"
+    },
+    {
+      "targetValue": "Marco Simoncelli",
+      "utterance": "did marco simoncelli or alvaro bautista held rank 1?",
+      "id": "nt-5899"
+    },
+    {
+      "targetValue": "Gilera",
+      "utterance": "who is marco simoncelli's manufacturer",
+      "id": "nt-7133"
+    },
+    {
+      "targetValue": "Roberto Locatelli",
+      "utterance": "the next rider from italy aside from winner marco simoncelli was",
+      "id": "nt-7593"
+    },
+    {
+      "targetValue": "25",
+      "utterance": "what is the total number of laps performed by rider imre toth?",
+      "id": "nt-12430"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many riders manufacturer is honda?",
+      "id": "nt-12921"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "the total amount of riders who did not qualify",
+      "id": "nt-13275"
+    },
+    {
+      "targetValue": "24",
+      "utterance": "what is the total number of rider?",
+      "id": "nt-13665"
+    }
+  ],
+  "metadata": {
+    "title": "2008 Australian motorcycle Grand Prix",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16280265&oldid=594344283",
+    "tableIndex": 1,
+    "hashcode": "2dae46cab9a3617de5a69a14058d06a6f2ae8d9f",
+    "id": 16280265,
+    "revision": 594344283
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "67",
+      "utterance": "how many more goals did archie thompson score than billy celeski?",
+      "id": "nt-2023"
+    },
+    {
+      "targetValue": "Brazil",
+      "utterance": "after australia, what nation has the highest number of players for melbourne?",
+      "id": "nt-2867"
+    },
+    {
+      "targetValue": "Archie Thompson",
+      "utterance": "who played the most amount of matches?",
+      "id": "nt-4208"
+    },
+    {
+      "targetValue": "James Robinson",
+      "utterance": "what englishman played for melbourne before any other englishman?",
+      "id": "nt-4725"
+    },
+    {
+      "targetValue": "Billy Celeski",
+      "utterance": "what player is australian and has played 91 matches for melbourne?",
+      "id": "nt-5144"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "total amount of goals scored by chris tadrosse?",
+      "id": "nt-7448"
+    },
+    {
+      "targetValue": "Archie Thompson",
+      "utterance": "who has scored more goals than any other melbourne player?",
+      "id": "nt-10695"
+    },
+    {
+      "targetValue": "141",
+      "utterance": "what is the total number of matches played by brazilians for melbourne?",
+      "id": "nt-10950"
+    },
+    {
+      "targetValue": "Melbourne",
+      "utterance": "adama traore was the first ivorian to play for what soccer club?",
+      "id": "nt-11314"
+    },
+    {
+      "targetValue": "Archie Thompson",
+      "utterance": "who is the player with the greatest number of matches played?",
+      "id": "nt-13145"
+    }
+  ],
+  "metadata": {
+    "title": "List of Melbourne Victory FC players",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3133280&oldid=596482003",
+    "tableIndex": 0,
+    "hashcode": "43202f0e606a36ba30c7bb1b7591e1e0c794fec5",
+    "id": 3133280,
+    "revision": 596482003
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Post office",
+      "utterance": "which symbol uses a t-shape not as big as the sub post office?",
+      "id": "nt-2038"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many vertical wavy lines are there in the onsen symbol?",
+      "id": "nt-3595"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many symbols are not shown?",
+      "id": "nt-6835"
+    },
+    {
+      "targetValue": "24",
+      "utterance": "how many total symbols are shown?",
+      "id": "nt-12490"
+    },
+    {
+      "targetValue": "Benchmark",
+      "utterance": "which has a unicode of u+22a1, the benchmark symbol or the factory symbol?",
+      "id": "nt-13284"
+    },
+    {
+      "targetValue": "U+22A1",
+      "utterance": "which is the only unicode listed that contains an a letter?",
+      "id": "nt-13301"
+    },
+    {
+      "targetValue": "Manji (Swastika)",
+      "utterance": "what symbol can potentially have a negative or racist connotation?",
+      "id": "nt-13744"
+    }
+  ],
+  "metadata": {
+    "title": "Japanese map symbols",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2879824&oldid=576219086",
+    "tableIndex": 1,
+    "hashcode": "8a050477e6295f5095ae954e3128c18f17db2435",
+    "id": 2879824,
+    "revision": 576219086
+  }
+}

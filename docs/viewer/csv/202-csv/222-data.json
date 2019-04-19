@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "Jimmy Jackson",
+      "utterance": "which qualifying driver has the largest gap?",
+      "id": "nt-5852"
+    }
+  ],
+  "metadata": {
+    "title": "1950 Indianapolis 500",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1122035&oldid=593689495",
+    "tableIndex": 1,
+    "hashcode": "e68497c796cb44b82b01e36cb793a60b4daa7633",
+    "id": 1122035,
+    "revision": 593689495
+  }
+}

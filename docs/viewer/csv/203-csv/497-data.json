@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "Maldives",
+      "utterance": "which nation has earned the least amount of gold medals?",
+      "id": "nt-836"
+    },
+    {
+      "targetValue": "132",
+      "utterance": "what is the difference in total number of medals between india and nepal?",
+      "id": "nt-2730"
+    },
+    {
+      "targetValue": "Nepal",
+      "utterance": "name a country listed in the table, other than india?",
+      "id": "nt-4331"
+    },
+    {
+      "targetValue": "India",
+      "utterance": "name the first country on the table?",
+      "id": "nt-4516"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many countries have one more than 10 gold medals?",
+      "id": "nt-5244"
+    },
+    {
+      "targetValue": "193",
+      "utterance": "what is the difference between the nation with the most medals and the nation with the least amount of medals?",
+      "id": "nt-5449"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "how many more gold medals has nepal won than pakistan?",
+      "id": "nt-6865"
+    },
+    {
+      "targetValue": "36",
+      "utterance": "what was the number of silver medals won by pakistan?",
+      "id": "nt-7046"
+    },
+    {
+      "targetValue": "Sri Lanka",
+      "utterance": "who has won the most bronze medals?",
+      "id": "nt-8611"
+    },
+    {
+      "targetValue": "102",
+      "utterance": "how many gold medals did india win?",
+      "id": "nt-9128"
+    },
+    {
+      "targetValue": "62",
+      "utterance": "what are the total number of bronze medals sri lanka have earned?",
+      "id": "nt-9196"
+    },
+    {
+      "targetValue": "163",
+      "utterance": "how many gold medals were awarded between all 7 nations?",
+      "id": "nt-12390"
+    },
+    {
+      "targetValue": "Maldives",
+      "utterance": "what country has won no silver medals?",
+      "id": "nt-13822"
+    },
+    {
+      "targetValue": "Maldives",
+      "utterance": "what was the only nation to win less than 10 medals total?",
+      "id": "nt-13990"
+    }
+  ],
+  "metadata": {
+    "title": "1999 South Asian Games",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7579879&oldid=571383336",
+    "tableIndex": 0,
+    "hashcode": "501da1a0d717ed6d6151add5ab58c3a3d4cf5d0e",
+    "id": 7579879,
+    "revision": 571383336
+  }
+}

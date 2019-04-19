@@ -1,0 +1,71 @@
+{
+  "examples": [
+    {
+      "targetValue": "12",
+      "utterance": "how many teams completed all 150 laps of the 1998 marlboro grand prix of miami?",
+      "id": "nt-1615"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "what is the total number of drivers who did not finish the race?",
+      "id": "nt-3509"
+    },
+    {
+      "targetValue": "Tony Kanaan",
+      "utterance": "which driver had the least number of laps?",
+      "id": "nt-5327"
+    },
+    {
+      "targetValue": [
+        "Michael Andretti",
+        "Scott Pruett",
+        "Bryan Herta"
+      ],
+      "utterance": "who are the top 3 drivers from the united states?",
+      "id": "nt-5442"
+    },
+    {
+      "targetValue": "Michael Andretti",
+      "utterance": "which driver finished first in the 1998 marlboro grand prix of miami?",
+      "id": "nt-7173"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many drivers had at least 10 points?",
+      "id": "nt-7269"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many american drivers participated in the race?",
+      "id": "nt-9647"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many canadian drivers finished in at least 10th position or better?",
+      "id": "nt-9859"
+    },
+    {
+      "targetValue": "Tasman Motorsports Group",
+      "utterance": "which team finished last in the 1998 marlboro grand prix of miami?",
+      "id": "nt-10935"
+    },
+    {
+      "targetValue": "149",
+      "utterance": "tell me the number of laps completed by jj lehto.",
+      "id": "nt-11146"
+    },
+    {
+      "targetValue": "29",
+      "utterance": "how many teams competed in the 1998 marlboro grand prix of miami?",
+      "id": "nt-13836"
+    }
+  ],
+  "metadata": {
+    "title": "1998 Marlboro Grand Prix of Miami",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=29011005&oldid=564132136",
+    "tableIndex": 0,
+    "hashcode": "806653f729d85befdbe231943e529ea446f712d4",
+    "id": 29011005,
+    "revision": 564132136
+  }
+}

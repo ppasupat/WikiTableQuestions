@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "Belgium",
+      "utterance": "the other team besides brazil to score 5 goals",
+      "id": "nt-2805"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many teams won by at least three points?",
+      "id": "nt-4494"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many teams won by a margin of two or more points?",
+      "id": "nt-5732"
+    },
+    {
+      "targetValue": "39",
+      "utterance": "number of total goals scored in the round",
+      "id": "nt-6527"
+    },
+    {
+      "targetValue": "Clay",
+      "utterance": "what was the surface at most of the games?",
+      "id": "nt-8532"
+    }
+  ],
+  "metadata": {
+    "title": "2012 Davis Cup",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33133156&oldid=593500556",
+    "tableIndex": 1,
+    "hashcode": "7bc9b2d56e772604bbb2c1f2a00939b2157b3f68",
+    "id": 33133156,
+    "revision": 593500556
+  }
+}

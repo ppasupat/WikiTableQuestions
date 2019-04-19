@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Royal Bafokeng Stadium, Rustenburg, South Africa",
+      "utterance": "where was the last competition held?",
+      "id": "nt-840"
+    },
+    {
+      "targetValue": "4-1",
+      "utterance": "what was the score previous to the benin opponent?",
+      "id": "nt-1942"
+    },
+    {
+      "targetValue": "Egypt",
+      "utterance": "\"at least two goals were scored by the losing team in january 14 2013. who was this team?\"",
+      "id": "nt-9386"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many times was the competition friendly?",
+      "id": "nt-10342"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many games were classified friendly competition?",
+      "id": "nt-11328"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what are number of friendly competitions that took place in which the score was 4-1?",
+      "id": "nt-13041"
+    },
+    {
+      "targetValue": "14 November 2012",
+      "utterance": "which other time was their the same score as the score in benin?",
+      "id": "nt-13650"
+    },
+    {
+      "targetValue": "2013 Africa Cup of Nations",
+      "utterance": "which competition took place after the game in egypt?",
+      "id": "nt-13759"
+    }
+  ],
+  "metadata": {
+    "title": "Didier Ya Konan",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7485861&oldid=600156234",
+    "tableIndex": 1,
+    "hashcode": "857f4f739075d2b4f5fc72564e59a5dfbf074f37",
+    "id": 7485861,
+    "revision": 600156234
+  }
+}

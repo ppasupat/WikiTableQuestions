@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "yes",
+      "utterance": "are there at least 2 nationalities on the chart?",
+      "id": "nt-315"
+    },
+    {
+      "targetValue": "Kevin Watson",
+      "utterance": "whos name is listed last on the chart?",
+      "id": "nt-818"
+    },
+    {
+      "targetValue": [
+        "Andy Hughes",
+        "Adrian Whitbread",
+        "Alex Smith"
+      ],
+      "utterance": "who transferred before 1 august 2001?",
+      "id": "nt-1595"
+    },
+    {
+      "targetValue": [
+        "John Salako",
+        "Frank Talia",
+        "Kevin Watson"
+      ],
+      "utterance": "who transferred after 30 november 2001?",
+      "id": "nt-3913"
+    },
+    {
+      "targetValue": "5 July 2001",
+      "utterance": "andy huges and adrian whitbread both tranfered on which date?",
+      "id": "nt-7764"
+    },
+    {
+      "targetValue": "£150,000",
+      "utterance": "what was the transfer fee to transfer kevin watson?",
+      "id": "nt-8366"
+    },
+    {
+      "targetValue": "Andy Hughes",
+      "utterance": "did andy hughes or john salako command the largest fee?",
+      "id": "nt-8774"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total number of free fees?",
+      "id": "nt-8914"
+    },
+    {
+      "targetValue": "Frank Talia",
+      "utterance": "which transfer in was next after john salako's in 2002?",
+      "id": "nt-13659"
+    }
+  ],
+  "metadata": {
+    "title": "2001–02 Reading F.C. season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=34232544&oldid=595501558",
+    "tableIndex": 0,
+    "hashcode": "9c8b460a02b570dbefabbffad55b85432a75be1e",
+    "id": 34232544,
+    "revision": 595501558
+  }
+}

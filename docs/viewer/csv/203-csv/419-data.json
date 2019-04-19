@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "22:20 OT",
+      "utterance": "how long was the longest ot session?",
+      "id": "nt-1725"
+    },
+    {
+      "targetValue": "Portland",
+      "utterance": "who do pcha play before vancouver on the 18th of january?",
+      "id": "nt-1748"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many consecutive games did spokane play in january?",
+      "id": "nt-6014"
+    },
+    {
+      "targetValue": "Seattle",
+      "utterance": "which team had the highest score during one game?",
+      "id": "nt-11653"
+    }
+  ],
+  "metadata": {
+    "title": "1917–18 PCHA season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12548151&oldid=577546459",
+    "tableIndex": 3,
+    "hashcode": "8c2c422e3dea1cee13f1ffc6098dfb8ff11ddfd3",
+    "id": 12548151,
+    "revision": 577546459
+  }
+}

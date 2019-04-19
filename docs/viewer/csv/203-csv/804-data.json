@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "12",
+      "utterance": "how many drivers had a total of 58 laps or more?",
+      "id": "nt-821"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what number of drivers represented great britain?",
+      "id": "nt-2373"
+    },
+    {
+      "targetValue": "Jean-Pierre Jarier",
+      "utterance": "who was the only driver to drive 33 laps according to this chart?",
+      "id": "nt-2674"
+    },
+    {
+      "targetValue": "Emerson Fittipaldi",
+      "utterance": "what driver completed the least number of laps?",
+      "id": "nt-3776"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of mclaren-ford constructors?",
+      "id": "nt-4346"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many times is hesketh-ford listed as the constructor?",
+      "id": "nt-6132"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many drivers participated in the race?",
+      "id": "nt-7272"
+    },
+    {
+      "targetValue": "Emerson Fittipaldi",
+      "utterance": "which driver completed the least number of laps?",
+      "id": "nt-9574"
+    },
+    {
+      "targetValue": "Emerson Fittipaldi",
+      "utterance": "which driver did the least number of laps?",
+      "id": "nt-10094"
+    },
+    {
+      "targetValue": "Jean-Pierre Jarier",
+      "utterance": "what driver was below jo vonlanthen in the grid?",
+      "id": "nt-12452"
+    }
+  ],
+  "metadata": {
+    "title": "1975 Swiss Grand Prix",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11552877&oldid=601233703",
+    "tableIndex": 0,
+    "hashcode": "9a5444142a3231b4520cd8ee95427243bc08d695",
+    "id": 11552877,
+    "revision": 601233703
+  }
+}

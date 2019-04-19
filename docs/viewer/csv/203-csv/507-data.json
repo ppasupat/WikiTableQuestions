@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Karel Hromádka",
+      "utterance": "jan schulz is ranked immediately below which player?",
+      "id": "nt-2623"
+    },
+    {
+      "targetValue": "Karel Hromádka",
+      "utterance": "which player had the largest number of &#931; points?",
+      "id": "nt-3514"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many countries had more than one player in the consolation cup?",
+      "id": "nt-3954"
+    },
+    {
+      "targetValue": "Erwin Voellmy",
+      "utterance": "who was the top scorer from switzerland?",
+      "id": "nt-5990"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "karl behting and giovanni cenni each had final scores of what?",
+      "id": "nt-6450"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many players tied for 4th place?",
+      "id": "nt-8643"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "did the two competitors from hungary get more or less combined points than the two competitors from argentina?",
+      "id": "nt-11007"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many players had a 8 points?",
+      "id": "nt-12609"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many players had final scores higher than 5?",
+      "id": "nt-13761"
+    },
+    {
+      "targetValue": "Karel Hromádka",
+      "utterance": "the most points were scored by which player?",
+      "id": "nt-13901"
+    }
+  ],
+  "metadata": {
+    "title": "1st unofficial Chess Olympiad",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15929248&oldid=601533673",
+    "tableIndex": 1,
+    "hashcode": "b716c3bdf808f9f5d27f228fe0291708ee3d5cf0",
+    "id": 15929248,
+    "revision": 601533673
+  }
+}

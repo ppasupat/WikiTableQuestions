@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "Gerda Boykin",
+      "utterance": "which golfer was not from the united states?",
+      "id": "nt-7631"
+    },
+    {
+      "targetValue": "Sharon Miller",
+      "utterance": "which player comes below murle breer",
+      "id": "nt-12959"
+    },
+    {
+      "targetValue": "JoAnne Carner",
+      "utterance": "which competitor received the saem score as sandra haynie?",
+      "id": "nt-13472"
+    }
+  ],
+  "metadata": {
+    "title": "1970 LPGA Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=31422035&oldid=558671690",
+    "tableIndex": 0,
+    "hashcode": "00ebed7814713ce7740826f2dbc12fb0524de017",
+    "id": 31422035,
+    "revision": 558671690
+  }
+}

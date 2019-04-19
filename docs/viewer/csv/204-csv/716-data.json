@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Laois",
+      "utterance": "who was the winner after 2007?",
+      "id": "nt-673"
+    },
+    {
+      "targetValue": "Wicklow",
+      "utterance": "who scored the least?",
+      "id": "nt-2519"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times was carlow the runner-up?",
+      "id": "nt-2860"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the total number of times the competition was held at the semple stadium venue?",
+      "id": "nt-3294"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many winners won in semple stadium?",
+      "id": "nt-4202"
+    },
+    {
+      "targetValue": "Patrick Donnellan",
+      "utterance": "who was the winning captain the last time the competition was held at the gaelic grounds venue?",
+      "id": "nt-4363"
+    },
+    {
+      "targetValue": "Kerry",
+      "utterance": "which team was the first to win with a team captain?",
+      "id": "nt-5887"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "what is the difference in the scores in 2000?",
+      "id": "nt-6403"
+    },
+    {
+      "targetValue": "Dublin",
+      "utterance": "who was the first winner in 2013?",
+      "id": "nt-10681"
+    },
+    {
+      "targetValue": "Michael 'Boxer' Slattery",
+      "utterance": "who was the first winning captain?",
+      "id": "nt-11900"
+    },
+    {
+      "targetValue": "Clare",
+      "utterance": "which team was the previous winner before dublin in 2013?",
+      "id": "nt-12592"
+    }
+  ],
+  "metadata": {
+    "title": "National Hurling League",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2802698&oldid=596784577",
+    "tableIndex": 2,
+    "hashcode": "95daf51a53e25b7ff7acef3664334cb753ff6a4d",
+    "id": 2802698,
+    "revision": 596784577
+  }
+}

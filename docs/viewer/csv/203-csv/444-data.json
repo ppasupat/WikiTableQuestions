@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many of the surface types are not clay or hard?",
+      "id": "nt-595"
+    },
+    {
+      "targetValue": "Sony Ericsson Championships - Istanbul 2011",
+      "utterance": "which tournament offered the most prize money?",
+      "id": "nt-1543"
+    },
+    {
+      "targetValue": "Europe",
+      "utterance": "who hosted more often, europe or asia?",
+      "id": "nt-3934"
+    },
+    {
+      "targetValue": "Sony Ericsson Championships - Istanbul 2011",
+      "utterance": "what tournament came before the bnp paribas open?",
+      "id": "nt-6235"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of tournaments played on grass?",
+      "id": "nt-7889"
+    },
+    {
+      "targetValue": "BGL BNP PARIBAS Luxembourg Open",
+      "utterance": "which tournament is the last one of the year?",
+      "id": "nt-12116"
+    },
+    {
+      "targetValue": "OPEN GDF Suez",
+      "utterance": "what tournament takes place directly before the family circle cup?",
+      "id": "nt-12497"
+    }
+  ],
+  "metadata": {
+    "title": "List of tennis tournaments",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2803662&oldid=601406321",
+    "tableIndex": 2,
+    "hashcode": "af8f1a23c906f193f32061238c5e7e1625a00b70",
+    "id": 2803662,
+    "revision": 601406321
+  }
+}

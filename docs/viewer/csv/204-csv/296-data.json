@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Silvia Sperber (FRG)",
+      "utterance": "which athlete has the most total?",
+      "id": "nt-363"
+    },
+    {
+      "targetValue": [
+        "Silvia Sperber (FRG)",
+        "Vesela Letcheva (BUL)",
+        "Katja Klepp (GDR)",
+        "Sharon Bowes (CAN)"
+      ],
+      "utterance": "which runners ran above 95.4?",
+      "id": "nt-2493"
+    },
+    {
+      "targetValue": "Silvia Sperber (FRG)",
+      "utterance": "which runner ran the most?",
+      "id": "nt-2633"
+    },
+    {
+      "targetValue": "2050.2",
+      "utterance": "what was the total number of points for the medal winners?",
+      "id": "nt-4733"
+    },
+    {
+      "targetValue": "Launi Meili",
+      "utterance": "name an athlete whose total score was not more than 680.",
+      "id": "nt-6241"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the difference in qualifying for sharon bowes and silvia sperber?",
+      "id": "nt-6732"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of athletes from the us?",
+      "id": "nt-10311"
+    },
+    {
+      "targetValue": "Valentina Cherkasova (URS)",
+      "utterance": "who scored higher in total score of the two athletes from the soviet union (urs)?",
+      "id": "nt-11033"
+    }
+  ],
+  "metadata": {
+    "title": "Shooting at the 1988 Summer Olympics – Women's 50 metre rifle three positions",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19609437&oldid=555799817",
+    "tableIndex": 1,
+    "hashcode": "bb7eb996ac5db9b1adb9ac03231e4f9dcf1fb9e8",
+    "id": 19609437,
+    "revision": 555799817
+  }
+}

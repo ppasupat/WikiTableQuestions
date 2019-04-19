@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many additional total goals did italy score compared to the republic of ireland in the 1994 fifa world cup match?",
+      "id": "nt-2223"
+    },
+    {
+      "targetValue": "Italy",
+      "utterance": "which team is the most attended team?",
+      "id": "nt-6197"
+    },
+    {
+      "targetValue": "Saudi Arabia",
+      "utterance": "which team won the 1994 fifa world cup match with the highest attendance?",
+      "id": "nt-6675"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many matches were after june 28, 1994.",
+      "id": "nt-10300"
+    },
+    {
+      "targetValue": "5,292",
+      "utterance": "what is the difference in number of spectators between the best attended match and least attended match (of all matches listed)?",
+      "id": "nt-12072"
+    },
+    {
+      "targetValue": "Republic of Ireland",
+      "utterance": "which team was the first to beat italy",
+      "id": "nt-13193"
+    },
+    {
+      "targetValue": "Italy",
+      "utterance": "which team did not win the match with 75,338 spectators",
+      "id": "nt-13804"
+    }
+  ],
+  "metadata": {
+    "title": "Giants Stadium",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=321352&oldid=593982401",
+    "tableIndex": 0,
+    "hashcode": "adabcf161c627e7ba2807fa5ff068e5bd4679a7e",
+    "id": 321352,
+    "revision": 593982401
+  }
+}

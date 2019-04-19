@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Kingston",
+      "utterance": "which city is shown first on the table?",
+      "id": "nt-2323"
+    },
+    {
+      "targetValue": "2004",
+      "utterance": "when was the first time the race was finished in under 10 seconds?",
+      "id": "nt-2371"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many times was the race run in under 10 seconds?",
+      "id": "nt-4785"
+    },
+    {
+      "targetValue": "0.50",
+      "utterance": "what is the average windspeed brussels had?",
+      "id": "nt-5128"
+    },
+    {
+      "targetValue": "2008",
+      "utterance": "which year had at most a time of 9.72?",
+      "id": "nt-5181"
+    },
+    {
+      "targetValue": "Rome",
+      "utterance": "szczecin and what other city had the same time that the windspeed was counted?",
+      "id": "nt-5913"
+    },
+    {
+      "targetValue": "Lausanne",
+      "utterance": "what city is listed with the least time?",
+      "id": "nt-11167"
+    },
+    {
+      "targetValue": "2000",
+      "utterance": "what is the year listed before 2001?",
+      "id": "nt-11451"
+    },
+    {
+      "targetValue": "2003",
+      "utterance": "when was the last race that was timed at greater than 10 seconds?",
+      "id": "nt-13867"
+    }
+  ],
+  "metadata": {
+    "title": "Asafa Powell",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=898259&oldid=597426055",
+    "tableIndex": 5,
+    "hashcode": "52b92ecc55f150440234b792b51f5d4b7f1992a9",
+    "id": 898259,
+    "revision": 597426055
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "18",
+      "utterance": "how many places list no zip code in either the lower or upper zip code?",
+      "id": "nt-75"
+    },
+    {
+      "targetValue": "Y",
+      "utterance": "what letter is common to each place name?",
+      "id": "nt-1792"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "how many places have no zip code listed?",
+      "id": "nt-2639"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many places have an upper zip code listed?",
+      "id": "nt-5033"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "yosemite national park shares the same zip code with how many counties?",
+      "id": "nt-8564"
+    },
+    {
+      "targetValue": "Yurok Indian Reservation",
+      "utterance": "what place is listed last?",
+      "id": "nt-11221"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many places have a larger amount that 1 county?",
+      "id": "nt-12740"
+    },
+    {
+      "targetValue": "Yosemite National Park",
+      "utterance": "which place has the highest number of counties?",
+      "id": "nt-13165"
+    }
+  ],
+  "metadata": {
+    "title": "List of places in California (Y)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2707777&oldid=519504457",
+    "tableIndex": 0,
+    "hashcode": "488ae0181d353cd3dfcf911a0676a03b98a53314",
+    "id": 2707777,
+    "revision": 519504457
+  }
+}

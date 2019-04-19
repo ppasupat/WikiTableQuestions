@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "2008",
+      "utterance": "what yea had more proteins 2008 or 1997?",
+      "id": "nt-3811"
+    },
+    {
+      "targetValue": "6 years",
+      "utterance": "how long after the third prion characterization would it take for another to be characterized?",
+      "id": "nt-6002"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how any proteins have podospora anserina as a natural host?",
+      "id": "nt-9527"
+    },
+    {
+      "targetValue": "Podospora anserina",
+      "utterance": "podospora anserina or saccharomyces cerevisiae is the natural host for het-s?",
+      "id": "nt-10246"
+    },
+    {
+      "targetValue": "1994",
+      "utterance": "what year was the first prion characterized?",
+      "id": "nt-10764"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many prions were identified in 2012?",
+      "id": "nt-11567"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many prions have been characterized?",
+      "id": "nt-13903"
+    }
+  ],
+  "metadata": {
+    "title": "Fungal prion",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3830328&oldid=600270277",
+    "tableIndex": 0,
+    "hashcode": "d87fa666902780bf8c1187c5702dfc1e9fcc0abb",
+    "id": 3830328,
+    "revision": 600270277
+  }
+}

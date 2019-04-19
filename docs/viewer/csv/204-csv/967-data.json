@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "January",
+      "utterance": "which month had more games played, january or december?",
+      "id": "nt-184"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many goals did the new york rangers make in the semi-finals against the chicago black hawks.",
+      "id": "nt-3982"
+    },
+    {
+      "targetValue": "December",
+      "utterance": "what month would someone attend a game if they wanted to celebrate his/her birthday close to christmas?",
+      "id": "nt-4759"
+    },
+    {
+      "targetValue": "January",
+      "utterance": "which month had the same number of road wins as december?",
+      "id": "nt-5308"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the total number of games played in november?",
+      "id": "nt-5620"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what was the total combined number of wins between february and march?",
+      "id": "nt-9051"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the total road games did the new york rangers won in december 1930?",
+      "id": "nt-9322"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of home games the new york rangers won in january 1931?",
+      "id": "nt-13583"
+    }
+  ],
+  "metadata": {
+    "title": "1930–31 New York Rangers season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20638972&oldid=601094951",
+    "tableIndex": 2,
+    "hashcode": "2cb3a6a9014aa9c7eac208b993c90d9b7a8c84b2",
+    "id": 20638972,
+    "revision": 601094951
+  }
+}

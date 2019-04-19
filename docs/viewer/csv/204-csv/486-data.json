@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "11",
+      "utterance": "what is the total number of catchers whose surname begins with d?",
+      "id": "nt-4831"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "tell me the number of left fielders on the list.",
+      "id": "nt-7624"
+    },
+    {
+      "targetValue": "567",
+      "utterance": "how many runs batted in did darren daulton have?",
+      "id": "nt-12933"
+    },
+    {
+      "targetValue": "Center fielder",
+      "utterance": "what is the last position on the chart?",
+      "id": "nt-13829"
+    }
+  ],
+  "metadata": {
+    "title": "Philadelphia Phillies all-time roster (D)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=27681581&oldid=578023962",
+    "tableIndex": 1,
+    "hashcode": "f7425977b804a5cf5615a50aba3c22a40980200a",
+    "id": 27681581,
+    "revision": 578023962
+  }
+}

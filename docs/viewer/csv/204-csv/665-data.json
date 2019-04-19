@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many canadians listed were born in scotland?",
+      "id": "nt-319"
+    },
+    {
+      "targetValue": "Sir John A. Macdonald",
+      "utterance": "who is ranked previous to don cherry?",
+      "id": "nt-345"
+    },
+    {
+      "targetValue": "Prime Minister of Canada",
+      "utterance": "sir john a. macdonald and pierre trudeau both held what job in canada?",
+      "id": "nt-4398"
+    },
+    {
+      "targetValue": "Tommy Douglas",
+      "utterance": "which canadian was ranked first and considered the greatest?",
+      "id": "nt-5058"
+    },
+    {
+      "targetValue": "Wayne Gretzky",
+      "utterance": "who is ranked at the top?",
+      "id": "nt-7731"
+    },
+    {
+      "targetValue": "Alexander Graham Bell",
+      "utterance": "what name is previous to wayne gretzky on the list?",
+      "id": "nt-8742"
+    },
+    {
+      "targetValue": "Alexander Graham Bell",
+      "utterance": "who is ranked after wayne gretzky?",
+      "id": "nt-9007"
+    },
+    {
+      "targetValue": "David Suzuki",
+      "utterance": "who is the only environmentalist on the list?",
+      "id": "nt-9119"
+    },
+    {
+      "targetValue": "Wayne Gretzky",
+      "utterance": "who is pictured on top of the list?",
+      "id": "nt-9403"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what are the number of images on the list?",
+      "id": "nt-10384"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many of the listed individuals were men?",
+      "id": "nt-10634"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total number of nobel prize winners on the list?",
+      "id": "nt-13009"
+    },
+    {
+      "targetValue": "Don Cherry",
+      "utterance": "which canadian was involved in hockey, other than wayne gretzky?",
+      "id": "nt-13217"
+    },
+    {
+      "targetValue": "David Suzuki",
+      "utterance": "who was the only listed candadian from british columbia?",
+      "id": "nt-13702"
+    }
+  ],
+  "metadata": {
+    "title": "The Greatest Canadian",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=577871&oldid=596711687",
+    "tableIndex": 0,
+    "hashcode": "679b5a11fc65857e94afdc6aa44e7aedfcb66da6",
+    "id": 577871,
+    "revision": 596711687
+  }
+}

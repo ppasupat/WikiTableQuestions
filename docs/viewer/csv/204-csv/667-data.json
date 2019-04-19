@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "Beladingala Baale",
+      "utterance": "what was the name of the first love story this director made?",
+      "id": "nt-2340"
+    },
+    {
+      "targetValue": "Marma",
+      "utterance": "besides kshana kshana, which other film is a suspense thriller?",
+      "id": "nt-5079"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many movies did sunil kumar desai make between 2000 and 2006?",
+      "id": "nt-5559"
+    },
+    {
+      "targetValue": "Sarigama",
+      "utterance": "what movie is the only romance sunil kumar desai starred in?",
+      "id": "nt-5875"
+    },
+    {
+      "targetValue": "Filmfare Award for Best Director - Kannada",
+      "utterance": "the films beladingala baale and sparsha have which award in common?",
+      "id": "nt-6161"
+    },
+    {
+      "targetValue": "Tanana Tandanana",
+      "utterance": "what is the last film title on this chart?",
+      "id": "nt-6495"
+    },
+    {
+      "targetValue": "Marma",
+      "utterance": "what was the next film this director made after parva?",
+      "id": "nt-6658"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total number of films that are love stories?",
+      "id": "nt-8953"
+    },
+    {
+      "targetValue": "Love story",
+      "utterance": "which genre appears the most on this chart?",
+      "id": "nt-9464"
+    },
+    {
+      "targetValue": "Parva",
+      "utterance": "what movie did sunil kumar desai star in before marma?",
+      "id": "nt-9740"
+    },
+    {
+      "targetValue": "Marma",
+      "utterance": "what is the title listed after parva?",
+      "id": "nt-10207"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many total awards has this director won?",
+      "id": "nt-13261"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what is the total number of films that won awards?",
+      "id": "nt-13831"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what are the total number of times ananth nag appears under cast?",
+      "id": "nt-14087"
+    }
+  ],
+  "metadata": {
+    "title": "Sunil Kumar Desai",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2547531&oldid=568026023",
+    "tableIndex": 0,
+    "hashcode": "d5dcae6d86cfe2e32bc44f8ece218f9256b44d77",
+    "id": 2547531,
+    "revision": 568026023
+  }
+}

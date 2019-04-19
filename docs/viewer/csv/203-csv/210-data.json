@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "more",
+      "utterance": "did kent score more/less than 150 runs against essex?",
+      "id": "nt-3365"
+    }
+  ],
+  "metadata": {
+    "title": "List of Kent first-class cricket records",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11204543&oldid=593309232",
+    "tableIndex": 5,
+    "hashcode": "e8d65a9614e1a1ffda9701b06f62401aa05aad77",
+    "id": 11204543,
+    "revision": 593309232
+  }
+}

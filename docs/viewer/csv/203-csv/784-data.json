@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "9",
+      "utterance": "how many weeks did season 15 of comedy central presents span?",
+      "id": "nt-1540"
+    },
+    {
+      "targetValue": "Kondabolu",
+      "utterance": "what was hari's last name?",
+      "id": "nt-3366"
+    },
+    {
+      "targetValue": "February",
+      "utterance": "which month had the most air dates?",
+      "id": "nt-3984"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many episodes only had one performer?",
+      "id": "nt-4569"
+    },
+    {
+      "targetValue": "Natasha Leggero",
+      "utterance": "what is the name of the last performer on this chart?",
+      "id": "nt-5061"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what were the total number of air dates in february?",
+      "id": "nt-7226"
+    },
+    {
+      "targetValue": "before",
+      "utterance": "did al jackson air before or after kyle kinane?",
+      "id": "nt-7474"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many performers appeared on the air date 21 january 2011?",
+      "id": "nt-9596"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many different performers appeared during this season?",
+      "id": "nt-10208"
+    },
+    {
+      "targetValue": "Tom Segura",
+      "utterance": "who appeared first tom segura or jay larson?",
+      "id": "nt-11142"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many comedians made their only appearance on comedy central presents in season 15?",
+      "id": "nt-11650"
+    },
+    {
+      "targetValue": "February",
+      "utterance": "which month had the most performers?",
+      "id": "nt-12015"
+    }
+  ],
+  "metadata": {
+    "title": "List of Comedy Central Presents episodes",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20971982&oldid=593179903",
+    "tableIndex": 14,
+    "hashcode": "a64795b2092a78cbeffd5e0e3b7421d0287b04df",
+    "id": 20971982,
+    "revision": 593179903
+  }
+}

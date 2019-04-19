@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "what is the number of christian radio stations broadcasted by mxr yorkshire?",
+      "id": "nt-77"
+    },
+    {
+      "targetValue": "XFM",
+      "utterance": "name the only indie/alternative/rock music radio station broadcasted by mxr yorkshire.",
+      "id": "nt-3956"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many rock stations are listed?",
+      "id": "nt-4878"
+    },
+    {
+      "targetValue": "Adult contemporary",
+      "utterance": "does heart london broadcast adult contemporary music or r'n'b and hip-hop?",
+      "id": "nt-5285"
+    },
+    {
+      "targetValue": "64 kbit/s",
+      "utterance": "how long is the bit rate number for gold radio service?",
+      "id": "nt-5544"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of services broadcast with a mono lsf audio channel?",
+      "id": "nt-6596"
+    },
+    {
+      "targetValue": "Choice FM",
+      "utterance": "the first service after capital yorkshire",
+      "id": "nt-10016"
+    },
+    {
+      "targetValue": "DAB Guide",
+      "utterance": "the service with the least bit rate",
+      "id": "nt-10286"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many stations are at least 128 kbit/s?",
+      "id": "nt-10933"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many r'n'b stations are broadcasted by mxr yorkshire?",
+      "id": "nt-11004"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many different analouges does capital yorkshire have avaiable",
+      "id": "nt-11878"
+    },
+    {
+      "targetValue": "DAB Guide",
+      "utterance": "which service has the lowest bit rate?",
+      "id": "nt-11995"
+    }
+  ],
+  "metadata": {
+    "title": "MXR Yorkshire",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5328839&oldid=575594885",
+    "tableIndex": 0,
+    "hashcode": "92de04c57b8f1454eb8f47871c387930e9b32cc8",
+    "id": 5328839,
+    "revision": 575594885
+  }
+}

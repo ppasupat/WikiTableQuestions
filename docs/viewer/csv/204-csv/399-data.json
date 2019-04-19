@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "19 years",
+      "utterance": "how long was his professional career?",
+      "id": "nt-1278"
+    },
+    {
+      "targetValue": "1990",
+      "utterance": "in what year did he win the most titles?",
+      "id": "nt-4312"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many years did he win at least 3 times?",
+      "id": "nt-5066"
+    },
+    {
+      "targetValue": "1989",
+      "utterance": "when was stephen hendry's first uk championship win?",
+      "id": "nt-5578"
+    },
+    {
+      "targetValue": "Win",
+      "utterance": "what did he do more - win or finish as a runner-up?",
+      "id": "nt-9204"
+    },
+    {
+      "targetValue": "1987",
+      "utterance": "in what year did stephen henrdy win his first title?",
+      "id": "nt-10528"
+    },
+    {
+      "targetValue": "Steve Davis",
+      "utterance": "which opponent has stephen hendry competed against most often?",
+      "id": "nt-11205"
+    }
+  ],
+  "metadata": {
+    "title": "Stephen Hendry",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=617752&oldid=599581822",
+    "tableIndex": 3,
+    "hashcode": "45f94b860a3c25dcb7319e2d0cbeab05fec3d756",
+    "id": 617752,
+    "revision": 599581822
+  }
+}

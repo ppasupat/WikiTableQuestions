@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "what is the average number of times johan museeuw starred?",
+      "id": "nt-512"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of times johan bryneel's name appears on all of these lists?",
+      "id": "nt-1036"
+    },
+    {
+      "targetValue": "Niels Albert",
+      "utterance": "who has won the most best young rider awards?",
+      "id": "nt-3771"
+    },
+    {
+      "targetValue": "Philippe Gilbert",
+      "utterance": "who won the most consecutive crystal bicycles?",
+      "id": "nt-10797"
+    },
+    {
+      "targetValue": "Tom Boonen",
+      "utterance": "who won the crystal bicycle earlier, boonen or nys?",
+      "id": "nt-11039"
+    }
+  ],
+  "metadata": {
+    "title": "Crystal Bicycle",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41167561&oldid=582970864",
+    "tableIndex": 0,
+    "hashcode": "8bf8cf29b6b42f8a62e607456cdebbd18b52f66f",
+    "id": 41167561,
+    "revision": 582970864
+  }
+}

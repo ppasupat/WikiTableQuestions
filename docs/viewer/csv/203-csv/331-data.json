@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "18",
+      "utterance": "bedford scored ______ more points than plymouth albion on the 2 april 2005 game.",
+      "id": "nt-1054"
+    },
+    {
+      "targetValue": "15 February 2005",
+      "utterance": "when did bedford score more, 15 february 2005 or 19 february 2005?",
+      "id": "nt-1481"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what is the least amount of points scored throughout the 2004/05 season?",
+      "id": "nt-1680"
+    },
+    {
+      "targetValue": "156",
+      "utterance": "the overall points scored for all games by bedford total?",
+      "id": "nt-2566"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "what's the difference between bedford's score on 12 march 2005 and their score on 2 april 2005?",
+      "id": "nt-3353"
+    },
+    {
+      "targetValue": [
+        "26",
+        "16",
+        "23",
+        "39"
+      ],
+      "utterance": "what is the score by bedford in each game at home?",
+      "id": "nt-5335"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many games did bedford lose this season?",
+      "id": "nt-8425"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many number of competitions were played?",
+      "id": "nt-10269"
+    },
+    {
+      "targetValue": "16 October 2004",
+      "utterance": "on what date is there no score for a competition?",
+      "id": "nt-11593"
+    },
+    {
+      "targetValue": "Powergen Cup",
+      "utterance": "which competition was played earliest?",
+      "id": "nt-13802"
+    }
+  ],
+  "metadata": {
+    "title": "Marc Comb",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19892880&oldid=532923902",
+    "tableIndex": 0,
+    "hashcode": "f40f9912c1f97905ad19773fb2a8beb9bd0b2b57",
+    "id": 19892880,
+    "revision": 532923902
+  }
+}

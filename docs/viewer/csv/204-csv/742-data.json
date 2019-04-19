@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "1976",
+      "utterance": "what year was kelly marie's first single released",
+      "id": "nt-462"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "was \"hot love\" released before \"run to me\"?",
+      "id": "nt-523"
+    },
+    {
+      "targetValue": "\"Help Me\"",
+      "utterance": "what single title is listed on the french charts after \"who's that lady with my man\"?",
+      "id": "nt-1108"
+    },
+    {
+      "targetValue": "\"Sister Mary\"",
+      "utterance": "which song was released earlier--\"sister mary\" or \"run to me\"?",
+      "id": "nt-6351"
+    },
+    {
+      "targetValue": "\"Sister Mary\" (duet with Joe Dolan)",
+      "utterance": "what single title(s) were on the irish charts and not on the uk singles chart?",
+      "id": "nt-9480"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many single titles were on both the irish and german charts?",
+      "id": "nt-11491"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many songs charted at least 50th or better on the uk singles chart?",
+      "id": "nt-11882"
+    }
+  ],
+  "metadata": {
+    "title": "Kelly Marie",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2292984&oldid=581028463",
+    "tableIndex": 0,
+    "hashcode": "e5594f90bdb10792c30bbf4a826db184c8c69e88",
+    "id": 2292984,
+    "revision": 581028463
+  }
+}

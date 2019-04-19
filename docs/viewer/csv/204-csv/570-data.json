@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "80",
+      "utterance": "how many total failed attempts occurred at makalu and cho oyu?",
+      "id": "nt-1429"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many mountains have a height higher than 8,000 meters?",
+      "id": "nt-3569"
+    },
+    {
+      "targetValue": "Lhotse",
+      "utterance": "which mountain has a larger height, lhotse or makalu?",
+      "id": "nt-10540"
+    },
+    {
+      "targetValue": "Kangchenjunga",
+      "utterance": "which other mountains were ascended in the same year as makalu?",
+      "id": "nt-10714"
+    },
+    {
+      "targetValue": "Mount Everest/ Sagarmatha/ Chomolungma",
+      "utterance": "what is the only tallest mountain not to have a parent mountain?",
+      "id": "nt-12090"
+    },
+    {
+      "targetValue": "28,251",
+      "utterance": "how many feet above sea level is k2?",
+      "id": "nt-12209"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "is k2 taller than kangchenjunga?",
+      "id": "nt-13353"
+    }
+  ],
+  "metadata": {
+    "title": "List of highest mountains",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1821694&oldid=602151612",
+    "tableIndex": 0,
+    "hashcode": "4a273a2cc2f30d3b2088f01f790973b48769aad7",
+    "id": 1821694,
+    "revision": 602151612
+  }
+}

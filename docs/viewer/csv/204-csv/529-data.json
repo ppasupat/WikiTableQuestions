@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Pixiedust",
+      "utterance": "which album did she produce before good rain?",
+      "id": "nt-209"
+    },
+    {
+      "targetValue": "Arven",
+      "utterance": "other than natt i betlehem, name an album that featured sjur miljeteig.",
+      "id": "nt-422"
+    },
+    {
+      "targetValue": "Universal",
+      "utterance": "was arven released by universal or curling legs?",
+      "id": "nt-4940"
+    },
+    {
+      "targetValue": "Domestic Songs",
+      "utterance": "what was this artists last album under the curling legs label?",
+      "id": "nt-6808"
+    },
+    {
+      "targetValue": "Natt i Betlehem",
+      "utterance": "which was the only album to be produced under the kirkelig kulturverksted label?",
+      "id": "nt-7604"
+    },
+    {
+      "targetValue": "Natt i Betlehem",
+      "utterance": "which album was the first to peak in the top ten positions?",
+      "id": "nt-8819"
+    },
+    {
+      "targetValue": "2 years",
+      "utterance": "how long was there between tarpan seasons and antologie?",
+      "id": "nt-12939"
+    },
+    {
+      "targetValue": "Tarpan Seasons",
+      "utterance": "what was the only album she produced with the slow motion orchestra?",
+      "id": "nt-13234"
+    }
+  ],
+  "metadata": {
+    "title": "Solveig Slettahjell",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9952841&oldid=588181926",
+    "tableIndex": 0,
+    "hashcode": "6b3612b1800de2ffee9ce446a1956235a6a9a59e",
+    "id": 9952841,
+    "revision": 588181926
+  }
+}

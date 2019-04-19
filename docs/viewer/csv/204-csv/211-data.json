@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "27",
+      "utterance": "what is the total amount on medals awarded?",
+      "id": "nt-1907"
+    },
+    {
+      "targetValue": "Brazil",
+      "utterance": "how has the most golds?",
+      "id": "nt-3540"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the number of silver medals awarded to argentina?",
+      "id": "nt-4176"
+    },
+    {
+      "targetValue": "Brazil",
+      "utterance": "who is the top nation?",
+      "id": "nt-4339"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many medals overall did puerto rico win?",
+      "id": "nt-5903"
+    },
+    {
+      "targetValue": "Brazil",
+      "utterance": "who is the only country to win only golds?",
+      "id": "nt-6149"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many times has chile been awarded?",
+      "id": "nt-7354"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many countries received silver medals?",
+      "id": "nt-8966"
+    },
+    {
+      "targetValue": "Bronze",
+      "utterance": "greenland has been awarded only one time, what medal were they awarded?",
+      "id": "nt-9813"
+    },
+    {
+      "targetValue": "Dominican Republic",
+      "utterance": "what nation ranks previous of chile?",
+      "id": "nt-10530"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many nations are there?",
+      "id": "nt-10733"
+    },
+    {
+      "targetValue": "Brazil",
+      "utterance": "what country came in first place?",
+      "id": "nt-11067"
+    }
+  ],
+  "metadata": {
+    "title": "Pan American Women's Youth Handball Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30598695&oldid=600472332",
+    "tableIndex": 1,
+    "hashcode": "dc457ccee7660cfb5a5a473e862f74ee8e7c3cf1",
+    "id": 30598695,
+    "revision": 600472332
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "70",
+      "utterance": "what was the number of combined tackles in 2010?",
+      "id": "nt-832"
+    },
+    {
+      "targetValue": "34",
+      "utterance": "how many sacks did this player have in his first five seasons?",
+      "id": "nt-1285"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many years did he play in less than 16 games?",
+      "id": "nt-3399"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many consecutive years were there 20 or more assisted tackles?",
+      "id": "nt-3599"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many consecutive seasons has he played sixteen games?",
+      "id": "nt-4407"
+    },
+    {
+      "targetValue": "45",
+      "utterance": "what is the average number of tackles this player has had over his career?",
+      "id": "nt-6411"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many fumble recoveries did this player have in 2004?",
+      "id": "nt-6994"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many years did he play where he did not recover a fumble?",
+      "id": "nt-10692"
+    },
+    {
+      "targetValue": "82.0",
+      "utterance": "what is the total number of sacks smith has made?",
+      "id": "nt-11343"
+    },
+    {
+      "targetValue": "2007",
+      "utterance": "what is the only season he has fewer than three sacks?",
+      "id": "nt-12340"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many seasons had combined tackles of 70 or more?",
+      "id": "nt-13027"
+    }
+  ],
+  "metadata": {
+    "title": "Justin Smith (American football)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3515544&oldid=602390400",
+    "tableIndex": 0,
+    "hashcode": "d7d1bd1497f5dce91b7b2b330ea83753872842cc",
+    "id": 3515544,
+    "revision": 602390400
+  }
+}

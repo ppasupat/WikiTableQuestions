@@ -1,0 +1,60 @@
+{
+  "examples": [
+    {
+      "targetValue": "Stapleton",
+      "utterance": "who is the only person to score in the march 6 game against videoton this season?",
+      "id": "nt-90"
+    },
+    {
+      "targetValue": "48,278",
+      "utterance": "what is the most amount of people to attend a single game this season?",
+      "id": "nt-1326"
+    },
+    {
+      "targetValue": [
+        "Rába ETO Győr",
+        "PSV Eindhoven"
+      ],
+      "utterance": "who were the opponents in the first and second round?",
+      "id": "nt-4259"
+    },
+    {
+      "targetValue": "33,119",
+      "utterance": "what was the total attendance for the september 19th, 1984 game?",
+      "id": "nt-6049"
+    },
+    {
+      "targetValue": "28,873",
+      "utterance": "what was the average number of fans in attendance in the first three games?",
+      "id": "nt-6602"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "was the attendance for the quarter final second leg more or less than 30,000?",
+      "id": "nt-6858"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what was the number of home games played?",
+      "id": "nt-11850"
+    },
+    {
+      "targetValue": "25,000",
+      "utterance": "what is the attendance of the last uefa cup match on 20 march 1985?",
+      "id": "nt-12037"
+    },
+    {
+      "targetValue": "28 November 1984",
+      "utterance": "what game had the most fans in attendance?",
+      "id": "nt-12837"
+    }
+  ],
+  "metadata": {
+    "title": "1984–85 Manchester United F.C. season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=22529423&oldid=594279058",
+    "tableIndex": 4,
+    "hashcode": "aa2212308bf8fb780fea302c05a590d93a0c15f9",
+    "id": 22529423,
+    "revision": 594279058
+  }
+}

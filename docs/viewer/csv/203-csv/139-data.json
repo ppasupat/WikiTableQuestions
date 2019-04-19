@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "Serbian Progressive Party Српска напредна странка / Srpska napredna stranka",
+      "utterance": "what party has the most mp's?",
+      "id": "nt-86"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "there are at least 10 mps for how many political parties?",
+      "id": "nt-3170"
+    },
+    {
+      "targetValue": "Serbian Progressive Party Српска напредна странка / Srpska napredna stranka",
+      "utterance": "which party has the most mps?",
+      "id": "nt-4099"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total of groups that have a populism ideology?",
+      "id": "nt-6473"
+    },
+    {
+      "targetValue": "Serbian Progressive Party",
+      "utterance": "what party has the highest number of mps?",
+      "id": "nt-9432"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many groups do not follow a socialist ideology?",
+      "id": "nt-9863"
+    },
+    {
+      "targetValue": [
+        "Social democracy, Regionalism",
+        "Hungarian minority politics"
+      ],
+      "utterance": "what ideology did the groups above and below new serbia follow?",
+      "id": "nt-11365"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many parties follow the ideology of social democracy?",
+      "id": "nt-11555"
+    }
+  ],
+  "metadata": {
+    "title": "List of political parties in Serbia",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=396384&oldid=601430955",
+    "tableIndex": 0,
+    "hashcode": "23154359971413e264d38a6bcac8f02dfff452ea",
+    "id": 396384,
+    "revision": 601430955
+  }
+}

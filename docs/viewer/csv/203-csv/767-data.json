@@ -1,0 +1,45 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "at most 26 apps, how many goals were scored in 2004-2005",
+      "id": "nt-2772"
+    },
+    {
+      "targetValue": "Estonia",
+      "utterance": "after scoring against bulgaria in zenica, ibricic also scored against this team in a 7-0 victory in zenica less then a month after the friendly match against bulgaria.",
+      "id": "nt-3782"
+    },
+    {
+      "targetValue": [
+        "Podgrmeč",
+        "Hajduk Split"
+      ],
+      "utterance": "what were the names of each club where more than 15 goals were scored in a single season?",
+      "id": "nt-6045"
+    },
+    {
+      "targetValue": "more",
+      "utterance": "did ibricic score more or less goals in his 3 seasons with hajduk split when compared to his 4 seasons with nk zagreb?",
+      "id": "nt-8399"
+    },
+    {
+      "targetValue": "Hajduk Split",
+      "utterance": "the team with the most goals",
+      "id": "nt-8512"
+    },
+    {
+      "targetValue": "35",
+      "utterance": "what is the highest number of goals scored by senijad ibri&#269;i&#263; in a season?",
+      "id": "nt-13033"
+    }
+  ],
+  "metadata": {
+    "title": "Senijad Ibričić",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5277099&oldid=598844714",
+    "tableIndex": 0,
+    "hashcode": "badc298baaaf531f89d0409315fcf21dab375746",
+    "id": 5277099,
+    "revision": 598844714
+  }
+}

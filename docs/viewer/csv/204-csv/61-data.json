@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "27",
+      "utterance": "how many people didn't name their native language?",
+      "id": "nt-1176"
+    },
+    {
+      "targetValue": "Polish",
+      "utterance": "which language did the most people in the imperial census of 1897 speak in the p&#322;ock governorate?",
+      "id": "nt-3349"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many languages have a name that is derived from a country?",
+      "id": "nt-4608"
+    },
+    {
+      "targetValue": "553 633",
+      "utterance": "how many speakers (of any language) are represented on the table ?",
+      "id": "nt-5262"
+    },
+    {
+      "targetValue": "Ukrainian",
+      "utterance": "which is the least spoken language?",
+      "id": "nt-5483"
+    },
+    {
+      "targetValue": "35931",
+      "utterance": "how many male and female german speakers are there?",
+      "id": "nt-9679"
+    },
+    {
+      "targetValue": "Ukrainian",
+      "utterance": "which language did only .42% of people in the imperial census of 1897 speak in the p&#322;ock governorate?",
+      "id": "nt-12256"
+    }
+  ],
+  "metadata": {
+    "title": "Płock Governorate",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12333984&oldid=540910742",
+    "tableIndex": 0,
+    "hashcode": "b079f4cae606e21c5c1eedd55e43a4ba31039a7e",
+    "id": 12333984,
+    "revision": 540910742
+  }
+}

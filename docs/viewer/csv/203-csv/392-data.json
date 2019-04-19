@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "White belt",
+      "utterance": "what belt would a practitioner receive next after completing the 10th kyu?",
+      "id": "nt-2907"
+    },
+    {
+      "targetValue": "10th kyū",
+      "utterance": "which kyu levels have only one color belt?",
+      "id": "nt-5665"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many different ranks exist for karate belts?",
+      "id": "nt-6535"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "except for the first first rank, how many alternates are there for each rank?",
+      "id": "nt-10829"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "what is the total number of different colored belts available?",
+      "id": "nt-12424"
+    }
+  ],
+  "metadata": {
+    "title": "Wadō-ryū",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=320937&oldid=596724653",
+    "tableIndex": 0,
+    "hashcode": "de0046da0324b170db2ae9fe036862b202e59403",
+    "id": 320937,
+    "revision": 596724653
+  }
+}

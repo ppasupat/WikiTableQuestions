@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "està",
+      "utterance": "the verb \"liekta\" comes after the verb ______ in the list.",
+      "id": "nt-1063"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the least amount of ways you can conjugate the verb \"be\"?",
+      "id": "nt-2785"
+    },
+    {
+      "targetValue": "i",
+      "utterance": "the last row on the list all has verbs ending in:",
+      "id": "nt-3989"
+    }
+  ],
+  "metadata": {
+    "title": "Lithuanian language",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=77242&oldid=601924567",
+    "tableIndex": 8,
+    "hashcode": "bcb08bd8f73dd8af43af5735ef1474ef78e582bd",
+    "id": 77242,
+    "revision": 601924567
+  }
+}

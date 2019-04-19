@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "40",
+      "utterance": "how many zip codes start with \"80\" or \"81\"?",
+      "id": "nt-440"
+    },
+    {
+      "targetValue": "35",
+      "utterance": "how many places are listed previous to dixon?",
+      "id": "nt-1112"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what are the number of times weld county is listed on this chart?",
+      "id": "nt-2972"
+    },
+    {
+      "targetValue": "Downtown",
+      "utterance": "what has zip code 80110, downtown or dos?",
+      "id": "nt-4306"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how many consecutive places start with the letters du?",
+      "id": "nt-4883"
+    },
+    {
+      "targetValue": "Deermont",
+      "utterance": "what is the name of the place listed before deer park?",
+      "id": "nt-6419"
+    },
+    {
+      "targetValue": "Dyke",
+      "utterance": "what is the name of the place listed last on this chart?",
+      "id": "nt-7748"
+    },
+    {
+      "targetValue": "above",
+      "utterance": "are there above or below 30 places?",
+      "id": "nt-8537"
+    },
+    {
+      "targetValue": "Drake",
+      "utterance": "other than dixon, name a city in larimer county.",
+      "id": "nt-9269"
+    },
+    {
+      "targetValue": [
+        "Delcarbon",
+        "Dell"
+      ],
+      "utterance": "which places are above/below delhi",
+      "id": "nt-9276"
+    },
+    {
+      "targetValue": "40",
+      "utterance": "how many low zip codes are there in total?",
+      "id": "nt-12950"
+    },
+    {
+      "targetValue": "Darlow",
+      "utterance": "what is the name of the place listed after dallas?",
+      "id": "nt-13065"
+    }
+  ],
+  "metadata": {
+    "title": "List of places in Colorado: A–D",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2479431&oldid=587122573",
+    "tableIndex": 3,
+    "hashcode": "a5279a561a0b8cbc09e8ffefe875d035af97958b",
+    "id": 2479431,
+    "revision": 587122573
+  }
+}

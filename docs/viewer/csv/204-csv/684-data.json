@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "how many different men held the wsl title before horshu won his first wsl title?",
+      "id": "nt-421"
+    },
+    {
+      "targetValue": "Ricky Landell",
+      "utterance": "who is listed before keith walker?",
+      "id": "nt-1564"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what are the number of matches that happened in japan?",
+      "id": "nt-3501"
+    },
+    {
+      "targetValue": "Horshu",
+      "utterance": "who is the only wsl title holder from texas?",
+      "id": "nt-4657"
+    },
+    {
+      "targetValue": "The Honky Tonk Man",
+      "utterance": "who is the last wrestler to hold the title?",
+      "id": "nt-6119"
+    },
+    {
+      "targetValue": "Dale Gagne",
+      "utterance": "the patriot (danny dominion) won the title from what previous holder through an impromptu match?",
+      "id": "nt-6374"
+    },
+    {
+      "targetValue": "June 11, 2005",
+      "utterance": "when did steve corino win his first wsl title?",
+      "id": "nt-7183"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many times has ricky landell held the wsl title?",
+      "id": "nt-9924"
+    }
+  ],
+  "metadata": {
+    "title": "WSL World Heavyweight Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12403519&oldid=596829806",
+    "tableIndex": 0,
+    "hashcode": "085d84595df3679eccdbb3128600b7531348a92e",
+    "id": 12403519,
+    "revision": 596829806
+  }
+}

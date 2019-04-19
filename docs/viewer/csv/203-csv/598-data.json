@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Ole Miss",
+      "utterance": "who was the last opponent?",
+      "id": "nt-1089"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many games did the bulldogs win?",
+      "id": "nt-2152"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many times did the team loss and scored less than 10 points?",
+      "id": "nt-2561"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many dates had an attendance of over 60,000?",
+      "id": "nt-2756"
+    },
+    {
+      "targetValue": "Vanderbilt",
+      "utterance": "who was the opponent after auburn?",
+      "id": "nt-3400"
+    },
+    {
+      "targetValue": "September 12",
+      "utterance": "which date had the most attendance?",
+      "id": "nt-4322"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many games had attendance of over 50,000?",
+      "id": "nt-5053"
+    },
+    {
+      "targetValue": "Auburn",
+      "utterance": "which opponent was next after jackson state?",
+      "id": "nt-6571"
+    },
+    {
+      "targetValue": "31,037",
+      "utterance": "what is the difference in attendance between the first two games in september?",
+      "id": "nt-9209"
+    },
+    {
+      "targetValue": "September 19",
+      "utterance": "which game date only had 31,840 people in attendance?",
+      "id": "nt-10554"
+    },
+    {
+      "targetValue": "November 21, 2009",
+      "utterance": "what was the date of their last loss of the season?",
+      "id": "nt-11709"
+    },
+    {
+      "targetValue": "54,232",
+      "utterance": "how many were in attendance for the september 5th game?",
+      "id": "nt-11930"
+    }
+  ],
+  "metadata": {
+    "title": "2009 Mississippi State Bulldogs football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20621733&oldid=578212995",
+    "tableIndex": 0,
+    "hashcode": "9991d5272559f4a0a994efb12ebe8b7e7769e672",
+    "id": 20621733,
+    "revision": 578212995
+  }
+}

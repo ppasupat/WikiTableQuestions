@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "51",
+      "utterance": "what is the number of lakes that have an area less than 100 km squared?",
+      "id": "nt-825"
+    },
+    {
+      "targetValue": "4.1",
+      "utterance": "what is the total area in km² of lake sils?",
+      "id": "nt-1086"
+    },
+    {
+      "targetValue": "970",
+      "utterance": "what is the combined total depth of the three deepest lakes?",
+      "id": "nt-2569"
+    },
+    {
+      "targetValue": "Lake Maggiore",
+      "utterance": "which lake is located at an elevation above 193m?",
+      "id": "nt-4077"
+    },
+    {
+      "targetValue": "Lake Geneva",
+      "utterance": "which lake has at least 580 area in km²?",
+      "id": "nt-4653"
+    },
+    {
+      "targetValue": "Lake Maggiore",
+      "utterance": "what is the deepest lake?",
+      "id": "nt-4664"
+    },
+    {
+      "targetValue": "Oberaarsee",
+      "utterance": "what lake has the next highest elevation after lac des dix?",
+      "id": "nt-5129"
+    },
+    {
+      "targetValue": "Oeschinen Lake",
+      "utterance": "which lake is smaller in area km²? albigna lake or oeschinen lake?",
+      "id": "nt-9932"
+    },
+    {
+      "targetValue": "Lake Maggiore",
+      "utterance": "which lake has the deepest max depth?",
+      "id": "nt-10026"
+    },
+    {
+      "targetValue": "Lake Maggiore",
+      "utterance": "which is the only lake with a max depth of 372m?",
+      "id": "nt-10259"
+    },
+    {
+      "targetValue": "Lac des Dix",
+      "utterance": "which lake has the largest elevation?",
+      "id": "nt-11163"
+    },
+    {
+      "targetValue": "Lac des Dix",
+      "utterance": "which lake has the greatest elevation?",
+      "id": "nt-11509"
+    },
+    {
+      "targetValue": "562",
+      "utterance": "what's the total max depth of lake geneva and lake constance combined?",
+      "id": "nt-12052"
+    },
+    {
+      "targetValue": "Lake Geneva",
+      "utterance": "name the largest lake",
+      "id": "nt-13988"
+    }
+  ],
+  "metadata": {
+    "title": "List of lakes of Switzerland",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=288237&oldid=587960616",
+    "tableIndex": 0,
+    "hashcode": "e34d0d3daa19ab370e8e89d3bca46af69fbb9fb6",
+    "id": 288237,
+    "revision": 587960616
+  }
+}

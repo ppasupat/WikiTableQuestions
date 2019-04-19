@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "what is his number of disqualifications?",
+      "id": "nt-659"
+    },
+    {
+      "targetValue": "1:27:45",
+      "utterance": "how long did it take martinez to run the 20 km at the central american games in 1994?",
+      "id": "nt-2022"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times did he get 1st place in 1997?",
+      "id": "nt-5930"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "was julio ever disqualified in consecutive races?",
+      "id": "nt-6031"
+    },
+    {
+      "targetValue": "2nd",
+      "utterance": "julio rene martinez is from guatemala, what did he place in 2002?",
+      "id": "nt-9892"
+    },
+    {
+      "targetValue": "1993",
+      "utterance": "which race was faster, 1990 or 1993?",
+      "id": "nt-12749"
+    },
+    {
+      "targetValue": "2003",
+      "utterance": "which year has the most disqualifications?",
+      "id": "nt-14111"
+    }
+  ],
+  "metadata": {
+    "title": "Julio René Martínez",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6031519&oldid=593643244",
+    "tableIndex": 0,
+    "hashcode": "afb0e5ede9888fb9a3f40cdbb0e555c6c0618686",
+    "id": 6031519,
+    "revision": 593643244
+  }
+}

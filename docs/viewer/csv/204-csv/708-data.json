@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "below",
+      "utterance": "was zacarias hugo above or below 18 years of age when he was attacked?",
+      "id": "nt-2349"
+    },
+    {
+      "targetValue": "August 24, 2013",
+      "utterance": "when was the last recorded wolf non-fatal wolf attack in the united states",
+      "id": "nt-4343"
+    },
+    {
+      "targetValue": "Christopher Nimitz",
+      "utterance": "who was the victim of the last wolf attack to occur in california, usa?",
+      "id": "nt-5641"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many attacks were of the same type as that which occurred on december 13, 1985?",
+      "id": "nt-7623"
+    },
+    {
+      "targetValue": "Alaska",
+      "utterance": "what state has the most recorded non-fatal wolf attacks",
+      "id": "nt-8181"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many attacks occurred in alaska, usa?",
+      "id": "nt-8184"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "how many total non-fatal attacks by wolves have been recorded?",
+      "id": "nt-9710"
+    },
+    {
+      "targetValue": "Predatory",
+      "utterance": "was the wolf attack on david tobuk predatory or agonistic?",
+      "id": "nt-10985"
+    },
+    {
+      "targetValue": "October, 1975",
+      "utterance": "what was the date of the attack on dr. bob piorkowski and his wife?",
+      "id": "nt-11796"
+    },
+    {
+      "targetValue": "New Jersey",
+      "utterance": "what is the only east coast u.s. state to have a recorded non-fatal wolf attack?",
+      "id": "nt-14126"
+    }
+  ],
+  "metadata": {
+    "title": "List of wolf attacks in North America",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=41716154&oldid=601146783",
+    "tableIndex": 1,
+    "hashcode": "a46339d25b0eaf872d79f44360dbc3500665805a",
+    "id": 41716154,
+    "revision": 601146783
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many nations are ranked 9th?",
+      "id": "nt-1139"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many bronzes did finland win?",
+      "id": "nt-3486"
+    },
+    {
+      "targetValue": "Soviet Union (URS)",
+      "utterance": "which nation won the most silver medals?",
+      "id": "nt-6522"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the difference in medal count between the us and france?",
+      "id": "nt-7570"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "the difference between the number of medals of italy and the number of medals of poland",
+      "id": "nt-9091"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the difference in total medals between the us and poland?",
+      "id": "nt-9175"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many teams got at least 5 medals?",
+      "id": "nt-12003"
+    }
+  ],
+  "metadata": {
+    "title": "Boxing at the 1952 Summer Olympics",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2723137&oldid=590386611",
+    "tableIndex": 0,
+    "hashcode": "9152493c60ce1d6460d826aba3059e9a07258657",
+    "id": 2723137,
+    "revision": 590386611
+  }
+}

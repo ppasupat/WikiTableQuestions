@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of games where the \"giants\" the opponent?",
+      "id": "nt-426"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of saves for the marlins",
+      "id": "nt-1830"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many games had an attendance of more than 30,000?",
+      "id": "nt-2784"
+    },
+    {
+      "targetValue": "2907",
+      "utterance": "what was the difference in attendance between the july 7th game and the july 8th game?",
+      "id": "nt-4293"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many games have an attendance below 25,000?",
+      "id": "nt-7015"
+    },
+    {
+      "targetValue": "2907",
+      "utterance": "what is the difference in attendance between the game on july 7th and the game on july 8th?",
+      "id": "nt-10776"
+    },
+    {
+      "targetValue": "Marlins",
+      "utterance": "who did the nationals play after the all-star game?",
+      "id": "nt-11196"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many games took place in july before the fourth of july?",
+      "id": "nt-12393"
+    },
+    {
+      "targetValue": "Clippard",
+      "utterance": "which player with the most saves",
+      "id": "nt-12538"
+    }
+  ],
+  "metadata": {
+    "title": "2012 Washington Nationals season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=33241446&oldid=599197674",
+    "tableIndex": 8,
+    "hashcode": "796aa1b16931ecac801e408da002d7de8a3e5b5b",
+    "id": 33241446,
+    "revision": 599197674
+  }
+}

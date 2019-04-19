@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Switzerland",
+      "utterance": "which team won the most runs?",
+      "id": "nt-1293"
+    },
+    {
+      "targetValue": "Switzerland",
+      "utterance": "what team came out on top?",
+      "id": "nt-2229"
+    },
+    {
+      "targetValue": "Switzerland",
+      "utterance": "name a country that had 4 consecutive runs under 1:19.",
+      "id": "nt-2659"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total amount of runs?",
+      "id": "nt-3291"
+    },
+    {
+      "targetValue": "Romania",
+      "utterance": "what team came in second to last place?",
+      "id": "nt-3636"
+    },
+    {
+      "targetValue": "Poland",
+      "utterance": "which team had the most time?",
+      "id": "nt-5960"
+    },
+    {
+      "targetValue": "Italy",
+      "utterance": "who placed the highest, italy or germany?",
+      "id": "nt-7196"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many teams did germany have?",
+      "id": "nt-7747"
+    },
+    {
+      "targetValue": "Germany I",
+      "utterance": "what team comes after italy (ita) italy i?",
+      "id": "nt-8375"
+    },
+    {
+      "targetValue": "Switzerland (SUI) Switzerland I",
+      "utterance": "who is the previous team to italy (ita) italy ii?",
+      "id": "nt-13082"
+    }
+  ],
+  "metadata": {
+    "title": "Bobsleigh at the 1956 Winter Olympics – Four-man",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16961997&oldid=551440274",
+    "tableIndex": 1,
+    "hashcode": "005f8dd44f1bb2ef2a3d785d185fcdc3f7c132a1",
+    "id": 16961997,
+    "revision": 551440274
+  }
+}

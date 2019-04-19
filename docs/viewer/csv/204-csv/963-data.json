@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "what was the number of swedes in the top fifteen?",
+      "id": "nt-1798"
+    },
+    {
+      "targetValue": "Martina Dubovska",
+      "utterance": "who was the last competitor to actually finish both runs?",
+      "id": "nt-2621"
+    },
+    {
+      "targetValue": "2:20.54",
+      "utterance": "how long did it take tina maze to finish the race?",
+      "id": "nt-2788"
+    },
+    {
+      "targetValue": "Tessa Worley",
+      "utterance": "who ranked next after federica brignone?",
+      "id": "nt-5042"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many athletes had the same rank for both run 1 and run 2?",
+      "id": "nt-5338"
+    },
+    {
+      "targetValue": "Marlies Schild",
+      "utterance": "what is the name before anja parson?",
+      "id": "nt-5429"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many italians finished in the top ten?",
+      "id": "nt-5770"
+    },
+    {
+      "targetValue": "Tessa Worley",
+      "utterance": "who finished next after federica brignone?",
+      "id": "nt-6811"
+    },
+    {
+      "targetValue": "Czech Republic",
+      "utterance": "what is the last nation to be ranked?",
+      "id": "nt-7387"
+    },
+    {
+      "targetValue": "116",
+      "utterance": "how many total names are there?",
+      "id": "nt-10135"
+    }
+  ],
+  "metadata": {
+    "title": "FIS Alpine World Ski Championships 2011 – Women's giant slalom",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30892853&oldid=554106085",
+    "tableIndex": 0,
+    "hashcode": "802371a2e3024c7dff418e311faab595f62dba98",
+    "id": 30892853,
+    "revision": 554106085
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Miyazaki Maglev Test Track",
+      "utterance": "where was the location for the first five consecutive tests?",
+      "id": "nt-443"
+    },
+    {
+      "targetValue": "Yamanashi Maglev Test Line",
+      "utterance": "where was the location for the fastest test done?",
+      "id": "nt-3677"
+    },
+    {
+      "targetValue": "197.6",
+      "utterance": "what is the difference in speed number of the fastest and slowest trains in km/h?",
+      "id": "nt-4810"
+    },
+    {
+      "targetValue": "12 December 1979",
+      "utterance": "what was the date of the first speed recorded that was over 450 km/h?",
+      "id": "nt-5726"
+    },
+    {
+      "targetValue": "Type",
+      "utterance": "which category does each train have in common?",
+      "id": "nt-7459"
+    },
+    {
+      "targetValue": "ML-500",
+      "utterance": "which train tested fastes after the mlx01?",
+      "id": "nt-7912"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many cars were in the set for the december 24, 1997 record?",
+      "id": "nt-12163"
+    }
+  ],
+  "metadata": {
+    "title": "SCMaglev",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3141132&oldid=601638549",
+    "tableIndex": 3,
+    "hashcode": "1b2e895845e4757dd57efda5d5c98dd816222a3a",
+    "id": 3141132,
+    "revision": 601638549
+  }
+}

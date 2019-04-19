@@ -1,0 +1,59 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "what was the total score for the 1st and 2nd legs of the somalia vs sudan game.",
+      "id": "nt-857"
+    },
+    {
+      "targetValue": "Somalia",
+      "utterance": "what team is before team botswana in column team 1?",
+      "id": "nt-2809"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the total number of teams in team 1 column?",
+      "id": "nt-3830"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "what is the total number of countries in this preliminary qualifying round",
+      "id": "nt-6929"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many teams played in the 2011 caf u-23 championship qualification?",
+      "id": "nt-9697"
+    },
+    {
+      "targetValue": "Ethiopia",
+      "utterance": "what team is next after dr congo?",
+      "id": "nt-9814"
+    },
+    {
+      "targetValue": [
+        "Sierra Leone",
+        "Liberia",
+        "Somalia",
+        "Sudan",
+        "Botswana",
+        "Namibia"
+      ],
+      "utterance": "who were the 6 teams to play in the first leg of the 2011 caf u-23 championship qualification?",
+      "id": "nt-11445"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "are there at least 4 teams in the column of team 2?",
+      "id": "nt-13055"
+    }
+  ],
+  "metadata": {
+    "title": "2011 CAF U-23 Championship qualification",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=30994320&oldid=569093549",
+    "tableIndex": 1,
+    "hashcode": "1f60f74682079bcc679a21841af14e256a95a4e1",
+    "id": 30994320,
+    "revision": 569093549
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "5",
+      "utterance": "what is the number of games played in october of this season?",
+      "id": "nt-869"
+    },
+    {
+      "targetValue": "22",
+      "utterance": "how many games were played in the season?",
+      "id": "nt-2473"
+    },
+    {
+      "targetValue": "Bristol",
+      "utterance": "who was the opponent in the game before the game against plymouth albion on october 3rd?",
+      "id": "nt-2614"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many games did this team win during this season?",
+      "id": "nt-3335"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "how many games were attended by more than 1500 people?",
+      "id": "nt-4161"
+    },
+    {
+      "targetValue": "9 October",
+      "utterance": "the team lost on november 14. what was the date of the previous loss?",
+      "id": "nt-7091"
+    },
+    {
+      "targetValue": "13 February",
+      "utterance": "what was the last game to be attended by more than 2000 people?",
+      "id": "nt-8636"
+    },
+    {
+      "targetValue": "Doncaster Knights",
+      "utterance": "who was this team's first opponent of the season?",
+      "id": "nt-9277"
+    },
+    {
+      "targetValue": "33",
+      "utterance": "how much did the pirates win by on 3 october?",
+      "id": "nt-11248"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many games did the pirates play before they faced bristol?",
+      "id": "nt-13834"
+    }
+  ],
+  "metadata": {
+    "title": "2010–11 Cornish Pirates season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36309491&oldid=569255406",
+    "tableIndex": 1,
+    "hashcode": "01b810bd892f0dba778c090b600bf7322b437280",
+    "id": 36309491,
+    "revision": 569255406
+  }
+}

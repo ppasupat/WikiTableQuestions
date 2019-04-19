@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "Poli Ejido",
+      "utterance": "which team was the top scorer in the 1st leg?",
+      "id": "nt-604"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what was the number of aggregate goals in the poli ejido/villarreal series?",
+      "id": "nt-6556"
+    },
+    {
+      "targetValue": "Valencia",
+      "utterance": "who scored more, portugalete or valencia?",
+      "id": "nt-6645"
+    }
+  ],
+  "metadata": {
+    "title": "2008–09 Copa del Rey",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17074170&oldid=551355102",
+    "tableIndex": 3,
+    "hashcode": "fc5d443631b19e3a92112d75976ffeaf117d3546",
+    "id": 17074170,
+    "revision": 551355102
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Mike Nichols",
+      "utterance": "of those actresses receiving a tony after 1960, which took the most amount of years to get their egot completed.",
+      "id": "nt-3024"
+    },
+    {
+      "targetValue": "17 years",
+      "utterance": "how long did it take whoopi goldberg to complete egot?",
+      "id": "nt-4691"
+    },
+    {
+      "targetValue": "17 years",
+      "utterance": "how long did it take richard rodgers to complete egot?",
+      "id": "nt-6773"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many actors/actresses took 20 years or less to complete egot?",
+      "id": "nt-6899"
+    },
+    {
+      "targetValue": "Robert Lopez",
+      "utterance": "who also won the grammy the same year as scott rudin?",
+      "id": "nt-9500"
+    },
+    {
+      "targetValue": "Helen Hayes",
+      "utterance": "which actor/actress took the most years to complete egot?",
+      "id": "nt-10184"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "did it take scott rudin more or less than 30 years to complete egot?",
+      "id": "nt-12836"
+    },
+    {
+      "targetValue": "Robert Lopez",
+      "utterance": "who took the least time to complete egot?",
+      "id": "nt-12912"
+    },
+    {
+      "targetValue": "Richard Rodgers",
+      "utterance": "who completed egot the earliest year?",
+      "id": "nt-12977"
+    }
+  ],
+  "metadata": {
+    "title": "List of people who have won Academy, Emmy, Grammy, and Tony Awards",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=361388&oldid=600961348",
+    "tableIndex": 0,
+    "hashcode": "1650db68d640c830af71704a672f9f9ad4bb8985",
+    "id": 361388,
+    "revision": 600961348
+  }
+}

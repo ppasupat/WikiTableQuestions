@@ -1,0 +1,79 @@
+{
+  "examples": [
+    {
+      "targetValue": "Kandace Yvette Williams",
+      "utterance": "not i barbecue was written by matt tarses and who?",
+      "id": "nt-5584"
+    },
+    {
+      "targetValue": "\"I, Done\" (Part 2)",
+      "utterance": "what was the last episode called?",
+      "id": "nt-5975"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "what is the number of episodes directed by shelley jensen?",
+      "id": "nt-6838"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "shelley jensen directed how many more episodes than madeline cripe?",
+      "id": "nt-7584"
+    },
+    {
+      "targetValue": "\"Burnin' Down the House\"",
+      "utterance": "which episode is listed at the top of the list?",
+      "id": "nt-7845"
+    },
+    {
+      "targetValue": "\"I, Done\" (Part 2)",
+      "utterance": "what episode came after \"i, done\" (part 1)?",
+      "id": "nt-8814"
+    },
+    {
+      "targetValue": [
+        "\"Burnin' Down the House\"",
+        "\"Not I Barbecue\"",
+        "\"I, Ooh, Baby, Baby\"",
+        "\"The Butler's Son Did It\"",
+        "\"I, Stank Hole in One\"",
+        "\"I, Done\" (Part 2)"
+      ],
+      "utterance": "which episodes were not directed by shelley jensen?",
+      "id": "nt-9417"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "how many times did shelley jensen directed episodes in season 6?",
+      "id": "nt-9469"
+    },
+    {
+      "targetValue": "6th",
+      "utterance": "is \"not i barbecue\" the 6th or 7th episode in the season?",
+      "id": "nt-10397"
+    },
+    {
+      "targetValue": "\"Boxing Helena\"",
+      "utterance": "what is the first episode to air in 1996?",
+      "id": "nt-11946"
+    },
+    {
+      "targetValue": "\"Not I Barbecue\"",
+      "utterance": "madeline cripe directed \"burnin' down the house\". what was the next episode she directed?",
+      "id": "nt-12159"
+    },
+    {
+      "targetValue": "24",
+      "utterance": "what is the total number of episodes in the season?",
+      "id": "nt-12647"
+    }
+  ],
+  "metadata": {
+    "title": "List of The Fresh Prince of Bel-Air episodes",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2338204&oldid=587743737",
+    "tableIndex": 6,
+    "hashcode": "83d28dd172e420bc88dd9075939a1aaabfc9edd2",
+    "id": 2338204,
+    "revision": 587743737
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many months had a record high of 111 degrees?",
+      "id": "nt-4302"
+    },
+    {
+      "targetValue": "July",
+      "utterance": "which month had an average high of 89.0 degrees and an average low of 56.0 degrees?",
+      "id": "nt-7996"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many months how a record low below 25 degrees?",
+      "id": "nt-9591"
+    }
+  ],
+  "metadata": {
+    "title": "Fairfield, California",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=60863&oldid=602276694",
+    "tableIndex": 0,
+    "hashcode": "693e0757bc7a6a3cab592bf40514bb6be6c9b70d",
+    "id": 60863,
+    "revision": 602276694
+  }
+}

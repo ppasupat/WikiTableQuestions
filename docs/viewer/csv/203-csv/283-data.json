@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "793",
+      "utterance": "what is the diameter of the smallest bell?",
+      "id": "nt-383"
+    },
+    {
+      "targetValue": "Stephanus",
+      "utterance": "name a cathedral that had almost the same diameter as leopardus.",
+      "id": "nt-4024"
+    },
+    {
+      "targetValue": "Maria",
+      "utterance": "what is the name of the heaviest bell?",
+      "id": "nt-4031"
+    },
+    {
+      "targetValue": "3145",
+      "utterance": "what is the difference of weight between the maria bell and the carolus bell?",
+      "id": "nt-4340"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many bells weight less than 1000 kg?",
+      "id": "nt-6648"
+    },
+    {
+      "targetValue": "Maria",
+      "utterance": "what is the name of the bell with the most diameter?",
+      "id": "nt-8335"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many bells have weights above 2000 kg?",
+      "id": "nt-12261"
+    },
+    {
+      "targetValue": "Petrus",
+      "utterance": "what is the name of the bell with the weight of only 425 kg?",
+      "id": "nt-13031"
+    }
+  ],
+  "metadata": {
+    "title": "Aachen Cathedral",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=214438&oldid=601326471",
+    "tableIndex": 0,
+    "hashcode": "e1261521ddc463305449e9cb1d0748c8a31b9ddc",
+    "id": 214438,
+    "revision": 601326471
+  }
+}

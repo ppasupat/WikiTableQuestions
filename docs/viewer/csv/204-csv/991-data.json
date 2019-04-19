@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Anime Friends",
+      "utterance": "which convention had the top attendance figure in it's first known year?",
+      "id": "nt-410"
+    },
+    {
+      "targetValue": "USA",
+      "utterance": "which country has the most anime conventions?",
+      "id": "nt-1110"
+    },
+    {
+      "targetValue": "Animethon",
+      "utterance": "which was the higher attended event in 2006, animazement or animethon?",
+      "id": "nt-1934"
+    },
+    {
+      "targetValue": "Anime North",
+      "utterance": "what was the first anime convention name held in canada?",
+      "id": "nt-2071"
+    },
+    {
+      "targetValue": "700",
+      "utterance": "how many people attended the 2000 animeiowa?",
+      "id": "nt-2794"
+    },
+    {
+      "targetValue": "2008",
+      "utterance": "other than 2006, name a year there were more than 10,000 people attending project a-kon.",
+      "id": "nt-3061"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what number of these conventions are held outside of the usa? (hawaii is in the usa)",
+      "id": "nt-8297"
+    },
+    {
+      "targetValue": "2006",
+      "utterance": "what was the last year that animefest had a known figure of attendance?",
+      "id": "nt-10084"
+    },
+    {
+      "targetValue": "1999",
+      "utterance": "when was the first otafest held?",
+      "id": "nt-13322"
+    }
+  ],
+  "metadata": {
+    "title": "List of attendance figures at anime conventions",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=39985416&oldid=584792338",
+    "tableIndex": 0,
+    "hashcode": "7c059278a570b24d40c78db0f3da6487d3dfd243",
+    "id": 39985416,
+    "revision": 584792338
+  }
+}

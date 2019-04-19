@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Jupiler League",
+      "utterance": "which competition occurred the most?",
+      "id": "nt-658"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "in how many seasons were there at least 20 goals scored?",
+      "id": "nt-726"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many had at least 10 goals?",
+      "id": "nt-2382"
+    },
+    {
+      "targetValue": "2002/03",
+      "utterance": "in which season did gunter thiebaut score the most goals?",
+      "id": "nt-3656"
+    },
+    {
+      "targetValue": "Cyprus",
+      "utterance": "which country has the least amount of total goals?",
+      "id": "nt-7891"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "for 1 fc saabrucken how often did he have less than 20 appearances?",
+      "id": "nt-9233"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many goals did gunter thiebaut score in the 2001/02 season?",
+      "id": "nt-12829"
+    },
+    {
+      "targetValue": "1. FC Saarbrücken",
+      "utterance": "which club had the same number of goals as ksc eendracht aalst?",
+      "id": "nt-13321"
+    }
+  ],
+  "metadata": {
+    "title": "Gunter Thiebaut",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18314300&oldid=559851609",
+    "tableIndex": 0,
+    "hashcode": "c8877ec1f0c7062c02f8a716dda32babf881c7a7",
+    "id": 18314300,
+    "revision": 559851609
+  }
+}

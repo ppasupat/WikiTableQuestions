@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "11",
+      "utterance": "what number of television appearances did kerry ellis make in 2010?",
+      "id": "nt-2117"
+    },
+    {
+      "targetValue": "Loose Women",
+      "utterance": "what was the only title she was featured in in 2007?",
+      "id": "nt-2210"
+    },
+    {
+      "targetValue": "Herself",
+      "utterance": "what was her first role?",
+      "id": "nt-2694"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many consecutive televised performances by kerry ellis did brian may appear on?",
+      "id": "nt-2816"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many times did she appear on bbc one?",
+      "id": "nt-6487"
+    },
+    {
+      "targetValue": "Only Men Aloud - Merry Christmas",
+      "utterance": "what was the title of the last television appearance she had in 2010?",
+      "id": "nt-12119"
+    },
+    {
+      "targetValue": "I'd Do Anything",
+      "utterance": "what television title did she perform in directly after loose women?",
+      "id": "nt-12962"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "prior to over the rainbow, how many previous television appearances did kerry ellis have?",
+      "id": "nt-12966"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "in how many television programs has kerry ellis played a role other than \"herself\"",
+      "id": "nt-13129"
+    }
+  ],
+  "metadata": {
+    "title": "Kerry Ellis",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8602768&oldid=591910344",
+    "tableIndex": 5,
+    "hashcode": "95e5dcb5d1a664f074df92bc3d68dcee4c254967",
+    "id": 8602768,
+    "revision": 591910344
+  }
+}

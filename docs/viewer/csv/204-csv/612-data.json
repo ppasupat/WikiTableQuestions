@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Louis Delmas",
+        "Derrick Williams"
+      ],
+      "utterance": "which are the only players under six feet tall?",
+      "id": "nt-1005"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "is brandon pettigrew above 250 pounds",
+      "id": "nt-1157"
+    },
+    {
+      "targetValue": "Matthew Stafford",
+      "utterance": "who was the highest draft choice?",
+      "id": "nt-3456"
+    },
+    {
+      "targetValue": "Aaron Brown",
+      "utterance": "which player weighed the least?",
+      "id": "nt-7402"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total of players under 6 ft tall?",
+      "id": "nt-8893"
+    },
+    {
+      "targetValue": "Lydon Murtha",
+      "utterance": "who was the tallest player drafted?",
+      "id": "nt-9250"
+    },
+    {
+      "targetValue": "Aaron Brown",
+      "utterance": "which one of the players on the list weighs the least?",
+      "id": "nt-13139"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many of the players weigh under 200 lbs?",
+      "id": "nt-13720"
+    }
+  ],
+  "metadata": {
+    "title": "2009 Detroit Lions season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20875468&oldid=590074571",
+    "tableIndex": 0,
+    "hashcode": "7344c0436a33166942b057abc0d6634035890ba9",
+    "id": 20875468,
+    "revision": 590074571
+  }
+}

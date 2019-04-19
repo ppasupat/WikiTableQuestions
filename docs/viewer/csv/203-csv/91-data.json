@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "2012",
+      "utterance": "in which olympic games did arasay thondike not finish in the top 20?",
+      "id": "nt-769"
+    },
+    {
+      "targetValue": "less",
+      "utterance": "does arasay thondike have more/less than 4 1st place tournament finishes?",
+      "id": "nt-3935"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times was the number one position earned?",
+      "id": "nt-10802"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of competitions held in cuba?",
+      "id": "nt-13610"
+    }
+  ],
+  "metadata": {
+    "title": "Arasay Thondike",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18983399&oldid=561807650",
+    "tableIndex": 0,
+    "hashcode": "317ca0b9dbb3130b875afb476d82061be74031e8",
+    "id": 18983399,
+    "revision": 561807650
+  }
+}

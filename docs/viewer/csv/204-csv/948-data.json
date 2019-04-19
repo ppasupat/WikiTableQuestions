@@ -1,0 +1,82 @@
+{
+  "examples": [
+    {
+      "targetValue": "24",
+      "utterance": "how many times, total, was the result \"won\"",
+      "id": "nt-136"
+    },
+    {
+      "targetValue": "Challenge",
+      "utterance": "what was the first movie that this actor received an award for starring in?",
+      "id": "nt-809"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many nominated results are shown?",
+      "id": "nt-4497"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of star jalsa entertainment awards that this actor has received?",
+      "id": "nt-4773"
+    },
+    {
+      "targetValue": "24",
+      "utterance": "what is the total number of awards dec has won?",
+      "id": "nt-4783"
+    },
+    {
+      "targetValue": "Chander Pahar",
+      "utterance": "which film won the most awards?",
+      "id": "nt-4845"
+    },
+    {
+      "targetValue": "18",
+      "utterance": "what is the difference between the number times the result was \"won\" and the number of times the result was \"nominated?\"",
+      "id": "nt-5548"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many times has dev been nominated for an award but lost?",
+      "id": "nt-5739"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many years have no pending results?",
+      "id": "nt-6676"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many awards has dev won after 2012?",
+      "id": "nt-8197"
+    },
+    {
+      "targetValue": "24",
+      "utterance": "how many results are indicated as won?",
+      "id": "nt-8586"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is dev's longest streak of consecutive wins without a loss?",
+      "id": "nt-9117"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many times has this actor only been nominated for an award?",
+      "id": "nt-9780"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many awards did this actor receive for his role in challenge?",
+      "id": "nt-12595"
+    }
+  ],
+  "metadata": {
+    "title": "Dev (actor)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20161262&oldid=602224764",
+    "tableIndex": 5,
+    "hashcode": "b2df4c5a930ca876f2415c9e8c644445b8df3070",
+    "id": 20161262,
+    "revision": 602224764
+  }
+}

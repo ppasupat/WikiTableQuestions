@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "Dodgervision",
+      "utterance": "what is the name of the cable television station that broadcast games after ontv?",
+      "id": "nt-8662"
+    }
+  ],
+  "metadata": {
+    "title": "List of Los Angeles Dodgers broadcasters",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2998912&oldid=598537757",
+    "tableIndex": 0,
+    "hashcode": "eb0a29eb599bef79d802ded1c2f55091488957a1",
+    "id": 2998912,
+    "revision": 598537757
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Cerritos",
+      "utterance": "which california city has a higher percentage of korean-americans?",
+      "id": "nt-2537"
+    },
+    {
+      "targetValue": "Cerritos",
+      "utterance": "does cerritos or la palma rank higher?",
+      "id": "nt-7040"
+    },
+    {
+      "targetValue": "Englewood Cliffs",
+      "utterance": "which city is ranked last?",
+      "id": "nt-8428"
+    },
+    {
+      "targetValue": "Edgewater",
+      "utterance": "name a city that does not have at least 12% of the population being korean-american",
+      "id": "nt-8513"
+    },
+    {
+      "targetValue": "Palisades Park",
+      "utterance": "what is the top city for percent korean-american population?",
+      "id": "nt-8827"
+    },
+    {
+      "targetValue": "Palisades Park",
+      "utterance": "which city is ranked first on the list?",
+      "id": "nt-11134"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many municipalities have above 15% korean-american percentage of overall population?",
+      "id": "nt-11685"
+    },
+    {
+      "targetValue": "Bergen County",
+      "utterance": "which county has the most representation?",
+      "id": "nt-12204"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "number of cities in new jersey where the korean population is greater than 15%",
+      "id": "nt-12902"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the number of cities in new jersey on the top ten list?",
+      "id": "nt-13230"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many total times in new jersey represented in this chart?",
+      "id": "nt-13773"
+    }
+  ],
+  "metadata": {
+    "title": "List of U.S. cities with significant Korean-American populations",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=31771531&oldid=594735214",
+    "tableIndex": 2,
+    "hashcode": "18a9c4c76553b96ef5d01edb271377456dacb464",
+    "id": 31771531,
+    "revision": 594735214
+  }
+}

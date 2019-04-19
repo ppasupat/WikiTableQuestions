@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Nezir Jaupaj (PKSH) (2.63 %)",
+      "utterance": "which candidate got the least votes in the entire districts?",
+      "id": "nt-203"
+    },
+    {
+      "targetValue": "Selitë",
+      "utterance": "what municipality comes after qender?",
+      "id": "nt-903"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many had voter turnouts more than 50%?",
+      "id": "nt-1422"
+    },
+    {
+      "targetValue": "57%",
+      "utterance": "how many for voter turnout percentage for fratar",
+      "id": "nt-6820"
+    },
+    {
+      "targetValue": "4.06",
+      "utterance": "what is the difference between percentages of votes between allkaji and cela?",
+      "id": "nt-11292"
+    },
+    {
+      "targetValue": "0.5%",
+      "utterance": "what was the difference in votes (percentage) between savire hoxhaj and astrit sejdinaj in the fratar municipality?",
+      "id": "nt-11828"
+    },
+    {
+      "targetValue": "Ngraçan",
+      "utterance": "what municiplity has the largest voter turnout?",
+      "id": "nt-12566"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many did coalition for the future win?",
+      "id": "nt-13661"
+    }
+  ],
+  "metadata": {
+    "title": "Albanian local elections, 2011",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=31368554&oldid=583467068",
+    "tableIndex": 18,
+    "hashcode": "fc87ce3f872ee6e795600f04a7bae075e2ff8df9",
+    "id": 31368554,
+    "revision": 583467068
+  }
+}

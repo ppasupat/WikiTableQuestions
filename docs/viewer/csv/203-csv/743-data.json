@@ -1,0 +1,70 @@
+{
+  "examples": [
+    {
+      "targetValue": "9",
+      "utterance": "how many beta versions were released before the first full release?",
+      "id": "nt-31"
+    },
+    {
+      "targetValue": "evolt",
+      "utterance": "the download at the top of the chart",
+      "id": "nt-1303"
+    },
+    {
+      "targetValue": "0.1",
+      "utterance": "which 16-bit cello version was released before june 10, 1993?",
+      "id": "nt-2188"
+    },
+    {
+      "targetValue": [
+        "0.2",
+        "0.3",
+        "0.4",
+        "0.5",
+        "0.6",
+        "0.8",
+        "0.9"
+      ],
+      "utterance": "which versions of cello have the same development cycle as 0.1?",
+      "id": "nt-2477"
+    },
+    {
+      "targetValue": "13",
+      "utterance": "how may total versions of cello where there?",
+      "id": "nt-3440"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "the total number of developmental cycles in beta",
+      "id": "nt-3870"
+    },
+    {
+      "targetValue": "0.9",
+      "utterance": "the version 2 spots after 0.8",
+      "id": "nt-4444"
+    },
+    {
+      "targetValue": "0.9",
+      "utterance": "what is the last version of the 16-bit cello to be released in the beta cycle?",
+      "id": "nt-6618"
+    },
+    {
+      "targetValue": "9 June 1993",
+      "utterance": "the date previous to june 14th 1993",
+      "id": "nt-9522"
+    },
+    {
+      "targetValue": "2.0",
+      "utterance": "what version was the only alpha release?",
+      "id": "nt-12868"
+    }
+  ],
+  "metadata": {
+    "title": "Cello (web browser)",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=49390&oldid=600000883",
+    "tableIndex": 0,
+    "hashcode": "5a75c3672a5499e7c2b2aa80cb706a108b336efa",
+    "id": 49390,
+    "revision": 600000883
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Tiger Woods",
+      "utterance": "which winner won more tournaments, jeff maggert or tiger woods?",
+      "id": "nt-364"
+    },
+    {
+      "targetValue": "3 days",
+      "utterance": "how long did the estoril open last?",
+      "id": "nt-3478"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "does any country have more than 5 winners?",
+      "id": "nt-3832"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many consecutive times was south africa the host country?",
+      "id": "nt-4399"
+    },
+    {
+      "targetValue": "Dubai Desert Classic",
+      "utterance": "other than qatar masters, name a tournament that was in february.",
+      "id": "nt-5846"
+    },
+    {
+      "targetValue": "31",
+      "utterance": "how many tournaments began before aug 15th",
+      "id": "nt-8855"
+    },
+    {
+      "targetValue": "Malaysia",
+      "utterance": "what was the country listed the first time there was a new tournament?",
+      "id": "nt-10947"
+    },
+    {
+      "targetValue": "Volvo PGA",
+      "utterance": "which tournament was later, volvo pga or algarve portuguese open?",
+      "id": "nt-13977"
+    }
+  ],
+  "metadata": {
+    "title": "1999 European Tour",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=27634580&oldid=560958145",
+    "tableIndex": 0,
+    "hashcode": "50dbbcb410e20ef82d50cc0817da39bfcdb05014",
+    "id": 27634580,
+    "revision": 560958145
+  }
+}

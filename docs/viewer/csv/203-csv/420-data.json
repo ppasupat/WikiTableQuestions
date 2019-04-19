@@ -1,0 +1,83 @@
+{
+  "examples": [
+    {
+      "targetValue": "less",
+      "utterance": "compared to the oval, holm park holds more or less attendees at capacity?",
+      "id": "nt-351"
+    },
+    {
+      "targetValue": "24,734",
+      "utterance": "what is the maximum number of people that can attend an event at windsor park?",
+      "id": "nt-4654"
+    },
+    {
+      "targetValue": "3000",
+      "utterance": "what is the total number of people holm park can hold?",
+      "id": "nt-6874"
+    },
+    {
+      "targetValue": "The Oval",
+      "utterance": "which stadium can hold more people than ballymena showgrounds, but less than windsor park?",
+      "id": "nt-7673"
+    },
+    {
+      "targetValue": [
+        "The Oval",
+        "Seaview",
+        "Solitude",
+        "Donegal Celtic Park",
+        "Tillysburn Park",
+        "Wilgar Park",
+        "Newforge Lane",
+        "Glen Road Heights",
+        "Upper Braniel",
+        "Upper Malone"
+      ],
+      "utterance": "which other stadiums are in the same city as windsor park?",
+      "id": "nt-8085"
+    },
+    {
+      "targetValue": "667",
+      "utterance": "what is the difference between the stadium capacity at taylor's avenue and the stadium capacity at dixon park?",
+      "id": "nt-9172"
+    },
+    {
+      "targetValue": "24,734",
+      "utterance": "how many total people can fit in windsor park?",
+      "id": "nt-10120"
+    },
+    {
+      "targetValue": "Belfast",
+      "utterance": "which city has the stadium that can hold the most people?",
+      "id": "nt-10655"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many stadiums have a capacity between 6000 and 8000?",
+      "id": "nt-11077"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many stadiums are located in belfast?",
+      "id": "nt-12542"
+    },
+    {
+      "targetValue": "Mid Ulster Sports Arena",
+      "utterance": "knockrammer park has the exact same capacity as which other stadium?",
+      "id": "nt-12550"
+    },
+    {
+      "targetValue": "Windsor Park",
+      "utterance": "which stadium has the largest number of seats?",
+      "id": "nt-13589"
+    }
+  ],
+  "metadata": {
+    "title": "List of association football stadiums in Northern Ireland",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18684267&oldid=554262564",
+    "tableIndex": 0,
+    "hashcode": "6068089799dbf8e27204aff9bfaaf58d4caf5806",
+    "id": 18684267,
+    "revision": 554262564
+  }
+}

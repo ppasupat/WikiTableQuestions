@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "no",
+      "utterance": "do chipper adams and justin beyendeza have more than 3 wins?",
+      "id": "nt-380"
+    },
+    {
+      "targetValue": "Jas Mangat",
+      "utterance": "who was the only driver to win in a car other than a subaru impreza after the year 2005?",
+      "id": "nt-524"
+    },
+    {
+      "targetValue": "Mohammed Essa",
+      "utterance": "which driver won after ponsiano lwakataka?",
+      "id": "nt-1082"
+    },
+    {
+      "targetValue": "2001",
+      "utterance": "which was the only year that the event was not run?",
+      "id": "nt-6482"
+    },
+    {
+      "targetValue": "Charlie Lubega",
+      "utterance": "who is the only driver to have consecutive wins?",
+      "id": "nt-7939"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "chipper adams and justin beyendeza have how mnay wins?",
+      "id": "nt-9589"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times was a mitsubishi lancer the winning car before the year 2004?",
+      "id": "nt-11442"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many drivers are racing with a co-driver from a different country?",
+      "id": "nt-11579"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many drivers won at least twice?",
+      "id": "nt-11903"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total number of times that the winning driver was driving a toyota supra?",
+      "id": "nt-12356"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times was charlie lubega a driver?",
+      "id": "nt-12558"
+    }
+  ],
+  "metadata": {
+    "title": "Pearl of Africa Rally",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=18180270&oldid=597866129",
+    "tableIndex": 0,
+    "hashcode": "c8b3a5d4c6a4f386001e1bc3443beb1ba49673f0",
+    "id": 18180270,
+    "revision": 597866129
+  }
+}

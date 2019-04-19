@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "in how many games did cardiff city f.c. score at least 3 goals?",
+      "id": "nt-2044"
+    },
+    {
+      "targetValue": "42",
+      "utterance": "what was the total number of opponents?",
+      "id": "nt-3145"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the most points scored by cardiff city?",
+      "id": "nt-4162"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many goals did cardiff city f.c. score in the month of april?",
+      "id": "nt-4813"
+    },
+    {
+      "targetValue": "Tottenham Hotspur",
+      "utterance": "what was the game next after birmingham city on november 6th?",
+      "id": "nt-5858"
+    },
+    {
+      "targetValue": "Blackburn Rovers",
+      "utterance": "who was the last opponent?",
+      "id": "nt-7062"
+    },
+    {
+      "targetValue": "April",
+      "utterance": "which month were the most games played in?",
+      "id": "nt-7714"
+    },
+    {
+      "targetValue": "3 - 4",
+      "utterance": "what was the result of the first game on this chart?",
+      "id": "nt-8171"
+    },
+    {
+      "targetValue": "5 days",
+      "utterance": "how long was it between the two consecutive arsenal games?",
+      "id": "nt-9693"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "in how many games did cardiff city f.c. not score a goal?",
+      "id": "nt-10375"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what are the number of times newcastle united is listed as an opponent on this chart?",
+      "id": "nt-12719"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what was the difference in points in the game on october 30th against bury?",
+      "id": "nt-12995"
+    },
+    {
+      "targetValue": "27 Apr",
+      "utterance": "on what date was the last game in which cardiff city f.c. scored 2 goals?",
+      "id": "nt-13115"
+    }
+  ],
+  "metadata": {
+    "title": "1926–27 Cardiff City F.C. season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19990846&oldid=585615419",
+    "tableIndex": 2,
+    "hashcode": "da8d93231534d94fe78c9c82547f5d5ae904b0de",
+    "id": 19990846,
+    "revision": 585615419
+  }
+}

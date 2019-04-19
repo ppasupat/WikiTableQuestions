@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "15",
+      "utterance": "what is the total number of deanery as \"new haven\"?",
+      "id": "nt-1107"
+    },
+    {
+      "targetValue": "St. Anne-Immaculate Conception",
+      "utterance": "name the only multi-ethnic parish.",
+      "id": "nt-1718"
+    },
+    {
+      "targetValue": "61 years",
+      "utterance": "what was the difference, in years between the founding of st. agnes and the founding of good shepherd?",
+      "id": "nt-3371"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many parishes are named st. anthony?",
+      "id": "nt-5635"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many of the original ethnic communities were french?",
+      "id": "nt-7199"
+    }
+  ],
+  "metadata": {
+    "title": "Roman Catholic Archdiocese of Hartford",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3998370&oldid=597398506",
+    "tableIndex": 0,
+    "hashcode": "be5886820fda680877399776d4caae159f6e075e",
+    "id": 3998370,
+    "revision": 597398506
+  }
+}

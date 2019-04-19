@@ -1,0 +1,86 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Christopher Linke",
+        "Caio Bonfim",
+        "Trevor Barron",
+        "Rafał Augustyn",
+        "Byun Youngjun",
+        "Hassanine Sebei",
+        "Jared Tallent",
+        "Recep Çelik",
+        "Nazar Kovalenko",
+        "Gurmeet Singh",
+        "Babubhai Panucha",
+        "David Kimutai",
+        "Yerko Araya",
+        "Hédi Teraoui",
+        "Diego Flores",
+        "Juan Manuel Cano",
+        "Emerson Hernandez",
+        "Ronald Quispe"
+      ],
+      "utterance": "name all athletes were slower than horacio nava.",
+      "id": "nt-985"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many competitors were from russia?",
+      "id": "nt-1664"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of japanese in the top 10?",
+      "id": "nt-1732"
+    },
+    {
+      "targetValue": "Valeriy Borchin",
+      "utterance": "which competitor was ranked first?",
+      "id": "nt-4041"
+    },
+    {
+      "targetValue": "Valeriy Borchin",
+      "utterance": "which athlete had the fastest time for the 20km?",
+      "id": "nt-10227"
+    },
+    {
+      "targetValue": "46",
+      "utterance": "what is the total count of athletes included in the rankings chart, including those classified as dsq & dnf?",
+      "id": "nt-11303"
+    },
+    {
+      "targetValue": "China",
+      "utterance": "wang zhen and wang hao were both from which country?",
+      "id": "nt-11351"
+    },
+    {
+      "targetValue": "Wang Zhen",
+      "utterance": "which chinese athlete had the fastest time?",
+      "id": "nt-11737"
+    },
+    {
+      "targetValue": "Valeriy Borchin",
+      "utterance": "who placed in the top spot?",
+      "id": "nt-12239"
+    },
+    {
+      "targetValue": "Trevor Barron",
+      "utterance": "which athlete is the only american to be ranked in the 20km?",
+      "id": "nt-12616"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many russians finished at least 3rd in the 20km walk?",
+      "id": "nt-14107"
+    }
+  ],
+  "metadata": {
+    "title": "2011 World Championships in Athletics – Men's 20 kilometres walk",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=32871362&oldid=593596763",
+    "tableIndex": 5,
+    "hashcode": "15f793d9b564871865bd4ff0065ad0c7298abc9f",
+    "id": 32871362,
+    "revision": 593596763
+  }
+}

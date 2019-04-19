@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "what is the number of children sarah churchill had?",
+      "id": "nt-417"
+    },
+    {
+      "targetValue": "Harriet Churchill",
+      "utterance": "which child was the first to die?",
+      "id": "nt-1510"
+    },
+    {
+      "targetValue": "Elizabeth Churchill",
+      "utterance": "who was born first? mary churchill or elizabeth churchill?",
+      "id": "nt-3580"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many children were born in february?",
+      "id": "nt-5334"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the total number of children listed?",
+      "id": "nt-5420"
+    },
+    {
+      "targetValue": "Harriet Churchill",
+      "utterance": "who was born before henrietta churchhill?",
+      "id": "nt-8434"
+    },
+    {
+      "targetValue": "Mary Churchill",
+      "utterance": "which child was born after elizabeth churchill?",
+      "id": "nt-9315"
+    },
+    {
+      "targetValue": "33",
+      "utterance": "how long did anne churchill/spencer live?",
+      "id": "nt-10107"
+    },
+    {
+      "targetValue": "October 1679",
+      "utterance": "what was the birthdate of sarah churchill's first child?",
+      "id": "nt-10983"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the total number of children born after 1675?",
+      "id": "nt-11928"
+    }
+  ],
+  "metadata": {
+    "title": "Sarah Churchill, Duchess of Marlborough",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=143298&oldid=599925430",
+    "tableIndex": 0,
+    "hashcode": "521c87e64fc113736b24bc43ae0594f7d0771812",
+    "id": 143298,
+    "revision": 599925430
+  }
+}

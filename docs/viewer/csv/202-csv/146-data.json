@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "10",
+      "utterance": "how many trains on this graph do not mention alco or alco-brooks as its builder?",
+      "id": "nt-13242"
+    }
+  ],
+  "metadata": {
+    "title": "San Francisco Belt Railroad",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1799140&oldid=585092583",
+    "tableIndex": 0,
+    "hashcode": "0cc1db7ddc67de84baa433cb8da06385bf218389",
+    "id": 1799140,
+    "revision": 585092583
+  }
+}

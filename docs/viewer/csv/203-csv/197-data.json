@@ -1,0 +1,46 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Julie Covington",
+        "Pussyfoot",
+        "Andy Gibb"
+      ],
+      "utterance": "which three artists had a single at number 1 for at least 7 weeks on the australian singles charts in 1977?",
+      "id": "nt-195"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many weeks did julie covington's \"don't cry for me argentina\" spend at the top of australia's singles chart?",
+      "id": "nt-957"
+    },
+    {
+      "targetValue": "Wings",
+      "utterance": "who had the most weeks at number one, according to the table?",
+      "id": "nt-6429"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many songs in the table only reached position number 2?",
+      "id": "nt-7100"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what was the number of weeks that julie covington's single \" don't cry for me argentinia,\" was at number 1 in 1977?",
+      "id": "nt-8057"
+    },
+    {
+      "targetValue": "\"Mull of Kintyre\"",
+      "utterance": "which song stayed at no.1 for the most amount of weeks.",
+      "id": "nt-8349"
+    }
+  ],
+  "metadata": {
+    "title": "List of Top 25 singles for 1977 in Australia",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19091266&oldid=570362607",
+    "tableIndex": 0,
+    "hashcode": "35ce5b6d646045a783e3873857a50c16f2e0518b",
+    "id": 19091266,
+    "revision": 570362607
+  }
+}

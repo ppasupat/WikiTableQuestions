@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "San Francisco",
+      "utterance": "what is the first ship listed as undamaged?",
+      "id": "nt-2139"
+    },
+    {
+      "targetValue": "California",
+      "utterance": "what is the name of the ship listed before the maryland?",
+      "id": "nt-2875"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many ships are named after a state?",
+      "id": "nt-3315"
+    },
+    {
+      "targetValue": "Oklahoma",
+      "utterance": "name a ship that has the same status as the arizona?",
+      "id": "nt-7027"
+    },
+    {
+      "targetValue": "Utah",
+      "utterance": "what was the last ship that was sunk?",
+      "id": "nt-10418"
+    }
+  ],
+  "metadata": {
+    "title": "List of United States Navy ships present at Pearl Harbor, December 7, 1941",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14634435&oldid=599506658",
+    "tableIndex": 0,
+    "hashcode": "c1c8f23ad4b10e070277b6434dec52d09eabdcb2",
+    "id": 14634435,
+    "revision": 599506658
+  }
+}

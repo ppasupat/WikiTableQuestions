@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "7",
+      "utterance": "tell me the number of shows that only have one host per day.",
+      "id": "nt-373"
+    },
+    {
+      "targetValue": "The Morning Click",
+      "utterance": "what is the first show to play on monday mornings?",
+      "id": "nt-3352"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many days is fbn live available each week?",
+      "id": "nt-5023"
+    },
+    {
+      "targetValue": "Lauren Green",
+      "utterance": "tell me who has her show on fridays at 2.",
+      "id": "nt-7095"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many days during the week does the show fbn live air?",
+      "id": "nt-7517"
+    },
+    {
+      "targetValue": "Fox Car Report",
+      "utterance": "which program is only available on thursdays?",
+      "id": "nt-10003"
+    },
+    {
+      "targetValue": "1 hour",
+      "utterance": "how long does the show defcon 3 last?",
+      "id": "nt-13605"
+    },
+    {
+      "targetValue": "1 hour",
+      "utterance": "how long does on the hunt run?",
+      "id": "nt-14086"
+    }
+  ],
+  "metadata": {
+    "title": "List of programs broadcast by Fox News Channel",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11210510&oldid=602037355",
+    "tableIndex": 1,
+    "hashcode": "99ce2dd4c00e41fd44c41f74dbb5e25c9414f516",
+    "id": 11210510,
+    "revision": 602037355
+  }
+}

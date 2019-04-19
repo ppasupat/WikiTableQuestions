@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "4785",
+      "utterance": "how many new points did nikolay davydenko have?",
+      "id": "nt-1784"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many players were withdrawn due to a surgery?",
+      "id": "nt-3433"
+    },
+    {
+      "targetValue": "Nikolay Davydenko",
+      "utterance": "who came in first when it comes to new points?",
+      "id": "nt-3684"
+    },
+    {
+      "targetValue": "no",
+      "utterance": "did gilles simon have a higher rank than tommy haas?",
+      "id": "nt-8054"
+    },
+    {
+      "targetValue": "Juan Martín del Potro",
+      "utterance": "which player was defending the highest number of points at the time of his withdrawal from the 2010 french open?",
+      "id": "nt-8362"
+    },
+    {
+      "targetValue": "Nikolay Davydenko",
+      "utterance": "who was withdrawn due to a broken wrist, kim clijsters or nikolay davydenko?",
+      "id": "nt-10370"
+    },
+    {
+      "targetValue": "right",
+      "utterance": "did gilles simon withdraw because of a right or left knee injury?",
+      "id": "nt-10519"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many players withdrew due to surgery?",
+      "id": "nt-10716"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many players had more than 2000 new points?",
+      "id": "nt-10909"
+    },
+    {
+      "targetValue": "3675",
+      "utterance": "what is the difference between the points juan martin del potro won defending and his new points?",
+      "id": "nt-11889"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many total players withdrew from the 2010 french open tennis competition?",
+      "id": "nt-12911"
+    },
+    {
+      "targetValue": "Juan Martín del Potro",
+      "utterance": "who was the highest ranking player to withdraw from the 2010 french open tournament?",
+      "id": "nt-14136"
+    }
+  ],
+  "metadata": {
+    "title": "2010 French Open",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=24431264&oldid=601249044",
+    "tableIndex": 17,
+    "hashcode": "69f6d126c563a7c19ad25a945d485d9c18ef8d08",
+    "id": 24431264,
+    "revision": 601249044
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "what was the number of drivers that did not finish the race?",
+      "id": "nt-1965"
+    },
+    {
+      "targetValue": "107",
+      "utterance": "what is the number of laps completed by neel jani?",
+      "id": "nt-2953"
+    },
+    {
+      "targetValue": "N/H/L Racing",
+      "utterance": "sebastien bourdais and graham rahal raced for which team?",
+      "id": "nt-3072"
+    },
+    {
+      "targetValue": "Minardi Team USA",
+      "utterance": "what was the top team?",
+      "id": "nt-3671"
+    },
+    {
+      "targetValue": "Dan Clarke",
+      "utterance": "what driver placed last?",
+      "id": "nt-4260"
+    },
+    {
+      "targetValue": "Sébastien Bourdais",
+      "utterance": "who finished after will power?",
+      "id": "nt-5380"
+    },
+    {
+      "targetValue": "1:45:07.617",
+      "utterance": "what was robert doornbos' total time for this race?",
+      "id": "nt-5419"
+    },
+    {
+      "targetValue": "105",
+      "utterance": "how many laps did paul tracy complete?",
+      "id": "nt-5645"
+    },
+    {
+      "targetValue": "Mario Domínguez",
+      "utterance": "who was +3 laps, mario domínguez or dan clarke?",
+      "id": "nt-6225"
+    },
+    {
+      "targetValue": "Bruno Junqueira",
+      "utterance": "what driver finished before tristan gommendy?",
+      "id": "nt-6660"
+    },
+    {
+      "targetValue": "Minardi Team USA",
+      "utterance": "what is the name of the first team on this chart?",
+      "id": "nt-12264"
+    },
+    {
+      "targetValue": "Dan Clarke",
+      "utterance": "which driver scored the least amount of points?",
+      "id": "nt-12793"
+    }
+  ],
+  "metadata": {
+    "title": "2007 San Jose Grand Prix at Redback Raceway",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12485418&oldid=577378733",
+    "tableIndex": 1,
+    "hashcode": "077719812f2e50753a5e5435ed58988599e064d5",
+    "id": 12485418,
+    "revision": 577378733
+  }
+}

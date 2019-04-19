@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": "Bahrain",
+      "utterance": "which opponent has the most wins",
+      "id": "nt-120"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "in how many games did rowaihi's team score the same number of goals as the opposing team?",
+      "id": "nt-5757"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "of the ten games in which rowaihi scored goals for the saudi team, how many were won by a margin of 3 or more?",
+      "id": "nt-7617"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many times was south korea the consecutive opponent?",
+      "id": "nt-8682"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many draws are on the chart",
+      "id": "nt-10258"
+    },
+    {
+      "targetValue": "Colombia",
+      "utterance": "who was the opponent after guinea in 1989?",
+      "id": "nt-11587"
+    },
+    {
+      "targetValue": "Kuwait",
+      "utterance": "which team did this person play against after portugal in 1989?",
+      "id": "nt-12233"
+    },
+    {
+      "targetValue": [
+        "February 22, 1989",
+        "Portugal"
+      ],
+      "utterance": "which date and opponent is next after june 12,1989",
+      "id": "nt-13620"
+    }
+  ],
+  "metadata": {
+    "title": "Khalid Al Romaihi",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=32862615&oldid=548360170",
+    "tableIndex": 0,
+    "hashcode": "fae23adb0376f3d594887ccc69bb13ef19314ebc",
+    "id": 32862615,
+    "revision": 548360170
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Missouri University of Science and Technology",
+      "utterance": "what school is listed next after michigan technological university?",
+      "id": "nt-1242"
+    },
+    {
+      "targetValue": "28",
+      "utterance": "what's the number of schools represented in the table?",
+      "id": "nt-1269"
+    },
+    {
+      "targetValue": "1512",
+      "utterance": "what is the difference in enrollment between the top 2 schools listed in the table?",
+      "id": "nt-5881"
+    },
+    {
+      "targetValue": "Texas Tech University",
+      "utterance": "which us technological university has the top enrollment numbers?",
+      "id": "nt-10363"
+    },
+    {
+      "targetValue": "Texas Tech University",
+      "utterance": "which school had the largest enrollment?",
+      "id": "nt-11267"
+    },
+    {
+      "targetValue": "Rensselaer Polytechnic Institute",
+      "utterance": "which of the universities was founded first?",
+      "id": "nt-11378"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many of the universities were located in california?",
+      "id": "nt-12493"
+    },
+    {
+      "targetValue": "28",
+      "utterance": "what is the total number of schools listed in the table?",
+      "id": "nt-13706"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of us technological schools in the state of california?",
+      "id": "nt-13915"
+    }
+  ],
+  "metadata": {
+    "title": "List of United States technological universities",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=15851155&oldid=601791747",
+    "tableIndex": 0,
+    "hashcode": "203b302efaa3f2587458ea2c1b2b8f6cccbdb150",
+    "id": 15851155,
+    "revision": 601791747
+  }
+}

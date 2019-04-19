@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Yes",
+      "utterance": "is the vista more than the aspect?",
+      "id": "nt-1527"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many models are available in lengths longer than 30 feet?",
+      "id": "nt-1551"
+    },
+    {
+      "targetValue": "Tour",
+      "utterance": "which model is a diesel, the tour or the aspect?",
+      "id": "nt-3225"
+    },
+    {
+      "targetValue": "Tour",
+      "utterance": "which model is at the top of the list with the highest starting price?",
+      "id": "nt-4422"
+    },
+    {
+      "targetValue": "Access",
+      "utterance": "which model has the lowest started price?",
+      "id": "nt-5342"
+    },
+    {
+      "targetValue": "Diesel",
+      "utterance": "does the tour take diesel or gas?",
+      "id": "nt-5733"
+    },
+    {
+      "targetValue": "29'-31'",
+      "utterance": "how long is the aspect?",
+      "id": "nt-7879"
+    },
+    {
+      "targetValue": "Tour",
+      "utterance": "what is the name of the top priced winnebago model?",
+      "id": "nt-8439"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of class a models?",
+      "id": "nt-9173"
+    },
+    {
+      "targetValue": "$488,761",
+      "utterance": "what is the price of bot the via and tour models combined?",
+      "id": "nt-13328"
+    },
+    {
+      "targetValue": "Tour",
+      "utterance": "which model had the highest starting price",
+      "id": "nt-13820"
+    }
+  ],
+  "metadata": {
+    "title": "Winnebago Industries",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10414296&oldid=593867155",
+    "tableIndex": 0,
+    "hashcode": "972939a6f1fb4ebf1219e6c6d71c6ba25f51f60d",
+    "id": 10414296,
+    "revision": 593867155
+  }
+}

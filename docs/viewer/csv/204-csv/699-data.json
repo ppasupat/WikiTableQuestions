@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "Paul Moriarty",
+      "utterance": "nelsano albano served in the same year as which washington twp. member?",
+      "id": "nt-789"
+    },
+    {
+      "targetValue": "2013",
+      "utterance": "what was the last term year represented in the chart?",
+      "id": "nt-2073"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "what is the total amount of people who first served in 2008?",
+      "id": "nt-3798"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many members does each district have?",
+      "id": "nt-8947"
+    },
+    {
+      "targetValue": "1990",
+      "utterance": "what was the first term year represented in the chart?",
+      "id": "nt-10594"
+    },
+    {
+      "targetValue": "80",
+      "utterance": "what was the total number of members in all the districts?",
+      "id": "nt-10871"
+    },
+    {
+      "targetValue": "Camden",
+      "utterance": "angel fuentes and gilbert wilson were both from which residence?",
+      "id": "nt-11165"
+    }
+  ],
+  "metadata": {
+    "title": "New Jersey General Assembly, 2012–13 term",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=36172871&oldid=590896861",
+    "tableIndex": 1,
+    "hashcode": "70329cb09ef4a239118f17c67f81d1b68bdf9491",
+    "id": 36172871,
+    "revision": 590896861
+  }
+}

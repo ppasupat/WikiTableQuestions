@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "how many players play the position of point guard?",
+      "id": "nt-341"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "what is the total amount of players?",
+      "id": "nt-1628"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many players have a height of at least 1.90?",
+      "id": "nt-2714"
+    },
+    {
+      "targetValue": "Edinburgh Kings",
+      "utterance": "what club has the most players?",
+      "id": "nt-3091"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the number of players from the edinburgh kings?",
+      "id": "nt-3274"
+    },
+    {
+      "targetValue": "Ross Campbell",
+      "utterance": "who is taller garreth lodge or ross campbell?",
+      "id": "nt-4799"
+    },
+    {
+      "targetValue": ".15",
+      "utterance": "what is the difference in height between garreth lodge and thomas pearson?",
+      "id": "nt-9696"
+    },
+    {
+      "targetValue": "Simon Flockhart",
+      "utterance": "who is the tallest player on the chart?",
+      "id": "nt-11780"
+    },
+    {
+      "targetValue": "Grant Gibson",
+      "utterance": "who is the shortest player on the current roster?",
+      "id": "nt-12224"
+    },
+    {
+      "targetValue": ".15",
+      "utterance": "how much taller is thomas pearson than garreth lodge?",
+      "id": "nt-12860"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many total players are on the current roster?",
+      "id": "nt-14061"
+    }
+  ],
+  "metadata": {
+    "title": "Scotland national basketball team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3180217&oldid=590677149",
+    "tableIndex": 1,
+    "hashcode": "4cac2f7c773cb20543cb2af68ba956b88756c862",
+    "id": 3180217,
+    "revision": 590677149
+  }
+}

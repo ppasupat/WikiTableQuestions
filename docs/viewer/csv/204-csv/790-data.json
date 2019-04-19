@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "1",
+      "utterance": "what was the difference in points scored between the two teams in 1996?",
+      "id": "nt-4947"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times has nw missouri state faced pittsburg state in the playoffs?",
+      "id": "nt-6179"
+    },
+    {
+      "targetValue": "Pittsburg State",
+      "utterance": "who scored the most points against nw missouri state in a quarterfinal?",
+      "id": "nt-6461"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "are the years in a consecutive order?",
+      "id": "nt-6486"
+    },
+    {
+      "targetValue": "Nebraska-Omaha",
+      "utterance": "what is the only opponent in 1984?",
+      "id": "nt-7540"
+    },
+    {
+      "targetValue": "36",
+      "utterance": "what was the most points the team scored?",
+      "id": "nt-7836"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many total games were at braly stadium?",
+      "id": "nt-10602"
+    },
+    {
+      "targetValue": "Northern Colorado",
+      "utterance": "who was an opponent in 1996 and 1997?",
+      "id": "nt-11318"
+    }
+  ],
+  "metadata": {
+    "title": "Northwest Missouri State Bearcats football",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=24430511&oldid=598854776",
+    "tableIndex": 0,
+    "hashcode": "9b77fc7af4d631aa594319506fb6ff086515f843",
+    "id": 24430511,
+    "revision": 598854776
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Geunchogo",
+      "utterance": "who reigned longer, geunchogo or chaekgye?",
+      "id": "nt-1320"
+    },
+    {
+      "targetValue": "Onjo",
+      "utterance": "what was the name of the first baekje temple?",
+      "id": "nt-1804"
+    },
+    {
+      "targetValue": "Chaekgye",
+      "utterance": "after goi, what was the next temple?",
+      "id": "nt-2144"
+    },
+    {
+      "targetValue": "Onjo",
+      "utterance": "who had the earliest reign?",
+      "id": "nt-4510"
+    },
+    {
+      "targetValue": "Chaekgye",
+      "utterance": "name the person that had the same father as goi.",
+      "id": "nt-8812"
+    },
+    {
+      "targetValue": "Uija",
+      "utterance": "what was the last baekje temple?",
+      "id": "nt-11573"
+    },
+    {
+      "targetValue": "Geunchogo",
+      "utterance": "what is the top temple name listed that also has a personal name listed?",
+      "id": "nt-12270"
+    },
+    {
+      "targetValue": "below",
+      "utterance": "is gye listed above or below biryu?",
+      "id": "nt-12296"
+    },
+    {
+      "targetValue": "46 years",
+      "utterance": "what is the difference between the start and end of onjo's reign?",
+      "id": "nt-13306"
+    }
+  ],
+  "metadata": {
+    "title": "List of monarchs of Korea",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=337728&oldid=599020847",
+    "tableIndex": 6,
+    "hashcode": "289551ffb6fa6e701358ce5aae57ea7c853cb3ab",
+    "id": 337728,
+    "revision": 599020847
+  }
+}

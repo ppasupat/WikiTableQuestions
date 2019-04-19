@@ -1,0 +1,55 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Christophe Bouchut",
+        "Fabrizio Gollin"
+      ],
+      "utterance": "who were the co-drivers for the aston martin dbr9 in 2007?",
+      "id": "nt-1795"
+    },
+    {
+      "targetValue": "2009",
+      "utterance": "in 2008 and what other year was casper elgaard on team essex for the 24 hours of le mans?",
+      "id": "nt-6973"
+    },
+    {
+      "targetValue": "Jens Møller",
+      "utterance": "who was john nielsen co-driver for team lister in 2004?",
+      "id": "nt-8583"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times was the final position above 20?",
+      "id": "nt-8608"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the amount races that were competed in?",
+      "id": "nt-11278"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times was the porsche rs spyder used in competition?",
+      "id": "nt-12046"
+    },
+    {
+      "targetValue": "Porsche RS Spyder",
+      "utterance": "what model car was the most used?",
+      "id": "nt-13378"
+    },
+    {
+      "targetValue": "John Nielsen",
+      "utterance": "who was casper elgaard's co-driver the most often for the 24 hours of le mans?",
+      "id": "nt-13566"
+    }
+  ],
+  "metadata": {
+    "title": "Casper Elgaard",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=20917572&oldid=567453584",
+    "tableIndex": 0,
+    "hashcode": "dded837740df095ee9fc6a80ce411652b3a536e7",
+    "id": 20917572,
+    "revision": 567453584
+  }
+}

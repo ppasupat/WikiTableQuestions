@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "19",
+      "utterance": "what is the total number of locomotives given to southern pacific?",
+      "id": "nt-6735"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "how many total locomotives have a disposition of \"to southern pacific\"?",
+      "id": "nt-8796"
+    },
+    {
+      "targetValue": "Red Eagle",
+      "utterance": "which locomotive comes next in the list after the shoshone?",
+      "id": "nt-8844"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many san francisco and san jose railroad locomotives with known build dates were built before 1869?",
+      "id": "nt-10824"
+    },
+    {
+      "targetValue": "Raven",
+      "utterance": "which locomotive has an earlier date, the peeler or the raven?",
+      "id": "nt-13668"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many of these locomotives had the same builder as the a.h. houston?",
+      "id": "nt-13953"
+    }
+  ],
+  "metadata": {
+    "title": "San Francisco and San Jose Railroad",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3335395&oldid=599209506",
+    "tableIndex": 0,
+    "hashcode": "4a69ebe9f6b873fce0b0179c63426bdd54fbec76",
+    "id": 3335395,
+    "revision": 599209506
+  }
+}

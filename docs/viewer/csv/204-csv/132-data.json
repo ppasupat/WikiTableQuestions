@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "2008",
+      "utterance": "which year did an american win both the men's and women's individual?",
+      "id": "nt-747"
+    },
+    {
+      "targetValue": "Shenzhen",
+      "utterance": "what is the location after tainan?",
+      "id": "nt-1070"
+    },
+    {
+      "targetValue": "Jedd Greschock",
+      "utterance": "braden gellenthien won the men's competition in 2006. who won the next year?",
+      "id": "nt-2025"
+    },
+    {
+      "targetValue": "Jamie van Natta",
+      "utterance": "whose name is listed before mary zorn's?",
+      "id": "nt-3006"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "who has the largest amount of teams, men's, women, or mixed?",
+      "id": "nt-3252"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many different locations are there?",
+      "id": "nt-5385"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what are the number of times the location was in madrid?",
+      "id": "nt-5457"
+    },
+    {
+      "targetValue": "Erika Anschutz (USA)",
+      "utterance": "whos was the next person that won after amandine in womens?",
+      "id": "nt-8589"
+    },
+    {
+      "targetValue": "Daniel Suter (USA)",
+      "utterance": "who was the last american to win men's individual?",
+      "id": "nt-9572"
+    },
+    {
+      "targetValue": "United States",
+      "utterance": "what women's team won the last competition?",
+      "id": "nt-10276"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times does the united states appear under the men's team column?",
+      "id": "nt-13157"
+    }
+  ],
+  "metadata": {
+    "title": "World Archery Championships",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=24147507&oldid=591583097",
+    "tableIndex": 21,
+    "hashcode": "e18f87ae8339866db059933315a6db7ac3851c80",
+    "id": 24147507,
+    "revision": 591583097
+  }
+}

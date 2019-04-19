@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "22",
+      "utterance": "how many puzzles are on the chart?",
+      "id": "nt-1238"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many times did super tetris win an award?",
+      "id": "nt-1787"
+    },
+    {
+      "targetValue": "Word",
+      "utterance": "swoggle and pick two are under what category?",
+      "id": "nt-2487"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many years have no games when awarded in the historical simulation category?",
+      "id": "nt-2883"
+    },
+    {
+      "targetValue": "Myst",
+      "utterance": "was myst or sharp shooters game of the year first?",
+      "id": "nt-6261"
+    },
+    {
+      "targetValue": "true",
+      "utterance": "true or false, in 1991 there was not a game winner in the advanced strategy catagory.",
+      "id": "nt-7639"
+    },
+    {
+      "targetValue": "Garden Dice/The Card Expansion",
+      "utterance": "what game won game of the year in 2014, the last year there is data available for?",
+      "id": "nt-8734"
+    },
+    {
+      "targetValue": "Pipeline",
+      "utterance": "what was the next game of the year after trumpet?",
+      "id": "nt-9265"
+    },
+    {
+      "targetValue": "1991",
+      "utterance": "name one of the years that had no advanced strategy.",
+      "id": "nt-9411"
+    },
+    {
+      "targetValue": "Trumpet",
+      "utterance": "what was the first game of the year?",
+      "id": "nt-9864"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what is the number of games awarded in 2014?",
+      "id": "nt-11240"
+    },
+    {
+      "targetValue": "Sharp Shooters",
+      "utterance": "what game of the year came after myst in 1994?",
+      "id": "nt-13547"
+    },
+    {
+      "targetValue": "2010",
+      "utterance": "did blox win in 2009 or 2010?",
+      "id": "nt-13921"
+    }
+  ],
+  "metadata": {
+    "title": "Games 100",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2023103&oldid=591407492",
+    "tableIndex": 0,
+    "hashcode": "31ae4ec31feae9e913ec80a1b5ae8a2a2dbcaab9",
+    "id": 2023103,
+    "revision": 591407492
+  }
+}

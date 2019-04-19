@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "NFL Blitz 2000 Gold Edition",
+      "utterance": "which nfl blitz installment was released next after nfl blitz 2000?",
+      "id": "nt-2058"
+    },
+    {
+      "targetValue": "Before",
+      "utterance": "was nfl blitz pro released before or after blitz: the league?",
+      "id": "nt-2892"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the number of titles released for arcade?",
+      "id": "nt-3305"
+    },
+    {
+      "targetValue": "2001",
+      "utterance": "nfl blitz special edition and nfl blitz 20-02 were both released in what year?",
+      "id": "nt-5448"
+    },
+    {
+      "targetValue": "12",
+      "utterance": "how many titles are there total in the nfl blitz series?",
+      "id": "nt-7739"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many gaming consoles in total were nfl blitz released for?",
+      "id": "nt-10745"
+    },
+    {
+      "targetValue": "NFL Blitz 20-02",
+      "utterance": "which nfl blitz installment was released in the same year as nfl blitz special edition?",
+      "id": "nt-11623"
+    }
+  ],
+  "metadata": {
+    "title": "NFL Blitz",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1956221&oldid=595665972",
+    "tableIndex": 0,
+    "hashcode": "71d041c5473fe08dcbf26ef06a39dd8fb102b70c",
+    "id": 1956221,
+    "revision": 595665972
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "A.N. Jha",
+      "utterance": "who was the only director to begin work in the 1950's?",
+      "id": "nt-4189"
+    },
+    {
+      "targetValue": "19",
+      "utterance": "before rudhra gangadharan, how many directors were before him?",
+      "id": "nt-4592"
+    },
+    {
+      "targetValue": "R.N. Chopra",
+      "utterance": "who was the director immediately before b. n. yugandhar?",
+      "id": "nt-7367"
+    },
+    {
+      "targetValue": "B.N. Yugandhar",
+      "utterance": "who served the most years as director?",
+      "id": "nt-8719"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many directors were from 2000 to 2009?",
+      "id": "nt-9853"
+    },
+    {
+      "targetValue": "16",
+      "utterance": "what is the number of directors that held the position of fias?",
+      "id": "nt-10821"
+    },
+    {
+      "targetValue": "B.N. Yugandhar",
+      "utterance": "what director served the longest term?",
+      "id": "nt-11200"
+    },
+    {
+      "targetValue": "B.C. Mathur",
+      "utterance": "who was director after rajeshwar prasad?",
+      "id": "nt-11325"
+    }
+  ],
+  "metadata": {
+    "title": "Lal Bahadur Shastri National Academy of Administration",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=5690545&oldid=592669428",
+    "tableIndex": 0,
+    "hashcode": "ea49b12079e6dbc2a7ecaf18836e14d3dde57152",
+    "id": 5690545,
+    "revision": 592669428
+  }
+}

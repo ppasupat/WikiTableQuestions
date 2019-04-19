@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "Ajax",
+      "utterance": "which team had the top transfer come in?",
+      "id": "nt-2429"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many players transferred to ajax?",
+      "id": "nt-3815"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many players transferred after 2010?",
+      "id": "nt-3993"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many players were transferred after the year 2000?",
+      "id": "nt-5671"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "how many players had a transfer fee of at least 8 million?",
+      "id": "nt-6359"
+    },
+    {
+      "targetValue": "Miralem Sulejmani",
+      "utterance": "which player paid the most in transfer fees?",
+      "id": "nt-7784"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many players transferred from sweden?",
+      "id": "nt-8626"
+    },
+    {
+      "targetValue": "Mateja Kežman",
+      "utterance": "who was the first player whose transfer fee exceeded 8 million euros?",
+      "id": "nt-8722"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "how many players had a transfer fee of at least 9 million euros?",
+      "id": "nt-10603"
+    },
+    {
+      "targetValue": "Miralem Sulejmani",
+      "utterance": "which incoming player had the highest transfer fee?",
+      "id": "nt-11237"
+    }
+  ],
+  "metadata": {
+    "title": "Dutch football transfer record",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12742744&oldid=570918301",
+    "tableIndex": 1,
+    "hashcode": "30c0eaa82b0a00273fc70e76d682a50def8bb796",
+    "id": 12742744,
+    "revision": 570918301
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "38.6m",
+      "utterance": "how much higher is the takapu road station than the wellington station?",
+      "id": "nt-8112"
+    }
+  ],
+  "metadata": {
+    "title": "North Island Main Trunk",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1799173&oldid=602333396",
+    "tableIndex": 2,
+    "hashcode": "9abc135bad5d83e8212db62e8f3ee424cf521ad6",
+    "id": 1799173,
+    "revision": 602333396
+  }
+}

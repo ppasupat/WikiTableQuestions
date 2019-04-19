@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "3:40",
+      "utterance": "how long is the song from the lion king?",
+      "id": "nt-452"
+    },
+    {
+      "targetValue": "Miley Cyrus",
+      "utterance": "what is the previous performer before the cheetah girls?",
+      "id": "nt-550"
+    },
+    {
+      "targetValue": "K-Ci & JoJo",
+      "utterance": "who sings the last song on this album?",
+      "id": "nt-3071"
+    },
+    {
+      "targetValue": "\"A Dream Is a Wish Your Heart Makes\"",
+      "utterance": "what is the first song on this album?",
+      "id": "nt-3491"
+    },
+    {
+      "targetValue": "3:11",
+      "utterance": "how long is the song look through my eyes by everlife?",
+      "id": "nt-3760"
+    },
+    {
+      "targetValue": "\"Can You Feel the Love Tonight\"",
+      "utterance": "which was from the lion king, \"can you feel the love tonight\" or \"candle on the water\"?",
+      "id": "nt-4741"
+    },
+    {
+      "targetValue": "\"You'll Be in My Heart\"",
+      "utterance": "which song has the most time?",
+      "id": "nt-6937"
+    },
+    {
+      "targetValue": "3:22",
+      "utterance": "what is the average length of the first three songs?",
+      "id": "nt-12154"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many songs are more than four minutes long?",
+      "id": "nt-12162"
+    }
+  ],
+  "metadata": {
+    "title": "Disneymania 4",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=9740366&oldid=600515708",
+    "tableIndex": 0,
+    "hashcode": "030513082254583b66986c6ea3de6355adf1a030",
+    "id": 9740366,
+    "revision": 600515708
+  }
+}

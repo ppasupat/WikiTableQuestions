@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many different venues were played at?",
+      "id": "nt-3200"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what was the least amount of goals scored in a game?",
+      "id": "nt-4403"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what was the number of goals scored against san marino?",
+      "id": "nt-5152"
+    },
+    {
+      "targetValue": "San Marino",
+      "utterance": "what was the last opponent billy dodds played against in his international career?",
+      "id": "nt-5765"
+    },
+    {
+      "targetValue": "San Marino",
+      "utterance": "besides belgium what other team did he score on in the year 2001?",
+      "id": "nt-6121"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what was the most goals scored in one game?",
+      "id": "nt-7689"
+    },
+    {
+      "targetValue": "San Marino",
+      "utterance": "what was the only opponent that had a result of 4-0?",
+      "id": "nt-8090"
+    },
+    {
+      "targetValue": "Estonia",
+      "utterance": "what game was played before the one against faroe islands?",
+      "id": "nt-11375"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the number of goals scored against faroe islands?",
+      "id": "nt-12865"
+    }
+  ],
+  "metadata": {
+    "title": "Billy Dodds",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=3788050&oldid=602004268",
+    "tableIndex": 0,
+    "hashcode": "a2a87ca37fc12adbb3b124a232487e9f9e058c99",
+    "id": 3788050,
+    "revision": 602004268
+  }
+}

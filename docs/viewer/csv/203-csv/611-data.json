@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "targetValue": "Eddie Murray",
+      "utterance": "which member of the 500 club has the least amount of home runs?",
+      "id": "nt-56"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many players hit more than 600 runs in their career?",
+      "id": "nt-346"
+    },
+    {
+      "targetValue": "Manny Ramirez",
+      "utterance": "which boston red sox player got the most career home runs?",
+      "id": "nt-4427"
+    },
+    {
+      "targetValue": "Barry Bonds",
+      "utterance": "which player has the highest number of career home runs?",
+      "id": "nt-4768"
+    }
+  ],
+  "metadata": {
+    "title": "500 home run club",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=840099&oldid=599281929",
+    "tableIndex": 1,
+    "hashcode": "edffbcbec77e510524e59bef60e73c756c7b8dd5",
+    "id": 840099,
+    "revision": 599281929
+  }
+}

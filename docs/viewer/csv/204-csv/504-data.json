@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "10",
+      "utterance": "what is the number of times rowell has won the naacp image award?",
+      "id": "nt-1246"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "did she win as an outstanding actress in a daytime drama series more than she lost?",
+      "id": "nt-4528"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many times was she nominated?",
+      "id": "nt-5000"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "what was the total number of times she was nominated but did not win an award?",
+      "id": "nt-5116"
+    },
+    {
+      "targetValue": "1992",
+      "utterance": "what was the first year she won a nomination?",
+      "id": "nt-6214"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "did she get the same award in 2005, as she did in 2006?",
+      "id": "nt-6393"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "how many awards has victoria rowell won?",
+      "id": "nt-7572"
+    },
+    {
+      "targetValue": "1994",
+      "utterance": "what is the only year where rowell won the soap opera digest award?",
+      "id": "nt-12011"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times has rowell been nominated for a daytime emmy?",
+      "id": "nt-12981"
+    }
+  ],
+  "metadata": {
+    "title": "Victoria Rowell",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=824618&oldid=600390080",
+    "tableIndex": 1,
+    "hashcode": "2e1d044de49312e551051b27766fe0642c47f63b",
+    "id": 824618,
+    "revision": 600390080
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "examples": [
+    {
+      "targetValue": "Spring Hill Corrections Facility",
+      "utterance": "which facility hold the most inmates?",
+      "id": "nt-1232"
+    }
+  ],
+  "metadata": {
+    "title": "List of correctional facilities in New Zealand",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2251789&oldid=597712104",
+    "tableIndex": 0,
+    "hashcode": "af58effd42bd3d20c424cd021eb4ae6e1572a4a4",
+    "id": 2251789,
+    "revision": 597712104
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "examples": [
+    {
+      "targetValue": "Wolfe Tones",
+      "utterance": "which team won previous to crettyard?",
+      "id": "nt-2"
+    },
+    {
+      "targetValue": "Maynooth",
+      "utterance": "ballymore eustace is from the same county as what team that won in 2009?",
+      "id": "nt-1135"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many wins did confey have?",
+      "id": "nt-2165"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the difference years won for crettyard and greystones",
+      "id": "nt-2690"
+    },
+    {
+      "targetValue": "Fingal Ravens",
+      "utterance": "which team was the previous winner before ballyroan abbey in 2008?",
+      "id": "nt-5103"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of wins for each team",
+      "id": "nt-5259"
+    },
+    {
+      "targetValue": "Dundalk Gaels",
+      "utterance": "what is the last team on the chart",
+      "id": "nt-5390"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the total of wins on the chart",
+      "id": "nt-5863"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "what is the number of wins for confey",
+      "id": "nt-6628"
+    },
+    {
+      "targetValue": "Kildare",
+      "utterance": "which county had the most number of wins?",
+      "id": "nt-6691"
+    },
+    {
+      "targetValue": [
+        "2011",
+        "2010",
+        "2009",
+        "2008",
+        "2007",
+        "2006",
+        "2005",
+        "2004",
+        "2003"
+      ],
+      "utterance": "what is the years won for each team",
+      "id": "nt-7263"
+    },
+    {
+      "targetValue": "Greystones",
+      "utterance": "which team won after ballymore eustace?",
+      "id": "nt-7349"
+    },
+    {
+      "targetValue": "Fingal Ravens",
+      "utterance": "what team comes before confey",
+      "id": "nt-9409"
+    },
+    {
+      "targetValue": "Greystones",
+      "utterance": "which is the first team from the chart",
+      "id": "nt-13483"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many wins does greystones have?",
+      "id": "nt-13703"
+    }
+  ],
+  "metadata": {
+    "title": "Leinster Intermediate Club Football Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=7694092&oldid=602419775",
+    "tableIndex": 0,
+    "hashcode": "bbaeb9b274eb084a674a5921a7d8a52054c98925",
+    "id": 7694092,
+    "revision": 602419775
+  }
+}

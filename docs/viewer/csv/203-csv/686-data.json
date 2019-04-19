@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "Yes",
+      "utterance": "does \"change\" rank higher than \"standards\" on the u.s. billboard 200 chart?",
+      "id": "nt-1398"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "previous to 2000 how many albums were released?",
+      "id": "nt-2118"
+    },
+    {
+      "targetValue": "Eponymous 1981-1983 ¢",
+      "utterance": "which album was released after \"raw\"?",
+      "id": "nt-2326"
+    },
+    {
+      "targetValue": "The Alarm (EP)",
+      "utterance": "what was the first album released?",
+      "id": "nt-4195"
+    },
+    {
+      "targetValue": "The Alarm (EP)",
+      "utterance": "which recored album is listed before february 1984?",
+      "id": "nt-5646"
+    },
+    {
+      "targetValue": "21st Century",
+      "utterance": "what record label appears the most on the chart?",
+      "id": "nt-10133"
+    },
+    {
+      "targetValue": "The Alarm (EP)",
+      "utterance": "what is the name of the album that was first to be released?",
+      "id": "nt-12428"
+    },
+    {
+      "targetValue": "Eye of the Hurricane",
+      "utterance": "which album has the record label i.r.s records, eye of the hurricane or compact hits?",
+      "id": "nt-13336"
+    }
+  ],
+  "metadata": {
+    "title": "The Alarm",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=2303013&oldid=602028163",
+    "tableIndex": 0,
+    "hashcode": "7eefd677dd66b6cee7d1ea940e4f673905dfb8aa",
+    "id": 2303013,
+    "revision": 602028163
+  }
+}

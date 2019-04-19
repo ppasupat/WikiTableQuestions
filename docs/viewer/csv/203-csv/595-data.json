@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "2005",
+      "utterance": "what year is the first \"usl second division league\" listed?",
+      "id": "nt-406"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "what is the total amount of usl pdl leagues?",
+      "id": "nt-3563"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "what is the number of years that the team did not qualify for playoffs?",
+      "id": "nt-5175"
+    },
+    {
+      "targetValue": "2009",
+      "utterance": "what is the last year the last \"usl second division\" is listed?",
+      "id": "nt-6743"
+    },
+    {
+      "targetValue": "2009",
+      "utterance": "in what other year did the place the same in regular season as in 2001?",
+      "id": "nt-9235"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many times did they not qualify for both playoffs and open cup?",
+      "id": "nt-12564"
+    }
+  ],
+  "metadata": {
+    "title": "Western Mass Pioneers",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1939230&oldid=581994363",
+    "tableIndex": 0,
+    "hashcode": "8ce6832533a68beceb3ca7b806a0813ebc002013",
+    "id": 1939230,
+    "revision": 581994363
+  }
+}

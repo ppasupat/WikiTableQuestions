@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": "Abu al-Duhur Military Airbase",
+      "utterance": "what is the first airbase listed on the chart?",
+      "id": "nt-112"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "the total number of helipads at hama military airport?",
+      "id": "nt-153"
+    },
+    {
+      "targetValue": "No",
+      "utterance": "does any airbase have the same location served as tha'lah military airbase?",
+      "id": "nt-1451"
+    },
+    {
+      "targetValue": "below",
+      "utterance": "does the second name have above or below 20 shelters?",
+      "id": "nt-3086"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "the number of runways at shayrat air base?",
+      "id": "nt-3711"
+    },
+    {
+      "targetValue": [
+        "Kowaires Military Airbase",
+        "Menagh Military Airbase"
+      ],
+      "utterance": "what two locations only provide military flight training school?",
+      "id": "nt-4093"
+    },
+    {
+      "targetValue": "Tiyas Military Airbase",
+      "utterance": "which military has the most shelters?",
+      "id": "nt-5893"
+    },
+    {
+      "targetValue": "yes",
+      "utterance": "does the first name have at least 12 shelters?",
+      "id": "nt-9841"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many airbases have helipads?",
+      "id": "nt-10277"
+    },
+    {
+      "targetValue": "Abu al-Duhur Military Airbase",
+      "utterance": "what is the top airbase name on the chart?",
+      "id": "nt-12130"
+    }
+  ],
+  "metadata": {
+    "title": "List of Syrian Air Force bases",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17823990&oldid=593161580",
+    "tableIndex": 0,
+    "hashcode": "af0f1dba3230021087dddcd5834ad2543a99a0aa",
+    "id": 17823990,
+    "revision": 593161580
+  }
+}

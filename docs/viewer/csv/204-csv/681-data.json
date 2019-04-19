@@ -1,0 +1,71 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "how many different countries are listed?",
+      "id": "nt-1362"
+    },
+    {
+      "targetValue": [
+        "Boeing",
+        "General Dynamics",
+        "Airbus Group",
+        "Finmeccanica",
+        "United Technologies Corporation",
+        "Thales Group",
+        "Honeywell",
+        "SAFRAN",
+        "Computer Sciences Corp.",
+        "Rolls-Royce",
+        "Oshkosh Corporation",
+        "General Electric",
+        "ITT Corp."
+      ],
+      "utterance": "name all the companies whose arms sales as share of company's total sales is below 75%.",
+      "id": "nt-1744"
+    },
+    {
+      "targetValue": "USA",
+      "utterance": "what country is the first listed country?",
+      "id": "nt-2159"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "how many companies are under the united states?",
+      "id": "nt-4538"
+    },
+    {
+      "targetValue": "United Aircraft Corporation",
+      "utterance": "in 2010, who has the least amount of sales?",
+      "id": "nt-6597"
+    },
+    {
+      "targetValue": "General Electric",
+      "utterance": "which is the only company to have under 10% arms sales as share of company's total sales?",
+      "id": "nt-8359"
+    },
+    {
+      "targetValue": "8960",
+      "utterance": "what is the difference of the amount sold between boeing and general dynamics in 2007?",
+      "id": "nt-9114"
+    },
+    {
+      "targetValue": "Lockheed Martin",
+      "utterance": "which company had the highest 2009 arms sales?",
+      "id": "nt-11372"
+    },
+    {
+      "targetValue": "8380",
+      "utterance": "calculate the difference between boeing's 2010 arms sales and raytheon's 2010 arms sales.",
+      "id": "nt-13851"
+    }
+  ],
+  "metadata": {
+    "title": "List of defense contractors",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=378088&oldid=591995229",
+    "tableIndex": 0,
+    "hashcode": "38a2bc7caf1463c792b72a484fa033dbdb06fe1c",
+    "id": 378088,
+    "revision": 591995229
+  }
+}

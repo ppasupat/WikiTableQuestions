@@ -1,0 +1,42 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "how many players went 0-1 in total w-l?",
+      "id": "nt-958"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many years did an jae-sung play?",
+      "id": "nt-2008"
+    },
+    {
+      "targetValue": "Eui-jong",
+      "utterance": "who had more total wins, eui-jong or se-hyun?",
+      "id": "nt-3885"
+    },
+    {
+      "targetValue": "Boo-Kil",
+      "utterance": "who had a better singles record, boo-kil or seung-bok?",
+      "id": "nt-5806"
+    },
+    {
+      "targetValue": "Kyu-tae",
+      "utterance": "whose was on the squad longer, kyu-tae or hee-sung?",
+      "id": "nt-9992"
+    },
+    {
+      "targetValue": "Lee Hyung-taik",
+      "utterance": "who played for the most years?",
+      "id": "nt-11235"
+    }
+  ],
+  "metadata": {
+    "title": "South Korea Davis Cup team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10023387&oldid=575034555",
+    "tableIndex": 0,
+    "hashcode": "5ea7dced9d0e5f6627d10724161f053d886ec67a",
+    "id": 10023387,
+    "revision": 575034555
+  }
+}

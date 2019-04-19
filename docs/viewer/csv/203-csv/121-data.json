@@ -1,0 +1,52 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "how many defensive (df) players are there on the national team?",
+      "id": "nt-119"
+    },
+    {
+      "targetValue": "Gunnar \"Il Professore\" Gren",
+      "utterance": "played on the same team as rune \"killing\" emanuelsson",
+      "id": "nt-742"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "how many people have no goals?",
+      "id": "nt-3831"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "what was the total number of goals scored by all of the national team players in the 1947/1948 season?",
+      "id": "nt-5754"
+    },
+    {
+      "targetValue": "AIK Solna",
+      "utterance": "which club had more midfield (mf) players on the national team: aik solna or ifk norrkoping?",
+      "id": "nt-5867"
+    },
+    {
+      "targetValue": "Gunnar Nordahl",
+      "utterance": "who has the most goals plus caps?",
+      "id": "nt-7235"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many goals did the malmö ff player(s) score?",
+      "id": "nt-7865"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many people have less than 3 caps?",
+      "id": "nt-9075"
+    }
+  ],
+  "metadata": {
+    "title": "1947–48 in Swedish football",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=11075929&oldid=584805849",
+    "tableIndex": 8,
+    "hashcode": "a3fc30149468b4e187f109bc5be00e6907e081a6",
+    "id": 11075929,
+    "revision": 584805849
+  }
+}

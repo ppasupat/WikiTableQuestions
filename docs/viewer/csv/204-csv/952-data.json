@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "Nicky English",
+      "utterance": "which player ranked the most?",
+      "id": "nt-107"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times was waterford the opposition?",
+      "id": "nt-447"
+    },
+    {
+      "targetValue": "17",
+      "utterance": "what was the average of the totals of nicky english and mark corrigan?",
+      "id": "nt-2329"
+    },
+    {
+      "targetValue": "Nicky English",
+      "utterance": "what is the first name on the list?",
+      "id": "nt-3040"
+    },
+    {
+      "targetValue": "14",
+      "utterance": "joe hennessy and finbarr delaney both scored how many points?",
+      "id": "nt-4114"
+    },
+    {
+      "targetValue": "Nicky English",
+      "utterance": "who was the top ranked player in a single game?",
+      "id": "nt-4835"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many people are on the list?",
+      "id": "nt-6020"
+    },
+    {
+      "targetValue": "34",
+      "utterance": "what was the combined total of nicky english and mark corrigan?",
+      "id": "nt-11798"
+    },
+    {
+      "targetValue": "M. J. Ryan",
+      "utterance": "what player got 10 total points in their game?",
+      "id": "nt-12271"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "what is the least total on the list?",
+      "id": "nt-12349"
+    },
+    {
+      "targetValue": "138",
+      "utterance": "if you added all the total's up, what would the number be?",
+      "id": "nt-13660"
+    },
+    {
+      "targetValue": "Nicky English",
+      "utterance": "who ranked above mark corrigan?",
+      "id": "nt-13923"
+    }
+  ],
+  "metadata": {
+    "title": "1989 All-Ireland Senior Hurling Championship",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=12296897&oldid=569370656",
+    "tableIndex": 3,
+    "hashcode": "ecd70fa5b08082595d673b02512d308621574a77",
+    "id": 12296897,
+    "revision": 569370656
+  }
+}

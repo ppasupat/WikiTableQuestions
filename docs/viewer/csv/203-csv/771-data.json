@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "Light",
+      "utterance": "which title has the most length?",
+      "id": "nt-1936"
+    },
+    {
+      "targetValue": "Turn Me Up",
+      "utterance": "which track was longer in length,\"turn me up\" or \"make me feel\"?",
+      "id": "nt-2554"
+    },
+    {
+      "targetValue": "Rocket In The Sky",
+      "utterance": "what is the title of the first track on the best of benassi bros greatest hit album?",
+      "id": "nt-5293"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many tracks featured sandy?",
+      "id": "nt-6344"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many total titles are listed for the artist benassi bros.?",
+      "id": "nt-6647"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the total number of tracks on 2005 best of benassi bros. featuring dhany?",
+      "id": "nt-9965"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many tracks are there on the 2005 best of benassi bros. album?",
+      "id": "nt-10067"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "what is the total number of tracks on the benassi bros. greatest hits album?",
+      "id": "nt-10403"
+    },
+    {
+      "targetValue": "Yes",
+      "utterance": "are there at least five tracks featuring sandy on the 2005 best of benassi bros. album?",
+      "id": "nt-13093"
+    }
+  ],
+  "metadata": {
+    "title": "Best of Benassi Bros.",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8587968&oldid=571083495",
+    "tableIndex": 0,
+    "hashcode": "431487243e385118875ecc3b1bf6d2395fbd11fe",
+    "id": 8587968,
+    "revision": 571083495
+  }
+}

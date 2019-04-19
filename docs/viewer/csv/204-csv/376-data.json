@@ -1,0 +1,57 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "how many victories are listed?",
+      "id": "nt-1083"
+    },
+    {
+      "targetValue": "1 April 2007",
+      "utterance": "name a game where the score was the same as march 4, 2013.",
+      "id": "nt-1102"
+    },
+    {
+      "targetValue": "Micronesian Games",
+      "utterance": "name a competition listed more than eaff east asian cup.",
+      "id": "nt-7506"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many times has guam been an opponent?",
+      "id": "nt-8803"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many times was guam an opponent?",
+      "id": "nt-10839"
+    },
+    {
+      "targetValue": "Palau Track and Field Stadium",
+      "utterance": "where have they played more often, palau track and field stadium or the yap sports complex?",
+      "id": "nt-11545"
+    },
+    {
+      "targetValue": "18 July 2012",
+      "utterance": "which date is listed after july 20th, 2012?",
+      "id": "nt-11610"
+    },
+    {
+      "targetValue": "Bangladesh",
+      "utterance": "who was the last opponent on the list, chronologically?",
+      "id": "nt-11751"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many times has palau been an opponent?",
+      "id": "nt-14071"
+    }
+  ],
+  "metadata": {
+    "title": "Northern Mariana Islands national football team",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=6159402&oldid=599167413",
+    "tableIndex": 0,
+    "hashcode": "0cfd30e2011cf102d4889ef4eb1eab2eca2b5ba7",
+    "id": 6159402,
+    "revision": 599167413
+  }
+}

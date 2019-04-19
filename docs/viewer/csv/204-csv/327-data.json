@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "4",
+      "utterance": "total number of players drafted in round 1",
+      "id": "nt-883"
+    },
+    {
+      "targetValue": "Jonas Brodin",
+      "utterance": "who was the only player drafted in the top 10?",
+      "id": "nt-1361"
+    },
+    {
+      "targetValue": "Calgary Flames",
+      "utterance": "which team has drafted the most players?",
+      "id": "nt-2796"
+    },
+    {
+      "targetValue": "Håkan Nordin",
+      "utterance": "which player is listed next after jan ingman?",
+      "id": "nt-4400"
+    },
+    {
+      "targetValue": "Harald Lückner",
+      "utterance": "which player is listed first in the table?",
+      "id": "nt-6200"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many players are norwegian?",
+      "id": "nt-6314"
+    },
+    {
+      "targetValue": "Norway",
+      "utterance": "what other country were players drafted from other then sweden?",
+      "id": "nt-6788"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "how many players were drafted by the st. louis blues?",
+      "id": "nt-8851"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what was the number of defenceman drafted before 1985?",
+      "id": "nt-9912"
+    },
+    {
+      "targetValue": "Anders Myrvold",
+      "utterance": "who was the first player from norway who was drafted?",
+      "id": "nt-12838"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the number of players drafted who are from norway?",
+      "id": "nt-13438"
+    }
+  ],
+  "metadata": {
+    "title": "List of Färjestad BK players selected in the NHL Entry Draft",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=10259014&oldid=575536881",
+    "tableIndex": 0,
+    "hashcode": "660f95088a8d6e75a4ba75048220a168fed07e47",
+    "id": 10259014,
+    "revision": 575536881
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "examples": [
+    {
+      "targetValue": "increase",
+      "utterance": "did the hydro power increase or decrease from 2010 to 2012?",
+      "id": "nt-334"
+    },
+    {
+      "targetValue": "Other renewables",
+      "utterance": "what kind of power has the least amount of capacity in 2007?",
+      "id": "nt-2157"
+    },
+    {
+      "targetValue": "2000",
+      "utterance": "what year had the least thermal grid capacity?",
+      "id": "nt-3114"
+    },
+    {
+      "targetValue": "2000",
+      "utterance": "tell me a year that total availability was not over 1900.",
+      "id": "nt-4867"
+    },
+    {
+      "targetValue": "4",
+      "utterance": "tell me the number of years that hydro power had an annual generation over 4,000.",
+      "id": "nt-7000"
+    },
+    {
+      "targetValue": "8",
+      "utterance": "how many years did the total available grid capacity fall below 2500?",
+      "id": "nt-11316"
+    },
+    {
+      "targetValue": "6,785",
+      "utterance": "what's the thermal power amount in the year 2011?",
+      "id": "nt-13726"
+    },
+    {
+      "targetValue": "161",
+      "utterance": "what is the difference of megawatts between the total in 2000 and 2001?",
+      "id": "nt-13906"
+    },
+    {
+      "targetValue": "2,483",
+      "utterance": "what was the total available grid capacity in megawatts in the year 2003?",
+      "id": "nt-13961"
+    },
+    {
+      "targetValue": "1,401",
+      "utterance": "what was the hydro power availability in 2011?",
+      "id": "nt-14127"
+    }
+  ],
+  "metadata": {
+    "title": "Electricity in Sri Lanka",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=25479607&oldid=599049440",
+    "tableIndex": 0,
+    "hashcode": "f1e564003ffb426ee21f77842155f76a765f78ec",
+    "id": 25479607,
+    "revision": 599049440
+  }
+}

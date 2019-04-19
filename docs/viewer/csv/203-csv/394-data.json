@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "1920",
+      "utterance": "what year was the earliest bull-dog drummond published?",
+      "id": "nt-311"
+    },
+    {
+      "targetValue": "10",
+      "utterance": "how many books did not include \"bulldog drummond\" in the title?",
+      "id": "nt-1789"
+    },
+    {
+      "targetValue": "Gerard Fairlie",
+      "utterance": "after h.c. mcneille, who succeeded him in writing books about bulldog drummond?",
+      "id": "nt-3546"
+    },
+    {
+      "targetValue": "Bull-Dog Drummond",
+      "utterance": "which title was published before 1921?",
+      "id": "nt-7738"
+    },
+    {
+      "targetValue": "H. C. McNeile",
+      "utterance": "which author had all of his titles' first edition lengths above 300 pp?",
+      "id": "nt-9160"
+    },
+    {
+      "targetValue": "9",
+      "utterance": "how many bulldog drummond books did gerard fairlie write?",
+      "id": "nt-9994"
+    },
+    {
+      "targetValue": "Henry Reymond",
+      "utterance": "who authored the least number of titles?",
+      "id": "nt-13967"
+    }
+  ],
+  "metadata": {
+    "title": "Bulldog Drummond",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=761349&oldid=596101920",
+    "tableIndex": 0,
+    "hashcode": "c0430150cb56a78172f23e7ca535cb7ea80dbf3d",
+    "id": 761349,
+    "revision": 596101920
+  }
+}

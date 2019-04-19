@@ -1,0 +1,75 @@
+{
+  "examples": [
+    {
+      "targetValue": "3",
+      "utterance": "what were the total number of players selected in the second round?",
+      "id": "nt-1416"
+    },
+    {
+      "targetValue": "15",
+      "utterance": "how many players were drafted?",
+      "id": "nt-2425"
+    },
+    {
+      "targetValue": "second",
+      "utterance": "was jerret stoll picked in the first or second round?",
+      "id": "nt-2813"
+    },
+    {
+      "targetValue": "Dwight Helminen",
+      "utterance": "who was picked after patrick murphy?",
+      "id": "nt-3809"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many players have the ncaa listed as their league?",
+      "id": "nt-4089"
+    },
+    {
+      "targetValue": "Russia",
+      "utterance": "which nationality has the least players?",
+      "id": "nt-4216"
+    },
+    {
+      "targetValue": "Fredrik Johansson",
+      "utterance": "who was the only player to be picked in round nine?",
+      "id": "nt-4360"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many players are from canada?",
+      "id": "nt-4641"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what are the number of times finland is listed as the nationality on this chart?",
+      "id": "nt-5611"
+    },
+    {
+      "targetValue": "Jesse Niinimäki",
+      "utterance": "who was the first player that the oilers picked?",
+      "id": "nt-9788"
+    },
+    {
+      "targetValue": [
+        "Jesse Niinimäki",
+        "Mikko Luoma"
+      ],
+      "utterance": "list each of the players from finland.",
+      "id": "nt-9789"
+    },
+    {
+      "targetValue": "Jean-Francois Dufort",
+      "utterance": "patrick murphy and who else was drafted in round seven?",
+      "id": "nt-14106"
+    }
+  ],
+  "metadata": {
+    "title": "2002–03 Edmonton Oilers season",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=14625882&oldid=601074369",
+    "tableIndex": 9,
+    "hashcode": "41a36c28f1c8c6f323c579520aa14227ff024ec7",
+    "id": 14625882,
+    "revision": 601074369
+  }
+}

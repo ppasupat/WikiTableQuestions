@@ -1,0 +1,63 @@
+{
+  "examples": [
+    {
+      "targetValue": "2",
+      "utterance": "what is the total number of times chelsea williams was the winner between 2007 and 2010?",
+      "id": "nt-1556"
+    },
+    {
+      "targetValue": "Seb Wilson",
+      "utterance": "who was next to finish after josh constable in the 2008 telstra men's pro?",
+      "id": "nt-1625"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many times was josh constable second?",
+      "id": "nt-6526"
+    },
+    {
+      "targetValue": "2007 Banana Boat Women's Pro",
+      "utterance": "in what event did chelsea williams win her first title?",
+      "id": "nt-7613"
+    },
+    {
+      "targetValue": [
+        "2009",
+        "2010"
+      ],
+      "utterance": "name each of the years that taylor jensen was winner.",
+      "id": "nt-9772"
+    },
+    {
+      "targetValue": [
+        "2007 Banana Boat Women's Pro",
+        "2009 Banana Boat Women's Pro"
+      ],
+      "utterance": "in what two races did chelsea williams earn the same rank?",
+      "id": "nt-9944"
+    },
+    {
+      "targetValue": "Josh Constable",
+      "utterance": "who was the top performer in the 2008 telstra men's pro?",
+      "id": "nt-11870"
+    },
+    {
+      "targetValue": "2009 Golden Breed Mens Pro LQS",
+      "utterance": "at which event did taylor jensen first win?",
+      "id": "nt-13303"
+    },
+    {
+      "targetValue": "1",
+      "utterance": "how many times was josh constable the winner after 2007?",
+      "id": "nt-13782"
+    }
+  ],
+  "metadata": {
+    "title": "Noosa Festival of Surfing",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=16067721&oldid=583879506",
+    "tableIndex": 0,
+    "hashcode": "de1853db04cc30f8583ce7baf22d8ceb466e2f58",
+    "id": 16067721,
+    "revision": 583879506
+  }
+}

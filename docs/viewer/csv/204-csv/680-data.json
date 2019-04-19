@@ -1,0 +1,67 @@
+{
+  "examples": [
+    {
+      "targetValue": "Big Bang",
+      "utterance": "which artist released the last album in 2011?",
+      "id": "nt-928"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "what is the total number of albums that 2ne1 has released?",
+      "id": "nt-945"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many \"compilation\" albums did yg entertainment release in 2011?",
+      "id": "nt-2781"
+    },
+    {
+      "targetValue": "V.V.I.P",
+      "utterance": "what was the title of the first album released in 2011?",
+      "id": "nt-3067"
+    },
+    {
+      "targetValue": "The Best of BIGBANG",
+      "utterance": "what is the name of the last album released by yg entertainment in 2011?",
+      "id": "nt-5113"
+    },
+    {
+      "targetValue": "Japanese",
+      "utterance": "was big bang 2 recorded in japanese or korean?",
+      "id": "nt-7318"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what number of songs was released in may?",
+      "id": "nt-8031"
+    },
+    {
+      "targetValue": "2011 Big Show Live Concert",
+      "utterance": "what was the first live album that was released in 2011?",
+      "id": "nt-8217"
+    },
+    {
+      "targetValue": "Big Bang",
+      "utterance": "which artist has released at least 5 albums?",
+      "id": "nt-11097"
+    },
+    {
+      "targetValue": "More",
+      "utterance": "did big bang release more or less albums than 2ne1?",
+      "id": "nt-11493"
+    },
+    {
+      "targetValue": "Big Bang",
+      "utterance": "who released the most songs?",
+      "id": "nt-13962"
+    }
+  ],
+  "metadata": {
+    "title": "YG Entertainment discography",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=29157599&oldid=602152836",
+    "tableIndex": 0,
+    "hashcode": "2ee55d7b67edce0c33a0b3b1841e6fcdfd8dd95c",
+    "id": 29157599,
+    "revision": 602152836
+  }
+}

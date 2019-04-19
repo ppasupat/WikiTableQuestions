@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "\"Think Twice\"",
+      "utterance": "this song released by celine dion spent 17 weeks on the uk singles chart in 1994, which one was it?",
+      "id": "nt-10339"
+    },
+    {
+      "targetValue": "\"Come Baby Come\"",
+      "utterance": "which single was the last one to be on the charts in 1993?",
+      "id": "nt-10884"
+    },
+    {
+      "targetValue": "Tinman",
+      "utterance": "which artist came on the list after oasis?",
+      "id": "nt-11717"
+    },
+    {
+      "targetValue": "D:Ream",
+      "utterance": "which artist only has its single entered on 2 january 1994?",
+      "id": "nt-12530"
+    },
+    {
+      "targetValue": "3 October 1993",
+      "utterance": "what is the first entered date?",
+      "id": "nt-14095"
+    }
+  ],
+  "metadata": {
+    "title": "List of UK top 10 singles in 1994",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=26399982&oldid=599771975",
+    "tableIndex": 1,
+    "hashcode": "200c54523d0d906b49dff05e161dca6c6107b8e2",
+    "id": 26399982,
+    "revision": 599771975
+  }
+}

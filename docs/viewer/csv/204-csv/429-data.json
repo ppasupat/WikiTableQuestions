@@ -1,0 +1,47 @@
+{
+  "examples": [
+    {
+      "targetValue": "6",
+      "utterance": "what is the number of battles that took place in 1836?",
+      "id": "nt-6082"
+    },
+    {
+      "targetValue": "Battle of Gonzales",
+      "utterance": "what was the only battle in gonzales?",
+      "id": "nt-6577"
+    },
+    {
+      "targetValue": "Texas",
+      "utterance": "who had the most victories?",
+      "id": "nt-8086"
+    },
+    {
+      "targetValue": "5",
+      "utterance": "what was the total amount of \"m\" (mexican) victories?",
+      "id": "nt-8714"
+    },
+    {
+      "targetValue": "T",
+      "utterance": "which victor held at least six victories?",
+      "id": "nt-11802"
+    },
+    {
+      "targetValue": "7",
+      "utterance": "what is the total number of texan victories?",
+      "id": "nt-13440"
+    },
+    {
+      "targetValue": "639",
+      "utterance": "what is the total number of people killed at the battle of san jacinto?",
+      "id": "nt-13935"
+    }
+  ],
+  "metadata": {
+    "title": "List of Texas Revolution battles",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=17161378&oldid=599441753",
+    "tableIndex": 0,
+    "hashcode": "e98e369125523f0f8e091604b7ce12a0feddf210",
+    "id": 17161378,
+    "revision": 599441753
+  }
+}

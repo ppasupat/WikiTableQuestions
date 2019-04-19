@@ -1,0 +1,37 @@
+{
+  "examples": [
+    {
+      "targetValue": "pace",
+      "utterance": "what persian unit is at least five feet?",
+      "id": "nt-5908"
+    },
+    {
+      "targetValue": "league",
+      "utterance": "which had a higher metric value, a great cubit or a league?",
+      "id": "nt-6502"
+    },
+    {
+      "targetValue": "≈ 400 mm",
+      "utterance": "how long is four hands in the metric system?",
+      "id": "nt-9974"
+    },
+    {
+      "targetValue": "finger",
+      "utterance": "what unit is listed first?",
+      "id": "nt-11701"
+    },
+    {
+      "targetValue": "mansion, one day's march on the Royal Road.",
+      "utterance": "what persian unit is more than a league?",
+      "id": "nt-12741"
+    }
+  ],
+  "metadata": {
+    "title": "Persian units of measurement",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=1332481&oldid=582102464",
+    "tableIndex": 0,
+    "hashcode": "8f7901a9c345f0fc27828d4c72533eed07e7cc0b",
+    "id": 1332481,
+    "revision": 582102464
+  }
+}

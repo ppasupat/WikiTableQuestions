@@ -1,0 +1,72 @@
+{
+  "examples": [
+    {
+      "targetValue": "7 years",
+      "utterance": "how long after 1999 was there a relegated movement?",
+      "id": "nt-394"
+    },
+    {
+      "targetValue": "12 years",
+      "utterance": "how long have they been playing?",
+      "id": "nt-1612"
+    },
+    {
+      "targetValue": "2007",
+      "utterance": "when was the first season that the team was in tier 6?",
+      "id": "nt-2094"
+    },
+    {
+      "targetValue": "4th",
+      "utterance": "what was the last position that the team achieved?",
+      "id": "nt-5177"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many years did ifk finish in less than 4th place?",
+      "id": "nt-6517"
+    },
+    {
+      "targetValue": "2005",
+      "utterance": "in what year did ifk receive their best finish?",
+      "id": "nt-9719"
+    },
+    {
+      "targetValue": "Tier 5",
+      "utterance": "previous to 2007 what tier was the team in?",
+      "id": "nt-9856"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "what is the total number of times that the team finished in 3rd position or higher?",
+      "id": "nt-11317"
+    },
+    {
+      "targetValue": "11",
+      "utterance": "in how man years did ifk finish in at least 5th place.",
+      "id": "nt-11581"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many seasons other than 1999 was their a spring series movement?",
+      "id": "nt-13016"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many 4th position seasons were there before 2004?",
+      "id": "nt-13741"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "how many times did the team finish in 2nd position?",
+      "id": "nt-13828"
+    }
+  ],
+  "metadata": {
+    "title": "IFK Visby",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=31673638&oldid=599048782",
+    "tableIndex": 0,
+    "hashcode": "700ee09900635c70aa66c2fb818936da25ba287b",
+    "id": 31673638,
+    "revision": 599048782
+  }
+}

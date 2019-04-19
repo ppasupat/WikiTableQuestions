@@ -1,0 +1,77 @@
+{
+  "examples": [
+    {
+      "targetValue": "1968",
+      "utterance": "when was the first year of rugby of the terrapins?",
+      "id": "nt-324"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "what is the number of varsity sports at maryland",
+      "id": "nt-1334"
+    },
+    {
+      "targetValue": "20,576",
+      "utterance": "what was the number of the enrollment in 1967?",
+      "id": "nt-2261"
+    },
+    {
+      "targetValue": "Virginia Tech",
+      "utterance": "which school has a higher enrollment, clemson university or virginia tech?",
+      "id": "nt-2798"
+    },
+    {
+      "targetValue": "Virginia Tech",
+      "utterance": "has viginia tech r wake forest been around longer?",
+      "id": "nt-3903"
+    },
+    {
+      "targetValue": "1 year",
+      "utterance": "how much longer has the north carolina wolfpack been around compared to the tar heels?",
+      "id": "nt-4698"
+    },
+    {
+      "targetValue": "Maryland",
+      "utterance": "which institution has the highest amount of enrollment?",
+      "id": "nt-4723"
+    },
+    {
+      "targetValue": "Charlottesville, Virginia",
+      "utterance": "head coach, jon roberts, had his team from where?",
+      "id": "nt-5560"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "number institutes from north carolina in the acrl?",
+      "id": "nt-5951"
+    },
+    {
+      "targetValue": "4,576",
+      "utterance": "how many students are enrolled at navy?",
+      "id": "nt-7137"
+    },
+    {
+      "targetValue": "North Carolina State",
+      "utterance": "who has the wolfpack as their nickname?",
+      "id": "nt-7292"
+    },
+    {
+      "targetValue": "6",
+      "utterance": "how many schools in the acrl have at least 20 varsity sports?",
+      "id": "nt-13201"
+    },
+    {
+      "targetValue": "3",
+      "utterance": "list each of institutions with an even enrollment",
+      "id": "nt-13862"
+    }
+  ],
+  "metadata": {
+    "title": "Atlantic Coast Rugby League",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=34919975&oldid=590022603",
+    "tableIndex": 0,
+    "hashcode": "cb3791c6c77ba9eed7e835c5550d834b23c5550d",
+    "id": 34919975,
+    "revision": 590022603
+  }
+}

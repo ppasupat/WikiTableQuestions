@@ -1,0 +1,65 @@
+{
+  "examples": [
+    {
+      "targetValue": [
+        "Dani Sordo",
+        "Marc Marti"
+      ],
+      "utterance": "which driver and co-driver finished at 3:59 but with 8 points?",
+      "id": "nt-221"
+    },
+    {
+      "targetValue": "Ford Focus RS WRC 07",
+      "utterance": "what car made the least amount of points?",
+      "id": "nt-509"
+    },
+    {
+      "targetValue": "Patrik Sandell",
+      "utterance": "what driver was the only one to score 8 points while driving a mitsubishi?",
+      "id": "nt-3238"
+    },
+    {
+      "targetValue": "4:14:05.7",
+      "utterance": "what was the time for the driver who came in last place?",
+      "id": "nt-3511"
+    },
+    {
+      "targetValue": "Martin Prokop",
+      "utterance": "what main driver made the most points in the pcwrc?",
+      "id": "nt-4812"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "how many drivers finished with a time less than 4:00:00?",
+      "id": "nt-8364"
+    },
+    {
+      "targetValue": "2",
+      "utterance": "what is the total amount of times a suzuki sx4 wrc car was used?",
+      "id": "nt-9237"
+    },
+    {
+      "targetValue": "Suzuki SX4 WRC",
+      "utterance": "pg andersson and toni gardemeister were both driving what type of car?",
+      "id": "nt-11049"
+    },
+    {
+      "targetValue": "Marc Marti",
+      "utterance": "who was dabi sordo's co-driver?",
+      "id": "nt-12097"
+    },
+    {
+      "targetValue": "Petter Solberg",
+      "utterance": "in the 2008 rally new zealand, which driver was faster, solberg or gardemeister?",
+      "id": "nt-13675"
+    }
+  ],
+  "metadata": {
+    "title": "2008 Rally New Zealand",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=19109318&oldid=543102271",
+    "tableIndex": 0,
+    "hashcode": "066a39f7d77712f6553522fbb2f05ccc99a8fe29",
+    "id": 19109318,
+    "revision": 543102271
+  }
+}

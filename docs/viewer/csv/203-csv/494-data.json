@@ -1,0 +1,74 @@
+{
+  "examples": [
+    {
+      "targetValue": "305,008",
+      "utterance": "how many votes were not attributed to the australian labor party?",
+      "id": "nt-712"
+    },
+    {
+      "targetValue": "Australian Labor Party",
+      "utterance": "which party got the most votes?",
+      "id": "nt-1652"
+    },
+    {
+      "targetValue": "20",
+      "utterance": "how many seats did liberal and country league win?",
+      "id": "nt-3192"
+    },
+    {
+      "targetValue": "0",
+      "utterance": "how many seats does the independent party hold?",
+      "id": "nt-5253"
+    },
+    {
+      "targetValue": "Other",
+      "utterance": "which party received the least votes?",
+      "id": "nt-6600"
+    },
+    {
+      "targetValue": "Independent",
+      "utterance": "who got more votes? nationals sa or independent?",
+      "id": "nt-8008"
+    },
+    {
+      "targetValue": "8.26%",
+      "utterance": "the nationals sa and independent party make up what percentage of votes?",
+      "id": "nt-8511"
+    },
+    {
+      "targetValue": [
+        "Liberal and Country League",
+        "Independent"
+      ],
+      "utterance": "which party or parties had the same number of seats as it did before?",
+      "id": "nt-8885"
+    },
+    {
+      "targetValue": [
+        "Nationals SA",
+        "Independent",
+        "Other"
+      ],
+      "utterance": "which party or parties received less than five percent of the votes?",
+      "id": "nt-10940"
+    },
+    {
+      "targetValue": "Australian Labor Party",
+      "utterance": "which party held the most seats but had a lesser turnout?",
+      "id": "nt-12334"
+    },
+    {
+      "targetValue": "Australian Labor Party",
+      "utterance": "which party won the top place in the election?",
+      "id": "nt-14007"
+    }
+  ],
+  "metadata": {
+    "title": "South Australian state election, 1973",
+    "url": "http://en.wikipedia.org/wiki?action=render&curid=8823614&oldid=599842976",
+    "tableIndex": 0,
+    "hashcode": "4ae5d4a5c3e2e53f750a6cf61a83aa174bdde18d",
+    "id": 8823614,
+    "revision": 599842976
+  }
+}
