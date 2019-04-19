@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link href='//fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="main.css">
+  <title>Compositional Semantic Parsing on Semi-Structured Tables</title>
+</head>
+
+<body>
+<div id=wrapper>
+<h1>Compositional Semantic Parsing on Semi-Structured Tables</h1>
+
+<div style="width:70%;margin:0 auto">
+  <img src="task.png" style="width:100%"
+    title="Task: Learn to produce an answer y to a given question x according to a given table t">
+</div>
+
+<div style="margin:2em 0">
+<p class=centerize>
+<a href=viewer class=button>Launch Dataset Viewer</a>
+<a href="https://github.com/ppasupat/WikiTableQuestions/releases" class=button>Download Dataset</a>
+<a href="https://worksheets.codalab.org/worksheets/0xe87a66577536469e8a0ecbe5c8b962c1/" class=button>Official Evaluator</a>
+</p>
+</div>
+<p><strong>Please see the <a href="#usage-notes">usage notes</a> below!</strong></p>
+<p><em>Note: The dataset viewer contains training data from dataset version 1.0.2</em></p>
+
+<hr>
+
+<h2>Task</h2>
+<p>Answer complex questions on semi-structured tables using question-answer pairs as supervision.</p>
+
+<h2>Why this task?</h2>
+<p>We want to solve the two main challenges of question answering:</p>
+<ul>
+  <li><strong>Question complexity (depth).</strong>
+  We want a system that can answer not only simple questions
+  (e.g., "Where is Chichen Itza?")
+  but also more complex questions
+  (e.g., "What is the cheapest bus to Chichen Itza leaving tomorrow?").</li>
+  <li><strong>Domain size (breadth).</strong>
+  We want a system that can generalize to a variety of domains, not just a few specific domains.</li>
+</ul>
+
+<p>Instead of approaching one challenge at a time, we want to handle both simultaneously:</p>
+<ul>
+  <li>The WikiTableQuestions dataset contains <strong>complex questions</strong>
+  that require multi-step reasoning and various data operations
+  such as comparison, aggregation, and arithmetic computation.</li>
+  <li>Instead of a fixed database,
+  each question should be answered based on a <strong>semi-structured table</strong>.
+  Different questions may be asked on different tables with different schemas,
+  and tables in the test data are distinct from the ones in the training data.</li>
+</ul>
+
+<h2 id="usage-notes">Usage Notes</h2>
+<p>Please use the latest version (<strong>1.0.2</strong>) and the official evaluator for future development.</p>
+<p>The dataset splits used in the original paper are:</p>
+<ul>
+  <li><strong>Dev:</strong> Mean accuracy over three (not five) splits of the training data.
+    In other words, train on <tt>random-split-{1,2,3}-train.tsv</tt> and test on <tt>random-split-{1,2,3}-dev.tsv</tt>,
+    respectively, then average the accuracy.</li>
+  <li><strong>Test:</strong> Train on <tt>training.tsv</tt> and test on <tt>pristine-unseen-tables.tsv</tt>.
+</ul>
+
+The file <tt>pristine-seen-tables.tsv</tt> was not used in the original paper.
+
+<h2>Paper, Code, and Reproducible Experiments</h2>
+<blockquote>
+<p>
+Panupong Pasupat, Percy Liang.
+<a href="https://arxiv.org/abs/1508.00305">Compositional Semantic Parsing on Semi-Structured Tables</a>.
+Association for Computational Linguistics (ACL), 2015.
+</p>
+</blockquote>
+
+<p>The paper proposes a <strong>semantic parsing</strong> system
+that learns to answer questions using question-answer pairs as supervision.
+</p>
+
+<p>
+Code, data, and experiments are available on the
+<a href="https://worksheets.codalab.org/worksheets/0xf26cd79d4d734287868923ad1067cf4c/">CodaLab platform</a>.
+</p>
+
+<p>
+The code is implemented in <a href="https://nlp.stanford.edu/software/sempre/">SEMPRE</a> framework.
+</p>
+
+<h2>Other Material and Related Work</h2>
+<ul>
+  <li><a href=https://ppasupat.github.io/resource/ACL2015-slides.pdf>Talk Slides (ACL 2015)</a></li>
+  <li><a href=https://ppasupat.github.io/resource/ACL2015-poster.pdf>Poster (Stanford AI workshop)</a></li>
+  <li><a href=http://nlp.stanford.edu/blog/wikitablequestions-a-complex-real-world-question-understanding-dataset/>Blog Post</a></li>
+  <li>(Iyyer et al.) <a href="https://arxiv.org/abs/1611.01242">Microsoft Research Sequential Question Answering (SQA) Dataset</a>.
+    Based on tables and answers from WikiTableQuestions,
+    they collected ~6k question <em>sequences</em>,
+    each containing slightly simpler but inter-related questions.
+    [<a href="https://www.microsoft.com/en-us/download/details.aspx?id=54253">dataset download</a>]
+  </li>
+</ul>
+
+</div>
+</body>
+
+</html>
